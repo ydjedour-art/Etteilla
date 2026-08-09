@@ -26,10 +26,12 @@ import {
   formalityTemplates,
   vaultDocuments as seedVaultDocuments,
 } from "@/lib/mock-data";
+import { computeMissingDocuments } from "@/lib/documents";
 import type {
   AssistantMessage,
   Dossier,
   DossierStatus,
+  Mandate,
   TimelineEvent,
   UserProfile,
   VaultDocument,
@@ -42,6 +44,7 @@ interface AppState {
   dossiers: Dossier[];
   vaultDocuments: VaultDocument[];
   assistantMessages: AssistantMessage[];
+  mandates: Mandate[];
 }
 
 function initialState(): AppState {
@@ -50,6 +53,7 @@ function initialState(): AppState {
     dossiers: seedDossiers,
     vaultDocuments: seedVaultDocuments,
     assistantMessages: seedAssistantMessages,
+    mandates: [],
   };
 }
 
@@ -59,24 +63,8 @@ function emptyState(): AppState {
     dossiers: [],
     vaultDocuments: [],
     assistantMessages: [],
+    mandates: [],
   };
-}
-
-/** Rapproche les pièces requises par une démarche de ce qui est déjà dans le
- * coffre-fort, pour ne jamais redemander ce qu'on a déjà (docs/01-vision-produit.md,
- * principe "zéro jargon, zéro friction"). */
-function computeMissingDocuments(
-  required: string[],
-  vault: VaultDocument[]
-): string[] {
-  return required.filter(
-    (req) =>
-      !vault.some(
-        (doc) =>
-          req.toLowerCase().includes(doc.type.toLowerCase()) ||
-          doc.type.toLowerCase().includes(req.toLowerCase())
-      )
-  );
 }
 
 function pushEvent(
@@ -168,6 +156,8 @@ type Action =
   | { type: "ADD_VAULT_DOCUMENT"; document: Pick<VaultDocument, "type" | "label" | "expiresAt"> }
   | { type: "SET_PLAN"; plan: UserProfile["plan"] }
   | { type: "SEND_ASSISTANT_MESSAGE"; content: string }
+  | { type: "GENERATE_MANDATE"; dossierId: string; scope: string }
+  | { type: "REVOKE_MANDATE"; mandateId: string }
   | { type: "RESET_ACCOUNT" };
 
 function reducer(state: AppState, action: Action): AppState {
@@ -274,6 +264,45 @@ function reducer(state: AppState, action: Action): AppState {
       return { ...state, assistantMessages: [...state.assistantMessages, userMessage, reply] };
     }
 
+    case "GENERATE_MANDATE": {
+      const alreadyActive = state.mandates.some(
+        (m) => m.dossierId === action.dossierId && !m.revokedAt
+      );
+      if (alreadyActive) return state;
+      const now = new Date().toISOString();
+      const mandate: Mandate = {
+        id: `mandat-${Date.now()}`,
+        dossierId: action.dossierId,
+        scope: action.scope,
+        grantedAt: now,
+        revokedAt: null,
+      };
+      const dossiers = state.dossiers.map((dossier) =>
+        dossier.id === action.dossierId
+          ? pushEvent(
+              dossier,
+              "Un mandat de représentation a été généré pour cette démarche.",
+              "utilisateur"
+            )
+          : dossier
+      );
+      return { ...state, mandates: [...state.mandates, mandate], dossiers };
+    }
+
+    case "REVOKE_MANDATE": {
+      const mandate = state.mandates.find((m) => m.id === action.mandateId);
+      if (!mandate) return state;
+      const mandates = state.mandates.map((m) =>
+        m.id === action.mandateId ? { ...m, revokedAt: new Date().toISOString() } : m
+      );
+      const dossiers = state.dossiers.map((dossier) =>
+        dossier.id === mandate.dossierId
+          ? pushEvent(dossier, "Le mandat de représentation a été révoqué.", "utilisateur")
+          : dossier
+      );
+      return { ...state, mandates, dossiers };
+    }
+
     case "RESET_ACCOUNT":
       return emptyState();
 
@@ -289,6 +318,8 @@ interface AppStoreContextValue {
   addVaultDocument: (document: Pick<VaultDocument, "type" | "label" | "expiresAt">) => void;
   setPlan: (plan: UserProfile["plan"]) => void;
   sendAssistantMessage: (content: string) => void;
+  generateMandate: (dossierId: string, scope: string) => void;
+  revokeMandate: (mandateId: string) => void;
   resetAccount: () => void;
   exportData: () => void;
 }
@@ -339,6 +370,14 @@ export function AppStoreProvider({ children }: { children: ReactNode }) {
     (content: string) => dispatch({ type: "SEND_ASSISTANT_MESSAGE", content }),
     []
   );
+  const generateMandate = useCallback(
+    (dossierId: string, scope: string) => dispatch({ type: "GENERATE_MANDATE", dossierId, scope }),
+    []
+  );
+  const revokeMandate = useCallback(
+    (mandateId: string) => dispatch({ type: "REVOKE_MANDATE", mandateId }),
+    []
+  );
   const resetAccount = useCallback(() => dispatch({ type: "RESET_ACCOUNT" }), []);
 
   const exportData = useCallback(() => {
@@ -361,10 +400,23 @@ export function AppStoreProvider({ children }: { children: ReactNode }) {
       addVaultDocument,
       setPlan,
       sendAssistantMessage,
+      generateMandate,
+      revokeMandate,
       resetAccount,
       exportData,
     }),
-    [state, createDossier, advanceDossier, addVaultDocument, setPlan, sendAssistantMessage, resetAccount, exportData]
+    [
+      state,
+      createDossier,
+      advanceDossier,
+      addVaultDocument,
+      setPlan,
+      sendAssistantMessage,
+      generateMandate,
+      revokeMandate,
+      resetAccount,
+      exportData,
+    ]
   );
 
   return <AppStoreContext.Provider value={value}>{children}</AppStoreContext.Provider>;

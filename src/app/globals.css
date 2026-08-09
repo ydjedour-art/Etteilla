@@ -19,6 +19,17 @@ body {
     radial-gradient(35% 45% at 85% 10%, rgba(29, 95, 214, 0.07), transparent 70%);
 }
 
+/* Masque la navigation et les actions non pertinentes à l'impression — utilisé
+ * par la page de mandat de représentation (impression/export PDF navigateur). */
+@media print {
+  .no-print {
+    display: none !important;
+  }
+  body {
+    background: white;
+  }
+}
+
 /* Motif "document officiel" utilisé en attendant une vraie photographie
  * (voir README pour comment remplacer par une photo réelle). */
 .official-photo-placeholder {

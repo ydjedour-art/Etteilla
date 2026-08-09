@@ -63,7 +63,7 @@ export function AppNav() {
   const pathname = usePathname();
 
   return (
-    <nav className="fixed inset-x-0 bottom-0 z-10 border-t border-ink/10 bg-white/95 backdrop-blur sm:sticky sm:top-0 sm:h-screen sm:w-56 sm:border-r sm:border-t-0">
+    <nav className="no-print fixed inset-x-0 bottom-0 z-10 border-t border-ink/10 bg-white/95 backdrop-blur sm:sticky sm:top-0 sm:h-screen sm:w-56 sm:border-r sm:border-t-0">
       <div className="hidden px-6 py-6 sm:block">
         <span className="font-serif text-lg font-semibold text-primary">AdminZen</span>
       </div>

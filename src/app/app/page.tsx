@@ -2,6 +2,7 @@
 
 import Link from "next/link";
 import { DossierCard } from "@/components/DossierCard";
+import { SituationIntake } from "@/components/SituationIntake";
 import { TodayDigest } from "@/components/TodayDigest";
 import { ZenState } from "@/components/ZenState";
 import { formalityTemplates } from "@/lib/mock-data";
@@ -17,6 +18,8 @@ export default function DashboardPage() {
   return (
     <div className="space-y-8">
       <TodayDigest firstName={user.firstName} dossiers={dossiers} />
+
+      <SituationIntake />
 
       <section>
         <div className="flex items-center justify-between">

@@ -3,6 +3,16 @@
 ## Priorisation MoSCoW
 
 ### Must have (V1 — MVP)
+- **Assistant IA de diagnostic** — point d'entrée principal du produit : l'utilisateur
+  décrit sa situation en langage libre (« je viens de déménager », « j'ai perdu mon
+  travail »), l'assistant détecte la ou les démarches concernées et n'affiche que les
+  pièces effectivement manquantes. Le catalogue parcourable reste un accès secondaire
+  (recherche manuelle, exploration), pas le point d'entrée principal. Prototype :
+  appariement par mots-clés (`src/lib/detect.ts`) ; production : Claude + RAG sur le
+  catalogue de démarches (voir `04-architecture-technique.md`).
+- **Génération automatique du mandat de représentation**, à la demande, dès qu'une
+  délégation est nécessaire — document explicite, daté, révocable à tout moment
+  (voir `08-securite-rgpd.md`).
 - Onboarding détection de démarches pertinentes (< 2 min).
 - Tableau de bord « Aujourd'hui » : synthèse calme des dossiers en cours / échéances /
   actions requises.
@@ -12,7 +22,8 @@
 - Rappels d'échéances intelligents (anticipés, non intrusifs, un seul canal choisi par
   l'utilisateur : email ou push).
 - Assistant conversationnel pour traduire le jargon / répondre aux questions sur un
-  dossier (RAG sur base de connaissances administrative + contexte du dossier).
+  dossier (même moteur que l'assistant de diagnostic, RAG sur base de connaissances
+  administrative + contexte du dossier).
 - Espace concierge interne (back-office) permettant à un opérateur humain de traiter
   manuellement les dossiers marqués « à soumettre » tant que les intégrations API
   officielles ne sont pas disponibles (voir `04-architecture-technique.md`).
@@ -44,7 +55,14 @@
 
 ## Catalogue de démarches — périmètre MVP
 
-Sélectionné pour couvrir les 4 personas avec le meilleur rapport fréquence × anxiété.
+> L'ambition produit est de couvrir **tous les actes administratifs** qu'un particulier
+> peut avoir à accomplir en France (voir `01-vision-produit.md`, « Marché cible »). Le
+> MVP démarre volontairement sur un périmètre restreint — mieux vaut 10 démarches
+> impeccables que 100 approximatives — mais le catalogue est structuré (`FormalityTemplate`,
+> voir `06-modele-donnees.md`) pour s'étendre en continu sans changement d'architecture :
+> ajouter une démarche, c'est ajouter une entrée de catalogue, pas développer une
+> fonctionnalité. Sélection initiale ci-dessous, choisie pour le meilleur rapport
+> fréquence × anxiété plutôt que pour coller strictement aux 4 personas d'illustration.
 
 | Démarche | Organisme | Récurrence | Persona clé |
 |---|---|---|---|
@@ -56,6 +74,8 @@ Sélectionné pour couvrir les 4 personas avec le meilleur rapport fréquence ×
 | Changement d'adresse (multi-organismes) | CAF / Impôts / Mutuelle / Assurance | Ponctuelle | Thomas |
 | Renouvellement / affiliation mutuelle | Mutuelle | Annuelle | Tous |
 | Demande d'aide (APA, allocations spécifiques) | Département / CAF | Ponctuelle | Nadia |
+| Inscription après une perte d'emploi | France Travail | Ponctuelle | Tous |
+| Déclarer une naissance (multi-organismes) | CAF / Mairie / CPAM | Ponctuelle | Tous |
 
 Chaque démarche du catalogue est modélisée comme un **`FormalityTemplate`** (voir
 `06-modele-donnees.md`) : description en langage clair, organisme, pièces requises,

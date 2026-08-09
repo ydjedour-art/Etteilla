@@ -66,6 +66,43 @@ d'un principe pragmatique et honnête :
 Cette approche évite de sur-promettre une automatisation totale non tenable à J1, tout
 en tenant la promesse produit (« on s'occupe de tout ») grâce au concierge humain.
 
+## Détection assistée par IA (point d'entrée principal)
+
+Conformément au principe produit « on décrit, on ne cherche pas »
+(`01-vision-produit.md`), l'utilisateur ne parcourt pas un catalogue pour trouver sa
+démarche : il décrit sa situation en langage libre, et le système identifie la ou les
+démarches concernées.
+
+- **Prototype** : appariement par mots-clés (`src/lib/detect.ts`), volontairement
+  simple et déterministe pour valider l'UX sans dépendance à un modèle de langage.
+- **Production** : appel à l'API Claude avec un prompt de classification contraint au
+  catalogue de démarches (`FormalityTemplate`), enrichi par RAG sur une base de
+  connaissance administrative — le modèle retourne une ou plusieurs démarches
+  candidates avec un niveau de confiance, jamais une action exécutée directement sans
+  confirmation utilisateur. Le même moteur sert l'assistant conversationnel de suivi de
+  dossier (une seule brique IA, deux points d'usage).
+- Dans les deux cas, une fois la démarche identifiée, seules les pièces **manquantes**
+  (calculées par rapport au coffre-fort de l'utilisateur, voir `computeMissingDocuments`
+  côté prototype) sont demandées — jamais une liste générique.
+
+## Génération du mandat de représentation
+
+Dès qu'une délégation devient nécessaire (forfait Sérénité, ou action explicite de
+l'utilisateur sur un dossier donné), un mandat est généré automatiquement — pas de
+formulaire séparé à remplir :
+
+- **Prototype** : document HTML formaté généré côté client, imprimable/exportable en
+  PDF via la fonction d'impression du navigateur (`window.print()`), révocable depuis
+  l'interface.
+- **Production** : template de mandat légal versionné (revu juridiquement), rempli
+  automatiquement à partir des données du dossier, avec signature électronique
+  (V1.5, voir `07-roadmap-et-jalons.md`) et archivage probant côté back-end
+  (`Mandate`, voir `06-modele-donnees.md`).
+
+Dans tous les cas, le mandat reste scindé par démarche (jamais un mandat global
+implicite) et révocable à tout moment avec effet immédiat — voir
+`08-securite-rgpd.md`.
+
 ## Back-office concierge (interne)
 
 Application interne (même code base Next.js, route protégée `/ops`, ou app séparée en

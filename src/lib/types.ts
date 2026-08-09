@@ -79,6 +79,15 @@ export interface AssistantMessage {
   createdAt: string;
 }
 
+/** Mandat de représentation généré pour un dossier — voir docs/08-securite-rgpd.md. */
+export interface Mandate {
+  id: string;
+  dossierId: string;
+  scope: string;
+  grantedAt: string; // ISO date
+  revokedAt: string | null;
+}
+
 export interface UserProfile {
   firstName: string;
   status: "Salarié" | "Indépendant" | "Étudiant" | "Sans emploi" | "Retraité";

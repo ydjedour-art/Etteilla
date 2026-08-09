@@ -174,6 +174,11 @@ export default function LandingPage() {
               qui prend en charge votre administratif — pour de vrai, pas juste des
               rappels.
             </p>
+            <p className="mt-3 max-w-lg text-sm text-ink-soft">
+              Simple flemme ou vraie phobie administrative : décrivez votre situation en
+              une phrase, on identifie la démarche et on ne vous demande que le
+              nécessaire.
+            </p>
             <div className="mt-8 flex flex-wrap items-center gap-4">
               <Button href="/onboarding">Je respire, on s&apos;occupe de tout</Button>
               <a

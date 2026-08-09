@@ -17,6 +17,18 @@ Les outils existants (sites des organismes, agrégateurs de documents, simples
 **déchargent** jamais vraiment l'utilisateur. La charge mentale reste entière — c'est
 l'utilisateur qui doit rester vigilant, comprendre, agir et vérifier.
 
+## Marché cible
+
+La cible n'est pas un segment de niche : c'est **quiconque ressent de la phobie
+administrative** — de la simple flemme chronique à l'angoisse paralysante face à un
+courrier officiel. C'est un trait quasi universel en France (un très grand marché),
+pas une caractéristique propre aux seuls expatriés ou indépendants. Les personas
+détaillés dans `02-personas-et-parcours.md` (Léa, Karim, Nadia, Thomas) sont des
+**points d'entrée illustratifs** dans ce marché — pas un plafond de segmentation.
+Le produit vise, à terme, **tous les actes administratifs** qu'un particulier peut
+avoir à accomplir en France, pas uniquement le périmètre de lancement (voir
+`03-fonctionnalites-mvp.md` pour le phasage réaliste de cette ambition).
+
 ## La promesse
 
 > **« On s'occupe de ton administratif. Toi, tu vis. »**
@@ -32,24 +44,30 @@ tout piloter.
 1. **Un seul filet, pas dix apps.** Toutes les démarches (CAF, impôts, URSSAF,
    préfecture, CPAM, mutuelle, changement d'adresse...) vivent au même endroit, avec le
    même langage et la même logique.
-2. **Zéro jargon.** Chaque terme administratif est traduit en langage humain
+2. **On décrit, on ne cherche pas.** L'utilisateur n'a jamais à savoir dans quel
+   organisme ranger son problème ni où cliquer dans un catalogue : il décrit sa
+   situation en une phrase, l'assistant IA détecte la démarche concernée et ne demande
+   que les pièces effectivement manquantes — jamais une liste générique. Le catalogue
+   par organisme reste disponible en secours, pas comme point d'entrée principal.
+3. **Zéro jargon.** Chaque terme administratif est traduit en langage humain
    (« Quotient familial » → « Ce chiffre sert à calculer vos aides, on le met à jour pour
    vous »).
-3. **Le silence est une fonctionnalité.** Tant qu'aucune action n'est requise de
+4. **Le silence est une fonctionnalité.** Tant qu'aucune action n'est requise de
    l'utilisateur, l'app ne le sollicite pas. Pas de notifications anxiogènes « au cas
    où » : uniquement ce qui compte, quand ça compte.
-4. **Toujours dire où on en est.** Une angoisse fréquente est le doute (« est-ce que
+5. **Toujours dire où on en est.** Une angoisse fréquente est le doute (« est-ce que
    c'est parti ? est-ce que c'est bon ? »). Chaque dossier affiche un statut clair et
    rassurant à tout moment.
-5. **Une action à la fois.** Jamais plus d'une décision demandée par écran. Pas de
+6. **Une action à la fois.** Jamais plus d'une décision demandée par écran. Pas de
    formulaires à 40 champs : des questions courtes, une par une, avec pré-remplissage
    dès que l'information est déjà connue.
-6. **La démarche s'intègre à la fin du parcours, jamais en travers.** L'utilisateur ne
+7. **La démarche s'intègre à la fin du parcours, jamais en travers.** L'utilisateur ne
    « fait » pas une démarche : il répond à quelques questions en fin de flux (ex. après
    avoir signalé un déménagement) et AdminZen orchestre tout le reste en tâche de fond.
-7. **Progressive disclosure du contrôle.** Court terme : AdminZen guide et pré-remplit,
-   l'utilisateur valide et transmet. Moyen terme : avec mandat explicite, AdminZen
-   soumet et suit à la place de l'utilisateur (voir `08-securite-rgpd.md`).
+8. **Progressive disclosure du contrôle.** Court terme : AdminZen guide et pré-remplit,
+   l'utilisateur valide et transmet. Moyen terme : avec mandat explicite — généré
+   automatiquement dès qu'il est nécessaire, révocable à tout moment — AdminZen soumet
+   et suit à la place de l'utilisateur (voir `08-securite-rgpd.md`).
 
 ## Ton de voix
 

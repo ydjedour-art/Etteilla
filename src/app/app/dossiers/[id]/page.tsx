@@ -13,6 +13,10 @@ export default function DossierDetailPage({ params }: { params: { id: string } }
   const dossier = state.dossiers.find((d) => d.id === params.id);
   if (!dossier) notFound();
   const template = findTemplateBySlug(dossier.templateSlug);
+  const activeMandate = state.mandates.find(
+    (m) => m.dossierId === dossier.id && !m.revokedAt
+  );
+  const isClosed = dossier.status === "termine" || dossier.status === "refuse";
 
   return (
     <div className="space-y-8">
@@ -94,6 +98,22 @@ export default function DossierDetailPage({ params }: { params: { id: string } }
           <Timeline events={dossier.timeline} />
         </div>
       </section>
+
+      {!isClosed && (
+        <section>
+          <h2 className="text-lg font-semibold text-ink">Mandat de représentation</h2>
+          <p className="mt-1 text-ink-soft">
+            {activeMandate
+              ? "Un mandat est actif : AdminZen peut agir en votre nom sur cette démarche."
+              : "Autorisez AdminZen à préparer et transmettre cette démarche en votre nom. Le document est généré automatiquement, et reste révocable à tout moment."}
+          </p>
+          <div className="mt-3">
+            <Button href={`/app/dossiers/${dossier.id}/mandat`} variant="secondary">
+              {activeMandate ? "Voir mon mandat" : "Générer mon mandat de représentation"}
+            </Button>
+          </div>
+        </section>
+      )}
 
       <section>
         <h2 className="text-lg font-semibold text-ink">Besoin d&apos;aide ?</h2>

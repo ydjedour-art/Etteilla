@@ -155,6 +155,39 @@ export const formalityTemplates: FormalityTemplate[] = [
       { title: "Déposer la demande", description: "Suivi jusqu'à la décision." },
     ],
   },
+  {
+    slug: "perte-emploi-france-travail",
+    name: "Inscription après une perte d'emploi",
+    organisme: "France Travail (ex-Pôle emploi)",
+    category: "Vie quotidienne",
+    description:
+      "Perdre son emploi suffit comme épreuve : on prépare l'inscription et la demande d'allocations pour que vous ne perdiez ni temps ni droits.",
+    recurrence: "ponctuelle",
+    estimatedDurationMinutes: 10,
+    automationLevel: "guide",
+    requiredDocuments: ["Pièce d'identité", "RIB", "Certificat de travail ou attestation employeur"],
+    steps: [
+      { title: "Vérifier les pièces requises", description: "On vous dit exactement ce qu'il faut, rien de plus." },
+      { title: "Constituer le dossier d'inscription", description: "Prêt à déposer, avec le calcul estimé de vos droits." },
+      { title: "Suivre la demande d'allocations", description: "On vous prévient à chaque étape importante." },
+    ],
+  },
+  {
+    slug: "naissance-enfant",
+    name: "Déclarer une naissance",
+    organisme: "CAF · Mairie · CPAM",
+    category: "Vie quotidienne",
+    description:
+      "Une naissance déclenche plusieurs démarches en même temps : on les regroupe et on les déclenche pour vous en une fois.",
+    recurrence: "ponctuelle",
+    estimatedDurationMinutes: 5,
+    automationLevel: "delegue",
+    requiredDocuments: ["Acte de naissance", "Livret de famille"],
+    steps: [
+      { title: "Confirmer les informations de l'enfant", description: "Une seule saisie pour tous les organismes." },
+      { title: "On met à jour chaque organisme", description: "CAF, mairie, CPAM, mutuelle." },
+    ],
+  },
 ];
 
 export const dossiers: Dossier[] = [
