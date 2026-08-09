@@ -76,15 +76,15 @@ export default function DossierDetailPage({ params }: { params: { id: string } }
           </p>
           <div className="mt-4">
             <Button type="button" variant="secondary" onClick={() => advanceDossier(dossier.id)}>
-              🔧 Simuler la suite du parcours (démo)
+              Mode démonstration : voir la suite du parcours
             </Button>
           </div>
         </div>
       )}
 
       {dossier.status === "termine" && (
-        <div className="rounded-2xl bg-primary-light p-5">
-          <p className="font-medium text-primary">C&apos;est fait, rien d&apos;autre à faire.</p>
+        <div className="rounded-2xl bg-success/10 p-5">
+          <p className="font-medium text-success">C&apos;est fait, rien d&apos;autre à faire.</p>
         </div>
       )}
 

@@ -7,17 +7,32 @@ html {
 }
 
 body {
-  background-color: #f5f5f8;
-  color: #201f26;
+  background-color: #f7f7f5;
+  color: #14181f;
 }
 
-/* Halo dégradé discret pour la landing — rose bonbon / bleu Klein / jaune citron,
- * palette "dynamique" (docs/05-design-system.md). */
+/* Halo dégradé discret pour la landing — bleu marine institutionnel, palette
+ * "confiance officielle" (docs/05-design-system.md). */
 .hero-glow {
   background:
-    radial-gradient(40% 50% at 15% 10%, rgba(219, 39, 119, 0.16), transparent 70%),
-    radial-gradient(35% 45% at 85% 15%, rgba(0, 47, 167, 0.12), transparent 70%),
-    radial-gradient(30% 35% at 50% 100%, rgba(181, 137, 0, 0.14), transparent 70%);
+    radial-gradient(45% 55% at 20% 0%, rgba(15, 44, 89, 0.08), transparent 70%),
+    radial-gradient(35% 45% at 85% 10%, rgba(29, 95, 214, 0.07), transparent 70%);
+}
+
+/* Motif "document officiel" utilisé en attendant une vraie photographie
+ * (voir README pour comment remplacer par une photo réelle). */
+.official-photo-placeholder {
+  background:
+    linear-gradient(155deg, #0f2c59 0%, #163a70 55%, #1d5fd6 100%);
+  position: relative;
+  overflow: hidden;
+}
+.official-photo-placeholder::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image: radial-gradient(rgba(255, 255, 255, 0.08) 1px, transparent 1px);
+  background-size: 18px 18px;
 }
 
 /* Cible tactile confortable par défaut pour un public parfois fatigué / peu à l'aise

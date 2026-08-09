@@ -236,7 +236,7 @@ export const assistantConversation: AssistantMessage[] = [
     id: "m1",
     sender: "assistant_ia",
     content:
-      "Bonjour Léa 👋 Je suis là pour t'aider à y voir clair. Tu peux me poser n'importe quelle question sur tes démarches en cours.",
+      "Bonjour Léa. Je suis là pour t'aider à y voir clair. Tu peux me poser n'importe quelle question sur tes démarches en cours.",
     createdAt: "2026-08-08T10:00:00Z",
   },
   {

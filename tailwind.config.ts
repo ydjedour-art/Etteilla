@@ -9,21 +9,25 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        // Rose bonbon (marque/CTA), bleu Klein (accent), jaune citron (attention),
-        // sur une base grise neutre — palette "dynamique" (docs/05-design-system.md).
+        // Palette "confiance officielle" : bleu marine institutionnel (marque/CTA),
+        // bleu plus clair en accent, or discret pour l'attention, vert pour le
+        // succès — inspirée des codes visuels des services officiels et des
+        // marques de confiance (assurance, immigration). Voir docs/05-design-system.md.
         primary: {
-          DEFAULT: "#DB2777",
-          light: "#FCE7F3",
-          dark: "#9D174D",
+          DEFAULT: "#0F2C59",
+          light: "#E8EDF6",
+          dark: "#081A38",
         },
-        surface: "#F5F5F8",
+        surface: "#F7F7F5",
         ink: {
-          DEFAULT: "#201F26",
-          soft: "#6B6975",
+          DEFAULT: "#14181F",
+          soft: "#5B6270",
         },
-        accent: "#002FA7",
-        attention: "#B58900",
-        critical: "#D93025",
+        accent: "#1D5FD6",
+        attention: "#9C6B00",
+        success: "#0F7A4C",
+        critical: "#B91C1C",
+        gold: "#B8860B",
       },
       fontFamily: {
         sans: [
@@ -32,6 +36,16 @@ const config: Config = {
           "system-ui",
           "-apple-system",
           "sans-serif",
+        ],
+        // Empilement serif natif (pas de dépendance réseau à une webfont) pour les
+        // titres — registre plus "éditorial / officiel" que le sans-serif seul.
+        serif: [
+          "ui-serif",
+          "Georgia",
+          "Cambria",
+          '"Times New Roman"',
+          "Times",
+          "serif",
         ],
       },
       borderRadius: {

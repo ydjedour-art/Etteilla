@@ -59,7 +59,7 @@ export default function CoffreFortPage() {
       </div>
 
       {confirmation && (
-        <div className="rounded-2xl bg-primary-light p-4 text-sm font-medium text-primary">
+        <div className="rounded-2xl bg-success/10 p-4 text-sm font-medium text-success">
           ✓ {confirmation}
         </div>
       )}

@@ -97,7 +97,7 @@ export const STATUS_LABELS: Record<DossierStatus, string> = {
 };
 
 /** Couleurs Tailwind associées à chaque statut, cf. docs/05-design-system.md
- * (jamais de rouge vif, l'ambre porte l'attention). */
+ * (jamais de rouge vif hors blocage réel, l'or porte l'attention). */
 export const STATUS_STYLES: Record<DossierStatus, string> = {
   a_demarrer: "bg-ink-soft/10 text-ink-soft",
   infos_manquantes: "bg-attention/15 text-attention",
@@ -105,6 +105,6 @@ export const STATUS_STYLES: Record<DossierStatus, string> = {
   soumis: "bg-accent/15 text-accent",
   en_attente_administration: "bg-accent/15 text-accent",
   action_requise: "bg-attention/15 text-attention",
-  termine: "bg-primary/15 text-primary",
+  termine: "bg-success/15 text-success",
   refuse: "bg-critical/15 text-critical",
 };

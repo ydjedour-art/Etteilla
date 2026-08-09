@@ -15,8 +15,8 @@ export function TodayDigest({
 
   if (actionRequired.length === 0) {
     return (
-      <div className="rounded-2xl bg-primary-light p-6">
-        <p className="text-sm font-medium text-primary">Bonjour {firstName} 🌿</p>
+      <div className="rounded-2xl bg-success/10 p-6">
+        <p className="text-sm font-medium text-success">Bonjour {firstName}</p>
         <p className="mt-2 text-xl font-semibold text-ink">
           Tout est sous contrôle.
         </p>
@@ -29,7 +29,7 @@ export function TodayDigest({
 
   return (
     <div className="rounded-2xl bg-attention/10 p-6">
-      <p className="text-sm font-medium text-attention">Bonjour {firstName} 🌿</p>
+      <p className="text-sm font-medium text-attention">Bonjour {firstName}</p>
       <p className="mt-2 text-xl font-semibold text-ink">
         {actionRequired.length === 1
           ? "Une action vous attend, ça prend 2 minutes."

@@ -34,8 +34,24 @@ automatiquement une démarche, faire avancer un statut, changer de formule, expo
 supprimer ses données) sans nécessiter de back-end. C'est un outil de validation UX, pas
 encore la version connectée aux vraies administrations (voir `docs/04-architecture-technique.md`).
 
-Palette dynamique : rose bonbon (`#DB2777`) + bleu Klein (`#002FA7`) + jaune citron
-(`#B58900`) sur une base grise neutre (`docs/05-design-system.md`).
+Direction visuelle « confiance officielle » : bleu marine (`#0F2C59`) + bleu accent
+(`#1D5FD6`) + or discret (`#9C6B00`/`#B8860B`) sur une base grise neutre, typographie
+serif éditoriale pour les titres — inspirée des marques de confiance de l'administratif
+(`docs/05-design-system.md`).
+
+### 📸 Ajouter de vraies photos
+
+La landing page réserve des emplacements photo (fond dégradé marine avec trame de
+points, classe `.official-photo-placeholder` dans `src/app/globals.css`). Pour les
+remplacer par une vraie photo :
+
+1. Dépose ton fichier dans `public/photos/` (ex. `public/photos/hero.jpg`).
+2. Dans `src/app/page.tsx`, remplace le `<div className="official-photo-placeholder" ... />`
+   concerné par :
+   ```tsx
+   <img src="/photos/hero.jpg" alt="…" className="h-full w-full rounded-2xl object-cover shadow-xl" />
+   ```
+3. Redéploie (Vercel republie automatiquement au push).
 
 ```bash
 npm install

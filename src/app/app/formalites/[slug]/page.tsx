@@ -13,6 +13,32 @@ const RECURRENCE_LABELS: Record<string, string> = {
   pluriannuelle: "Tous les quelques années",
 };
 
+function ClockIcon() {
+  return (
+    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden>
+      <circle cx="12" cy="12" r="9" />
+      <path d="M12 7v5l3.5 2" strokeLinecap="round" strokeLinejoin="round" />
+    </svg>
+  );
+}
+
+function RepeatIcon() {
+  return (
+    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden>
+      <path d="M4 7h13l-3-3M20 17H7l3 3" strokeLinecap="round" strokeLinejoin="round" />
+    </svg>
+  );
+}
+
+function DocIcon() {
+  return (
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.75" className="shrink-0 text-ink-soft" aria-hidden>
+      <path d="M7 3h7l4 4v14H7V3Z" strokeLinejoin="round" />
+      <path d="M14 3v4h4" strokeLinejoin="round" />
+    </svg>
+  );
+}
+
 export default function FormaliteDetailPage({
   params,
 }: {
@@ -46,11 +72,11 @@ export default function FormaliteDetailPage({
       </div>
 
       <div className="flex flex-wrap gap-3 text-sm">
-        <span className="rounded-full bg-primary-light px-3 py-1.5 font-medium text-primary">
-          ⏱ {template.estimatedDurationMinutes} min de votre temps
+        <span className="inline-flex items-center gap-1.5 rounded-full bg-primary-light px-3 py-1.5 font-medium text-primary">
+          <ClockIcon /> {template.estimatedDurationMinutes} min de votre temps
         </span>
-        <span className="rounded-full bg-accent/10 px-3 py-1.5 font-medium text-accent">
-          🔁 {RECURRENCE_LABELS[template.recurrence]}
+        <span className="inline-flex items-center gap-1.5 rounded-full bg-accent/10 px-3 py-1.5 font-medium text-accent">
+          <RepeatIcon /> {RECURRENCE_LABELS[template.recurrence]}
         </span>
       </div>
 
@@ -63,7 +89,7 @@ export default function FormaliteDetailPage({
                 key={doc}
                 className="flex items-center gap-2 rounded-xl bg-white px-4 py-3 text-ink border border-ink/10"
               >
-                <span aria-hidden>📄</span>
+                <DocIcon />
                 {doc}
               </li>
             ))}
