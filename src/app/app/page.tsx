@@ -22,9 +22,12 @@ export default function DashboardPage() {
       <SituationIntake />
 
       <section>
-        <div className="flex items-center justify-between">
+        <div className="flex flex-wrap items-baseline justify-between gap-x-4 gap-y-1">
           <h2 className="text-lg font-semibold text-ink">Vos démarches en cours</h2>
-          <Link href="/app/formalites" className="text-sm font-medium text-primary">
+          <Link
+            href="/app/formalites"
+            className="whitespace-nowrap text-sm font-medium text-primary"
+          >
             Voir toutes les démarches
           </Link>
         </div>

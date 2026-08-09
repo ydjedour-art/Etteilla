@@ -67,7 +67,9 @@ export function AppNav() {
       <div className="hidden px-6 py-6 sm:block">
         <span className="font-serif text-lg font-semibold text-primary">Sérénio</span>
       </div>
-      <ul className="flex justify-around sm:flex-col sm:gap-1 sm:px-4">
+      {/* pb-[env(safe-area-inset-bottom)] : évite que la barre passe sous l'indicateur
+          d'accueil des iPhone récents. */}
+      <ul className="flex justify-around pb-[env(safe-area-inset-bottom)] sm:flex-col sm:gap-1 sm:px-4 sm:pb-0">
         {LINKS.map((link) => {
           const active =
             link.href === "/app"
@@ -77,7 +79,7 @@ export function AppNav() {
             <li key={link.href} className="flex-1 sm:flex-none">
               <Link
                 href={link.href}
-                className={`flex flex-col items-center gap-0.5 rounded-xl px-3 py-2.5 text-xs font-medium sm:flex-row sm:gap-3 sm:text-sm ${
+                className={`flex flex-col items-center gap-0.5 whitespace-nowrap rounded-xl px-1 py-2.5 text-[11px] font-medium sm:flex-row sm:gap-3 sm:px-3 sm:text-sm ${
                   active
                     ? "text-primary sm:bg-primary-light"
                     : "text-ink-soft hover:text-ink"
