@@ -1,0 +1,62 @@
+import Link from "next/link";
+import { DossierCard } from "@/components/DossierCard";
+import { TodayDigest } from "@/components/TodayDigest";
+import { ZenState } from "@/components/ZenState";
+import { getCurrentUser, getDossiers, getFormalityTemplates } from "@/lib/data";
+
+export default async function DashboardPage() {
+  const [user, dossiers, templates] = await Promise.all([
+    getCurrentUser(),
+    getDossiers(),
+    getFormalityTemplates(),
+  ]);
+
+  const active = dossiers.filter((d) => d.status !== "termine");
+  const done = dossiers.filter((d) => d.status === "termine");
+
+  return (
+    <div className="space-y-8">
+      <TodayDigest firstName={user.firstName} dossiers={dossiers} />
+
+      <section>
+        <div className="flex items-center justify-between">
+          <h2 className="text-lg font-semibold text-ink">Vos démarches en cours</h2>
+          <Link href="/app/formalites" className="text-sm font-medium text-primary">
+            Voir toutes les démarches
+          </Link>
+        </div>
+
+        <div className="mt-4 space-y-3">
+          {active.length === 0 && (
+            <ZenState
+              title="Aucune démarche en cours"
+              description="Dès qu'une échéance approchera, on préparera le dossier pour vous."
+            />
+          )}
+          {active.map((dossier) => (
+            <DossierCard
+              key={dossier.id}
+              dossier={dossier}
+              template={templates.find((t) => t.slug === dossier.templateSlug)}
+            />
+          ))}
+        </div>
+      </section>
+
+      {done.length > 0 && (
+        <section>
+          <h2 className="text-lg font-semibold text-ink">Terminées récemment</h2>
+          <div className="mt-4 space-y-3">
+            {done.map((dossier) => (
+              <DossierCard
+                key={dossier.id}
+                dossier={dossier}
+                template={templates.find((t) => t.slug === dossier.templateSlug)}
+              />
+            ))}
+          </div>
+        </section>
+      )}
+    </div>
+  );
+}

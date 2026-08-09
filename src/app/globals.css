@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #fbfaf7;
+  color: #1f2a27;
+}
+
+/* Cible tactile confortable par défaut pour un public parfois fatigué / peu à l'aise
+   avec le numérique (docs/05-design-system.md). */
+button,
+a {
+  -webkit-tap-highlight-color: transparent;
+}

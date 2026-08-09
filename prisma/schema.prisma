@@ -1,0 +1,302 @@
+// Schéma de données CIBLE pour le back-end de production d'AdminZen.
+// Voir docs/06-modele-donnees.md pour la lecture fonctionnelle de ce schéma.
+//
+// Non branché sur le prototype front-end (src/) : le prototype utilise des données
+// simulées (src/lib/mock-data.ts) en attendant l'implémentation du back-end réel.
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// ---------------------------------------------------------------------------
+// Comptes & profils
+// ---------------------------------------------------------------------------
+
+model User {
+  id                String    @id @default(cuid())
+  email             String    @unique
+  phone             String?
+  createdAt         DateTime  @default(now())
+  updatedAt         DateTime  @updatedAt
+  notificationChannel NotificationChannel @default(EMAIL)
+  locale            String    @default("fr")
+
+  profiles          Profile[]
+  subscription      Subscription?
+  auditLogs         AuditLog[]
+}
+
+/// Une personne pour laquelle des démarches sont suivies : l'utilisateur lui-même
+/// par défaut, ou un proche aidé (cas d'usage "aidant familial").
+model Profile {
+  id              String    @id @default(cuid())
+  userId          String
+  user            User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  displayName     String
+  relationship    ProfileRelationship @default(SELF)
+  status          LifeStatus @default(SALARIE)
+  familySituation String?
+  address         String?
+  countryOfOrigin String?
+  createdAt       DateTime  @default(now())
+  updatedAt       DateTime  @updatedAt
+
+  documents       Document[]
+  dossiers        Dossier[]
+}
+
+enum ProfileRelationship {
+  SELF
+  PARENT
+  ENFANT
+  CONJOINT
+  AUTRE
+}
+
+enum LifeStatus {
+  SALARIE
+  INDEPENDANT
+  ETUDIANT
+  SANS_EMPLOI
+  RETRAITE
+}
+
+enum NotificationChannel {
+  EMAIL
+  PUSH
+  SMS
+}
+
+// ---------------------------------------------------------------------------
+// Coffre-fort de documents
+// ---------------------------------------------------------------------------
+
+model Document {
+  id            String       @id @default(cuid())
+  profileId     String
+  profile       Profile      @relation(fields: [profileId], references: [id], onDelete: Cascade)
+  type          DocumentType
+  label         String
+  storageKey    String       // référence chiffrée vers l'object storage (jamais l'URL publique)
+  expiresAt     DateTime?
+  uploadedAt    DateTime     @default(now())
+  validityStatus DocumentValidityStatus @default(VALIDE)
+
+  dossierDocuments DossierDocument[]
+}
+
+enum DocumentType {
+  CNI
+  PASSEPORT
+  TITRE_SEJOUR
+  AVIS_IMPOSITION
+  RIB
+  JUSTIFICATIF_DOMICILE
+  CARTE_VITALE
+  AUTRE
+}
+
+enum DocumentValidityStatus {
+  VALIDE
+  EXPIRE_BIENTOT
+  EXPIRE
+  A_VERIFIER
+}
+
+// ---------------------------------------------------------------------------
+// Catalogue de démarches (contenu géré indépendamment du code)
+// ---------------------------------------------------------------------------
+
+model FormalityTemplate {
+  id                  String   @id @default(cuid())
+  slug                String   @unique
+  name                String
+  organisme           String
+  category            String
+  description         String
+  recurrence          Recurrence
+  estimatedDurationMinutes Int
+  automationLevel     AutomationLevel @default(GUIDE)
+  requiredDocumentTypes DocumentType[]
+  steps               Json     // liste d'étapes structurées { title, description }[]
+
+  dossiers            Dossier[]
+}
+
+enum Recurrence {
+  PONCTUELLE
+  MENSUELLE
+  TRIMESTRIELLE
+  ANNUELLE
+  PLURIANNUELLE
+}
+
+enum AutomationLevel {
+  GUIDE           // l'utilisateur exécute lui-même, AdminZen prépare
+  PRE_REMPLI      // AdminZen pré-remplit, l'utilisateur soumet en un clic
+  DELEGUE         // AdminZen soumet pour le compte de l'utilisateur (mandat requis)
+}
+
+// ---------------------------------------------------------------------------
+// Dossiers (instances de démarches)
+// ---------------------------------------------------------------------------
+
+model Dossier {
+  id            String   @id @default(cuid())
+  profileId     String
+  profile       Profile  @relation(fields: [profileId], references: [id], onDelete: Cascade)
+  templateId    String
+  template      FormalityTemplate @relation(fields: [templateId], references: [id])
+  status        DossierStatus @default(A_DEMARRER)
+  deadline      DateTime?
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+
+  assignedAgentId String?
+  assignedAgent   ConciergeAgent? @relation(fields: [assignedAgentId], references: [id])
+
+  mandate       Mandate?
+  documents     DossierDocument[]
+  timelineEvents TimelineEvent[]
+  messages      Message[]
+  notifications Notification[]
+}
+
+enum DossierStatus {
+  A_DEMARRER
+  INFOS_MANQUANTES
+  PRET_A_SOUMETTRE
+  SOUMIS
+  EN_ATTENTE_ADMINISTRATION
+  ACTION_REQUISE
+  TERMINE
+  REFUSE
+}
+
+/// Table de liaison entre un dossier et les documents utilisés pour le constituer.
+model DossierDocument {
+  id         String   @id @default(cuid())
+  dossierId  String
+  dossier    Dossier  @relation(fields: [dossierId], references: [id], onDelete: Cascade)
+  documentId String
+  document   Document @relation(fields: [documentId], references: [id])
+
+  @@unique([dossierId, documentId])
+}
+
+model TimelineEvent {
+  id        String   @id @default(cuid())
+  dossierId String
+  dossier   Dossier  @relation(fields: [dossierId], references: [id], onDelete: Cascade)
+  message   String   // toujours rédigé en langage humain
+  actor     EventActor
+  createdAt DateTime @default(now())
+}
+
+enum EventActor {
+  SYSTEME
+  UTILISATEUR
+  CONCIERGE
+  ASSISTANT_IA
+}
+
+// ---------------------------------------------------------------------------
+// Notifications & messagerie
+// ---------------------------------------------------------------------------
+
+model Notification {
+  id           String   @id @default(cuid())
+  userId       String
+  dossierId    String?
+  dossier      Dossier? @relation(fields: [dossierId], references: [id])
+  title        String
+  body         String
+  scheduledFor DateTime
+  sentAt       DateTime?
+  read         Boolean  @default(false)
+}
+
+model Message {
+  id         String   @id @default(cuid())
+  dossierId  String?
+  dossier    Dossier? @relation(fields: [dossierId], references: [id])
+  sender     MessageSender
+  content    String
+  createdAt  DateTime @default(now())
+}
+
+enum MessageSender {
+  UTILISATEUR
+  ASSISTANT_IA
+  CONCIERGE
+}
+
+// ---------------------------------------------------------------------------
+// Mandat de représentation & abonnement
+// ---------------------------------------------------------------------------
+
+/// Mandat explicite autorisant AdminZen à agir pour le compte de l'utilisateur sur
+/// un dossier donné. Voir docs/08-securite-rgpd.md.
+model Mandate {
+  id          String   @id @default(cuid())
+  dossierId   String   @unique
+  dossier     Dossier  @relation(fields: [dossierId], references: [id], onDelete: Cascade)
+  grantedAt   DateTime @default(now())
+  revokedAt   DateTime?
+  scope       String   // description précise de ce qui est délégué
+}
+
+model Subscription {
+  id        String   @id @default(cuid())
+  userId    String   @unique
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  plan      SubscriptionPlan @default(VIGILANCE)
+  renewsAt  DateTime?
+  status    SubscriptionStatus @default(ACTIVE)
+}
+
+enum SubscriptionPlan {
+  VIGILANCE   // gratuit
+  ESSENTIEL   // pré-remplissage
+  SERENITE    // délégation complète
+}
+
+enum SubscriptionStatus {
+  ACTIVE
+  PAST_DUE
+  CANCELLED
+}
+
+// ---------------------------------------------------------------------------
+// Back-office concierge & audit
+// ---------------------------------------------------------------------------
+
+model ConciergeAgent {
+  id        String    @id @default(cuid())
+  email     String    @unique
+  name      String
+  active    Boolean   @default(true)
+
+  dossiers  Dossier[]
+}
+
+/// Trace immuable de tout accès à une donnée sensible — exigence RGPD.
+/// `actorId` référence soit un `User.id`, soit un `ConciergeAgent.id` selon `actorType`
+/// (journal polymorphe volontairement découplé d'une FK stricte pour ne pas coupler
+/// le journal d'audit au cycle de vie des comptes qu'il trace).
+model AuditLog {
+  id           String     @id @default(cuid())
+  actorId      String
+  actorType    EventActor
+  action       String     // ex. "VIEW_DOCUMENT", "SUBMIT_DOSSIER"
+  resourceType String
+  resourceId   String
+  createdAt    DateTime   @default(now())
+
+  user         User?      @relation(fields: [actorId], references: [id], map: "AuditLog_user_fk")
+}
