@@ -37,7 +37,7 @@ export default function LandingPage() {
         </Button>
       </header>
 
-      <section className="mx-auto max-w-marketing px-6 py-16 text-center sm:py-24">
+      <section className="hero-glow mx-auto max-w-marketing px-6 py-16 text-center sm:py-24">
         <h1 className="mx-auto max-w-2xl text-4xl font-semibold leading-tight text-ink sm:text-5xl">
           On s&apos;occupe de ton administratif.
           <br />

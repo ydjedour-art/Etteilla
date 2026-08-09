@@ -5,31 +5,43 @@
 Le public cible est fatigué, parfois anxieux. Le design doit **abaisser** la charge
 cognitive et émotionnelle à chaque écran :
 
-1. **Calme visuel** : beaucoup d'espace blanc, peu d'éléments par écran, hiérarchie
-   typographique nette.
+1. **Calme structurel, énergie colorée.** L'espace, la hiérarchie typographique et le
+   rythme restent sobres (un seul sujet par écran) ; c'est la couleur qui porte la
+   personnalité dynamique de la marque, pas la densité d'éléments.
 2. **Une seule action primaire par écran.** Les actions secondaires sont visuellement
    discrètes.
 3. **Feedback constant et rassurant.** Aucun écran ne doit laisser l'utilisateur dans
    le doute sur « est-ce que ça a marché ? ».
-4. **Pas de rouge agressif.** Les états d'alerte utilisent un ambre chaud, jamais un
-   rouge d'urgence médicale — sauf action réellement bloquante à très court délai.
+4. **La couleur d'alerte reste dorée, jamais rouge d'urgence.** Le rouge critique est
+   réservé aux blocages réels, à très faible fréquence d'apparition.
 5. **Micro-copy > iconographie seule.** Chaque icône est accompagnée d'un texte clair.
 6. **Accessibilité par défaut** : contraste AA minimum, tailles de police ≥ 16px,
    cibles tactiles ≥ 44px, navigation clavier complète, support lecteur d'écran.
 
 ## Palette de couleurs
 
+Palette « dynamique » — rose bonbon, bleu Klein et jaune citron sur une base grise
+neutre : la vivacité de la marque contraste volontairement avec le calme du reste de
+l'interface (principe n°1 ci-dessus), plutôt que de tout aplatir sur une seule teinte
+douce. Chaque couleur vive reste utilisée avec parcimonie (CTA, statut, accent) pour ne
+pas recréer de bruit visuel chez un public déjà fatigué.
+
 | Rôle | Couleur | Usage |
 |---|---|---|
-| Primaire | `#2F6B5E` (sauge profond) | CTA principaux, éléments de marque |
-| Primaire clair | `#E8F2EE` | Fonds de cartes, surfaces primaires douces |
-| Fond principal | `#FBFAF7` (blanc cassé chaud) | Fond d'application |
-| Texte principal | `#1F2A27` | Texte de contenu |
-| Texte secondaire | `#5B6B66` | Métadonnées, aide contextuelle |
-| Accent | `#3E7CB1` (bleu doux) | Liens, informations neutres |
-| Attention | `#C98A3B` (ambre chaud) | Action requise, échéance proche — jamais rouge |
-| Succès | `#2F6B5E` | Dossier terminé (réutilise le primaire : « c'est fait » = « c'est AdminZen ») |
-| Erreur critique | `#B3543F` (terracotta, pas un rouge vif) | Blocage réel uniquement |
+| Primaire | `#DB2777` (rose bonbon) | CTA principaux, éléments de marque |
+| Primaire clair | `#FCE7F3` | Fonds de cartes, surfaces primaires douces |
+| Primaire foncé | `#9D174D` | États hover/actifs |
+| Fond principal | `#F5F5F8` (gris clair neutre) | Fond d'application |
+| Texte principal | `#201F26` | Texte de contenu |
+| Texte secondaire | `#6B6975` | Métadonnées, aide contextuelle |
+| Accent | `#002FA7` (bleu Klein) | Liens, informations neutres, badges secondaires |
+| Attention | `#B58900` (jaune citron foncé) | Action requise, échéance proche — jamais rouge |
+| Succès | `#DB2777` | Dossier terminé (réutilise le primaire : « c'est fait » = « c'est AdminZen ») |
+| Erreur critique | `#D93025` (rouge) | Blocage réel uniquement, très faible fréquence |
+
+Les teintes « pleines » (`#DB2777`, `#002FA7`, `#B58900` bruts) sont réservées au texte
+et aux icônes ; les fonds de badges/cartes utilisent systématiquement ces mêmes
+couleurs à faible opacité (10-15 %) pour garder un fond globalement neutre.
 
 ## Typographie
 

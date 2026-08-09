@@ -9,19 +9,21 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
+        // Rose bonbon (marque/CTA), bleu Klein (accent), jaune citron (attention),
+        // sur une base grise neutre — palette "dynamique" (docs/05-design-system.md).
         primary: {
-          DEFAULT: "#2F6B5E",
-          light: "#E8F2EE",
-          dark: "#234F45",
+          DEFAULT: "#DB2777",
+          light: "#FCE7F3",
+          dark: "#9D174D",
         },
-        surface: "#FBFAF7",
+        surface: "#F5F5F8",
         ink: {
-          DEFAULT: "#1F2A27",
-          soft: "#5B6B66",
+          DEFAULT: "#201F26",
+          soft: "#6B6975",
         },
-        accent: "#3E7CB1",
-        attention: "#C98A3B",
-        critical: "#B3543F",
+        accent: "#002FA7",
+        attention: "#B58900",
+        critical: "#D93025",
       },
       fontFamily: {
         sans: [

@@ -27,8 +27,15 @@ démarrer l'implémentation.
 ## 🖥️ Prototype cliquable
 
 Un prototype front-end (Next.js + TypeScript + Tailwind) implémente les écrans clés du
-parcours utilisateur avec des données simulées (`src/lib/mock-data.ts`), afin de valider
-l'UX avant de brancher le vrai back-end.
+parcours utilisateur, avec des données de démonstration (`src/lib/mock-data.ts`) et un
+état client interactif (`src/lib/store.tsx`, persisté en `localStorage`) : les boutons
+produisent un vrai effet (créer un dossier, ajouter un document qui débloque
+automatiquement une démarche, faire avancer un statut, changer de formule, exporter ou
+supprimer ses données) sans nécessiter de back-end. C'est un outil de validation UX, pas
+encore la version connectée aux vraies administrations (voir `docs/04-architecture-technique.md`).
+
+Palette dynamique : rose bonbon (`#DB2777`) + bleu Klein (`#002FA7`) + jaune citron
+(`#B58900`) sur une base grise neutre (`docs/05-design-system.md`).
 
 ```bash
 npm install

@@ -1,6 +1,9 @@
-import { notFound } from "next/navigation";
+"use client";
+
+import { notFound, useRouter } from "next/navigation";
 import { Button } from "@/components/Button";
-import { getFormalityTemplate } from "@/lib/data";
+import { findTemplateBySlug } from "@/lib/mock-data";
+import { useAppStore } from "@/lib/store";
 
 const RECURRENCE_LABELS: Record<string, string> = {
   ponctuelle: "Ponctuelle",
@@ -10,13 +13,29 @@ const RECURRENCE_LABELS: Record<string, string> = {
   pluriannuelle: "Tous les quelques années",
 };
 
-export default async function FormaliteDetailPage({
+export default function FormaliteDetailPage({
   params,
 }: {
   params: { slug: string };
 }) {
-  const template = await getFormalityTemplate(params.slug);
+  const router = useRouter();
+  const { state, createDossier } = useAppStore();
+  const template = findTemplateBySlug(params.slug);
   if (!template) notFound();
+
+  const existing = state.dossiers.find(
+    (d) => d.templateSlug === params.slug && d.status !== "termine" && d.status !== "refuse"
+  );
+
+  function handleLaunch() {
+    if (existing) {
+      router.push(`/app/dossiers/${existing.id}`);
+      return;
+    }
+    createDossier(params.slug);
+    // Le nouveau dossier vient d'être ajouté en tête de liste dans le store.
+    router.push("/app");
+  }
 
   return (
     <div className="space-y-8">
@@ -69,7 +88,9 @@ export default async function FormaliteDetailPage({
         </ol>
       </section>
 
-      <Button href="/app">Lancer cette démarche</Button>
+      <Button type="button" onClick={handleLaunch}>
+        {existing ? "Voir ma démarche en cours" : "Lancer cette démarche"}
+      </Button>
     </div>
   );
 }

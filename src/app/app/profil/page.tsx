@@ -1,7 +1,10 @@
-import { Button } from "@/components/Button";
-import { getCurrentUser } from "@/lib/data";
+"use client";
 
-const PLANS = [
+import { useRouter } from "next/navigation";
+import { useAppStore } from "@/lib/store";
+import type { UserProfile } from "@/lib/types";
+
+const PLANS: { name: UserProfile["plan"]; price: string; description: string }[] = [
   {
     name: "Vigilance",
     price: "Gratuit",
@@ -17,30 +20,48 @@ const PLANS = [
     price: "19,90€/mois",
     description: "AdminZen soumet et suit vos démarches de bout en bout pour vous.",
   },
-] as const;
+];
 
-export default async function ProfilPage() {
-  const user = await getCurrentUser();
+export default function ProfilPage() {
+  const router = useRouter();
+  const { state, setPlan, exportData, resetAccount } = useAppStore();
+  const { user } = state;
+
+  function handleDelete() {
+    const confirmed = window.confirm(
+      "Supprimer votre compte et toutes vos données AdminZen ? Cette action est irréversible."
+    );
+    if (!confirmed) return;
+    resetAccount();
+    router.push("/");
+  }
 
   return (
     <div className="space-y-8">
       <div>
         <h1 className="text-2xl font-semibold text-ink">Profil</h1>
-        <p className="mt-1 text-ink-soft">{user.firstName} · {user.status}</p>
+        <p className="mt-1 text-ink-soft">
+          {user.firstName} · {user.status}
+        </p>
       </div>
 
       <section>
         <h2 className="text-lg font-semibold text-ink">Votre formule</h2>
+        <p className="mt-1 text-sm text-ink-soft">
+          Cliquez sur une formule pour en changer.
+        </p>
         <div className="mt-3 space-y-3">
           {PLANS.map((plan) => {
             const active = plan.name === user.plan;
             return (
-              <div
+              <button
                 key={plan.name}
-                className={`rounded-2xl border p-5 ${
+                type="button"
+                onClick={() => setPlan(plan.name)}
+                className={`w-full rounded-2xl border p-5 text-left transition-colors ${
                   active
                     ? "border-primary bg-primary-light"
-                    : "border-ink/10 bg-white"
+                    : "border-ink/10 bg-white hover:border-primary/40"
                 }`}
               >
                 <div className="flex items-center justify-between">
@@ -53,7 +74,7 @@ export default async function ProfilPage() {
                     Formule actuelle
                   </span>
                 )}
-              </div>
+              </button>
             );
           })}
         </div>
@@ -66,12 +87,20 @@ export default async function ProfilPage() {
           moment (voir docs/08-securite-rgpd.md).
         </p>
         <div className="mt-3 flex flex-wrap gap-3">
-          <Button variant="secondary" type="button">
+          <button
+            type="button"
+            onClick={exportData}
+            className="inline-flex items-center justify-center gap-2 rounded-xl bg-primary-light px-5 py-3 text-base font-medium text-primary transition-colors hover:bg-primary-light/70 min-h-[44px]"
+          >
             Exporter mes données
-          </Button>
-          <Button variant="ghost" type="button" className="!text-critical">
+          </button>
+          <button
+            type="button"
+            onClick={handleDelete}
+            className="inline-flex items-center justify-center gap-2 rounded-xl bg-transparent px-5 py-3 text-base font-medium text-critical transition-colors hover:bg-critical/10 min-h-[44px]"
+          >
             Supprimer mon compte
-          </Button>
+          </button>
         </div>
       </section>
     </div>
