@@ -82,16 +82,40 @@ Chaque démarche du catalogue est modélisée comme un **`FormalityTemplate`** (
 étapes types, délai légal, niveau d'automatisation possible (guidé / pré-rempli /
 soumis pour le compte de l'utilisateur).
 
-## Modèle de délégation (niveaux de service)
+## Deux modes d'exécution (par démarche, pas par forfait)
 
-1. **Gratuit — Vigilance** : rappels d'échéances, checklist, coffre-fort, assistant
-   conversationnel. L'utilisateur exécute lui-même sur les sites officiels.
-2. **Essentiel (payant)** : AdminZen pré-remplit les dossiers et les pièces, prêts à
-   soumettre en un clic par l'utilisateur.
-3. **Sérénité (payant, premium)** : avec mandat explicite, AdminZen soumet et suit les
-   démarches pour le compte de l'utilisateur de bout en bout (concierge humain +
-   automatisation), avec alerte immédiate si une action de l'utilisateur devient
-   indispensable.
+Le mode n'est jamais un choix marketing : il découle de ce que la loi permet pour
+**cette démarche précise**.
 
-Ce modèle freemium finance à la fois le produit et le coût du concierge humain sur les
-démarches non encore automatisables via API officielle.
+- **« On fait à votre place »** — lorsque la représentation par mandat est légalement
+  possible (article 1984 et suivants du Code civil) : Sérénio (concierge humain et/ou
+  automatisation) prépare, transmet et suit la démarche pour le compte de
+  l'utilisateur, sur la base d'un mandat explicite et révocable.
+- **« On vous pilote pas à pas »** — lorsque l'accès personnel de l'usager est
+  obligatoire (ex. authentification FranceConnect) : Sérénio prépare tout en amont et
+  guide l'utilisateur écran par écran pour l'étape qu'il doit accomplir lui-même.
+
+Cette bascule est automatique et documentée par démarche dans le catalogue
+(`mode_possible.mandat` / `mode_possible.pilotage`, voir `06-modele-donnees.md`) —
+jamais laissée à l'appréciation de l'utilisateur sur une démarche qui l'exposerait
+juridiquement.
+
+## Modèle économique
+
+**À l'acte** (porte d'entrée, aucun abonnement requis) :
+
+| Niveau | Prix | Contenu |
+|---|---|---|
+| Identification + checklist | Gratuit (ou 4,90 €) | Détection de la démarche, liste exacte des pièces |
+| Guidé simple (pilotage) | 29–49 € | Accompagnement pas à pas jusqu'au bout |
+| Standard / hybride | 59–99 € | Préparation complète, validation utilisateur, transmission |
+| Complexe / sensible | 129–249 € | Titre de séjour, litiges, dossiers multi-organismes |
+
+**Abonnement mensuel « Sérénité »** (cœur du modèle, revenus récurrents) : 14,90 € à
+24,90 €/mois. Inclut la surveillance des échéances, des alertes anticipées, une
+priorité de traitement, des tarifs préférentiels sur les actes, et 1 à 2 actes guidés
+inclus selon la formule.
+
+Revenus additionnels envisageables à moyen terme : partenariats (mutuelles, énergie,
+banques), toujours affichés en toute transparence à l'utilisateur — jamais un
+comparateur biaisé par la commission perçue.

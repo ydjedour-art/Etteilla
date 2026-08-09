@@ -14,13 +14,14 @@
   rappels d'échéances.
 - Back-office concierge minimal (file de dossiers, mise à jour de statut manuelle).
 - Assistant conversationnel V1 (RAG sur base de connaissance statique).
-- Forfaits `Vigilance` (gratuit) et `Essentiel` (payant, pré-remplissage).
+- Tarification à l'acte (identification gratuite → guidé → standard) et mode pilotage
+  fonctionnel ; abonnement Sérénité en Phase 2.
 - **Critère de sortie** : un utilisateur peut, de bout en bout, se faire accompagner
   sur au moins 3 démarches réelles avec suivi de statut fiable.
 
 ## Phase 2 — Automatisation & délégation complète (V1.5)
-- Forfait `Sérénité` : mandat de représentation + soumission par concierge pour
-  toutes les démarches du catalogue.
+- Abonnement `Sérénité` : mandat de représentation + soumission par concierge pour
+  toutes les démarches du catalogue, surveillance continue des échéances.
 - Premières intégrations API officielles (FranceConnect identité, une démarche
   automatisée de bout en bout comme preuve de concept).
 - Pré-remplissage automatique via OCR/extraction sur les documents du coffre-fort.

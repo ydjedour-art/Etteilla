@@ -1,5 +1,24 @@
 # 02 — Personas et parcours utilisateurs
 
+## Segments prioritaires (land and expand)
+
+Le marché cible est universel (voir `01-vision-produit.md`), mais le lancement suit une
+séquence délibérée plutôt qu'un ciblage simultané de tout le monde :
+
+1. **Aidants familiaux** — la charge la plus lourde (plusieurs profils, plusieurs
+   organismes), donc la valeur perçue la plus immédiate.
+2. **Nouveaux arrivants / titres de séjour / naturalisation** — la plus forte anxiété,
+   les enjeux juridiques les plus élevés en cas d'erreur.
+3. **Primo-actifs et jeunes familles** — volume élevé de démarches déclenchées par les
+   événements de vie (premier emploi, naissance, déménagement).
+4. **Seniors / passage à la retraite** — démarches à fort non-recours (ASPA,
+   complémentaire santé solidaire), publics souvent les moins à l'aise avec le
+   numérique.
+5. **Extension progressive à l'ensemble des particuliers.**
+
+Les personas ci-dessous illustrent les segments 1 à 3 ; un persona senior sera
+formalisé avant l'attaque du segment 4.
+
 ## Personas
 
 ### 🧳 Léa, 29 ans — Expatriée fraîchement arrivée
@@ -35,7 +54,7 @@ protection de leurs données personnelles (documents d'identité, avis d'imposit
    indépendant / étudiant / sans emploi), situation familiale, résidence (français /
    étranger en France), événement récent (déménagement, naissance, changement de
    travail...).
-3. **AdminZen détecte les démarches pertinentes** et les affiche sous forme de cartes
+3. **Sérénio détecte les démarches pertinentes** et les affiche sous forme de cartes
    pré-cochées, éditables (« On a repéré 3 démarches qui vous concernent »).
 4. **Création de compte** (email ou FranceConnect — voir `08-securite-rgpd.md`) — la
    dernière étape, jamais la première, pour ne pas créer de friction avant d'avoir
@@ -47,14 +66,14 @@ Durée cible : **< 2 minutes**, zéro champ de formulaire administratif classiqu
 
 ## Parcours utilisateur — Traiter une démarche (ex. renouvellement titre de séjour)
 
-1. AdminZen détecte l'échéance (date de fin de validité connue) **avant** que
+1. Sérénio détecte l'échéance (date de fin de validité connue) **avant** que
    l'utilisateur n'y pense, et crée le dossier automatiquement en amont du délai légal.
 2. Notification unique, non-anxiogène : « Ton titre de séjour arrive à échéance dans 4
    mois. On a préparé ton dossier, il te reste 2 minutes. »
 3. L'utilisateur répond à quelques questions ciblées (uniquement ce qui n'est pas déjà
    connu) et importe/confirme les pièces manquantes depuis le coffre-fort ou son
    téléphone (photo).
-4. AdminZen assemble le dossier, vérifie sa complétude (checklist automatique), et
+4. Sérénio assemble le dossier, vérifie sa complétude (checklist automatique), et
    selon le mandat accordé : (a) le pré-remplit pour validation utilisateur, ou (b) le
    soumet directement pour le compte de l'utilisateur.
 5. Suivi : statut affiché en permanence (`À compléter` → `Prêt à envoyer` → `Envoyé` →
@@ -67,7 +86,7 @@ Durée cible : **< 2 minutes**, zéro champ de formulaire administratif classiqu
 
 Le principe clé : **la démarche se glisse à la fin d'un autre parcours**, jamais en
 frontal. Exemple : Thomas met à jour son adresse dans son profil (action déjà motivée,
-pas administrative en soi) → AdminZen lui propose en fin de flux : « Votre adresse a
+pas administrative en soi) → Sérénio lui propose en fin de flux : « Votre adresse a
 changé. On met à jour la CAF, les impôts et votre mutuelle pour vous — vous confirmez ? »
 → un seul tap, trois démarches déclenchées.
 

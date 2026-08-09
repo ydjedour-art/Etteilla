@@ -37,7 +37,7 @@ import type {
   VaultDocument,
 } from "@/lib/types";
 
-const STORAGE_KEY = "adminzen-store-v1";
+const STORAGE_KEY = "serenio-store-v1";
 
 interface AppState {
   user: UserProfile;
@@ -59,7 +59,7 @@ function initialState(): AppState {
 
 function emptyState(): AppState {
   return {
-    user: { ...seedUser, plan: "Vigilance" },
+    user: { ...seedUser, subscription: "aucun" },
     dossiers: [],
     vaultDocuments: [],
     assistantMessages: [],
@@ -154,7 +154,7 @@ type Action =
   | { type: "CREATE_DOSSIER"; templateSlug: string }
   | { type: "ADVANCE_DOSSIER"; dossierId: string }
   | { type: "ADD_VAULT_DOCUMENT"; document: Pick<VaultDocument, "type" | "label" | "expiresAt"> }
-  | { type: "SET_PLAN"; plan: UserProfile["plan"] }
+  | { type: "SET_SUBSCRIPTION"; subscription: UserProfile["subscription"] }
   | { type: "SEND_ASSISTANT_MESSAGE"; content: string }
   | { type: "GENERATE_MANDATE"; dossierId: string; scope: string }
   | { type: "REVOKE_MANDATE"; mandateId: string }
@@ -244,8 +244,8 @@ function reducer(state: AppState, action: Action): AppState {
       return { ...state, vaultDocuments, dossiers };
     }
 
-    case "SET_PLAN":
-      return { ...state, user: { ...state.user, plan: action.plan } };
+    case "SET_SUBSCRIPTION":
+      return { ...state, user: { ...state.user, subscription: action.subscription } };
 
     case "SEND_ASSISTANT_MESSAGE": {
       const now = new Date().toISOString();
@@ -316,7 +316,7 @@ interface AppStoreContextValue {
   createDossier: (templateSlug: string) => void;
   advanceDossier: (dossierId: string) => void;
   addVaultDocument: (document: Pick<VaultDocument, "type" | "label" | "expiresAt">) => void;
-  setPlan: (plan: UserProfile["plan"]) => void;
+  setSubscription: (subscription: UserProfile["subscription"]) => void;
   sendAssistantMessage: (content: string) => void;
   generateMandate: (dossierId: string, scope: string) => void;
   revokeMandate: (mandateId: string) => void;
@@ -362,8 +362,9 @@ export function AppStoreProvider({ children }: { children: ReactNode }) {
       dispatch({ type: "ADD_VAULT_DOCUMENT", document }),
     []
   );
-  const setPlan = useCallback(
-    (plan: UserProfile["plan"]) => dispatch({ type: "SET_PLAN", plan }),
+  const setSubscription = useCallback(
+    (subscription: UserProfile["subscription"]) =>
+      dispatch({ type: "SET_SUBSCRIPTION", subscription }),
     []
   );
   const sendAssistantMessage = useCallback(
@@ -385,7 +386,7 @@ export function AppStoreProvider({ children }: { children: ReactNode }) {
     const url = URL.createObjectURL(blob);
     const link = document.createElement("a");
     link.href = url;
-    link.download = "adminzen-mes-donnees.json";
+    link.download = "serenio-mes-donnees.json";
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
@@ -398,7 +399,7 @@ export function AppStoreProvider({ children }: { children: ReactNode }) {
       createDossier,
       advanceDossier,
       addVaultDocument,
-      setPlan,
+      setSubscription,
       sendAssistantMessage,
       generateMandate,
       revokeMandate,
@@ -410,7 +411,7 @@ export function AppStoreProvider({ children }: { children: ReactNode }) {
       createDossier,
       advanceDossier,
       addVaultDocument,
-      setPlan,
+      setSubscription,
       sendAssistantMessage,
       generateMandate,
       revokeMandate,

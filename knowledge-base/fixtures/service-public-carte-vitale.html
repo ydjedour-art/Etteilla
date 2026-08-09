@@ -1,0 +1,58 @@
+<!--
+  Fixture de test — approximation manuelle et illustrative de la structure d'une
+  fiche pratique service-public.fr, construite à partir de connaissances générales
+  (pas un extrait réel téléchargé : voir knowledge-base/README.md, section réseau).
+  Sert à valider que le parseur sources/service-public.ts fonctionne de bout en
+  bout ; les sélecteurs devront être recalibrés contre le HTML réel avant
+  production.
+-->
+<!DOCTYPE html>
+<html lang="fr">
+<head><title>Carte Vitale : première demande | service-public.fr</title></head>
+<body>
+  <nav class="fr-breadcrumb">Particuliers &gt; Papiers - Citoyenneté &gt; Santé - Sécurité sociale</nav>
+
+  <h1 class="fiche-titre">Carte Vitale : première demande</h1>
+
+  <div class="fiche-intro">
+    <p>La carte Vitale atteste de vos droits à l'Assurance Maladie. Une première
+    demande est nécessaire si vous n'en avez jamais eu, notamment lors d'une
+    première affiliation en France.</p>
+  </div>
+
+  <section class="fiche-documents">
+    <h2>Documents à fournir</h2>
+    <ul class="liste-documents">
+      <li>Pièce d'identité en cours de validité</li>
+      <li>Justificatif de domicile de moins de 3 mois</li>
+      <li>Relevé d'identité bancaire (RIB)</li>
+      <li>Photo d'identité conforme aux normes en vigueur</li>
+    </ul>
+  </section>
+
+  <section class="fiche-etapes">
+    <h2>Comment faire ?</h2>
+    <ol class="liste-etapes">
+      <li>Créer votre compte ameli en ligne ou vous rapprocher de votre CPAM.</li>
+      <li>Transmettre les pièces justificatives demandées via votre compte ameli.</li>
+      <li>Recevoir votre carte Vitale par courrier sous quelques semaines.</li>
+    </ol>
+  </section>
+
+  <aside class="fiche-formulaire">
+    <h3>Formulaire</h3>
+    <a href="/particuliers/vosdroits/formulaire/S1205" class="lien-cerfa">
+      Cerfa n° 11363*04 — Demande de carte Vitale
+    </a>
+  </aside>
+
+  <aside class="fiche-references">
+    <h3>Références juridiques</h3>
+    <p>Code de la sécurité sociale, articles L160-1 et suivants.</p>
+  </aside>
+
+  <div class="fiche-cout">
+    <p>Cette démarche est gratuite.</p>
+  </div>
+</body>
+</html>

@@ -46,12 +46,12 @@ d'anticipation et canal choisi par l'utilisateur.
 éventuellement rattaché à un `Dossier` pour contexte.
 
 ### `Mandate`
-Le mandat de représentation explicite accordé par l'utilisateur pour qu'AdminZen (via
+Le mandat de représentation explicite accordé par l'utilisateur pour que Sérénio (via
 un agent concierge ou une intégration automatisée) agisse en son nom sur une démarche
 donnée — pièce centrale de la conformité (voir `08-securite-rgpd.md`).
 
 ### `Subscription`
-Le forfait actif de l'utilisateur (`Vigilance` / `Essentiel` / `Sérénité`), utilisé
+L'état d'abonnement de l'utilisateur (`aucun` / `serenite`), utilisé
 pour déterminer le niveau de délégation disponible par démarche.
 
 ### `ConciergeAgent`

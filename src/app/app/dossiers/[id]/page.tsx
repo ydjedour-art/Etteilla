@@ -104,8 +104,8 @@ export default function DossierDetailPage({ params }: { params: { id: string } }
           <h2 className="text-lg font-semibold text-ink">Mandat de représentation</h2>
           <p className="mt-1 text-ink-soft">
             {activeMandate
-              ? "Un mandat est actif : AdminZen peut agir en votre nom sur cette démarche."
-              : "Autorisez AdminZen à préparer et transmettre cette démarche en votre nom. Le document est généré automatiquement, et reste révocable à tout moment."}
+              ? "Un mandat est actif : Sérénio peut agir en votre nom sur cette démarche."
+              : "Autorisez Sérénio à préparer et transmettre cette démarche en votre nom. Le document est généré automatiquement, et reste révocable à tout moment."}
           </p>
           <div className="mt-3">
             <Button href={`/app/dossiers/${dossier.id}/mandat`} variant="secondary">

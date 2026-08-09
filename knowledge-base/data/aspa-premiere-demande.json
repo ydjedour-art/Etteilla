@@ -1,0 +1,118 @@
+{
+  "id": "aspa-premiere-demande",
+  "titre": "ASPA (Allocation de solidarité aux personnes âgées) : première demande",
+  "aliases": [
+    "minimum vieillesse",
+    "allocation solidarité personnes âgées"
+  ],
+  "categorie": "Aides & allocations",
+  "organisme_principal": "CARSAT / MSA (selon régime de retraite)",
+  "url_officielle": "https://www.service-public.fr/",
+  "formulaires": [
+    {
+      "nom": "Demande d'allocation de solidarité aux personnes âgées",
+      "cerfa": null,
+      "url": "",
+      "type": "both"
+    }
+  ],
+  "documents_requis": [
+    {
+      "nom": "Pièce d'identité",
+      "obligatoire": true,
+      "description": "",
+      "exemples": [
+        "CNI",
+        "Passeport",
+        "Titre de séjour en cours de validité"
+      ],
+      "conditions": null
+    },
+    {
+      "nom": "Justificatif de domicile",
+      "obligatoire": true,
+      "description": "",
+      "exemples": [],
+      "conditions": null
+    },
+    {
+      "nom": "Relevé d'identité bancaire (RIB)",
+      "obligatoire": true,
+      "description": "",
+      "exemples": [],
+      "conditions": null
+    },
+    {
+      "nom": "Justificatifs de ressources",
+      "obligatoire": true,
+      "description": "Ressources personnelles et, le cas échéant, du conjoint/partenaire — l'ASPA est soumise à condition de ressources et récupérable sur succession au-delà d'un certain montant.",
+      "exemples": [
+        "Avis d'imposition",
+        "Relevés de pensions de retraite"
+      ],
+      "conditions": null
+    }
+  ],
+  "etapes": [
+    {
+      "ordre": 1,
+      "titre": "Vérifier l'éligibilité (âge, résidence, ressources)",
+      "description": "Condition d'âge (généralement l'âge légal de départ à la retraite, avec exceptions), de résidence stable en France, et de ressources sous un plafond réévalué chaque année — plafond exact à vérifier au moment de la demande, ne pas se fier à un montant figé.",
+      "type": "information",
+      "lien_utile": null
+    },
+    {
+      "ordre": 2,
+      "titre": "Constituer le dossier de demande",
+      "description": "Rassembler les pièces justificatives et remplir le formulaire auprès de la caisse de retraite compétente (CARSAT, MSA, ou autre régime selon la carrière).",
+      "type": "action_utilisateur",
+      "lien_utile": null
+    },
+    {
+      "ordre": 3,
+      "titre": "Déposer la demande",
+      "description": "Auprès de la caisse de retraite du régime principal du demandeur.",
+      "type": "action_utilisateur",
+      "lien_utile": null
+    },
+    {
+      "ordre": 4,
+      "titre": "Instruction du dossier et décision",
+      "description": "",
+      "type": "action_administration",
+      "lien_utile": null
+    }
+  ],
+  "mode_possible": {
+    "mandat": true,
+    "pilotage": true,
+    "commentaire_mandat": "La demande peut être déposée par un tiers (aidant familial, mandataire) muni d'une procuration signée par le demandeur ou son représentant légal — cadre compatible avec un mandat de représentation. À confirmer précisément avec la caisse de retraite compétente, les modalités pouvant varier selon le régime (CARSAT/MSA/autres) et la situation du demandeur (sous protection juridique ou non)."
+  },
+  "delais": {
+    "traitement_moyen": "Plusieurs semaines à quelques mois selon la caisse — délai exact à vérifier, non garanti par cette fiche.",
+    "echeances_importantes": []
+  },
+  "couts": {
+    "gratuit": true,
+    "montant": null,
+    "details": "La démarche de demande est gratuite. Le montant de l'allocation elle-même dépend des ressources du foyer et du barème en vigueur au moment de la demande — ne jamais afficher un montant fixe sans le confirmer contre le barème officiel à jour."
+  },
+  "pieges_frequents": [
+    "Un des principaux dispositifs à fort non-recours en France (DREES) : de nombreuses personnes éligibles ne la demandent jamais, souvent par méconnaissance ou par crainte de la récupération sur succession.",
+    "Récupération sur succession au-delà d'un certain montant d'actif successoral : à expliquer clairement au demandeur avant qu'il renonce à la demande par crainte infondée ou fondée à tort.",
+    "Dossier incomplet sur les ressources du conjoint/partenaire, cause fréquente de rejet ou de retard."
+  ],
+  "publics_cibles": [
+    "Seniors",
+    "Personnes à faibles ressources à l'âge de la retraite"
+  ],
+  "tags": [
+    "high_friction",
+    "non_recours"
+  ],
+  "derniere_mise_a_jour": "2026-08-09",
+  "source_principale": "https://www.service-public.fr/",
+  "notes_juridiques": "Fiche rédigée à partir de connaissances générales sur le dispositif ASPA (ex-minimum vieillesse), Code de la sécurité sociale. Plafonds de ressources, montants et délais de traitement varient et sont réévalués périodiquement : à confirmer contre la documentation officielle à jour avant mise en production — voir a_verifier. Sujet sensible (récupération sur succession) à faire valider par un conseil juridique avant toute formulation destinée aux utilisateurs finaux.",
+  "embedding_text": "ASPA (Allocation de solidarité aux personnes âgées) : première demande Aussi appelé : minimum vieillesse, allocation solidarité personnes âgées. Catégorie : Aides & allocations. Organisme : CARSAT / MSA (selon régime de retraite). Documents nécessaires : Pièce d'identité, Justificatif de domicile, Relevé d'identité bancaire (RIB), Justificatifs de ressources. Étapes : Vérifier l'éligibilité (âge, résidence, ressources) → Constituer le dossier de demande → Déposer la demande → Instruction du dossier et décision. Peut être réalisé par mandat de représentation. Peut être piloté pas à pas par l'utilisateur. Pièges fréquents : Un des principaux dispositifs à fort non-recours en France (DREES) : de nombreuses personnes éligibles ne la demandent jamais, souvent par méconnaissance ou par crainte de la récupération sur succession. ; Récupération sur succession au-delà d'un certain montant d'actif successoral : à expliquer clairement au demandeur avant qu'il renonce à la demande par crainte infondée ou fondée à tort. ; Dossier incomplet sur les ressources du conjoint/partenaire, cause fréquente de rejet ou de retard.. Public concerné : Seniors, Personnes à faibles ressources à l'âge de la retraite.",
+  "a_verifier": true
+}

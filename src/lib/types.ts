@@ -88,10 +88,15 @@ export interface Mandate {
   revokedAt: string | null;
 }
 
+/** Modèle tarifaire Sérénio : à l'acte (par démarche, prix selon complexité) +
+ * abonnement mensuel optionnel "Sérénité" (surveillance, alertes, tarifs
+ * préférentiels). Voir docs/03-fonctionnalites-mvp.md. */
+export type SubscriptionStatus = "aucun" | "serenite";
+
 export interface UserProfile {
   firstName: string;
   status: "Salarié" | "Indépendant" | "Étudiant" | "Sans emploi" | "Retraité";
-  plan: "Vigilance" | "Essentiel" | "Sérénité";
+  subscription: SubscriptionStatus;
 }
 
 export const STATUS_LABELS: Record<DossierStatus, string> = {

@@ -1,4 +1,4 @@
-// Schéma de données CIBLE pour le back-end de production d'AdminZen.
+// Schéma de données CIBLE pour le back-end de production de Sérénio.
 // Voir docs/06-modele-donnees.md pour la lecture fonctionnelle de ce schéma.
 //
 // Non branché sur le prototype front-end (src/) : le prototype utilise des données
@@ -137,9 +137,9 @@ enum Recurrence {
 }
 
 enum AutomationLevel {
-  GUIDE           // l'utilisateur exécute lui-même, AdminZen prépare
-  PRE_REMPLI      // AdminZen pré-remplit, l'utilisateur soumet en un clic
-  DELEGUE         // AdminZen soumet pour le compte de l'utilisateur (mandat requis)
+  GUIDE           // l'utilisateur exécute lui-même, Sérénio prépare
+  PRE_REMPLI      // Sérénio pré-remplit, l'utilisateur soumet en un clic
+  DELEGUE         // Sérénio soumet pour le compte de l'utilisateur (mandat requis)
 }
 
 // ---------------------------------------------------------------------------
@@ -240,7 +240,7 @@ enum MessageSender {
 // Mandat de représentation & abonnement
 // ---------------------------------------------------------------------------
 
-/// Mandat explicite autorisant AdminZen à agir pour le compte de l'utilisateur sur
+/// Mandat explicite autorisant Sérénio à agir pour le compte de l'utilisateur sur
 /// un dossier donné. Voir docs/08-securite-rgpd.md.
 model Mandate {
   id          String   @id @default(cuid())

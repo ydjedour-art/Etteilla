@@ -33,9 +33,9 @@ avoir à accomplir en France, pas uniquement le périmètre de lancement (voir
 
 > **« On s'occupe de ton administratif. Toi, tu vis. »**
 
-AdminZen n'est pas un énième tableau de bord de tâches administratives. C'est un
+Sérénio n'est pas un énième tableau de bord de tâches administratives. C'est un
 **filet de sécurité mental** : l'utilisateur délègue la vigilance, la compréhension du
-jargon et — dès que possible — l'exécution elle-même. AdminZen porte la charge
+jargon et — dès que possible — l'exécution elle-même. Sérénio porte la charge
 cognitive ; l'utilisateur garde la main sur les décisions qui l'engagent, sans avoir à
 tout piloter.
 
@@ -63,10 +63,10 @@ tout piloter.
    dès que l'information est déjà connue.
 7. **La démarche s'intègre à la fin du parcours, jamais en travers.** L'utilisateur ne
    « fait » pas une démarche : il répond à quelques questions en fin de flux (ex. après
-   avoir signalé un déménagement) et AdminZen orchestre tout le reste en tâche de fond.
-8. **Progressive disclosure du contrôle.** Court terme : AdminZen guide et pré-remplit,
+   avoir signalé un déménagement) et Sérénio orchestre tout le reste en tâche de fond.
+8. **Progressive disclosure du contrôle.** Court terme : Sérénio guide et pré-remplit,
    l'utilisateur valide et transmet. Moyen terme : avec mandat explicite — généré
-   automatiquement dès qu'il est nécessaire, révocable à tout moment — AdminZen soumet
+   automatiquement dès qu'il est nécessaire, révocable à tout moment — Sérénio soumet
    et suit à la place de l'utilisateur (voir `08-securite-rgpd.md`).
 
 ## Ton de voix
@@ -78,12 +78,23 @@ tout piloter.
 - Jamais de culpabilisation (« Vous avez oublié... » → « On a repéré une échéance, on
   s'en charge. »).
 
+## Positionnement strict (contrainte, pas un choix)
+
+Sérénio fait de l'**assistance et de l'accompagnement administratif uniquement** —
+jamais du conseil juridique, fiscal ou comptable réglementé. Cette limite est
+structurelle, pas une omission temporaire : c'est elle qui rend le mandat de
+représentation (articles 1984 et suivants du Code civil) et le modèle « legal by
+design » tenables. Concrètement :
+
+- Pas de conseil individualisé engageant la responsabilité juridique de Sérénio
+  au-delà de l'exécution du mandat donné pour une démarche précise.
+- Pas de contentieux complexe (litiges, recours devant un tribunal) en MVP —
+  redirection vers des partenaires spécialisés (avocats, experts-comptables).
+- Bascule automatique en mode pilotage dès qu'une démarche exige légalement l'action
+  personnelle de l'utilisateur (ex. authentification FranceConnect) — jamais de
+  contournement.
+
 ## Non-objectifs (pour l'instant)
 
-- Ne pas devenir un cabinet de conseil fiscal/juridique personnalisé (pas de conseil
-  individualisé engageant la responsabilité juridique d'AdminZen au-delà de
-  l'exécution mandatée).
-- Ne pas couvrir le contentieux complexe (litiges, recours devant un tribunal) en MVP —
-  redirection vers des partenaires spécialisés.
 - Ne pas viser l'exhaustivité du catalogue de démarches dès le lancement : mieux vaut
   10 démarches impeccables que 100 approximatives (voir `03-fonctionnalites-mvp.md`).

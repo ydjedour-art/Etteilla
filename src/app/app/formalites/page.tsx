@@ -16,7 +16,7 @@ export default async function FormalitesPage() {
       <div>
         <h1 className="text-2xl font-semibold text-ink">Catalogue de démarches</h1>
         <p className="mt-1 text-ink-soft">
-          Toutes les démarches qu&apos;AdminZen peut prendre en charge pour vous.
+          Toutes les démarches qu&apos;Sérénio peut prendre en charge pour vous.
         </p>
       </div>
 

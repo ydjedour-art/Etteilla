@@ -26,7 +26,7 @@ la charge cognitive et **inspirer confiance immédiatement** :
    blocages réels, à très faible fréquence d'apparition. Le vert est réservé aux états
    validés/terminés — jamais utilisé pour autre chose, afin de rester un signal fiable.
 5. **La preuve de confiance est honnête.** Chiffres, mentions et témoignages ne sont
-   jamais fabriqués pour impressionner : tant qu'AdminZen n'a pas d'utilisateurs réels,
+   jamais fabriqués pour impressionner : tant que Sérénio n'a pas d'utilisateurs réels,
    on présente des scénarios explicitement annoncés comme illustratifs (voir la landing
    page), jamais de faux avis ou de fausses statistiques d'usage.
 6. **Micro-copy > iconographie seule.** Chaque icône (SVG simple, pas d'emoji en
@@ -101,7 +101,7 @@ non pertinent. Voir le README pour la procédure de remplacement par une vraie p
 
 ## Ton des micro-copies (exemples)
 
-| Situation | À éviter | AdminZen |
+| Situation | À éviter | Sérénio |
 |---|---|---|
 | Dossier en attente admin | « Statut : PENDING » | « C'est entre les mains de la CAF, on vérifie chaque jour pour vous. » |
 | Pièce manquante | « Erreur : document requis » | « Il manque une pièce, ça prend 30 secondes à ajouter. » |

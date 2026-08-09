@@ -1,6 +1,6 @@
 # 08 — Sécurité & RGPD
 
-AdminZen traite des données parmi les plus sensibles qui soient à l'échelle
+Sérénio traite des données parmi les plus sensibles qui soient à l'échelle
 individuelle : pièces d'identité, titres de séjour, avis d'imposition, informations de
 santé indirectes (CPAM), situation familiale et financière. La confiance est la
 condition d'existence du produit — un incident de sécurité serait fatal à la
@@ -35,7 +35,7 @@ promesse « on s'occupe de tout, en sécurité ».
 
 ## Le mandat de représentation (`Mandate`)
 
-Dès qu'AdminZen agit *pour* l'utilisateur (soumission par un concierge humain ou une
+Dès que Sérénio agit *pour* l'utilisateur (soumission par un concierge humain ou une
 intégration automatisée), un mandat explicite et daté est requis :
 - Libellé clair de ce qui est délégué, démarche par démarche (pas un mandat global
   implicite).

@@ -1,0 +1,91 @@
+{
+  "id": "carte-vitale-premiere-demande",
+  "titre": "Carte Vitale : première demande",
+  "aliases": [],
+  "categorie": "À compléter",
+  "organisme_principal": "service-public.fr",
+  "url_officielle": "knowledge-base/fixtures/service-public-carte-vitale.html",
+  "formulaires": [
+    {
+      "nom": "Demande de carte Vitale",
+      "cerfa": "11363*04",
+      "url": "",
+      "type": "both"
+    }
+  ],
+  "documents_requis": [
+    {
+      "nom": "Pièce d'identité en cours de validité",
+      "obligatoire": true,
+      "description": "",
+      "exemples": [],
+      "conditions": null
+    },
+    {
+      "nom": "Justificatif de domicile de moins de 3 mois",
+      "obligatoire": true,
+      "description": "",
+      "exemples": [],
+      "conditions": null
+    },
+    {
+      "nom": "Relevé d'identité bancaire (RIB)",
+      "obligatoire": true,
+      "description": "",
+      "exemples": [],
+      "conditions": null
+    },
+    {
+      "nom": "Photo d'identité conforme aux normes en vigueur",
+      "obligatoire": true,
+      "description": "",
+      "exemples": [],
+      "conditions": null
+    }
+  ],
+  "etapes": [
+    {
+      "ordre": 1,
+      "titre": "Créer votre compte ameli en ligne ou vous rapprocher de...",
+      "description": "Créer votre compte ameli en ligne ou vous rapprocher de votre CPAM.",
+      "type": "action_utilisateur",
+      "lien_utile": null
+    },
+    {
+      "ordre": 2,
+      "titre": "Transmettre les pièces justificatives demandées via votre...",
+      "description": "Transmettre les pièces justificatives demandées via votre compte ameli.",
+      "type": "action_utilisateur",
+      "lien_utile": null
+    },
+    {
+      "ordre": 3,
+      "titre": "Recevoir votre carte Vitale par courrier sous quelques...",
+      "description": "Recevoir votre carte Vitale par courrier sous quelques semaines.",
+      "type": "action_utilisateur",
+      "lien_utile": null
+    }
+  ],
+  "mode_possible": {
+    "mandat": false,
+    "pilotage": true,
+    "commentaire_mandat": "Non déterminé automatiquement : à qualifier lors de la revue humaine avant mise en production."
+  },
+  "delais": {
+    "traitement_moyen": "",
+    "echeances_importantes": []
+  },
+  "couts": {
+    "gratuit": true,
+    "montant": null,
+    "details": "Cette démarche est gratuite."
+  },
+  "pieges_frequents": [],
+  "publics_cibles": [],
+  "tags": [],
+  "derniere_mise_a_jour": "2026-08-09",
+  "source_principale": "knowledge-base/fixtures/service-public-carte-vitale.html",
+  "notes_juridiques": "Code de la sécurité sociale, articles L160-1 et suivants.",
+  "embedding_text": "Carte Vitale : première demande Catégorie : À compléter. Organisme : service-public.fr. Documents nécessaires : Pièce d'identité en cours de validité, Justificatif de domicile de moins de 3 mois, Relevé d'identité bancaire (RIB), Photo d'identité conforme aux normes en vigueur. Étapes : Créer votre compte ameli en ligne ou vous rapprocher de... → Transmettre les pièces justificatives demandées via votre... → Recevoir votre carte Vitale par courrier sous quelques.... Peut être piloté pas à pas par l'utilisateur.",
+  "a_verifier": true
+}

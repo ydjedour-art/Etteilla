@@ -53,7 +53,7 @@ pour un particulier (FranceConnect permet l'authentification et l'accès à cert
 données, mais pas la soumission programmatique de toute démarche). Le MVP part donc
 d'un principe pragmatique et honnête :
 
-- **Court terme (MVP)** : AdminZen assemble, vérifie et pré-remplit le dossier
+- **Court terme (MVP)** : Sérénio assemble, vérifie et pré-remplit le dossier
   (formulaires, pièces). Selon le forfait, soit l'utilisateur soumet lui-même en un
   clic guidé (export PDF pré-rempli / lien direct vers le bon formulaire officiel),
   soit un **agent concierge humain** (outillé par le back-office interne) réalise la
@@ -80,7 +80,11 @@ démarches concernées.
   connaissance administrative — le modèle retourne une ou plusieurs démarches
   candidates avec un niveau de confiance, jamais une action exécutée directement sans
   confirmation utilisateur. Le même moteur sert l'assistant conversationnel de suivi de
-  dossier (une seule brique IA, deux points d'usage).
+  dossier (une seule brique IA, deux points d'usage). Cette base de connaissance est
+  rendue opérationnelle par le module [`knowledge-base/`](../knowledge-base/README.md)
+  (schéma, fetchers par source officielle, pipeline d'extraction/validation, workflow
+  de revue humaine avant mise en production — voir son README pour l'état d'avancement
+  et la contrainte réseau de l'environnement de développement).
 - Dans les deux cas, une fois la démarche identifiée, seules les pièces **manquantes**
   (calculées par rapport au coffre-fort de l'utilisateur, voir `computeMissingDocuments`
   côté prototype) sont demandées — jamais une liste générique.
@@ -106,7 +110,7 @@ implicite) et révocable à tout moment avec effet immédiat — voir
 ## Back-office concierge (interne)
 
 Application interne (même code base Next.js, route protégée `/ops`, ou app séparée en
-V1.5) où les agents AdminZen :
+V1.5) où les agents Sérénio :
 - Voient la file des dossiers `prêt_à_soumettre`, triés par échéance.
 - Disposent d'une checklist étape par étape par type de démarche.
 - Marquent l'avancement (`soumis`, `en_attente_administration`, `terminé`,

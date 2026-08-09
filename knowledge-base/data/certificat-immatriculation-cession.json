@@ -1,0 +1,117 @@
+{
+  "id": "certificat-immatriculation-cession",
+  "titre": "Certificat d'immatriculation (carte grise) : déclarer la cession d'un véhicule d'occasion",
+  "aliases": [
+    "carte grise cession",
+    "vente voiture carte grise",
+    "déclaration de cession véhicule"
+  ],
+  "categorie": "Véhicules",
+  "organisme_principal": "ANTS (Agence Nationale des Titres Sécurisés)",
+  "url_officielle": "https://www.ants.gouv.fr/",
+  "formulaires": [
+    {
+      "nom": "Déclaration de cession d'un véhicule",
+      "cerfa": "15776*02",
+      "url": "",
+      "type": "both"
+    }
+  ],
+  "documents_requis": [
+    {
+      "nom": "Certificat d'immatriculation du véhicule (carte grise actuelle)",
+      "obligatoire": true,
+      "description": "Barré, daté et signé par le vendeur avec la mention \"vendu le [date]\" ou \"cédé le [date]\".",
+      "exemples": [],
+      "conditions": null
+    },
+    {
+      "nom": "Pièce d'identité de l'acheteur et du vendeur",
+      "obligatoire": true,
+      "description": "",
+      "exemples": [
+        "CNI",
+        "Passeport",
+        "Titre de séjour"
+      ],
+      "conditions": null
+    },
+    {
+      "nom": "Justificatif de domicile de moins de 6 mois",
+      "obligatoire": true,
+      "description": "",
+      "exemples": [],
+      "conditions": null
+    },
+    {
+      "nom": "Contrôle technique de moins de 6 mois",
+      "obligatoire": false,
+      "description": "Requis si le véhicule a plus de 4 ans, sauf véhicules exemptés (ex. deux-roues).",
+      "exemples": [],
+      "conditions": "Véhicule de plus de 4 ans, hors exemptions légales"
+    }
+  ],
+  "etapes": [
+    {
+      "ordre": 1,
+      "titre": "Remplir et signer la déclaration de cession",
+      "description": "Vendeur et acheteur remplissent et signent conjointement le Cerfa 15776*02, en général via le téléservice ANTS.",
+      "type": "action_utilisateur",
+      "lien_utile": null
+    },
+    {
+      "ordre": 2,
+      "titre": "Le vendeur déclare la cession auprès de l'ANTS",
+      "description": "Déclaration en ligne obligatoire dans les 15 jours suivant la vente, pour transférer la responsabilité du véhicule.",
+      "type": "action_utilisateur",
+      "lien_utile": null
+    },
+    {
+      "ordre": 3,
+      "titre": "L'acheteur demande un nouveau certificat d'immatriculation",
+      "description": "Dans un délai d'un mois après l'achat, sous peine d'amende.",
+      "type": "action_utilisateur",
+      "lien_utile": null
+    },
+    {
+      "ordre": 4,
+      "titre": "Réception du nouveau certificat par courrier",
+      "description": "",
+      "type": "action_administration",
+      "lien_utile": null
+    }
+  ],
+  "mode_possible": {
+    "mandat": true,
+    "pilotage": true,
+    "commentaire_mandat": "La démarche peut être effectuée par un professionnel habilité (garage, mandataire agréé) muni d'un mandat exprès du titulaire — cadre proche d'un mandat de représentation classique. Reste toutefois soumise à une identification personnelle (FranceConnect) pour la validation finale par le titulaire dans le téléservice ANTS grand public : à confirmer précisément avec un conseil juridique avant d'activer le mode « on fait à votre place » en production."
+  },
+  "delais": {
+    "traitement_moyen": "Quelques jours ouvrés une fois le dossier complet ; carte grise provisoire délivrée immédiatement en cas de recours à un professionnel habilité.",
+    "echeances_importantes": [
+      "Déclaration de cession par le vendeur : 15 jours après la vente",
+      "Demande de nouveau certificat par l'acheteur : 1 mois après l'achat"
+    ]
+  },
+  "couts": {
+    "gratuit": false,
+    "montant": null,
+    "details": "Coût variable selon la puissance fiscale du véhicule, la région et son ancienneté (barème régional) — montant à vérifier au cas par cas, ne pas afficher de prix fixe sans confirmation."
+  },
+  "pieges_frequents": [
+    "Vendeur qui oublie de déclarer la cession dans les 15 jours : il reste responsable des amendes et infractions commises par l'acheteur tant que la déclaration n'est pas faite.",
+    "Ancien certificat non barré/signé correctement, rejeté par le téléservice.",
+    "Contrôle technique manquant ou périmé sur un véhicule de plus de 4 ans."
+  ],
+  "publics_cibles": [
+    "Tous"
+  ],
+  "tags": [
+    "high_volume"
+  ],
+  "derniere_mise_a_jour": "2026-08-09",
+  "source_principale": "https://www.ants.gouv.fr/",
+  "notes_juridiques": "Fiche rédigée à partir de connaissances générales sur le dispositif de déclaration de cession et d'immatriculation des véhicules (téléservice ANTS). Numéro Cerfa, montants et délais exacts à confirmer contre la documentation officielle ants.gouv.fr avant mise en production — voir a_verifier.",
+  "embedding_text": "Certificat d'immatriculation (carte grise) : déclarer la cession d'un véhicule d'occasion Aussi appelé : carte grise cession, vente voiture carte grise, déclaration de cession véhicule. Catégorie : Véhicules. Organisme : ANTS (Agence Nationale des Titres Sécurisés). Documents nécessaires : Certificat d'immatriculation du véhicule (carte grise actuelle), Pièce d'identité de l'acheteur et du vendeur, Justificatif de domicile de moins de 6 mois, Contrôle technique de moins de 6 mois. Étapes : Remplir et signer la déclaration de cession → Le vendeur déclare la cession auprès de l'ANTS → L'acheteur demande un nouveau certificat d'immatriculation → Réception du nouveau certificat par courrier. Peut être réalisé par mandat de représentation. Peut être piloté pas à pas par l'utilisateur. Démarche payante. Pièges fréquents : Vendeur qui oublie de déclarer la cession dans les 15 jours : il reste responsable des amendes et infractions commises par l'acheteur tant que la déclaration n'est pas faite. ; Ancien certificat non barré/signé correctement, rejeté par le téléservice. ; Contrôle technique manquant ou périmé sur un véhicule de plus de 4 ans.. Public concerné : Tous.",
+  "a_verifier": true
+}

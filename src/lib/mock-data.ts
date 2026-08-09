@@ -15,7 +15,7 @@ import type {
 export const currentUser: UserProfile = {
   firstName: "Léa",
   status: "Salarié",
-  plan: "Essentiel",
+  subscription: "serenite",
 };
 
 export const formalityTemplates: FormalityTemplate[] = [

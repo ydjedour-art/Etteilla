@@ -1,8 +1,8 @@
-# AdminZen 🌿
+# Sérénio 🌿
 
 > **« On s'occupe de ton administratif. Toi, tu vis. »**
 
-AdminZen est un filet de sécurité mental contre l'administratif français. L'application
+Sérénio est un filet de sécurité mental contre l'administratif français. L'application
 s'adresse aux personnes fatiguées par la charge mentale administrative — expatriés,
 Français lambda, aidants — confrontées à la CAF, aux impôts, à l'URSSAF, aux titres de
 séjour, etc.
@@ -76,6 +76,21 @@ Le schéma Prisma dans [`prisma/schema.prisma`](prisma/schema.prisma) décrit le
 données cible pour le back-end de production (PostgreSQL). Le prototype front-end
 n'y est **pas branché** — il utilise des données simulées le temps que le back-end soit
 implémenté (voir `docs/04-architecture-technique.md`).
+
+## 📖 Base de connaissances des procédures administratives
+
+Le module [`knowledge-base/`](knowledge-base/README.md) rend opérationnelles la
+récupération, la structuration et la maintenance des fiches de démarches
+administratives (schéma, fetchers par source, pipeline d'extraction/validation,
+workflow de revue humaine). **Lire en priorité la section sur la contrainte réseau**
+avant d'utiliser ce module : les sources officielles (service-public.fr, ants.gouv.fr...)
+ne sont pas accessibles depuis l'environnement où ce module a été développé.
+
+```bash
+npm run kb:validate           # Valider les fiches existantes
+npm run kb:extract -- service-public --fixture knowledge-base/fixtures/service-public-carte-vitale.html
+npm run kb:refresh-check      # Repérer les fiches à recontrôler
+```
 
 ## 🧭 Statut
 

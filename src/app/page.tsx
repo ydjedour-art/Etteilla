@@ -31,7 +31,7 @@ const STEPS = [
   {
     title: "On détecte ce qui vous concerne",
     description:
-      "AdminZen repère les démarches pertinentes et prépare les dossiers à votre place.",
+      "Sérénio repère les démarches pertinentes et prépare les dossiers à votre place.",
   },
   {
     title: "Vous validez, on s'occupe du reste",
@@ -41,14 +41,14 @@ const STEPS = [
 ];
 
 // Scénarios illustratifs basés sur les personas produit (docs/02-personas-et-parcours.md)
-// — pas des témoignages clients réels, AdminZen n'a pas encore d'utilisateurs.
+// — pas des témoignages clients réels, Sérénio n'a pas encore d'utilisateurs.
 const SCENARIOS = [
   {
     initials: "L",
     name: "Léa",
     context: "Expatriée, arrivée récente en France",
     quote:
-      "Renouveler mon titre de séjour sans savoir par où commencer, c'était ma plus grande angoisse. AdminZen prépare le dossier des mois à l'avance.",
+      "Renouveler mon titre de séjour sans savoir par où commencer, c'était ma plus grande angoisse. Sérénio prépare le dossier des mois à l'avance.",
   },
   {
     initials: "K",
@@ -73,14 +73,14 @@ const FAQS = [
       "Oui : chiffrement des documents, hébergement en France, et un accès strictement limité à ce qui est nécessaire pour traiter votre dossier. Le détail complet est documenté publiquement dans notre politique de sécurité.",
   },
   {
-    question: "AdminZen peut-il vraiment envoyer mes dossiers à ma place ?",
+    question: "Sérénio peut-il vraiment envoyer mes dossiers à ma place ?",
     answer:
-      "Selon la formule choisie : soit on prépare tout et vous validez en un clic, soit — avec un mandat explicite que vous pouvez révoquer à tout moment — on transmet et on suit le dossier pour vous de bout en bout.",
+      "Deux modes selon la démarche : « On fait à votre place », avec un mandat de représentation explicite et révocable à tout moment ; ou « On vous pilote pas à pas » quand la loi impose que vous agissiez vous-même (ex. identification FranceConnect). Sérénio bascule automatiquement sur le bon mode.",
   },
   {
     question: "Combien ça coûte ?",
     answer:
-      "La formule Vigilance (rappels, coffre-fort, assistant) est gratuite. Les formules Essentiel et Sérénité, payantes, ajoutent le pré-remplissage puis la prise en charge complète.",
+      "À l'acte, selon la complexité de la démarche : gratuit pour l'identification et la checklist, de 29 € à 249 € pour l'accompagnement guidé ou pris en charge. L'abonnement Sérénité (à partir de 14,90 €/mois) ajoute la surveillance continue des échéances et des tarifs préférentiels.",
   },
   {
     question: "Quelles démarches sont couvertes aujourd'hui ?",
@@ -141,10 +141,11 @@ export default function LandingPage() {
       {/* Header */}
       <header className="border-b border-ink/10 bg-white">
         <div className="mx-auto flex max-w-marketing items-center justify-between px-6 py-5">
-          <span className="font-serif text-xl font-semibold text-primary">AdminZen</span>
+          <span className="font-serif text-xl font-semibold text-primary">Sérénio</span>
           <nav className="hidden items-center gap-8 text-sm font-medium text-ink-soft sm:flex">
             <a href="#comment-ca-marche" className="hover:text-ink">Comment ça marche</a>
             <a href="#demarches" className="hover:text-ink">Démarches couvertes</a>
+            <a href="#tarifs" className="hover:text-ink">Tarifs</a>
             <a href="#faq" className="hover:text-ink">FAQ</a>
           </nav>
           <div className="flex items-center gap-3">
@@ -170,7 +171,7 @@ export default function LandingPage() {
               <span className="text-primary">Toi, tu vis.</span>
             </h1>
             <p className="mt-6 max-w-lg text-lg text-ink-soft">
-              CAF, impôts, URSSAF, titre de séjour... AdminZen est le filet de sécurité
+              CAF, impôts, URSSAF, titre de séjour... Sérénio est le filet de sécurité
               qui prend en charge votre administratif — pour de vrai, pas juste des
               rappels.
             </p>
@@ -256,7 +257,7 @@ export default function LandingPage() {
             Conçu pour des situations comme celle-ci
           </h2>
           <p className="mx-auto mt-3 max-w-xl text-center text-sm text-ink-soft">
-            AdminZen est en cours de développement à partir de ces scénarios types —
+            Sérénio est en cours de développement à partir de ces scénarios types —
             pas encore de témoignages d&apos;utilisateurs réels.
           </p>
           <div className="mt-12 grid gap-6 sm:grid-cols-3">
@@ -280,6 +281,38 @@ export default function LandingPage() {
               </figure>
             ))}
           </div>
+        </div>
+      </section>
+
+      {/* Tarifs */}
+      <section id="tarifs" className="mx-auto max-w-marketing px-6 py-20">
+        <h2 className="text-center font-serif text-3xl font-semibold text-ink">
+          Des tarifs à la démarche, pas un forfait à deviner
+        </h2>
+        <p className="mx-auto mt-3 max-w-xl text-center text-sm text-ink-soft">
+          Vous payez selon la complexité de ce que vous demandez — jamais un abonnement
+          obligatoire pour une seule démarche ponctuelle.
+        </p>
+        <div className="mt-10 grid gap-4 sm:grid-cols-4">
+          {[
+            { name: "Identification + checklist", price: "Gratuit", note: "On identifie la démarche" },
+            { name: "Guidé simple", price: "29–49 €", note: "On vous pilote pas à pas" },
+            { name: "Standard / hybride", price: "59–99 €", note: "On prépare, vous validez" },
+            { name: "Complexe / sensible", price: "129–249 €", note: "Titre de séjour, litiges..." },
+          ].map((tier) => (
+            <div key={tier.name} className="rounded-2xl border border-ink/10 bg-white p-5 text-center">
+              <p className="font-serif text-2xl font-semibold text-primary">{tier.price}</p>
+              <p className="mt-2 text-sm font-medium text-ink">{tier.name}</p>
+              <p className="mt-1 text-xs text-ink-soft">{tier.note}</p>
+            </div>
+          ))}
+        </div>
+        <div className="mx-auto mt-6 max-w-md rounded-2xl bg-primary-light p-5 text-center">
+          <p className="font-semibold text-primary">Abonnement Sérénité — à partir de 14,90 €/mois</p>
+          <p className="mt-1 text-sm text-ink-soft">
+            Surveillance des échéances, alertes anticipées, tarifs préférentiels et
+            actes guidés inclus.
+          </p>
         </div>
       </section>
 
@@ -320,7 +353,7 @@ export default function LandingPage() {
         <div className="mx-auto max-w-marketing px-6 py-12">
           <div className="grid gap-10 sm:grid-cols-4">
             <div>
-              <span className="font-serif text-lg font-semibold text-primary">AdminZen</span>
+              <span className="font-serif text-lg font-semibold text-primary">Sérénio</span>
               <p className="mt-3 text-sm text-ink-soft">
                 On s&apos;occupe de ton administratif. Toi, tu vis.
               </p>
@@ -330,6 +363,7 @@ export default function LandingPage() {
               <ul className="mt-3 space-y-2 text-sm text-ink-soft">
                 <li><a href="#comment-ca-marche" className="hover:text-ink">Comment ça marche</a></li>
                 <li><a href="#demarches" className="hover:text-ink">Démarches couvertes</a></li>
+                <li><a href="#tarifs" className="hover:text-ink">Tarifs</a></li>
                 <li><a href="#faq" className="hover:text-ink">FAQ</a></li>
               </ul>
             </div>
@@ -350,7 +384,7 @@ export default function LandingPage() {
             </div>
           </div>
           <p className="mt-10 border-t border-ink/10 pt-6 text-xs text-ink-soft">
-            © {new Date().getFullYear()} AdminZen — Prototype de conception, données
+            © {new Date().getFullYear()} Sérénio — Prototype de conception, données
             simulées.
           </p>
         </div>
