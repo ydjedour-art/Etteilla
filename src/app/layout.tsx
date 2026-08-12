@@ -1,10 +1,16 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import { Header } from "@/components/Header";
+import { Footer } from "@/components/Footer";
 
 export const metadata: Metadata = {
-  title: "Sérénio — On s'occupe de ton administratif. Toi, tu vis.",
+  metadataBase: new URL("https://ydformation.lovable.app"),
+  title: {
+    default: "YD Formation — De la connaissance de soi à la gestion d'entreprise",
+    template: "%s | YD Formation",
+  },
   description:
-    "Sérénio est un filet de sécurité mental contre l'administratif français : CAF, impôts, URSSAF, titre de séjour... On s'en occupe pour vous.",
+    "Organisme de formation et d'accompagnement basé à Marseille : bilan de compétences, orientation, création d'entreprise, gestion et développement, parcours sur-mesure.",
 };
 
 export default function RootLayout({
@@ -14,8 +20,10 @@ export default function RootLayout({
 }) {
   return (
     <html lang="fr">
-      <body className="min-h-screen bg-surface font-sans text-ink antialiased">
-        {children}
+      <body className="flex min-h-screen flex-col bg-surface font-sans text-ink antialiased">
+        <Header />
+        <div className="flex-1">{children}</div>
+        <Footer />
       </body>
     </html>
   );
