@@ -2,10 +2,13 @@ import { Button } from "@/components/Button";
 import { BlockCard } from "@/components/BlockCard";
 import {
   CheckIcon,
-  MapPinIcon,
+  DownloadIcon,
+  GlobeIcon,
+  MessageIcon,
   RouteIcon,
   TargetIcon,
   UsersIcon,
+  VideoIcon,
 } from "@/components/Icons";
 import { OFFER_BLOCKS } from "@/lib/offers";
 import { BLOG_POSTS } from "@/lib/blog";
@@ -33,10 +36,33 @@ const WHY_US = [
       "Chaque formation suit une progression claire, avec des livrables concrets à chaque étape — pas une simple succession de conseils généraux.",
   },
   {
-    icon: MapPinIcon,
-    title: "Basés à Marseille, accessibles partout",
+    icon: GlobeIcon,
+    title: "Accessible partout en France",
     description:
-      "Sessions en présentiel à Marseille ou à distance selon vos contraintes, avec la même exigence de suivi individualisé.",
+      "Aucune contrainte de lieu ni de déplacement : la même exigence de suivi individualisé, où que vous soyez.",
+  },
+];
+
+const DISTANCIEL_ADVANTAGES = [
+  {
+    icon: GlobeIcon,
+    title: "100 % à distance",
+    text: "Du premier échange au bilan final, tout se déroule en visioconférence — aucun déplacement nécessaire.",
+  },
+  {
+    icon: DownloadIcon,
+    title: "Supports téléchargeables",
+    text: "Les supports de cours au format PDF restent à vous, consultables à votre rythme.",
+  },
+  {
+    icon: VideoIcon,
+    title: "Vidéos de formation",
+    text: "Des séquences vidéo pour revoir une notion ou avancer en autonomie entre deux séances.",
+  },
+  {
+    icon: MessageIcon,
+    title: "Conseillers à l'écoute",
+    text: "Un accompagnement individuel en visioconférence, avec des conseillers disponibles pour répondre à vos questions.",
   },
 ];
 
@@ -49,7 +75,7 @@ export default function HomePage() {
           <div>
             <span className="inline-flex items-center gap-2 rounded-full border border-primary/20 bg-primary-light px-3 py-1.5 text-sm font-medium text-primary">
               <RouteIcon className="h-4 w-4" />
-              Formation & accompagnement professionnel — Marseille
+              Formation & accompagnement professionnel — 100 % à distance
             </span>
             <h1 className="mt-6 font-serif text-4xl font-semibold leading-tight text-ink sm:text-5xl">
               De la connaissance de soi
@@ -121,8 +147,32 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* Pourquoi nous */}
+      {/* Une formation pensée pour le distanciel */}
       <section className="border-y border-ink/10 bg-white py-20">
+        <div className="mx-auto max-w-marketing px-6">
+          <h2 className="text-center font-serif text-3xl font-semibold text-ink">
+            Une formation pensée pour le distanciel
+          </h2>
+          <p className="mx-auto mt-3 max-w-xl text-center text-sm text-ink-soft">
+            Des conseillers à l&apos;écoute, où que vous soyez, et tous les outils pour
+            apprendre à votre rythme.
+          </p>
+          <div className="mt-12 grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
+            {DISTANCIEL_ADVANTAGES.map((item) => (
+              <div key={item.title} className="rounded-2xl border border-ink/10 p-6">
+                <span className="flex h-10 w-10 items-center justify-center rounded-full bg-primary-light text-primary">
+                  <item.icon className="h-5 w-5" />
+                </span>
+                <h3 className="mt-4 font-semibold text-ink">{item.title}</h3>
+                <p className="mt-2 text-sm text-ink-soft">{item.text}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Pourquoi nous */}
+      <section className="py-20">
         <div className="mx-auto max-w-marketing px-6">
           <h2 className="text-center font-serif text-3xl font-semibold text-ink">
             Pourquoi YD Formation

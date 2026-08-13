@@ -2,13 +2,13 @@ import type { Metadata } from "next";
 import { PageHero } from "@/components/PageHero";
 import { InfoStats } from "@/components/InfoStats";
 import { Button } from "@/components/Button";
-import { CheckIcon, ClockIcon, MapPinIcon, TagIcon, UsersIcon } from "@/components/Icons";
+import { CheckIcon, ClockIcon, GlobeIcon, TagIcon, UsersIcon } from "@/components/Icons";
 import { FEATURES } from "@/lib/features";
 
 export const metadata: Metadata = {
   title: "Formation création d'entreprise (RS6996)",
   description:
-    "Formation certifiante RS6996 pour structurer un projet de création ou de reprise d'entreprise : étude de marché, business model, prévisionnel financier, statut juridique. À Marseille ou à distance.",
+    "Formation certifiante RS6996 pour structurer un projet de création ou de reprise d'entreprise : étude de marché, business model, prévisionnel financier, statut juridique. 100 % à distance.",
 };
 
 const POUR_QUI = [
@@ -66,8 +66,8 @@ export default function CreationEntreprisePage() {
         <InfoStats
           items={[
             { icon: ClockIcon, label: "Durée", value: "70h sur 2 à 3 semaines" },
-            { icon: UsersIcon, label: "Format", value: "Individuel ou petit groupe" },
-            { icon: MapPinIcon, label: "Lieu", value: "Marseille ou à distance" },
+            { icon: UsersIcon, label: "Format", value: "Individuel ou petit groupe · 100 % à distance" },
+            { icon: GlobeIcon, label: "Modalité", value: "Visioconférence, où que vous soyez" },
             {
               icon: TagIcon,
               label: "Financement",

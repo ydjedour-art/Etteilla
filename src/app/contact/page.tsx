@@ -1,12 +1,12 @@
 import type { Metadata } from "next";
 import { PageHero } from "@/components/PageHero";
 import { ContactForm } from "@/components/ContactForm";
-import { MailIcon, MapPinIcon, PhoneIcon, ClockIcon } from "@/components/Icons";
+import { GlobeIcon, MailIcon, PhoneIcon, ClockIcon } from "@/components/Icons";
 
 export const metadata: Metadata = {
   title: "Contact",
   description:
-    "Un projet d'orientation, de formation ou de création/gestion d'entreprise ? Contactez YD Formation à Marseille pour un premier échange sans engagement.",
+    "Un projet d'orientation, de formation ou de création/gestion d'entreprise ? Contactez YD Formation, 100 % à distance, pour un premier échange sans engagement.",
 };
 
 export default function ContactPage() {
@@ -24,11 +24,11 @@ export default function ContactPage() {
             <h2 className="font-serif text-2xl font-semibold text-ink">Nos coordonnées</h2>
             <ul className="mt-6 space-y-5 text-sm text-ink-soft">
               <li className="flex items-start gap-3">
-                <MapPinIcon className="mt-0.5 h-5 w-5 shrink-0 text-primary" />
+                <GlobeIcon className="mt-0.5 h-5 w-5 shrink-0 text-primary" />
                 <span>
-                  Marseille, France
+                  100 % à distance
                   <br />
-                  Sessions en présentiel ou à distance selon votre situation.
+                  Un accompagnement individuel par visioconférence, où que vous soyez en France.
                 </span>
               </li>
               <li className="flex items-start gap-3">

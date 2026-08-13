@@ -185,3 +185,40 @@ export function TagIcon({ className = "" }: IconProps) {
     </svg>
   );
 }
+
+export function GlobeIcon({ className = "" }: IconProps) {
+  return (
+    <svg {...base} className={className} aria-hidden>
+      <circle cx="12" cy="12" r="8.5" />
+      <path d="M3.5 12h17" />
+      <path d="M12 3.5c2.5 2.3 3.8 5.3 3.8 8.5s-1.3 6.2-3.8 8.5c-2.5-2.3-3.8-5.3-3.8-8.5S9.5 5.8 12 3.5Z" strokeLinejoin="round" />
+    </svg>
+  );
+}
+
+export function VideoIcon({ className = "" }: IconProps) {
+  return (
+    <svg {...base} className={className} aria-hidden>
+      <rect x="3" y="6.5" width="12" height="11" rx="2" />
+      <path d="m15 10.3 5.5-3.2v9.8L15 13.7" strokeLinejoin="round" />
+    </svg>
+  );
+}
+
+export function DownloadIcon({ className = "" }: IconProps) {
+  return (
+    <svg {...base} className={className} aria-hidden>
+      <path d="M12 3.5v11" />
+      <path d="m7.5 10.5 4.5 4.5 4.5-4.5" />
+      <path d="M4.5 17.5v1.5a2 2 0 0 0 2 2h11a2 2 0 0 0 2-2v-1.5" />
+    </svg>
+  );
+}
+
+export function MessageIcon({ className = "" }: IconProps) {
+  return (
+    <svg {...base} className={className} aria-hidden>
+      <path d="M4 5.5h16v10H9l-4 3.5v-3.5H4Z" strokeLinejoin="round" />
+    </svg>
+  );
+}

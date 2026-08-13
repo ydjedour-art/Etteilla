@@ -49,7 +49,7 @@ export const OFFER_BLOCKS: OfferBlock[] = [
         description:
           "Un accompagnement individuel en trois phases (préliminaire, investigation, conclusions) pour analyser votre parcours, vos compétences transférables et construire un projet professionnel réaliste et argumenté.",
         duration: "1 à 3 mois — 24h réparties selon votre rythme",
-        price: "Financement possible selon votre situation",
+        price: "1 590 €",
         cpfEligible: true,
         href: "/offres/bilan-de-competences",
       },
@@ -123,7 +123,7 @@ export const OFFER_BLOCKS: OfferBlock[] = [
         description:
           "Le parcours de référence pour structurer un projet de création ou de reprise d'entreprise : étude de marché, business model, prévisionnel financier, choix du statut, jusqu'à la présentation du projet.",
         duration: "70h, réparties sur 2 à 3 semaines",
-        price: "Financement possible selon votre profil",
+        price: "1 450 €",
         cpfEligible: true,
         href: "/offres/creation-entreprise",
       },

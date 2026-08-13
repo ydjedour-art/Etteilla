@@ -7,7 +7,7 @@ const block = getBlockBySlug("parcours-sur-mesure")!;
 export const metadata: Metadata = {
   title: block.title,
   description:
-    "Parcours combinés de l'idée à la gestion, modules à la carte et coaching individuel : un accompagnement sur-mesure avec YD Formation à Marseille.",
+    "Parcours combinés de l'idée à la gestion, modules à la carte et coaching individuel : un accompagnement sur-mesure 100 % à distance avec YD Formation.",
 };
 
 export default function ParcoursSurMesurePage() {

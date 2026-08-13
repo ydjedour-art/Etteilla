@@ -5,6 +5,7 @@ import { OfferCard } from "@/components/OfferCard";
 import { Button } from "@/components/Button";
 import { ArrowRightIcon } from "@/components/Icons";
 import { OFFER_BLOCKS } from "@/lib/offers";
+import { FEATURES } from "@/lib/features";
 
 export const metadata: Metadata = {
   title: "Toutes nos offres",
@@ -75,7 +76,7 @@ export default function OffresPage() {
                 </Link>
               </div>
 
-              <div className="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+              <div className="mt-8 grid items-start gap-6 sm:grid-cols-2 lg:grid-cols-3">
                 {block.items.map((item) => (
                   <OfferCard key={item.slug} item={item} id={`${block.slug}-${item.slug}`} />
                 ))}
@@ -84,6 +85,16 @@ export default function OffresPage() {
           </section>
         );
       })}
+
+      <section className="mx-auto max-w-marketing px-6 pt-4">
+        <p className="max-w-3xl text-xs leading-relaxed text-ink-soft/80">
+          Tous les tarifs affichés sont nets de taxe (TVA non applicable — article
+          261-4-4° du CGI).
+          {FEATURES.cpf &&
+            " Le bilan de compétences et la formation création d'entreprise sont éligibles au CPF, sous réserve des plafonds en vigueur et de vos droits disponibles."}{" "}
+          Un devis détaillé vous est systématiquement envoyé avant tout engagement.
+        </p>
+      </section>
 
       <section className="mx-auto max-w-marketing px-6 py-20">
         <div className="rounded-2xl bg-primary px-8 py-14 text-center text-white">

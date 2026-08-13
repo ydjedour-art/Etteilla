@@ -2,13 +2,13 @@ import type { Metadata } from "next";
 import { PageHero } from "@/components/PageHero";
 import { InfoStats } from "@/components/InfoStats";
 import { Button } from "@/components/Button";
-import { CheckIcon, ClockIcon, MapPinIcon, TagIcon, UsersIcon } from "@/components/Icons";
+import { CheckIcon, ClockIcon, GlobeIcon, TagIcon, UsersIcon } from "@/components/Icons";
 import { FEATURES } from "@/lib/features";
 
 export const metadata: Metadata = {
   title: "Bilan de compétences",
   description:
-    "Un bilan de compétences individuel en trois phases pour analyser votre parcours, vos compétences transférables et construire un projet professionnel réaliste. À Marseille ou à distance.",
+    "Un bilan de compétences individuel en trois phases pour analyser votre parcours, vos compétences transférables et construire un projet professionnel réaliste. 100 % à distance.",
 };
 
 const POUR_QUI = [
@@ -63,8 +63,8 @@ export default function BilanDeCompetencesPage() {
         <InfoStats
           items={[
             { icon: ClockIcon, label: "Durée", value: "24h réparties sur 1 à 3 mois" },
-            { icon: UsersIcon, label: "Format", value: "Individuel, présentiel ou distanciel" },
-            { icon: MapPinIcon, label: "Lieu", value: "Marseille ou à distance" },
+            { icon: UsersIcon, label: "Format", value: "Individuel · 100 % à distance" },
+            { icon: GlobeIcon, label: "Modalité", value: "Visioconférence, où que vous soyez" },
             {
               icon: TagIcon,
               label: "Financement",

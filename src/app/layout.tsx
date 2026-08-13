@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     template: "%s | YD Formation",
   },
   description:
-    "Organisme de formation et d'accompagnement basé à Marseille : bilan de compétences, orientation, création d'entreprise, gestion et développement, parcours sur-mesure.",
+    "Organisme de formation et d'accompagnement 100 % à distance : bilan de compétences, orientation, création d'entreprise, gestion et développement, parcours sur-mesure.",
 };
 
 export default function RootLayout({

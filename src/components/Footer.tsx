@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { MailIcon, MapPinIcon, PhoneIcon } from "@/components/Icons";
+import { GlobeIcon, MailIcon, PhoneIcon } from "@/components/Icons";
 import { OFFER_BLOCKS } from "@/lib/offers";
 
 export function Footer() {
@@ -11,11 +11,11 @@ export function Footer() {
             <span className="font-serif text-lg font-semibold text-primary">YD Formation</span>
             <p className="mt-3 text-sm text-ink-soft">
               Un accompagnement structuré, de la connaissance de soi à la gestion
-              d&apos;entreprise — à Marseille et à distance.
+              d&apos;entreprise — 100 % à distance.
             </p>
             <ul className="mt-4 space-y-2 text-sm text-ink-soft">
               <li className="flex items-center gap-2">
-                <MapPinIcon className="h-4 w-4 shrink-0" /> Marseille, France
+                <GlobeIcon className="h-4 w-4 shrink-0" /> 100 % à distance, partout en France
               </li>
               <li className="flex items-center gap-2">
                 <MailIcon className="h-4 w-4 shrink-0" /> contact@ydformation.fr
@@ -93,7 +93,7 @@ export function Footer() {
         </div>
 
         <p className="mt-10 border-t border-ink/10 pt-6 text-xs text-ink-soft">
-          © {new Date().getFullYear()} YD Formation — Organisme de formation basé à Marseille.
+          © {new Date().getFullYear()} YD Formation — Organisme de formation 100 % à distance.
         </p>
       </div>
     </footer>

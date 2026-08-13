@@ -2,12 +2,12 @@ import type { Metadata } from "next";
 import { PageHero } from "@/components/PageHero";
 import { InfoStats } from "@/components/InfoStats";
 import { Button } from "@/components/Button";
-import { CheckIcon, ClockIcon, MapPinIcon, TagIcon, UsersIcon } from "@/components/Icons";
+import { CheckIcon, ClockIcon, GlobeIcon, TagIcon, UsersIcon } from "@/components/Icons";
 
 export const metadata: Metadata = {
   title: "RGPD & protection des données",
   description:
-    "Formation et accompagnement opérationnel à la mise en conformité RGPD : cartographie des traitements, registre, sensibilisation des équipes. À Marseille ou à distance.",
+    "Formation et accompagnement opérationnel à la mise en conformité RGPD : cartographie des traitements, registre, sensibilisation des équipes. 100 % à distance.",
 };
 
 const POUR_QUI = [
@@ -60,8 +60,8 @@ export default function RgpdDpoPage() {
         <InfoStats
           items={[
             { icon: ClockIcon, label: "Durée", value: "1 à 2 jours (audit + formation)" },
-            { icon: UsersIcon, label: "Format", value: "Individuel ou équipe" },
-            { icon: MapPinIcon, label: "Lieu", value: "Marseille ou à distance" },
+            { icon: UsersIcon, label: "Format", value: "Individuel ou équipe · 100 % à distance" },
+            { icon: GlobeIcon, label: "Modalité", value: "Visioconférence, où que vous soyez" },
             { icon: TagIcon, label: "Tarif", value: "Sur devis" },
           ]}
         />

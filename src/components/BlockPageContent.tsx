@@ -27,7 +27,7 @@ export function BlockPageContent({ block }: { block: OfferBlock }) {
         <h2 className="font-serif text-2xl font-semibold text-ink">
           Formations et modules de ce bloc
         </h2>
-        <div className="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+        <div className="mt-8 grid items-start gap-6 sm:grid-cols-2 lg:grid-cols-3">
           {block.items.map((item) => (
             <OfferCard key={item.slug} item={item} />
           ))}
