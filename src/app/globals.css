@@ -11,27 +11,16 @@ body {
   color: #14181f;
 }
 
-/* Halo dégradé discret pour la landing — bleu marine institutionnel, palette
- * "confiance officielle" (docs/05-design-system.md). */
+/* Halo dégradé discret pour les en-têtes de page — bleu marine + accent,
+ * palette "legaltech premium accessible" du site. */
 .hero-glow {
   background:
     radial-gradient(45% 55% at 20% 0%, rgba(15, 44, 89, 0.08), transparent 70%),
     radial-gradient(35% 45% at 85% 10%, rgba(29, 95, 214, 0.07), transparent 70%);
 }
 
-/* Masque la navigation et les actions non pertinentes à l'impression — utilisé
- * par la page de mandat de représentation (impression/export PDF navigateur). */
-@media print {
-  .no-print {
-    display: none !important;
-  }
-  body {
-    background: white;
-  }
-}
-
-/* Motif "document officiel" utilisé en attendant une vraie photographie
- * (voir README pour comment remplacer par une photo réelle). */
+/* Motif de fond utilisé en attendant une vraie photographie (voir README pour
+ * comment remplacer un emplacement par une photo réelle). */
 .official-photo-placeholder {
   background:
     linear-gradient(155deg, #0f2c59 0%, #163a70 55%, #1d5fd6 100%);

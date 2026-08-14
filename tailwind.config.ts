@@ -1,6 +1,6 @@
 import type { Config } from "tailwindcss";
 
-// Palette et échelle typographique alignées sur docs/05-design-system.md
+// Palette et échelle typographique du site YD Formation.
 const config: Config = {
   content: [
     "./src/app/**/*.{ts,tsx}",
@@ -9,10 +9,9 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        // Palette "confiance officielle" : bleu marine institutionnel (marque/CTA),
+        // Palette "legaltech premium accessible" : bleu marine (marque/CTA),
         // bleu plus clair en accent, or discret pour l'attention, vert pour le
-        // succès — inspirée des codes visuels des services officiels et des
-        // marques de confiance (assurance, immigration). Voir docs/05-design-system.md.
+        // succès — sobre, professionnelle, aérée.
         primary: {
           DEFAULT: "#0F2C59",
           light: "#E8EDF6",
