@@ -1,8 +1,10 @@
 "use client";
 
 import { useMemo, useState } from "react";
-import { SearchIcon } from "@/components/icons";
+import Link from "next/link";
+import { ArrowRightIcon, SearchIcon } from "@/components/icons";
 import type { FormalityTemplate } from "@/lib/types";
+import { findDemarcheMapping } from "@data/demarches-izyd";
 
 const AUTOMATION_LABELS: Record<FormalityTemplate["automationLevel"], string> = {
   guide: "On te guide",
@@ -99,23 +101,34 @@ export function DemarchesExplorer({ templates }: { templates: FormalityTemplate[
         </div>
       ) : (
         <div className="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-          {filtered.map((template) => (
-            <div key={template.slug} className="card-interactive flex h-full flex-col p-5">
-              <div className="flex items-start justify-between gap-3">
-                <span aria-hidden="true" className="text-2xl">
-                  {CATEGORY_EMOJI[template.category] ?? "📄"}
-                </span>
-                <span className="whitespace-nowrap rounded-full bg-primary-light px-2.5 py-1 text-[11px] font-bold text-primary">
-                  {AUTOMATION_LABELS[template.automationLevel]}
-                </span>
+          {filtered.map((template) => {
+            const mapping = findDemarcheMapping(template.slug);
+            return (
+              <div key={template.slug} className="card-interactive flex h-full flex-col p-5">
+                <div className="flex items-start justify-between gap-3">
+                  <span aria-hidden="true" className="text-2xl">
+                    {CATEGORY_EMOJI[template.category] ?? "📄"}
+                  </span>
+                  <span className="whitespace-nowrap rounded-full bg-primary-light px-2.5 py-1 text-[11px] font-bold text-primary">
+                    {AUTOMATION_LABELS[template.automationLevel]}
+                  </span>
+                </div>
+                <h3 className="mt-3 font-display text-lg font-extrabold text-ink">{template.name}</h3>
+                <p className="text-xs text-ink-soft">{template.organisme}</p>
+                <p className="mt-3 text-xs font-semibold text-ink-soft">
+                  ~{template.estimatedDurationMinutes} min de ton temps
+                </p>
+                {mapping?.dossierRef && (
+                  <Link
+                    href={`/demarches/${mapping.dossierRef.theme}/${mapping.dossierRef.dossier}`}
+                    className="mt-3 inline-flex items-center gap-1 text-xs font-bold text-primary hover:underline"
+                  >
+                    En savoir plus (Service-Public.fr) <ArrowRightIcon className="h-3 w-3" />
+                  </Link>
+                )}
               </div>
-              <h3 className="mt-3 font-display text-lg font-extrabold text-ink">{template.name}</h3>
-              <p className="text-xs text-ink-soft">{template.organisme}</p>
-              <p className="mt-3 text-xs font-semibold text-ink-soft">
-                ~{template.estimatedDurationMinutes} min de ton temps
-              </p>
-            </div>
-          ))}
+            );
+          })}
         </div>
       )}
     </div>
