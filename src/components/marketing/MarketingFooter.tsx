@@ -1,3 +1,4 @@
+import { BrandMark } from "@/components/BrandMark";
 import { LockIcon, MapPinIcon, ShieldIcon } from "@/components/icons";
 
 /** Pied de page commun aux pages du portail visiteur. */
@@ -7,7 +8,10 @@ export function MarketingFooter() {
       <div className="mx-auto max-w-marketing px-6 py-12">
         <div className="grid gap-10 sm:grid-cols-4">
           <div>
-            <span className="font-display text-lg font-extrabold text-ink">IZY/D</span>
+            <div className="flex items-center gap-2">
+              <BrandMark className="h-7 w-7 shrink-0" />
+              <span className="font-display text-lg font-extrabold text-ink">IZY/D</span>
+            </div>
             <p className="mt-3 text-sm text-ink-soft">
               On s&apos;occupe de ton administratif. Toi, tu vis.
             </p>

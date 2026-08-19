@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import type { ReactNode } from "react";
+import { BrandMark } from "@/components/BrandMark";
 
 function HomeIcon() {
   return (
@@ -64,7 +65,8 @@ export function AppNav() {
 
   return (
     <nav className="no-print fixed inset-x-0 bottom-0 z-10 border-t border-ink/10 bg-white/95 backdrop-blur sm:sticky sm:top-0 sm:h-screen sm:w-56 sm:border-r sm:border-t-0">
-      <div className="hidden px-6 py-6 sm:block">
+      <div className="hidden items-center gap-2.5 px-6 py-6 sm:flex">
+        <BrandMark className="h-8 w-8 shrink-0" />
         <span className="font-display text-lg font-extrabold text-ink">IZY/D</span>
       </div>
       {/* pb-[env(safe-area-inset-bottom)] : évite que la barre passe sous l'indicateur
