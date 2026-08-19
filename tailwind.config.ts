@@ -1,6 +1,9 @@
 import type { Config } from "tailwindcss";
 
-// Palette et échelle typographique alignées sur docs/05-design-system.md
+// Charte graphique IZY/D — empruntée à YD Formation (bleu Klein + jaune
+// citron + rose flash, Plus Jakarta Sans / Source Sans 3), déclinée pour un
+// ton d'impact plus fort et moins institutionnel que la V1 "confiance
+// officielle". Voir docs/05-design-system.md.
 const config: Config = {
   content: [
     "./src/app/**/*.{ts,tsx}",
@@ -9,48 +12,45 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        // Palette "confiance officielle" : bleu marine institutionnel (marque/CTA),
-        // bleu plus clair en accent, or discret pour l'attention, vert pour le
-        // succès — inspirée des codes visuels des services officiels et des
-        // marques de confiance (assurance, immigration). Voir docs/05-design-system.md.
+        // Bleu Klein — couleur de marque n°1 : sections héros/CTA pleines,
+        // liens, boutons secondaires.
         primary: {
-          DEFAULT: "#0F2C59",
-          light: "#E8EDF6",
-          dark: "#081A38",
+          DEFAULT: "#002FA7",
+          light: "#E8ECFB",
+          dark: "#001E6C",
         },
-        surface: "#F7F7F5",
+        // Jaune citron — couleur de marque n°2, réservée à l'action : bouton
+        // principal, mise en évidence d'un mot clé (.underline-accent).
+        // Toujours du texte foncé dessus, jamais blanc.
+        accent: {
+          DEFAULT: "#FFE500",
+          foreground: "#001E6C",
+        },
+        // Rose flash — troisième ton, réservé aux points "wow" : halos des
+        // sections bleues, badges d'incitation.
+        flash: "#FF3EA5",
+        surface: "#F7F8FC",
         ink: {
-          DEFAULT: "#14181F",
-          soft: "#5B6270",
+          DEFAULT: "#0B1633",
+          soft: "#5B6480",
         },
-        accent: "#1D5FD6",
-        attention: "#9C6B00",
-        success: "#0F7A4C",
-        critical: "#B91C1C",
-        gold: "#B8860B",
+        attention: "#B45309",
+        success: "#2E7D4F",
+        critical: "#DC2626",
       },
       fontFamily: {
-        sans: [
-          "Inter",
-          "ui-sans-serif",
-          "system-ui",
-          "-apple-system",
-          "sans-serif",
-        ],
-        // Empilement serif natif (pas de dépendance réseau à une webfont) pour les
-        // titres — registre plus "éditorial / officiel" que le sans-serif seul.
-        serif: [
-          "ui-serif",
-          "Georgia",
-          "Cambria",
-          '"Times New Roman"',
-          "Times",
-          "serif",
-        ],
+        // Corps de texte.
+        sans: ["Source Sans 3", "ui-sans-serif", "system-ui", "sans-serif"],
+        // Titres — sans-serif géométrique très typé, gras, tracking serré
+        // (voir globals.css h1-h4). Remplace l'ancien empilement serif
+        // "confiance officielle" : IZY/D est un produit grand public, pas un
+        // service institutionnel.
+        display: ["Plus Jakarta Sans", "ui-sans-serif", "system-ui", "sans-serif"],
       },
       borderRadius: {
         xl: "1rem",
         "2xl": "1.5rem",
+        "3xl": "2rem",
       },
       maxWidth: {
         content: "680px",

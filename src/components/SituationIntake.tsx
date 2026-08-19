@@ -46,8 +46,8 @@ export function SituationIntake() {
 
   return (
     <div className="rounded-2xl border border-primary/15 bg-white p-6">
-      <p className="text-xs font-semibold uppercase tracking-wide text-accent">
-        Assistant Sérénio
+      <p className="text-xs font-semibold uppercase tracking-wide text-primary">
+        Assistant IZY/D
       </p>
       <h2 className="mt-1 text-lg font-semibold text-ink">
         Décrivez votre situation, on s&apos;occupe du reste

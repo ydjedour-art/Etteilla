@@ -22,7 +22,7 @@ export default function MandatPage({ params }: { params: { id: string } }) {
     if (!mandate && template) {
       generateMandate(
         dossier.id,
-        `Sérénio est mandaté pour préparer, transmettre et suivre la démarche « ${template.name} » auprès de ${template.organisme}, dans la limite strictement nécessaire à son traitement.`
+        `IZY/D est mandaté pour préparer, transmettre et suivre la démarche « ${template.name} » auprès de ${template.organisme}, dans la limite strictement nécessaire à son traitement.`
       );
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
@@ -50,12 +50,12 @@ export default function MandatPage({ params }: { params: { id: string } }) {
           Mandat de représentation
         </p>
         <h1 className="mt-2 text-center font-serif text-2xl font-semibold text-ink">
-          Sérénio
+          IZY/D
         </h1>
 
         <div className="mt-8 space-y-4 text-ink">
           <p>
-            Je soussigné(e) <strong>{state.user.firstName}</strong>, mandate Sérénio
+            Je soussigné(e) <strong>{state.user.firstName}</strong>, mandate IZY/D
             aux fins de représentation pour la démarche suivante :
           </p>
 
@@ -67,7 +67,7 @@ export default function MandatPage({ params }: { params: { id: string } }) {
           <p className="text-sm text-ink-soft">{mandate.scope}</p>
 
           <p>
-            Ce mandat est révocable à tout moment depuis mon espace Sérénio, avec
+            Ce mandat est révocable à tout moment depuis mon espace IZY/D, avec
             effet immédiat sur le traitement de cette démarche.
           </p>
 

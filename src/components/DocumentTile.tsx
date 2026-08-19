@@ -12,7 +12,7 @@ const VALIDITY_STYLES: Record<VaultDocument["validityStatus"], string> = {
   valide: "bg-primary/15 text-primary",
   expire_bientot: "bg-attention/15 text-attention",
   expire: "bg-critical/15 text-critical",
-  a_verifier: "bg-accent/15 text-accent",
+  a_verifier: "bg-primary/10 text-primary",
 };
 
 export function DocumentTile({ document }: { document: VaultDocument }) {

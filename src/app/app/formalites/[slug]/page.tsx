@@ -75,7 +75,7 @@ export default function FormaliteDetailPage({
         <span className="inline-flex items-center gap-1.5 rounded-full bg-primary-light px-3 py-1.5 font-medium text-primary">
           <ClockIcon /> {template.estimatedDurationMinutes} min de votre temps
         </span>
-        <span className="inline-flex items-center gap-1.5 rounded-full bg-accent/10 px-3 py-1.5 font-medium text-accent">
+        <span className="inline-flex items-center gap-1.5 rounded-full bg-primary/10 px-3 py-1.5 font-medium text-primary">
           <RepeatIcon /> {RECURRENCE_LABELS[template.recurrence]}
         </span>
       </div>

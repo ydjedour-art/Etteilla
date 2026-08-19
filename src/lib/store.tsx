@@ -37,7 +37,7 @@ import type {
   VaultDocument,
 } from "@/lib/types";
 
-const STORAGE_KEY = "serenio-store-v1";
+const STORAGE_KEY = "izy-d-store-v1";
 
 interface AppState {
   user: UserProfile;
@@ -386,7 +386,7 @@ export function AppStoreProvider({ children }: { children: ReactNode }) {
     const url = URL.createObjectURL(blob);
     const link = document.createElement("a");
     link.href = url;
-    link.download = "serenio-mes-donnees.json";
+    link.download = "izy-d-mes-donnees.json";
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);

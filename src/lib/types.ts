@@ -88,7 +88,7 @@ export interface Mandate {
   revokedAt: string | null;
 }
 
-/** Modèle tarifaire Sérénio : trois formules d'abonnement cohérentes et
+/** Modèle tarifaire IZY/D : trois formules d'abonnement cohérentes et
  * progressives (Essentiel, Sérénité, Zen Total) + une option "à la carte"
  * sans engagement, payée à la démarche selon sa complexité ("aucun"). Le
  * détail (prix, contenu) vit dans une source unique, `src/lib/plans.ts`, pour
@@ -114,13 +114,15 @@ export const STATUS_LABELS: Record<DossierStatus, string> = {
 };
 
 /** Couleurs Tailwind associées à chaque statut, cf. docs/05-design-system.md
- * (jamais de rouge vif hors blocage réel, l'or porte l'attention). */
+ * (jamais de rouge vif hors blocage réel ; le bleu Klein porte les statuts
+ * "en cours", l'ambre porte l'attention — l'accent jaune citron reste
+ * réservé à l'action, jamais à un statut). */
 export const STATUS_STYLES: Record<DossierStatus, string> = {
   a_demarrer: "bg-ink-soft/10 text-ink-soft",
   infos_manquantes: "bg-attention/15 text-attention",
-  pret_a_soumettre: "bg-accent/15 text-accent",
-  soumis: "bg-accent/15 text-accent",
-  en_attente_administration: "bg-accent/15 text-accent",
+  pret_a_soumettre: "bg-primary/10 text-primary",
+  soumis: "bg-primary/10 text-primary",
+  en_attente_administration: "bg-primary/10 text-primary",
   action_requise: "bg-attention/15 text-attention",
   termine: "bg-success/15 text-success",
   refuse: "bg-critical/15 text-critical",

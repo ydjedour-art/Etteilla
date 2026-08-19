@@ -1,8 +1,8 @@
-# Sérénio 🌿
+# IZY/D 🟡
 
 > **« On s'occupe de ton administratif. Toi, tu vis. »**
 
-Sérénio est un filet de sécurité mental contre l'administratif français. L'application
+IZY/D est un filet de sécurité mental contre l'administratif français. L'application
 s'adresse aux personnes fatiguées par la charge mentale administrative — expatriés,
 Français lambda, aidants — confrontées à la CAF, aux impôts, à l'URSSAF, aux titres de
 séjour, etc.
@@ -34,10 +34,11 @@ automatiquement une démarche, faire avancer un statut, changer de formule, expo
 supprimer ses données) sans nécessiter de back-end. C'est un outil de validation UX, pas
 encore la version connectée aux vraies administrations (voir `docs/04-architecture-technique.md`).
 
-Direction visuelle « confiance officielle » : bleu marine (`#0F2C59`) + bleu accent
-(`#1D5FD6`) + or discret (`#9C6B00`/`#B8860B`) sur une base grise neutre, typographie
-serif éditoriale pour les titres — inspirée des marques de confiance de l'administratif
-(`docs/05-design-system.md`).
+Direction visuelle empruntée à la charte YD Formation : bleu Klein (`#002FA7`) + jaune
+citron (`#FFE500`, seule couleur d'action du site) + rose flash (`#FF3EA5`) en accent
+"wow", sur fond blanc franc, typographie Plus Jakarta Sans (titres, très grasse) /
+Source Sans 3 (texte) — ton direct et peu de texte par écran, plutôt que le registre
+institutionnel de la V1 (voir `tailwind.config.ts` et `src/app/globals.css`).
 
 ### 📸 Ajouter de vraies photos
 

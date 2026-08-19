@@ -7,16 +7,23 @@ html {
 }
 
 body {
-  background-color: #f7f7f5;
-  color: #14181f;
+  background-color: #ffffff;
+  color: #0b1633;
 }
 
-/* Halo dégradé discret pour la landing — bleu marine institutionnel, palette
- * "confiance officielle" (docs/05-design-system.md). */
+h1,
+h2,
+h3,
+h4 {
+  letter-spacing: -0.03em;
+}
+
+/* Halo dégradé discret pour la landing — bleu Klein + touche rose flash,
+ * charte IZY/D (voir tailwind.config.ts). */
 .hero-glow {
   background:
-    radial-gradient(45% 55% at 20% 0%, rgba(15, 44, 89, 0.08), transparent 70%),
-    radial-gradient(35% 45% at 85% 10%, rgba(29, 95, 214, 0.07), transparent 70%);
+    radial-gradient(45% 55% at 15% 0%, rgba(0, 47, 167, 0.07), transparent 70%),
+    radial-gradient(35% 45% at 90% 15%, rgba(255, 62, 165, 0.08), transparent 70%);
 }
 
 /* Masque la navigation et les actions non pertinentes à l'impression — utilisé
@@ -30,11 +37,10 @@ body {
   }
 }
 
-/* Motif "document officiel" utilisé en attendant une vraie photographie
- * (voir README pour comment remplacer par une photo réelle). */
+/* Motif "signature" utilisé en attendant une vraie photographie (voir README
+ * pour comment remplacer par une photo réelle). */
 .official-photo-placeholder {
-  background:
-    linear-gradient(155deg, #0f2c59 0%, #163a70 55%, #1d5fd6 100%);
+  background: linear-gradient(155deg, #002fa7 0%, #0040c9 55%, #ff3ea5 130%);
   position: relative;
   overflow: hidden;
 }
@@ -42,8 +48,73 @@ body {
   content: "";
   position: absolute;
   inset: 0;
-  background-image: radial-gradient(rgba(255, 255, 255, 0.08) 1px, transparent 1px);
+  background-image: radial-gradient(rgba(255, 255, 255, 0.1) 1px, transparent 1px);
   background-size: 18px 18px;
+}
+
+/* Surlignage signature jaune citron derrière un mot clé, façon marqueur —
+ * réservé à UN mot ou groupe de mots par titre, jamais une phrase entière. */
+.underline-accent {
+  background-image: linear-gradient(#ffe500, #ffe500);
+  background-repeat: no-repeat;
+  background-position: 0 62%;
+  background-size: 100% 0.6em;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+
+/* Carte statique : base commune à toutes les cartes du site. */
+.card-surface {
+  background-color: #ffffff;
+  border: 1px solid rgb(11 22 51 / 0.1);
+  border-radius: 1rem;
+  box-shadow:
+    0 1px 2px rgb(11 22 51 / 0.04),
+    0 8px 24px rgb(11 22 51 / 0.05);
+}
+
+/* Carte cliquable (démarches, offres) : même base, avec un hover unifié
+ * (légère élévation + bordure jaune) partagé par toutes les cartes
+ * interactives du site. */
+.card-interactive {
+  background-color: #ffffff;
+  border: 1px solid rgb(11 22 51 / 0.1);
+  border-radius: 1rem;
+  box-shadow: 0 1px 2px rgb(11 22 51 / 0.04);
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease,
+    border-color 0.2s ease;
+}
+.card-interactive:hover {
+  transform: translateY(-3px);
+  box-shadow:
+    0 2px 4px rgb(11 22 51 / 0.06),
+    0 16px 40px rgb(11 22 51 / 0.08);
+  border-color: #ffe500;
+}
+
+/* Halo rose flash animé — réservé aux sections bleu Klein "impact"
+ * (bandeau CTA), en complément du halo jaune fixe. */
+@keyframes float-glow {
+  0%,
+  100% {
+    transform: translate(0, 0) scale(1);
+    opacity: 0.45;
+  }
+  50% {
+    transform: translate(-8%, 10%) scale(1.2);
+    opacity: 0.8;
+  }
+}
+.animate-float-glow {
+  animation: float-glow 6s ease-in-out infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-float-glow {
+    animation: none;
+  }
 }
 
 /* Cible tactile confortable par défaut pour un public parfois fatigué / peu à l'aise

@@ -12,7 +12,7 @@ export default function ProfilPage() {
 
   function handleDelete() {
     const confirmed = window.confirm(
-      "Supprimer votre compte et toutes vos données Sérénio ? Cette action est irréversible."
+      "Supprimer votre compte et toutes vos données IZY/D ? Cette action est irréversible."
     );
     if (!confirmed) return;
     resetAccount();
@@ -67,10 +67,10 @@ export default function ProfilPage() {
                 <button
                   type="button"
                   onClick={() => setSubscription(active ? "aucun" : plan.id)}
-                  className={`mt-4 inline-flex items-center justify-center gap-2 rounded-xl px-4 py-2.5 text-sm font-medium transition-colors min-h-[44px] ${
+                  className={`mt-4 inline-flex items-center justify-center gap-2 rounded-xl px-4 py-2.5 text-sm font-bold transition-colors min-h-[44px] ${
                     active
                       ? "bg-transparent text-critical hover:bg-critical/10"
-                      : "bg-primary text-white hover:bg-primary-dark"
+                      : "bg-accent text-accent-foreground hover:opacity-90"
                   }`}
                 >
                   {active ? "Résilier" : `Choisir ${plan.name}`}

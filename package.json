@@ -1,8 +1,8 @@
 {
-  "name": "serenio",
+  "name": "izy-d",
   "version": "0.1.0",
   "private": true,
-  "description": "Sérénio — l'assistant administratif qui prend en charge ou pilote vos démarches avec l'administration française. Prototype UX (données simulées).",
+  "description": "IZY/D — l'assistant administratif qui prend en charge ou pilote vos démarches avec l'administration française. Prototype UX (données simulées).",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

@@ -1,22 +1,22 @@
 "use client";
 
 import { useMemo, useState } from "react";
-import Link from "next/link";
-import { ArrowRightIcon, SearchIcon } from "@/components/icons";
+import { SearchIcon } from "@/components/icons";
 import type { FormalityTemplate } from "@/lib/types";
 
 const AUTOMATION_LABELS: Record<FormalityTemplate["automationLevel"], string> = {
-  guide: "On vous guide",
+  guide: "On te guide",
   pre_rempli: "On pré-remplit",
   delegue: "On s'en occupe entièrement",
 };
 
-const RECURRENCE_LABELS: Record<FormalityTemplate["recurrence"], string> = {
-  ponctuelle: "Ponctuelle",
-  mensuelle: "Tous les mois",
-  trimestrielle: "Tous les trimestres",
-  annuelle: "Tous les ans",
-  pluriannuelle: "Tous les quelques années",
+const CATEGORY_EMOJI: Record<string, string> = {
+  Impôts: "📑",
+  "Aides & allocations": "🏠",
+  Indépendant: "💼",
+  "Titre de séjour": "🛂",
+  Santé: "🏥",
+  "Vie quotidienne": "✉️",
 };
 
 /** Catalogue public des démarches couvertes — filtrable par catégorie et par
@@ -55,7 +55,7 @@ export function DemarchesExplorer({ templates }: { templates: FormalityTemplate[
             type="search"
             value={query}
             onChange={(e) => setQuery(e.target.value)}
-            placeholder="Chercher une démarche, un organisme…"
+            placeholder="Chercher une démarche…"
             className="w-full rounded-xl border border-ink/10 bg-white py-2.5 pl-10 pr-4 text-sm text-ink placeholder:text-ink-soft/70 focus:border-primary focus:outline-none"
           />
         </label>
@@ -63,7 +63,7 @@ export function DemarchesExplorer({ templates }: { templates: FormalityTemplate[
           <button
             type="button"
             onClick={() => setCategory(null)}
-            className={`rounded-full px-3.5 py-1.5 text-xs font-medium transition-colors ${
+            className={`rounded-full px-3.5 py-1.5 text-xs font-bold transition-colors ${
               category === null
                 ? "bg-primary text-white"
                 : "bg-white text-ink-soft ring-1 ring-inset ring-ink/10 hover:text-ink"
@@ -76,7 +76,7 @@ export function DemarchesExplorer({ templates }: { templates: FormalityTemplate[
               key={cat}
               type="button"
               onClick={() => setCategory(cat === category ? null : cat)}
-              className={`rounded-full px-3.5 py-1.5 text-xs font-medium transition-colors ${
+              className={`rounded-full px-3.5 py-1.5 text-xs font-bold transition-colors ${
                 category === cat
                   ? "bg-primary text-white"
                   : "bg-white text-ink-soft ring-1 ring-inset ring-ink/10 hover:text-ink"
@@ -91,53 +91,33 @@ export function DemarchesExplorer({ templates }: { templates: FormalityTemplate[
       {/* Résultats */}
       {filtered.length === 0 ? (
         <div className="mt-10 rounded-2xl border border-dashed border-ink/20 bg-white p-10 text-center">
-          <p className="font-medium text-ink">Aucune démarche ne correspond à votre recherche.</p>
+          <p className="font-bold text-ink">Aucune démarche ne correspond à ta recherche.</p>
           <p className="mt-1 text-sm text-ink-soft">
-            La liste s&apos;élargit régulièrement — parlez-nous de votre situation, on vous
-            dira si on peut déjà vous aider.
+            La liste s&apos;élargit régulièrement — raconte-nous ta situation, on te dira
+            si on peut déjà t&apos;aider.
           </p>
         </div>
       ) : (
         <div className="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
           {filtered.map((template) => (
-            <div
-              key={template.slug}
-              className="flex h-full flex-col rounded-2xl border border-ink/10 bg-white p-5 transition-shadow hover:shadow-md"
-            >
+            <div key={template.slug} className="card-interactive flex h-full flex-col p-5">
               <div className="flex items-start justify-between gap-3">
-                <p className="text-xs font-medium uppercase tracking-wide text-ink-soft">
-                  {template.organisme}
-                </p>
-                <span className="whitespace-nowrap rounded-full bg-primary-light px-2.5 py-1 text-[11px] font-medium text-primary">
+                <span aria-hidden="true" className="text-2xl">
+                  {CATEGORY_EMOJI[template.category] ?? "📄"}
+                </span>
+                <span className="whitespace-nowrap rounded-full bg-primary-light px-2.5 py-1 text-[11px] font-bold text-primary">
                   {AUTOMATION_LABELS[template.automationLevel]}
                 </span>
               </div>
-              <h3 className="mt-1.5 font-serif text-lg font-semibold text-ink">{template.name}</h3>
-              <p className="mt-2 flex-1 text-sm text-ink-soft">{template.description}</p>
-              <div className="mt-4 flex items-center justify-between text-xs text-ink-soft">
-                <span>{RECURRENCE_LABELS[template.recurrence]}</span>
-                <span>~{template.estimatedDurationMinutes} min de votre temps</span>
-              </div>
+              <h3 className="mt-3 font-display text-lg font-extrabold text-ink">{template.name}</h3>
+              <p className="text-xs text-ink-soft">{template.organisme}</p>
+              <p className="mt-3 text-xs font-semibold text-ink-soft">
+                ~{template.estimatedDurationMinutes} min de ton temps
+              </p>
             </div>
           ))}
         </div>
       )}
-
-      <div className="mt-10 flex flex-col items-center gap-3 rounded-2xl bg-primary-light p-6 text-center">
-        <p className="font-medium text-primary">
-          Votre situation n&apos;est pas dans la liste ?
-        </p>
-        <p className="max-w-md text-sm text-ink-soft">
-          Décrivez-la en une phrase pendant l&apos;inscription : on vous dit tout de suite
-          si on peut déjà vous aider.
-        </p>
-        <Link
-          href="/onboarding"
-          className="inline-flex items-center gap-1.5 text-sm font-semibold text-primary hover:underline"
-        >
-          Décrire ma situation <ArrowRightIcon className="h-4 w-4" />
-        </Link>
-      </div>
     </div>
   );
 }

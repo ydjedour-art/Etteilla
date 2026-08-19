@@ -1,4 +1,4 @@
-// Source unique du modèle tarifaire Sérénio : trois formules d'abonnement
+// Source unique du modèle tarifaire IZY/D : trois formules d'abonnement
 // cohérentes et progressives (Essentiel → Sérénité → Zen Total), chacune
 // incluant tout ce qu'offre la précédente, plus une option "à la carte" sans
 // engagement pour celles et ceux qui préfèrent payer démarche par démarche.
@@ -30,12 +30,12 @@ export const PLANS: Plan[] = [
     id: "essentiel",
     name: "Essentiel",
     tagline: "Pour ne plus rien oublier",
-    bestFor: "Vous voulez garder le contrôle, sans y penser tous les jours.",
+    bestFor: "Tu veux garder le contrôle, sans y penser tous les jours.",
     monthlyPrice: 9.9,
     annualMonthlyPrice: 8.25,
     features: [
       "Coffre-fort de documents illimité et chiffré",
-      "Détection automatique des démarches qui vous concernent",
+      "Détection automatique de chaque démarche à traiter",
       "Checklist claire des pièces à fournir",
       "Rappels avant chaque échéance importante",
       "Tarifs à l'acte sur les démarches guidées ou prises en charge",
@@ -45,14 +45,14 @@ export const PLANS: Plan[] = [
     id: "serenite",
     name: "Sérénité",
     tagline: "Pour ne plus jamais courir après une date limite",
-    bestFor: "Vous avez plusieurs démarches actives et zéro envie d'y penser.",
+    bestFor: "Tu as plusieurs démarches actives et zéro envie d'y penser.",
     monthlyPrice: 19.9,
     annualMonthlyPrice: 16.6,
     highlighted: true,
     badge: "Le plus choisi",
     features: [
       "Tout Essentiel, plus :",
-      "Surveillance continue de toutes vos échéances, multi-organismes",
+      "Surveillance continue de toutes les échéances, multi-organismes",
       "Alertes anticipées, plusieurs semaines avant",
       "-20% sur toutes les démarches payées à l'acte",
       "1 démarche guidée offerte chaque mois",
@@ -63,7 +63,7 @@ export const PLANS: Plan[] = [
     id: "zen_total",
     name: "Zen Total",
     tagline: "Pour ne plus jamais y toucher",
-    bestFor: "Vous voulez déléguer, point final — seul ou en famille.",
+    bestFor: "Tu veux déléguer, point final — seul·e ou en famille.",
     monthlyPrice: 39.9,
     annualMonthlyPrice: 33.3,
     badge: "Le plus complet",
@@ -72,10 +72,10 @@ export const PLANS: Plan[] = [
       "Démarches guidées et déléguées illimitées, incluses",
       "Jusqu'à 3 profils (famille, proche aidé)",
       "Mandat de représentation permanent",
-      "Un·e concierge dédié·e qui connaît votre dossier",
+      "Un·e concierge dédié·e qui connaît le dossier",
       "Garantie zéro pénalité de retard*",
     ],
-    footnote: "* Sur les démarches suivies dans votre abonnement.",
+    footnote: "* Sur les démarches suivies dans l'abonnement.",
   },
 ];
 
@@ -96,12 +96,12 @@ export const ACTE_TIERS = [
   {
     name: "Guidé simple (pilotage)",
     price: "29–49 €",
-    description: "On vous pilote pas à pas jusqu'au bout.",
+    description: "On pilote pas à pas jusqu'au bout.",
   },
   {
     name: "Standard / hybride",
     price: "59–99 €",
-    description: "Préparation complète, vous validez, on transmet.",
+    description: "Préparation complète, validation finale, puis on transmet.",
   },
   {
     name: "Complexe / sensible",
