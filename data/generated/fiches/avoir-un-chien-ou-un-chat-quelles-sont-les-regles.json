@@ -1,0 +1,131 @@
+{
+  "id": "F34877",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Avoir un chien ou un chat : quelles sont les règles ?",
+  "theme": "Loisirs - Sports - Culture",
+  "description": "Le détenteur d’un chien ou d’un chat doit respecter certaines obligations réglementaires.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-28",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34877",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Loisirs - Sports - Culture",
+    "Animal de compagnie",
+    "Avoir un chien ou un chat : quelles sont les règles ?"
+  ],
+  "introduction": "Vous envisagez d'acheter ou d'adopter un chien ou un chat ou vous allez avoir des chatons ou des chiots ? Les règles à connaître diffèrent si vous faites l'acquisition (gratuite ou payante) de l'animal ou s'il s'agit d'une naissance (portée de votre animal). Nous vous les présentons.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code rural et de la pêche maritime : articles L211-11 à L211-28",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071367/LEGISCTA000006167705/"
+    },
+    {
+      "titre": "Code rural et de la pêche maritime : article L212-10",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033035507/"
+    },
+    {
+      "titre": "Code rural et de la pêche maritime : articles L214-1 à L214-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071367/LEGISCTA000022200023/"
+    },
+    {
+      "titre": "Code rural et de la pêche maritime : articles L214-6 à L214-8-2",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000031281488"
+    },
+    {
+      "titre": "Code rural et de la pêche maritime : article L215-11",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020631604"
+    },
+    {
+      "titre": "Code rural et de la pêche maritime : articles D212-63 à D212-72",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071367/LEGISCTA000006183209/"
+    },
+    {
+      "titre": "Code rural et de la pêche maritime : articles R214-19-1 à R214-34",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000019414434/"
+    },
+    {
+      "titre": "Code rural et de la pêche maritime : articles R215-1 à R215-15",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006152479/"
+    },
+    {
+      "titre": "Code civil : articles 1240 à 1244",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032021488/"
+    },
+    {
+      "titre": "Code pénal : article R622-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006419492"
+    },
+    {
+      "titre": "Arrêté du 25 octobre 1982 relatif à l'élevage, à la garde et à la détention des animaux",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000864910"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Annuaire des entreprises : rechercher toutes les informations d'une entreprise",
+      "url": "https://annuaire-entreprises.data.gouv.fr/",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Vérification d'un numéro de portée LOOF",
+      "url": "https://bis.loof.asso.fr/gp/numportee.php",
+      "type": "outilRechercheNG"
+    },
+    {
+      "titre": "Vérifier un numéro de portée LOF",
+      "url": "https://www.espaces.centrale-canine.fr/LofConnect/chien/verifPortee",
+      "type": "outilRechercheNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Tout savoir sur les animaux de compagnie : conseils et réglementation",
+      "url": "https://agriculture.gouv.fr/conseils-et-reglementation-tout-savoir-sur-les-animaux-de-compagnie"
+    },
+    {
+      "titre": "Vivre avec un animal de compagnie",
+      "url": "http://mesdemarches.agriculture.gouv.fr/demarches/particulier/vivre-avec-un-animal-de-compagnie/article/acquerir-et-vivre-avec-un-animal?id_rubrique=54"
+    },
+    {
+      "titre": "Pourquoi faire identifier son animal",
+      "url": "https://www.i-cad.fr/show/15"
+    },
+    {
+      "titre": "Faune sauvage captive",
+      "url": "https://www.ecologie.gouv.fr/faune-sauvage-captive"
+    },
+    {
+      "titre": "Instruction du 14 novembre 2022 relative au certificat d'engagement et de connaissance",
+      "url": "https://agriculture.gouv.fr/telecharger/133676"
+    },
+    {
+      "titre": "La stérilisation des chats, un acte de protection",
+      "url": "https://agriculture.gouv.fr/la-sterilisation-des-chats-un-acte-de-protection"
+    },
+    {
+      "titre": "Que faire lorsqu'un animal est enfermé dans un véhicule en plein soleil ?",
+      "url": "https://www.interieur.gouv.fr/A-votre-service/Ma-securite/Conseils-pratiques/En-dehors-de-votre-domicile/Que-faire-lorsqu-un-animal-est-enferme-dans-un-vehicule-en-plein-soleil"
+    },
+    {
+      "titre": "Livre officiel des origines félines (Loof)",
+      "url": "https://www.loof.asso.fr/"
+    },
+    {
+      "titre": "Livre des Origines Français (Lof)",
+      "url": "https://www.centrale-canine.fr/articles/le-lof"
+    }
+  ],
+  "slug": "avoir-un-chien-ou-un-chat-quelles-sont-les-regles",
+  "path": [
+    {
+      "slug": "loisirs-sports-culture",
+      "titre": "Loisirs - Sports - Culture"
+    },
+    {
+      "slug": "animal-de-compagnie",
+      "titre": "Animal de compagnie"
+    }
+  ]
+}

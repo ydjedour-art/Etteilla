@@ -1,0 +1,74 @@
+{
+  "id": "F32794",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Peut-on utiliser l'Apa ou la PCH pour rémunérer une aide à domicile ou un aidant familial ?",
+  "theme": "Social - Santé",
+  "description": "Si vous percevez l'Apa ou la PCH, vous pouvez les utiliser, sous conditions, pour rémunérer une aide à domicile ou dédommager un aidant familial.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-07-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F32794",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Handicap : allocations (AAH, AEEH, ...) et aides",
+    "Peut-on utiliser l'Apa ou la PCH pour rémunérer une aide à domicile ou un aidant familial ?"
+  ],
+  "introduction": "Oui, vous pouvez utiliser l’allocation personnalisée d’autonomie (Apa) ou la prestation de compensation du handicap (PCH) pour rémunérer une aide à domicile (en emploi direct ou par le biais d'un service prestataire) ou pour dédommager un aidant familial . Nous vous indiquons les informations à connaître selon que vous percevez l’APA ou la PCH.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de la santé publique : article L1111-6-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006685775"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : articles L113-1 à L113-4",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000031711582/"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : articles L232-3 à L232-7",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006187068/"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : articles L245-1 à L245-14",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006157603/"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : articles D245-5 à D245-9",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006190068/"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-RSA-CHAMP-10-10-20 relatif à la rémunération versée aux aidants familiaux",
+      "url": "https://bofip.impots.gouv.fr/node/6657"
+    },
+    {
+      "titre": "Arrêté du 28 décembre 2005 fixant les tarifs de l'élément de la prestation de compensation",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000454274/"
+    },
+    {
+      "titre": "Convention collective nationale des particuliers employeurs et de l'emploi à domicile du 15 mars 2021",
+      "url": "https://www.legifrance.gouv.fr/conv_coll/id/KALITEXT000043941642"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Point d'information local dédié aux personnes âgées",
+    "Maison départementale des personnes handicapées (MDPH)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Portail national d'information pour les personnes âgées et leurs proches",
+      "url": "https://www.pour-les-personnes-agees.gouv.fr/"
+    }
+  ],
+  "slug": "peut-on-utiliser-l-apa-ou-la-pch-pour-remunerer-une-aide-a-domicile-ou-un-aidant-familial",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "handicap-allocations-aah-aeeh-et-aides",
+      "titre": "Handicap : allocations (AAH, AEEH, ...) et aides"
+    }
+  ]
+}

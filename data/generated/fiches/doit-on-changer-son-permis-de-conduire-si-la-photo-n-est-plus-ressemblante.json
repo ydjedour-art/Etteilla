@@ -1,0 +1,65 @@
+{
+  "id": "F16867",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Doit-on changer son permis de conduire si la photo n'est plus ressemblante ?",
+  "theme": "Transports - Mobilité",
+  "description": "Le permis de conduire reste valable même si la photo n'est plus ressemblante.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-06-10",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F16867",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Permis de conduire",
+    "Doit-on changer son permis de conduire si la photo n'est plus ressemblante ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Non, ce n'est pas nécessaire.",
+        "Votre permis de conduire reste valable même si la photo n'est plus ressemblante.",
+        "Toutefois, si la photo est abîmée, vous pouvez demander un nouveau permis."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Arrêté du 20 avril 2012 fixant les conditions d'établissement, de délivrance et de validité du permis de conduire",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000025803494/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Consulter et télécharger les informations du permis de conduire : solde de points, relevé intégral, attestation de droit à conduire sécurisée...",
+      "url": "https://mespoints.permisdeconduire.gouv.fr",
+      "type": "selNG"
+    },
+    {
+      "titre": "Accéder à son compte ANTS pour faire une demande en ligne de permis de conduire",
+      "url": "https://moncompte.ants.gouv.fr/connexion",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "France Titres - Permis de conduire"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Site de la sécurité routière",
+      "url": "http://www.securite-routiere.gouv.fr"
+    }
+  ],
+  "slug": "doit-on-changer-son-permis-de-conduire-si-la-photo-n-est-plus-ressemblante",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "permis-de-conduire",
+      "titre": "Permis de conduire"
+    }
+  ]
+}

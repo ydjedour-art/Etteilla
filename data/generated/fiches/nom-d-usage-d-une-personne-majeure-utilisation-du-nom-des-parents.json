@@ -1,0 +1,134 @@
+{
+  "id": "F1343",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Nom d'usage d'une personne majeure : utilisation du nom des parents",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Il est possible d'utiliser le nom du parent qui n'a pas été transmis à la naissance comme nom d'usage et de le faire figurer sur ses papiers d'identité.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-08-07",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1343",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Changement d'état civil",
+    "Nom d'usage d'une personne majeure : utilisation du nom des parents"
+  ],
+  "introduction": "Vous êtes majeur, votre nom de famille est celui de votre père, et vous vous demandez si vous pouvez aussi porter, à titre d'usage, le nom de votre mère ? Nous vous indiquons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Qu'est-ce qu'un nom d'usage ?",
+      "contenu": [
+        "Le nom d'usage se distingue du nom de famille qui est seul inscrit sur les actes de l'état civil. Le nom d'usage est le nom que vous pouvez utiliser dans la vie quotidienne.",
+        "La possibilité d'utiliser un nom d'usage est facultative et n'est pas automatique. Il s'agit d'un choix personnel qui ne peut pas vous être imposé."
+      ]
+    },
+    {
+      "titre": "Quels noms une personne majeure peut-elle choisir de porter à titre d'usage ?",
+      "contenu": [
+        "Vous pouvez utiliser comme nom d'usage :",
+        "• Un double nom composé de votre nom et du nom du parent qui ne vous a pas été transmis à la naissance, dans la limite d'un nom de famille pour chacun d'eux en cas de double nom. L'ordre des noms peut être choisi librement.",
+        "• Le nom du parent qui ne vous a pas été transmis à la naissance",
+        "• Le nom d'un seul parent si vous portez un double nom.",
+        "Le nom du parent doit figurer sur votre acte de naissance.",
+        "Vous pouvez choisir un nom d'usage à tout âge.",
+        "Vous pouvez changer de nom d'usage. Le choix n'est pas définitif.",
+        "En cas de mariage, vous pouvez renoncer ou changer de nom d'usage pour prendre celui de votre époux(se), mais vous ne pouvez pas cumuler ces 2 types de nom d'usage.",
+        "[Exemple] Vous avez un nom simple Votre nom de famille : BELIER Nom de votre père : BELIER Nom de votre mère : DURAND Vous pouvez choisir comme nom d'usage : DURAND, BELIER DURAND, DURAND BELIER",
+        "[Exemple] Vous avez un nom simple et chacun de vos parents a un double nom Votre nom de famille est : BELIER Nom de votre père : BELIER GORCE Nom de votre mère : DURAND DUPONT Vous pouvez choisir comme nom d'usage : BELIER DURAND, DURAND BELIER, BELIER DUPONT, DUPONT BELIER, GORCE DURAND, DURAND GORCE, GORCE DUPONT, DUPONT GORCE, BELIER GORCE, DURAND DUPONT, GORCE, DURAND, DUPONT",
+        "[Exemple] Vous avez un double nom composé du nom de votre père et de votre mère et chacun de vos parents a un nom simple Votre nom de famille est : BELIER DURAND Nom de votre père : BELIER Nom de votre mère : DURAND Vous pouvez choisir comme nom d'usage : DURAND BELIER, BELIER, DURAND",
+        "[Exemple] Vous avez un double nom composé du nom de votre père et de votre mère et chacun de vos parents a un double nom votre nom de famille est : BELIER DURAND Nom de votre père : BELIER GORCE Nom de votre mère : DURAND DUPONT Vous pouvez choisir comme nom d'usage : DURAND BELIER, BELIER DUPONT, DUPONT BELIER, GORCE DURAND, DURAND GORCE, GORCE DUPONT, DUPONT GORCE, BELIER GORCE, DURAND DUPONT, GORCE, DURAND, DUPONT, BELIER",
+        "[Exemple] Vous avez un nom composé et chacun de vos parents a un nom composé Votre nom de famille est : BELIER-GORCE Nom de votre père : BELIER-GORCE Nom de votre mère : DURAND-DUPONT Vous pouvez choisir comme nom d'usage : BELIER-GORCE DURAND-DUPONT, DURAND-DUPONT BELIER-GORCE, DURAND-DUPONT",
+        "[Exemple] Vous avez un double nom et l'un de vos parents a un nom composé Votre nom de famille est : BELIER GORCE Nom de votre père : BELIER GORCE Nom de votre mère : DURAND-DUPONT Vous pouvez choisir comme nom d'usage : BELIER DURAND-DUPONT, DURAND-DUPONT BELIER, GORCE DURAND-DUPONT, DURAND-DUPONT GORCE, DURAND-DUPONT, BELIER, GORCE",
+        "[À savoir] Les 2 parents peuvent choisir dès la naissance de l'enfant qu'il porte leurs 2 noms. Dans ce cas, ce nom est le nom de famille de l'enfant."
+      ]
+    },
+    {
+      "titre": "Comment indiquer son nom d'usage sur sa carte d'identité et son passeport ?",
+      "contenu": [
+        "Première mention du nom d'usage sur un titre d'identité",
+        "Pour faire figurer un nom d'usage sur la carte d'identité ou le passeport, vous devez :",
+        "• Renseigner la rubrique Nom d’usage sur le formulaire ou la pré-demande de papiers d'identité",
+        "• Vérifier si l'état civil du lieu de naissance est dématérialisé. Si ce n'est pas le cas, il faut fournir un acte de naissance (copie intégrale ou extrait avec filiation) de moins de 3 mois.",
+        "Ces documents sont à joindre au dossier de demande de papiers d'identité et à fournir au même guichet.",
+        "Renouvellement d'un titre d'identité",
+        "La démarche varie selon que que le nom d'usage est inchangé, modifié, ou n'est plus utilisé.",
+        "Le nom d'usage est inchangé",
+        "Pour faire figurer un nom d'usage sur la carte d'identité ou le passeport, vous devez renseigner la rubrique Nom d’usage sur le formulaire ou la pré-demande de papiers d'identité.",
+        "Aucun nouveau document lié à votre nom d'usage n'est à fournir.",
+        "Le nom d'usage est modifié",
+        "Votre nom d’usage est modifié par exemple si vous choisissez une autre combinaison du nom d’usage issu de votre filiation.",
+        "Pour faire figurer un nom d'usage sur la carte d'identité ou le passeport, vous devez :",
+        "• Renseigner la rubrique Nom d’usage sur le formulaire ou la pré-demande de papiers d'identité",
+        "• Vérifiez si l'état civil du lieu de naissance est dématérialisé. Si ce n'est pas le cas, vous devez fournir un acte de naissance (copie intégrale ou extrait avec filiation) de moins de 3 mois.",
+        "Ces documents sont à joindre au dossier de demande de papiers d'identité et à fournir au même guichet.",
+        "Le nom d'usage n'est plus utilisé",
+        "Il suffit de ne pas renseigner la rubrique Nom d’usage sur le formulaire ou la pré-demande de papiers d'identité."
+      ]
+    },
+    {
+      "titre": "Comment indiquer son nom d'usage sur les documents officiels ?",
+      "contenu": [
+        "Vous pouvez utiliser le nom d'usage choisi dans tous les actes de votre vie privée, familiale, sociale ou professionnelle.",
+        "Dès lors que la demande en est faite, l’administration doit utiliser le nom d'usage dans les courriers qu'elle vous adresse.",
+        "Vous devez informer les différents organismes du nom d'usage choisi.",
+        "[Exemple] Pour informer l'assurance maladie, connectez-vous à votre compte Ameli (rubrique « Mes démarches »). Contact support Ameli Assurés Accès aux formulaires de contact",
+        "[À savoir] Si vous ne souhaitez plus que le nom d'usage soit utilisé, il suffit d'informer vos interlocuteurs. Vous n'avez pas besoin de fournir un justificatif."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Loi n°2022-301 du 2 mars 2022 relative au choix du nom issu de la filiation",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000045287682"
+    },
+    {
+      "titre": "Code civil : articles 311-21 à 311-24-2",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006150015"
+    },
+    {
+      "titre": "Code des relations entre le public et l'administration : articles L111-1 à L111-3",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000031366350/LEGISCTA000031367316"
+    },
+    {
+      "titre": "Décret n°55-1397 du 22 octobre 1955 relatif à la carte d'identité : article 4 - Pièces à fournir pour une première demande",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000034729485"
+    },
+    {
+      "titre": "Décret n°2005-1726 du 30 décembre 2005 relatif au passeport : article 5 - Pièces à fournir pour une première demande",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000033333825"
+    },
+    {
+      "titre": "Nouvelle circulaire du 15 juin 2023 de présentation des dispositions de la loi n° 2022-301 du 2 mars 2022 relative au choix du nom issu de la filiation",
+      "url": "https://www.justice.gouv.fr/sites/default/files/2023-06/JUSC2309291C.pdf"
+    },
+    {
+      "titre": "Circulaire du 28 octobre 2011 portant sur divers actes de l'état civil relatifs à la naissance et à la filiation",
+      "url": "https://www.legifrance.gouv.fr/circulaire/id/34124"
+    },
+    {
+      "titre": "Circulaire du 4 novembre 1987 relative au nom d'usage",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000478410"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Maison de justice et du droit"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Circulaire du 15 juin 2023 (loi du 2 mars 2022) - Nom d'usage - changement de nom",
+      "url": "https://www.justice.gouv.fr/sites/default/files/2023-06/JUSC2309291C.pdf"
+    }
+  ],
+  "slug": "nom-d-usage-d-une-personne-majeure-utilisation-du-nom-des-parents",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "changement-d-etat-civil",
+      "titre": "Changement d'état civil"
+    }
+  ]
+}

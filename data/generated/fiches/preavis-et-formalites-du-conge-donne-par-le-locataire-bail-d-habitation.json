@@ -1,0 +1,116 @@
+{
+  "id": "F1168",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Préavis et formalités du congé donné par le locataire (bail d’habitation)",
+  "theme": "Logement",
+  "description": "Avant de quitter définitivement son logement, le locataire doit donner son congé. Pour cela, il doit respecter des conditions de forme et un délai de préavis.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-16",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1168",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Location immobilière : fin du bail d’habitation",
+    "Préavis et formalités du congé donné par le locataire (bail d’habitation)"
+  ],
+  "introduction": "En tant que locataire, vous pouvez à tout moment quitter définitivement le logement que vous utilisez comme résidence principale, à la condition d'en informer à l'avance le bailleur social, ou le propriétaire privé (ou l'agence immobilière). Pour cela, vous devez lui donner votre congé et respecter un délai de préavis. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les règles sont différentes selon que vous habitez un logement loué vide ou loué meublé :"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de procédure civile : article 641",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411002/"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : articles L353-14 à L353-22",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000006176301/"
+    },
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 15",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000047900030"
+    },
+    {
+      "titre": "Code de procédure civile : article 667",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025191479/"
+    },
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 25-8",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000031009719/"
+    },
+    {
+      "titre": "Loi n°48-1360 du 1er septembre 1948 sur les rapports locatifs : article 3 nonies",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006462923/"
+    },
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 8-2",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000037650864"
+    },
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 7-1",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000028777184/"
+    },
+    {
+      "titre": "Décret n°2013-392 du 10 mai 2013 sur l'application de la taxe annuelle sur les logements vacants (annexe)",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000027399823/"
+    },
+    {
+      "titre": "Décret n°2015-650 du 10 juin 2015 sur les modalités de mise en œuvre du dispositif d'encadrement du niveau de certains loyers",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000030711540/"
+    },
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 17",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000037670690/"
+    },
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 40",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038834701/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Connaître le délai de préavis du locataire qui donne congé au propriétaire",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/zones-tendues",
+      "type": "Simulateur"
+    },
+    {
+      "titre": "Locataire avec un bail d'habitation vide ou meublé : donner son préavis (congé) au propriétaire du logement",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/CongeLogement",
+      "type": "Modèle de document"
+    },
+    {
+      "titre": "Locataire avec un bail mobilité : donner son préavis (congé) au propriétaire du logement",
+      "url": "",
+      "type": "Modèle de document"
+    }
+  ],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Communes en zone tendue pour un bail signé, reconduit ou renouvelé depuis le 27 août 2024 (en annexe, 1er tableau)",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000027399823/"
+    },
+    {
+      "titre": "Communes en zone tendue pour un bail signé, reconduit ou renouvelé entre le 16 octobre 2015 et le 27 août 2023",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGIARTI000031327191/2015-10-16/#LEGIARTI000031327191"
+    }
+  ],
+  "slug": "preavis-et-formalites-du-conge-donne-par-le-locataire-bail-d-habitation",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "location-immobiliere-fin-du-bail-d-habitation",
+      "titre": "Location immobilière : fin du bail d’habitation"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "F20237",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Le RSA donne t-il droit à d'autres aides ?",
+  "theme": "Social - Santé",
+  "description": "Si vous percevez le RSA, vous pouvez bénéficier de plusieurs autres droits, sous conditions : protection universelle maladie (Puma) ou complémentaire santé solidaire (C2S). Vous pouvez également bénéficier d'une réduction du tarif de votre abonnement téléphonique, d'aides locales et d'une allocation logement.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2024-01-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F20237",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Revenu de solidarité active (RSA)",
+    "Le RSA donne t-il droit à d'autres aides ?"
+  ],
+  "introduction": "Si vous percevez le RSA, vous pouvez bénéficier de plusieurs autres droits, sous conditions : protection universelle maladie (Puma) ou complémentaire santé solidaire (C2S). Vous pouvez également bénéficier d'une réduction du tarif de votre abonnement téléphonique, d'aides locales et d'une allocation logement.",
+  "chapitres": [
+    {
+      "titre": "Protection universelle maladie (Puma)",
+      "contenu": [
+        "Si vous n'êtes pas couvert contre les risques liés à la maladie ou à la maternité, vous pouvez bénéficier de la Puma.",
+        "Vous n'avez alors pas de cotisation à payer.",
+        "Vous devez vous rapprocher de votre CPAM.",
+        "Caisse primaire d'assurance maladie (CPAM)"
+      ]
+    },
+    {
+      "titre": "Complémentaire santé solidaire (C2S)",
+      "contenu": [
+        "Si vous percevez le RSA, vous pouvez bénéficier de la C2S."
+      ]
+    },
+    {
+      "titre": "Réduction sociale téléphonique",
+      "contenu": [
+        "Vous pouvez bénéficier d’une réduction du tarif de votre abonnement téléphonique."
+      ]
+    },
+    {
+      "titre": "Aides locales (gratuité des transports, cantine, etc.)",
+      "contenu": [
+        "Vous pouvez bénéficier de tarifs réduits ou de la gratuité de certains services.",
+        "Pour cela, vous devez contacter directement le service concerné (mairie, services du département, etc.) selon le type de service.",
+        "Cas général",
+        "Mairie",
+        "Services du département",
+        "À Paris",
+        "Paris - Centre d'action sociale de la ville de Paris (CASVP)"
+      ]
+    },
+    {
+      "titre": "Allocation logement",
+      "contenu": [
+        "L'allocation logement est accordée en fonction de vos ressources, sans prendre en compte le montant de votre RSA.",
+        "Si vous ne percevez aucune ressource, en dehors du RSA, vous pouvez bénéficier d'allocations logement à taux plein.",
+        "Vous devez vous rapprocher de votre Cafou de votre MSA pour déterminer le montant possible de votre allocation.",
+        "Caisse d'allocations familiales (Caf)",
+        "Mutualité sociale agricole (MSA)"
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "le-rsa-donne-t-il-droit-a-d-autres-aides",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "revenu-de-solidarite-active-rsa",
+      "titre": "Revenu de solidarité active (RSA)"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "F36493",
+  "type_publication": "Recherche guidée",
+  "titre": "[Questionnaire - Justice pénale : délais de prescription]",
+  "theme": "Justice",
+  "description": "[Questionnaire - Justice pénale : délais de prescription]",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2025-07-29",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F36493",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Affaire pénale",
+    "[Questionnaire - Justice pénale : délais de prescription]"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "questionnaire-justice-penale-delais-de-prescription",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "affaire-penale",
+      "titre": "Affaire pénale"
+    }
+  ]
+}

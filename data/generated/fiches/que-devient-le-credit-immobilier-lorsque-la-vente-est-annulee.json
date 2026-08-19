@@ -1,0 +1,52 @@
+{
+  "id": "F1701",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Que devient le crédit immobilier lorsque la vente est annulée ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Lorsque vous avez pris un crédit pour acheter un bien immobilier auprès d'une banque et que la vente est annulée, vous devez rembourser des sommes à la banque.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-08-27",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1701",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Crédit immobilier",
+    "Que devient le crédit immobilier lorsque la vente est annulée ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Lorsque vous avez pris un crédit pour acheter un bien immobilier auprès d'une banque, mais que la vente est annulée, vous devez rembourser à la banque :",
+        "• Les sommes que la banque a déjà débloquées",
+        "• Les intérêts déjà courus",
+        "• Et des frais d'études. En effet, la banque peut vous facturer des frais d'études, dont le montant ne peut pas dépasser 0,75 % du montant du prêt, ni 150 €. L'offre de prêt que vous avez acceptée doit indiquer le montant de ces frais et la façon dont vous devez les verser à la banque."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la consommation : article L313-38",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032433191"
+    },
+    {
+      "titre": "Code de la consommation : article R313-22",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032807562"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "que-devient-le-credit-immobilier-lorsque-la-vente-est-annulee",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "credit-immobilier",
+      "titre": "Crédit immobilier"
+    }
+  ]
+}

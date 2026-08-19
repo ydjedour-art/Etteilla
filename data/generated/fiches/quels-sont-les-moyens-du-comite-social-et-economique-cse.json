@@ -1,0 +1,79 @@
+{
+  "id": "F100",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quels sont les moyens du comité social et économique (CSE) ?",
+  "theme": "Travail - Formation",
+  "description": "Les moyens matériels et les budgets du comité social et économique sont différents en fonction de l'effectif de l'entreprise.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-04-02",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F100",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Représentation du personnel dans l'entreprise",
+    "Quels sont les moyens du comité social et économique (CSE) ?"
+  ],
+  "introduction": "Les moyens du comité social est économique (CSE) différent selon la taille de l'entreprise. Dans les entreprises de moins de 50 salariés, un local permet au CSE d’accomplir sa mission et notamment de se réunir et mis à sa disposition. Dans les entreprises d’au moins 50 salariés, le CSE bénéficie d’un local aménagé et du matériel nécessaire à l’exercice de ses fonctions. Il bénéficie également d'un budget pour son fonctionnement et d'un budget destiné aux activités sociales et culturelles. Nous faisons le point sur la réglementation.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code du travail : articles L2142-3 à L2142-7",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000006189504"
+    },
+    {
+      "titre": "Code du travail : articles L2312-81 à L2312-84",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000035611317"
+    },
+    {
+      "titre": "Code du travail : article L2315-15",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000035621171/"
+    },
+    {
+      "titre": "Code du travail : articles L2315-16 à L2315-17",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000035621177/"
+    },
+    {
+      "titre": "Code du travail : article L2315-18",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000035621183/"
+    },
+    {
+      "titre": "Code du travail : article L2315-20",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000035624422"
+    },
+    {
+      "titre": "Code du travail : articles L2315-25 à L2315-26",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000035624841"
+    },
+    {
+      "titre": "Code du travail : articles L2315-61 à L2315-62",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000035627340"
+    },
+    {
+      "titre": "Code du travail : article L2315-63",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000035627346/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Guide CSE : Principes applicables en matière de cotisations sur les prestations",
+      "url": "https://www.urssaf.fr/files/live/sites/urssaffr/files/outils-documentation/guides/Guide-CSE.pdf"
+    },
+    {
+      "titre": "Taux des indemnités de mission dans la fonction publique d'État",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000242360"
+    }
+  ],
+  "slug": "quels-sont-les-moyens-du-comite-social-et-economique-cse",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "representation-du-personnel-dans-l-entreprise",
+      "titre": "Représentation du personnel dans l'entreprise"
+    }
+  ]
+}

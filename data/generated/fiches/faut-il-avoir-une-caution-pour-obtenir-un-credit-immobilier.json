@@ -1,0 +1,51 @@
+{
+  "id": "F34997",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Faut-il avoir une caution pour obtenir un crédit immobilier ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "La banque peut exiger une caution pour vous accorder un prêt immobilier. C'est un organisme financier qui s'engage à payer la banque à votre place.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2024-12-26",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34997",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Crédit immobilier",
+    "Faut-il avoir une caution pour obtenir un crédit immobilier ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "Comment mettre en place le cautionnement bancaire ?",
+      "contenu": [
+        "Généralement, la banque vous met en relation avec un organisme financier spécialisé dans le cautionnement et dont elle est partenaire.",
+        "Mais vous pouvez aussi demander à votre banque de contacter un autre organisme financier.",
+        "Si vous êtes fonctionnaire, vous avez la possibilité de faire appel à votre mutuelle fonctionnaire."
+      ]
+    },
+    {
+      "titre": "Quels sont les coûts et avantages du cautionnement bancaire ?",
+      "contenu": [
+        "Opter pour une caution implique des frais de souscription plus élevés que ceux d'une hypothèque conventionnelle.",
+        "En contrepartie, vous n'aurez pas de frais de mainlevée à payer si vous vendez le bien immobilier en cours de prêt. De plus, vous pourrez récupérer une partie des frais de souscription à l'échéance du prêt (c'est-à-dire à la fin du remboursement du crédit), sous certaines conditions."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [
+    "Info Banque - Assurance"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "faut-il-avoir-une-caution-pour-obtenir-un-credit-immobilier",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "credit-immobilier",
+      "titre": "Crédit immobilier"
+    }
+  ]
+}

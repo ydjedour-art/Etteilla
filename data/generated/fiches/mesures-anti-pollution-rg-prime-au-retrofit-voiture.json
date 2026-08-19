@@ -1,0 +1,33 @@
+{
+  "id": "F38082",
+  "type_publication": "Recherche guidée",
+  "titre": "[Mesures anti pollution - RG] Prime au rétrofit - voiture",
+  "theme": "Transports - Mobilité",
+  "description": "[Mesures anti pollution - RG] Prime au rétrofit - voiture",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2024-12-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F38082",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Mesures antipollution",
+    "[Mesures anti pollution - RG] Prime au rétrofit - voiture"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "mesures-anti-pollution-rg-prime-au-retrofit-voiture",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "mesures-antipollution",
+      "titre": "Mesures antipollution"
+    }
+  ]
+}

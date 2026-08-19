@@ -1,0 +1,55 @@
+{
+  "id": "F2404",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Comment payer à l'étranger ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Plusieurs moyens de paiement peuvent être utilisés à l'étranger : espèces, carte bancaire et chèque.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-07-09",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2404",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Moyens de paiement",
+    "Comment payer à l'étranger ?"
+  ],
+  "introduction": "Si vous voyagez à l'étranger, vous pourrez utiliser, sur place, plusieurs moyens de paiement : espèces, carte bancaire et chèque. Toutefois, leurs règles d'utilisation sont différentes dans les pays ayant l'euro comme monnaie officielle et dans les autres pays. Voici les informations à savoir.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "[Complement] Le paiement en euros est accepté dans les 27 pays suivants : • Allemagne • Andorre • Autriche • Belgique • Bulgarie • Chypre (sauf au nord de l'île, sur le territoire sous occupation militaire turque) • Croatie • Espagne • Estonie • Finlande • France (sauf en Nouvelle-Calédonie, en Polynésie française et à Wallis-et-Futuna) • Grèce • Irlande • Italie (sauf dans l'enclave de Campione en Suisse) • Kosovo • Lettonie • Lituanie • Luxembourg • Malte • Monaco • Monténégro • Pays-Bas (sauf dans les îles correspondant aux anciennes Antilles néerlandaises) • Portugal • Saint-Marin • Slovaquie • Slovénie • Vatican."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [
+    "Ambassade ou consulat étranger en France"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Obligation déclarative des sommes, titres et valeurs",
+      "url": "http://www.douane.gouv.fr/articles/a10796-obligation-declarative-des-sommes-titres-et-valeurs"
+    },
+    {
+      "titre": "Taux de change",
+      "url": "https://www.banque-france.fr/statistiques/taux-et-cours/les-taux-de-change-salle-des-marches/parites-quotidiennes"
+    },
+    {
+      "titre": "Argent : conseils pour des vacances sereines à l'étranger",
+      "url": "https://www.inc-conso.fr/content/banque/argent-conseils-pour-des-vacances-sereines"
+    }
+  ],
+  "slug": "comment-payer-a-l-etranger",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "moyens-de-paiement",
+      "titre": "Moyens de paiement"
+    }
+  ]
+}

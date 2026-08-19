@@ -1,0 +1,51 @@
+{
+  "id": "F2038",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Aide aux vacances enfants ou familles (AVE ou AVF)",
+  "theme": "Loisirs - Sports - Culture",
+  "description": "La Caf ou la MSA peut accorder aux parents une aide aux vacances enfants ou familles (AVE ou AVF) pour réduire leurs frais de vacances",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-05-16",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2038",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Loisirs - Sports - Culture",
+    "Aides aux vacances",
+    "Aide aux vacances enfants ou familles (AVE ou AVF)"
+  ],
+  "introduction": "Vous souhaitez bénéficier d'une aide financière pour réduire les frais de vacances de votre enfant ou de votre famille ? La Caf ou la MSA peut vous accorder une aide aux vacances enfants (AVE) ou une aide aux vacances familles (AVF). L'AVE est attribuée uniquement pour un séjour se déroulant pendant les vacances scolaires de votre enfant. Pour obtenir l'AVF, il est nécessaire que le séjour comprenne la présence d'au moins 1 adulte et un enfant ayant droit. Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [
+    {
+      "titre": "Rechercher des offres de séjours de vacances par département",
+      "url": "https://www.vacaf.org/",
+      "type": "Outil de recherche"
+    }
+  ],
+  "contacts": [
+    "Caisse d'allocations familiales (Caf)",
+    "Mutualité sociale agricole (MSA)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Aides aux vacances de la Caf",
+      "url": "http://www.vacaf.org/"
+    },
+    {
+      "titre": "Site de l'association villages vacances (MSA)",
+      "url": "https://www.avma-vacances.fr/"
+    }
+  ],
+  "slug": "aide-aux-vacances-enfants-ou-familles-ave-ou-avf",
+  "path": [
+    {
+      "slug": "loisirs-sports-culture",
+      "titre": "Loisirs - Sports - Culture"
+    },
+    {
+      "slug": "aides-aux-vacances",
+      "titre": "Aides aux vacances"
+    }
+  ]
+}

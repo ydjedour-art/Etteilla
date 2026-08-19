@@ -1,0 +1,92 @@
+{
+  "id": "F34554",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Construire sa maison : quel contrat passer avec un professionnel ?",
+  "theme": "Logement",
+  "description": "Il existe 4 types de contrats de construction pour une maison : CCMI, Contrat Vefa, Contrat de maîtrise d'œuvre ou Contrat d'entreprise.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-07-08",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34554",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Travaux",
+    "Construire sa maison : quel contrat passer avec un professionnel ?"
+  ],
+  "introduction": "Vous souhaitez savoir quel contrat choisir pour faire construire votre maison ? Il en existe 4 types. Chacun d'entre eux définit les droits et les obligations du maître d'ouvrage et du professionnel de la construction. Le choix du contrat dépend de la mission que vous souhaitez confier au professionnel. Selon les cas, il peut s’agir d’un constructeur, d’un promoteur immobilier, d’un maître d’œuvre ou d’une entreprise du bâtiment. Nous faisons le point sur la réglementation.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Vous pouvez signer l'un de ces 4 contrats :",
+        "• Contrat de construction de maison individuelle (CCMI) avec un constructeur qui ne vous fournit pas le terrain",
+        "• Contrat de vente d'immeuble à construire (vente en l'état futur d'achèvement - Vefa) avec un promoteur qui vous fournit le terrain et s'engage à construire une maison",
+        "• Contrat de maîtrise d'œuvre avec un maître d'œuvre qui coordonne les travaux sans les effectuer",
+        "• Contrat d'entreprise avec chaque corps de métier."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la construction et de l'habitation : articles L231-1 à L231-13",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000006159020/"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : articles L232-1 à L232-2",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000006159021/"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : articles L261-1 à L261-22",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006159128"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : articles L271-1 à L271-3",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000006176357/"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : articles R231-1 à R231-14",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000006160668/"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : articles R232-1 à R232-7",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000006160518/"
+    },
+    {
+      "titre": "Code de procédure civile : articles 640 à 647-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006135898/"
+    },
+    {
+      "titre": "Code civil : article 1304",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041879/"
+    },
+    {
+      "titre": "Notice descriptive - Contrat de construction d'une maison individuelle",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000526871/"
+    },
+    {
+      "titre": "Notice d'information - Contrat de construction d'une maison individuelle",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000710552/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Direction départementale de la protection des populations (DDPP) ou de l'emploi, du travail, des solidarités et de la protection des populations (DDETSPP)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Le contrat de construction de maison individuelle (CCMI)",
+      "url": "https://www.economie.gouv.fr/dgccrf/Publications/Vie-pratique/Fiches-pratiques/contrat-construction-maison-individuelle-ccmi"
+    }
+  ],
+  "slug": "construire-sa-maison-quel-contrat-passer-avec-un-professionnel",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "travaux",
+      "titre": "Travaux"
+    }
+  ]
+}

@@ -1,0 +1,327 @@
+{
+  "id": "F12242",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Allocation aux adultes handicapés (AAH)",
+  "theme": "Social - Santé",
+  "description": "L'allocation aux adultes handicapés (AAH) permet de garantir un revenu minimal pour faire face aux dépenses du quotidien.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F12242",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Handicap : allocations (AAH, AEEH, ...) et aides",
+    "Allocation aux adultes handicapés (AAH)"
+  ],
+  "introduction": "Vous êtes en situation de handicap et avez de faibles ressources ? L'allocation aux adultes handicapés (AAH) peut vous garantir un revenu minimal pour faire face aux dépenses du quotidien. Nous vous indiquons quelles sont les conditions et la démarche pour en faire la demande.",
+  "chapitres": [
+    {
+      "titre": "Quelles sont les conditions pour percevoir l'allocation aux adultes handicapés (AAH) ?",
+      "contenu": [
+        "Vous pouvez utiliser un simulateur pour savoir si vous avez droit à l'AAH :",
+        "Estimer son droit à l’allocation aux adultes handicapés (AAH)",
+        "Vous devez respecter certains critères d'incapacité, d'âge, de résidence et de ressources pour percevoir l'AAH.",
+        "Taux d'incapacité",
+        "Vous devez avoir un certain taux d'incapacité déterminé par la commission des droits pour l'autonomie des personnes handicapées (CDAPH). Ce taux est fixé en fonction d'un guide-barème pour l'évaluation des déficiences et incapacités des personnes handicapées.",
+        "Ce taux doit être d'au minimum 80 %. Toutefois, il peut être de 50 % à 79 % si vous avez une restriction substantielle et durable d'accès à un emploi.",
+        "La restriction est substantielle dès lors que vous rencontrez des difficultés importantes d'accès à un emploi qui ne peuvent pas être compensées par des mesures d'aménagement spécifique comme un poste de travail adapté.",
+        "La restriction est durable dès lors qu'elle est d'une durée prévisible d'au moins 1 an à partir du dépôt de la demande d'AAH.",
+        "Âge",
+        "Vous devez avoir au moins 20 ans.",
+        "Toutefois, vous pouvez avoir au moins 16 ans si vous n'êtes plus considéré à la charge de vos parents pour l’attribution des prestations familiales. C'est le cas, par exemple, si vous avez quitté le domicile familial.",
+        "Résidence",
+        "Vous êtes français",
+        "Vous pouvez percevoir l'AAH si vous résidez en France métropolitaine ou dans les départements ou collectivités suivantes :",
+        "• Guadeloupe",
+        "• Guyane",
+        "• Martinique",
+        "• Mayotte",
+        "• La Réunion",
+        "• Saint-Barthélemy",
+        "• Saint-Martin",
+        "• Saint-Pierre-et-Miquelon.",
+        "Vous êtes européen",
+        "Vous pouvez percevoir l'AAH si vous résidez en France depuis plus de 3 mois. Le respect de cette durée n'est pas exigé si vous exercez une activité professionnelle.",
+        "Vous êtes d'une autre nationalité",
+        "Vous pouvez percevoir l'AAH si vous résidez en France depuis au moins 3 mois. Le respect de cette durée n'est pas exigé si vous exercez une activité professionnelle.",
+        "Vous devez également être en situation régulière, c'est-à-dire avoir un titre de séjour en cours de validité ou un récépissé de demande de renouvellement d'un titre de séjour.",
+        "Ressources",
+        "L'AAH est attribuée sous condition de ressources.",
+        "Les ressources prises en compte sont celles figurant à la ligne Revenu net catégoriel de votre avis d'imposition de 2024 (pour une demande d'AAH faite en 2026).",
+        "[Complement] Certains revenus sont pris en compte partiellement pour le calcul des ressources. Il s'agit des revenus suivants : • Revenus des activités commerciales, artisanales, libérales ou agricoles • Traitements et salaires, pensions, rentes viagères à titre gratuit et rémunérations des gérants et associés de certaines sociétés • Rémunération garantie versée en cas de travail en établissement ou service d'aide par le travail (Ésat). Par contre, les revenus fonciers, c'est-à-dire les loyers perçus pour un logement mis en location, sont pris en compte intégralement pour le calcul des ressources.",
+        "Depuis le 1er octobre 2023, le montant de l’AAH n'est plus calculé à partir de vos ressources cumulées avec celles de la personne avec laquelle vous vivez en couple. Le montant de l’AAH est calculé uniquement à partir de vos seules ressources (on parle de déconjugalisation).",
+        "Toutefois, ce changement de mode de calcul s’effectue uniquement s’il est plus avantageux pour vous. Si ce n’est pas le cas, le cumul de vos ressources et de celles de la personne avec laquelle vous vivez en couple continue de s’appliquer (on parle alors de conjugalisation).",
+        "C’est votre Caf ou MSA qui évalue et applique automatiquement le mode de calcul le plus avantageux pour vous. Vous n'avez pas de démarche à faire pour cela.",
+        "[À savoir] Dès que le calcul conjugalisé ne vous avantage plus, votre AAH est calculée de manière déconjugalisée. Ce calcul est automatique et définitif.",
+        "Vous êtes célibataire",
+        "Vos ressources ne doivent pas dépasser certains plafonds.",
+        "Ressources annuelles maximum à ne pas dépasser pour percevoir l’AAH si vous êtes célibataire",
+        "Nombre d'enfants à charge au sens des prestations familiales",
+        "Vos ressources",
+        "0",
+        "12 499 €",
+        "1",
+        "18 749 €",
+        "2",
+        "24 998 €",
+        "3",
+        "31 248 €",
+        "4",
+        "37 497 €",
+        "Vous êtes en couple",
+        "Vos ressources et celles de la personne avec laquelle vous vivez en couple ne doivent pas dépasser certains plafonds.",
+        "Ressources annuelles maximum à ne pas dépasser si vous vivez en couple et déjà bénéficiaire de l'AAH",
+        "Nombre d'enfants à charge au sens des prestations familiales",
+        "Vos ressources",
+        "Vous vivez en couple",
+        "0",
+        "12 499 €",
+        "22 623 €",
+        "1",
+        "18 749 €",
+        "28 873 €",
+        "2",
+        "24 998 €",
+        "35 122 €",
+        "3",
+        "31 248 €",
+        "41 372 €",
+        "4",
+        "37 497 €",
+        "47 621 €"
+      ]
+    },
+    {
+      "titre": "Comment demander l'allocation aux adultes handicapés (AAH) ?",
+      "contenu": [
+        "La demande peut être faite en ligne par le biais d'un téléservice, si la MDPH de votre lieu de résidence le propose :",
+        "Demande de prestations MDPH (AAH, PCH, admission en Ésat, hébergement...) et renouvellement",
+        "Ce service en ligne permet de faire une demande ou renouvellement de prestations Handicap auprès de la MDPH .",
+        "Vous pouvez aussi faire votre demande par courrier par le biais d'un formulaire :",
+        "Demande ou renouvellement de prestations Handicap (AEEH, AAH, PCH, CMI, hébergement, Ésat...)",
+        "Certificat médical à joindre à une demande à la maison départementale des personnes handicapées (MDPH)",
+        "À joindre à toute demande. Il doit dater d'au maximum 1 an.",
+        "Guide d'utilisation du certificat médical destiné à la MDPH",
+        "Compte rendu type pour un bilan auditif à joindre au certificat médical (volet1)",
+        "Compte rendu type pour un bilan ophtalmologique à joindre au certificat médical (volet 2)",
+        "Vous devez joindre les documents justificatifs mentionnés à l'occasion de votre demande en ligne ou sur le formulaire.",
+        "Les documents doivent être envoyés (ou scannés si vous faites votre demande en ligne) à la MDPH de votre lieu de résidence.",
+        "Maison départementale des personnes handicapées (MDPH)",
+        "[À noter] Une procédure de reconnaissance de la qualité de travailleur handicapé (RQTH) est systématiquement engagée à l'occasion de l'instruction d'une demande d'AAH."
+      ]
+    },
+    {
+      "titre": "Comment est examinée la demande d'allocation aux adultes handicapés (AAH) ?",
+      "contenu": [
+        "La commission des droits et de l’autonomie des personnes handicapées (CDAPH) de la MDPH instruit la demande.",
+        "Sa réponse intervient dans un délai de 4 mois.",
+        "L’absence de réponse de la CDAPH pendant plus de 4 mois vaut décision implicite de rejet."
+      ]
+    },
+    {
+      "titre": "La décision de refus de la CDAPH d’attribuer l'allocation aux adultes handicapés (AAH) peut-elle faire l’objet d’un recours ?",
+      "contenu": [
+        "Oui, la décision de refus de la CDAPH peut faire l’objet d’un recours administratif préalable obligatoire (Rapo) auprès de la MDPH. Ce recours doit être exercé avant tout recours devant le tribunal.",
+        "Le RAPO doit être déposé dans un délai de 2 mois à partir de la réception de la décision contestée. Cette décision doit être jointe à votre recours.",
+        "L’absence de réponse de la CDAPH pendant plus de 2 mois vaut décision implicite de rejet.",
+        "À partir de cette décision, explicite ou implicite, vous avez 2 mois pour faire un recours devant le tribunal judiciaire du lieu de votre résidence."
+      ]
+    },
+    {
+      "titre": "Quel est le montant de l'allocation aux adultes handicapés (AAH) ?",
+      "contenu": [
+        "Le montant de l'AAH dépend de vos ressources.",
+        "Vous pouvez utiliser un simulateur pour faire une estimation de vos droits :",
+        "Estimer son droit à l’allocation aux adultes handicapés (AAH)",
+        "Vous n'avez aucune ressource",
+        "Vous recevez le montant maximal de l'AAH qui est de 1 041,59 € (que vous ayez un taux d'incapacité compris entre 50 % et 79 % ou plus).",
+        "Vous percevez une pension ou une rente (invalidité, retraite, accident du travail)",
+        "Vous recevez la différence entre le montant de votre pension ou rente et le montant maximal de l'AAH (qui est de 1 041,59 €).",
+        "Vous travaillez",
+        "La situation varie selon que vous travaillez en établissement et service d'accompagnement par le travail (Ésat) ou dans une entreprise du milieu ordinaire de travail.",
+        "Ésat",
+        "Le montant de l'AAH est calculé en fonction de vos revenus d'activité.",
+        "Vos ressources sont évaluées à partir des données de l'avant-dernière année qui sont transmises par le service des impôts. Toutefois, le calcul de vos droits peut être trimestriel si vous débutez en Ésat après avoir eu une activité professionnelle en milieu ordinaire.",
+        "Milieu ordinaire",
+        "Le montant de l'AAH est calculé en fonction de vos revenus d'activité.",
+        "Vous devez effectuer une déclaration trimestrielle de vos ressources auprès de la Caf ou de la MSA en remplissant un formulaire :",
+        "Déclaration trimestrielle AAH auprès de la Caf ou MSA",
+        "Notice explicative du formulaire de déclaration des ressources des bénéficiaires de l'allocation adultes handicapés (AAH)",
+        "Le formulaire doit être envoyé par courrier postal à votre Caf ou MSA :",
+        "Caisse d'allocations familiales (Caf)",
+        "Mutualité sociale agricole (MSA)",
+        "Vous êtes hospitalisé ou hébergé en maison d'accueil spécialisée (Mas)",
+        "Vous êtes hospitalisé ou hébergé en Mas moins de 60 jours",
+        "Vous continuez à percevoir le montant maximal de l'AAH, soit 1 041,59 € par mois.",
+        "Vous êtes hospitalisé ou hébergé en Mas plus de 60 jours",
+        "Le montant de l'AAH est réduit à 30 %, soit 312 € par mois.",
+        "Toutefois, cette réduction ne s'applique pas si vous êtes dans l'une des situations suivantes :",
+        "• Vous payez un forfait journalier, soit 23 € par jour",
+        "• Vous avez au moins 1 enfant à charge au sens des prestations familiales",
+        "• Vous avez 1 ascendant à charge au sens fiscal (vous lui versez une pension alimentaire)",
+        "• La personne avec laquelle vous vivez en couple ne travaille pas pour un motif reconnu par la CDAPH.",
+        "À la fin de votre hospitalisation ou hébergement, vous recevez de nouveau le montant maximal de l'AAH, soit 1 041,59 €.",
+        "Vous êtes incarcéré",
+        "Vous êtes incarcéré moins de 60 jours",
+        "Vous continuez à percevoir le montant maximal de l'AAH, soit 1 041,59 € par mois.",
+        "Vous êtes incarcéré plus de 60 jours",
+        "Le montant de l'AAH est réduit à 30 %, soit 312 € par mois.",
+        "Toutefois, cette réduction ne s'applique pas si vous êtes dans l'une des situations suivantes :",
+        "• Vous avez au moins 1 enfant à charge au sens des prestations familiales",
+        "• Vous avez 1 ascendant à charge au sens fiscal (vous lui versez une pension alimentaire)",
+        "• La personne avec laquelle vous vivez en couple ne travaille pas pour un motif reconnu par la CDAPH.",
+        "À la fin de votre incarcération, vous recevez de nouveau le montant maximal de l'AAH, soit 1 041,59 €."
+      ]
+    },
+    {
+      "titre": "Quelle est la durée d'attribution de l'allocation aux adultes handicapés (AAH) ?",
+      "contenu": [
+        "Tout dépend de votre taux d'incapacité.",
+        "Votre taux est d'au minimum 80 %",
+        "L'AAH est accordée pour une durée de 1 à 10 ans ou à vie si votre handicap ne peut pas évoluer favorablement.",
+        "Lorsque l'AAH n'est pas attribuée à vie, vous pouvez refaire une demande d'AAH avant la fin de la période d'attribution en respectant la même démarche que pour la demande initiale (même formulaire à remplir et pièces à joindre).",
+        "De 50 à 79 %",
+        "L'AAH est accordée pour une durée de 1 à 2 ans ou de 1 à 5 ans si votre handicap ne peut pas évoluer favorablement au cours de cette période.",
+        "Avant la fin de la période d'attribution, vous pouvez refaire une demande d'AAH en respectant la même démarche que pour la demande initiale (même formulaire à remplir et pièces à joindre)."
+      ]
+    },
+    {
+      "titre": "L'allocation aux adultes handicapés (AAH) continue-t-elle d'être versée lors du passage à la retraite ?",
+      "contenu": [
+        "Tout dépend de votre taux d'incapacité.",
+        "Taux d'incapacité d'au minimum 80 %",
+        "Vous pouvez cumuler votre pension de retraite et l'AAH si le montant de votre pension est inférieur au montant maximal de l'AAH (1 041,59 €). Vous recevez alors la différence entre le montant de votre pension et le montant maximal de l'AAH.",
+        "[À noter] Si vous avez perdu votre droit à l’AAH du fait de l’augmentation de votre retraite liée à la réforme des retraites, vous pouvez néanmoins continuer à percevoir les compléments AAH, à savoir la majoration pour la vie autonome (MVA) et le complément de ressources (si vous y aviez encore droit).",
+        "De 50 % à 79 %",
+        "Le versement de l'AAH prend fin à partir de l'âge légal du départ à la retraite.",
+        "Si vous n'avez jamais cotisé à l'assurance vieillesse ou si vous ne percevez aucun avantage, l'AAH est remplacée par l'allocation de solidarité aux personnes âgées (Aspa).",
+        "[À noter] Si vous avez perdu votre droit à l’AAH du fait de l’augmentation de votre retraite liée à la réforme des retraites, vous pouvez néanmoins continuer à percevoir les compléments AAH, à savoir la majoration pour la vie autonome (MVA) et le complément de ressources (si vous y aviez encore droit)."
+      ]
+    },
+    {
+      "titre": "Que doit faire la personne qui perçoit l'allocation aux adultes handicapés (AAH) en cas de changement dans sa situation ?",
+      "contenu": [
+        "Tout changement dans votre situation (déménagement, coordonnées bancaires, vie familiale...) doit être déclaré à la Caf ou à la MSA, car il peut avoir un impact sur votre AAH. Cette déclaration peut être faite en ligne ou directement sur place auprès de votre Caf ou MSA.",
+        "Caf",
+        "En ligne",
+        "Vous devez vous connecter à votre compte avec votre numéro d'allocataire et votre code confidentiel :",
+        "Caisse d'allocations familiales (Caf) en ligne",
+        "Avec vos identifiants Caf ou avec FranceConnect",
+        "Vous devez scanner les documents justifiant votre changement de situation (par exemple, avis de décision de France Travail (anciennement Pôle emploi)).",
+        "Sur place",
+        "Vous devez remplir un formulaire de déclaration de changement de situation disponible auprès de votre Caf.",
+        "Caisse d'allocations familiales (Caf)",
+        "Vous devrez joindre à votre formulaire les pièces justifiant votre changement de situation (par exemple, avis de décision France Travail (anciennement Pôle emploi)).",
+        "MSA",
+        "En ligne",
+        "Vous devez vous connecter à votre compte avec votre numéro d'allocataire et votre code confidentiel :",
+        "MSA - Espace particuliers",
+        "Avec vos identifiants MSA ou avec FranceConnect",
+        "Vous devez scanner les documents justifiant votre changement de situation (par exemple, avis de décision de France Travail (anciennement Pôle emploi)).",
+        "Sur place",
+        "Vous devez remplir un formulaire de déclaration de changement de situation disponible auprès de la MSA.",
+        "Mutualité sociale agricole (MSA)",
+        "Vous devrez joindre à votre formulaire les pièces justifiant votre changement de situation (par exemple, avis de décision France Travail (anciennement Pôle emploi))."
+      ]
+    },
+    {
+      "titre": "L'allocation aux adultes handicapés (AAH) peut-elle se cumuler avec d'autres aides ?",
+      "contenu": [
+        "Oui, l'AAH peut se cumuler avec les prestations suivantes :",
+        "• Prime d'activité",
+        "• Majoration pour la vie autonome ou le complément de ressources. Ce complément est supprimé depuis décembre 2019. Toutefois, si vous perceviez cette aide jusqu'à cette date, vous continuez à la percevoir si vous remplissez les conditions d'attribution, pendant une durée maximum de 10 ans.",
+        "• Réduction sociale téléphonique.",
+        "Si vous percevez d'autres allocations (par exemple : pension d'invalidité, RSA), vous recevez une AAH réduite.",
+        "Il n'est pas possible de cumuler l'AAH et l'allocation de solidarité spécifique (ASS). Toutefois, si vous perceviez ces 2 aides au 31 décembre 2016, vous pouvez continuer à les percevoir tant que vous remplissez les conditions, pendant une durée maximum de 10 ans."
+      ]
+    },
+    {
+      "titre": "Quelle démarche doivent faire les héritiers en cas de décès du titulaire de l'allocation aux adultes handicapés (AAH) ?",
+      "contenu": [
+        "Les héritiers doivent informer par tous moyens la Caf ou la MSA en cas de décès du titulaire de l'AAH.",
+        "Caisse d'allocations familiales (Caf)",
+        "Mutualité sociale agricole (MSA)",
+        "Les héritiers n'ont pas à rembourser les sommes qui ont été versées au titulaire de l'AAH."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la sécurité sociale : articles L821-1 à L821-8",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006141693"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles R821-1 à R821-9",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006142017/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles D821-1 à D821-11",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006141593"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : article R241-33",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037551602"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : annexe 2-4",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027037614"
+    },
+    {
+      "titre": "Réponse ministérielle du 28 octobre 2019 à l'allocation aux adultes handicapés (AAH) et le revenu universel d'activité (RUA)",
+      "url": "http://www.senat.fr/basile/visio.do?id=qSEQ191113164&idtable=q368717|q368296|q368368|q368420|q368426|q368404|q368067|q368071|q368103|q368111&_na=QE&rch=qa&de=20191113&au=20191129&dp=1+an&radio=deau&date=dateJORep&appr=titre&aff=ar&tri=dd&off=0&afd=ppr&afd=ppl&afd=pjl&afd=cvn"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Estimer son droit à l’allocation aux adultes handicapés (AAH)",
+      "url": "https://www.mesdroitssociaux.gouv.fr/votre-simulateur/accueil",
+      "type": "Simulateur"
+    },
+    {
+      "titre": "Demande ou renouvellement de prestations Handicap (AEEH, AAH, PCH, CMI, hébergement, Ésat...)",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_15692.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Demande ou renouvellement de prestations Handicap (AAH, PCH, CMI, hébergement ...)",
+      "url": "https://mdphenligne.cnsa.fr/",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "Maison départementale des personnes handicapées (MDPH)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Déconjugalisation de l’AAH : les réponses aux questions que vous vous posez !",
+      "url": "https://handicap.gouv.fr/deconjugalisation-de-laah-les-reponses-aux-questions-que-vous-vous-posez"
+    },
+    {
+      "titre": "AAH - Version \"facile à lire et à comprendre\" (Falc)",
+      "url": "https://www.cnsa.fr/sites/default/files/2024-03/FALC_cnsa_ffalc_aah_05_def_accessible_.pdf"
+    },
+    {
+      "titre": "Dossier pratique relatif à l'allocation adultes handicapés (AAH)",
+      "url": "https://www.caf.fr/allocataires/aides-et-demarches/droits-et-prestations/handicap/l-allocation-aux-adultes-handicapes-aah"
+    },
+    {
+      "titre": "Handicap : guide-barème pour l'évaluation des déficiences et incapacités",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027037614/"
+    },
+    {
+      "titre": "Tout comprendre sur l'allocation aux adultes handicapés à Mayotte",
+      "url": "https://www.caf.fr/allocataires/aides-et-demarches/droits-et-prestations/handicap/l-allocation-aux-adultes-handicapes-aah/mayotte"
+    }
+  ],
+  "slug": "allocation-aux-adultes-handicapes-aah",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "handicap-allocations-aah-aeeh-et-aides",
+      "titre": "Handicap : allocations (AAH, AEEH, ...) et aides"
+    }
+  ]
+}

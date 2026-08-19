@@ -1,0 +1,113 @@
+{
+  "id": "F1886",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Prime à l'internat",
+  "theme": "Famille - Scolarité",
+  "description": "Votre enfant est boursier et suit une scolarité en internat (au collège ou au lycée) ? Vous pouvez recevoir la prime à l'internat. Elle est attribuée trimestriellement de façon automatique, en déduction des frais de pension. La prime à l'internat est cumulable avec d'autres aides. Voici les informations à connaître.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-06-17",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1886",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Aides financières pour la scolarité",
+    "Prime à l'internat"
+  ],
+  "introduction": "Votre enfant est boursier et suit une scolarité en internat (au collège ou au lycée) ? Vous pouvez recevoir la prime à l'internat. Elle est attribuée trimestriellement de façon automatique, en déduction des frais de pension. La prime à l'internat est cumulable avec d'autres aides. Voici les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Qui peut bénéficier de la prime à l'internat ?",
+      "contenu": [
+        "Cette prime est destinée aux élèves boursiers nationaux scolarisés en internat (au collège ou au lycée).",
+        "Les élèves inscrits en internat de la réussite et en établissement régional d'enseignement adapté (Éréa) sont également concernés."
+      ]
+    },
+    {
+      "titre": "Comment demander la prime à l'internat ?",
+      "contenu": [
+        "La prime est attribuée de façon automatique. Vous n'avez pas de démarche à effectuer.",
+        "[À noter] Vous pouvez accepter l’étude automatique de votre droit à bourse au moment de l’inscription de votre enfant dans son établissement scolaire. Vous n’aurez pas d’autre démarche à faire pour que votre droit à bourse soit étudié à chaque rentrée scolaire."
+      ]
+    },
+    {
+      "titre": "Quel est le montant de la prime à l'internat ?",
+      "contenu": [
+        "Le montant de la prime varie selon votre échelon de bourse de collège ou de lycée.",
+        "Vous êtes au collège",
+        "Montants annuels de la prime à l'internat selon votre échelon de bourse de collège",
+        "Échelon",
+        "Montant",
+        "1",
+        "327 €",
+        "2",
+        "396 €",
+        "3",
+        "465 €",
+        "Vous êtes au lycée",
+        "Montants annuels de la prime à l'internat selon votre échelon de bourse de lycée",
+        "Échelon",
+        "Montant",
+        "1",
+        "327 €",
+        "2",
+        "396 €",
+        "3",
+        "465 €",
+        "4",
+        "534 €",
+        "5",
+        "603 €",
+        "6",
+        "672 €"
+      ]
+    },
+    {
+      "titre": "Quand la prime à l'internat est-elle versée ?",
+      "contenu": [
+        "La prime est attribuée en 3 fois, à chaque trimestre, en déduction de la facture des frais de pension."
+      ]
+    },
+    {
+      "titre": "Quelles sont les aides cumulables avec la prime à l'internat ?",
+      "contenu": [
+        "La prime à l'internat est obligatoirement cumulée avec une bourse de collège ou une bourse de lycée.",
+        "Par ailleurs, elle peut être cumulée, sous conditions, avec les aides suivantes :",
+        "• Allocation de rentrée scolaire (ARS)",
+        "• Aides pour l'élève inscrit dans la voie professionnelle",
+        "• Fonds social lycéen ou collégien",
+        "• Aides pour la cantine"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'éducation : articles D531-42 à D531-43",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000020743113"
+    },
+    {
+      "titre": "Arrêté du 13 juillet 2021 fixant le montant de la prime à l'internat à compter de l'année scolaire 2021-2022",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043788472"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Direction des services départementaux de l'Éducation nationale"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Les bourses de collège et de lycée",
+      "url": "https://www.education.gouv.fr/les-bourses-de-college-et-de-lycee-326728"
+    }
+  ],
+  "slug": "prime-a-l-internat",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "aides-financieres-pour-la-scolarite",
+      "titre": "Aides financières pour la scolarité"
+    }
+  ]
+}

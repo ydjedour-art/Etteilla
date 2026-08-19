@@ -1,0 +1,137 @@
+{
+  "id": "F3173",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Impôt sur le revenu - Déclarer les rentes viagères",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Une rente viagère est soumise à l'impôt sur le revenu. L'imposition varie selon le type de rente.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-15",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F3173",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Impôt sur le revenu : déclaration et revenus à déclarer",
+    "Impôt sur le revenu - Déclarer les rentes viagères"
+  ],
+  "introduction": "Vous percevez une somme d'argent versée à vie ? Cette rente viagère est soumise à l'impôt sur le revenu. L'imposition varie selon le type de rente. Nous vous indiquons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Rentes viagères versées sans contrepartie (à titre gratuit)",
+      "contenu": [
+        "Vous devez déclarer les rentes viagères à titre gratuit reçues à la suite d'une donation ou d'un testament.",
+        "Elles sont imposées comme des pensions.",
+        "L'administration fiscale applique automatiquement un abattement de 10 % sur le montant total déclaré des pensions et rentes de votre foyer fiscal.",
+        "Le montant de l'abattement doit se situer dans la fourchette suivante :",
+        "• Minimum : 454 € par pensionné",
+        "• Maximum : 4 439 € par foyer fiscal."
+      ]
+    },
+    {
+      "titre": "Rentes viagères versées à la sortie d'un produit d'épargne retraite",
+      "contenu": [
+        "Les rentes viagères versées à la sortie d'un produit d'épargne retraite sont à déclarer.",
+        "Elles sont imposées comme des pensions de retraite.",
+        "Ce sont les rentes versées à la sortie de l'un des produits de retraite suivants :",
+        "• Plan d'épargne retraite populaire (Perp)",
+        "• Régime Préfon",
+        "• Contrat Madelin",
+        "• Plan d'épargne retraite obligatoire (Pero)",
+        "• Plan d'épargne retraite individuel (Perin)",
+        "• Plan d'épargne retraite d'entreprise collectif (Pereco).",
+        "L'administration fiscale applique automatiquement un abattement de 10 % sur le montant total déclaré des pensions et rentes de votre foyer fiscal.",
+        "Le montant de l'abattement doit se situer dans la fourchette suivante :",
+        "• Minimum : 454 € par pensionné",
+        "• Maximum : 4 439 € par foyer fiscal."
+      ]
+    },
+    {
+      "titre": "Rentes viagères versées avec contrepartie (à titre onéreux)",
+      "contenu": [
+        "Les rentes viagères à titre onéreux sont à déclarer.",
+        "Une partie des rentes viagères à titre onéreux est soumise à l'impôt sur le revenu.",
+        "Cette partie est variable selon votre âge au moment du 1er versement de la rente.",
+        "La part qui est imposable est la suivante :",
+        "Part imposable de la rente viagère à titre onéreux selon l'âge au 1er versement",
+        "Votre âge au 1er versement de la rente",
+        "Part imposable",
+        "Moins de 50 ans",
+        "70 %",
+        "De 50 à 59 ans",
+        "50 %",
+        "De 60 à 69 ans",
+        "40 %",
+        "Plus de 69 ans",
+        "30 %",
+        "[Exemple] Vous touchez une rente viagère de 2 000 € par an. Vous aviez 65 ans au moment du 1er versement de la rente. La part imposable de votre rente est de 40 %. Vous devez donc déclarer la somme de 800 €.",
+        "Vous devez indiquer sur votre déclaration de revenus le montant brut des rentes viagères à titre onéreux perçues en 2025 par les membres de votre foyer fiscal.",
+        "L'administration fiscale calcule la part imposable.",
+        "[À noter] Le bouquet versé dans le cadre d'une vente en viager n'est pas considéré comme un revenu. Mais il est soumis au régime de la plus-value immobilière. Celle-ci peut être exonérée, notamment lorsque le logement vendu en viager est la résidence principale du vendeur."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général des impôts : articles 156 à 163 quinvicies",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000006191588/"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-RSA-PENS-10-40 relatif à l'imposition des rentes viagères à titre gratuit ou onéreux",
+      "url": "https://bofip.impots.gouv.fr/bofip/366-PGP.html/identifiant=BOI-RSA-PENS-10-40-20140502"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-RSA-PENS-30-20 relatif à l'imposition des rentes viagères à titre onéreux",
+      "url": "http://bofip.impots.gouv.fr/bofip/369-PGP"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Impôts : accéder à votre espace Finances publiques",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Déclarer vos revenus en ligne",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Déclaration 2026 des revenus 2025 (papier)",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/2042/declaration-des-revenus",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Estimer le montant de son impôt sur les revenus de 2025 (déclaration de 2026)",
+      "url": "https://simulateur-ir-ifi.impots.gouv.fr/calcul_impot/2026/",
+      "type": "simulateurNG"
+    }
+  ],
+  "contacts": [
+    "Service d'information des impôts",
+    "Service en charge des impôts (trésorerie, service des impôts...)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Site des impôts",
+      "url": "https://www.impots.gouv.fr/portail/"
+    },
+    {
+      "titre": "Brochure pratique 2026 - Déclaration des revenus de 2025",
+      "url": "https://www.impots.gouv.fr/www2/fichiers/documentation/brochure/ir_2026/accueil.htm"
+    },
+    {
+      "titre": "Impôt sur le revenu : dépliants d'information",
+      "url": "https://www.impots.gouv.fr/brochures-et-depliants"
+    }
+  ],
+  "slug": "impot-sur-le-revenu-declarer-les-rentes-viageres",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "impot-sur-le-revenu-declaration-et-revenus-a-declarer",
+      "titre": "Impôt sur le revenu : déclaration et revenus à déclarer"
+    }
+  ]
+}

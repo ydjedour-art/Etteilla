@@ -1,0 +1,71 @@
+{
+  "id": "F430",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Recrutement d'une personne handicapée dans la fonction publique",
+  "theme": "Travail - Formation",
+  "description": "Une personne en situation de handicap peut être recrutée comme fonctionnaire par concours ou par contrat puis titularisation.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2024-10-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F430",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Recrutement dans la fonction publique",
+    "Recrutement d'une personne handicapée dans la fonction publique"
+  ],
+  "introduction": "Si vous êtes en situation de handicap, vous pouvez vous présenter aux concours d'accès à la fonction publique et bénéficier d'un aménagement pour passer les épreuves. Vous pouvez également être recruté comme contractuel, puis être titularisé à la fin du contrat, sans avoir à passer de concours. Nous vous détaillons ces 2 dispositifs.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code général de la fonction publique : articles L131-7 à L131-11",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044420903/"
+    },
+    {
+      "titre": "Code général de la fonction publique : articles L311-1 à L311-3",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044421542/"
+    },
+    {
+      "titre": "Code général de la fonction publique : articles L352-1 à L352-6",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044422082/"
+    },
+    {
+      "titre": "Code de la fonction publique : articles R131-2 à R131-4",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000050546507/"
+    },
+    {
+      "titre": "Code général de la fonction publique : articles R352-1 à R352-36",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000051963027/"
+    },
+    {
+      "titre": "Décret n° 2024-759 du 7 juillet 2024 fixant les conditions de recours à la visioconférence pour l'organisation des voies d'accès à la fonction publique",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000049895142/"
+    },
+    {
+      "titre": "Arrêté du 8 juillet 2024 fixant les conditions et les modalités de recours à la visioconférence pour l'organisation des voies d'accès à la fonction publique",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000049950683"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Avis de recrutement dans la fonction publique pour les personnes en situation de handicap",
+      "url": "https://www.fonction-publique.gouv.fr/devenir-agent-public/les-avis-de-recrutement-pour-les-personnes-en-situation-de-handicap"
+    },
+    {
+      "titre": "Fonds pour l'insertion des personnes handicapées dans la fonction publique (FIPHFP)",
+      "url": "http://www.fiphfp.fr/"
+    }
+  ],
+  "slug": "recrutement-d-une-personne-handicapee-dans-la-fonction-publique",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "recrutement-dans-la-fonction-publique",
+      "titre": "Recrutement dans la fonction publique"
+    }
+  ]
+}

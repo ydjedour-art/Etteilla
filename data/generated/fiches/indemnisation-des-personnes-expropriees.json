@@ -1,0 +1,141 @@
+{
+  "id": "F39380",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Indemnisation des personnes expropriées",
+  "theme": "Logement",
+  "description": "En cas d’expropriation, les propriétaires et commerçants peuvent obtenir une indemnisation pour la perte de leur bien ou de leur activité.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-11-28",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F39380",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Expropriation",
+    "Indemnisation des personnes expropriées"
+  ],
+  "introduction": "Lorsqu’un bien est exproprié pour cause d’utilité publique, son propriétaire a droit à une indemnisation juste et préalable. Cette indemnité vise à compenser la perte du bien et à réparer l’ensemble des préjudices causés par l’expropriation. Selon les situations, des indemnités accessoires peuvent également être accordées. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Quel est le préjudice indemnisable en cas d’expropriation ?",
+      "contenu": [
+        "Lorsqu’un bien est exproprié, le propriétaire peut demander une indemnisation pour compenser l’intégralité des préjudices subis.",
+        "Cependant, tous les dommages ne donnent pas droit à une indemnisation. Pour être indemnisé, le dommage doit remplir plusieurs conditions cumulatives. Il doit :",
+        "• Concerner un intérêt juridiquement protégé. Cela signifie que l’expropriation ne donne droit à une indemnité que si la personne concernée subit un dommage lié à un droit reconnu et protégé par la loi. Le propriétaire ne peut donc pas être indemnisé pour des situations irrégulières ou précaires. Par exemple, si le logement exproprié était insalubre ou non conforme aux normes de décence, la perte des loyers perçus illégalement n’est pas indemnisable. De même, si une maison a été édifiée sans permis de construire, la perte de cette construction irrégulière n’est pas indemnisable.",
+        "• Être direct, c’est-à-dire qu’il doit être la conséquence directe de l’expropriation. Il doit ainsi exister un lien de causalité entre l’expropriation et le dommage subi.",
+        "• Être matériel. L’indemnisation couvre uniquement les atteintes patrimoniales (perte de biens, de revenus, frais de relogement, etc.) et non les préjudices moraux (affectif, sentimental, psychologique).",
+        "• Et être certain, c’est-à-dire que le préjudice doit être réel et chiffrable au moment de l’évaluation. Un préjudice futur peut être indemnisé s’il est certain dans sa réalisation et être évalué immédiatement (par exemple la perte prévisible d’un revenu locatif régulier). En revanche, les préjudices hypothétiques ou éventuels ne peuvent pas donner lieu à réparation."
+      ]
+    },
+    {
+      "titre": "Comment est fixée l’indemnité principale d’expropriation ?",
+      "contenu": [
+        "Le propriétaire exproprié reçoit une indemnité principale qui correspond à la valeur vénale de son bien. Cette somme doit permettre de replacer l’exproprié dans une situation équivalente à celle qu’il occupait avant l’expropriation.",
+        "Le montant de cette indemnité principale va être fixée en prenant en compte la consistance du bien et l’évaluation de sa valeur vénale.",
+        "Détermination de la consistance des biens",
+        "Avant de fixer le montant de l’indemnité, il faut d’abord déterminer la consistance du bien exproprié. Cela signifie que l’indemnité principale va tenir compte de la composition matérielle du bien et des droits qui y sont attachés.",
+        "Tous les éléments matériels du bien doivent ainsi être pris en considération, à savoir :",
+        "• Le sol et le sous-sol d'un terrain",
+        "• La construction elle-même, ses accessoires (clôture, jardin, dépendances, cave etc.), la qualité des matériaux et des équipements, ou encore l’état de vétusté pour les immeubles bâtis.",
+        "Les droits attachés au bien exproprié sont également inclus. Il s’agit notamment des baux (habitation, commercial ou rural) et des servitudes (légales ou conventionnelles).",
+        "Évaluation des biens",
+        "L’indemnité principale d’expropriation doit correspondre à la valeur vénale du bien exproprié, c’est-à-dire au prix auquel il aurait pu être vendu sur le marché immobilier dans des conditions normales.",
+        "Pour aider les personnes expropriées à apprécier cette valeur, un service en ligne permet d’accéder aux informations relatives aux ventes de biens immobiliers comparables (type de bien et superficie similaire).",
+        "Il est accessible depuis l’espace particulier du site impots.gouv.fr :",
+        "Impôts : accéder à votre espace Finances publiques",
+        "Connexion avec l’identifiant fiscal du contribuable ou via FranceConnect. Ensuite, double authentification avec réception d’un code à 6 chiffres par mail.",
+        "Ce service fournit des données sur les ventes intervenues dans le même secteur géographique et sur une période donnée.",
+        "Les informations communiquées concernent notamment :",
+        "• La localisation du bien (adresse, commune/département, références cadastrales)",
+        "• Ses principales caractéristiques (année de construction, superficie, type de bien, nombre de pièces, étage, présence d’un ascenseur, matériaux de construction, etc.)",
+        "• La date et le prix de vente (modalités de calcul prix/surface et prix/nombre de dépendances)",
+        "Ces éléments permettent de comparer le bien exproprié à des biens similaires et de déterminer une estimation réaliste de sa valeur. Seules les transactions intervenues au cours des 9 dernières années peuvent être consultées.",
+        "Évaluation des bâtiments expropriés",
+        "En l’absence d’accord entre l’expropriant et l’exproprié sur la valeur du bien, le juge de l’expropriation fixe le montant de l’indemnité principale.",
+        "Le juge de l’expropriation choisit alors librement la méthode d’évaluation la plus adaptée à la situation. En effet, plusieurs méthodes d’évaluation peuvent être utilisées selon la nature du bien et les circonstances :",
+        "• L’évaluation par comparaison. C’est la méthode la plus couramment utilisée. Elle consiste à comparer le bien exproprié à d’autres biens présentant des caractéristiques proches récemment vendus dans des zones géographiques similaires. Cette approche permet de déterminer une valeur moyenne représentative du marché immobilier local.",
+        "• L’évaluation par le revenu. Cette méthode est utilisée principalement pour les immeubles loués. Elle consiste à estimer la valeur vénale du bien à partir des revenus qu’il rapporte, c’est-à-dire les loyers perçus chaque année. Le juge applique ensuite un coefficient de capitalisation pour transformer ce revenu annuel en valeur de vente.",
+        "• L’évaluation par le coût de reconstitution. Elle est réservée à des biens particuliers, principalement des immeubles classés. La valeur est alors estimée d’après le coût nécessaire pour reconstituer le bien à l’identique, en tenant compte de son état et de sa durabilité.",
+        "• L’évaluation de récupération foncière. Cette méthode s’applique lorsque la valeur du terrain est nettement supérieure à celle des constructions qu’il supporte. Les bâtiments sont alors considérés comme devant être démolis, et seule la valeur du terrain nu est retenue, diminuée du coût estimé de la démolition. Elle est utilisée notamment pour les immeubles vétustes, insalubres ou voués à la destruction, mais ne peut pas s’appliquer à des constructions en bon état.",
+        "• L’évaluation du bilan promoteur ou du compte à rebours. Cette méthode consiste à partir du prix de vente final d’une opération immobilière (construction, réhabilitation ou aménagement) et à en déduire l’ensemble des coûts liés à l’opération, notamment le coût des travaux. Elle permet d’estimer la valeur d’un terrain constructible en fonction de son potentiel de construction. Toutefois, en raison de son caractère incertain et des nombreuses hypothèses à prendre en compte, cette méthode est rarement retenue.",
+        "[À savoir] La personne expropriée peut présenter au juge la méthode d’évaluation qu’elle souhaite voir retenue. Elle a également le droit de contester les réductions ou abattements proposés par l’expropriant ou le commissaire du gouvernement, en fonction de la situation de son bien.",
+        "L’immeuble doit toujours être évalué selon son état réel et les conditions du marché. L’estimation ne peut donc pas se fonder sur des constructions neuves. Elle ne peut pas non plus se fonder sur les prix affichés dans les agences ou sur les promesses de vente, qui constituent seulement des indications.",
+        "Évaluation des fonds de commerce",
+        "L’expropriation ne peut concerner que des biens immobiliers (terrains, bâtiments etc) ou des droits réels immobiliers. Un fonds de commerce, qui est un bien mobilier immatériel (comme la clientèle ou le nom commercial), ne peut donc pas être exproprié directement. En pratique, c’est l’immeuble où se trouve le commerce qui peut être exproprié. Le fait d’être exproprié entraîne alors la perte de l’activité commerciale.",
+        "Dans ce cas, l’expropriant doit verser une indemnité d’éviction :",
+        "• au propriétaire lorsqu’il exploite lui-même son fonds de commerce",
+        "• au locataire titulaire d’un bail commercial, lorsqu’il exerce son activité dans le local exproprié.",
+        "En cas de désaccord sur le montant de l’indemnité, il reviendra au juge de l’expropriation de fixer sa valeur.",
+        "[À savoir] La perte de clientèle ou la cessation d'activité ne peuvent donner lieu à indemnisation que si elles sont la conséquence de l'expropriation.",
+        "Le juge de l’expropriation détermine librement les critères nécessaires à l’évaluation du fonds de commerce. Le plus souvent, il utilisera une méthode comparative qui consiste à évaluer le commerce exproprié avec d’autres commerces similaires récemment vendus ou estimés dans le même secteur d’activité et la même zone géographique. Cette méthode repose sur les données du marché et les barèmes de référence établis pour chaque type de commerce (par exemple, cafés, boulangeries, pharmacies, salons de coiffure, etc.).",
+        "En pratique, cela consiste à appliquer un coefficient de valorisation à l’un ou plusieurs des indicateurs économiques du commerce :",
+        "• la recette moyenne journalière,",
+        "• le bénéfice annuel moyen calculé sur les 3 dernières années,",
+        "• ou le chiffre d’affaires annuel moyen calculé sur les 3 dernières années, toutes taxes comprises.",
+        "Le coefficient retenu traduit la rentabilité du fonds de commerce : plus l’activité est stable, réputée et bien située, plus la valeur estimée sera élevée.",
+        "Cette méthode permet ainsi de fixer une valeur marchande réaliste du fonds de commerce, reflétant sa position sur le marché au moment de l’expropriation.",
+        "[À noter] Lorsque le commerçant transfère son activité à la suite de l’expropriation et qu’il ne subit aucune perte de clientèle, l’indemnité peut être calculée sur la valeur du droit au bail."
+      ]
+    },
+    {
+      "titre": "Quelles sont les indemnités accessoires en cas d’expropriation ?",
+      "contenu": [
+        "Les indemnités accessoires ont pour but de compenser les préjudices né de la privation du bien immobilier, autre que la perte de sa valeur vénale.",
+        "Indemnité de remploi",
+        "L’indemnité de remploi a pour but de permettre au propriétaire exproprié de faire face aux frais qu’il devra engager pour utiliser l’indemnité principale reçue.",
+        "Cette indemnité vise ainsi à couvrir les dépenses nécessaires lors de l’acquisition d’un bien similaire à celui perdu (recherches du bien, frais de notaire, droits d’enregistrement et, plus largement, tous les frais liés à l’achat), pour un prix égal au montant de l’indemnité principale.",
+        "C’est pourquoi son montant est calculé en proportion de l’indemnité principale. En pratique, le juge fixe cette indemnité dans une fourchette généralement comprise entre 15 % et 30 % de l’indemnité principale.",
+        "[À savoir] L'indemnité de remploi est due même si le propriétaire exproprié ne procède pas au rachat d’un bien de remplacement.",
+        "Il existe néanmoins 2 limites à l’indemnité de remploi :",
+        "• Elle n’est pas due lorsque le bien était clairement destinés à la vente, ou mis en vente par le propriétaire exproprié au cours de la période de 6 mois avant la déclaration d'utilité publique",
+        "• Son montant doit tenir compte des éventuels avantages fiscaux dont l’exproprié peut bénéficier lors d’un rachat de bien.",
+        "Autres indemnités accessoires",
+        "Les indemnités accessoires ont pour but de réparer les préjudices qui sont la conséquence directe de l’expropriation.",
+        "Il peut s’agir, par exemple d’une :",
+        "• Indemnité liée à l’activité professionnelle : l’expropriation peut fragiliser ou perturber une entreprise entrainant une perte de cliente, une obligation de licenciement ou un perte de bénéfices nets. Dans ce cas, l’expropriant peut proposer une indemnité correspondant au montant des indemnités de licenciement ou une indemnité d’éviction.",
+        "• Indemnité de dépréciation : lorsque l’expropriation porte sur une partie de la propriété, la partie non expropriée peut subir une diminution de valeur. Cette moins-value est indemnisable. C’est le cas, par exemple, si la surface restante devient trop petite pour y construire un logement ou de l’apparition de nouvelles contraintes (nuisances, proximité immédiate d’une route élargie).",
+        "• Indemnité de perte de clôture : si l’expropriation emporte la destruction d’une clôture, d’un mur ou d’une séparation, le coût de reconstruction peut être indemnisé.",
+        "• Indemnité de déménagement qui couvre les frais liés au changement de résidence (habitation)",
+        "• Indemnité pour perte de revenus locatifs : si l’expropriation entraîne le départ anticipé (avant la fin du bail) des locataires ou rend le bien inutilisable en location, le propriétaire peut être indemnisé pour les loyers non perçus.",
+        "[À savoir] Lorsque l’expropriant n’a pas formulé d’offre pour les indemnités accessoires, l’exproprié peut en solliciter directement le paiement devant le juge de l’expropriation du tribunal judiciaire situé dans le département du lieu de l’expropriation. Il n’y a pas de formalité supplémentaire à effectuer."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'expropriation pour cause d'utilité publique : article L321-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029733786/"
+    },
+    {
+      "titre": "Livre des procédures fiscales : article L 107 B",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033817842/"
+    },
+    {
+      "titre": "Livre des procédures fiscales : article R*107 B-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037095042"
+    },
+    {
+      "titre": "Livre des procédures fiscales : article R*107 B-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034417486/"
+    },
+    {
+      "titre": "Code de l'expropriation pour cause d'utilité publique",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029971412/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "indemnisation-des-personnes-expropriees",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "expropriation",
+      "titre": "Expropriation"
+    }
+  ]
+}

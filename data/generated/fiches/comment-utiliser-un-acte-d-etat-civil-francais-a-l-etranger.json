@@ -1,0 +1,83 @@
+{
+  "id": "F1374",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Comment utiliser un acte d'état civil français à l'étranger ?",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Dans l'Union européenne, certains documents publics (acte d'état civil par exemple) sont acceptés sans formalité d'authentification.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-08-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1374",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Actes d'état civil",
+    "Comment utiliser un acte d'état civil français à l'étranger ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "La démarche à suivre est différente selon que l'acte d'état civil est destiné à être utilisé dans un pays de l'Union européenne (UE) ou dans un autre pays :",
+        "Utiliser un acte d'état civil français dans un pays de l'UE",
+        "Pour utiliser un acte d'état civil français au sein de l'Union européenne, vous n'avez pas besoin de demander l'authentification de l'acte. Vous n'avez pas non plus à obtenir la certification du pays européen dans lequel vous résidez.",
+        "Toutefois, l'acte d'état civil doit être rédigé dans la langue du pays.",
+        "Pour vous aider à obtenir une traduction de votre document, sans coût supplémentaire, et pour éviter la nécessité de recourir à un traducteur agréé, une démarche simplifiée a été mise en place par la Commission européenne via un formulaire de type multilingue. Ce document permet de fournir une traduction standardisée d'un extrait d'acte d'état civil français dans plusieurs langues européennes, afin de faciliter sa compréhension et son utilisation dans d'autres pays membres de l'UE. Il est considéré comme une traduction certifiée de l'acte d'état civil français.",
+        "[Exemple] Ce formulaire est utilisé lors de démarches administratives telles qu'un mariage ou une reconnaissance de parenté.",
+        "[Attention] Ce formulaire est uniquement destiné aux autorités nationales autorisées, c'est-à-dire que vous ne pouvez pas le préremplir. Pour un acte de naissance, vous devrez vous adresser auprès de la mairie qui a délivré l'acte.",
+        "De ce fait, lors de votre démarche dans un autre pays de l'Union européenne, ce formulaire, une fois rempli par la mairie, doit être joint à votre acte d'état civil français.",
+        "La mairie doit vous remplir le formulaire gratuitement. Vous pouvez l'obtenir sur place ou en faire la demande en ligne.",
+        "[À savoir] Vous pouvez consulter le site e-justice pour obtenir des informations complémentaires liées aux langues d'usage de chaque pays de l'UE.",
+        "Utiliser un acte d'état civil à l'étranger",
+        "Pour présenter un document français auprès d'une autorité étrangère (hors UE), l'authentification préalable de la signature de l'autorité ayant délivré le document peut être exigée (légalisation ou apostille).",
+        "La légalisation et l'apostille attestent des informations suivantes :",
+        "• Véracité de la signature de l'auteur du document",
+        "• Qualité en laquelle le signataire du document a agi",
+        "• Si nécessaire, l’identité du sceau ou du timbre qui est mentionné sur le document.",
+        "En pratique, la légalisation et l'apostille sont un cachet officiel ajouté sur le document.",
+        "Pour vérifier si le document doit être légalisé, apostillé ou est dispensé de formalité, vous devez consulter le récapitulatif des règles par pays mis à jour par le ministère des affaires étrangères.",
+        "Vous pouvez aussi vous renseigner auprès de l'ambassade ou du consulat en France du pays de destination.",
+        "Ambassade ou consulat étranger en France"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Règlement (UE) 2016/1191 relatif à la simplification des conditions de présentation de certains documents publics dans l'Union européenne",
+      "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32016R1191"
+    },
+    {
+      "titre": "Décret n°2007-1205 du 10 août 2007 relatif aux attributions du ministère des affaires étrangères et des ambassadeurs en matière de légalisation d'actes",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006056773/"
+    },
+    {
+      "titre": "Circulaire du 23 juillet 2014 relative à l'état civil",
+      "url": "https://www.legifrance.gouv.fr/circulaire/id/38565"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Mairie"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Site de la Commission internationale de l'État Civil (CIEC)",
+      "url": "http://www.ciec1.org/"
+    },
+    {
+      "titre": "Formulaires de type multilingues",
+      "url": "https://e-justice.europa.eu/35981/FR/public_documents_forms?clang=fr"
+    }
+  ],
+  "slug": "comment-utiliser-un-acte-d-etat-civil-francais-a-l-etranger",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "actes-d-etat-civil",
+      "titre": "Actes d'état civil"
+    }
+  ]
+}

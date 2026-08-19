@@ -1,0 +1,117 @@
+{
+  "id": "F13607",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Cesu déclaratif ou Cesu préfinancé : quelles différences ?",
+  "theme": "Travail - Formation",
+  "description": "Il existe 2 formes de chèque emploi-service universel (Cesu) : le Cesu déclaratif et le Cesu préfinancé.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-02-06",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F13607",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Particulier employeur : aide à domicile (services à la personne)",
+    "Cesu déclaratif ou Cesu préfinancé : quelles différences ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Le particulier peut utiliser le Cesu déclaratif ou le Cesu préfinancé en lien avec les services à la personne.",
+        "Des différences existent entre le Cesu déclaratif et le Cesu préfinancé notamment sur les conditions d’utilisation et d’adhésion.",
+        "Nous vous présentons les principales différences entre ces 2 Cesu.",
+        "Différences entre le Cesu déclaratif et le Cesu préfinancé",
+        "Objet",
+        "Cesu déclaratif",
+        "Cesu préfinancé (ou titre Cesu)",
+        "À quoi sert-il ?",
+        "Le Cesu déclaratif permet de déclarer le personnel employé à votre domicile dans le cadre des services à la personne",
+        "Le Cesu préfinancé permet de payer un organisme de services à la personne ou de rémunérer un salarié",
+        "Sous quelle forme ?",
+        "Dématérialisée ou carnet de 20 volets sociaux papier",
+        "Le Cesu préfinancé est un titre de paiement comportant un montant défini qui se présente sous la forme d'un carnet de chèques ou Cesu dématérialisé (E-Cesu)",
+        "Pour quoi faire ?",
+        "Ménage, repassage, soutien scolaire...",
+        "Attention : pour l'emploi d'une assistante maternelle agréée et d'un salarié pour une garde d'enfants à domicile, la déclaration doit être faite à Pajemploi si vous bénéficiez d'une prise en charge de la Caf ou MSA.",
+        "Tous les services à la personne peuvent être rémunérés par des titres Cesu (bricolage, soutien scolaire, garde d'enfants...)",
+        "Quels sont les avantages ?",
+        "Permet de remplir vos obligations d'employeur, notamment :",
+        "• Déclaration des rémunérations à l'Urssaf",
+        "• Paiement des cotisations sociales",
+        "• Établissement des bulletins de salaire",
+        "• Rémunération d'un salarié employé directement ou d'une assistante maternelle agréée",
+        "• Règlement de la facture d'un organisme déclaré ou agréé de services à la personne ou d'une structure de garde d'enfants (crèche, halte-garderie...)",
+        "Comment adhérer ?",
+        "Où se les procurer ?",
+        "• Par internet au Centre national du Cesu",
+        "• Par courrier : Centre national du Chèque emploi service universel",
+        "Ils peuvent être accordés par :",
+        "• Employeurs publics ou privés",
+        "• Comité social et économique (CSE)",
+        "• Organismes publics ou privés qui attribuent des prestations sociales (services du département, centres communaux d'action sociale, caisses de sécurité sociale, caisses de retraite, mutuelles...)",
+        "Comment payer vos prestations ou votre salarié ?",
+        "Chèque, virement bancaire, espèces, Cesu préfinancé ou Cesu+ si vous avez adhéré à ce dispositif",
+        "Avec le titre de paiement qui vous a été accordé"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code du travail : articles L1271-1 à L1271-8",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000006189478"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles L133-5-6 à L133-5-12",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000033812390"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Urssaf Service Pajemploi en ligne",
+      "url": "http://www.pajemploi.urssaf.fr/pajewebinfo/cms/sites/pajewebinfo/accueil.html",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Créer votre espace (compte) Urssaf en ligne",
+      "url": "https://www.urssaf.fr/accueil/creer-votre-espace-en-ligne.html",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "Urssaf service Cesu"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Site des services à la personne",
+      "url": "https://www.servicesalapersonne.gouv.fr/"
+    },
+    {
+      "titre": "Site officiel du particulier employeur et du salarié",
+      "url": "https://www.urssaf.fr/accueil/particulier/particulier-employeur.html"
+    },
+    {
+      "titre": "Site du Cesu",
+      "url": "https://www.cesu.urssaf.fr/info/accueil.html"
+    },
+    {
+      "titre": "Urssaf service Pajemploi",
+      "url": "https://www.urssaf.fr/accueil/services/services-particuliers/service-pajemploi.html"
+    },
+    {
+      "titre": "Centre national du Chèque emploi service universel",
+      "url": "https://lannuaire.service-public.gouv.fr/centres-contact/R14971"
+    }
+  ],
+  "slug": "cesu-declaratif-ou-cesu-prefinance-quelles-differences",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "particulier-employeur-aide-a-domicile-services-a-la-personne",
+      "titre": "Particulier employeur : aide à domicile (services à la personne)"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "F739",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quelle est la durée d'activité minimale pour le remboursement par la Sécurité sociale des frais de santé d'un salarié ?",
+  "theme": "Social - Santé",
+  "description": "Avec la protection universelle maladie (Puma), seul l'exercice d'une activité professionnelle est pris en compte pour le remboursement des frais de santé.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-08-07",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F739",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Remboursement des soins par la Sécurité sociale",
+    "Quelle est la durée d'activité minimale pour le remboursement par la Sécurité sociale des frais de santé d'un salarié ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les salariés n'ont pas à justifier d'une durée d'activité minimale pour prétendre au remboursement des frais de santé (maladie et maternité).",
+        "En effet, les salariés ont droit au remboursement des frais de santé en cas de maladie ou de maternité du seul fait de leur activité professionnelle."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la sécurité sociale : articles L160-1 à L160-7",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000031668675/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Protection universelle maladie (PUMa)",
+      "url": "https://www.ameli.fr/assure/droits-demarches/principes/protection-universelle-maladie"
+    }
+  ],
+  "slug": "quelle-est-la-duree-d-activite-minimale-pour-le-remboursement-par-la-securite-sociale-des-frais-de-sante-d-un-salarie",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "remboursement-des-soins-par-la-securite-sociale",
+      "titre": "Remboursement des soins par la Sécurité sociale"
+    }
+  ]
+}

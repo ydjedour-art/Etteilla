@@ -1,0 +1,73 @@
+{
+  "id": "F38574",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Vous partez vivre en Ehpad : aides financières",
+  "theme": "Social - Santé",
+  "description": "Si vous allez prochainement être hébergé en Ehpad, vous pouvez obtenir des aides sous plusieurs conditions.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-30",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F38574",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Aides financières",
+    "Vous partez vivre en Ehpad : aides financières"
+  ],
+  "introduction": "Si vous allez prochainement être hébergé en Ehpad, vous pouvez obtenir des aides sous plusieurs conditions.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Il existe 3 aides au paiement du tarif hébergement et du tarif dépendance de l'Éhpad :",
+        "• L'allocation personnalisée d'autonomie (Apa) qui sert à payer en partie le tarif dépendance facturé par l'Éhpad. Cette aide est accordée à la personne âgée dont la perte d'autonomie est classée en Gir 1, Gir 2, Gir 3 ou Gir 4. Une personne classée en Gir 5 ou Gir 6 n'a pas droit à l'Apa.",
+        "• Une aide au logement (ALS ou APL) qui sert à payer en partie le tarif hébergement facturé par l'Éhpad.",
+        "• L'aide sociale à l'hébergement (ASH), qui est versée à la personne âgée lorsqu'elle est hébergée dans certains Éhpad uniquement.",
+        "Ces aides sont cumulables.",
+        "[À savoir] Une personne âgée en Éhpad peut également recevoir un chèque énergie. Si elle est imposable, elle peut obtenir une réduction d'impôt s'élevant au maximum à 2 500 €.",
+        "Il est possible de comparer le prix des Éhpad et le montant du reste à charge de la personne âgée (déduction faite de l'Apa et de l'aide au logement), en utilisant ce simulateur :",
+        "Annuaire des Éhpad, comparateur de prix et prestations des Éhpad, comparateur de reste à charge en Éhpad",
+        "[À savoir] Il est également possible de savoir si un Éhpad ouvre droit ou non à l'ASH."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Quelles garanties sont demandées pour entrer en Ehpad ?",
+      "url": "https://www.pour-les-personnes-agees.gouv.fr/choisir-un-hebergement/vivre-dans-un-etablissement-medicalise/quelle-garanties-demandees-pour-entrer-en-ehpad"
+    },
+    {
+      "titre": "Préparer son entrée en maison de retraite",
+      "url": "http://www.pour-les-personnes-agees.gouv.fr/dossiers/preparer-son-entree-en-maison-de-retraite"
+    },
+    {
+      "titre": "L'entrée en maison de retraite : les premiers jours",
+      "url": "https://www.pour-les-personnes-agees.gouv.fr/vivre-dans-un-ehpad/preparer-l-entree-en-ehpad/l-entree-en-maison-de-retraite-les-premiers-jours"
+    },
+    {
+      "titre": "Aide au logement en maison de retraite - Version \"facile à lire et à comprendre\"",
+      "url": "https://www.pour-les-personnes-agees.gouv.fr/tout-savoir-sur-laide-au-logement-en-maison-de-retraite/facile-a-lire"
+    },
+    {
+      "titre": "Demander l'aide sociale à l'hébergement (ASH) pour une personne âgée",
+      "url": "https://www.pour-les-personnes-agees.gouv.fr/vivre-dans-un-ehpad/aides-financieres-en-ehpad/faire-une-demande-daide-sociale-a-lhebergement"
+    },
+    {
+      "titre": "Connaître les obligations de la famille",
+      "url": "http://www.pour-les-personnes-agees.gouv.fr/aider-un-proche/connaitre-les-obligations-de-la-famille"
+    }
+  ],
+  "slug": "vous-partez-vivre-en-ehpad-aides-financieres",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "aides-financieres",
+      "titre": "Aides financières"
+    }
+  ]
+}

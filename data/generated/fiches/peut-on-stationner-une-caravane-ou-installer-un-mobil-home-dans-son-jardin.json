@@ -1,0 +1,95 @@
+{
+  "id": "F620",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Peut-on stationner une caravane ou installer un mobil-home dans son jardin ?",
+  "theme": "Logement",
+  "description": "Pour stationner ou installer une caravane ou un mobil home sur son terrain, il faut respecter les règles d’urbanisme différentes selon la durée d’installation.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-04-08",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F620",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Vie pratique en logement individuel (maison)",
+    "Peut-on stationner une caravane ou installer un mobil-home dans son jardin ?"
+  ],
+  "introduction": "SI vous souhaitez stationner une caravane ou installer un mobil-home dans votre jardin, sachez que ce stationnement ou cette installation est soumis à autorisation d’urbanisme dans certains cas. Pour le savoir, vous devez consulter le PLU de votre commune. Nous faisons le point sur la réglementation et sur les éventuelles démarches à effectuer.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "La caravane est un véhicule terrestre habitable destiné à une occupation temporaire ou saisonnière à usage de loisirs. Elle conserve en permanence ses roues et sa barre de traction. Elle est immatriculée et le code de la route en autorise la circulation.",
+        "Le mobil-home est un véhicule terrestre habitable destiné à une occupation temporaire ou saisonnière à usage de loisirs. Il conserve en permanence ses roues et sa barre de traction. Il est immatriculé pour pouvoir être remorqué, mais le code de la route interdit de le faire circuler."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'urbanisme : article R111-37",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031721230"
+    },
+    {
+      "titre": "Code de l'urbanisme : articles R111-41 à R111-46",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000031721213"
+    },
+    {
+      "titre": "Code de l'urbanisme : article R111-47 à R111-50",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074075/LEGISCTA000031719398/#LEGISCTA000031721250"
+    },
+    {
+      "titre": "Code de l'urbanisme : article R111-51",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031721187"
+    },
+    {
+      "titre": "Code de l'urbanisme : article R*421-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006188285/"
+    },
+    {
+      "titre": "Code de l'urbanisme : articles R*421-23 à R*421-25",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006188279"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Assistance pour votre demande d'autorisation d'urbanisme",
+      "url": "https://demarches.service-public.gouv.fr/mademarche/DAUA/demarche",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Bureau accueil et service à l'usager (Basu) de Paris : guichet électronique unique",
+      "url": "https://teleservices.paris.fr/demarchesurbanisme/jsp/site/Portal.jsp?page=accueil",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Déclaration préalable Installations et aménagements non soumis à permis d’aménager",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_16703.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Déclaration préalable constructions et travaux non soumis à permis de construire",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_16702.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Demande de permis de construire pour une maison individuelle et/ou ses annexes (PCMI)",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_13406.do",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Mairie",
+    "Paris : Bureau accueil et service à l'usager (Basu)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "peut-on-stationner-une-caravane-ou-installer-un-mobil-home-dans-son-jardin",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "vie-pratique-en-logement-individuel-maison",
+      "titre": "Vie pratique en logement individuel (maison)"
+    }
+  ]
+}

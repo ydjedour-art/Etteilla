@@ -1,0 +1,54 @@
+{
+  "id": "F22117",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Carte de séjour d'un retraité (ou inactif) citoyen UE/EEE/Suisse",
+  "theme": "Étranger - Europe",
+  "description": "Un citoyen de l'Union européenne inactif ou retraité peut s'installer en France et demander un titre de séjour.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F22117",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Titres, cartes de séjour et documents de circulation pour étranger en France",
+    "Carte de séjour d'un retraité (ou inactif) citoyen UE/EEE/Suisse"
+  ],
+  "introduction": "Si vous êtes européen et que vous venez en France comme retraité (ou inactif), vous n'avez pas besoin de carte de séjour pour vivre en France. Toutefois, vous pouvez en demander une. Nous vous présentons les informations à connaître qui diffèrent selon votre durée de séjour en France.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : article L233-1 à L233-6",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042770980/"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles L234-1 à L234-3",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042770994/"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles R233-11 à R233-18",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042800268/"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles R234-1 à R234-6",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042800286/"
+    },
+    {
+      "titre": "Circulaire du 10 septembre 2010 sur le droit de séjour des citoyens européens et suisses et les membres de leur famille",
+      "url": "https://www.legifrance.gouv.fr/download/pdf/circ?id=32884"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "carte-de-sejour-d-un-retraite-ou-inactif-citoyen-ue-eee-suisse",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "titres-cartes-de-sejour-et-documents-de-circulation-pour-etranger-en-france",
+      "titre": "Titres, cartes de séjour et documents de circulation pour étranger en France"
+    }
+  ]
+}

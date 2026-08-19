@@ -1,0 +1,73 @@
+{
+  "id": "F2475",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Peut-on encore percevoir l'allocation compensatrice pour tierce personne (ACTP) ?",
+  "theme": "Social - Santé",
+  "description": "Oui, l'ACTP a été remplacée en 2006 par la PCH, mais il est possible de continuer à la percevoir",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-04-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2475",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Handicap : allocations (AAH, AEEH, ...) et aides",
+    "Peut-on encore percevoir l'allocation compensatrice pour tierce personne (ACTP) ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Oui, l'allocation compensatrice pour tierce personne (ACTP) a été remplacée en 2006 par la prestation de compensation du handicap (PCH), mais vous pouvez continuer à percevoir l'ACTP si vous la receviez déjà.",
+        "Pour cela, vous devez continuer de remplir l'ensemble des conditions suivantes :",
+        "• Avoir un taux d'incapacité d'au minimum 80 % reconnu par la commission des droits pour l'autonomie des personnes handicapées (CDAPH)",
+        "• Avoir recours à l'emploi d'une tierce personne (aidant, personnel de soins...) pour vous aider dans les actes essentiels du quotidien (par exemple : se nourrir, marcher, s'habiller)",
+        "• Résider en France métropolitaine ou en Guadeloupe, Guyane, Martinique, La Réunion, Saint-Barthélemy, Saint-Martin ou Saint-Pierre-et-Miquelon",
+        "• Être de nationalité française ou avoir un titre de séjour en cours de validité",
+        "• Avoir des ressources inférieures ou égales aux plafonds de ressources pour percevoir l'allocation aux adultes handicapés (AAH).",
+        "Il n'y a pas de limite d'âge pour continuer à percevoir l'ACTP.",
+        "Cependant, à partir de 60 ans, vous pouvez demander à percevoir l'allocation personnalisée d'autonomie (Apa) à la place de l'ACTP.",
+        "Le montant de l'ACTP varie en fonction de votre état de santé et du degré de nécessité de recourir à une tierce personne pour vous aider dans les actes du quotidien.",
+        "Besoin d'aide pour tous les actes essentiels du quotidien",
+        "Vous percevez l'ACTP à taux plein. Son montant est de 1 038,75 € par mois.",
+        "Les sommes perçues n'ont pas à être remboursées par vos héritiers à votre décès.",
+        "Besoin d'aide pour un ou quelques actes essentiels du quotidien",
+        "Vous percevez l'ACTP à taux réduit.",
+        "Son montant est compris entre 519,38 € et 908,91 € .",
+        "Les sommes perçues n'ont pas à être remboursées par vos héritiers à votre décès.",
+        "[À savoir] Vous pouvez obtenir un crédit d'impôt pour l'emploi d'une personne."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'action sociale et des familles : article R245-32",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006905872"
+    },
+    {
+      "titre": "Loi n°2005-102 du 11 février 2005 pour l'égalité des droits et des chances des personnes handicapées : article 95",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006682332"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Maison départementale des personnes handicapées (MDPH)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "La reconnaissance de la qualité de travailleur handicapé (RQTH)",
+      "url": "https://www.monparcourshandicap.gouv.fr/aides/la-reconnaissance-de-la-qualite-de-travailleur-handicape-rqth"
+    }
+  ],
+  "slug": "peut-on-encore-percevoir-l-allocation-compensatrice-pour-tierce-personne-actp",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "handicap-allocations-aah-aeeh-et-aides",
+      "titre": "Handicap : allocations (AAH, AEEH, ...) et aides"
+    }
+  ]
+}

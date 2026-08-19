@@ -1,0 +1,132 @@
+{
+  "id": "F1350",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Assurance du locataire : garanties complémentaires facultatives",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "En plus de l'assurance obligatoire minimale, le locataire peut souscrire des garanties facultatives qui peuvent s'avérer utiles.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-12-05",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1350",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Assurance habitation",
+    "Assurance du locataire : garanties complémentaires facultatives"
+  ],
+  "introduction": "Lorsque vous êtes locataire d’un logement, seule l’assurance couvrant les risques locatifs est obligatoire (incendie, explosion, dégât des eaux…). En revanche, il existe de nombreuses garanties complémentaires facultatives qui permettent d’étendre votre protection. Nous vous les présentons.",
+  "chapitres": [
+    {
+      "titre": "Garantie recours des voisins et des tiers",
+      "contenu": [
+        "Elle indemnise les voisins ou tiers pour les dommages causés par un sinistre provenant de votre logement. Par exemple, un incendie déclenché chez vous, une fuite, une chute d’un élément du logement.",
+        "Elle prend en charge les dégâts chez les autres, mais pas vos biens personnels.",
+        "Cette garantie est souvent intégrée dans les contrats multirisques habitation, mais pas toujours. Il est donc nécessaire de le vérifier."
+      ]
+    },
+    {
+      "titre": "Garantie responsabilité civile scolaire",
+      "contenu": [
+        "Elle couvre les dommages causés à des tiers par vos enfants dans le cadre des activités scolaires ou périscolaires.",
+        "Cette garantie peut être intégrée dans la responsabilité civile « vie privée » selon les contrats. Il est donc nécessaire de vérifier si elle est déjà incluse pour éviter une double souscription."
+      ]
+    },
+    {
+      "titre": "Garantie dommages électriques",
+      "contenu": [
+        "Elle prend en charge les dommages causés aux appareils électriques de votre logement (foudre, surtension, court-circuit, défaut de réseau,..).",
+        "Selon les contrats, certains appareils (anciens ou non conformes) peuvent être exclus et des plafonds spécifiques s’appliquent."
+      ]
+    },
+    {
+      "titre": "Garantie vol",
+      "contenu": [
+        "La garantie vol couvre :",
+        "• le vol par effraction, escalade, usage de fausses clés,",
+        "• les détériorations commises pendant le vol,",
+        "• les actes de vandalisme dans le logement.",
+        "Les assureurs imposent souvent des mesures de sécurité obligatoires (porte blindée, serrure 3 points, fenêtres verrouillées, alarme,...). En cas de non-respect, l’indemnisation peut être refusée.",
+        "Certains objets (bijoux, objets de valeur, appareils multimédias coûteux) peuvent nécessiter une déclaration spécifique ou une option supplémentaire."
+      ]
+    },
+    {
+      "titre": "Garantie assistance à domicile",
+      "contenu": [
+        "Elle vous permet de bénéficier de prestations d'assistance et de gardiennage lors de certains événements prévus dans le contrat. Par exemple, à la suite d'un cambriolage.",
+        "Cette garantie peut également inclure le relogement d’urgence après un incendie par exemple, une avance de fonds, une aide au ménage après sinistre ou dépannage (plomberie, serrurerie), selon les contrats."
+      ]
+    },
+    {
+      "titre": "Garantie protection juridique",
+      "contenu": [
+        "La garantie protection juridique vous permet de bénéficier de la prise en charge de vos frais de défense ou de prestations juridiques à l'occasion de litiges liés à votre habitation.",
+        "Cette garantie peut également couvrir certains litiges avec le voisinage, le propriétaire ou des prestataires (artisans, entreprises), dans la limite du cadre prévu au contrat.",
+        "Les plafonds d’intervention, les exclusions (par exemple, un litige déjà existant avant la souscription) et les délais de carence doivent être vérifiés attentivement."
+      ]
+    },
+    {
+      "titre": "Garantie appareil numérique (smartphone, tablette, ordinateur,...)",
+      "contenu": [
+        "Elle couvre la casse accidentelle, l’oxydation, le vol (selon les contrats), que l’incident survienne dans le logement ou à l’extérieur.",
+        "Elle peut toutefois exclure :",
+        "• les appareils très anciens,",
+        "• les vols sans violence,",
+        "• les écrans fissurés sans événement extérieur."
+      ]
+    },
+    {
+      "titre": "Garantie équipements sportifs",
+      "contenu": [
+        "Elle protège les équipements coûteux ou spécifiques : vélos haut de gamme, trottinettes électriques, skis, équipements de plongée, matériel de fitness…",
+        "Elle couvre la casse accidentelle, le vol (selon les conditions du contrat) et parfois la perte lors du transport."
+      ]
+    },
+    {
+      "titre": "Garantie bris de glace",
+      "contenu": [
+        "Elle couvre la casse de :",
+        "• fenêtres,",
+        "• vérandas,",
+        "• baies vitrées,",
+        "• miroirs intégrés,",
+        "• inserts, plaques vitrocéramiques selon les contrats.",
+        "Cette garantie est souvent incluse dans l’assurance habitation, mais elle comporte des exclusions fréquentes, comme les rayures ou les fissures sans choc. Il est donc nécessaire de le vérifier."
+      ]
+    },
+    {
+      "titre": "Garantie perte du contenu du congélateur",
+      "contenu": [
+        "Elle indemnise les aliments perdus à la suite :",
+        "• d’une coupure d’électricité,",
+        "• d’une panne de l’appareil,",
+        "• d’un défaut du réseau.",
+        "Certains assureurs demandent une preuve (ticket d’achat, photo du contenu)."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [
+    "Info Banque - Assurance"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "L'assurance multirisques habitation",
+      "url": "https://www.inc-conso.fr/content/lassurance-multirisques-habitation"
+    },
+    {
+      "titre": "L'assurance dégât des eaux",
+      "url": "https://www.inc-conso.fr/content/lassurance-degats-des-eaux"
+    }
+  ],
+  "slug": "assurance-du-locataire-garanties-complementaires-facultatives",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "assurance-habitation",
+      "titre": "Assurance habitation"
+    }
+  ]
+}

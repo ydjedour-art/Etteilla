@@ -1,0 +1,81 @@
+{
+  "id": "F34030",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Qu'est-ce que le compte engagement citoyen (CEC) ?",
+  "theme": "Papiers - Citoyenneté - Élections, Associations, fondations et fonds de dotation",
+  "description": "Le compte d'engagement citoyen (CEC) est rattaché au compte Formation. Le CEC recense les activités bénévoles, de volontariat ou de maître d’apprentissage.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-09-25",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34030",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Volontariats",
+    "Qu'est-ce que le compte engagement citoyen (CEC) ?"
+  ],
+  "introduction": "Votre compte d'engagement citoyen (CEC) vous permet d'acquérir des droits à formation si, en tant que bénévole, vous vous impliquez dans l’administration d’une association ou l’encadrement d’autres bénévoles. Le CEC peut aussi vous ouvrir des droits si vous effectuez un volontariat ou si vous êtes maître d'apprentissage. Vos droits sont inscrits dans votre compte Formation. La durée d’activité nécessaire pour acquérir des droits sur votre CEC varie selon l'activité réalisée.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code du travail : articles L5151-7 à L5151-12",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000037385582/"
+    },
+    {
+      "titre": "Code du travail : articles D5151-11 à D5151-13",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000033822304"
+    },
+    {
+      "titre": "Code du travail : article D5151-14",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044637352"
+    },
+    {
+      "titre": "Code général de la fonction publique : articles L422-4 à L422-7",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044422316/"
+    },
+    {
+      "titre": "Décret n° 2018-1164 du 17 décembre 2018 modifiant les modalités de déclaration de l'engagement associatif bénévole dans le cadre du compte d'engagement citoyen",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000037826530/"
+    },
+    {
+      "titre": "Décret n°2018-1349 du 28 décembre 2018 relatif aux montants des droits acquis au titre du compte d'engagement citoyen",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000037884432/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Déclarer des activités bénévoles pour bénéficier du compte d’engagement citoyen (CEC)",
+      "url": "https://lecomptebenevole.associations.gouv.fr/login",
+      "type": "selNG"
+    },
+    {
+      "titre": "Mon compte formation",
+      "url": "https://www.moncompteformation.gouv.fr/espace-prive/html/#/",
+      "type": "selNG"
+    },
+    {
+      "titre": "Trouver une formation dans le cadre du CPF",
+      "url": "https://www.moncompteformation.gouv.fr/espace-prive/html/#/formation/recherche",
+      "type": "outilRechercheNG"
+    }
+  ],
+  "contacts": [
+    "Point ressource à la vie associative"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Le compte d’engagement citoyen",
+      "url": "https://www.associations.gouv.fr/compte-d-engagement-citoyen.html"
+    }
+  ],
+  "slug": "qu-est-ce-que-le-compte-engagement-citoyen-cec",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "volontariats",
+      "titre": "Volontariats"
+    }
+  ]
+}

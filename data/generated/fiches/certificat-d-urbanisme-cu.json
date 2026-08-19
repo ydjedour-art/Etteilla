@@ -1,0 +1,80 @@
+{
+  "id": "F1633",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Certificat d'urbanisme (CU)",
+  "theme": "Logement, Secteurs d'activité",
+  "description": "Le certificat d'urbanisme (CU) renseigne sur les règles d'urbanisme, les taxes, les servitudes sur un terrain et la faisabilité d'un projet sur celui-ci.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-07-02",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1633",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Autorisations d'urbanisme",
+    "Certificat d'urbanisme (CU)"
+  ],
+  "introduction": "Vous souhaitez acheter un terrain à bâtir ou construire une maison ? L'obtention d'un certificat d'urbanisme (CU) est recommandée. Le CU informe sur les règles d'urbanisme applicables à un terrain, les taxes et les servitudes. Il existe 2 types de CU : le CU d'information si vous n'avez pas encore de projet de construction sur le terrain et le CU opérationnel si vous en avez un. Le CU opérationnel vous indique si votre projet est réalisable sur la parcelle. Nous vous expliquons comment l'obtenir.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "[Attention] Le CU n'est pas une autorisation d'urbanisme."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'urbanisme : article L410-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006143348"
+    },
+    {
+      "titre": "Code de l'urbanisme : articles R*410-1 à R*410-3",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006158939/"
+    },
+    {
+      "titre": "Code de l'urbanisme : article R*410-18",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025430865"
+    },
+    {
+      "titre": "Code de l'urbanisme : article R*410-12",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006818978"
+    },
+    {
+      "titre": "Code de l'urbanisme : articles A410-1 à A410-5",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006143256/"
+    },
+    {
+      "titre": "Circulaire du 21 décembre 2018 de présentation des dispositions d'application immédiate de la loi n°2018-1021 (loi Elan)",
+      "url": "https://www.legifrance.gouv.fr/download/pdf/circ?id=44240"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demande de certificat d'urbanisme",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_13410.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Assistance pour votre demande d'autorisation d'urbanisme",
+      "url": "https://demarches.service-public.gouv.fr/mademarche/DAUA/demarche",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "Mairie",
+    "Paris : Bureau accueil et service à l'usager (Basu)",
+    "Centre départemental des impôts fonciers (CDIF)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "certificat-d-urbanisme-cu",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "autorisations-d-urbanisme",
+      "titre": "Autorisations d'urbanisme"
+    }
+  ]
+}

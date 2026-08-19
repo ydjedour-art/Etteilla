@@ -1,0 +1,33 @@
+{
+  "id": "F35171",
+  "type_publication": "Recherche guidée",
+  "titre": "Avec quel document d'identité pouvez-vous voyager en avion ?",
+  "theme": "Transports - Mobilité",
+  "description": "Avec quel document d'identité pouvez-vous voyager en avion ?",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2023-07-04",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35171",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Voyage en avion",
+    "Avec quel document d'identité pouvez-vous voyager en avion ?"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "avec-quel-document-d-identite-pouvez-vous-voyager-en-avion",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "voyage-en-avion",
+      "titre": "Voyage en avion"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "F36480",
+  "type_publication": "Recherche guidée",
+  "titre": "[Mariage d'un Français à l'étranger]",
+  "theme": "Famille - Scolarité",
+  "description": "[Mariage d'un Français à l'étranger]",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2025-04-23",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F36480",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Mariage",
+    "[Mariage d'un Français à l'étranger]"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "mariage-d-un-francais-a-l-etranger-f36480",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "mariage",
+      "titre": "Mariage"
+    }
+  ]
+}

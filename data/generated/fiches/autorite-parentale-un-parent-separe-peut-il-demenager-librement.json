@@ -1,0 +1,69 @@
+{
+  "id": "F11389",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Autorité parentale : un parent séparé peut-il déménager librement ?",
+  "theme": "Famille - Scolarité",
+  "description": "Tout parent séparé a le droit de déménager, à condition d'informer préalablement l'autre parent du changement de résidence.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-05-28",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F11389",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Séparation des parents",
+    "Autorité parentale : un parent séparé peut-il déménager librement ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "En tant que parent séparé, vous avez le droit de déménager pour des raisons professionnelles ou personnelles. L'autre parent ne peut pas vous l'interdire, quel que soit le mode de garde de l'enfant (résidence alternée ou fixée chez l'un des parents).",
+        "Toutefois, vous devez informer préalablement l'autre parent du changement de résidence, si ce changement influe sur les conditions d'exercice l'autorité parentale. C'est le cas par exemple si votre déménagement dans une région éloignée rend les droits de visite et d'hébergement de l'autre parent impossibles.",
+        "Cette information doit être donnée le plus tôt possible à l'autre parent pour vous permettre de trouver ensemble une nouvelle organisation de la vie de l'enfant (résidence, droits de visite et d'hébergement...).",
+        "En cas d'accord, vous pouvez établir une convention parentale qui précise les nouvelles règles adoptées à la suite de votre déménagement.",
+        "En cas de désaccord, vous pouvez faire appel à un médiateur familial ou saisir le juge aux affaires familiales (Jaf) à l'aide du formulaire suivant :",
+        "Demande au juge aux affaires familiales (autorité parentale, droit de visite, pension alimentaire...)",
+        "Le formulaire doit être adressé au tribunal du lieu de résidence de l'enfant.",
+        "Tribunal judiciaire ou tribunal de proximité",
+        "L'avocat n'est pas obligatoire pour cette procédure.",
+        "Le Jaf statue toujours selon l'intérêt de l'enfant. Par exemple, le juge peut fixer la résidence de l'enfant chez l'autre parent.",
+        "Le Jaf peut également revoir les charges financières entre vous et l'autre parent, c'est-à-dire :",
+        "• Répartir les frais de déplacement",
+        "• Ajuster la pension alimentaire.",
+        "Si votre enfant réside chez vous en vertu d'un jugement ou d'une convention (de divorce ou parentale), vous devez informer l'autre parent de votre nouvelle adresse au plus tard 1 mois après le déménagement. Si vous ne le faites pas, vous commettez une infraction punie de 6 mois d'emprisonnement et d'une amende de 7 500 €.",
+        "[À savoir] Si vous déménagez avec l'enfant en secret, l'autre parent peut saisir le Jaf. À cette occasion, le juge peut constater que vous ne respectez pas la place et les droits de l'autre parent et décider de lui confier la garde de l'enfant."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : articles 373-2 à 373-2-5",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006165499"
+    },
+    {
+      "titre": "Code pénal : articles 227-5 à 227-11",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070719/LEGISCTA000006165319"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demande au juge aux affaires familiales (autorité parentale, droit de visite, pension alimentaire...)",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/11530",
+      "type": "formulaireNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "autorite-parentale-un-parent-separe-peut-il-demenager-librement",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "separation-des-parents",
+      "titre": "Séparation des parents"
+    }
+  ]
+}

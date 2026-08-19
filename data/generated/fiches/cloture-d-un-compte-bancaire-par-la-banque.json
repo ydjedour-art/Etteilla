@@ -1,0 +1,80 @@
+{
+  "id": "F31456",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Clôture d'un compte bancaire par la banque",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "La banque peut fermer le compte bancaire d'un client, même s'il fonctionne convenablement, dans le respect de la convention de compte.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-01-29",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31456",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Comptes bancaires",
+    "Clôture d'un compte bancaire par la banque"
+  ],
+  "introduction": "Vous vous demandez si votre banque peut fermer votre compte bancaire et de quelle manière elle peut le faire ? Cela dépend si votre compte est actif ou inactif, c'est-à-dire si vous effectuez ou non des opérations sur ce compte ou sur un autre compte de la même banque. Voici les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code monétaire et financier : article L312-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006170365/"
+    },
+    {
+      "titre": "Code monétaire et financier : articles L312-1-1 à L312-1-8",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072026/LEGISCTA000020861890/#LEGISCTA000020866609"
+    },
+    {
+      "titre": "Code monétaire et financier : articles L312-19 à L312-21-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000029098936"
+    },
+    {
+      "titre": "Code monétaire et financier : article D312-5",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033688457"
+    },
+    {
+      "titre": "Arrêté du 21 septembre 2015 relatif aux frais et commissions sur les comptes inactifs",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000031204207/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Rechercher un compte inactif",
+      "url": "https://ciclade.caissedesdepots.fr/je-lance-ma-recherche",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Faire une demande de restitution des sommes d'un compte inactif",
+      "url": "https://ciclade.caissedesdepots.fr/monespace/#/service/authentification?lang=fr",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "Info Banque - Assurance"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Le compte bancaire",
+      "url": "https://www.inc-conso.fr/content/le-compte-bancaire"
+    },
+    {
+      "titre": "Clôture de compte et mobilité bancaire",
+      "url": "https://www.abe-infoservice.fr/banque/compte/cloture-de-compte-et-mobilite-bancaire"
+    },
+    {
+      "titre": "Comment rechercher un compte inactif ?",
+      "url": "https://ciclade.caissedesdepots.fr/vos-questions"
+    }
+  ],
+  "slug": "cloture-d-un-compte-bancaire-par-la-banque",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "comptes-bancaires",
+      "titre": "Comptes bancaires"
+    }
+  ]
+}

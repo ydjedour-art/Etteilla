@@ -1,0 +1,90 @@
+{
+  "id": "F32573",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Sécurité incendie dans les immeubles en copropriété",
+  "theme": "Logement",
+  "description": "Certains dispositifs de sécurité incendie sont obligatoires dans un immeuble en copropriété pour assurer la protection des habitants.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-01-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F32573",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Risques sanitaires et sécurité du logement",
+    "Sécurité incendie dans les immeubles en copropriété"
+  ],
+  "introduction": "Quels dispositifs de sécurité incendie sont obligatoires dans un immeuble en copropriété ? Nous faisons un point sur la réglementation applicable aux immeubles qui mesurent au maximum 50 mètres et ceux qui dépassent ce seuil, appelés immeubles de grande hauteur (IGH).",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de la construction et de l'habitation : articles R142-1 à R142-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000043818923/#LEGISCTA000043818923"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : article R 146-20",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043819121"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : article R146-9",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043819095"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : articles L142-1 à L142-4",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000006159008/#LEGISCTA000041588242"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : article L126-7",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041565233/"
+    },
+    {
+      "titre": "Arrêté du 5 février 2013 relatif à l'application des articles R. 129-12 à R. 129-15 du code de la construction et de l'habitation",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000027169390"
+    },
+    {
+      "titre": "Arrêté du 31 janvier 1986 relatif à la protection contre l'incendie dans les bâtiments d'habitation",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000474032/"
+    },
+    {
+      "titre": "Arrêté du 30 décembre 2011 portant règlement de sécurité pour la construction des immeubles de grande hauteur et leur protection contre les risques d'incendie et de panique",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFARTI000025167141"
+    },
+    {
+      "titre": "Circulaire du 13 décembre 1982 relative à la sécurité des personnes en cas de travaux de réhabilitation ou d'amélioration des bâtiments d'habitation existants",
+      "url": "https://www.legifrance.gouv.fr/circulaire/id/27364"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)",
+    "Service départemental d'incendie et de secours (SDIS)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Protection contre les incendies",
+      "url": "https://www.ecologie.gouv.fr/politiques-publiques/protection-contre-incendies"
+    },
+    {
+      "titre": "Affichage des consignes de sécurité en cas d'incendie",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000027169875"
+    },
+    {
+      "titre": "Conception des façades pour la sécurité incendie",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043948843/"
+    },
+    {
+      "titre": "Directives techniques pour les façades avec et sans ouverture",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039406806/"
+    }
+  ],
+  "slug": "securite-incendie-dans-les-immeubles-en-copropriete",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "risques-sanitaires-et-securite-du-logement",
+      "titre": "Risques sanitaires et sécurité du logement"
+    }
+  ]
+}

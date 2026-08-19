@@ -1,0 +1,69 @@
+{
+  "id": "F188",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Promesse de vente et condition suspensive d'obtention du prêt immobilier : de quoi s'agit-il ?",
+  "theme": "Logement",
+  "description": "La promesse de vente d'un bien immobilier comprend une condition suspensive d'obtention de prêt si l'acquisition est financé par un crédit immobilier.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-05-05",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F188",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Achat ou vente d'un logement",
+    "Promesse de vente et condition suspensive d'obtention du prêt immobilier : de quoi s'agit-il ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Si vous prévoyez d'acheter un bien à usage d'habitation, à usage professionnel et d'habitation ou un terrain à bâtir, la promesse de vente ou la promesse unilatérale de vente acceptée doit indiquer l'origine des fonds qui financent l'achat. Si vous recourez à un prêt immobilier, la promesse comprend obligatoirement une condition suspensive d'obtention de prêt. Cela signifie que vous achetez le bien à condition d'obtenir le prêt.",
+        "Si vous n'obtenez pas le prêt, vous pouvez renoncer à l'achat sans pénalité. Vous récupérez alors l'intégralité des sommes que vous avez versées à la signature de la promesse de vente.",
+        "La condition suspensive contient les détails du projet de financement :",
+        "• Délai pour obtenir un accord de prêt (en général, il est de 45 à 60 jours après la signature de la promesse, il ne peut pas être inférieur à 1 mois)",
+        "• Montant du prêt",
+        "• Taux envisagé",
+        "• Durée du remboursement",
+        "• Nombre de banques à solliciter.",
+        "[Attention] Vous devez respecter strictement les termes de la condition suspensive dans votre recherche de prêt (montant du prêt, taux, remboursement...).",
+        "Dès que vous avez obtenu un accord ou un refus de prêt, vous devez en avertir le notaire et le vendeur."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : articles 1304 à 1304-7",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032028608"
+    },
+    {
+      "titre": "Code de la consommation : articles L313-40",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032433223"
+    },
+    {
+      "titre": "Code de la consommation : article L313-41",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032433227"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Portail des services en ligne des notaires de France",
+      "url": "https://notaires.fr/"
+    }
+  ],
+  "slug": "promesse-de-vente-et-condition-suspensive-d-obtention-du-pret-immobilier-de-quoi-s-agit-il",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "achat-ou-vente-d-un-logement",
+      "titre": "Achat ou vente d'un logement"
+    }
+  ]
+}

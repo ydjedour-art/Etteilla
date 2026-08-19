@@ -1,0 +1,79 @@
+{
+  "id": "F2212",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Travail de nuit du salarié du secteur privé",
+  "theme": "Travail - Formation",
+  "description": "Le travail de nuit est mis en place par accord collectif ou par l'employeur après consultation des délégués syndicaux et avis du CSE s'ils existent.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-05-21",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2212",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Conditions de travail dans le secteur privé",
+    "Travail de nuit du salarié du secteur privé"
+  ],
+  "introduction": "Le travail de nuit doit être exceptionnel. Il n'est autorisé que s’il est justifié par la nécessité d’assurer la continuité de l’activité de l'entreprise. La définition du travailleur de nuit peut être prévu par un accord collectif. En l'absence d'accord collectif, le code du travail donne cette définition. Des contreparties sont accordées aux travailleurs de nuit. Nous faisons le point sur la réglementation.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "La réglementation varie selon qu'un accord collectif sur le travail de nuit est applicable dans l'entreprise ou non :"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code du travail : article L1225-9",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033021182/"
+    },
+    {
+      "titre": "Code du travail : articles L3122-1 à L3122-14",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033020193/"
+    },
+    {
+      "titre": "Code du travail : articles L3122-15 à L3122-19",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033020142/"
+    },
+    {
+      "titre": "Code du travail : articles L3122-20 à L3122-24",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033020125/"
+    },
+    {
+      "titre": "Code du travail : articles R3122-1 à R3122-6",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033444893/"
+    },
+    {
+      "titre": "Code du travail : articles R3122-7 et R3122-8",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033444903/"
+    },
+    {
+      "titre": "Code du travail : articles R3122-9 et R3122-10",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033471058/"
+    },
+    {
+      "titre": "Décret n°2014-1290 du 23 octobre 2014 relatif aux exceptions principe \"silence vaut accord\" après un délai de 2 mois (travail, formation et dialogue social)",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000029676080/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Rechercher une convention collective étendue",
+      "url": "https://www.legifrance.gouv.fr/liste/idcc?init=true",
+      "type": "outilRechercheNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "travail-de-nuit-du-salarie-du-secteur-prive",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "conditions-de-travail-dans-le-secteur-prive",
+      "titre": "Conditions de travail dans le secteur privé"
+    }
+  ]
+}

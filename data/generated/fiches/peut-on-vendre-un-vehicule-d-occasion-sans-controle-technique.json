@@ -1,0 +1,83 @@
+{
+  "id": "F16540",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Peut-on vendre un véhicule d'occasion sans contrôle technique ?",
+  "theme": "Transports - Mobilité",
+  "description": "Vendre une voiture sans contrôle technique est possible si elle a moins de 4 ans (5 ans pour une moto) ou si elle est vendue à un professionnel.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-01-23",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F16540",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Contrôle technique",
+    "Peut-on vendre un véhicule d'occasion sans contrôle technique ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les règles sont différentes selon le type de véhicule : voiture , camping-car de 3,5 t maximum, camionnette d'une part, véhicule motorisé à 2 ou 3 roues et quadricycle à moteur d'autre part.",
+        "Voiture, camionnette, camping-car de 3,5 t maximum",
+        "Les règles diffèrent selon l'ancienneté du véhicule :",
+        "4 ans ou plus",
+        "Si vous vendez une voiture (VP) (catégorie M1) ou une camionnette (catégorie N1) de plus de 4 ans, un contrôle technique doit être fait. Vous devez remettre au futur propriétaire la preuve du contrôle technique. En effet, la preuve du contrôle est indispensable à l'acheteur pour faire immatriculer le véhicule.",
+        "Vous n'avez pas l'obligation de faire un contrôle technique dans les 2 cas suivants :",
+        "• Le contrôle périodique du véhicule a été fait dans les 6 derniers mois précédant la date de demande d'établissement du nouveau certificat d'immatriculation (carte grise)",
+        "• Vous vendez le véhicule à un garage ou un concessionnaire.",
+        "Moins de 4 ans",
+        "Vous pouvez vendre une voiture (VP) (catégorie M1) ou une camionnette (catégorie N1) de moins de 4 ans sans fournir la preuve du contrôle technique.",
+        "2, 3 roues à moteur et quadricycle à moteur",
+        "Les règles diffèrent selon l'ancienneté du véhicule :",
+        "5 ans ou plus",
+        "Depuis le 15 avril 2024, si vous vendez un véhicule de catégorie L (moto, scooter…) de plus de 5 ans, un contrôle technique doit être fait. Vous devez remettre au futur propriétaire la preuve du contrôle technique. En effet, la preuve du contrôle est indispensable à l'acheteur pour faire immatriculer le véhicule.",
+        "Vous n'avez pas l'obligation de faire un contrôle technique dans les 2 cas suivants :",
+        "• Le contrôle périodique du véhicule a été fait dans les 6 derniers mois précédant la date de demande d'établissement du nouveau certificat d'immatriculation",
+        "• Vous vendez le véhicule à un garage ou un concessionnaire.",
+        "Moins de 5 ans",
+        "Vous pouvez vendre un véhicule de catégorie L (moto, scooter…) de moins de 5 ans sans fournir la preuve du contrôle technique."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la route : articles R323-1 à R323-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074228/LEGISCTA000006177100"
+    },
+    {
+      "titre": "Code de la route : article R323-22",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074228/LEGISCTA000006177155"
+    },
+    {
+      "titre": "Arrêté du 23 octobre 2023 relatif au contrôle technique des véhicules motorisés à deux ou trois roues et quadricycles à moteur",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000048242538/"
+    },
+    {
+      "titre": "Arrêté du 18 juin 1991 relatif au contrôle technique des véhicules dont le poids n'excède pas 3,5 tonnes",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000020559004/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demander le certificat de situation administrative d'un véhicule d'occasion (HistoVec)",
+      "url": "https://histovec.interieur.gouv.fr/histovec/accueil",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "34 00 - Informations sur le certificat d’immatriculation ou le permis de conduire"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "peut-on-vendre-un-vehicule-d-occasion-sans-controle-technique",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "controle-technique",
+      "titre": "Contrôle technique"
+    }
+  ]
+}

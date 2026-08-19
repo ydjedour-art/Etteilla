@@ -1,0 +1,99 @@
+{
+  "id": "F36774",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quelle autorisation d'urbanisme faut-il déposer pour faire une terrasse ?",
+  "theme": "Logement",
+  "description": "Une terrasse couverte et/ou surélevée, accolée ou non, est soumise à DP ou PC selon sa surface et la situation du terrain (zone du PLU, secteur protégé).",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-11-20",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F36774",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Autorisations d'urbanisme",
+    "Quelle autorisation d'urbanisme faut-il déposer pour faire une terrasse ?"
+  ],
+  "introduction": "Pour construire une terrasse couverte ou surélevée, selon sa surface et la localisation de votre terrain (zone urbaine du PLU, secteur protégé), vous devez déposer une déclaration préalable (DP) ou un permis de construire (PC). Vous êtes dispensé de formalité pour faire une terrasse de plain-pied, sauf en secteur protégé où une DP est nécessaire. Nous vous présentons la réglementation.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Dans tous les cas, vous devez respecter les règles du PLU de votre commune. Pour connaître ces règles, vous devez contacter le service de l'urbanisme de votre mairie.",
+        "Mairie",
+        "Si le PLU ne prévoit pas de règles particulières, vous devez construire votre terrasse soit en limite de votre propriété, soit à 3 mètres minimum de celle-ci.",
+        "Vous devez aussi respecter une distance entre votre terrasse et la limite du terrain voisin de 1,9 mètre si elle entraine une vue chez lui sans vous pencher, et de 0,6 mètre en vous penchant. Cependant, vous pouvez décider de ne pas respecter ces règles avec l'accord écrit de votre voisin.",
+        "Une DP ou un PC est nécessaire selon que votre terrasse est accolée au bâtiment existant ou indépendante. L’autorisation d’urbanisme varie également si votre construction se trouve dans un secteur protégé ou non, et dans une zone urbaine d'une commune couverte par un PLU ou non. Vous pouvez obtenir ces informations auprès de votre mairie."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'urbanisme : article L421-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006815663"
+    },
+    {
+      "titre": "Code de l'urbanisme : article R*421-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025542764"
+    },
+    {
+      "titre": "Code de l'urbanisme : article R*421-14",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031764577"
+    },
+    {
+      "titre": "Code de l'urbanisme : article R*421-17",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034355355"
+    },
+    {
+      "titre": "Code de l'urbanisme : article R111-17",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031721286"
+    },
+    {
+      "titre": "Code civil : articles 675 à 680",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006150123"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Assistance pour votre demande d'autorisation d'urbanisme",
+      "url": "https://demarches.service-public.gouv.fr/mademarche/DAUA/demarche",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Bureau accueil et service à l'usager (Basu) de Paris : guichet électronique unique",
+      "url": "https://teleservices.paris.fr/demarchesurbanisme/jsp/site/Portal.jsp?page=accueil",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Déclaration préalable constructions et travaux non soumis à permis de construire",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_16702.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Demande de permis de construire pour une maison individuelle et/ou ses annexes (PCMI)",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_13406.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Demande de permis de construire (autre que portant sur une maison individuelle ou ses annexes)",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_13409.do",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Mairie",
+    "Paris : Bureau accueil et service à l'usager (Basu)",
+    "Centre départemental des impôts fonciers (CDIF)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "quelle-autorisation-d-urbanisme-faut-il-deposer-pour-faire-une-terrasse",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "autorisations-d-urbanisme",
+      "titre": "Autorisations d'urbanisme"
+    }
+  ]
+}

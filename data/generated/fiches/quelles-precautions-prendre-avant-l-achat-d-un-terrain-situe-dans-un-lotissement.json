@@ -1,0 +1,138 @@
+{
+  "id": "F34339",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quelles précautions prendre avant l'achat d'un terrain situé dans un lotissement ?",
+  "theme": "Logement",
+  "description": "Avant de vous engager sur l'achat d'un terrain ou d'une parcelle en lotissement, vous devez prendre certaines précautions.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-04-30",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34339",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Achat d'un terrain",
+    "Quelles précautions prendre avant l'achat d'un terrain situé dans un lotissement ?"
+  ],
+  "introduction": "Avant l'achat d'un terrain situé dans un lotissement, il est recommandé de vérifier ses caractéristiques (constructibilité, viabilisation, délimitation). Vous devez aussi vous assurer que le lotissement a bien été autorisé par une autorisation d'urbanisme. Nous vous présentons les précautions à prendre.",
+  "chapitres": [
+    {
+      "titre": "Vérifier les caractéristiques du terrain en lotissement",
+      "contenu": [
+        "Vous devez vous assurer que le terrain vendu remplit les 3 caractéristiques suivantes :",
+        "• Terrain constructible en consultant le PLU et l'étude de sol (ou en faisant une demande de certificat d'urbanisme opérationnel à la mairie)",
+        "• Terrain viabilisé en vous rendant sur place pour constater les installations visibles à proximité ou en faisant une demande de certificat d'urbanisme opérationnel à la mairie",
+        "• Terrain délimité par un bornage en demandant le procès-verbal de bornage au lotisseur ou au service de publicité foncière du centre des impôts.",
+        "[À savoir] Si vous n'avez pas effectué ces vérifications avant l'achat et que vous constatez que la parcelle est inconstructible ou n'est pas viabilisée ou délimitée, vous pouvez exercer un recours devant le tribunal judiciaire pour demander la nullité de la vente. L'avocat est obligatoire. Tribunal judiciaire ou tribunal de proximité"
+      ]
+    },
+    {
+      "titre": "Savoir si le lotisseur a obtenu une autorisation d'urbanisme",
+      "contenu": [
+        "Vous devez vous assurer que le lotisseur a bien obtenu l'une des 2 autorisations d'urbanisme suivantes pour créer le lotissement :",
+        "• Permis d'aménager quand il y a création ou aménagement de voies, d'espaces ou d'équipements communs",
+        "• Déclaration préalable de travaux quand il n'y a pas création ou aménagement de voies, d'espaces ou d'équipements communs.",
+        "[À savoir] Tous les lotissements situés dans le périmètre d'un site patrimonial remarquable, dans les abords des monuments historiques, dans un site classé ou en instance de classement font l'objet d'un permis d'aménager."
+      ]
+    },
+    {
+      "titre": "Connaître les règles du PLU",
+      "contenu": [
+        "Le PLU donne les précisions suivantes :",
+        "• Règles de construction",
+        "• Délimitations des zones à risques naturels ou technologiques",
+        "• Futurs projets d'aménagement locaux.",
+        "Le PLU est consultable auprès du service urbanisme de votre mairie et, en général, sur son site internet.",
+        "Mairie"
+      ]
+    },
+    {
+      "titre": "Prendre connaissance du règlement de lotissement et du cahier des charges",
+      "contenu": [
+        "S'il est envisagé d'apporter des compléments aux règles du PLU, un règlement de lotissement est établi. Il donne les règles d'urbanisme que doivent respecter les futures constructions à l'intérieur du lotissement (destination des constructions, implantation des bâtiments, matériaux et couleurs...).",
+        "Pour connaître les droits et les obligations des colotis entre eux, vous devez consulter le cahier des charges du lotissement, s'il en a été établi un. Vous trouverez des renseignements sur les charges, les servitudes privées, les obligations d'entretien extérieur, les plantations, le séchage du linge...",
+        "Tous ces documents sont consultables auprès du service urbanisme de la commune où se situe le lotissement.",
+        "Mairie"
+      ]
+    },
+    {
+      "titre": "Obtenir un certificat d'urbanisme opérationnel",
+      "contenu": [
+        "Le certificat d'urbanisme opérationnel vous renseignera sur la faisabilité de votre projet. Il vous indiquera aussi l'état des équipements publics existants ou prévus.",
+        "Selon que votre projet se situe à Paris ou dans une autre commune, le dossier doit être déposé :",
+        "• Par voie dématérialisée selon les dispositions prises par la commune (consulter le site internet de la mairie ou se renseigner sur place)",
+        "• Par lettre RAR",
+        "• En main propre contre récépissé signé par la mairie.",
+        "Renseignez-vous sur le site de la mairie ou sur place.",
+        "Mairie",
+        "Cas général",
+        "Vous devez remplir et transmettre votre demande de certificat d'urbanisme par voie dématérialisée selon les dispositions prises par votre commune ou sur un formulaire papier.",
+        "Renseignez-vous sur le site de la mairie ou sur place.",
+        "Mairie",
+        "Sur internet",
+        "Vous pouvez remplir et transmettre votre demande sur internet :",
+        "Assistance pour votre demande d'autorisation d'urbanisme",
+        "Formulaire",
+        "Vous pouvez remplir votre demande au moyen d'un formulaire :",
+        "Demande de certificat d'urbanisme",
+        "Annexe aux formulaires de demande d'autorisation d'urbanisme : Références cadastrales complémentaires",
+        "Fiche complémentaire/autres demandeurs pour un même projet",
+        "À Paris",
+        "Vous devez remplir et transmettre votre dossier au Bureau accueil et service à l'usager (Basu) uniquement par voie dématérialisée :",
+        "Bureau accueil et service à l'usager (Basu) de Paris : guichet électronique unique",
+        "Guichet électronique unique pour toutes vos démarches d'urbanisme à Paris : préparer votre dossier, suivre vos demandes et déclarer vos chantiers.",
+        "[À savoir] Le certificat d'urbanisme vous indiquera les taxes et participations d'urbanisme applicables au terrain. Pour plus de renseignements, vous pouvez contacter votre centre départemental des impôts fonciers. Centre départemental des impôts fonciers (CDIF)"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'urbanisme : articles L442-1 à L442-14",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006175694"
+    },
+    {
+      "titre": "Code de l'urbanisme : article L442-7",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006815996"
+    },
+    {
+      "titre": "Code de l'urbanisme : article L115-4",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031210397"
+    },
+    {
+      "titre": "Code de l'urbanisme : articles R*410-1 à R*410-3",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006158939/"
+    },
+    {
+      "titre": "Code de l'urbanisme : article R*442-6",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050617509"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Assistance pour votre demande d'autorisation d'urbanisme",
+      "url": "https://demarches.service-public.gouv.fr/mademarche/DAUA/demarche",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Demande de certificat d'urbanisme",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_13410.do",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Mairie",
+    "Paris : Bureau accueil et service à l'usager (Basu)",
+    "Centre départemental des impôts fonciers (CDIF)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "quelles-precautions-prendre-avant-l-achat-d-un-terrain-situe-dans-un-lotissement",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "achat-d-un-terrain",
+      "titre": "Achat d'un terrain"
+    }
+  ]
+}

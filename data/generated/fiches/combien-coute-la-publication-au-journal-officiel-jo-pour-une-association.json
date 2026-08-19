@@ -1,0 +1,47 @@
+{
+  "id": "F34724",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Combien coûte la publication au Journal Officiel (JO) pour une association ?",
+  "theme": "Associations, fondations et fonds de dotation",
+  "description": "La publication au JOAFE est gratuite. Si vous avez des questions sur la publication du JO, vous pouvez contacter la DILA.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-09-09",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34724",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Associations, fondations et fonds de dotation",
+    "Création d'une association",
+    "Combien coûte la publication au Journal Officiel (JO) pour une association ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "La publication au JOAFE est gratuite.",
+        "Toutes les informations suivantes doivent être déclarées et publiées au JOAFE :",
+        "• Création, modification, rectificatif, annulation et dissolution d'association loi 1901, d'association syndicale de propriétaire, de fondation partenariale, de fondation d'entreprise",
+        "• Création, modification, rectificatif, annulation, dissolution et avis de suspension d'activité de fonds de dotation",
+        "• Publication des comptes annuels des associations loi 1901, fondation, fonds de dotation, association nationale professionnelle de militaires",
+        "• Publication des comptes annuels des organisations syndicales et professionnelles."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [
+    "Journal officiel"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "combien-coute-la-publication-au-journal-officiel-jo-pour-une-association",
+  "path": [
+    {
+      "slug": "associations-fondations-et-fonds-de-dotation",
+      "titre": "Associations, fondations et fonds de dotation"
+    },
+    {
+      "slug": "creation-d-une-association",
+      "titre": "Création d'une association"
+    }
+  ]
+}

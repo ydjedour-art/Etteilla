@@ -1,0 +1,56 @@
+{
+  "id": "F14152",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Enseignement et formation d'un détenu en prison",
+  "theme": "Justice",
+  "description": "Tout détenu peut accéder à une formation en prison, en vue de sa réinsertion. Cette formation peut être de base, de niveau secondaire ou supérieur.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2024-11-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F14152",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Prison",
+    "Enseignement et formation d'un détenu en prison"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code pénitentiaire : articles R413-2 à R413-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000045476241/LEGISCTA000045489504/#LEGISCTA000045492238"
+    },
+    {
+      "titre": "Décret n° 2019-1463 du 26 décembre 2019 relatif à l'expérimentation des actions de formation par apprentissage dans les établissements pénitentiaires",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000039682067"
+    },
+    {
+      "titre": "Code de procédure pénale : article D113-63",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045494162"
+    },
+    {
+      "titre": "Circulaire du 9 mars 2020 sur l'enseignement en milieu pénitentiaire.",
+      "url": "https://www.education.gouv.fr/bo/20/Hebdo12/MENE2006507C.htm"
+    },
+    {
+      "titre": "Annexe à la circulaire du 9 mars 2020 sur l'enseignement en milieu pénitentiaire.",
+      "url": "https://cache.media.education.gouv.fr/file/11/42/8/ensel507_Annexe_1254428.pdf"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Centre national d'enseignement à distance (Cned)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "enseignement-et-formation-d-un-detenu-en-prison",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "prison",
+      "titre": "Prison"
+    }
+  ]
+}

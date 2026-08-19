@@ -1,0 +1,80 @@
+{
+  "id": "F463",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Faire reconnaître en France un diplôme obtenu à l'étranger",
+  "theme": "Famille - Scolarité",
+  "description": "Les critères de reconnaissance des diplômes sont différents selon l'organisation de vos études et selon le métier envisagé.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-04-17",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F463",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Étudiant étranger en France",
+    "Faire reconnaître en France un diplôme obtenu à l'étranger"
+  ],
+  "introduction": "Vous voulez faire reconnaître votre diplôme étranger pour étudier ou travailler en France ? Les critères de reconnaissance des diplômes sont différents selon l'organisation de vos études et selon le métier envisagé. Le Centre Enic-Naric peut vous fournir une attestation de reconnaissance de votre diplôme étranger, appelée attestation de comparabilité. Ces informations vous concernent quelle que soit votre nationalité.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Arrêté du 4 février 2025 portant création d'un téléservice de dématérialisation des demandes de reconnaissance des qualifications et équivalences de diplômes dénommé « TREQUE »",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051254256"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demander une attestation de comparabilité d'un diplôme étranger",
+      "url": "https://www.france-education-international.fr/article/comment-demander-une-attestation",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "TREQUE : demande de reconnaissance d'une qualification obtenue dans l'Union européenne (UE) et d'équivalence d'un diplôme non français obtenu hors UE (secteur du sport)",
+      "url": "https://demarches-sports.colibris.education.gouv.fr/treque/treque",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Demande en ligne de reconnaissance de qualifications professionnelles pour exercer la profession de professeur de danse",
+      "url": "https://mes-demarches.culturecommunication.gouv.fr/loc_fr/mcc/requests/DANSE_FORMA_reconnaissance_01bis",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Demande de reconnaissance d'une qualification ou d'un diplôme étranger pour l'exercice d’une profession du sport",
+      "url": "https://demarches-sports.colibris.education.gouv.fr/treque/treque/",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Comment demander une attestation de comparabilité ?",
+      "url": "https://www.france-education-international.fr/article/comment-demander-une-attestation?langue=fr"
+    },
+    {
+      "titre": "Le centre Enic-Naric",
+      "url": "https://www.france-education-international.fr/expertises/enic-naric"
+    },
+    {
+      "titre": "Informer sur les professions réglementées : une mission du centre ENIC-NARIC",
+      "url": "https://www.france-education-international.fr/actualites/informer-sur-les-professions-reglementees-une-mission-cle-du-centre-enic-naric-france"
+    },
+    {
+      "titre": "La reconnaissance des diplômes étrangers en France",
+      "url": "https://www.france-education-international.fr/hub/reconnaissance-de-diplomes"
+    },
+    {
+      "titre": "Annuaire des professions réglementées",
+      "url": "https://www.guichet-qualifications.fr/fr/dqp/index.html"
+    }
+  ],
+  "slug": "faire-reconnaitre-en-france-un-diplome-obtenu-a-l-etranger",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "etudiant-etranger-en-france",
+      "titre": "Étudiant étranger en France"
+    }
+  ]
+}

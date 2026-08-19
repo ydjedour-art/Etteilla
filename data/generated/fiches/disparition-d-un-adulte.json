@@ -1,0 +1,61 @@
+{
+  "id": "F31558",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Disparition d'un adulte",
+  "theme": "Famille - Scolarité",
+  "description": "Lorsqu'un adulte disparaît, une enquête peut être ouverte par la police ou la gendarmerie mais la disparition doit être considérée comme inquiétante.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-07-08",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31558",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Disparition et enlèvement de personnes",
+    "Disparition d'un adulte"
+  ],
+  "introduction": "Une personne d’au moins 18 ans qui fait partie de votre entourage a disparu. Que faire et comment agir ? La procédure est différente selon que la disparition a eu lieu en France ou à l'étranger. Nous vous donnons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Loi n°95-73 du 21 janvier 1995 d'orientation et de programmation à la sécurité : article 26",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006527983"
+    },
+    {
+      "titre": "Code de procédure pénale : article 74-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000006575117"
+    },
+    {
+      "titre": "Circulaire du 26 avril 2013 d'abrogation relative aux recherches dans l'intérêt des familles",
+      "url": "https://www.legifrance.gouv.fr/download/pdf/circ?id=36977"
+    },
+    {
+      "titre": "Question parlementaire n°17657 : disparition inquiétante",
+      "url": "https://questions.assemblee-nationale.fr/q13/13-17657QE.htm"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Requête aux fins de constatation de présomption d'absence",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_15603.do",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Disparition d'un adulte à l'étranger",
+      "url": "http://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/infos-pratiques-20973/assistance-aux-francais/disparitions-inquietantes/"
+    }
+  ],
+  "slug": "disparition-d-un-adulte",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "disparition-et-enlevement-de-personnes",
+      "titre": "Disparition et enlèvement de personnes"
+    }
+  ]
+}

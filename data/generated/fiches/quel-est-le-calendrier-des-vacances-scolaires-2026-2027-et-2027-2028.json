@@ -1,0 +1,73 @@
+{
+  "id": "F31952",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quel est le calendrier des vacances scolaires 2026-2027 et 2027-2028 ?",
+  "theme": "Famille - Scolarité",
+  "description": "Les dates de la rentrée scolaire et des vacances scolaires de Toussaint, Noël, Février, Printemps et des grandes vacances dépendent de la zone (A, B ou C).",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-07-24",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31952",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "École primaire (maternelle et élémentaire)",
+    "Quel est le calendrier des vacances scolaires 2026-2027 et 2027-2028 ?"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Arrêté du 22 octobre 2025 fixant le calendrier scolaire de l'année 2026-2027",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052416058"
+    },
+    {
+      "titre": "Arrêté du 21 juillet 2026 fixant le calendrier scolaire de l'année 2027-2028",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054457294"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Connaître le calendrier des vacances scolaires de votre département",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/Dates_Vacances_Scolaires",
+      "type": "Simulateur"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Calendrier scolaire dans l'académie de Mayotte",
+      "url": "https://www.ac-mayotte.fr/calendriers-scolaires-121778"
+    },
+    {
+      "titre": "Calendrier scolaire dans l'académie de Guyane",
+      "url": "https://www.ac-guyane.fr/le-calendrier-scolaire-121444"
+    },
+    {
+      "titre": "Calendrier scolaire dans l'académie de Corse",
+      "url": "https://www.ac-corse.fr/calendrier-scolaire-122048"
+    },
+    {
+      "titre": "Calendrier scolaire dans l'académie de Martinique",
+      "url": "https://www.ac-martinique.fr/le-calendrier-scolaire-121727"
+    },
+    {
+      "titre": "Calendrier scolaire dans l'académie de Guadeloupe",
+      "url": "https://www.ac-guadeloupe.fr/calendriers/calendrier_vacances_scolaires"
+    },
+    {
+      "titre": "Calendrier scolaire dans l'académie de la Réunion",
+      "url": "https://www.ac-reunion.fr/le-calendrier-scolaire"
+    }
+  ],
+  "slug": "quel-est-le-calendrier-des-vacances-scolaires-2026-2027-et-2027-2028",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "ecole-primaire-maternelle-et-elementaire",
+      "titre": "École primaire (maternelle et élémentaire)"
+    }
+  ]
+}

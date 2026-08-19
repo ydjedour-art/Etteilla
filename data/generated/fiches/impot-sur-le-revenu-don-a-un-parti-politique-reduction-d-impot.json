@@ -1,0 +1,159 @@
+{
+  "id": "F427",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Impôt sur le revenu - Don à un parti politique (réduction d'impôt)",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Une réduction d'impôt est accordée pour les versements sous forme de dons ou cotisations à un parti politique. Les sommes sont plafonnées.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-15",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F427",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Impôt sur le revenu : déductions, réductions et crédits d'impôt",
+    "Impôt sur le revenu - Don à un parti politique (réduction d'impôt)"
+  ],
+  "introduction": "Vous avez fait un don à un parti politique ? Vous pouvez bénéficier d'une réduction d'impôt, que vous ayez effectué un don ou versé des cotisations. La réduction dépend notamment des sommes versées. Les montants sont plafonnés.",
+  "chapitres": [
+    {
+      "titre": "Quels sont les dons et cotisations concernés par la réduction d'impôt ?",
+      "contenu": [
+        "Vous bénéficiez d'une réduction d'impôt pour les versements suivants :",
+        "• Dons versés à une association agréée de financement électoral ou un mandataire financier pour le financement d'une campagne électorale, et inscrits au compte de campagne d'un candidat ou d'une liste",
+        "• Dons versés à une association agréée de financement d'un parti politique",
+        "• Cotisations versées aux partis et groupements politiques.",
+        "Les dons de plus de 150 € doivent être effectués définitivement et sans contrepartie, par l'un des moyens suivants :",
+        "• Chèque",
+        "• Virement",
+        "• Prélèvement automatique",
+        "• Carte bancaire."
+      ]
+    },
+    {
+      "titre": "Les versements pour dons à un parti politique donnant droit à la réduction d’impôt sont-ils limités ?",
+      "contenu": [
+        "La limite des dons retenus pour la réduction d'impôt dépend du type de versement que vous effectuez.",
+        "Versements au profit d'un parti ou groupement politique",
+        "Les dons et des cotisations versés ne peuvent pas dépasser 7 500 € par personne.",
+        "De plus, le montant des dons et des cotisations versés aux partis et groupements politiques est plafonné à 15 000 € par an et par foyer fiscal.",
+        "Versements au profit d'un ou de plusieurs candidats",
+        "Les dons retenus ne peuvent pas dépasser 4 600 € pour une même élection (pour les 2 scrutins s'il s'agit d'une élection à 2 tours)."
+      ]
+    },
+    {
+      "titre": "Comment est calculée la réduction d'impôt pour don à un parti politique ?",
+      "contenu": [
+        "Montant de la réduction",
+        "La réduction est égale à 66 % des sommes versées dans la limite de 20 % du revenu imposable.",
+        "Report des dons dépassant la limite annuelle",
+        "Lorsque le montant des dons dépasse la limite de 20 % du revenu imposable, l'excédent est reporté sur les 5 années suivantes et ouvre droit à la réduction d'impôt dans les mêmes conditions.",
+        "En cas de nouveaux versements, les excédents reportés ouvrent droit à la réduction d'impôt avant les versements de l'année.",
+        "Les excédents les plus anciens sont retenus en priorité.",
+        "[À noter] La partie des dons et cotisations qui dépasse 15 000 € ne peut pas être reportée sur les années suivantes."
+      ]
+    },
+    {
+      "titre": "Comment déclarer les dons à un parti politique ?",
+      "contenu": [
+        "Indiquez le montant de vos dons sur votre déclaration de revenus dans la partie Réductions d'impôt et crédits d'impôt.",
+        "Vous devez conserver les justificatifs de vos versements (reçus) en cas de demande de l'administration fiscale."
+      ]
+    },
+    {
+      "titre": "Quand la réduction d'impôt pour don à un parti politique est-elle versée ?",
+      "contenu": [
+        "Un acompte de 60 % vous est versé en janvier, en fonction du montant de la réduction d'impôt perçue l'année précédente.",
+        "Le solde vous est payé à l'été, en fonction de vos dépenses réelles.",
+        "Si vous touchez un acompte trop important en janvier, vous devrez rembourser le trop-perçu en septembre.",
+        "[Exemple] Pour vos dépenses de 2025, un acompte de 60 % de la réduction d'impôt vous est versé en janvier 2026, en fonction du montant de la réduction d'impôt perçue en 2025 (pour vos dépenses de 2024). Le solde vous est payé à l'été 2026, en fonction de vos dépenses réelles de 2025."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général des impôts : article 200",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000006191957"
+    },
+    {
+      "titre": "Code électoral : articles L52-3-1 à L52-17",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006148459"
+    },
+    {
+      "titre": "Loi n°88-227 du 11 mars 1988 relative à la transparence financière de la vie politique",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000321646/"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-IR-RICI-250 relatif aux réductions d'impôt pour les dons",
+      "url": "http://bofip.impots.gouv.fr/bofip/5823-PGP"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-IR-RICI-250-30 relatif à l'application de la réduction d'impôt pour les dons faits par les particuliers",
+      "url": "http://bofip.impots.gouv.fr/bofip/5873-PGP"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Impôts : accéder à votre espace Finances publiques",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Déclarer vos revenus en ligne",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Reçu des dons et versements effectués par un particulier à un organisme d'intérêt général",
+      "url": "https://www.impots.gouv.fr/formulaire/2041-rd/recu-des-dons-et-versements-effectues-par-les-particuliers-au-titre-des-articles",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Déclaration 2026 des revenus 2025 (papier)",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/2042/declaration-des-revenus",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Déclaration 2026 des revenus 2025 - Réductions d'impôt et crédits d'impôt",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/2042/declaration-des-revenus",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Estimer le montant de son impôt sur les revenus de 2025 (déclaration de 2026)",
+      "url": "https://simulateur-ir-ifi.impots.gouv.fr/calcul_impot/2026/",
+      "type": "simulateurNG"
+    }
+  ],
+  "contacts": [
+    "Service d'information des impôts",
+    "Service en charge des impôts (trésorerie, service des impôts...)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "J'ai déclaré des réductions et crédits d'impôt, suis-je concerné par le versement de l'avance de 60 % en janvier ?",
+      "url": "https://www.impots.gouv.fr/particulier/questions/jai-declare-des-reductions-et-credits-dimpot-suis-je-concerne-par-le"
+    },
+    {
+      "titre": "Brochure pratique 2026 - Déclaration des revenus de 2025",
+      "url": "https://www.impots.gouv.fr/www2/fichiers/documentation/brochure/ir_2026/accueil.htm"
+    },
+    {
+      "titre": "Informations sur les partis politiques",
+      "url": "https://cnccfp.fr/partis-politiques/"
+    },
+    {
+      "titre": "Qu'est-ce qu'un parti politique ?",
+      "url": "https://www.vie-publique.fr/fiches/23999-quest-ce-quun-parti-politique"
+    }
+  ],
+  "slug": "impot-sur-le-revenu-don-a-un-parti-politique-reduction-d-impot",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "impot-sur-le-revenu-deductions-reductions-et-credits-d-impot",
+      "titre": "Impôt sur le revenu : déductions, réductions et crédits d'impôt"
+    }
+  ]
+}

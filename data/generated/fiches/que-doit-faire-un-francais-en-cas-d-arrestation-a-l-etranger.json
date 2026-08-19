@@ -1,0 +1,78 @@
+{
+  "id": "F1512",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Que doit faire un Français en cas d'arrestation à l'étranger ?",
+  "theme": "Justice",
+  "description": "Le Français qui commet une infraction dans un pays étranger, peut être arrêté et mis en prison. Il peut obtenir l'assistance du consulat.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-04-29",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1512",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Prison",
+    "Que doit faire un Français en cas d'arrestation à l'étranger ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Si vous êtes arrêté à l'étranger et que vous êtes de nationalité française, vous pouvez bénéficier de l'assistance des autorités consulaires françaises.",
+        "Pour cela, vous devez demander à entrer en contact avec le consulat de France compétent pour le pays étranger concerné.",
+        "Ambassade ou consulat français à l'étranger",
+        "Le consulat peut envoyer un agent pour vérifier vos conditions de détention. Il peut aussi vous fournir une liste d’avocats, si possible francophones, pour assurer votre défense.",
+        "[À savoir] Vos proches, restés en France, peuvent prendre contact avec l’ambassade, le consulat le plus proche du lieu d’incarcération ou la sous-direction de la protection des droits des personnes du ministère français de l’Europe et des affaires étrangères. Ces services peuvent leur apporter des renseignements sur votre situation (lieu et conditions d’incarcération, motifs de l’arrestation, etc.) et sur les moyens de vous aider (par exemple, information pour effectuer un transfert d’argent).",
+        "Si vous êtes jugé à l'étranger, vous encourez la peine prévue par la loi du pays dans lequel vous vous trouvez.",
+        "Si vous êtes condamné à une peine de prison, vous serez normalement détenu dans le pays qui a pris la décision. Toutefois, vous pouvez faire une demande de transfèrement vers la France afin d’y purger le restant de votre peine. Pour obtenir un transfèrement vers la France, vous devez remplir les conditions suivantes :",
+        "• Vous devez être de nationalité française",
+        "• La décision de condamnation doit être devenue définitive",
+        "• Vous devez avoir réglé les sommes qui vous ont été demandées (par exemple, une amende)",
+        "• L’acte que vous avez commis doit être considéré comme une infraction en France.",
+        "La demande doit être faite auprès de l’administration pénitentiaire locale si vous êtes incarcéré dans un État de l’Union européenne (UE) ou du consulat si vous êtes incarcéré en dehors de l’UE.",
+        "Pour être transféré vers la France, vous devez obtenir l’accord de l’État dans lequel vous avez été condamné et des autorités françaises.",
+        "Pour vous aider dans l’ensemble de vos démarches, il est conseillé de faire appel à un avocat.",
+        "[Attention] Le consulat ne peut pas prendre la place d'un avocat pour assurer votre défense.",
+        "Si vous êtes assisté d’un avocat, vous (ou vos proches) devrez régler ses honoraires.",
+        "Certains pays proposent un système d'aide juridictionnelle pour vous aider à régler les frais de justice (exemple : honoraires d'avocat).",
+        "Pour savoir si un tel système existe dans le pays dans lequel vous vous trouvez, vous (ou vos proches) devez contacter les autorités judiciaires locales."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code pénal : articles 113-6 à 113-13",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000021486425"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Ambassades et consulats de France à l'étranger",
+    "Bureau de la protection des détenus - Ministère des affaires étrangères"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Arrestation ou détention à l'étranger",
+      "url": "https://www.diplomatie.gouv.fr/fr/services-aux-francaises-et-aux-francais/assistance-et-securite/urgence-ou-difficulte/arrestations-incarcerations-a-l-etranger"
+    },
+    {
+      "titre": "Transférer de l’argent à un proche incarcéré à l’étranger",
+      "url": "https://www.diplomatie.gouv.fr/fr/services-aux-francaises-et-aux-francais/assistance-et-securite/urgence-ou-difficulte/arrestation-ou-detention-d-un-proche-a-l-etranger"
+    },
+    {
+      "titre": "Conseils aux voyageurs",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs"
+    }
+  ],
+  "slug": "que-doit-faire-un-francais-en-cas-d-arrestation-a-l-etranger",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "prison",
+      "titre": "Prison"
+    }
+  ]
+}

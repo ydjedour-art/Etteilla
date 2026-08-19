@@ -1,0 +1,109 @@
+{
+  "id": "F1382",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Contester un jugement civil ou pénal : recours en cassation",
+  "theme": "Justice",
+  "description": "Pour contester une décision rendue en appel ou en dernier ressort, il faut former un pourvoi en cassation. La Cour se prononce sur la conformité en droit.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-08-29",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1382",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Contestation d'un jugement",
+    "Contester un jugement civil ou pénal : recours en cassation"
+  ],
+  "introduction": "Si vous souhaitez contester un arrêt ou un jugement rendu en dernier ressort, vous devez former un pourvoi en cassation. La Cour de cassation, qui est une juridiction unique en France, ne juge pas les faits qui vous oppose à votre adversaire. Elle se prononce sur la conformité en droit, c’est-à-dire qu’elle vérifie que les juges ont appliqué la bonne règle de droit. Nous vous expliquons la procédure dans le cadre d’une affaire civile ou pénale.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de l'organisation judiciaire : articles L411-1 à L411-4",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006151784/"
+    },
+    {
+      "titre": "Code de procédure civile : articles 605 à 618",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006165210/"
+    },
+    {
+      "titre": "Code de procédure civile : articles 619 à 639",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006165211/"
+    },
+    {
+      "titre": "Code de procédure civile : articles 640 à 647-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006135898/"
+    },
+    {
+      "titre": "Code de procédure civile : articles 974 à 982",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006135932/"
+    },
+    {
+      "titre": "Code de procédure civile : articles 983 à 995",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006135933/"
+    },
+    {
+      "titre": "Code de procédure civile : articles 996 à 1008",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006135934"
+    },
+    {
+      "titre": "Code de procédure civile : articles 1088 à 1105",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033747796/"
+    },
+    {
+      "titre": "Code de procédure pénale : articles 567 à 574-2",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000006151911/"
+    },
+    {
+      "titre": "Code de procédure pénale : articles 576 à 590-2",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006151912/"
+    },
+    {
+      "titre": "Code de procédure pénale : articles 591 à 600",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006151913/"
+    },
+    {
+      "titre": "Code de procédure pénale : articles 601 à 604",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006151914"
+    },
+    {
+      "titre": "Code de procédure pénale : articles 605 à 619",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006151915"
+    },
+    {
+      "titre": "Décret n°2020-1717 du 28 décembre 2020 portant application de la loi n° 91-647 du 10 juillet 1991 relative à l'aide juridique",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000042748211/2025-08-29/"
+    },
+    {
+      "titre": "Code général des impôts : article 1018 A",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022174326/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Maison de justice et du droit"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "La Cour de cassation",
+      "url": "https://www.courdecassation.fr/la-cour"
+    },
+    {
+      "titre": "Cour européenne des droits de l'homme (CEDH)",
+      "url": "http://www.echr.coe.int/Pages/home.aspx?p=court&c=fra#n1354801701084_pointer"
+    },
+    {
+      "titre": "Procédure devant la CEDH",
+      "url": "https://www.vie-publique.fr/fiches/38295-procedure-devant-la-cour-europeenne-des-droits-de-lhomme-cedh"
+    }
+  ],
+  "slug": "contester-un-jugement-civil-ou-penal-recours-en-cassation",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "contestation-d-un-jugement",
+      "titre": "Contestation d'un jugement"
+    }
+  ]
+}

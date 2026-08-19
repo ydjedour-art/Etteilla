@@ -1,0 +1,101 @@
+{
+  "id": "F34068",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Prise en charge d'une affection de longue durée (ALD) par l'Assurance maladie",
+  "theme": "Social - Santé",
+  "description": "Les affections de longue durée (ALD) exonérantes bénéficient d'une prise en charge à 100 % et d'un protocole de soins particulier.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-12-18",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34068",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Remboursement des soins par la Sécurité sociale",
+    "Prise en charge d'une affection de longue durée (ALD) par l'Assurance maladie"
+  ],
+  "introduction": "Quel est le taux de prise en charge des ALD ? Certaines sont exonérantes : les frais liés aux soins sont remboursés au maximum du plafond. Vous êtes exonéré du ticket modérateur. Le protocole de soins ouvre les droits au 100 %. D'autres ne sont pas exonérantes : vous êtes alors remboursé aux taux habituels. Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de la sécurité sociale : article D160-4",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031806122/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : article L324-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031932281/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : article L160-14",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044317315/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : annexe à l'article D160-4",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034369178"
+    },
+    {
+      "titre": "Code de la santé publique : article L1172-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000031920539"
+    },
+    {
+      "titre": "Code de la santé publique : articles D1172-1 à D1172-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000033826186"
+    },
+    {
+      "titre": "Arrêté du 23 décembre 2006 fixant le référentiel de prescription des transports",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000645199"
+    },
+    {
+      "titre": "Arrêté du 8 novembre 2018 relatif à la liste des certifications fédérales autorisant la dispensation d'activité physique adaptée prescrite à des patients atteints d'une ALD",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000037658253"
+    },
+    {
+      "titre": "Arrêté du 18 mars 2019 portant modification des modalités de prise en charge des prothèses capillaires et accessoires",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000038250112"
+    },
+    {
+      "titre": "Arrêté du 20 mars 2019 modifiant l'arrêté du 18 mars 2019 portant modification des modalités de prise en charge des prothèses capillaires et accessoires",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000038268152"
+    },
+    {
+      "titre": "Décision du 6 mars 2019 fixant le tarif de responsabilité et le prix limite de vente au public (PLV) en euros TTC des prothèses capillaires et des accessoires",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000038250122"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Ordonnance bizone",
+      "url": "https://www.ameli.fr/sites/default/files/formualires/205/s3321.pdf",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Protocole de soins",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_11626.do",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Santé Info Droits",
+    "Ameli"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Les affections de longue durée (ALD)",
+      "url": "https://www.ameli.fr/assure/droits-demarches/maladie-accident-hospitalisation/affection-longue-duree-ald"
+    },
+    {
+      "titre": "Le régime des affections de longue durée",
+      "url": "https://www.france-assos-sante.org/wp-content/uploads/2016/01/Fiche-C.5_le_regime_des_affections_longues_duree_nov2020.pdf"
+    }
+  ],
+  "slug": "prise-en-charge-d-une-affection-de-longue-duree-ald-par-l-assurance-maladie",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "remboursement-des-soins-par-la-securite-sociale",
+      "titre": "Remboursement des soins par la Sécurité sociale"
+    }
+  ]
+}

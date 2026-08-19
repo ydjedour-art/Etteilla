@@ -1,0 +1,45 @@
+{
+  "id": "F33626",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Comment trouver son décret de naturalisation publié au Journal officiel ?",
+  "theme": "Étranger - Europe",
+  "description": "Les décrets de naturalisation, publiés au Journal officiel depuis 1924, sont téléchargeables sur le site Légifrance.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-02-11",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33626",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Nationalité française",
+    "Comment trouver son décret de naturalisation publié au Journal officiel ?"
+  ],
+  "introduction": "Les décrets de naturalisation, publiés au Journal officiel depuis 1924, sont téléchargeables sur le site Légifrance.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "[Attention] Cette page indique comment trouver un décret de naturalisation française. La procédure est différente si vous avez fait une déclaration de nationalité française par mariage, ascendant de français, frère ou sœur de Français."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Recherche d'un dossier de naturalisation aux Archives nationales",
+      "url": "https://www.siv.archives-nationales.culture.gouv.fr/siv/cms/content/helpGuide.action?uuid=804c95a9-6550-4b00-b97b-78b0d52816cd&version=6&preview=false&typeSearch=&searchString="
+    }
+  ],
+  "slug": "comment-trouver-son-decret-de-naturalisation-publie-au-journal-officiel",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "nationalite-francaise",
+      "titre": "Nationalité française"
+    }
+  ]
+}

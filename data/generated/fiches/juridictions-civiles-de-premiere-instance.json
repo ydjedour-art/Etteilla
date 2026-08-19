@@ -1,0 +1,35 @@
+{
+  "id": "F2289",
+  "type_publication": "Fiche avec liens externes",
+  "titre": "Juridictions civiles de première instance",
+  "theme": "Justice",
+  "description": "Les juridictions civiles sont compétentes pour régler les litiges entre personnes privées (logement, voisinage, divorce, travail, contrats...).",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-07-08",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2289",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Juridictions",
+    "Juridictions civiles de première instance"
+  ],
+  "introduction": "Les juridictions civiles de première instance sont les tribunaux qui jugent pour la première fois les litiges entre personnes privées (particuliers, entreprises, etc.). Ces juridictions ont la possibilité de réprimer la partie fautive dans une affaire (par exemple, en la condamnant à régler des dommages et intérêts). Cependant, elles ne peuvent pas prononcer de sanctions pénales.",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [
+    "Avocat"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "juridictions-civiles-de-premiere-instance",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "juridictions",
+      "titre": "Juridictions"
+    }
+  ]
+}

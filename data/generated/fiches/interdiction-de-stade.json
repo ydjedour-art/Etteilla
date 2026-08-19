@@ -1,0 +1,58 @@
+{
+  "id": "F32962",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Interdiction de stade",
+  "theme": "Loisirs - Sports - Culture",
+  "description": "L'interdiction de stade permet de prévenir ou sanctionner la violence dans les stades.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-02-05",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F32962",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Loisirs - Sports - Culture",
+    "Sport",
+    "Interdiction de stade"
+  ],
+  "introduction": "Vous voulez savoir comment la sécurité dans les stades est garantie pendant une rencontre sportive ? Elle peut l'être en interdisant individuellement une personne d'entrer dans un stade où se déroule un match. Cette mesure d'interdiction de stade est dite administrative si elle est prise par le préfet. Elle est dite judiciaire si elle est prise par un tribunal. Vous ne pouvez pas subir en même temps une interdiction administrative et une interdiction judiciaire.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code du sport : article L332-11",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047570030"
+    },
+    {
+      "titre": "Code du sport : article L332-13",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006547735"
+    },
+    {
+      "titre": "Code du sport : article L332-16",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047570054"
+    },
+    {
+      "titre": "Code du sport : article R332-4 à R332-6",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006548315"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Préfecture",
+    "Préfecture de police de Paris"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Droits et devoirs des supporters",
+      "url": "https://www.sports.gouv.fr/sites/default/files/2023-03/guide-du-supporter-ce-que-vous-devez-savoir-sur--5327.pdf"
+    }
+  ],
+  "slug": "interdiction-de-stade",
+  "path": [
+    {
+      "slug": "loisirs-sports-culture",
+      "titre": "Loisirs - Sports - Culture"
+    },
+    {
+      "slug": "sport",
+      "titre": "Sport"
+    }
+  ]
+}

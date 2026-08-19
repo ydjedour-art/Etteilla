@@ -1,0 +1,67 @@
+{
+  "id": "F1964",
+  "type_publication": "Fiche avec liens externes",
+  "titre": "Référendum",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Un référendum est une procédure de consultation directe des électeurs sur une question ou sur un texte. Il peut notamment être de portée nationale ou locale.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2024-10-24",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1964",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Élections",
+    "Référendum"
+  ],
+  "introduction": "Vous voulez savoir ce qu'est un référendum ? Il s'agit d'une procédure permettant de consulter directement les électeurs sur une question ou sur un texte. Un référendum peut être de portée nationale ou de portée locale. Au sein de l'Union européenne, l'initiative citoyenne européenne constitue une autre forme de participation politique des citoyens européens. Nous vous expliquons.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Constitution du 4 octobre 1958",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000571356/"
+    },
+    {
+      "titre": "Loi organique n°2013-1114 du 6 décembre 2013 portant application de l'article 11 de la Constitution",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000028278925"
+    },
+    {
+      "titre": "Code général des collectivités territoriales : articles LO1112-1 à LO1112-7",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006192582"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Référendum d'initiative partagée (Rip) en ligne - Déclarer son soutien à une proposition de loi référendaire",
+      "url": "https://www.referendum.interieur.gouv.fr/soutien/etape-1",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Référendum d'initiative partagée (Rip) - Déclarer son soutien à une proposition de loi référendaire",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_15264.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Trouver l'initiative citoyenne européenne (ICE)",
+      "url": "https://citizens-initiative.europa.eu/find-initiative_fr",
+      "type": "Outil de recherche"
+    },
+    {
+      "titre": "Vérifier votre inscription électorale et votre bureau de vote",
+      "url": "https://situation.elections.interieur.gouv.fr/",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "referendum",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "elections",
+      "titre": "Élections"
+    }
+  ]
+}

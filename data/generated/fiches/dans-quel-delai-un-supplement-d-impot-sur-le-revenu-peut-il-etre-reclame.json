@@ -1,0 +1,89 @@
+{
+  "id": "F417",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Dans quel délai un supplément d'impôt sur le revenu peut-il être réclamé ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "L'administration fiscale peut réclamer un supplément d'impôt sur une année antérieure. Par exemple si elle a commis une erreur. Elle a un délai pour agir.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-01-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F417",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Saisir l'administration fiscale (difficultés de paiement, réclamation...)",
+    "Dans quel délai un supplément d'impôt sur le revenu peut-il être réclamé ?"
+  ],
+  "introduction": "L'administration fiscale peut vous réclamer un supplément d'impôt sur une année antérieure, par exemple si elle a commis une erreur en établissant votre impôt sur le revenu. Elle dispose d'un certain délai (appelé délai de prescription ou délai de reprise) pour vous le réclamer.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Le délai varie selon votre situation :",
+        "Les services fiscaux vous demandent un supplément d'impôt",
+        "L'administration fiscale dispose d'un délai jusqu'à la fin à la 3e année suivant celle où l'imposition est due.",
+        "[Exemple] L'administration peut agir jusqu'au 31 décembre 2028 pour l'impôt dû au titre des revenus 2025.",
+        "Vous recevez une proposition de rectification",
+        "Si l'administration vous notifie une proposition de rectification, le délai est interrompu.",
+        "La date de cette notification sert alors de base pour un nouveau délai de prescription de 3 ans.",
+        "[Exemple] Vous recevez une proposition de rectification en novembre 2026 concernant votre impôt sur le revenu de 2023, l'administration a jusqu'au 31 décembre 2029 pour vous réclamer des montants que vous auriez dû payer.",
+        "Vous êtes soupçonné de fraude",
+        "Le délai est prolongé jusqu'à la fin de la 10e année qui suit celle pour laquelle l'imposition est due, si vous êtes soupçonné de fraude fiscale (y compris activité occulte ou agissement frauduleux).",
+        "[Exemple] L'administration peut agir jusqu'au 31 décembre 2035 pour l'impôt dû au titre des revenus 2025."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : article 2231",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019017290/"
+    },
+    {
+      "titre": "Livre des procédures fiscales : articles L169 à L169A",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006191974/"
+    },
+    {
+      "titre": "Livre des procédures fiscales : articles L171 à L172H",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006191975/"
+    },
+    {
+      "titre": "Livre des procédures fiscales : articles L186 à L188 C",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006163105/"
+    },
+    {
+      "titre": "Livre des procédures fiscales : article L189",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006163106/"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-CF-PGR-10-20 relatif aux délais de reprise en matière d'impôt sur le revenu",
+      "url": "http://bofip.impots.gouv.fr/bofip/1396-PGP"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Impôts : accéder à votre espace Finances publiques",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "Service d'information des impôts",
+    "Service en charge des impôts (trésorerie, service des impôts...)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Pendant combien de temps l'administration peut-elle rectifier votre impôt ?",
+      "url": "https://www.economie.gouv.fr/cedef/delai-de-reprise-fiscale"
+    }
+  ],
+  "slug": "dans-quel-delai-un-supplement-d-impot-sur-le-revenu-peut-il-etre-reclame",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "saisir-l-administration-fiscale-difficultes-de-paiement-reclamation",
+      "titre": "Saisir l'administration fiscale (difficultés de paiement, réclamation...)"
+    }
+  ]
+}

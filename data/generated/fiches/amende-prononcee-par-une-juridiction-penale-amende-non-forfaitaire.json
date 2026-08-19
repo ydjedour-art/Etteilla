@@ -1,0 +1,138 @@
+{
+  "id": "F32803",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Amende prononcée par une juridiction pénale (amende non forfaitaire)",
+  "theme": "Justice",
+  "description": "Le paiement et/ou la contestation d'une amende se fait selon une procédure précise.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-11-28",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F32803",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Condamnations et peines",
+    "Amende prononcée par une juridiction pénale (amende non forfaitaire)"
+  ],
+  "introduction": "Que se passe-t-il en cas de condamnation à une amende par une juridiction pénale ? La personne condamnée à une amende non forfaitaire doit la régler dans un certain délai. Si elle respecte ce délai, elle pourra bénéficier d’une réduction du montant de l’amende. Dans le cas contraire, le Trésor Public tentera, par tous moyens, d’obtenir le paiement de l’amende. La décision prononçant une amende peut être contestée par la personne condamnée. Voici les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Qu’est-ce qu’une amende prononcée par une juridiction pénale ?",
+      "contenu": [
+        "L’amende non forfaitaire est une sanction qui peut être prononcée à l’issue d’un procès pénal. Il s’agit d’une somme d’argent à régler à l’État.",
+        "Lorsque l’auteur des faits a commis une contravention ou un délit, il encourt normalement une amende pénale (sauf si une amende forfaitaire lui a déjà été remise).",
+        "Pour les crimes, l’amende doit être prévue dans le texte qui punit cette infraction (par exemple, le texte qui punit la fabrication de drogues prévoit que l’auteur de cette infraction encourt une peine de 20 ans de prison et de 7 500 000 € d’amende).",
+        "[À savoir] Les personnes morales encourent toujours une peine d’amende.",
+        "En cas de condamnation à une amende non forfaitaire, la juridiction pénale peut assortir cette peine d’un sursis. Ainsi, la personne qui respecte les conditions de son sursis n’aura pas à régler l’amende.",
+        "[Attention] Il ne faut pas confondre l’amende non forfaitaire, les dommages et intérêts accordés à la victime et les frais de justice."
+      ]
+    },
+    {
+      "titre": "À combien peut s’élever une amende prononcée par une juridiction pénale ?",
+      "contenu": [
+        "Le montant de l’amende varie selon la gravité de l’infraction commise et les circonstances de l’affaire.",
+        "La manière de déterminer ce montant n'est pas la même en cas d'infraction unique qu’en cas d'infractions multiples.",
+        "[À savoir] Pour les personnes morales, le montant maximal de l’amende est 5 fois plus élevé que celui de l’amende prévue pour les personnes physiques.",
+        "Infraction unique",
+        "La juridiction pénale fixe librement le montant de l'amende en tenant compte des circonstances de l’infraction, de la personnalité de l’auteur des faits, de ses ressources financières et de ses charges (exemple : loyer).",
+        "Le montant de l’amende fixé par la juridiction pénale ne peut pas dépasser le maximum prévu par la loi ou le règlement.",
+        "Si l’amende contraventionnelle ou délictuelle et les droits fixes de procédure sont payés dans le mois suivant le prononcé de la décision (ou sa signification), une réduction de 20 % est accordée. Cette réduction ne peut pas dépasser 1 500 €.",
+        "[Exemple] Si une personne est condamnée à une amende de 750 € par le tribunal de police et qu’elle règle la somme dans un délai d’un mois suivant la signification du jugement, elle devra payer 649,60 € (750 € d’amende + 62 € de droit fixe de procédure - 20 % de réduction).",
+        "Infractions multiples",
+        "Lorsqu'une personne est jugée au cours du même procès pour une ou plusieurs contraventions accompagnées de délits et/ou des crimes, les amendes prévues pour les différentes infractions s’additionnent.",
+        "[Exemple] Une personne peut être condamnée à une amende 9 150 € si elle est jugée en même temps pour avoir commis les 2 infractions suivantes : • Contravention de 2me classe (150 €), prévue lorsqu’une personne se trouve en état d’ivresse sur la voie publique • Délit de conduite en état d’ivresse puni d’une amende de 9 000 € maximum.",
+        "En revanche, il n'y a pas de cumul des amendes si les infractions pour lesquelles la personne est condamnée sont uniquement des crimes et/ou des délits. Le montant de l’amende maximum qui peut être prononcé par la juridiction pénale est celui prévu pour l'infraction la plus grave.",
+        "[Exemple] Une personne risque au maximum une amende de 9 000 € pour les 2 délits suivants : • Usage de drogues puni d’une amende de 3 750 € maximum • Conduite sous l’emprise de drogues puni d’une amende de 9 000 € maximum.",
+        "[À savoir] Si l'amende (ou les amendes) et les droits fixes de procédure sont payés dans le mois suivant le prononcé de la décision (ou sa signification), une réduction de 20 % est accordée. Cette réduction ne peut pas dépasser 1 500 €. Par exemple, si une personne est condamnée à une amende de 750 € et à une autre amende de 350 € par le tribunal de police et qu’elle règle la somme dans un délai d’un mois suivant la signification du jugement, elle devra payer 920,60 € (1 100 € d’amende + 62 € de droit fixe de procédure - 20 % de réduction)."
+      ]
+    },
+    {
+      "titre": "Dans quel délai l’amende non forfaitaire doit-elle être payée ?",
+      "contenu": [
+        "En principe, l’amende doit être réglée dans un délai d’un mois suivant le prononcé de la décision de condamnation (ou sa signification).",
+        "Si l’amende n’est pas réglée dans ce délai, le Trésor public envoie une relance à la personne condamnée.",
+        "[À savoir] La personne condamnée peut demander un échelonnement du paiement de l’amende au Trésor public. Pour cela, elle doit se déplacer au centre des finances publiques le plus proche de chez elle, en ayant avec elle tous les documents prouvant sa situation financière précaire (exemple : relevé de compte).",
+        "Si la personne condamnée ne paye pas l’amende dans le délai précisé dans la relance -ou les relances), le Trésor public peut procéder à la saisie de ses biens (exemple : saisie sur salaire).",
+        "Cette saisie peut avoir lieu dans un délai de :",
+        "• 3 ans à compter du jour où la décision est devenue définitive, si l’amende sanctionne une contravention",
+        "• 6 ans à compter du jour où la décision est devenue définitive, si l’amende sanctionne un délit",
+        "• 20 ans à compter du jour où la décision est devenue définitive, si l’amende sanctionne un crime.",
+        "[À noter] Pour les crimes et les délits qui font encourir une peine de prison, le juge de l’application des peines peut ordonner l’emprisonnement de la personne condamnée à une peine d’amende dès lors qu’elle refuse de la payer. La durée de l’emprisonnement est fixée par le juge, dans la limite des maximums prévus par la loi (exemple : pour une amende dont le montant est compris entre 2 000 € et 4 000 €, l’emprisonnement peut être de 20 jours)."
+      ]
+    },
+    {
+      "titre": "Comment payer l'amende non forfaitaire ?",
+      "contenu": [
+        "À l’issue de l’audience, la juridiction donne un relevé de condamnation pénale à la personne condamnée. Si elle et son avocat sont absents à l’audience, ce relevé lui est signifié en même temps que la décision de justice.",
+        "Le relevé de condamnation est indispensable pour régler l’amende.",
+        "Si la personne condamnée ne l’a pas, elle peut en faire la demande au greffe de la juridiction qui a rendu la décision.",
+        "Tribunal judiciaire ou tribunal de proximité",
+        "Pour régler l’amende, il existe plusieurs solutions :",
+        "• La personne condamnée peut se rendre directement au bureau d’exécution des peines de la juridiction qui l’a condamnée. Elle doit présenter son relevé de condamnation pénale.",
+        "• Ou la personne condamnée peut transmettre son relevé de condamnation pénale accompagné d’un chèque (rempli et signé) à n’importe quel centre des finances publiques.",
+        "• Ou la personne a la possibilité de se déplacer au centre des finances publiques de son domicile. Elle doit présenter son relevé de condamnation pénale. Le paiement peut être fait par tous moyens."
+      ]
+    },
+    {
+      "titre": "Comment contester l'amende non forfaitaire ?",
+      "contenu": [
+        "La condamnation à une peine d'amende prononcée par une juridiction pénale peut fait l'objet d'un appel. Dans ce cas, le paiement de l’amende est suspendu jusqu’à la décision de la cour d’appel.",
+        "Si la cour d’appel accepte la demande de la personne condamnée mais que l’amende a déjà été réglée, elle peut solliciter le remboursement de l’amende en adressant un courrier à la direction générale des finances publiques (DGFIP).",
+        "Direction générale des finances publiques"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code pénal : article 131-13",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417259/"
+    },
+    {
+      "titre": "Code pénal : article 132-7",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417364"
+    },
+    {
+      "titre": "Code pénal : article 132-3",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417358"
+    },
+    {
+      "titre": "Code de procédure pénale : articles 707 à 712",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006151940/"
+    },
+    {
+      "titre": "Code de procédure pénale : articles 749 à 762",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006138149"
+    },
+    {
+      "titre": "Code de procédure pénale : article R55-7",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029007301?isSuggest=true"
+    },
+    {
+      "titre": "Code pénal : article 131-38",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417334"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Service de paiement en ligne des amendes",
+      "url": "https://amendes.gouv.fr/nl/tai",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "Tribunal judiciaire ou tribunal de proximité",
+    "Direction départementale des finances publiques (DDFIP)",
+    "Direction générale des finances publiques"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "amende-prononcee-par-une-juridiction-penale-amende-non-forfaitaire",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "condamnations-et-peines",
+      "titre": "Condamnations et peines"
+    }
+  ]
+}

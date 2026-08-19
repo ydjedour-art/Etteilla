@@ -1,0 +1,58 @@
+{
+  "id": "F32776",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "De retour en France après une expatriation, comment retrouver son permis de conduire français échangé contre un permis délivré à l'étranger ?",
+  "theme": "Transports - Mobilité",
+  "description": "Le permis de conduire français obtenu avant le départ en expatriation peut être rétabli au retour en France s'il a été échangé contre un permis étranger.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-02-28",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F32776",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Conduire en France avec un permis étranger",
+    "De retour en France après une expatriation, comment retrouver son permis de conduire français échangé contre un permis délivré à l'étranger ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Si vous avez échangé votre permis de conduire français contre un permis délivré par le pays dans lequel vous étiez expatrié, vous pouvez, à votre retour en France, retrouver votre permis français. En pratique, la démarche consiste en un nouvel échange de permis. Nous vous indiquons les informations à connaître selon que vous avez échangé votre permis français contre un permis européen ou un permis d'un autre pays."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [
+    {
+      "titre": "Demande en ligne de rétablissement du permis de conduire français au retour en France après une expatriation",
+      "url": "https://permisdeconduire.ants.gouv.fr/",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Consulter et télécharger les informations du permis de conduire : solde de points, relevé intégral, attestation de droit à conduire sécurisée...",
+      "url": "https://mespoints.permisdeconduire.gouv.fr",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "France Titres - Permis de conduire"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Site de la sécurité routière",
+      "url": "http://www.securite-routiere.gouv.fr"
+    }
+  ],
+  "slug": "de-retour-en-france-apres-une-expatriation-comment-retrouver-son-permis-de-conduire-francais-echange-contre-un-permis-delivre-a-l-etranger",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "conduire-en-france-avec-un-permis-etranger",
+      "titre": "Conduire en France avec un permis étranger"
+    }
+  ]
+}

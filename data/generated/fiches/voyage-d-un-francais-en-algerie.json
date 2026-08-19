@@ -1,0 +1,33 @@
+{
+  "id": "F36350",
+  "type_publication": "Recherche guidée",
+  "titre": "Voyage d'un Français en Algérie",
+  "theme": "Étranger - Europe",
+  "description": "Voyage d'un Français en Algérie",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2021-11-16",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F36350",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Voyager à l'étranger",
+    "Voyage d'un Français en Algérie"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "voyage-d-un-francais-en-algerie",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "voyager-a-l-etranger",
+      "titre": "Voyager à l'étranger"
+    }
+  ]
+}

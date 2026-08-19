@@ -1,0 +1,96 @@
+{
+  "id": "F12415",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Un salarié en arrêt maladie peut-il sortir de son domicile ?",
+  "theme": "Travail - Formation",
+  "description": "Vos sorties dépendent de la décision de votre médecin, indiquée sur votre avis d'arrêt de travail pour maladie.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-04-27",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F12415",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Maladie ou accident du travail dans le secteur privé",
+    "Un salarié en arrêt maladie peut-il sortir de son domicile ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "Quelles sont les règles lorsque les sorties sont autorisées à horaires fixes ?",
+      "contenu": [
+        "Si votre arrêt de travail prévoit des sorties autorisées avec restriction d’horaires, vous devez :",
+        "• Être présent à votre domicile de 9 h à 11 h et de 14 h à 16 h",
+        "• Respecter ces horaires tous les jours, y compris les week-ends et jours fériés",
+        "Vous pouvez vous absenter de votre domicile en dehors de ces horaires.",
+        "Toutefois, vous pouvez vous absenter pendant les plages horaires obligatoires si vous devez recevoir des soins ou passer des examens médicaux. Dans ce cas, vous devez être en mesure de justifier ces déplacements."
+      ]
+    },
+    {
+      "titre": "Que signifie une mention sortie libre sur l’arrêt de travail ?",
+      "contenu": [
+        "Lorsque votre arrêt de travail mentionne des sorties libres, vous pouvez sortir sans contrainte d’horaires.",
+        "Toutefois, même en cas de sorties libres, vous devez respecter les indications du médecin figurant sur l’arrêt de travail, notamment les éventuelles restrictions d’activité.",
+        "Cette autorisation doit être justifiée par votre état de santé. Le médecin indique les éléments médicaux correspondants sur l’arrêt de travail.",
+        "Le médecin peut également préciser si vous êtes autorisé à exercer certaines activités pendant cette période."
+      ]
+    },
+    {
+      "titre": "Un salarié en arrêt maladie peut‑il quitter temporairement son domicile ou séjourner ailleurs ?",
+      "contenu": [
+        "Si vous prévoyez de résider momentanément à une autre adresse pendant votre arrêt de travail pour maladie, vous devez l’indiquer sur le volet 1 de l’avis d'arrêt de travail remis par votre médecin, puis l’envoyer à votre caisse d’assurance maladie. Si votre médecin transmet en ligne les volets 1 et 2 de votre avis d'arrêt de travail, directement via son ordinateur, il vous suffit de lui demander de l’indiquer.",
+        "C’est à cette adresse que le service du contrôle médical peut vous adresser une convocation. Quel que soit votre lieu de résidence, vous devez être en mesure de vous soumettre aux contrôles organisés par le service médical."
+      ]
+    },
+    {
+      "titre": "Un salarié en arrêt maladie peut-il partir à l'étranger ?",
+      "contenu": [
+        "Un départ à l’étranger peut vous empêcher de continuer à percevoir vos indemnités journalières.",
+        "La perception de vos indemnités journalières dépend du pays dans lequel vous vous rendez et peut être soumise à une autorisation préalable de votre caisse d’assurance maladie.",
+        "Vous devez vous rapprocher de votre caisse pour en connaître les conditions.",
+        "Vous pouvez consulter le site du Centre des liaisons européennes et internationales de sécurité sociale (Cleiss)."
+      ]
+    },
+    {
+      "titre": "Quels sont les risques si le salarié ne respecte pas ses obligations liés à l'arrêt de travail ?",
+      "contenu": [
+        "Si vous ne respectez pas les obligations liées à votre arrêt de travail, vous risquez :",
+        "• la suspension ou la suppression des indemnités journalières,",
+        "• une sanction financière,",
+        "• une sanction de votre employeur.",
+        "En cas de fraude, vous pouvez être amené à rembourser les indemnités perçues."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la sécurité sociale : articles L323-1 à L323-7",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000006156085/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles R323-1 à R323-12",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006156609/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Caisse primaire d'assurance maladie (CPAM)",
+    "Mutualité sociale agricole (MSA)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Vous partez à l'étranger pour vous faire soigner",
+      "url": "https://www.cleiss.fr/particuliers/partir/soins/index.html"
+    }
+  ],
+  "slug": "un-salarie-en-arret-maladie-peut-il-sortir-de-son-domicile",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "maladie-ou-accident-du-travail-dans-le-secteur-prive",
+      "titre": "Maladie ou accident du travail dans le secteur privé"
+    }
+  ]
+}

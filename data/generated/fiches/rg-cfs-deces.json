@@ -1,0 +1,27 @@
+{
+  "id": "F37096",
+  "type_publication": "Recherche guidée",
+  "titre": "RG CFS Décès",
+  "theme": "",
+  "description": "RG CFS Décès",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2023-09-20",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F37096",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "RG CFS Décès"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "rg-cfs-deces",
+  "path": [
+    {
+      "slug": "rg-cfs-deces",
+      "titre": "RG CFS Décès"
+    }
+  ]
+}

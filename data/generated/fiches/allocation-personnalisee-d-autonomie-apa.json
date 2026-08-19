@@ -1,0 +1,183 @@
+{
+  "id": "F10009",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Allocation personnalisée d'autonomie (Apa)",
+  "theme": "Social - Santé",
+  "description": "L'Apa sert à payer (en tout ou partie), soit les frais pour vivre à domicile, soit le tarif dépendance de l'établissement médico-social (Apa en établissement).",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-06-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F10009",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Allocations et aides aux personnes âgées",
+    "Allocation personnalisée d'autonomie (Apa)"
+  ],
+  "introduction": "Vous pouvez, sous conditions d'âge, de résidence et de perte d'autonomie, obtenir l'Apa. L'Apa sert à payer (en totalité ou en partie) soit les dépenses nécessaires pour rester à votre domicile (Apa à domicile), soit le tarif dépendance de l'établissement médico-social (exemple : Ehpad) où vous vivez (Apa en établissement). Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les règles sont différentes, selon que vous faites une demande d'Apa à domicile ou une demande d'Apa en établissement :"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'action sociale et des familles : articles L232-1 et L232-11",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074069/LEGISCTA000006174428/"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : articles R232-1 à R232-6",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074069/LEGISCTA000006190052/"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : articles R232-7 à R232-9",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074069/LEGISCTA000006196008/"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : articles L232-12 à L232-20",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074069/LEGISCTA000006174429/"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : article D232-9-1 et D232-9-2",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074069/LEGISCTA000032133603/"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : articles R232-10 à D232-11-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074069/LEGISCTA000006196009/"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : articles R232-18 et R232-19",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074069/LEGISCTA000006196007/"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : article L232-12 à L232-20",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074069/LEGISCTA000006174429/"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : articles L232-22 à L232-28",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074069/LEGISCTA000006174351/"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : articles R232-27 à R232-29",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074069/LEGISCTA000006190057/#LEGISCTA000006190057"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : articles R232-30 à R232-32",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074069/LEGISCTA000006196014/"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : annexe 2-3",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043588477"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : articles L134-1 à L134-2",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074069/LEGISCTA000033425308"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Comment faire une demande d’aides à l’autonomie à domicile selon son département de résidence ?",
+      "url": "https://www.pour-les-personnes-agees.gouv.fr/vivre-a-domicile/beneficier-daide-a-domicile/faire-une-demande-daides-a-lautonomie-a-domicile#anchor2",
+      "type": "Outil de recherche"
+    },
+    {
+      "titre": "Demande en ligne d’aides à l’autonomie à domicile pour les personnes âgées",
+      "url": "https://demande-autonomie.gouv.fr/?service=DUAPA&portail=3177&modeOuverture=onglet",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Demande d’aides à l’autonomie à domicile pour les personnes âgées",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_16301.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Demande d'Apa à Paris",
+      "url": "https://apa.paris.fr/portailAPA/",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Déclaration d'une allocation personnalisée d'autonomie",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_10544.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Annuaire des Éhpad, comparateur de prix et prestations des Éhpad, comparateur de reste à charge en Éhpad",
+      "url": "https://www.pour-les-personnes-agees.gouv.fr/annuaire-ehpad-et-comparateur-de-prix-et-restes-a-charge",
+      "type": "Outil de recherche"
+    }
+  ],
+  "contacts": [
+    "Point d'information local dédié aux personnes âgées"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Quelles différences entre la PCH et l'APA ?",
+      "url": "https://www.pour-les-personnes-agees.gouv.fr/vivre-a-domicile/aides-financieres/quelles-differences-entre-la-pch-et-lapa"
+    },
+    {
+      "titre": "Allocation personnalisée d'autonomie (facile à lire et à comprendre)",
+      "url": "https://www.pour-les-personnes-agees.gouv.fr/annuaires-et-services/facile-a-lire-et-a-comprendre/lapa-est-lallocation-personnalisee-dautonomie"
+    },
+    {
+      "titre": "APA : comment vos besoins sont évalués ?",
+      "url": "https://www.pour-les-personnes-agees.gouv.fr/preserver-son-autonomie/perte-d-autonomie-evaluation-et-droits/comment-les-besoins-sont-ils-evalues"
+    },
+    {
+      "titre": "L'Apa à domicile (facile à lire et à comprendre)",
+      "url": "https://www.pour-les-personnes-agees.gouv.fr/annuaires-et-services/facile-a-lire-et-a-comprendre/lapa-a-domicile"
+    },
+    {
+      "titre": "L'Apa en établissement (facile à lire et à comprendre)",
+      "url": "https://www.pour-les-personnes-agees.gouv.fr/annuaires-et-services/facile-a-lire-et-a-comprendre/lapa-en-etablissement"
+    },
+    {
+      "titre": "Comment est calculé votre Gir ? (facile à lire et à comprendre)",
+      "url": "https://www.pour-les-personnes-agees.gouv.fr/annuaires-et-services/facile-a-lire-et-a-comprendre/comment-votre-gir-est-il-calcule"
+    },
+    {
+      "titre": "Grille nationale AGGIR et son guide de remplissage",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034696537/"
+    },
+    {
+      "titre": "J'ai besoin d'être aidé à domicile. Comment faire ? (facile à lire et à comprendre)",
+      "url": "https://www.pour-les-personnes-agees.gouv.fr/annuaires-et-services/facile-a-lire-et-a-comprendre/jai-besoin-detre-aide-a-domicile-comment-faire"
+    },
+    {
+      "titre": "Partir en vacances malgré la perte d'autonomie",
+      "url": "https://www.pour-les-personnes-agees.gouv.fr/solutions-pour-les-aidants/partir-en-vacances/partir-en-vacances-malgre-la-perte-d-autonomie"
+    },
+    {
+      "titre": "Impôt sur le revenu : faut-il déclarer l'APA ?",
+      "url": "https://www.pour-les-personnes-agees.gouv.fr/actualites/impot-sur-le-revenu-faut-il-declarer-lapa"
+    },
+    {
+      "titre": "Visite d'évaluation à domicile : deux référentes APA expliquent son déroulement",
+      "url": "https://www.pour-les-personnes-agees.gouv.fr/preserver-son-autonomie/perte-d-autonomie-evaluation-et-droits/visite-d-evaluation-a-domicile-deux-referentes-apa-expliquent-son-deroulement"
+    },
+    {
+      "titre": "Quelles sont les aides des caisses de retraite ?",
+      "url": "https://www.pour-les-personnes-agees.gouv.fr/beneficier-daides/les-aides-domicile/les-aides-des-caisses-de-retraite"
+    },
+    {
+      "titre": "Comprendre sa facture en Ehpad",
+      "url": "https://www.pour-les-personnes-agees.gouv.fr/vivre-dans-un-ehpad/quels-couts/comprendre-sa-facture-en-ehpad"
+    },
+    {
+      "titre": "Les aides au logement pour les personnes âgées en Ehpad",
+      "url": "https://www.pour-les-personnes-agees.gouv.fr/vivre-dans-un-ehpad/aides-financieres-en-ehpad/les-aides-au-logement-en-ehpad"
+    }
+  ],
+  "slug": "allocation-personnalisee-d-autonomie-apa",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "allocations-et-aides-aux-personnes-agees",
+      "titre": "Allocations et aides aux personnes âgées"
+    }
+  ]
+}

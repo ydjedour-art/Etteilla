@@ -1,0 +1,33 @@
+{
+  "id": "F31576",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Qu'est-ce qu'une clause de mobilité dans le contrat de travail d’un salarié ?",
+  "theme": "Travail - Formation",
+  "description": "Une clause de mobilité est une disposition prévoyant que le salarié accepte la modification de son lieu de travail.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-02-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31576",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Contrats de travail dans le secteur privé",
+    "Qu'est-ce qu'une clause de mobilité dans le contrat de travail d’un salarié ?"
+  ],
+  "introduction": "Une clause de mobilité est une disposition qui prévoit que le salarié accepte la modification de son lieu de travail. La clause de mobilité n’est pas encadrée par le code du travail. Toutefois, si elle est mise en place, elle doit être prévue dans le contrat de travail du salarié ou dans la convention collective dont dépend le salarié. Des conditions particulières s'appliquent pour le salarié protégé. Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "qu-est-ce-qu-une-clause-de-mobilite-dans-le-contrat-de-travail-d-un-salarie",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "contrats-de-travail-dans-le-secteur-prive",
+      "titre": "Contrats de travail dans le secteur privé"
+    }
+  ]
+}

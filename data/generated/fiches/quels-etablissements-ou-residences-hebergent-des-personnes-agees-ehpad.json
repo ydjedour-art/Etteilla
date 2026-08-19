@@ -1,0 +1,100 @@
+{
+  "id": "F255",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quels établissements ou résidences hébergent des personnes âgées (Ehpad...) ?",
+  "theme": "Social - Santé",
+  "description": "Il existe plusieurs types d'établissement pour personnes âgées. Ils sont plus ou moins médicalisés, selon l'autonomie des personnes âgées accueillies.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2024-11-08",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F255",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Hébergement des personnes âgées",
+    "Quels établissements ou résidences hébergent des personnes âgées (Ehpad...) ?"
+  ],
+  "introduction": "Il existe plusieurs types d'établissement pour personnes âgées. Ces établissements sont plus ou moins médicalisés, selon qu'ils sont destinés à héberger des personnes âgées autonomes ou dépendantes ou très dépendantes. Lorsque les ressources de la personne âgée sont insuffisantes, certains frais peuvent être pris en charge par le département. Nous vous expliquons.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Personne âgée autonome",
+        "Elle peut être accueillie en résidence services seniors (RSS) dans un ensemble hôtelier, ou en résidence autonomie (appelé auparavant logement-foyer).",
+        "Il s'agit de résidences non médicalisées.",
+        "La personne âgée y loue une chambre ou un appartement.",
+        "Elle y bénéficie d'équipements et de prestations collectives (blanchisserie, restauration, services ménagers...).",
+        "Il est possible de prendre connaissance des coordonnées, prestations et prix des résidences autonomie à l'aide de ce téléservice :",
+        "Annuaire des Éhpad et comparateur de prix et restes à charge",
+        "[À savoir] Les frais d'hébergement en résidence autonomie peuvent être pris en charge par le département en cas de ressources insuffisantes.",
+        "Personne âgée dépendante",
+        "Elle peut être accueillie en établissement d'hébergement pour personnes âgées dépendantes (Éhpad).",
+        "Il s'agit d'un établissement médicalisé.",
+        "La personne âgée est logée en chambre individuelle ou collective.",
+        "Elle y reçoit des soins médicaux.",
+        "Elle a accès à des équipements et des prestations collectives (par exemple, blanchisserie, restauration, animation).",
+        "[À savoir] En cas de ressources insuffisantes, certains frais (frais d'hébergement) peuvent être pris en charge par le département.",
+        "Pour être admise en Éhpad, la personne doit avoir 60 ans ou plus, mais certains départements accordent des dérogations pour les moins de 60 ans.",
+        "Il est possible de rechercher un Ehpad à l'aide de ce téléservice :",
+        "Annuaire des Éhpad, comparateur de prix et prestations des Éhpad, comparateur de reste à charge en Éhpad",
+        "[À noter] Certaines caisses de retraite complémentaire disposent de places réservées à leurs retraités dans des Éhpad. Il faut contacter la caisse de retraite de la personne âgée pour savoir si tel est le cas.",
+        "Personne âgée très dépendante",
+        "Elle peut être accueillie en établissement de soins de longue durée (appelé auparavant USLD).",
+        "Ces établissements sont généralement adossés à un hôpital.",
+        "Ils accueillent en majorité des personnes âgées de plus de 60 ans, en général à la suite d'une hospitalisation.",
+        "Les personnes sont hébergées en chambre individuelle avec des soins médicaux et une surveillance constante.",
+        "Les moyens médicaux mis en œuvre sont plus importants que dans les établissements d'hébergement pour personnes âgées dépendantes (Éhpad).",
+        "[À savoir] En cas de ressources insuffisantes, les frais d'hébergement peuvent être pris en charge par le département.",
+        "Il est possible de rechercher un établissement de soins de longue durée à l'aide de ce téléservice :",
+        "Annuaire des Éhpad, comparateur de prix et prestations des Éhpad, comparateur de reste à charge en Éhpad"
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [
+    {
+      "titre": "Annuaire des Éhpad, comparateur de prix et prestations des Éhpad, comparateur de reste à charge en Éhpad",
+      "url": "https://www.pour-les-personnes-agees.gouv.fr/annuaire-ehpad-et-comparateur-de-prix-et-restes-a-charge",
+      "type": "Outil de recherche"
+    }
+  ],
+  "contacts": [
+    "Point d'information local dédié aux personnes âgées"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Les résidences autonomie, pour qui ?",
+      "url": "https://www.pour-les-personnes-agees.gouv.fr/changer-de-logement/vivre-dans-une-residence-avec-services-pour-seniors/les-residences-autonomie-pour-qui"
+    },
+    {
+      "titre": "Les résidences services, pour qui ?",
+      "url": "https://www.pour-les-personnes-agees.gouv.fr/choisir-un-hebergement/vivre-dans-un-logement-independant-et-beneficier-de-services/les-residences"
+    },
+    {
+      "titre": "Choisir une maison de retraite ou une résidence pour personnes âgées",
+      "url": "http://www.pour-les-personnes-agees.gouv.fr/choisir-un-hebergement/choisir-une-maison-de-retraite-ou-une-residence-pour-personnes-agees"
+    },
+    {
+      "titre": "Les USLD (unités de soins de longue durée)",
+      "url": "https://www.pour-les-personnes-agees.gouv.fr/vivre-dans-un-ehpad/les-differents-etablissements-medicalises/les-usld-unites-de-soins-de-longue-duree"
+    },
+    {
+      "titre": "Site de la Fédération nationale des maisons d'accueil rurales pour personnes âgées",
+      "url": "http://www.marpa.fr/"
+    },
+    {
+      "titre": "Quelles garanties sont demandées pour entrer en Ehpad ?",
+      "url": "https://www.pour-les-personnes-agees.gouv.fr/choisir-un-hebergement/vivre-dans-un-etablissement-medicalise/quelle-garanties-demandees-pour-entrer-en-ehpad"
+    }
+  ],
+  "slug": "quels-etablissements-ou-residences-hebergent-des-personnes-agees-ehpad",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "hebergement-des-personnes-agees",
+      "titre": "Hébergement des personnes âgées"
+    }
+  ]
+}

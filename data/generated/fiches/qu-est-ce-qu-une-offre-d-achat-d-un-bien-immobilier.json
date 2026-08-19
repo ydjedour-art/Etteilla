@@ -1,0 +1,104 @@
+{
+  "id": "F2753",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Qu'est-ce qu'une offre d'achat d'un bien immobilier ?",
+  "theme": "Logement",
+  "description": "Après avoir visité un bien immobilier, le candidat acheteur peut faire une proposition d'achat au vendeur, appelée offre d'achat.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-05-23",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2753",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Achat ou vente d'un logement",
+    "Qu'est-ce qu'une offre d'achat d'un bien immobilier ?"
+  ],
+  "introduction": "Si vous êtes intéressé par un bien immobilier que vous venez de visiter, vous pouvez soumettre au vendeur une offre d'achat dans laquelle vous exprimez votre intention d'acheter à des conditions que vous fixez vous-même. Ce n'est pas une démarche obligatoire. Nous faisons le point sur l'offre d'achat.",
+  "chapitres": [
+    {
+      "titre": "Comment faire une offre d'achat pour un bien immobilier ?",
+      "contenu": [
+        "L'offre d'achat prend en général la forme d'une lettre que vous envoyez au vendeur ou à l'agent immobilier par courrier RAR ou par mail.",
+        "Elle doit être ferme, c'est-à-dire que vous devez exprimer votre volonté d'acheter le bien en cas d'acceptation de l'offre par le vendeur.",
+        "L'offre contient au moins les informations suivantes :",
+        "• Désignation du bien",
+        "• Superficie du bien",
+        "• Date de l'offre",
+        "• Prix fixé par l'acheteur",
+        "• Durée de validité de l'offre.",
+        "Pour permettre au vendeur de prendre plus facilement sa décision, vous pouvez ajouter les informations suivantes :",
+        "• Plan de financement (apport personnel, prêts, prêt relais, vente d'un bien pour financer l'achat...)",
+        "• Vente sous la condition suspensive de l’obtention d’un crédit immobilier",
+        "• Montant du dépôt de garantie remis au notaire à la signature du compromis de vente",
+        "• Vente sous la condition suspensive d'obtention d'une autorisation d'urbanisme",
+        "• Date d'entrée dans les lieux souhaitée.",
+        "[Attention] Pour rédiger une offre d'achat, vous devez avoir la capacité juridique de signer un contrat (le futur acte de vente). Si ce n'est pas le cas, l'offre n'est pas valable."
+      ]
+    },
+    {
+      "titre": "Quelle est la durée de validité d'une offre d'achat d'un bien immobilier ?",
+      "contenu": [
+        "La durée de validité de l'offre est en général de quelques jours (1 à 2 semaines).",
+        "Passé ce délai, si le vendeur n'a pas accepté l'offre, elle est « caduque » (elle n'est plus valable).",
+        "[Attention] Si vous n'avez pas indiqué la durée de votre proposition d'achat, elle sera déterminée par le juge en cas de litige."
+      ]
+    },
+    {
+      "titre": "Doit-on verser une somme d'argent au vendeur pour bloquer l'offre d'achat d'un bien immobilier ?",
+      "contenu": [
+        "Il est interdit de verser un acompte au vendeur.",
+        "Le versement d'une somme d'argent rend l'offre d'achat nulle."
+      ]
+    },
+    {
+      "titre": "Peut-on se rétracter après avoir signé une offre d'achat d'un bien immobilier ?",
+      "contenu": [
+        "Vous pouvez vous rétracter, c'est-à-dire revenir sur votre décision, tant que le vendeur n'a pas reçu votre offre.",
+        "Vous pourrez vous rétracter après la signature du compromis de vente, dans un délai de 10 jours calendaires.",
+        "[À noter] Le droit de rétractation ne s'applique pas au vendeur. Quand il a accepté l’offre d’achat, il a l’obligation de céder son bien à l’acheteur."
+      ]
+    },
+    {
+      "titre": "Quelle peut être la réponse du vendeur à une offre d'achat immobilier ?",
+      "contenu": [
+        "Le vendeur doit répondre par écrit à votre offre d'achat, de préférence par lettre RAR.",
+        "Pendant sa durée de validité, le vendeur a plusieurs possibilités :",
+        "• Accepter les conditions de votre offre (avec la mention « bon pour accord » et sa signature sur l'offre d'achat)",
+        "• Faire une contre-proposition écrite, c'est-à-dire une nouvelle offre qui rend l'offre initiale « caduque » (elle n'est plus valable)",
+        "• Ne pas répondre. L'offre est alors caduque.",
+        "Quand le vendeur accepte une offre d'achat, il s'engage à vous vendre le bien et il ne peut plus changer d'avis. Il doit arrêter de faire visiter le bien à d'autres candidats acquéreurs.",
+        "En cas de refus de vente, l'acquéreur peut saisir le juge pour demander l'exécution forcée de la vente. L'acheteur peut également demander des dommages et intérêts."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : articles 1113 à 1122",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032007103"
+    },
+    {
+      "titre": "Code civil : article 1583",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006441308/"
+    },
+    {
+      "titre": "Code civil : article 1589-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006441325"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "qu-est-ce-qu-une-offre-d-achat-d-un-bien-immobilier",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "achat-ou-vente-d-un-logement",
+      "titre": "Achat ou vente d'un logement"
+    }
+  ]
+}

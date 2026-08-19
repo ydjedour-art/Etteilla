@@ -1,0 +1,33 @@
+{
+  "id": "F37178",
+  "type_publication": "Recherche guidée",
+  "titre": "[Chasse - demande duplicata]",
+  "theme": "Loisirs - Sports - Culture",
+  "description": "[Chasse - demande duplicata]",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2026-01-27",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F37178",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Loisirs - Sports - Culture",
+    "Chasse",
+    "[Chasse - demande duplicata]"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "chasse-demande-duplicata",
+  "path": [
+    {
+      "slug": "loisirs-sports-culture",
+      "titre": "Loisirs - Sports - Culture"
+    },
+    {
+      "slug": "chasse",
+      "titre": "Chasse"
+    }
+  ]
+}

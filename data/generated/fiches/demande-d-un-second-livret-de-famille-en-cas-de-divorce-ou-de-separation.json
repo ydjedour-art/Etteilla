@@ -1,0 +1,121 @@
+{
+  "id": "F11996",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Demande d'un second livret de famille en cas de divorce ou de séparation",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Pour obtenir un 2e livret de famille en cas de divorce ou séparation, vous devez vous adresser à votre mairie ou auprès du consulat si vous vivez à l'étranger.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-21",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F11996",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Livret de famille",
+    "Demande d'un second livret de famille en cas de divorce ou de séparation"
+  ],
+  "introduction": "En cas de divorce ou de séparation, chaque époux ou parent peut demander un second livret de famille. Ce livret peut être nécessaire pour effectuer certaines démarches administratives, comme l'inscription scolaire des enfants ou une demande de prestation familiale. Vous voulez savoir comment obtenir un 2e livret de famille ? Voici les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Qui peut faire la demande d'un second livret de famille en cas de divorce ou de séparation ?",
+      "contenu": [
+        "Vous pouvez demander un second livret de famille si vous êtes divorcé ou séparé et que vous n'êtes pas en possession du livret original."
+      ]
+    },
+    {
+      "titre": "Quand faire la demande de second livret de famille en cas de divorce ou de séparation ?",
+      "contenu": [
+        "Une fois divorcé ou séparé, la demande peut se faire à tout moment."
+      ]
+    },
+    {
+      "titre": "Comment faire la demande de second livret de famille en cas de divorce ou de séparation ?",
+      "contenu": [
+        "La démarche varie selon votre lieu de résidence :",
+        "Cas général",
+        "Vous devez vous adresser à la mairie où vous résidez.",
+        "Mairie",
+        "À Paris",
+        "Vous devez remplir le formulaire suivant :",
+        "Demande d'un second livret de famille (personne vivant à Paris uniquement)",
+        "Vous devez ensuite l'adresser à votre mairie.",
+        "Mairie",
+        "À l'étranger",
+        "Vous devez vous adresser aux autorités consulaires françaises de votre pays de résidence.",
+        "Ambassade ou consulat français à l'étranger"
+      ]
+    },
+    {
+      "titre": "Quels sont les documents à joindre à la demande de second livret de famille en cas de divorce ou de séparation ?",
+      "contenu": [
+        "Les documents diffèrent selon votre situation, à savoir si vous étiez mariés, pacsés ou concubins :",
+        "Vous étiez mariés",
+        "Vous devez présenter votre pièce d'identité.",
+        "Vous devez fournir un justificatif du divorce ou de la séparation de corps (décision judiciaire, convention judiciaire homologuée, convention de divorce ou de séparation de corps par consentement mutuel).",
+        "Si vous pouvez présenter le 1er livret de famille, le 2nd livret est établi par reproduction du précédent.",
+        "Sinon, l'officier d'état civil fournit un nouveau livret et y inscrit les extraits des actes dont il est en possession. Il adresse ensuite le nouveau livret aux mairies éventuellement détentrices d'actes devant figurer dans le livret.",
+        "Vous étiez pacsés ou concubins",
+        "Vous devez présenter votre pièce d'identité.",
+        "Vous devez expliquer votre intérêt à posséder votre propre livret pour justifier votre demande (séparation de fait, mésentente,...).",
+        "Vous devez présenter un justificatif (domiciles séparés, attestations de témoins, attestation de l'autre parent,...).",
+        "Si vous pouvez présenter le 1er livret de famille, le 2nd livret est établi par reproduction du précédent.",
+        "Sinon, l'officier d'état civil fournit un nouveau livret et y inscrit les extraits des actes dont il est en possession. Il adresse ensuite le nouveau livret aux mairies éventuellement détentrices d'actes devant figurer dans le livret."
+      ]
+    },
+    {
+      "titre": "La délivrance d'un second livret de famille en cas de séparation est-elle gratuite ?",
+      "contenu": [
+        "La délivrance d'un 2nd livret est gratuite."
+      ]
+    },
+    {
+      "titre": "Quel est le délai pour obtenir un second livret de famille en cas de séparation ?",
+      "contenu": [
+        "Le délai dépend de la durée de traitement par chaque mairie concernée par le livret (mairie du mariage ou mairies de naissance des parents et mairies de naissance des enfants).",
+        "Il faut ajouter les délais d'acheminement du courrier.",
+        "Vous pouvez retirer le livret de famille auprès de la mairie ou du consulat où vous avez effectué votre demande.",
+        "Vous devrez présenter votre pièce d'identité."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Décret n°74-449 du 15 mai 1974 relatif au livret de famille et à l'information des futurs époux sur le droit de la famille",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000328986/"
+    },
+    {
+      "titre": "Arrêté du 1er juin 2006 fixant le modèle de livret de famille",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006053798/"
+    },
+    {
+      "titre": "Circulaire de présentation de l’ordonnance n° 759-2005 du 4 juillet 2005 portant réforme de la filiation",
+      "url": "https://www.justice.gouv.fr/sites/default/files/2025-02/circulaire_filiation_2006.pdf"
+    },
+    {
+      "titre": "Circulaire du 23 juillet 2014 relative à l'état civil",
+      "url": "https://www.legifrance.gouv.fr/circulaire/id/38565"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demande d'un second livret de famille (personne vivant à Paris uniquement)",
+      "url": "https://cdn.paris.fr/paris/2020/02/12/a486ec71ab0c563e711d5baeeff8be27.pdf",
+      "type": "formulaireNG"
+    }
+  ],
+  "contacts": [
+    "Mairie",
+    "Ambassade ou consulat français à l'étranger"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "demande-d-un-second-livret-de-famille-en-cas-de-divorce-ou-de-separation",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "livret-de-famille",
+      "titre": "Livret de famille"
+    }
+  ]
+}

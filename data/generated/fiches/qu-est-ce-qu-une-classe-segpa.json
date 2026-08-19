@@ -1,0 +1,109 @@
+{
+  "id": "F32752",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Qu'est-ce qu'une classe Segpa ?",
+  "theme": "Famille - Scolarité",
+  "description": "Une classe Segpa accueille les jeunes ne maîtrisant pas toutes les connaissances et compétences attendues en fin de primaire.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-12-08",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F32752",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Collège et lycée",
+    "Qu'est-ce qu'une classe Segpa ?"
+  ],
+  "introduction": "Si votre enfant présente des difficultés scolaires graves et durables, la classe de Segpa peut être une solution pour adapter sa scolarité au collège. Voici les informations à connaître sur le dispositif.",
+  "chapitres": [
+    {
+      "titre": "Comment fonctionne une classe Segpa ?",
+      "contenu": [
+        "Une classe Segpa accueille les jeunes de la 6e à la 3e présentant des difficultés scolaires importantes. Il s'agit de difficultés ne pouvant pas être résolues par des actions d'aide scolaire et de soutien.",
+        "La classe est intégrée dans un collège. Elle regroupe un petit groupe d'élèves (16 maximum) pour individualiser le parcours de chacun.",
+        "La Segpa doit permettre à votre enfant d'accéder à une formation professionnelle diplômante ou à la poursuite de ses études après la 3e."
+      ]
+    },
+    {
+      "titre": "À quel moment peut-on intégrer une classe Segpa ?",
+      "contenu": [
+        "Orientation après le CM2",
+        "En fin de CM1, si votre enfant rencontre de graves difficultés scolaires, l'équipe pédagogique peut vous proposer d'adapter sa scolarité pour l'année de CM2. Cela passe notamment par des actions de prévention, d'aide et de soutien individualisé.",
+        "Si les difficultés scolaires ne sont pas résolues pendant l'année de CM2, le conseil des maîtres peut vous proposer une orientation en classe Segpa. Dans ce cas, le conseil des maîtres vous reçoit pour vous présenter le dispositif.",
+        "Vous pouvez décider d'accepter ou de refuser l'orientation en Segpa. Si vous refusez la proposition, votre enfant est affecté en 6e ordinaire.",
+        "Orientation au cours de scolarité au collège",
+        "En fin d'année de 6e, le conseil de classe peut estimer que les difficultés scolaires de votre enfant sont trop importantes pour être résolues avec un dispositif d'aide.",
+        "Dans ce cas, avant le conseil de classe du deuxième trimestre, le chef d'établissement vous informe de l'éventualité d'une orientation en Segpa et vous présente le dispositif.",
+        "Une orientation en classe Segpa peut vous être proposée par le conseil de classe du deuxième trimestre.",
+        "Vous pouvez décider de l'accepter ou de la refuser. Si vous refusez la proposition, votre enfant est affecté en 5e ordinaire. Il bénéficiera d'un accompagnement pédagogique particulier.",
+        "Exceptionnellement, votre enfant peut aussi entrer en Segpa en classe de 4e.",
+        "[À noter] Votre enfant peut également être scolarisé en Segpa s'il bénéficie d'un projet personnalisé de scolarisation (PPS). La CDAPH doit avoir pris une décision d'orientation en ce sens."
+      ]
+    },
+    {
+      "titre": "Comment se déroule la scolarité en classe Segpa ?",
+      "contenu": [
+        "La Segpa permet à votre enfant de suivre des enseignements adaptés à ses difficultés. Il bénéficie d'un suivi individualisé.",
+        "Les élèves suivent les mêmes programmes d'enseignement que leurs camarades de section générale, mais avec des adaptations et des aménagements.",
+        "Les enseignements généraux sont assurés par des professeurs des écoles, de collège ou de lycée. Des professeurs de lycée professionnel sont chargés de l'enseignement professionnel.",
+        "Pendant sa scolarité, votre enfant effectue des stages en entreprise (en 4e et en 3e).",
+        "La formation doit lui permettre d'acquérir le socle commun de connaissances et de compétences et de se présenter en fin de collège au diplôme national du brevet (DNB)."
+      ]
+    },
+    {
+      "titre": "Quelle orientation peut-on suivre après la classe Segpa ?",
+      "contenu": [
+        "En fin d'année de 3e, votre enfant passe le certificat de formation générale (CFG) ou le diplôme national du brevet (DNB).",
+        "Après le collège, votre enfant doit pouvoir accéder à une formation, au minimum du niveau d'un certificat d'aptitude professionnelle (CAP).",
+        "Il peut donc poursuivre sa formation en lycée professionnel ou en centre de formation d'apprentis (CFA)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'éducation : article L332-4",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038902160/"
+    },
+    {
+      "titre": "Code de l'éducation : article D332-7",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038348668/"
+    },
+    {
+      "titre": "Code de l'éducation : articles L351-1 à L351-4",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006166743"
+    },
+    {
+      "titre": "Circulaire n°2015-176 du 28 octobre 2015 relative aux sections d'enseignement général et professionnel adapté",
+      "url": "https://www.education.gouv.fr/bo/15/Hebdo40/MENE1525057C.htm"
+    },
+    {
+      "titre": "Arrêté du 21 octobre 2015 relatif aux classes des sections d'enseignement général et professionnel adapté",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000031360088/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Établissement scolaire",
+    "Direction des services départementaux de l'Éducation nationale"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Sections d'enseignement général et professionnel adapté (Segpa)",
+      "url": "http://eduscol.education.fr/cid46765/sections-d-enseignement-general-et-professionnel-adapte.html"
+    },
+    {
+      "titre": "Socle commun de connaissances, de compétences et de culture",
+      "url": "https://www.education.gouv.fr/le-socle-commun-de-connaissances-de-competences-et-de-culture-12512"
+    }
+  ],
+  "slug": "qu-est-ce-qu-une-classe-segpa",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "college-et-lycee",
+      "titre": "Collège et lycée"
+    }
+  ]
+}

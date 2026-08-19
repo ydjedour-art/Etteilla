@@ -1,0 +1,57 @@
+{
+  "id": "F34101",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Un mineur peut-il créer et gérer une association ou en devenir membre ?",
+  "theme": "Associations, fondations et fonds de dotation",
+  "description": "Oui. Mais sous des conditions qui varient selon son âge. En Alsace-Moselle, un mineur peut, quel que soit son âge, créer ou adhérer à une association.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-08-07",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34101",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Associations, fondations et fonds de dotation",
+    "Création d'une association",
+    "Un mineur peut-il créer et gérer une association ou en devenir membre ?"
+  ],
+  "introduction": "La possibilité de créer, d'administrer ou de devenir membre d'une association va dépendre du fait que vous ayez plus ou moins de 16 ans. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "[Attention] Les règles décrites ne s'appliquent pas en Alsace-Moselle où vous pouvez, quel que soit votre âge, créer, administrer ou devenir membre d'une association."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Loi du 1er juillet 1901 relative au contrat d'association",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006069570/"
+    },
+    {
+      "titre": "Décret n°2017-1057 du 9 mai 2017 relatif à l'information des représentants légaux du mineur participant à la constitution ou à l'administration d'une association",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000034679922/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Modèle de courrier d'information aux parents d'un mineur d'au moins 16 ans trésorier d'une association",
+      "url": "https://www.associations.gouv.fr/IMG/doc/courrier_type_info_parents.doc",
+      "type": "Modèle de document"
+    }
+  ],
+  "contacts": [
+    "Point ressource à la vie associative"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "un-mineur-peut-il-creer-et-gerer-une-association-ou-en-devenir-membre",
+  "path": [
+    {
+      "slug": "associations-fondations-et-fonds-de-dotation",
+      "titre": "Associations, fondations et fonds de dotation"
+    },
+    {
+      "slug": "creation-d-une-association",
+      "titre": "Création d'une association"
+    }
+  ]
+}

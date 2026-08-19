@@ -1,0 +1,82 @@
+{
+  "id": "F20583",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Le parent doit-il fournir un certificat médical à l'école si son enfant est malade ?",
+  "theme": "Famille - Scolarité",
+  "description": "Vous devez fournir un certificat médical seulement en cas de maladie contagieuse.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-06-12",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F20583",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "École primaire (maternelle et élémentaire)",
+    "Le parent doit-il fournir un certificat médical à l'école si son enfant est malade ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Vous devez fournir un certificat médical seulement si votre enfant a une maladie contagieuse.",
+        "Il s'agit des maladies suivantes :",
+        "• Coqueluche",
+        "• Diphtérie",
+        "• Méningite à méningocoque",
+        "• Poliomyélite",
+        "• Rougeole, oreillons, rubéole",
+        "• Infections à streptocoques hémolytiques du groupe A",
+        "• Fièvres typhoïde et paratyphoïdes",
+        "• Teignes",
+        "• Tuberculose respiratoire",
+        "• Pédiculose (sauf en cas de traitement)",
+        "• Dysenterie amibienne ou bacillaire",
+        "• Gale",
+        "• Syndrome grippal épidémique",
+        "• Hépatite A",
+        "• Impétigo (et autres pyodermites)",
+        "• Varicelle.",
+        "Si votre enfant a une maladie contagieuse, vous devez fournir le certificat médical à l'établissement scolaire dès le retour en classe de votre enfant."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Circulaire n°2004-054 du 23 mars 2004 relative au contrôle et à la promotion de l'assiduité des élèves soumis à l'obligation scolaire",
+      "url": "https://www.education.gouv.fr/bo/2004/14/MENE0400620C.htm"
+    },
+    {
+      "titre": "Arrêté du 3 mai 1989 relatif aux durées et conditions d'éviction à prendre cas de maladies contagieuses",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000705286/"
+    },
+    {
+      "titre": "Guide pratique : collectivité de jeunes enfants et maladies infectieuses",
+      "url": "https://www.ameli.fr/sites/default/files/Documents/4900/document/collectivites-maladies-infectieuses_assurance-maladie.pdf"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Savoir quand fournir un certificat médical pour un enfant en crèche, à l'école, au collège ou au lycée",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/certificatMedical_Creche_Ecole",
+      "type": "simulateurNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Élèves malades : l'accueil à l'école",
+      "url": "https://www.education.gouv.fr/eleves-malades-l-accueil-l-ecole-2615"
+    }
+  ],
+  "slug": "le-parent-doit-il-fournir-un-certificat-medical-a-l-ecole-si-son-enfant-est-malade",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "ecole-primaire-maternelle-et-elementaire",
+      "titre": "École primaire (maternelle et élémentaire)"
+    }
+  ]
+}

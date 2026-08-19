@@ -1,0 +1,33 @@
+{
+  "id": "F34913",
+  "type_publication": "Recherche guidée",
+  "titre": "Déclarer des revenus financiers",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Déclarer des revenus financiers",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2026-03-12",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34913",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Impôt sur le revenu : déclaration et revenus à déclarer",
+    "Déclarer des revenus financiers"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "declarer-des-revenus-financiers",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "impot-sur-le-revenu-declaration-et-revenus-a-declarer",
+      "titre": "Impôt sur le revenu : déclaration et revenus à déclarer"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": "F24249",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Que doit faire l'employeur en cas de décès d'un salarié ?",
+  "theme": "Travail - Formation",
+  "description": "Le décès du salarié entraîne la rupture automatique du contrat de travail.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-12-11",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F24249",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Conditions de travail dans le secteur privé",
+    "Que doit faire l'employeur en cas de décès d'un salarié ?"
+  ],
+  "introduction": "Le décès d'un salarié entraine certaines conséquences sur le contrat de travail et sur les obligations de l’employeur. Nous faisons le point sur la réglementation.",
+  "chapitres": [
+    {
+      "titre": "Quelle est la conséquence du décès d'un salarié sur son contrat de travail ?",
+      "contenu": [
+        "Le décès du salarié est un cas de force majeure. Le contrat est rompu automatiquement du fait du décès.",
+        "L'employeur n'a pas de procédure particulière à suivre."
+      ]
+    },
+    {
+      "titre": "Quelles sont les obligations de l'employeur en cas de décès d'un salarié ?",
+      "contenu": [
+        "Les obligations de l'employeur diffèrent selon que le décès intervient en dehors du travail ou pendant le temps de travail :",
+        "Décès survenu en dehors du travail",
+        "L'employeur doit :",
+        "• Établir le reçu pour solde de tout compte et le transmettre aux héritiers ou aux ayants droit",
+        "• Établir un certificat de travail et le transmettre aux héritiers ou aux ayants droit",
+        "• Mettre à jour le registre unique du personnel de l'entreprise",
+        "• Informer les différents organismes sociaux du décès du salarié (caisse de retraite, régime de prévoyance par exemple).",
+        "Décès survenu pendant le travail",
+        "L'employeur doit effectuer une déclaration d'accident du travail auprès de la caisse d'assurance maladie (CPAM ou MSA) dont dépendait le salarié dans les 48 heures. Les dimanches et jours fériés ne sont pas compris dans ce délai.",
+        "Il informe et réunit le comité économique et social (CSE).",
+        "Il informe également l'inspecteur du travail immédiatement et au plus tard dans les 12 heures qui suivent sa connaissance de l’accident.",
+        "L'employeur doit :",
+        "• Établir le reçu pour solde de tout compte et le transmettre aux héritiers ou aux ayants droit",
+        "• Établir un certificat de travail et le transmettre aux héritiers ou aux ayants droit",
+        "• Mettre à jour le registre unique du personnel de l'entreprise",
+        "• Informer les différents organismes sociaux du décès du salarié (caisse de retraite, régime de prévoyance par exemple)."
+      ]
+    },
+    {
+      "titre": "Quelles sommes sont versées par l'employeur en cas de décès d'un salarié ?",
+      "contenu": [
+        "L'employeur doit verser aux héritiers ou aux ayants droit les sommes acquises à la date du décès.",
+        "Ces sommes peuvent être les suivantes :",
+        "• Salaires non encore payés",
+        "• Primes dues",
+        "• Éventuelle indemnité compensatrice de congés payés",
+        "• Éventuels droits épargnés dans le compte épargne temps",
+        "• Indemnité correspondant aux droits acquis en matière de contrepartie obligatoire en repos.",
+        "Par ailleurs, l'employeur doit verser une aide financière si un accord collectif, un usage d'entreprise ou un engagement unilatéral le prévoit.",
+        "Les héritiers ou ayants droit peuvent demander le déblocage anticipé des droits en matière d'épargne salariale (participation aux résultats de l'entreprise, réserve spéciale ou plan d'épargne d'entreprise...).",
+        "[À savoir] L'employeur doit verser l'indemnité de licenciement si le licenciement a été notifié avant le décès du salarié. Il doit verser l'indemnité spécifique de rupture conventionnelle si la rupture conventionnelle a été homologuée avant le décès du salarié."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code du travail : article L2312-13",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035609774"
+    },
+    {
+      "titre": "Code du travail : article L3141-28",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033020681"
+    },
+    {
+      "titre": "Code du travail : articles D1221-23 à D1221-27",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000024214278/"
+    },
+    {
+      "titre": "Code du travail : article D3121-23",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033509163"
+    },
+    {
+      "titre": "Code du travail : article R3324-23",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041973733"
+    },
+    {
+      "titre": "Code du travail : article D3324-39",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018533204"
+    },
+    {
+      "titre": "Code du travail : article R3332-29",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018533090"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles L441-1 à L441-6",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006172666/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Caisse primaire d'assurance maladie (CPAM)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "que-doit-faire-l-employeur-en-cas-de-deces-d-un-salarie",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "conditions-de-travail-dans-le-secteur-prive",
+      "titre": "Conditions de travail dans le secteur privé"
+    }
+  ]
+}

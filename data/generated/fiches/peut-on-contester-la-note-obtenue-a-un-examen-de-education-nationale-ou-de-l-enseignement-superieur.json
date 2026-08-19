@@ -1,0 +1,91 @@
+{
+  "id": "F22331",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Peut-on contester la note obtenue à un examen de Éducation nationale ou de l’enseignement supérieur ?",
+  "theme": "Famille - Scolarité",
+  "description": "Vous pouvez faire une réclamation et demander à consulter votre copie si vous êtes mécontent de la note obtenue à un examen (bac, brevet...).",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-10-20",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F22331",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Diplômes",
+    "Peut-on contester la note obtenue à un examen de Éducation nationale ou de l’enseignement supérieur ?"
+  ],
+  "introduction": "Oui. Si vous êtes mécontent de la note obtenue à un examen de l'Éducation nationale ou de l’enseignement supérieur, vous pouvez demander à consulter votre copie et faire une réclamation.",
+  "chapitres": [
+    {
+      "titre": "Comment consulter la copie d'un examen ?",
+      "contenu": [
+        "Pour consulter votre copie, vous (ou votre représentant légal si vous êtes mineur) devez en faire la demande par écrit au centre d'examen. Les coordonnées sont généralement indiquées sur votre convocation.",
+        "[À savoir] Pour les épreuves orales, vous pouvez demander la consultation de votre fiche d'évaluation.",
+        "Vous pourrez consulter votre copie sur place, sans pouvoir l'emporter.",
+        "Vous pourrez vérifier qu'il n'y a pas eu d'erreur matérielle comme, par exemple, une erreur de comptage des points ou de retranscription de la note entre la copie et le relevé de note.",
+        "En revanche, vous ne pouvez pas réclamer une seconde correction de votre copie, même si la note obtenue à l'examen est très différente de celles obtenues pendant votre scolarité ou votre formation. En effet, le jury d'examen n'a pas à justifier sa décision, car il est souverain.",
+        "Vous pouvez demander à consulter votre copie pendant un délai d'1 an à partir de la publication des résultats. Les copies sont détruites après ce délai.",
+        "[À savoir] Les centres de formation et d'enseignement supérieur privés peuvent refuser votre demande si le diplôme concerné n'est pas reconnu par l’État."
+      ]
+    },
+    {
+      "titre": "Comment contester la note obtenue à un examen ?",
+      "contenu": [
+        "Vous pouvez contester la note auprès de l'autorité qui vous l'a attribuée (rectorat par exemple). Il s'agit d'un recours gracieux. Vous pouvez notamment le faire si vous constatez une erreur matérielle, un problème dans le déroulement de l'épreuve ou dans l'attitude de l'examinateur.",
+        "Vous devez faire le recours dans un délai de 2 mois suivant la date de notification de la note.",
+        "Les moyens de faire ce recours diffèrent selon le type d'examen que vous passez :",
+        "Examen de l'Éducation nationale",
+        "Les démarches diffèrent selon votre situation géographique :",
+        "En Île-de-France",
+        "Vous devez adresser une réclamation par courrier à l’attention du directeur de la Maison des examens.",
+        "SIEC - Maison des examens",
+        "Dans une autre région",
+        "Vous devez adresser une réclamation par courrier au rectorat de l'académie où vous avez passé l'examen.",
+        "Rectorat",
+        "Diplôme universitaire",
+        "Vous devrez adresser une réclamation par courrier au président de l'université.",
+        "Établissement d'enseignement supérieur"
+      ]
+    },
+    {
+      "titre": "Que faire si la contestation de la note est rejetée ?",
+      "contenu": [
+        "Si votre réclamation n'aboutit pas, vous pouvez saisir le médiateur de l'Éducation nationale et de l'enseignement supérieur.",
+        "Vous pouvez aussi faire un recours contentieux devant le tribunal administratif du lieu où siège l'administration qui a pris la décision de refus.",
+        "Vous pouvez faire le recours dans un délai de 2 mois suivant la date de refus du recours gracieux."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Circulaire n°2017-053 du 23 mars 2017 relative à la préparation, au déroulement et au suivi des épreuves du bac",
+      "url": "http://www.education.gouv.fr/pid285/bulletin_officiel.html?cid_bo=114709"
+    },
+    {
+      "titre": "Note de service n°82-028 du 15 janvier 1982 relative à la communication des copies d'examen et concours aux candidats qui en font la demande",
+      "url": "http://www.circulaires.gouv.fr/pdf/2009/04/cir_774.pdf"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Saisir le Médiateur de l'Éducation nationale et de l'enseignement supérieur",
+      "url": "https://www.education.gouv.fr/faire-appel-au-mediateur-formulaire-de-saisine-10649",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "Rectorat",
+    "Établissement d'enseignement supérieur"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "peut-on-contester-la-note-obtenue-a-un-examen-de-education-nationale-ou-de-l-enseignement-superieur",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "diplomes",
+      "titre": "Diplômes"
+    }
+  ]
+}

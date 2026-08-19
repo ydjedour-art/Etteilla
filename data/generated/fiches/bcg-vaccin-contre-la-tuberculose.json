@@ -1,0 +1,141 @@
+{
+  "id": "F700",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "BCG : vaccin contre la tuberculose",
+  "theme": "Social - Santé",
+  "description": "La vaccination contre la tuberculose n'est plus obligatoire. Elle reste recommandée pour certains enfants.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-01-06",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F700",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Prévention - Vaccinations",
+    "BCG : vaccin contre la tuberculose"
+  ],
+  "introduction": "La vaccination contre la tuberculose (BCG) n'est plus obligatoire. Toutefois, se faire vacciner reste fortement recommandé pour certains enfants résidant en France. Le vaccin peut par exemple être fait dans un centre de protection maternelle et infantile (PMI) sans avance de frais. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Le vaccin contre la tuberculose (BCG) est-il obligatoire pour les enfants ?",
+      "contenu": [
+        "L'obligation vaccinale par le BCG n'existe plus pour les enfants.",
+        "La vaccination est cependant fortement recommandée dès la naissance pour certains enfants.",
+        "Un ordre de priorité selon 3 niveaux a été établi par les autorités sanitaires. Actuellement, la vaccination par le BCG relève du niveau de priorité 1.",
+        "[À savoir] Les professionnels de santé et du secteur social n'ont plus l'obligation de se faire vacciner contre la tuberculose.",
+        "1er niveau",
+        "Les règles diffèrent selon le lieu géographique :",
+        "Cas général",
+        "La vaccination est destinée pour les enfants âgés de moins de 5 ans (y compris ceux de l'Île-de-France) ayant un facteur de risque de tuberculose identifié :",
+        "• Enfant né dans un pays où la présence tuberculeuse est forte : notamment Afrique, Asie (en dehors du Japon), de nombreux pays du Moyen et Proche Orient, d'Amérique centrale et du Sud, d'Europe centrale et d'Europe de l'Est",
+        "• Enfant dont au moins l'un des parents est originaire de l'un de ces pays",
+        "• Enfant devant séjourner au moins un mois d'affilée dans l'un de ces pays",
+        "• Enfant ayant un cas de tuberculose récente (moins de 5 ans) dans son entourage",
+        "• Enfant dans toute situation jugée par le médecin à risque d’exposition à la tuberculose, notamment enfant vivant dans des conditions de logement défavorables (habitat précaire ou surpeuplé) ou socioéconomiques défavorables ou précaires, enfant vivant avec des adultes originaires d’un pays où la présence tuberculeuse est forte.",
+        "Guyane et Mayotte",
+        "La vaccination est prioritaire pour tous les nouveau-nés avant la sortie de la maternité.",
+        "2e niveau",
+        "La vaccination est destinée aux enfants âgés de moins de 5 ans dont le seul facteur de risque est de résider en Île-de-France.",
+        "3e niveau",
+        "La vaccination est destinée aux enfants âgés de 5 à 15 ans révolus présentant un facteur de risque de tuberculose identifié et après test tuberculinique."
+      ]
+    },
+    {
+      "titre": "À quel âge la vaccination contre la tuberculose (BCG) est-elle recommandée ?",
+      "contenu": [
+        "Les règles diffèrent selon le lieu géographique :",
+        "Cas général",
+        "La vaccination est recommandée à partir de l'âge de 1 mois pour les enfants exposés à un risque élevé de tuberculose.",
+        "Le vaccin peut aussi être proposé jusqu'à 15 ans, chez les enfants à risque non vaccinés.",
+        "[À savoir] Pour les enfants ayant un membre de leur entourage atteint d'une tuberculose récente (moins de 5 ans), la vaccination est recommandée avant la sortie de la maternité.",
+        "Guyane et Mayotte",
+        "Les enfants nés à Mayotte ou en Guyane doivent recevoir ce vaccin de manière prioritaire et avant la sortie de la maternité."
+      ]
+    },
+    {
+      "titre": "Où se faire vacciner contre la tuberculose (BCG) ?",
+      "contenu": [
+        "Le BCG peut être réalisé :",
+        "• Dans un centre de protection maternelle et infantile (PMI)",
+        "• Dans un centre de vaccination gratuit",
+        "• Dans un centre de lutte antituberculeuse (CLAT)",
+        "• En maternité.",
+        "La prescription, la délivrance du vaccin et la vaccination s'effectuent sur place.",
+        "Votre mairie peut également vous donner l'adresse des organismes les plus proches de chez vous.",
+        "Centre de protection maternelle et infantile (PMI)",
+        "Centres de lutte antituberculeuse"
+      ]
+    },
+    {
+      "titre": "Le BCG est-il pris en charge par l'Assurance maladie ?",
+      "contenu": [
+        "Oui, ce vaccin est pris en charge totalement par l'Assurance maladie.",
+        "[À noter] Ce vaccin n'est actuellement pas disponible en pharmacie."
+      ]
+    },
+    {
+      "titre": "Comment signaler un effet indésirable à la suite d’une vaccination ?",
+      "contenu": [
+        "Si vous constatez un effet indésirable sur l'état de santé, à la suite de la vaccination, vous pouvez le signaler sur le portail \"Signalement santé \" :",
+        "Signalement santé",
+        "Avoir une adresse mail"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la santé publique : articles L3112-1 et L3112-2",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000006171546/"
+    },
+    {
+      "titre": "Code de la santé publique : articles R3112-1 à R3112-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000006190990/"
+    },
+    {
+      "titre": "Décret n°2007-1111 du 17 juillet 2007 relatif à l'obligation vaccinale par le vaccin antituberculeux BCG",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000464863/"
+    },
+    {
+      "titre": "Arrêté du 13 juillet 2004 relatif à la pratique de la vaccination par le vaccin antituberculeux BCG et aux tests tuberculiniques",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000250839"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Signalement santé",
+      "url": "https://signalement.social-sante.gouv.fr",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "Centres de lutte antituberculeuse"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "La vaccination antituberculeuse par le BCG",
+      "url": "https://www.ameli.fr/assure/sante/themes/tuberculose/vaccination"
+    },
+    {
+      "titre": "Le vaccin contre la tuberculose",
+      "url": "https://vaccination-info-service.fr/Les-maladies-et-leurs-vaccins/Tuberculose-BCG"
+    },
+    {
+      "titre": "La tuberculose",
+      "url": "https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/tuberculose/article/la-tuberculose"
+    },
+    {
+      "titre": "Calendrier des vaccinations 2026",
+      "url": "https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/calendrier-vaccinal"
+    }
+  ],
+  "slug": "bcg-vaccin-contre-la-tuberculose",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "prevention-vaccinations",
+      "titre": "Prévention - Vaccinations"
+    }
+  ]
+}

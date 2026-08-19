@@ -1,0 +1,33 @@
+{
+  "id": "F36512",
+  "type_publication": "Recherche guidée",
+  "titre": "[RG - Licenciement d'un salarié en arrêt maladie]",
+  "theme": "Travail - Formation, Ressources humaines",
+  "description": "[RG - Licenciement d'un salarié en arrêt maladie]",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2025-10-07",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F36512",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Licenciement d'un salarié du secteur privé pour motif personnel",
+    "[RG - Licenciement d'un salarié en arrêt maladie]"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "rg-licenciement-d-un-salarie-en-arret-maladie",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "licenciement-d-un-salarie-du-secteur-prive-pour-motif-personnel",
+      "titre": "Licenciement d'un salarié du secteur privé pour motif personnel"
+    }
+  ]
+}

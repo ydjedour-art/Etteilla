@@ -1,0 +1,38 @@
+{
+  "id": "F2339",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Modification du contrat de travail d'un salarié",
+  "theme": "Travail - Formation",
+  "description": "Les conditions d'emploi du salarié peuvent être modifiées par l'employeur durant le contrat de travail du salarié, sous conditions.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2024-06-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2339",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Contrats de travail dans le secteur privé",
+    "Modification du contrat de travail d'un salarié"
+  ],
+  "introduction": "Un salarié peut-il refuser les modifications de son contrat de travail envisagées par son employeur ? Nous vous expliquons la réglementation en vigueur, selon que le contrat de travail est modifié pour un motif non économique ou pour un motif économique lié à la situation financière de l'entreprise. Des conditions particulières s'appliquent pour le salarié protégé.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code du travail : article L1222-6",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028724382"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "modification-du-contrat-de-travail-d-un-salarie",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "contrats-de-travail-dans-le-secteur-prive",
+      "titre": "Contrats de travail dans le secteur privé"
+    }
+  ]
+}

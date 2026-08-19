@@ -1,0 +1,33 @@
+{
+  "id": "F34976",
+  "type_publication": "Recherche guidée",
+  "titre": "Passeport mineur - 1ère demande",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Passeport mineur - 1ère demande",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2021-10-22",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34976",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Passeport",
+    "Passeport mineur - 1ère demande"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "passeport-mineur-1ere-demande",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "passeport",
+      "titre": "Passeport"
+    }
+  ]
+}

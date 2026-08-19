@@ -1,0 +1,33 @@
+{
+  "id": "F34723",
+  "type_publication": "Recherche guidée",
+  "titre": "Modification ou rectification de l'état civil",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Modification ou rectification de l'état civil",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2025-08-29",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34723",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Changement d'état civil",
+    "Modification ou rectification de l'état civil"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "modification-ou-rectification-de-l-etat-civil",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "changement-d-etat-civil",
+      "titre": "Changement d'état civil"
+    }
+  ]
+}

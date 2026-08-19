@@ -1,0 +1,49 @@
+{
+  "id": "F35858",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Reconnaissance conjointe d'un enfant dans un couple de femmes",
+  "theme": "Famille - Scolarité",
+  "description": "Des femmes avec un projet d'enfant qui souhaitent une PMA avec don de gamètes doivent effectuer une reconnaissance conjointe anticipée, avant la conception.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-03-12",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35858",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Naissance et filiation",
+    "Reconnaissance conjointe d'un enfant dans un couple de femmes"
+  ],
+  "introduction": "Vous êtes un couple de femmes et vous avez un projet d'enfant ? Si vous souhaitez recourir à une AMP (ou PMA) avec don de gamètes, vous devez au préalable (avant la conception) effectuer une reconnaissance conjointe anticipée. Vous pouvez être mariées, pacsées ou en union libre. La reconnaissance se fait devant un notaire. La reconnaissance conjointe a posteriori n'est pas possible. Nous vous indiquons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code civil : articles 342-9 à 342-13",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000043889171/#LEGISCTA000043889171"
+    },
+    {
+      "titre": "Loi n°2021-1017 du 2 août 2021 relative à la bioéthique",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000043884384/"
+    },
+    {
+      "titre": "Circulaire du 21 septembre 2021 de présentation des dispositions en matière d'assistance médicale à la procréation issues de la loi n°2021-1017 du 2 août 2021 relative à la bioéthique",
+      "url": "http://www.justice.gouv.fr/bo/2021/20210930/JUSC2127286C.pdf"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Notaire",
+    "Mairie"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "reconnaissance-conjointe-d-un-enfant-dans-un-couple-de-femmes",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "naissance-et-filiation",
+      "titre": "Naissance et filiation"
+    }
+  ]
+}

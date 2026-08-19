@@ -1,0 +1,102 @@
+{
+  "id": "F459",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Mutation d'un fonctionnaire",
+  "theme": "Travail - Formation",
+  "description": "La mutation permet au fonctionnaire titulaire de changer d’emploi sans changer de corps ou de cadre d'emplois, de grade et d'ancienneté.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-28",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F459",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Mobilité dans la fonction publique",
+    "Mutation d'un fonctionnaire"
+  ],
+  "introduction": "Vous êtes fonctionnaire titulaire et souhaitez changer d'emploi ? La mutation vous permet de changer d'emploi au sein de votre fonction publique d'appartenance sans changer de corps ou de cadre d'emplois, et sans changer de grade, ni d'ancienneté. Les règles diffèrent selon votre fonction publique d'appartenance (État - FPE, territoriale - FPT, hospitalière - FPH). Nous vous présentons les règles de mutation.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code général de la fonction publique : articles L311-1 à L311-3",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044421542/"
+    },
+    {
+      "titre": "Code général de la fonction publique : article L322-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044421592/"
+    },
+    {
+      "titre": "Code général de la fonction publique : articles L511-1 à L511-3",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044422754/"
+    },
+    {
+      "titre": "Code général de la fonction publique : articles L512-18 à L512-27",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044422830/"
+    },
+    {
+      "titre": "Code général de la fonction publique : articles L512-28 à L512-29",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044422856/"
+    },
+    {
+      "titre": "Décret n°95-313 du 21 mars 1995 relatif au droit de mutation prioritaire et à l'avantage spécifique d'ancienneté de certains agents de l'État affectés dans les quartiers urbains difficiles",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000005618092/"
+    },
+    {
+      "titre": "Décret n°2008-370 du 18 avril 2008 organisant les conditions d'exercice des fonctions, en position d'activité, dans les administrations de l'État",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000018666442/"
+    },
+    {
+      "titre": "Décret n°2019-1265 du 29 novembre 2019 relatif aux lignes directrices de gestion",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000039434533/"
+    },
+    {
+      "titre": "Circulaire n°2179 du 28 janvier 2009 relative aux conditions d'exercice des fonctions, en position d'activité, dans les administrations de l'État",
+      "url": "https://www.fonction-publique.gouv.fr/files/files/textes_de_reference/2009/C_20090128_FP2179.pdf"
+    },
+    {
+      "titre": "Circulaire du 19 novembre 2009 relative à la mobilité et aux parcours professionnels dans la fonction publique",
+      "url": "https://www.legifrance.gouv.fr/download/file/pdf/cir_29932/CIRC"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Consulter les offres d’emploi de la fonction publique",
+      "url": "https://choisirleservicepublic.gouv.fr/",
+      "type": "outilRechercheNG"
+    },
+    {
+      "titre": "Demander sa mutation",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/DemandeDeMutationDunFonctionnaire",
+      "type": "lettreTypeNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Corps de l'État soumis à des tableaux périodiques de mutation",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGISCTA000039437184"
+    },
+    {
+      "titre": "Portail de l'emploi des Centres de gestion de la fonction publique territoriale et du CNFPT",
+      "url": "https://www.emploi-territorial.fr/accueil/"
+    },
+    {
+      "titre": "Offres d'emploi dans la fonction publique hospitalière",
+      "url": "http://emploi.fhf.fr/"
+    },
+    {
+      "titre": "Agir pour son projet de mobilité professionnelle - Guide repères des agents de la fonction publique",
+      "url": "https://www.fonction-publique.gouv.fr/files/files/carrieres_et_parcours_professionnel/Guide_APMP_WEB_Ed-2020.pdf"
+    }
+  ],
+  "slug": "mutation-d-un-fonctionnaire",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "mobilite-dans-la-fonction-publique",
+      "titre": "Mobilité dans la fonction publique"
+    }
+  ]
+}

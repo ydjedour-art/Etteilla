@@ -1,0 +1,302 @@
+{
+  "id": "F34917",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Consultation d'un psychologue ou d'un psychiatre : quelle prise en charge ?",
+  "theme": "Social - Santé",
+  "description": "Les consultations chez un psychologue ou un psychiatre ne sont pas remboursées de la même manière.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-07-03",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34917",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Remboursement des soins par la Sécurité sociale",
+    "Consultation d'un psychologue ou d'un psychiatre : quelle prise en charge ?"
+  ],
+  "introduction": "Les consultations chez un psychologue ou un psychiatre ne sont pas remboursées de la même manière. Cette différence vient du fait que l'un est médecin et l'autre non.",
+  "chapitres": [
+    {
+      "titre": "Psychologue, psychiatre, psychanalyste : quelles différences ?",
+      "contenu": [
+        "Il existe 2 grands types de \"psy\" : le psychiatre (ou pédopsychiatre) et le psychologue.",
+        "Le psychiatre est un médecin spécialisé. Il est donc spécialement formé à établir un diagnostic et à prescrire des médicaments dont les psychotropes (antidépresseurs, anxiolytiques, neuroleptiques, somnifères, etc.). Les soins peuvent aussi passer par la parole et l'écoute.",
+        "Le psychologue est un diplômé universitaire, mais pas un médecin. Il ne peut donc pas prescrire de médicaments. Il existe de nombreuses spécialisations en psychologie en fonction des tranches d'âge (psychologue pour enfant, spécialiste des troubles du vieillissement...), d'un champ d'activité (psychologue du travail, psychologue scolaire...), etc.",
+        "Le psychanalyste et le psychothérapeute peuvent être psychiatre ou psychologue, mais pas obligatoirement."
+      ]
+    },
+    {
+      "titre": "Comment consulter un psychologue ou un psychiatre ?",
+      "contenu": [
+        "Psychiatre",
+        "Hors parcours de soins coordonés, seuls les assurés âgés de 16 à 25 ans peuvent consulter un psychiatre sans passer par le médecin traitant et être remboursés normalement par l’Assurance maladie.",
+        "Si vous avez plus de 25 ans et ne respectez pas le parcours de soins coordonné (c’est-à-dire sans avoir été orienté par le médecin traitant) vous pouvez tout de même consulter un psychiatre, le remboursement de l’Assurance maladie sera alors moins important.",
+        "Psychologue",
+        "Vous pouvez consulter un psychologue sans l'accord de votre médecin traitant."
+      ]
+    },
+    {
+      "titre": "Quels sont les tarifs de consultation chez un psychiatre ?",
+      "contenu": [
+        "Ces tarifs peuvent dépendre du lieu où sont effectués les soins :",
+        "[À noter] La consultation d'un psychiatre dans un centre médico-psychologique (CMP) est prise en charge par l'Assurance maladie.",
+        "En métropole",
+        "Les tarifs varient en fonction de votre âge :",
+        "Plus de 25 ans",
+        "Tarifs des consultations",
+        "Situation",
+        "Psychiatre",
+        "Tarif",
+        "Base du remboursement",
+        "Montant remboursé (déduction faite de la participation forfaitaire de 2 €)",
+        "Patient de plus de 25 ans, en accès direct",
+        "(patients sans médecin traitant ou non disponible dans le délai compatible avec leur état de santé, situation d’urgence, Ehpad, établissements médico-sociaux ou en pénitentiaire)",
+        "Secteur 1",
+        "55 €",
+        "55 €",
+        "36,50 €",
+        "Secteur 1 (consultation très complexe)",
+        "60 €",
+        "60 €",
+        "40 €",
+        "Adhérant à l’option de pratique tarifaire maitrisée (OPTAM)",
+        "Secteur 2",
+        "Honoraires avec dépassements maîtrisés",
+        "55 €",
+        "36,50 €",
+        "Secteur 2",
+        "Honoraires libres",
+        "42,50 €",
+        "27,75 €",
+        "Dans le cadre du parcours de soins",
+        "Secteur 1",
+        "55 €",
+        "55 €",
+        "36,50 €",
+        "Secteur 1 (consultation complexe)",
+        "60 €",
+        "60 €",
+        "40 €",
+        "Adhérant à l’option de pratique tarifaire maitrisée (OPTAM)",
+        "Secteur 2",
+        "Honoraires avec dépassement maîtrisé",
+        "55 €",
+        "36,50 €",
+        "Secteur 2",
+        "Honoraires libres",
+        "42,50 €",
+        "27,75 €",
+        "Médecin correspondant (pour un suivi ponctuel)",
+        "Secteur 1",
+        "67,50 €",
+        "67,50 €",
+        "45,25 €",
+        "Adhérant à l’option de pratique tarifaire maitrisée (OPTAM)",
+        "Secteur 2",
+        "Honoraires avec dépassements maîtrisés",
+        "67,50 €",
+        "45,25 €",
+        "Secteur 2",
+        "Honoraires libres",
+        "67,50 €",
+        "45,25 €",
+        "Hors parcours de soins",
+        "Secteur 1",
+        "61 € maximum",
+        "50 €",
+        "13 €",
+        "Adhérant à l’option de pratique tarifaire maitrisée (OPTAM)",
+        "Secteur 2",
+        "Honoraires avec dépassements maîtrisés",
+        "50 €",
+        "13 €",
+        "Secteur 2",
+        "Honoraires libres",
+        "42,50 €",
+        "10,75 €",
+        "Moins de 25 ans",
+        "Consultation d'un spécialiste : tarif, base de remboursement, montant remboursé",
+        "Médecin consulté",
+        "Tarif",
+        "Base du remboursement",
+        "Montant remboursé",
+        "Psychiatre ou pédopsychiatre, secteur 1",
+        "67 €",
+        "67 €",
+        "Moins de 18 ans :",
+        "46,90 €",
+        "18 ans et plus :",
+        "44,90 €",
+        "Psychiatre ou pédopsychiatre, adhérant au contrat d'accès aux soins",
+        "Honoraires avec dépassements maîtrisés",
+        "67 €",
+        "Moins de 18 ans :",
+        "46,90 €",
+        "18 ans et plus :",
+        "44,90 €",
+        "Psychiatre ou pédopsychiatre, secteur 2",
+        "Honoraires libres",
+        "42,50 €",
+        "Moins de 18 ans :",
+        "29,75 €",
+        "18 ans et plus :",
+        "27,75 €",
+        "Dans les Dom",
+        "Guyane, Guadeloupe, Martinique et à la Réunion",
+        "Le site de l'Assurance maladie détaille les remboursements des consultations en Guyane, Guadeloupe, Martinique et à la Réunion.",
+        "Mayotte",
+        "Le site de l'Assurance maladie détaille les remboursements des consultations à Mayotte."
+      ]
+    },
+    {
+      "titre": "Quels sont les tarifs de consultation d'un psychologue conventionné avec la CPAM ?",
+      "contenu": [
+        "Psychologues concernés",
+        "Le psychologue doit :",
+        "• Signer une convention avec l'organisme local d'Assurance maladie de son lieu d'exercice",
+        "• Exercer en libéral ou être salarié d’une structure d’exercice coordonné (maison de santé pluriprofessionnelle ou centre de santé)",
+        "• Remplir des conditions d'expérience (au moins 3 années d'expérience clinique) et de formation pour attester d'un parcours consolidé en psychologie clinique ou psychopathologie.",
+        "La liste des psychologues conventionnés remplissant ces conditions est consultable en ligne :",
+        "Trouver un psychologue conventionné",
+        "[À savoir] L'assuré choisit librement le psychologue conventionné.",
+        "Prise en charge de cette consultation",
+        "Vous payez directement le psychologue après chaque séance ou à la fin de plusieurs séances (selon le choix du psychologue) :",
+        "• 50 € pour la 1er séance (entretien d'évaluation)",
+        "• 50 € pour chacune des séances de suivi (11 au maximum).",
+        "L'Assurance maladie prend en charge 60 % du coût des séances, c'est-à-dire 30 €.",
+        "Votre mutuelle ou votre assurance complémentaire, dans le cadre des contrats de complémentaire santé responsable, finance à hauteur de 40 % le coût des séances.",
+        "[Complement] Vous bénéficiez du tiers payant obligatoire et vous n'avez donc pas à avancer les frais (et les séances sont prises en charge à 100 % par l'Assurance maladie), si vous êtes dans l'une des situations suivantes : • Bénéficiaire de la complémentaire santé solidaire • Bénéficiaire de l'aide médicale de l'État (AME) • Soins en lien avec une affection de longue durée (ALD) pour un motif autre que psychiatrique et le soutien psychologique fait partie du protocole de soins dans le cadre de votre prise en charge au titre de l’ALD • Soins en lien avec une maternité (à partir du 6e mois de grossesse) • Soins en lien avec un accident du travail ou une maladie professionnelle (AT-MP). [À noter] La Sécurité sociale prend aussi en charge des séances chez le psychologue assuré par le centre médico-psychologique (CMP).",
+        "Conditions pour bénéficier de ces consultations",
+        "La situation varie en fonction de la situation : majeur, étudiant, 3-17 ans.",
+        "Majeur (18 ans et plus)",
+        "Vous devez être en souffrance psychique, notamment si vous souffrez :",
+        "• D’un trouble anxieux d’intensité légère à modérée",
+        "• D’un trouble dépressif d’intensité légère à modérée",
+        "• D’un mésusage de tabac, d’alcool et/ou de cannabis (hors dépendance)",
+        "• D’un trouble du comportement alimentaire sans critères de gravité.",
+        "Si vous êtes un patient sous traitement psychotrope ou un patient bipolaire ou borderline sous antiépileptiques, vous pouvez bénéficier d'un accompagnement psychologique notamment pour réévaluer la pertinence des traitements prescrits. Il faut alors, dans ce cas, un avis d'un psychiatre.",
+        "[À noter] L'avis d'un psychiatre n'est pas nécessaire pour les patients sous traitement par antidépresseurs depuis moins de 6 mois ou par hypnotiques ou benzodiazépines depuis moins d'un mois.",
+        "Vous ne pouvez pas bénéficier de cette prise en charge si votre situation nécessite d'emblée ou en cours de prise en charge un avis spécialisé par un psychiatre.",
+        "Exemples :",
+        "• Risques suicidaires",
+        "• Formes sévères de troubles dépressifs ou anxieux",
+        "• Troubles du comportement alimentaire avec signes de gravité",
+        "• Troubles neuro-développementaux sévères",
+        "• Antécédents psychiatriques sévères dans les 3 ans",
+        "• Toute situation de dépendance à des substances psychoactives.",
+        "De plus, vous ne pouvez pas bénéficier de cette prise en charge si vous êtes dans l'une des situations suivantes :",
+        "• Reconnus atteints d'une affection de longue durée ou en invalidité pour motif psychiatrique",
+        "• En arrêt de travail de plus de 6 mois pour un motif psychiatrique",
+        "• S'étant retrouvés dans l'une de ces situations depuis moins de 2 ans.",
+        "Étudiant",
+        "Si vous êtes étudiant, vous pouvez bénéficier d'un dispositif spécifique incluant des séances gratuites et sans avance de frais.",
+        "Enfant et adolescent",
+        "Le mineur doit répondre aux 2 conditions suivantes :",
+        "• Être âgé de 3 à 17 ans inclus",
+        "• Présenter une situation de mal-être ou de souffrance psychique suscitant l’inquiétude de son entourage.",
+        "Le mineur - même répondant aux critères d'éligibilité - ne peut pas bénéficier de cette prise en charge si sa situation nécessite d'emblée ou en cours de prise en charge un avis spécialisé par un psychiatre.",
+        "Exemples :",
+        "• Risques suicidaires",
+        "• Formes sévères de troubles anxieux ou dépressifs",
+        "• Troubles du comportement alimentaire avec signes de gravité",
+        "• Situations de retrait et d'inhibition majeures",
+        "• Troubles externalisés sévères",
+        "• Troubles neuro-développementaux",
+        "• Toute situation de dépendance à des substances psychoactives.",
+        "Un mineur ne peut pas bénéficier de cette prise en charge s'il est dans l'une des situations suivantes :",
+        "• Pris en charge en pédopsychiatrie ou en psychiatrie",
+        "• Pris en charge en ALD pour motif psychiatrique",
+        "• S'est retrouvé dans l'une de ces situations depuis moins de 2 ans.",
+        "Nombre de séances",
+        "Cette prise en charge se limite à 12 séances par année civile. Toutefois, il n'y a pas de limite pour un enfant en ALD.",
+        "[À savoir] Une seule séance par jour peut être réalisée pour le même patient.",
+        "Déroulé des séances",
+        "La 1ère de ces séances est consacrée à un entretien d'évaluation.",
+        "Lors de cet entretien, le psychologue procède à une 1ère appréciation des besoins du patient.",
+        "Le psychologue présente au patient le cadre de l'accompagnement psychologique et lui propose un nombre de séances, en fonction de ses besoins, dans la limite de 12 séances prises en charge au cours d'une année civile.",
+        "L'entretien d'évaluation et la dernière séance de suivi donnent lieu après accord du patient à un échange écrit entre :",
+        "• Le psychologue",
+        "• Et le médecin traitant du patient (ou, éventuellement, un médecin impliqué dans la prise en charge du patient).",
+        "Le psychologue qui estime à la fin de l'entretien d'évaluation ou à tout moment de la prise en charge que le patient relève d'un suivi psychiatrique en fait part après accord du patient à ce médecin.",
+        "Le psychologue peut réaliser des séances par vidéotransmission sauf lors de l'entretien d'évaluation."
+      ]
+    },
+    {
+      "titre": "Quels sont les tarifs de consultation d'un psychologue libéral non conventionné ?",
+      "contenu": [
+        "La consultation peut se faire directement sans passer par un médecin traitant.",
+        "Les psychologues libéraux non conventionnés pratiquent des tarifs libres non remboursés par l'Assurance maladie. Vous pouvez vous renseigner auprès de votre mutuelle pour connaitre éventuellement la prise en charge.",
+        "[À noter] La consultation d'un psychologue dans un centre médico-psychologique (CMP) est prise en charge par l'Assurance maladie."
+      ]
+    },
+    {
+      "titre": "Quels sont les tarifs de consultation chez un psychanalyste, psychothérapeute ou autre ?",
+      "contenu": [
+        "Vous pouvez également consulter un psychanalyste ou psychothérapeute directement.",
+        "Lorsque ces professionnels ne sont ni médecins, ni psychologues, ils pratiquent des tarifs libres qui ne sont pas pris en charge par l'Assurance maladie."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la sécurité sociale : article L162-58",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000044577838/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : article R160-5, 18°",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000047913149/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles R162-60 à R162-72",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000045186222/"
+    },
+    {
+      "titre": "Arrêté du 8 mars 2022 relatif aux tarifs, codes de facturation et critères d'inclusion du dispositif de prise en charge de séances d'accompagnement psychologique",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGIARTI000045334523/#LEGIARTI000045334523"
+    },
+    {
+      "titre": "Arrêté du 20 juin 2024 portant approbation de la convention nationale organisant les rapports entre les médecins libéraux et l’assurance maladie",
+      "url": "https://www.legifrance.gouv.fr/download/pdf?id=gUcQY-SsH5mgsfckIXs63JUNJ-PzvDi6Xc_2Adw0K7g"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Trouver un psychologue conventionné",
+      "url": "https://monsoutienpsy.ameli.fr/recherche-psychologue",
+      "type": "outilRechercheNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Annuaire santé - Site Ameli",
+      "url": "https://annuairesante.ameli.fr/"
+    },
+    {
+      "titre": "MonPsy",
+      "url": "https://www.ameli.fr/assure/remboursements/rembourse/remboursement-seance-psychologue-mon-soutien-psy"
+    },
+    {
+      "titre": "Santé Psy Étudiant",
+      "url": "https://santepsy.etudiant.gouv.fr"
+    },
+    {
+      "titre": "Consultations en Guadeloupe, Martinique, Guyane et à la Réunion : remboursements",
+      "url": "https://www.ameli.fr/assure/remboursements/rembourse/consultations-telemedecine/guadeloupe-martinique-guyane-reunion"
+    },
+    {
+      "titre": "Consultations à Mayotte : vos remboursements",
+      "url": "https://www.ameli.fr/assure/remboursements/rembourse/consultations-telemedecine/mayotte"
+    }
+  ],
+  "slug": "consultation-d-un-psychologue-ou-d-un-psychiatre-quelle-prise-en-charge",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "remboursement-des-soins-par-la-securite-sociale",
+      "titre": "Remboursement des soins par la Sécurité sociale"
+    }
+  ]
+}

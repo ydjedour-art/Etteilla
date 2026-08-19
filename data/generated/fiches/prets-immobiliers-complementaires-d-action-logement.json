@@ -1,0 +1,42 @@
+{
+  "id": "F37842",
+  "type_publication": "Fiche avec liens externes",
+  "titre": "Prêts immobiliers complémentaires d'Action logement",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Un prêt complémentaire sert à financer en partie l'achat ou la construction d'une résidence principale, en complément d'un prêt immobilier principal.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-08-27",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F37842",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Crédit immobilier",
+    "Prêts immobiliers complémentaires d'Action logement"
+  ],
+  "introduction": "Un prêt complémentaire sert à financer en partie l'achat ou la construction de votre résidence principale. Il est accordé en complément de votre prêt immobilier principal. Il n'est pas accordé par une banque, mais par un autre organisme (Action logement, caisse de retraite complémentaire, mutuelle...).",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Voici les prêts complémentaires que propose Action logement :"
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [
+    "Action Logement"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "prets-immobiliers-complementaires-d-action-logement",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "credit-immobilier",
+      "titre": "Crédit immobilier"
+    }
+  ]
+}

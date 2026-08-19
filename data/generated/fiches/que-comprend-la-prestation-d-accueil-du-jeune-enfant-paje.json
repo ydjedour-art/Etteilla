@@ -1,0 +1,75 @@
+{
+  "id": "F13218",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Que comprend la prestation d'accueil du jeune enfant (Paje) ?",
+  "theme": "Famille - Scolarité",
+  "description": "La prestation d'accueil du jeune enfant (Paje) comprend plusieurs aides destinées aux parents, de la naissance au 6e anniversaire de l'enfant.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-12-12",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F13218",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Allocations destinées aux familles",
+    "Que comprend la prestation d'accueil du jeune enfant (Paje) ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "La composition de la prestation d'accueil du jeune enfant (Paje) dépend de votre lieu de résidence : métropole, Guyane, La Réunion, Martinique, Guadeloupe (cas général) ou Mayotte.",
+        "Cas général",
+        "La prestation d'accueil du jeune enfant (Paje) est composée de 4 aides.",
+        "Ces aides peuvent être versées lors de la naissance (ou de l'adoption) de l'enfant.",
+        "Elles permettent de faire face aux dépenses ou de compenser une perte de revenus professionnels.",
+        "Aides composant la prestation d'accueil du jeune enfant (Paje) en métropole, Guyane, Réunion, Martinique et Guadeloupe",
+        "Nom de l'aide",
+        "Objet de l'aide",
+        "Prime à la naissance ou à l'adoption",
+        "Faire face aux 1ères dépenses liées à la naissance ou à l'adoption d'un enfant et à son entretien",
+        "Allocation de base en cas de naissance ou en cas d'adoption",
+        "Faire face aux dépenses liées à la naissance ou à l'adoption d'un enfant, à son entretien et à son éducation",
+        "Complément de libre choix du mode de garde (CMG)",
+        "Permet aux parents continuant à travailler de compenser le coût de la garde (structure ou emploi direct)",
+        "Prestation partagée d'éducation de l'enfant (PréParE)",
+        "Permettre à l'un ou aux 2 parents de réduire ou de cesser leur activité professionnelle pour s'occuper de leur enfant",
+        "[À savoir] Ces aides sont versées sous conditions de ressources, sauf la PréParE.",
+        "Les sommes perçues à ce titre n’ont pas à être intégrées aux revenus d’activité, ni aux autres revenus imposables. Elles n'ont donc pas à être renseignées dans la déclaration annuelle de revenus.",
+        "Ces aides sont donc totalement exonérées de l'impôt sur le revenu.",
+        "Mayotte",
+        "La prestation Paje n'est pas versée à Mayotte.",
+        "Seul le complément de libre choix du mode de garde (CMG) peut l’être."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [
+    {
+      "titre": "Caisse d'allocations familiales (Caf) en ligne",
+      "url": "https://connect.caf.fr/connexionappli/dist/?forceReload=20211220&contexteAppel=caffr&urlredirect=%2Fwps%2Fmyportal%2Fcaffr#/login",
+      "type": "selNG"
+    },
+    {
+      "titre": "MSA - Espace particuliers",
+      "url": "https://monespaceprive.msa.fr/lfp/web/msa/espace-prive",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "Caisse d'allocations familiales (Caf)",
+    "Mutualité sociale agricole (MSA)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "que-comprend-la-prestation-d-accueil-du-jeune-enfant-paje",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "allocations-destinees-aux-familles",
+      "titre": "Allocations destinées aux familles"
+    }
+  ]
+}

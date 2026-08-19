@@ -1,0 +1,69 @@
+{
+  "id": "F31982",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Justice pénale : quels sont les délais de prescription ?",
+  "theme": "Justice",
+  "description": "L’écoulement d’un certain délai prévu par la loi appelé prescription peut empêcher la poursuite de l’auteur d’une infraction pénale.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-07-29",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31982",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Affaire pénale",
+    "Justice pénale : quels sont les délais de prescription ?"
+  ],
+  "introduction": "Vous êtes victime d'une infraction et vous vous demandez s'il est encore temps de porter plainte ? Vous devez vous intéresser au délai de prescription de l'action publique. Si le délai de prescription est expiré, il n'est plus possible de poursuivre l'auteur d'une infraction. Le délai dépend du type d'infraction, de l'existence ou non d'une victime et de son âge au moment des faits. Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de procédure pénale : article 7",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043409351"
+    },
+    {
+      "titre": "Code de procédure pénale : article 8",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049531911"
+    },
+    {
+      "titre": "Code de procédure pénale : article 9",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034099775/"
+    },
+    {
+      "titre": "Code de procédure pénale : article 9-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037289466"
+    },
+    {
+      "titre": "Code de procédure pénale : article 9-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043409311/2025-07-23"
+    },
+    {
+      "titre": "Code de procédure pénale : article 9-3",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034098595/2025-07-23"
+    },
+    {
+      "titre": "Code de procédure pénale : articles 706-47",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044394236"
+    },
+    {
+      "titre": "Loi du 29 juillet 1881 sur la liberté de la presse",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006419866/2025-07-23"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Association d'aide aux victimes",
+    "Avocat"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "justice-penale-quels-sont-les-delais-de-prescription",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "affaire-penale",
+      "titre": "Affaire pénale"
+    }
+  ]
+}

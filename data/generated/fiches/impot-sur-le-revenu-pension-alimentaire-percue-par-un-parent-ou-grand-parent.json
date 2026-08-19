@@ -1,0 +1,121 @@
+{
+  "id": "F35778",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Impôt sur le revenu - Pension alimentaire perçue par un parent ou grand-parent",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Les pensions alimentaires que vous percevez sont soumises à l'impôt sur le revenu. Mais vous pouvez bénéficier d'une exonération.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-15",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35778",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Impôt sur le revenu : déclaration et revenus à déclarer",
+    "Impôt sur le revenu - Pension alimentaire perçue par un parent ou grand-parent"
+  ],
+  "introduction": "Vous êtes dans le besoin et vous percevez une pension alimentaire versée par un enfant ou un petit-enfant ? Ces sommes sont soumises à l'impôt sur le revenu. Mais une exonération est parfois possible. Nous vous indiquons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Quels sont les revenus concernés ?",
+      "contenu": [
+        "Vous devez déclarer la pension que vous avez perçue.",
+        "Vous devez être dans le besoin et la personne qui verse la pension doit avoir une obligation alimentaire à votre égard.",
+        "Cette pension peut être fixée par simple accord avec la personne qui vous la verse ou par un jugement.",
+        "De son côté, la personne qui vous verse la pension peut la déduire de ses revenus, sous certaines conditions.",
+        "Vous devez déclarer le montant pour lequel elle peut bénéficier d'une déduction de la pension versée.",
+        "Vous pouvez bénéficier des avantages suivants :",
+        "• Déduction de certains frais",
+        "• Abattement de 10 %.",
+        "Dans certaines situations, vous pouvez déduire des sommes reçues certaines dépenses occasionnées par leur perception (par exemple, frais de procès engagés pour le paiement ou la revalorisation d'une pension).",
+        "L'administration fiscale applique automatiquement un abattement de 10 % sur le montant total déclaré des pensions et rentes de votre foyer fiscal.",
+        "Le montant de l'abattement doit se situer dans la fourchette suivante :",
+        "• Minimum : 454 € par pensionné",
+        "• Maximum : 4 439 € par foyer fiscal."
+      ]
+    },
+    {
+      "titre": "Quand la pension alimentaire est-elle exonérée ?",
+      "contenu": [
+        "Si vous disposez de très faibles ressources, vous n'avez pas à déclarer la somme que votre enfant (ou petit-enfant) verse directement à une maison de retraite ou un établissement hospitalier pour payer vos frais de séjour.",
+        "C'est le cas si vous percevez l'allocation de solidarité aux personnes âgées (Aspa)."
+      ]
+    },
+    {
+      "titre": "Comment déclarer une pension alimentaire ?",
+      "contenu": [
+        "Vous devez déclarer vous-même les pensions alimentaires que vous avez reçues.",
+        "En effet, ces montants ne sont jamais inscrits sur la déclaration de revenus pré-remplie que vous envoie l'administration fiscale.",
+        "Vous devez les indiquer dans la partie \"Pensions, retraites, rentes\", ligne \"Pensions alimentaires perçues\".",
+        "La déclaration des revenus par internet est obligatoire si votre résidence principale est équipée d'un accès à internet et que vous êtes en mesure de faire votre déclaration en ligne.",
+        "La déclaration 2026 des revenus de 2025 est terminée.",
+        "La déclaration 2027 des revenus de 2026 débutera en avril 2027.",
+        "[Complement] La déclaration 2026 des revenus de 2025 est terminée. La déclaration 2027 des revenus de 2026 débutera en avril 2027."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général des impôts : articles 79 à 81 quater",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006197199/"
+    },
+    {
+      "titre": "Code général des impôts : articles 156 à 163 quinvicies",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000006191588/"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-RSA-PENS-10-30 relatif aux pensions alimentaires imposables",
+      "url": "http://bofip.impots.gouv.fr/bofip/365-PGP.html"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Impôts : accéder à votre espace Finances publiques",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Déclarer vos revenus en ligne",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Déclaration 2026 des revenus 2025 (papier)",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/2042/declaration-des-revenus",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Estimer le montant de son impôt sur les revenus de 2025 (déclaration de 2026)",
+      "url": "https://simulateur-ir-ifi.impots.gouv.fr/calcul_impot/2026/",
+      "type": "simulateurNG"
+    }
+  ],
+  "contacts": [
+    "Service d'information des impôts",
+    "Service en charge des impôts (trésorerie, service des impôts...)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Site des impôts",
+      "url": "https://www.impots.gouv.fr/portail/"
+    },
+    {
+      "titre": "Brochure pratique 2026 - Déclaration des revenus de 2025",
+      "url": "https://www.impots.gouv.fr/www2/fichiers/documentation/brochure/ir_2026/accueil.htm"
+    },
+    {
+      "titre": "Impôt sur le revenu : dépliants d'information",
+      "url": "https://www.impots.gouv.fr/brochures-et-depliants"
+    }
+  ],
+  "slug": "impot-sur-le-revenu-pension-alimentaire-percue-par-un-parent-ou-grand-parent",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "impot-sur-le-revenu-declaration-et-revenus-a-declarer",
+      "titre": "Impôt sur le revenu : déclaration et revenus à déclarer"
+    }
+  ]
+}

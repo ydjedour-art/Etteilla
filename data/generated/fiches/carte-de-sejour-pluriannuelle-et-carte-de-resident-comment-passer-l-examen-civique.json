@@ -1,0 +1,61 @@
+{
+  "id": "F39530",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Carte de séjour pluriannuelle et carte de résident : comment passer l’examen civique ?",
+  "theme": "Étranger - Europe",
+  "description": "Pour accéder à une carte de séjour pluriannuelle ou à une carte de résident, il faut passer un examen civique.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-02-10",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F39530",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Titres, cartes de séjour et documents de circulation pour étranger en France",
+    "Carte de séjour pluriannuelle et carte de résident : comment passer l’examen civique ?"
+  ],
+  "introduction": "Depuis le 1er janvier 2026, les ressortissants étrangers non européens qui sollicitent la délivrance d’une 1re carte de séjour pluriannuelle ou d’une 1re carte de résident doivent justifier de la réussite à un examen civique. Toutes les cartes de séjour pluriannuelles et toutes les cartes de résident ne sont pas concernées par cette obligation. Nous faisons un point sur la réglementation qui diffère selon le titre de séjour que vous avez.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "[Attention] Une connaissance suffisante du français est également obligatoire pour accéder à une 1re carte de séjour pluriannuelle ou à une 1re carte de résident."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles L413-7",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042771492/"
+    },
+    {
+      "titre": "Code de l’entrée et du séjour des étrangers et du droit d’asile : articles L433-1 à L433-3-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042771972/2026-01-01/#LEGISCTA000042776368"
+    },
+    {
+      "titre": "Arrêté du 10 octobre 2025 relatif au programme, aux épreuves et aux modalités d'organisation de l'examen civique",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052381620"
+    },
+    {
+      "titre": "Arrêté du 30/12/2025 fixant les modalités d'aménagements d'épreuves et de dispense de la production des diplômes, certifications ou attestations prévu au deuxième alinéa du 2° de l'article R. 413-15 et au quatrième alinéa de l'article R. 433-5 du code de l'entrée et du séjour des étrangers et du droit d'asile",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053227346"
+    },
+    {
+      "titre": "Arrêté du 20 août 2025 relatif à la procédure d’agrément des organismes en charge de la mise en oeuvre de l’examen civique",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000052129766/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "carte-de-sejour-pluriannuelle-et-carte-de-resident-comment-passer-l-examen-civique",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "titres-cartes-de-sejour-et-documents-de-circulation-pour-etranger-en-france",
+      "titre": "Titres, cartes de séjour et documents de circulation pour étranger en France"
+    }
+  ]
+}

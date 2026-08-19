@@ -1,0 +1,59 @@
+{
+  "id": "F31434",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Pension d'invalidité : majoration pour tierce personne (MTP)",
+  "theme": "Social - Santé",
+  "description": "La majoration pour tierce personne (MTP) est versée, sous conditions, pour couvrir les frais correspondants à une aide dans la vie quotidienne.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31434",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Invalidité du salarié dans le secteur privé",
+    "Pension d'invalidité : majoration pour tierce personne (MTP)"
+  ],
+  "introduction": "La majoration pour tierce personne (MTP) est versée, sous conditions, pour couvrir les frais correspondants à une aide dans la vie quotidienne. Vous souhaitez savoir à quoi sert la MTP, quelles sont les conditions pour la percevoir, quel est son montant,... ? Nous vous présentons les informations à connaître. Elles diffèrent selon que vous soyez en activité, en retraite anticipée ou en retraite.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "[Attention] La MTP a été remplacée, depuis le 1er mars 2013, par la prestation complémentaire pour recours à tierce personne (PCRTP). La MTP reste donc applicable uniquement dans quelques situations (droits ouverts avant 2013 ou situations spécifiques)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la sécurité sociale : articles L355-1 à L355-3",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006156099/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : article R355-1 à R355-6",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006156619/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Info Retraite - Mon compte retraite",
+      "url": "https://www.info-retraite.fr/portail-services/login",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "Caisse primaire d'assurance maladie (CPAM)",
+    "Mutualité sociale agricole (MSA)",
+    "Caisse régionale de retraite (Cnav, Carsat, CGSS ou CSS)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "pension-d-invalidite-majoration-pour-tierce-personne-mtp",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "invalidite-du-salarie-dans-le-secteur-prive",
+      "titre": "Invalidité du salarié dans le secteur privé"
+    }
+  ]
+}

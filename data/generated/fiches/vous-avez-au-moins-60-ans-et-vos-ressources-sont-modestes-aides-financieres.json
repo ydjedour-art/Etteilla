@@ -1,0 +1,88 @@
+{
+  "id": "F38581",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Vous avez au moins 60 ans et vos ressources sont modestes : aides financières",
+  "theme": "Social - Santé",
+  "description": "À partir d'un certain âge, certaines aides peuvent vous être attribuées si vous avez de faibles ressources.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-30",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F38581",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Aides financières",
+    "Vous avez au moins 60 ans et vos ressources sont modestes : aides financières"
+  ],
+  "introduction": "À partir d'un certain âge, certaines aides peuvent vous être attribuées si vous avez de faibles ressources.",
+  "chapitres": [
+    {
+      "titre": "Aides pour avoir un revenu ou compléter votre revenu",
+      "contenu": [
+        "• L'allocation de solidarité aux personnes âgées (Aspa) est une prestation mensuelle versée par votre caisse de retraite. Vos ressources ne doivent pas dépasser un certain montant et vous devez résider en France de manière stable. En général, vous devez avoir au moins 65 an pour percevoir l'Aspa, mais il y a des exceptions.",
+        "• Si vous ne percevez pas de pension de retraite et que vous avez fait une demande d'Aspa, mais que celle-ci a été rejetée, vous pouvez bénéficier de l'allocation simple d'aide à domicile aux personnes âgées. Vous devez remplir des conditions d'âge, de ressources et de résidence en France.",
+        "• Si vous êtes invalide (invalidité générale réduisant votre capacité de travail ou de gain d'au moins 2/3) et que vous n'avez pas l'âge d'obtenir l'allocation de solidarité aux personnes âgées (Aspa), vous pouvez obtenir l'allocation supplémentaire d'invalidité (Asi). Cette allocation vient compléter vos revenus pour vous faire atteindre un montant total minimal. Vous devez remplir des conditions de ressources et de résidence en France.",
+        "• Si vous êtes demandeur d'emploi et que vous avez épuisé vos droits à l'indemnisation chômage, l'allocation de solidarité spécifique (ASS) peut vous être accordée notamment si vos ressources mensuelles ne dépassent pas un certain plafond."
+      ]
+    },
+    {
+      "titre": "Aides pour payer le loyer",
+      "contenu": [
+        "Si votre logement est conventionné, vous pouvez demander l'aide personnalisée au logement (APL).",
+        "Dans les autres cas, vous pouvez demander l'allocation de logement à caractère social (ALS)."
+      ]
+    },
+    {
+      "titre": "Aide pour payer vos dépenses de santé",
+      "contenu": [
+        "Si vous avez de faibles ressources, vous pouvez demander la complémentaire santé solidaire (C2S). Elle prend en charge ce qui n'est pas remboursé par l'Assurance maladie. La C2S est gratuite ou payante selon vos revenus."
+      ]
+    },
+    {
+      "titre": "Aides pour payer une personne pour faire les tâches ménagères",
+      "contenu": [
+        "• Si vous avez des difficultés à faire certains gestes du quotidien, vous pouvez obtenir une aide financière pour rémunérer une personne (appelée aide à domicile). Elle viendra chez vous faire certaines tâches ménagères (par exemple, aide pour les repas, le ménage, la lessive). Pour cela, vous devez respecter des conditions d'âge et de ressources.",
+        "• Si vous êtes en perte d'autonomie, vous pouvez obtenir l'allocation personnalisée d'autonomie (Apa) sous certaines conditions. Cette allocation sert à payer (en totalité ou en partie) les dépenses nécessaires pour vous permettre de rester à votre domicile. Vos besoins seront évalués par une équipe médico-sociale du département qui se déplacera à votre domicile pour vous rencontrer. Suite à cette visite, vous recevrez une proposition de plan d’aide."
+      ]
+    },
+    {
+      "titre": "Aide pour payer le portage des repas",
+      "contenu": [
+        "Si votre état de santé ne vous permet plus de faire vos repas, vous pouvez bénéficier d'une aide financière pour recevoir chez vous des plateaux-repas chauds et prêts à consommer. Vous devez remplir des conditions d'âge et de ressources."
+      ]
+    },
+    {
+      "titre": "Aide pour payer des travaux d'adaptation de votre logement",
+      "contenu": [
+        "Si vous souhaitez faire des travaux d’adaptation de votre logement liés à votre perte d'autonomie, notamment pour rendre votre logement accessible ou pour y éviter les accidents, vous pouvez bénéficier, sous conditions (notamment de ressources), du dispositif d'aide MaPrimeAdapt."
+      ]
+    },
+    {
+      "titre": "Aides versées par vos caisses de retraite",
+      "contenu": [
+        "Les caisses de retraite peuvent vous verser une aide financière si vous avez besoin d’un accompagnement à domicile ou si vous faites face à une situation exceptionnelle (par exemple, sortie d’hospitalisation, décès de la personne qui vit avec vous)."
+      ]
+    },
+    {
+      "titre": "Crédits d'impôt sur le revenu",
+      "contenu": [
+        "• Si vous faites appel à un service d’aide à domicile ou si vous employez directement une aide à domicile, vous pouvez bénéficier d'un crédit d'impôt.",
+        "• Si vous voulez faire effectuer dans votre domicile des travaux d'équipement liés à la perte d'autonomie, vous pouvez bénéficier sous conditions d'un crédit d'impôt. Il est réservé aux personnes ayant des revenus intermédiaires. Si vos revenus sont modestes ou très modestes, vous devez demander la prime MaPrimeAdapt'. Vous ne pouvez pas bénéficier à la fois du crédit d'impôt et de la prime."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "vous-avez-au-moins-60-ans-et-vos-ressources-sont-modestes-aides-financieres",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "aides-financieres",
+      "titre": "Aides financières"
+    }
+  ]
+}

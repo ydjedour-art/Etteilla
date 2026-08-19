@@ -1,0 +1,54 @@
+{
+  "id": "F36759",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Carnet d'information du logement (CIL)",
+  "theme": "Logement",
+  "description": "Le carnet d'information du logement (CIL) centralise les caractéristiques du logement et les travaux d’amélioration de la performance énergétique réalisés.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-05-26",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F36759",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Diagnostic immobilier",
+    "Carnet d'information du logement (CIL)"
+  ],
+  "introduction": "Le carnet d'information du logement (CIL) vise à centraliser les informations utiles sur les caractéristiques du logement et sur les travaux déjà réalisés pour faciliter et accompagner les travaux d’amélioration de la performance énergétique. Il concerne les logements collectifs et individuels, neufs ou anciens. Nous faisons le point sur la réglementation.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de la construction et de l'habitation : articles L126-35-2 à L126-35-11",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000043966757/#LEGISCTA000043966757"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : articles R126-32 à R126-34",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000046823567/#LEGISCTA000046823567"
+    },
+    {
+      "titre": "Arrêté du 27 décembre 2022 relatif au carnet d'information du logement",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000046821120"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Agence nationale de l'habitat (Anah)",
+    "Agence départementale pour l'information sur le logement (Adil)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Carnet d'information du logement (CIL)",
+      "url": "https://www.ecologie.gouv.fr/sites/default/files/documents/guide_proprietaire_carnet_d_information_du_logement.pdf"
+    }
+  ],
+  "slug": "carnet-d-information-du-logement-cil",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "diagnostic-immobilier",
+      "titre": "Diagnostic immobilier"
+    }
+  ]
+}

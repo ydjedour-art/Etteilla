@@ -1,0 +1,94 @@
+{
+  "id": "F1094",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Adoption de l'enfant mineur de l'époux, du partenaire de Pacs ou du concubin",
+  "theme": "Famille - Scolarité",
+  "description": "L'adoption de l'enfant mineur de l'époux, du partenaire de Pacs ou du concubin est prononcée par le tribunal à la demande de l'adoptant si le mineur y consent",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-03-11",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1094",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Adoption",
+    "Adoption de l'enfant mineur de l'époux, du partenaire de Pacs ou du concubin"
+  ],
+  "introduction": "Si vous êtes en couple avec le père ou la mère d'un enfant, vous pouvez adopter ce mineur sous certaines conditions. La procédure se déroule devant le tribunal judiciaire. C'est l'adoptant qui doit faire la demande de l'adoption. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "L'adoption crée un lien de filiation entre l'adoptant et l'adopté. L'adoption peut être simple ou plénière :",
+        "• En cas d'adoption simple, les liens avec la famille d'origine sont maintenus.",
+        "• En cas d'adoption plénière, il y a une rupture totale des liens de l'adopté avec sa famille d'origine."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : articles 343 à 343-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006150070/"
+    },
+    {
+      "titre": "Code civil : articles 344 à 345-2",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006150071/"
+    },
+    {
+      "titre": "Code civil : articles 346 à 347",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006150072/"
+    },
+    {
+      "titre": "Code civil : articles 348 à 350",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000046369344/"
+    },
+    {
+      "titre": "Code civil : articles 370-1 à 370-1-2",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000046369926/"
+    },
+    {
+      "titre": "Code civil : articles 370-1-3 à 370-1-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000046369928/"
+    },
+    {
+      "titre": "Code civil : articles 370-1-6 à 370-1-8",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000046369934/"
+    },
+    {
+      "titre": "Code civil : articles 353-1 à 354",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000046369853/"
+    },
+    {
+      "titre": "Code de procédure civile : articles 1166 à 1176",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070716/LEGISCTA000006149749/"
+    },
+    {
+      "titre": "Code de procédure civile : articles 808 à 811",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070716/LEGISCTA000006149698/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Requête en adoption simple de l'enfant mineur du conjoint, partenaire ou concubin",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_15741_06.do",
+      "type": "formulaireNG"
+    },
+    {
+      "titre": "Requête en adoption plénière de l'enfant mineur du conjoint, partenaire ou concubin",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_15743.do",
+      "type": "formulaireNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "adoption-de-l-enfant-mineur-de-l-epoux-du-partenaire-de-pacs-ou-du-concubin",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "adoption",
+      "titre": "Adoption"
+    }
+  ]
+}

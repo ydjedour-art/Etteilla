@@ -1,0 +1,139 @@
+{
+  "id": "F1280",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Allocation de logement sociale (ALS)",
+  "theme": "Logement",
+  "description": "L'ALS est attribuée sous conditions. L'ALS est versée si la personne ne peut pas prétendre à l'APL ou à l'ALF.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-07-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1280",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Aides personnelles au logement",
+    "Allocation de logement sociale (ALS)"
+  ],
+  "introduction": "Vous souhaitez obtenir une aide financière pour réduire le montant de votre loyer (ou de votre redevance si vous êtes résident en établissement, par exemple en Ehpad) ? Vous pouvez percevoir l'allocation de logement sociale (ALS) si vous respectez certaines conditions. L'ALS est versée si vous ne pouvez prétendre ni à l'aide personnalisée au logement (APL), ni à l'allocation de logement familiale (ALF). Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de la construction et de l'habitation : articles D842-1 à D842-4",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000038878689"
+    },
+    {
+      "titre": "Code la construction et de l'habitation : articles R822-3 à R822-17",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000038850156/#LEGISCTA000038879003"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : articles R822-23 à R822-25",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000038878951/"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : articles R823-1 à D823-9",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000038878941"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : articles D832-1 à D832-4",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000038878768"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : articles R823-10 à D823-15",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000038878921"
+    },
+    {
+      "titre": "Arrêté du 23 décembre 2002 relatif aux pièces justificatives pour la demande d'allocation logement",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000782859/"
+    },
+    {
+      "titre": "Arrêté du 27 septembre 2019 relatif au calcul des aides personnelles au logement et de la prime de déménagement",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000039160329"
+    },
+    {
+      "titre": "Décret n°2016-1385 du 12 octobre 2016 relatif à la prise en compte du patrimoine dans le calcul des aides personnelles au logement",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000033243725"
+    },
+    {
+      "titre": "Réponse ministérielle du 19 octobre 2019 relative aux aides au logement des personnes âgées",
+      "url": "http://questions.assemblee-nationale.fr/q15/15-10511QE.htm"
+    },
+    {
+      "titre": "Réponse ministérielle du 26 novembre 2019 relative aux allocations logement des bénéficiaires de l'allocation aux adultes handicapés (AAH)",
+      "url": "http://questions.assemblee-nationale.fr/q15/15-20158QE.htm"
+    },
+    {
+      "titre": "Réponse ministérielle du 30 juin 2020 relatif à la contemporanéité des aides au logement",
+      "url": "http://questions.assemblee-nationale.fr/q15/15-26546QE.htm"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demande d’aide personnelle au logement (APL, ALF, ALS) - Caf",
+      "url": "https://wwwd.caf.fr/wps/portal/caffr/aidesetservices/lesservicesenligne/faireunedemandedeprestation/demanderlaideaulogement",
+      "type": "selNG"
+    },
+    {
+      "titre": "Attestation de loyer ou résidence en foyer",
+      "url": "https://www.msa.fr/lfy/documents/11566/48471/Attestation+de+loyer+et+de+r%C3%A9sidence+en+foyer.pdf",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Demande d'aide personnelle au logement (APL, ALF, ALS) Caf et MSA",
+      "url": "https://www.msa.fr/lfy/documents/11566/48471/Demande+d%27aide+au+logement.pdf",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Déclaration des loyers perçus pour l'aide au logement",
+      "url": "https://partenaires.caf.fr/portal/auth/login",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Déclaration de ressources auprès de la MSA",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_10400.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Calculer son droit à une aide personnelle au logement (APL, ALF, ALS) - Caf",
+      "url": "https://wwwd.caf.fr/wps/portal/caffr/aidesetdemarches/mesdemarches/faireunesimulation/lelogement#/preparation",
+      "type": "simulateurNG"
+    },
+    {
+      "titre": "Calculer son droit à une aide personnelle au logement (APL, ALF, ALS) - MSA",
+      "url": "https://www.mesdroitssociaux.gouv.fr/dd1pnds-ria/#destination/simu-foyer",
+      "type": "simulateurNG"
+    },
+    {
+      "titre": "Connaître les prestations sociales auxquelles vous pouvez avoir droit",
+      "url": "https://www.mesdroitssociaux.gouv.fr",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "Caisse d'allocations familiales (Caf)",
+    "Mutualité sociale agricole (MSA)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Éléments de calcul des aides personnelles au logement",
+      "url": "https://www.ecologie.gouv.fr/sites/default/files/aides_personnelles_au_logement_elements_de_calcul_edition_2022.pdf"
+    },
+    {
+      "titre": "Plafonds de ressources et règles de calcul des allocations logement",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000039160329"
+    },
+    {
+      "titre": "Les aides au logement pour les personnes âgées en Ehpad",
+      "url": "https://www.pour-les-personnes-agees.gouv.fr/vivre-dans-un-ehpad/aides-financieres-en-ehpad/les-aides-au-logement-en-ehpad"
+    }
+  ],
+  "slug": "allocation-de-logement-sociale-als",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "aides-personnelles-au-logement",
+      "titre": "Aides personnelles au logement"
+    }
+  ]
+}

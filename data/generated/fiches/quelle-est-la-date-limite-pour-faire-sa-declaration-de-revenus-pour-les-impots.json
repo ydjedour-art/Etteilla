@@ -1,0 +1,110 @@
+{
+  "id": "F359",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quelle est la date limite pour faire sa déclaration de revenus pour les impôts ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "La déclaration 2026 des revenus de 2025 est terminée. La déclaration 2027 des revenus de 2026 débutera en avril 2027.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-06-05",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F359",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Impôt sur le revenu : déclaration et revenus à déclarer",
+    "Quelle est la date limite pour faire sa déclaration de revenus pour les impôts ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "La déclaration des revenus par internet est obligatoire si votre résidence principale est équipée d'un accès à internet et que vous êtes en mesure de faire votre déclaration en ligne.",
+        "La déclaration 2026 des revenus de 2025 est terminée.",
+        "La déclaration 2027 des revenus de 2026 débutera en avril 2027.",
+        "[Complement] La déclaration 2026 des revenus de 2025 est terminée. La déclaration 2027 des revenus de 2026 débutera en avril 2027.",
+        "Service en charge des impôts (trésorerie, service des impôts...)",
+        "Si vous avez laissé passer la date limite, vous pouvez encore remplir votre déclaration de revenus.",
+        "La déclaration en ligne reste disponible",
+        "Vous pouvez faire votre déclaration de revenus depuis votre espace personnel en ligne :",
+        "Déclarer vos revenus en ligne",
+        "Connexion avec l’identifiant fiscal du contribuable ou via FranceConnect. Ensuite, double authentification avec réception d’un code à 6 chiffres par mail.",
+        "La déclaration en ligne n'est plus disponible",
+        "Vous pouvez faire votre déclaration de revenus en utilisant un formulaire papier :",
+        "Déclaration 2026 des revenus 2025 (papier)",
+        "Service en charge des impôts (trésorerie, service des impôts...)",
+        "[À savoir] Si vous déclarez vos revenus en retard, l'administration fiscale vous applique des pénalités."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Bofip-Impôts n°BOI-IR-DECLA relatif aux obligations déclaratives",
+      "url": "http://bofip.impots.gouv.fr/bofip/2081-PGP"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Impôts : accéder à votre espace Finances publiques",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Estimer le montant de son impôt sur les revenus de 2025 (déclaration de 2026)",
+      "url": "https://simulateur-ir-ifi.impots.gouv.fr/calcul_impot/2026/",
+      "type": "simulateurNG"
+    },
+    {
+      "titre": "Déclarer vos revenus en ligne",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Déclaration 2026 des revenus 2025 (papier)",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/2042/declaration-des-revenus",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Vérifier la date limite de votre déclaration de revenus",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/DeclarationImpots",
+      "type": "simulateurNG"
+    }
+  ],
+  "contacts": [
+    "Service d'information des impôts",
+    "Service en charge des impôts (trésorerie, service des impôts...)",
+    "France Services / Maison de services au public"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Site des impôts",
+      "url": "https://www.impots.gouv.fr/portail/"
+    },
+    {
+      "titre": "Brochure pratique 2026 - Déclaration des revenus de 2025",
+      "url": "https://www.impots.gouv.fr/www2/fichiers/documentation/brochure/ir_2026/accueil.htm"
+    },
+    {
+      "titre": "Impôt sur le revenu : dépliants d'information",
+      "url": "https://www.impots.gouv.fr/brochures-et-depliants"
+    },
+    {
+      "titre": "Quoi de neuf pour la déclaration de revenus en 2026 ?",
+      "url": "https://www.impots.gouv.fr/quoi-de-neuf-pour-la-declaration-de-revenus-en-2026"
+    },
+    {
+      "titre": "Déclarer mes revenus",
+      "url": "https://www.impots.gouv.fr/portail/node/4486"
+    }
+  ],
+  "slug": "quelle-est-la-date-limite-pour-faire-sa-declaration-de-revenus-pour-les-impots",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "impot-sur-le-revenu-declaration-et-revenus-a-declarer",
+      "titre": "Impôt sur le revenu : déclaration et revenus à déclarer"
+    }
+  ]
+}

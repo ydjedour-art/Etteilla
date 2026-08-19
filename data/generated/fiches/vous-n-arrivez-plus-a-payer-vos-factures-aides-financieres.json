@@ -1,0 +1,64 @@
+{
+  "id": "F38589",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Vous n'arrivez plus à payer vos factures : aides financières",
+  "theme": "Social - Santé",
+  "description": "Si vous avez des revenus modestes, vous pouvez obtenir des aides pour alléger le montant de vos factures d'eau, de téléphone, d'électricité et/ou de gaz.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-30",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F38589",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Aides financières",
+    "Vous n'arrivez plus à payer vos factures : aides financières"
+  ],
+  "introduction": "Si vous avez des revenus modestes, vous pouvez obtenir des aides pour alléger le montant de vos factures d'eau, de téléphone, d'électricité et/ou de gaz.",
+  "chapitres": [
+    {
+      "titre": "Aide pour payer vos factures d'eau",
+      "contenu": [
+        "Chaque commune décide si elle met en place une tarification sociale de l'eau. Il s'agit d'aider les personnes aux revenus modestes à payer leur facture d'eau. La forme de l'aide peut varier selon la commune ayant mis en place la tarification sociale.",
+        "Pour obtenir ces informations, renseignez-vous directement auprès de votre CCAS. Vous pouvez obtenir ses coordonnées auprès de votre mairie.",
+        "Mairie"
+      ]
+    },
+    {
+      "titre": "Aide pour payer votre abonnement de téléphone fixe",
+      "contenu": [
+        "Si votre opérateur est Orange et que vous percevez le revenu de solidarité active (RSA) ou l'allocation aux adultes handicapés (AAH) ou l'allocation de solidarité spécifique (ASS), vous pouvez bénéficier d'une réduction dite réduction sociale téléphonique sur votre abonnement au téléphone fixe de votre résidence principale."
+      ]
+    },
+    {
+      "titre": "Aide pour payer les factures d'électricité et de gaz",
+      "contenu": [
+        "Chaque année au mois d'avril, un chèque énergie est envoyé par courrier aux ménages aux revenus modestes afin de les aider à payer leurs factures d'électricité et de gaz.",
+        "C'est l'administration fiscale qui se charge de déterminer la liste des personnes remplissant les conditions d'attribution du chèque énergie sur la base de la déclaration annuelle des revenus.",
+        "Si vous n'avez pas reçu de chèque énergie alors que vous avez des revenus modestes ou que votre situation a changé (baisse de revenus, naissance, etc.), il est possible d’en faire la demande en général entre le mois d’octobre et le mois de février."
+      ]
+    },
+    {
+      "titre": "Aide du Fonds de solidarité pour le logement (FSL)",
+      "contenu": [
+        "Le FSL apporte une aide financière à une personne qui a des difficultés à payer les frais liés à son logement.",
+        "L'aide peut servir à payer les dettes des factures d'électricité, de gaz, d'eau, de téléphone.",
+        "L'aide du FSL peut être versée sous forme de prêt (à rembourser au FSL) ou sous forme de subvention (sans remboursement)."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "vous-n-arrivez-plus-a-payer-vos-factures-aides-financieres",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "aides-financieres",
+      "titre": "Aides financières"
+    }
+  ]
+}

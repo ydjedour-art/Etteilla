@@ -1,0 +1,33 @@
+{
+  "id": "F36509",
+  "type_publication": "Recherche guidée",
+  "titre": "[RG - Report des jours de congés non pris sur l'année suivante]",
+  "theme": "Travail - Formation",
+  "description": "[RG - Report des jours de congés non pris sur l'année suivante]",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2022-07-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F36509",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Congés dans le secteur privé",
+    "[RG - Report des jours de congés non pris sur l'année suivante]"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "rg-report-des-jours-de-conges-non-pris-sur-l-annee-suivante",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "conges-dans-le-secteur-prive",
+      "titre": "Congés dans le secteur privé"
+    }
+  ]
+}

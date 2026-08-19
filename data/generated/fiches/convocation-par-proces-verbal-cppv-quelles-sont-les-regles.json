@@ -1,0 +1,94 @@
+{
+  "id": "F33849",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Convocation par procès-verbal (CPPV) : quelles sont les règles ?",
+  "theme": "Justice",
+  "description": "La convocation par procès verbal permet de juger la personne poursuivie dans un délai maximum de 6 mois après sa garde à vue.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-06-02",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33849",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Affaire pénale",
+    "Convocation par procès-verbal (CPPV) : quelles sont les règles ?"
+  ],
+  "introduction": "La convocation sur procès-verbal (CPPV) permet au procureur de la République de faire juger une personne qui a commis un délit dans un délai maximum de 6 mois après son défèrement. Les faits doivent être établis et ne pas nécessiter d'enquête complémentaire. Voici les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Qu'est-ce qu'une convocation par procès-verbal ?",
+      "contenu": [
+        "La convocation par procès-verbal (CPPV) permet au procureur de la République de faire comparaître devant le tribunal correctionnel une personne majeure ayant commis un délit.",
+        "Cette procédure est utilisée pour juger des affaires pour lesquelles les faits sont suffisamment établis et ne nécessitent pas une enquête approfondie. Elle permet un jugement rapide d'une affaire pénale.",
+        "Seuls les délits sont concernés par cette procédure.",
+        "Elle ne s'applique que pour les personnes majeures.",
+        "[Attention] Certains types de délits, tels que les délits de presse, les délits politique et les délits liés à la chasse ou à la pêche, en sont exclus."
+      ]
+    },
+    {
+      "titre": "Comment se déroule la procédure de convocation par procès-verbal ?",
+      "contenu": [
+        "La procédure par procès-verbal commence par le défèrement avant la remise de la convocation.",
+        "Défèrement",
+        "Après une enquête préliminaire ou de flagrance menée par les services de police ou de gendarmerie, le procureur de la République est avisé.",
+        "Il peut décider de poursuivre le prévenu par la procédure de convocation par procès-verbal (CPPV).",
+        "La personne qui a été mise en garde à vue est déférée devant le procureur de la République.",
+        "Le procureur de la République lui notifie les faits qui lui sont reprochés.",
+        "Il l'informe de son droit de faire des déclarations, de répondre aux questions qui lui sont posées ou de se taire.",
+        "Il avise le prévenu de son droit à l’assistance d’un interprète s’il ne comprend pas le français.",
+        "Le prévenu peut être assisté par un avocat de son choix. Il peut également demander à être assisté par un avocat commis d’office.",
+        "Avocat",
+        "L’avocat peut consulter immédiatement le dossier.",
+        "Si le prévenu n’a pas d’avocat, il peut consulter lui-même le dossier.",
+        "[À savoir] Le défèrement d'un prévenu ne se déduit pas sur le temps de la garde à vue. À l'issue de la garde à vue, le défèrement doit avoir lieu le jour même.",
+        "Remise de la convocation",
+        "Le procureur de la République notifie au prévenu sa date de comparution devant le tribunal correctionnel.",
+        "Il remet au prévenu une copie du procès verbal de convocation.",
+        "La convocation par procès-verbal mentionne les mêmes éléments que la citation directe. Elle précise le lieu, l'heure et la date d'audience.",
+        "La date d'audience doit être comprise dans un délai minimum de 10 jours et maximum de 6 mois. Le prévenu peut renoncer au délai minimum de 10 jours en présence de son avocat.",
+        "Le procureur de la République informe le prévenu qu'il doit apporter à l'audience les justificatifs de revenu et avis d'imposition (ou de non-imposition). Ces éléments permettent d'éclairer le tribunal sur la situation financière, familiale et sociale du prévenu pour la fixation de la peine.",
+        "Le procureur de la République informe l'avocat choisi ou le bâtonnier si le prévenu demande à être assister par un avocat commis d'office, de la date et de l'heure de l'audience.",
+        "Si le prévenu a des ressources insuffisantes, il peut bénéficier de l'aide juridictionnelle.",
+        "La victime est avisée par tout moyen de la date et de l'heure de l'audience et de son droit à se constituer partie civile.",
+        "Le procureur de la République fait convoquer par tous moyens les éventuels témoins."
+      ]
+    },
+    {
+      "titre": "Que se passe-t-il après une convocation par procès-verbal ?",
+      "contenu": [
+        "Dans l'attente de l'audience, le procureur de la République peut demander le placement du prévenu sous contrôle judiciaire ou assignation à résidence avec surveillance électronique. Il saisit alors le juge des libertés et de la détention.",
+        "Le juge des libertés et de la détention entend le prévenu et décide ou non de prononcer ces mesures.",
+        "Il notifie verbalement sa décision au prévenu.",
+        "[À savoir] Le prévenu peut saisir le tribunal correctionnel d'une demande de mainlevée ou d'une modification du contrôle judiciaire ou de l'assignation à résidence avec surveillance électronique.",
+        "Le tribunal compétent pour le juger est déterminé en fonction d'un des critères suivants :",
+        "• Lieu où l'infraction a été commise",
+        "• Résidence du prévenu",
+        "• Lieu de son arrestation ou de sa détention.",
+        "Le procès se déroule devant le tribunal correctionnel.",
+        "Le procès doit avoir lieu dans un délai de 10 jours à 6 mois après la délivrance de la convocation."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de procédure pénale : articles 393 à 397-7",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000006182903/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Maison de justice et du droit"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "convocation-par-proces-verbal-cppv-quelles-sont-les-regles",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "affaire-penale",
+      "titre": "Affaire pénale"
+    }
+  ]
+}

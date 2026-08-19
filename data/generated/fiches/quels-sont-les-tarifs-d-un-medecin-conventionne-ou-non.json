@@ -1,0 +1,148 @@
+{
+  "id": "F17042",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quels sont les tarifs d'un médecin (conventionné ou non) ?",
+  "theme": "Social - Santé",
+  "description": "Le tarif des honoraires d'un médecin varie selon qu'il est conventionné ou non conventionné.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2024-12-22",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F17042",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Remboursement des soins par la Sécurité sociale",
+    "Quels sont les tarifs d'un médecin (conventionné ou non) ?"
+  ],
+  "introduction": "Lorsque vous consultez un médecin, le tarif de la consultation varie selon que le médecin est conventionné ou non conventionné et de son secteur d'activité (secteur 1 ou 2).",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "En secteur 1, le médecin conventionné (généraliste ou spécialiste) a des tarifs fixés par la convention des médecins et ne pratique pas de dépassements d'honoraires.",
+        "[À noter] Il est possible qu’à titre exceptionnel, le médecin conventionné (secteur 1) facture des dépassements d’honoraires. C'est le cas si vous manifestez une exigence particulière (lieu ou horaire de consultation) ou en cas de non-respect du parcours de soins coordonnés.",
+        "En secteur 2, le médecin (généraliste ou spécialiste) peut pratiquer des dépassements d'honoraires.",
+        "Vous avez le droit d'être informé sur le montant des actes et prestations proposés lors de consultations médicales.",
+        "Pour savoir quel tarif pratique un professionnel de santé, consultez l'annuaire santé sur le site Ameli.",
+        "Les tarifs varient selon que vous êtes en métropole ou dans un DOM.",
+        "[À savoir] Votre mutuelle peut compléter le remboursement de l'Assurance maladie.",
+        "En métropole",
+        "Le tarif dépend du secteur de rattachement de votre médecin.",
+        "Votre mutuelle peut compléter le remboursement de l'Assurance maladie.",
+        "Médecin conventionné - Secteur 1",
+        "La consultation est fixée à 30 € par la convention.",
+        "Le remboursement par l'Assurance maladie est de 70 % si c'est votre médecin traitant.",
+        "Le remboursement par l'Assurance maladie est donc de 19 €, car il faut déduire le forfait de 2 €.",
+        "[À noter] Si le médecin n’est pas votre médecin traitant : le remboursement est de 30 %. Cependant, un accès direct est autorisé et permet un remboursement à 70 % pour les spécialistes suivants : gynécologues, ophtalmologistes, psychiatres/neuropsychiatres pour les 16-25 ans et stomatologues.",
+        "Si vous êtes affilié au régime local d'Alsace-MoselleRemboursement du régime local d'Alsace-Moselle, vous bénéficiez de taux spécifiques de remboursement des actes de soins de ville ou hospitaliers. En effet, ce régime assure un complément à la prise en charge par le régime général.",
+        "Médecin conventionné - Secteur 2",
+        "La situation varie selon que le médecin est adhérent à l'Optam ou non.",
+        "L'Optam (option pratique tarifaire maîtrisée, anciennement contrat d'accès aux soins) est un accord entre les médecins conventionnés et l'Assurance maladie. Cet accord autorise des dépassements d'honoraires encadrés.",
+        "Pour savoir quel tarif pratique un professionnel de santé, consultez l'annuaire santé sur le site Ameli. Cet annuaire indique si le médecin est en dépassement maîtrisé (Optam) ou honoraires libres.",
+        "Adhérent à l'Optam",
+        "L’Assurance maladie rembourse sur la base des tarifs fixés dans la convention médicale (tarifs applicables aux médecins de secteur 1).",
+        "Le montant des éventuels dépassements d'honoraires reste à la charge du patient.",
+        "La consultation peut être supérieure à 30 €, chez un généraliste ou un spécialiste.",
+        "Cependant, la base du remboursement est de 30 € (prix d'une consultation en secteur 1).",
+        "Vous serez remboursé de 19 €, une fois déduit le forfait de 2 €.",
+        "[Exemple] Si la consultation est de 35 €, vous serez aussi remboursé 19 €, car le calcul se fait à partir de 30 € et non de 35 €. Il reste donc 16 € à votre charge. une fois déduit le forfait de 2 €.",
+        "Si vous êtes affilié au régime local d'Alsace-MoselleRemboursement du régime local d'Alsace-Moselle, vous bénéficiez de taux spécifiques de remboursement des actes de soins de ville ou hospitaliers. En effet, ce régime assure un complément à la prise en charge par le régime général.",
+        "Non adhérent à l'Optam",
+        "Le médecin non adhérent à l'Optam fixe librement ses tarifs et peut donc pratiquer les dépassements d'honoraires de son choix.",
+        "L'Assurance maladie rembourse les consultations et les actes sur la base de tarifs fixés dans la convention médicale (tarifs applicables aux médecins de secteur 2).",
+        "Le montant des éventuels dépassements d'honoraires reste à la charge du patient.",
+        "La consultation peut être supérieure à 30 €, chez un généraliste ou un spécialiste.",
+        "Cependant, la base du remboursement est de 23 €.",
+        "Vous serez donc remboursé de 14,10 €, une fois déduit le forfait de 2 €.",
+        "Ce remboursement sera le même que vous ayez payé la consultation, 30,50 €, 35 € ou 50 €.",
+        "Si vous êtes affilié au régime local d'Alsace-MoselleRemboursement du régime local d'Alsace-Moselle, vous bénéficiez de taux spécifiques de remboursement des actes de soins de ville ou hospitaliers. En effet, ce régime assure un complément à la prise en charge par le régime général.",
+        "Médecin non conventionné (secteur 3)",
+        "Le médecin n'adhère pas à la convention médicale. Il pratique ses tarifs librement.",
+        "L'Assurance maladie rembourse les consultations et les actes sur la base d'un tarif dit d'autorité.",
+        "Quel que soit le montant de la consultation chez un médecin généraliste, vous serez remboursé de 0,43 € à 0,61 €.",
+        "Ce remboursement est de 0,85 € à 1,22 € chez un médecin spécialiste.",
+        "[Rappel] Si vous êtes affilié au régime local d'Alsace-MoselleRemboursement du régime local d'Alsace-Moselle, vous bénéficiez de taux spécifiques de remboursement des actes de soins de ville ou hospitaliers. En effet, ce régime assure un complément à la prise en charge par le régime général.",
+        "Quel que soit le montant de la consultation chez un médecin généraliste, vous serez remboursé de 0,43 € à 0,61 €.",
+        "Ce remboursement est de 0,85 € à 1,22 € chez un médecin spécialiste.",
+        "En Guadeloupe, Martinique, Guyane et à La Réunion",
+        "L'Assurance maladie vous informe :",
+        "• Des tarifs de consultations des médecins dans ces départements",
+        "• Des règles de remboursement applicables en fonction de votre situation dans le parcours de soins coordonnés.",
+        "[À savoir] Pour savoir quel tarif pratique un professionnel de santé, consultez l'annuaire santé sur le site Ameli. Votre mutuelle peut compléter le remboursement de l'Assurance maladie.",
+        "À Mayotte",
+        "L'Assurance maladie vous informe :",
+        "• Des tarifs de consultations ou téléconsultations des médecins à Mayotte",
+        "• Et des règles de remboursement applicables.",
+        "[À savoir] Pour savoir quel tarif pratique un professionnel de santé, consultez l'annuaire santé sur le site Ameli. Votre mutuelle peut compléter le remboursement de l'Assurance maladie."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la sécurité sociale : articles L162-5 à L162-5-4",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000006186122/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles R160-5 à R160-20",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000031795491/"
+    },
+    {
+      "titre": "Code de la santé publique : articles L1111-1 à L1111-9",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000006185255/"
+    },
+    {
+      "titre": "Arrêté du 30 mai 2018 relatif à l'information des personnes destinataires d'activités de prévention, de diagnostic et/ou de soins",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000037032490"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Ameli en ligne",
+      "url": "https://assure.ameli.fr/PortailAS/appmanager/PortailAS/assure?_somtc=true&_pageID=P1_NAISSANCE_ENFANT&utm_source=ameli.fr&utm_medium=lien_redirection&utm_campaign=NAISSANCE_ENFANT#idPopupWARecueilConsentement",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "Caisse primaire d'assurance maladie (CPAM)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Site de l'Assurance maladie",
+      "url": "https://www.ameli.fr/"
+    },
+    {
+      "titre": "Tarifs conventionnels des médecins",
+      "url": "https://www.ameli.fr/medecin/exercice-liberal/facturation-remuneration/tarifs"
+    },
+    {
+      "titre": "Nomenclature générale des actes professionnels",
+      "url": "https://www.ameli.fr/medecin/exercice-liberal/facturation-remuneration/nomenclatures-codage/ngap"
+    },
+    {
+      "titre": "Annuaire santé - Site Ameli",
+      "url": "https://annuairesante.ameli.fr/"
+    },
+    {
+      "titre": "Consultations en Guadeloupe, Martinique, Guyane et Réunion : vos remboursements",
+      "url": "https://www.ameli.fr/assure/remboursements/rembourse/consultations-telemedecine/guadeloupe-martinique-guyane-reunion"
+    },
+    {
+      "titre": "Consultations ou téléconsultations à Mayotte : vos remboursements",
+      "url": "https://www.ameli.fr/assure/remboursements/rembourse/consultations-telemedecine/mayotte"
+    },
+    {
+      "titre": "Remboursement du régime local d'Alsace-Moselle",
+      "url": "https://regime-local.fr/remboursements/"
+    }
+  ],
+  "slug": "quels-sont-les-tarifs-d-un-medecin-conventionne-ou-non",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "remboursement-des-soins-par-la-securite-sociale",
+      "titre": "Remboursement des soins par la Sécurité sociale"
+    }
+  ]
+}

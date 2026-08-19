@@ -1,0 +1,53 @@
+{
+  "id": "F2123",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Assurance habitation : qu'est-ce que la garantie responsabilité civile ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "La garantie responsabilité civile de votre assurance habitation permet de réparer les dommages causés aux tiers par un élément de votre logement.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-12-05",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2123",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Assurance habitation",
+    "Assurance habitation : qu'est-ce que la garantie responsabilité civile ?"
+  ],
+  "introduction": "La garantie responsabilité civile de votre assurance habitation sert à indemniser les tiers lorsque des dommages sont causés par vous, votre logement ou les personnes placées sous votre responsabilité. Par exemple, un incendie survenu chez vous peut se propager au logement voisin. Les règles applicables diffèrent selon que vous êtes locataire ou propriétaire. Nous vous présentons les règles applicables.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code civil : articles 1240 à 1244",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032021488/"
+    },
+    {
+      "titre": "Code des assurances : articles L121-1 à L121-17",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006157222"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Info Banque - Assurance"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Assurance responsabilité civile",
+      "url": "https://www.abe-infoservice.fr/assurance/assurance-responsabilite-civile"
+    },
+    {
+      "titre": "L'assurance multirisques habitation",
+      "url": "https://www.inc-conso.fr/content/lassurance-multirisques-habitation"
+    }
+  ],
+  "slug": "assurance-habitation-qu-est-ce-que-la-garantie-responsabilite-civile",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "assurance-habitation",
+      "titre": "Assurance habitation"
+    }
+  ]
+}

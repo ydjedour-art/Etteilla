@@ -1,0 +1,129 @@
+{
+  "id": "F39237",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Certificat d’immatriculation : comment remettre un véhicule en circulation après son retrait ?",
+  "theme": "Transports - Mobilité",
+  "description": "Après avoir effectué la restauration ou les transformations sur votre véhicule, vous pouvez demander sa remise en circulation.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-10-29",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F39237",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Carte grise (certificat d'immatriculation)",
+    "Certificat d’immatriculation : comment remettre un véhicule en circulation après son retrait ?"
+  ],
+  "introduction": "Après avoir effectué la restauration ou les transformations sur votre véhicule, vous souhaitez le remettre en circulation. Vous devez alors demander un nouveau certificat d’immatriculation (appelé auparavant carte grise) sur internet. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Préparer les documents",
+      "contenu": [
+        "Vous devez avoir une copie numérique (photo ou scan) des documents suivants :",
+        "• Formulaire de demande d'immatriculation cerfa n°13750 (à télécharger via le téléservice)",
+        "• Preuve du contrôle technique (sauf si le véhicule fait partie de ceux bénéficiant d'une dispense), lorsque le retrait du véhicule fait suite à une demande volontaire de votre part",
+        "• Procès-verbal de réception à titre isolé (RTI) de la Dreal compétente, si le véhicule a été transformé pendant la période de retrait.",
+        "Si vous faites la démarche pour quelqu'un d'autre, vous devez avoir une copie numérique du mandat signé et de sa pièce d'identité.",
+        "Vous devez certifier sur l'honneur que le demandeur du certificat d’immatriculation a une attestation d'assurance du véhicule et un permis de conduire correspondant à la catégorie du véhicule immatriculé.",
+        "Vous n'avez pas à joindre une copie numérique (photo ou scan) du permis de conduire. Mais celle-ci pourra vous être demandée lors de l'instruction de votre dossier.",
+        "Des points numériques (avec ordinateurs, imprimantes et scanners) sont mis à votre disposition dans chaque préfecture et dans la plupart des sous-préfectures. Vous pouvez y accomplir la démarche. Vous pouvez être aidé par des médiateurs numériques si vous rencontrez des difficultés avec l'utilisation d'internet.",
+        "Vous pouvez aussi être accompagné dans votre démarche par une maison France Services.",
+        "Point d'accueil numérique",
+        "France Services / Maison de services au public",
+        "[Attention] Il n'est désormais plus possible de demander un certificat d'immatriculation auprès de la préfecture ou de la sous-préfecture."
+      ]
+    },
+    {
+      "titre": "Faire la démarche sur internet",
+      "contenu": [
+        "Pour remettre votre véhicule en circulation, vous devrez demander la levée du retrait. Un nouveau certificat d’immatriculation sera alors fabriqué.",
+        "La demande s'effectue sur internet :",
+        "Demander la remise en circulation d'un véhicule après une période de retrait",
+        "Vous devez vous connecter sur le site de l'ANTS en vous identifiant soit via France Connect, soit via l’application France Identité.",
+        "À la fin de la procédure, vous obtenez les 3 éléments suivants :",
+        "• Numéro de dossier",
+        "• Accusé d'enregistrement de votre demande",
+        "• Certificat provisoire d'immatriculation (CPI), que vous devez imprimer. Le CPI vous permet de circuler pendant 1 mois, uniquement en France, en attendant de recevoir votre certificat d'immatriculation définitif."
+      ]
+    },
+    {
+      "titre": "Connaître le coût du certificat d’immatriculation",
+      "contenu": [
+        "Le coût du certificat d’immatriculation est variable. Il dépend notamment des caractéristiques du véhicule et de la région dans laquelle vous vivez.",
+        "Vous pouvez évaluer le coût du certificat d’immatriculation en utilisant un simulateur :",
+        "Calculer le coût du certificat d'immatriculation",
+        "Le règlement du montant du certificat d’immatriculation doit obligatoirement être effectué par carte bancaire."
+      ]
+    },
+    {
+      "titre": "Suivre l’état d’avancement de la fabrication du certificat d'immatriculation",
+      "contenu": [
+        "Suivre la demande de certificat d’immatriculation",
+        "Connexion via France Connect, France Identité ou via votre compte ANTS"
+      ]
+    },
+    {
+      "titre": "Recevoir le certificat d'immatriculation par courrier",
+      "contenu": [
+        "Vous recevrez le certificat d'immatriculation définitif, envoyé par La Poste en lettre suivie, à votre domicile dans un délai qui peut varier.",
+        "Vous devez faire attention à l'adresse que vous fournissez dans la procédure en ligne. Elle doit être la plus complète possible (numéro de bâtiment, numéro d’appartement, numéro de boite à lettres, étage, couloir, escalier, « résidant chez », etc.).",
+        "Votre boite aux lettres doit présenter vos nom et prénom.",
+        "Vous pouvez suivre l'expédition de votre titre soit avec le numéro d'immatriculation, soit avec le numéro de suivi de la Poste. Ce numéro de suivi vous a été communiqué par courriel ou par SMS si vous avez renseigné votre numéro de téléphone mobile.",
+        "Avec le numéro d'immatriculation",
+        "Suivre l'expédition d'un certificat d'immatriculation",
+        "Avec le numéro de suivi du courrier",
+        "Suivre une lettre ou un colis sur le site internet laposte.fr",
+        "[À noter] Lors de la réception de votre certificat d’immatriculation, si vous détenez une carte nationale d’identité (CNI) format carte bancaire, vous pouvez également télécharger votre certificat d’immatriculation numérique dans l’application France Identité."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la route : articles R322-1 à R322-14",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074228/LEGISCTA000006177098"
+    },
+    {
+      "titre": "Arrêté du 9 février 2009 relatif aux démarches d'immatriculation des véhicules",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000020237165"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demander la remise en circulation d'un véhicule après une période de retrait",
+      "url": "https://immatriculation.ants.gouv.fr/demarches-en-ligne/signaler-un-changement-sur-la-situation-de-votre-vehicule",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Calculer le coût du certificat d'immatriculation",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/cout-certificat-immatriculation",
+      "type": "Simulateur"
+    },
+    {
+      "titre": "Suivre la demande de certificat d’immatriculation",
+      "url": "https://moncompte.ants.gouv.fr/connexion",
+      "type": "selNG"
+    },
+    {
+      "titre": "Suivre l'expédition d'un certificat d'immatriculation",
+      "url": "https://moncompte.ants.gouv.fr/suivi_immatriculation",
+      "type": "selNG"
+    },
+    {
+      "titre": "Suivre une lettre ou un colis sur le site internet laposte.fr",
+      "url": "https://www.laposte.fr/outils/suivre-vos-envois",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "certificat-d-immatriculation-comment-remettre-un-vehicule-en-circulation-apres-son-retrait",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "carte-grise-certificat-d-immatriculation",
+      "titre": "Carte grise (certificat d'immatriculation)"
+    }
+  ]
+}

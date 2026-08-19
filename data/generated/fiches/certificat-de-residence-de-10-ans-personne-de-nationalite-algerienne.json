@@ -1,0 +1,74 @@
+{
+  "id": "F2257",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Certificat de résidence de 10 ans - Personne de nationalité algérienne",
+  "theme": "Étranger - Europe",
+  "description": "Un étranger de nationalité algérienne peut demander un certificat de résidence de 10 ans sous certaines conditions",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2024-10-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2257",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Titres, cartes de séjour et documents de circulation pour étranger en France",
+    "Certificat de résidence de 10 ans - Personne de nationalité algérienne"
+  ],
+  "introduction": "Si vous êtes de nationalité algérienne, que vous êtes majeur et que vous souhaitez résider en France, vous devez détenir un titre de séjour. Vous pouvez obtenir sous conditions un certificat de résidence de 10 ans. Par exemple, si vous avez des attaches familiales ou si vous résidez légalement en France depuis plusieurs années. Le certificat vous permet de travailler. Il peut vous être remis en 1er titre de séjour ou après l'attribution d'un ou plusieurs certificats de résidence d'1 an. Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles L412-7 à L412-10",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000049055586/"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles L432-1 à L432-15",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042771934/"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles L436-1 à L436-13",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042772036/"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles R432-1 à R432-15",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042801362/"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles R433-1 à 433-6",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042801402/"
+    },
+    {
+      "titre": "Décret n°2002-1500 du 20 décembre 2002 relatif à la circulation, à l'emploi et au séjour en France des ressortissants algériens et de leurs familles",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000599731"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Trouver les coordonnées des photographes habilités et des cabines agréées",
+      "url": "https://passeport.ants.gouv.fr/services/geolocaliser-les-photographes-habilites",
+      "type": "outilRechercheNG"
+    },
+    {
+      "titre": "Faire une demande sur internet pour un titre de séjour, un changement de situation, un titre de voyage, une demande de naturalisation - ANEF",
+      "url": "https://administration-etrangers-en-france.interieur.gouv.fr/particuliers/#/",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Sites des préfectures",
+      "url": "https://www.interieur.gouv.fr/Le-ministere/Prefectures"
+    }
+  ],
+  "slug": "certificat-de-residence-de-10-ans-personne-de-nationalite-algerienne",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "titres-cartes-de-sejour-et-documents-de-circulation-pour-etranger-en-france",
+      "titre": "Titres, cartes de séjour et documents de circulation pour étranger en France"
+    }
+  ]
+}

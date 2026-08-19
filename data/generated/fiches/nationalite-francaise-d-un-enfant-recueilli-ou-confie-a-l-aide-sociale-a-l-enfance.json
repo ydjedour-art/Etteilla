@@ -1,0 +1,53 @@
+{
+  "id": "F31919",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Nationalité française d'un enfant recueilli ou confié à l'Aide sociale à l'enfance",
+  "theme": "Étranger - Europe",
+  "description": "Un mineur qui depuis au moins 3 ans est recueilli sur décision de justice par un Français ou confié à l'Ase peut faire une déclaration de nationalité française.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2024-12-11",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31919",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Nationalité française",
+    "Nationalité française d'un enfant recueilli ou confié à l'Aide sociale à l'enfance"
+  ],
+  "introduction": "Vous recueillez un enfant et voulez savoir s'il acquiert automatiquement la nationalité française ? Nous vous indiquons les informations à connaître selon que l'enfant est recueilli par un Français ou confié à l'Aide sociale à l'enfance (Ase).",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code civil : articles 21-7 à 21-11",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165743"
+    },
+    {
+      "titre": "Code civil : articles 21-12 à 21-14",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165458/"
+    },
+    {
+      "titre": "Code civil : articles 26 à 26-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006149961"
+    },
+    {
+      "titre": "Décret n°93-1362 du 30 décembre 1993 relatif aux déclarations de nationalité, aux décisions de naturalisation, de réintégration, de perte, de déchéance et de retrait de la nationalité française",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000699753"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Tribunal judiciaire ou tribunal de proximité",
+    "Maison de justice et du droit"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "nationalite-francaise-d-un-enfant-recueilli-ou-confie-a-l-aide-sociale-a-l-enfance",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "nationalite-francaise",
+      "titre": "Nationalité française"
+    }
+  ]
+}

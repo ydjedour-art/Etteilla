@@ -1,0 +1,50 @@
+{
+  "id": "F34920",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "A-t-on le droit de nourrir les pigeons ?",
+  "theme": "Loisirs - Sports - Culture",
+  "description": "Il est interdit d'attirer ou de nourrir systématiquement ou de façon habituelle des animaux si cela est une cause d'insalubrité.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-10-09",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34920",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Loisirs - Sports - Culture",
+    "Animal de compagnie",
+    "A-t-on le droit de nourrir les pigeons ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Il est interdit d'attirer ou de nourrir systématiquement ou de façon habituelle des animaux, notamment les pigeons, quand cette pratique est une cause d'insalubrité.",
+        "De plus, le préfet peut par un arrêté interdire sur les territoires et pour la durée qu'il définit le nourrissage d'animaux de la faune sauvage, notamment les pigeons. Cette interdiction a pour but de prévenir la transmission de maladies entre animaux de la faune sauvage et animaux domestiques ou de compagnie ou entre animaux de la faune sauvage et humains."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code rural et de la pêche maritime : article L223-6-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044233443"
+    },
+    {
+      "titre": "Code de la santé publique : article R1331-54",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047945398"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "a-t-on-le-droit-de-nourrir-les-pigeons",
+  "path": [
+    {
+      "slug": "loisirs-sports-culture",
+      "titre": "Loisirs - Sports - Culture"
+    },
+    {
+      "slug": "animal-de-compagnie",
+      "titre": "Animal de compagnie"
+    }
+  ]
+}

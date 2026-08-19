@@ -1,0 +1,210 @@
+{
+  "id": "F35045",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Comptes inactifs et assurances-vie non réclamés : comment récupérer l'argent ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Pour retrouver les comptes inactifs ou les contrats d'assurance vie en déshérence transférés à la Caisse des Dépôts, il faut faire une recherche sur Ciclade.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-06-11",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35045",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Assurance vie",
+    "Comptes inactifs et assurances-vie non réclamés : comment récupérer l'argent ?"
+  ],
+  "introduction": "Si vous recherchez un ancien compte bancaire, un ancien compte d’épargne salariale ou un contrat d'assurance-vie non réclamé depuis de nombreuses années, vous pouvez faire une vérification sur le site Ciclade et demander à récupérer les fonds si la recherche est positive. Ce service en ligne recense l’ensemble des sommes oubliées (dites en déshérence) qui ont été transférées à la Caisse des Dépôts, provenant des comptes et contrats déclarés inactifs. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Quels sont les produits financiers qui peuvent être déclarés inactifs ?",
+      "contenu": [
+        "Chaque année, les banques, les gestionnaires d'épargne salariale et les assureurs ont l'obligation de recenser les comptes inactifs ouverts dans leurs établissements.",
+        "Il peut s'agir des comptes et contrats suivants :",
+        "Comptes bancaires :",
+        "• Compte courant ou compte à vue",
+        "• Compte à terme",
+        "• Compte titres",
+        "• PEA",
+        "• Livret A",
+        "• Livret de développement durable et solidaire",
+        "• Livret jeune",
+        "• LEP",
+        "• Codevi (compte pour le développement industriel)",
+        "• Plan d'épargne logement (PEL)",
+        "• Coffre-fort en location dans une banque",
+        "Comptes d'épargne salariale :",
+        "• Plan épargne entreprise (PEE)",
+        "• Plan d'épargne retraite (PER)",
+        "• Plan d'épargne pour la retraite collectif (Perco)",
+        "Contrats d'assurance-vie :",
+        "• Contrat d'assurance-vie",
+        "• Contrat d'assurance avec valeur de rachat",
+        "• Bon de capitalisation ou bon au porteur",
+        "• Contrat de retraite supplémentaire."
+      ]
+    },
+    {
+      "titre": "Quand dit-on qu'un compte ou qu'un contrat d'assurance-vie est inactif ?",
+      "contenu": [
+        "Les banques, les gestionnaires d'épargne salariale et les assureurs doivent déclarer inactifs vos comptes ou vos contrats d'assurance-vie lorsque certaines conditions sont réunies.",
+        "Un compte peut être déclaré inactif à la suite du décès de son titulaire mais aussi si l’établissement n’a plus de contact avec le titulaire du compte (ou avec son représentant légal) pendant un certain temps.",
+        "Les délais varient selon que le titulaire du compte est vivant ou décédé :",
+        "Comptes bancaires",
+        "Le titulaire est vivant",
+        "La période d’inactivité retenue dépend de la nature du compte :",
+        "Compte courant",
+        "Un compte courant est déclaré inactif lorsque les 2 conditions suivantes sont réunies :",
+        "• Le titulaire du compte n'a fait aucune opération sur son compte (dépôt, retrait, virement, connexion à l'espace client) sur une période de 12 mois",
+        "• Et le titulaire du compte ne s’est pas manifesté auprès de la banque (soit par mail, par courrier, connexion à l'espace client, ou au guichet) et n'a fait aucune opération sur un autre compte ouvert dans la même banque sur une période de 12 mois.",
+        "[À savoir] Lorsque le compte n'a pas enregistré d'opération à la suite d’une décision de justice ou à une loi (par exemple, décision de justice qui place le compte sous séquestre), le compte n'est pas considéré comme inactif.",
+        "Compte de titres, compte à terme, livret d'épargne",
+        "Un compte de titres financiers, un compte ou livret d’épargne (livret A, livret jeune, LDDS, PEA, LEP...), un compte à terme (après la fin de la période d’indisponibilité) est déclaré inactif lorsque les 2 conditions suivantes sont réunies :",
+        "• Le titulaire du compte n'a fait aucune opération sur son compte (dépôt, retrait, virement, connexion à l'espace client) sur une période de 5 ans",
+        "• Et le titulaire du compte ne s’est pas manifesté auprès de la banque (soit par mail, par courrier, connexion à l'espace client, ou au guichet) et n'a fait aucune opération sur un autre compte ouvert dans la même banque sur une période de 5 ans.",
+        "[À savoir] Lorsque le compte n'a pas enregistré d'opération à la suite d’une décision de justice ou à une loi (par exemple, décision de justice qui place le compte sous séquestre), le compte n'est pas considéré comme inactif.",
+        "Le titulaire est décédé",
+        "Chaque année, les établissements tenant les comptes ont l’obligation de consulter un répertoire national d’identification des personnes décédées.",
+        "Un compte bancaire est déclaré inactif si, pendant un délai de 12 mois suivant le décès, aucun des ayants droit n'a revendiqué les avoirs du compte auprès de la banque.",
+        "Comptes d’épargne salariale",
+        "Le titulaire est vivant",
+        "Un compte recevant les produits de l’épargne salariale est déclaré inactif lorsque les 2 conditions suivantes sont réunies :",
+        "• Le titulaire du compte n'a fait aucune opération sur son compte (dépôt, retrait, virement, connexion à l'espace client) sur une période de 5 ans",
+        "• Et le titulaire du compte ne s’est pas manifesté auprès de l’établissement (soit par mail, par courrier, connexion à l'espace client) et n'a fait aucune opération sur un autre compte ouvert dans le même établissement sur une période de 5 ans.",
+        "Le titulaire est décédé",
+        "Chaque année, les établissements tenant les comptes ont l’obligation de consulter un répertoire national d’identification des personnes décédées.",
+        "Un compte d’épargne salariale est déclaré inactif si, pendant un délai de 12 mois suivant le décès, aucun des ayants droit n'a revendiqué les avoirs du compte auprès de la banque.",
+        "Contrat d'assurance-vie",
+        "Un contrat d'assurance-vie est considéré comme inactif si les fonds ne sont pas réclamés à l'échéance du contrat ou à compter de la date de décès de l’assuré.",
+        "Coffre-fort",
+        "Un coffre-fort est considéré comme inactif lorsque les 2 conditions suivantes sont réunies :",
+        "• Pendant une période de 10 ans, son titulaire (son représentant légal ou un de ses ayants droit) ne s’est pas manifesté et n’a effectué aucune opération sur un autre compte à son nom dans le même établissement",
+        "• Et après cette période de 10 ans, il y a eu au moins 1 impayé pour les frais de location."
+      ]
+    },
+    {
+      "titre": "Que doit faire l'établissement qui constate qu'un compte ou qu'un contrat d'assurance-vie est inactif ?",
+      "contenu": [
+        "L'établissement doit vous informer, par tout moyen à sa disposition, que votre compte ou votre contrat est déclaré comme inactif et qu'il sera clôturé sans réaction de votre part dans un certain délai. L’information est renouvelée tous les ans jusqu’à l’année précédant le dépôt des sommes à la Caisse des Dépôts.",
+        "Si le titulaire du compte ou du contrat est décédé, l'établissement doit engager des recherches et informer les proches du titulaire (son représentant légal ou la personne habilitée par lui) ou ses ayants droit qui pourraient bénéficier du compte ou du contrat.",
+        "La banque peut percevoir des frais et commissions pendant le temps de conservation du compte inactif jusqu'au transfert des sommes à la Caisse des dépôts.",
+        "Cela dépend de la nature du compte inactif :",
+        "• Pour les produits d'épargne réglementés (livret A, livret jeune, etc.) et d'épargne logement, il n’y a pas de frais, ni de commission.",
+        "• Pour les plans d'épargne en actions (PEA) et les comptes titres, les frais et commissions ne peuvent pas dépasser ceux qui auraient été prélevés si le compte était actif.",
+        "• Pour le compte de dépôt et autres comptes, le montant total des frais prélevés annuellement par compte ne peut pas dépasser 30 €."
+      ]
+    },
+    {
+      "titre": "Combien de temps l'établissement doit-il conserver les fonds du compte inactif ou du contrat d'assurance-vie ?",
+      "contenu": [
+        "L’établissement gestionnaire doit conserver les fonds des comptes bancaires, des comptes d’épargne salariale et des contrats d'assurance-vie inactifs pendant un certain temps. La durée varie suivant que le titulaire du compte ou du contrat est vivant ou décédé.",
+        "Comptes bancaires",
+        "La durée de conservation des comptes par la banque est variable :",
+        "Le titulaire est vivant",
+        "Cas général",
+        "La banque conserve les fonds pendant 10 ans à compter de l'un des événements suivants :",
+        "• Date de la dernière opération effectuée par le titulaire",
+        "• Date du dernier contact avec le titulaire du compte, son représentant légal ou la personne qu'il a désignée",
+        "• Fin de la période d'indisponibilité, pour les produits qui comportent une période d'indisponibilité.",
+        "Plan épargne logement (PEL)",
+        "Le PEL est conservé dans la banque pendant 10 ans à partir de la date du dernier versement. Cette durée est portée à 20 ans si le titulaire ne détient aucun autre compte dans la même banque.",
+        "Le titulaire est décédé",
+        "La banque conserve les fonds pendant 3 ans à partir de la date de décès du titulaire du compte.",
+        "Comptes d’épargne salariale",
+        "La durée de conservation des comptes par le gestionnaire d’épargne salariale est variable :",
+        "Le titulaire est vivant",
+        "L’établissement gestionnaire conserve les fonds pendant 10 ans à compter de l'un des événements suivants :",
+        "• Date de la dernière opération effectuée par le titulaire",
+        "• Date du dernier contact avec le titulaire du compte, son représentant légal ou la personne qu'il a désignée",
+        "• Fin de la période d'indisponibilité, pour les produits qui comportent une période d'indisponibilité.",
+        "Le titulaire est décédé",
+        "L’établissement gestionnaire conserve les fonds pendant 3 ans à partir de la date de décès du titulaire du compte.",
+        "Contrats d’assurance-vie",
+        "La durée de conservation des fonds est identique, que l’assuré soit vivant ou décédé :",
+        "L’assuré est vivant",
+        "Les fonds sont conservés par l’assureur pendant 10 ans, à compter de la date d’échéance du contrat.",
+        "L’assuré est décédé",
+        "Les fonds sont conservés par l’assureur pendant 10 ans, à compter de la date où l’établissement a pris connaissance du décès de l’assuré.",
+        "Coffre-fort",
+        "Au delà de l’inactivité constatée sur la 1ère période de 10 ans, le coffre est conservé (sans être ouvert par la banque) au moins 20 ans après la date du 1er impayé de frais de location."
+      ]
+    },
+    {
+      "titre": "Que se passe-t-il si personne ne réclame les fonds du compte inactif ou du contrat d'assurance-vie dans les délais ?",
+      "contenu": [
+        "Si personne ne s’est manifesté pendant les délais de conservation des fonds, l’établissement doit clôturer le compte inactif (compte bancaire, compte d’épargne salariale ou contrat d’assurance-vie) pour transférer les fonds à la Caisse des Dépôts et Consignations.",
+        "La clôture d’un compte titres ou d’un contrat d'assurance-vie entraine sa liquidation. Les titres inscrits sur le compte sont vendus et le produit de la vente est transféré à la Caisse des Dépôts.",
+        "Pour le coffre-fort, à l’expiration d’un délai de 20 ans après la date du 1er impayé des frais de location, la banque est autorisée à l’ouvrir, en présence d’un huissier de justice qui fait l’inventaire de son contenu pour le vendre aux enchères publiques. Le résultat de la vente, déduction faite des frais de location impayés, est définitivement versé à l’État."
+      ]
+    },
+    {
+      "titre": "Combien de temps la Caisse des Dépôts doit-elle conserver les fonds avant de les transmettre à l’État ?",
+      "contenu": [
+        "Les fonds qui ont été transférés par la banque, par le gestionnaire d’épargne salariale ou l’assureur sont conservés par la Caisse des Dépôts pendant un temps limité. Ils seront ensuite définitivement transmis à l’État.",
+        "[À savoir] Tant que les fonds sont détenus à la Caisse des Dépôts, ils restent disponibles pour le titulaire initial du compte ou pour ses ayants-droit. Mais si personne ne se manifeste auprès de la Caisse des dépôts pendant les délais, la Caisse des dépôts doit transférer les avoirs à l'État ou aux collectivités d'outre-mer. Dans ce cas, vous ne pourrez plus récupérer les fonds.",
+        "Comptes bancaires clôturés",
+        "La durée de conservation des fonds par la Caisse des Dépôts varie selon que le titulaire était vivant ou décédé au moment du transfert des fonds :",
+        "Le titulaire était vivant au moment du transfert des fonds à la Caisse des dépôts",
+        "La Caisse des Dépôts doit conserver les fonds pendant un délai de 20 ans à compter de la date du dépôt.",
+        "[Attention] Dans le cas particulier du PEL, si son titulaire ne détenait aucun autre compte dans la même banque, la Caisse des Dépôts doit conserver les fonds pendant 10 ans à compter de la date du dépôt.",
+        "Le titulaire était décédé au moment du transfert des fonds à la Caisse des dépôts",
+        "La Caisse des dépôts doit conserver les fonds pendant un délai de 27 ans à compter de la date du dépôt.",
+        "Comptes d’épargne salariale",
+        "La durée de conservation des fonds par la Caisse des Dépôts varie selon que le titulaire était vivant ou décédé au moment du transfert des fonds :",
+        "Le titulaire était vivant au moment du transfert des fonds à la Caisse des dépôts",
+        "La Caisse des Dépôts doit conserver les fonds pendant un délai de 20 ans à compter de la date du dépôt.",
+        "Le titulaire était décédé au moment du transfert des fonds à la Caisse des dépôts",
+        "La Caisse des dépôts doit conserver les fonds pendant un délai de 27 ans à compter de la date du dépôt.",
+        "Contrats d’assurance-vie",
+        "La Caisse des Dépôts doit conserver les fonds pendant un délai de 20 ans à compter de la date du transfert des fonds."
+      ]
+    },
+    {
+      "titre": "Comment retrouver un ancien compte inactif ou un ancien contrat d'assurance-vie oublié ?",
+      "contenu": [
+        "Si vous voulez savoir où se trouve l’argent d’un compte inactif (compte bancaire ou compte d’épargne d’une entreprise où vous avez été salarié) ou savoir si vous êtes bénéficiaire d'un contrat d'assurance vie non réclamé, vous devez faire la recherche via le service en ligne Ciclade :",
+        "Ciclade (recherche des sommes oubliées provenant des comptes inactifs)",
+        "Ce service permet de rechercher l’ensemble des fonds transférés et en attente à la Caisse des Dépôts.",
+        "La recherche porte uniquement sur les comptes et contrats suivants :",
+        "• Comptes et contrats d'assurance vie ouverts en France métropolitaine et dans les départements d'outre-mer",
+        "• Comptes ouverts dans les collectivités d'outre-mer (Nouvelle-Calédonie, Polynésie française, Wallis-et-Futuna)."
+      ]
+    },
+    {
+      "titre": "Comment faire pour récupérer l'argent d'un ancien compte inactif ou d'un contrat d'assurance-vie oublié ?",
+      "contenu": [
+        "Sur le site en ligne Ciclade, pour une meilleure recherche (étape 1) il est conseillé de renseigner le maximum d’informations :",
+        "• nom, prénoms du titulaire du compte, date et lieu de naissance, dernière adresse connue, éventuellement date et lieu de décès du titulaire du compte",
+        "• et si vous les connaissez, les références du compte (IBAN) ou du contrat recherché",
+        "Si votre recherche est positive sur le site en ligne Ciclade (étape 2), vous devez faire une demande de restitution pour récupérer l’argent (étape 3). Pour poursuivre cette démarche, il faut créer votre espace personnel sur le site en ligne Ciclade :",
+        "Ciclade (recherche des sommes oubliées provenant des comptes inactifs)",
+        "Votre dossier est traité directement par Ciclade (étape 4) et si votre demande de restitution est validée, vous recevrez l’argent par virement bancaire."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code monétaire et financier : articles L312-19 à L312-21-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000029098936"
+    },
+    {
+      "titre": "Codes assurances : article L132-27-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038611080"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Ciclade"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "comptes-inactifs-et-assurances-vie-non-reclames-comment-recuperer-l-argent",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "assurance-vie",
+      "titre": "Assurance vie"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "F38127",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Comment mettre à jour les actes d’état civil français suite à un divorce prononcé à l'étranger ?",
+  "theme": "Famille - Scolarité",
+  "description": "La transcription d'un divorce étranger en France est la mise à jour sur les registres d'état civil français pour le porter à la connaissance des tiers.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2024-09-25",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F38127",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Divorce, séparation de corps",
+    "Comment mettre à jour les actes d’état civil français suite à un divorce prononcé à l'étranger ?"
+  ],
+  "introduction": "Vous devez vous adresser à l'officier d'état civil ou au Procureur de la République. La procédure diffère selon que le divorce a été rendu au sein de l'Union européenne (hors Danemark) ou non. Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code civil : articles 171-5 à 171-8",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006149975"
+    },
+    {
+      "titre": "Code de procédure civile : articles 42 à 48",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006135862/"
+    },
+    {
+      "titre": "Instruction générale relative à l'état civil (Igrec) du 11 mai 1999 - Annexe",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000647915"
+    },
+    {
+      "titre": "Circulaire JUSC2315953C du 4 juillet 2023 relative à la compétence, la reconnaissance et l'exécution des décisions en matière matrimoniale et responsabilité parentale, et d'enlèvement international d'enfants",
+      "url": "https://www.justice.gouv.fr/circulaire-presentation-dune-part-du-reglement-ue-20191111-du-conseil-du-25-juin-2019-dit-bruxelles-il-bis-refonte"
+    },
+    {
+      "titre": "Règlement (UE) 2019/1111 relatif à la compétence, la reconnaissance et l'exécution des décisions en matière matrimoniale et en matière de responsabilité parentale",
+      "url": "https://eur-lex.europa.eu/eli/reg/2019/1111/oj?eliuri=eli%3Areg%3A2019%3A1111%3Aoj&locale=fr"
+    },
+    {
+      "titre": "Règlement (CE) n°4/2009 du 18/12/2008 relatif à la compétence, la loi applicable, la reconnaissance et l'exécution des décisions et la coopération en matière d'obligations alimentaires",
+      "url": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:007:0001:0079:FR:PDF"
+    },
+    {
+      "titre": "Code civil : article 6",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006419285/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Formulaires type pour l'obtention d'un titre exécutoire européen",
+      "url": "https://e-justice.europa.eu/topics/taking-legal-action/online-forms_fr",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Modèle de requête en vérification d’opposabilité en France d’une décision de divorce prononcée à l’étranger (hors Union européenne)",
+      "url": "",
+      "type": "lettreTypeNG"
+    }
+  ],
+  "contacts": [
+    "Avocat"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Faire reconnaître un divorce prononcé à l'étranger",
+      "url": "https://www.diplomatie.gouv.fr/fr/services-aux-francais/etat-civil-et-nationalite-francaise/etat-civil/article/les-divorces-a-l-etranger"
+    },
+    {
+      "titre": "Reconnaissance des jugements sur la responsabilité parentale rendus en Europe",
+      "url": "http://europa.eu/youreurope/citizens/family/children/parental-responsibility/index_fr.htm"
+    }
+  ],
+  "slug": "comment-mettre-a-jour-les-actes-d-etat-civil-francais-suite-a-un-divorce-prononce-a-l-etranger",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "divorce-separation-de-corps",
+      "titre": "Divorce, séparation de corps"
+    }
+  ]
+}

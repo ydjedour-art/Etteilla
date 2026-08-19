@@ -1,0 +1,60 @@
+{
+  "id": "F35064",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quel adulte peut assister un mineur suspecté dans le cadre d’une procédure pénale ?",
+  "theme": "Justice",
+  "description": "Le mineur peut être assister par ses représentants légaux. S’ils ne peuvent pas être présents, il peut désigner un adulte approprié.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-07-09",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35064",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Justice pénale des mineurs",
+    "Quel adulte peut assister un mineur suspecté dans le cadre d’une procédure pénale ?"
+  ],
+  "introduction": "En principe, les représentants légaux du mineur sont informés de la procédure pénale dont il fait l’objet. Ils peuvent l’accompagner et le soutenir tout au long de l’affaire. Lorsque le mineur ne peut pas bénéficier du soutien de ses représentants légaux (leur identité est inconnue ou leur présence est jugée nuisible pour lui), il peut désigner un autre adulte pour l'accompagner et l'assister. Il s’agit d’un adulte approprié. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "[Attention] Durant toute la procédure pénale, le mineur suspecté doit être assisté par un avocat."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la justice pénale des mineures : articles L311-1 à L311-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000039086952/LEGISCTA000039088081/#LEGISCTA000039088081"
+    },
+    {
+      "titre": "Code de la justice pénale des mineurs : articles D311-1 à D311-2",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000039086952/LEGISCTA000043581500/2021-09-30/"
+    },
+    {
+      "titre": "Code de justice pénale des mineurs : article D241-39",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043609645"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Avocat"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Justice pénale des mineurs",
+      "url": "https://www.justice.gouv.fr/cjpm-outils-pratiques-fiches-techniques"
+    }
+  ],
+  "slug": "quel-adulte-peut-assister-un-mineur-suspecte-dans-le-cadre-d-une-procedure-penale",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "justice-penale-des-mineurs",
+      "titre": "Justice pénale des mineurs"
+    }
+  ]
+}

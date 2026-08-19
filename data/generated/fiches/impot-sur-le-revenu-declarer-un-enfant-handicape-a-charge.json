@@ -1,0 +1,33 @@
+{
+  "id": "F35227",
+  "type_publication": "Recherche guidée",
+  "titre": "Impôt sur le revenu : déclarer un enfant handicapé à charge",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Impôt sur le revenu : déclarer un enfant handicapé à charge",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2026-07-08",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35227",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Impôt sur le revenu : déclaration et revenus à déclarer",
+    "Impôt sur le revenu : déclarer un enfant handicapé à charge"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "impot-sur-le-revenu-declarer-un-enfant-handicape-a-charge",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "impot-sur-le-revenu-declaration-et-revenus-a-declarer",
+      "titre": "Impôt sur le revenu : déclaration et revenus à déclarer"
+    }
+  ]
+}

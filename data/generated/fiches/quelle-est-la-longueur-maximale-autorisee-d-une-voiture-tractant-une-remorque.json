@@ -1,0 +1,62 @@
+{
+  "id": "F21754",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quelle est la longueur maximale autorisée d'une voiture tractant une remorque ?",
+  "theme": "Transports - Mobilité",
+  "description": "L'ensemble de véhicules (voiture + remorque) ne doit pas dépasser 18 mètres.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-05-07",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F21754",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Infractions routières",
+    "Quelle est la longueur maximale autorisée d'une voiture tractant une remorque ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "L'ensemble de véhicules (voiture + remorque) ne doit pas dépasser 18 mètres.",
+        "La remorque, y compris le dispositif d'attelage, ne doit pas dépasser 12 mètres.",
+        "Toutefois, la prise en compte du dispositif d’attelage est exclu pour les remorques suivantes :",
+        "• Remorque ayant fait l'objet d'une réception européenne et mise en circulation pour la 1re fois avant le 1er novembre 2014",
+        "• Remorque ayant fait l'objet d'une réception nationale et mise en circulation pour la 1re fois avant le 1er août 2021.",
+        "Ne pas respecter ces règles est sanctionné par une amende pouvant aller jusqu'à 750 €. En général, il s'agit d'une amende forfaitaire de 135 €. Toutefois, si le dépassement de longueur dépasse de plus de 20 % la limite autorisée, l'amende peut aller jusqu'à 1 500 €. Le véhicule peut être immobilisé.",
+        "[À savoir] La largeur maximale autorisée d'une voiture, comme de sa remorque, est de 2,55 mètres."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la route : articles R312-10 à R312-18",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006177085"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Consulter et télécharger les informations du permis de conduire : solde de points, relevé intégral, attestation de droit à conduire sécurisée...",
+      "url": "https://mespoints.permisdeconduire.gouv.fr",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Site de la sécurité routière",
+      "url": "http://www.securite-routiere.gouv.fr"
+    }
+  ],
+  "slug": "quelle-est-la-longueur-maximale-autorisee-d-une-voiture-tractant-une-remorque",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "infractions-routieres",
+      "titre": "Infractions routières"
+    }
+  ]
+}

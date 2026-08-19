@@ -1,0 +1,214 @@
+{
+  "id": "F10871",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Prêt à taux zéro (PTZ ou PTZ+)",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Le PTZ est un prêt accordé sans taux d'intérêt ou intérêts intercalaires, ni frais de dossier ou d'expertise. Le PTZ doit compléter un autre prêt immobilier.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-02-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F10871",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Crédit immobilier",
+    "Prêt à taux zéro (PTZ ou PTZ+)"
+  ],
+  "introduction": "Vous voulez savoir ce qu'est un prêt à taux zéro (PTZ) ? C'est un prêt aidé par l'État. Vous devez rembourser le montant qui vous est prêté, mais vous n'avez pas à payer d'intérêts ou d'intérêts intercalaires, ni de frais de dossier ou de frais d'expertise. Le PTZ doit vous servir à financer l'achat ou la construction de votre future résidence principale, en complément d'un autre prêt immobilier. Pour obtenir le PTZ, vous devez remplir plusieurs conditions. Voici les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les conditions à remplir pour obtenir le PTZ sont différentes selon que vous voulez acheter un logement neuf, un logement ancien, le logement social que vous habitez, ou que vous voulez transformer un local en logement :"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la construction et de l'habitation : articles L31-10-2 à L31-10-4",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000023356571/"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : article D31-10-2 à D31-10-4",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000023361850/#LEGISCTA00002336185038973566#LEGIARTI000038973566"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : articles L31-10-6 à L31-10-7",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000023356634/"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : articles D31-10-6 à D31-10-7",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000023361866/"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : article L31-10-8 à L31-10-10",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000023356674/"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : articles D31-10-8 à D31-10-10",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000023361876/"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : article D31-10-11",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000023361888/"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : articles R321-12 à R321-22",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000022938091"
+    },
+    {
+      "titre": "Code général des impôts : articles 256 à 257 bis",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000006179644/"
+    },
+    {
+      "titre": "Arrêté du 30 décembre 2010 sur les conditions d'application de dispositions concernant les prêts ne portant pas intérêt consentis pour financer la primo-accession à la propriété",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000023332971/"
+    },
+    {
+      "titre": "Décret n°2005-69 du 31 janvier 2005 relatif à l'achat ou la construction de logements en accession à la propriété",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000239755/"
+    },
+    {
+      "titre": "Arrêté du 1er août 2014 pris en application de l'article D304-1 du code de la construction et de l'habitation",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000029337646/"
+    },
+    {
+      "titre": "Arrêté du 30 décembre 2014 relatif au champ d'application géographique des prêts ne portant pas intérêt consentis pour financer des opérations de primo-accession de l'ancien sous conditions de travaux",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000030007723/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Calculer le montant du prêt à taux zéro (PTZ)",
+      "url": "https://www.anil.org/outils/outils-de-calcul/votre-pret-a-taux-zero/",
+      "type": "Simulateur"
+    },
+    {
+      "titre": "Savoir si le prêt à taux zéro (PTZ) est possible dans votre commune",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/zonePTZ",
+      "type": "Simulateur"
+    },
+    {
+      "titre": "Connaître la zone de sa commune : A, Abis, B1, B2 ou C",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/zonage-abc",
+      "type": "Simulateur"
+    },
+    {
+      "titre": "Déclaration sur l'honneur (à joindre à la demande de PTZ)",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000023418688",
+      "type": "Modèle de document"
+    },
+    {
+      "titre": "Attestation relative au montant et aux conditions de remboursement du prêt (à joindre à la demande de PTZ)",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000023420255/",
+      "type": "Modèle de document"
+    },
+    {
+      "titre": "Attestation de non-délivrance d'un prêt ne portant pas intérêt par un autre établissement de crédit concourant au plan de financement (à joindre à la demande de PTZ)",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000023420256/",
+      "type": "Modèle de document"
+    },
+    {
+      "titre": "Emprunteur hébergé : attestation sur l'honneur de l'hébergeur (à joindre à la demande de PTZ)",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000023420261/",
+      "type": "Modèle de document"
+    },
+    {
+      "titre": "Attestation sur l'honneur sur des ressources de l'emprunteur rattaché à un foyer fiscal ou à ses parents (à joindre à la demande de PTZ)",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000023420268",
+      "type": "Modèle de document"
+    },
+    {
+      "titre": "Attestation sur l'honneur conjointe relative à la garde des enfants (à joindre à la demande de PTZ)",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000023420271",
+      "type": "Modèle de document"
+    },
+    {
+      "titre": "Déclaration d'exercice d'une activité professionnelle ou commerciale dans le logement financé à l'aide d'un prêt ne portant pas intérêt (à joindre à la demande de PTZ)",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000023420272",
+      "type": "Modèle de document"
+    },
+    {
+      "titre": "Attestation sur l’honneur du vendeur relative aux travaux concourant à la production ou à la livraison d’un immeuble neuf (à joindre à la demande de PTZ)",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000025859858",
+      "type": "Modèle de document"
+    },
+    {
+      "titre": "Attestation sur l’honneur de l’acheteur relative aux travaux concourant à la production ou à la livraison d’un immeuble neuf (à joindre à la demande de PTZ)",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000041527945",
+      "type": "Modèle de document"
+    },
+    {
+      "titre": "Attestation sur l'honneur de l’acheteur relative au programme de travaux concomitant à l’achat d'un logement ancien (à joindre à la demande de PTZ)",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000041527940/",
+      "type": "Modèle de document"
+    },
+    {
+      "titre": "VIR ou location-accession : attestation du vendeur relative au programme de travaux concomitant à l’achat d’un logement ancien (à joindre à la demande de PTZ)",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000041527925",
+      "type": "Modèle de document"
+    },
+    {
+      "titre": "VIR ou location-accession : attestation de l'acheteur relative au programme de travaux concomitant à l’achat d’un logement ancien (à joindre à la demande de PTZ)",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000036490883/",
+      "type": "Modèle de document"
+    },
+    {
+      "titre": "Attestation sur l’honneur du vendeur relative au caractère neuf du logement suite au départ du 1er occupant dans le cadre d’une création d’une opération de location-accession conventionnée et agréée par le représentant de l’Etat (à joindre à la demande de PTZ)",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042522691",
+      "type": "Modèle de document"
+    },
+    {
+      "titre": "Achat d’un logement social : attestation de l’emprunteur relative à l’exclusion du financement de l’installation d’un chauffage à énergie fossile (à joindre à la demande de PTZ)",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049359861",
+      "type": "Modèle de document"
+    }
+  ],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Le prêt à taux zéro, tout ce qu'il faut savoir",
+      "url": "https://www.economie.gouv.fr/particuliers/PTZ-pret-a-taux-zero"
+    },
+    {
+      "titre": "Zones de l'ANRU",
+      "url": "https://sig.ville.gouv.fr/atlas/ANRU"
+    },
+    {
+      "titre": "Vente d'immeuble à rénover (VIR)",
+      "url": "https://www.anil.org/vente-immeuble-renover/"
+    },
+    {
+      "titre": "Prêt à taux zéro pour l'achat ou la construction d'un logement",
+      "url": "https://www.anil.org/pret-taux-zero/"
+    },
+    {
+      "titre": "Le zonage A / B / C",
+      "url": "https://www.ecologie.gouv.fr/zonage-b-c"
+    },
+    {
+      "titre": "Bail réel solidaire",
+      "url": "https://bofip.impots.gouv.fr/bofip/10982-PGP.html/identifiant%3DBOI-TVA-IMM-20-20-50-20190424"
+    },
+    {
+      "titre": "Loi n° 84-595 du 12 juillet 1984 sur la location-accession à la propriété",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006068850/"
+    },
+    {
+      "titre": "Liste des établissements financiers pour obtenir un PTZ, PAS, prêt épargne logement...",
+      "url": "https://www.fgas.fr/web/site-public/etablissements-affilies"
+    }
+  ],
+  "slug": "pret-a-taux-zero-ptz-ou-ptz",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "credit-immobilier",
+      "titre": "Crédit immobilier"
+    }
+  ]
+}

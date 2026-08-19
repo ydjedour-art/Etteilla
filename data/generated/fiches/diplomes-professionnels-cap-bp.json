@@ -1,0 +1,33 @@
+{
+  "id": "F10041",
+  "type_publication": "Fiche avec liens externes",
+  "titre": "Diplômes professionnels (CAP, BP ...)",
+  "theme": "Famille - Scolarité",
+  "description": "La voie professionnelle permet de suivre des formations diplômantes dans un lycée professionnel ou dans un CFA.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-01-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F10041",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Diplômes",
+    "Diplômes professionnels (CAP, BP ...)"
+  ],
+  "introduction": "La voie professionnelle est accessible après le collège. Elle permet de suivre des formations diplômantes par la voie scolaire, dans un lycée professionnel, ou en alternance, dans un CFA.",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "diplomes-professionnels-cap-bp",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "diplomes",
+      "titre": "Diplômes"
+    }
+  ]
+}

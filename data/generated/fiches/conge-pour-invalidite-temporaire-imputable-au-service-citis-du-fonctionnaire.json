@@ -1,0 +1,86 @@
+{
+  "id": "F33252",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Congé pour invalidité temporaire imputable au service (Citis) du fonctionnaire",
+  "theme": "Travail - Formation",
+  "description": "En cas d'accident du travail ou de maladie d'origine professionnelle, un fonctionnaire peut être placé en congé pour invalidité temporaire imputable au service.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-08-08",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33252",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Maladie ou accident du travail dans la fonction publique",
+    "Congé pour invalidité temporaire imputable au service (Citis) du fonctionnaire"
+  ],
+  "introduction": "Si vous êtes fonctionnaire, victime d'un accident du travail ou de trajet ou d'une maladie professionnelle et êtes dans l’incapacité d'exercer vos fonctions, vous pouvez être placé en congé pour invalidité temporaire imputable au service (Citis). Nous vous détaillons les règles applicables à ce congé. Ces règles varient selon que vous êtes victime d'un accident de travail (ou de trajet) ou d'une maladie professionnelle et selon que vous être titulaire ou stagiaire.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code général de la fonction publique : articles L115-1 à L115-6",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044420657/"
+    },
+    {
+      "titre": "Code général de la fonction publique : articles L822-18 à L822-25",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044424015/"
+    },
+    {
+      "titre": "Code général de la fonction publique : articles L822-27 à L822-30",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044424037/"
+    },
+    {
+      "titre": "Code général de la fonction publique : articles R327-36 à R327-41",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000051962361/"
+    },
+    {
+      "titre": "Ordonnance n°2020-1447 du 25 novembre 2020 portant diverses mesures en matière de santé et de famille dans la fonction publique : article 8",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042565868"
+    },
+    {
+      "titre": "Décret n°86-442 du 14 mars 1986 relatif aux médecins agréés, aux comités médicaux et commissions de réforme, aux conditions d'aptitude physique et aux congés de maladie des fonctionnaires",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000884830"
+    },
+    {
+      "titre": "Décret n°87-602 du 30 juillet 1987 relatif à l'organisation des comités médicaux, aux conditions d'aptitude physique et au régime des congés de maladie des fonctionnaires territoriaux",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000521836/"
+    },
+    {
+      "titre": "Décret n°88-386 du 19 avril 1988 relatif aux conditions d'aptitude physique et aux congés de maladie des agents de la fonction publique hospitalière",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000695289/"
+    },
+    {
+      "titre": "Décret n°2010-997 du 26 août 2010 relatif au régime de maintien des primes et indemnités des agents publics de l'État dans certaines situations de congés",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000022748868/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Déclaration d'accident de service - accident de trajet - Fonction publique",
+      "url": "https://www.fonction-publique.gouv.fr/etre-agent-public/ma-protection-sociale/accidents-et-maladies-professionnelles",
+      "type": "Modèle de document"
+    },
+    {
+      "titre": "Déclaration de maladie professionnelle - Fonction publique",
+      "url": "https://www.fonction-publique.gouv.fr/etre-agent-public/ma-protection-sociale/accidents-et-maladies-professionnelles",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Guide pratique des procédures Accidents de service - Maladies professionnelles",
+      "url": "https://www.fonction-publique.gouv.fr/toutes-les-publications/guide-pratique-des-procedures-accidents-de-service-maladies-professionnelles#demarches_agence_citis"
+    }
+  ],
+  "slug": "conge-pour-invalidite-temporaire-imputable-au-service-citis-du-fonctionnaire",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "maladie-ou-accident-du-travail-dans-la-fonction-publique",
+      "titre": "Maladie ou accident du travail dans la fonction publique"
+    }
+  ]
+}

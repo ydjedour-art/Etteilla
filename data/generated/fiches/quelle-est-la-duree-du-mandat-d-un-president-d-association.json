@@ -1,0 +1,47 @@
+{
+  "id": "F34729",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quelle est la durée du mandat d'un président d'association ?",
+  "theme": "Associations, fondations et fonds de dotation",
+  "description": "Aucun texte ne fixe la durée du mandat du président d'une association. Ce sont les statuts qui fixe cette durée.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-01-28",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34729",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Associations, fondations et fonds de dotation",
+    "Dirigeants et responsables d'une association",
+    "Quelle est la durée du mandat d'un président d'association ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Aucun texte ne fixe la durée du mandat du président d'une association. La loi ne prévoit pas de durée minimale ou maximale du mandat.",
+        "Ce sont les statuts qui fixent cette durée. Elle est généralement d’1 an.",
+        "Les statuts peuvent par exemple :",
+        "• limiter ou non le nombre des mandats,",
+        "• préciser les conditions de renouvellement du mandat (renouvellement automatique ou après vote).",
+        "Des informations ou précisions peuvent également figurer dans le règlement intérieur ou le procès-verbal de nomination du président."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [
+    "Point ressource à la vie associative"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "quelle-est-la-duree-du-mandat-d-un-president-d-association",
+  "path": [
+    {
+      "slug": "associations-fondations-et-fonds-de-dotation",
+      "titre": "Associations, fondations et fonds de dotation"
+    },
+    {
+      "slug": "dirigeants-et-responsables-d-une-association",
+      "titre": "Dirigeants et responsables d'une association"
+    }
+  ]
+}

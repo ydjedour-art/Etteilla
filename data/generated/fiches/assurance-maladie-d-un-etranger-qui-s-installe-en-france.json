@@ -1,0 +1,102 @@
+{
+  "id": "F12859",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Assurance maladie d'un étranger qui s'installe en France",
+  "theme": "Social - Santé",
+  "description": "L'Assurance maladie d'un étranger en France obéit à différentes règles selon votre pays d'origine et votre statut (exemples : étudiant, retraité, travailleur).",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2024-04-02",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F12859",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Assurance maladie d'un étranger en France",
+    "Assurance maladie d'un étranger qui s'installe en France"
+  ],
+  "introduction": "Vous êtes étranger et vous envisagez de vous installer en France ? Les droits liés à l'Assurance maladie diffèrent si vous êtes citoyen d'un pays de l'Espace économique européen (EEE) et de Suisse, du Royaume-Uni ou d'un autre pays. Les règles applicables et les démarches à faire dépendent de votre statut (salarié, retraité, étudiant, demandeur d'emploi). Nous vous présentons les règles à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Règlement n°883/2004 du 29 avril 2004 sur la coordination des systèmes de sécurité sociale",
+      "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:02004R0883-20140101&from=FR"
+    },
+    {
+      "titre": "Règlement n°987/2009 du 16 septembre 2009 relatif à la coordination des systèmes de sécurité sociale",
+      "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:02009R0987-20140101&from=FR"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Caisse primaire d'assurance maladie (CPAM)",
+    "Centre des liaisons européennes et internationales de sécurité sociale (Cleiss)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Formulaire S1 - Inscription pour bénéficier de prestations de l’assurance maladie",
+      "url": "https://www.cleiss.fr/reglements/s1.html"
+    },
+    {
+      "titre": "Informations concernantle formulaire S1 et son utilisation",
+      "url": "https://www.cleiss.fr/reglements/S1_infos.pdf"
+    },
+    {
+      "titre": "Welcome to France : informations personnalisées pour votre installation en France",
+      "url": "https://www.welcometofrance.com/demarche#/"
+    },
+    {
+      "titre": "Régime français de protection sociale des travailleurs salariés",
+      "url": "http://www.cleiss.fr/docs/regimes/regime_france.html"
+    },
+    {
+      "titre": "Coordination de la sécurité sociale dans l’Union européenne",
+      "url": "https://ec.europa.eu/social/main.jsp?langId=fr&catId=849"
+    },
+    {
+      "titre": "Coordination de la Sécurité sociale dans l'Union européenne",
+      "url": "https://ec.europa.eu/social/main.jsp?catId=849&langId=fr"
+    },
+    {
+      "titre": "Résider en France de façon stable et régulière",
+      "url": "https://www.complementaire-sante-solidaire.gouv.fr/resider-en-france-stable-regulier.php"
+    },
+    {
+      "titre": "Vous venez étudier en France (Ameli)",
+      "url": "https://www.ameli.fr/assure/droits-demarches/europe-international/protection-sociale-france/vous-venez-etudier-en-france"
+    },
+    {
+      "titre": "Vous venez étudier en France : votre protection sociale",
+      "url": "https://www.cleiss.fr/particuliers/venir/etudes/index.html"
+    },
+    {
+      "titre": "Étudiant : votre prise en charge",
+      "url": "https://www.ameli.fr/assure/droits-demarches/etudes-emploi-retraite/etudiant/etudiant"
+    },
+    {
+      "titre": "Pays sous convention de sécurité sociale",
+      "url": "https://www.cleiss.fr/docs/textes/"
+    },
+    {
+      "titre": "Vous êtes pensionné du seul régime suisse et venez vivre votre retraite en France",
+      "url": "https://www.cleiss.fr/particuliers/venir/retraite/suisse.html"
+    },
+    {
+      "titre": "Sécurité sociale et mobilité internationale",
+      "url": "https://www.cleiss.fr/particuliers/index.html"
+    },
+    {
+      "titre": "Vous venez en France pour travailler en tant que détaché depuis la Suisse",
+      "url": "https://www.cleiss.fr/particuliers/venir/travailler/detachement/suisse.html"
+    }
+  ],
+  "slug": "assurance-maladie-d-un-etranger-qui-s-installe-en-france",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "assurance-maladie-d-un-etranger-en-france",
+      "titre": "Assurance maladie d'un étranger en France"
+    }
+  ]
+}

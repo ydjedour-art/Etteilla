@@ -1,0 +1,60 @@
+{
+  "id": "F1141",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Habitat contenant du plomb",
+  "theme": "Logement",
+  "description": "Le plomb est généralement présent dans les anciennes peintures. Le propriétaire d'un logement contenant du plomb doit prendre des mesures pour le supprimer.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-02-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1141",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Risques sanitaires et sécurité du logement",
+    "Habitat contenant du plomb"
+  ],
+  "introduction": "Le plomb est un métal toxique généralement présent dans les peintures des logements construits avant le 1er janvier 1949. Lorsque le plomb est ingéré ou inhalé, il peut provoquer le saturnisme, qui est une maladie particulièrement grave pour les femmes enceintes et les jeunes enfants. Que faire en cas de présence de plomb dans un logement ? Nous vous expliquons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "La présence de plomb peut être découverte :",
+        "• à l'occasion du dépistage par un médecin d'un cas de saturnisme",
+        "• ou lors de la réalisation du constat de risque d'exposition au plomb (Crep), qui est obligatoire en cas de vente ou location d'un logement construit avant le 1er janvier 1949."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la santé publique : articles L1334-1 à L1334-12",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000031917723"
+    },
+    {
+      "titre": "Code de la santé publique : articles R1334-1 à R1334-9",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006197019"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Maladie à déclaration obligatoire - Saturnisme et plombémie",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_12378.do",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Préfecture",
+    "Préfecture de région - Île-de-France et Paris"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "habitat-contenant-du-plomb",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "risques-sanitaires-et-securite-du-logement",
+      "titre": "Risques sanitaires et sécurité du logement"
+    }
+  ]
+}

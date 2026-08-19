@@ -1,0 +1,98 @@
+{
+  "id": "F3068",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Dans quels cas un enfant est-il Français ?",
+  "theme": "Étranger - Europe",
+  "description": "La nationalité française d'un enfant, qu'il soit né en France ou non, dépend principalement de la nationalité de ses parents.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-04-29",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F3068",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Nationalité française",
+    "Dans quels cas un enfant est-il Français ?"
+  ],
+  "introduction": "La nationalité française d'un enfant, qu'il soit né en France ou non, dépend principalement de la nationalité de ses parents.",
+  "chapitres": [
+    {
+      "titre": "Un enfant est-il Français si l'un de ses parents est Français ?",
+      "contenu": [
+        "Un enfant est Français de naissance, c'est-à-dire par filiation, si au moins l'un de ses parents est Français.",
+        "La nationalité française de l'enfant est liée à celle de son parent français, du jour de sa naissance jusqu'à sa majorité.",
+        "Peu importe que l'enfant soit né en France ou à l'étranger.",
+        "Et peu importe que les parents soient mariés ou non, du moment que la filiation de cet enfant est légalement établie à l'égard du parent français.",
+        "La nationalité française de l'enfant reste acquise même si sa filiation est contestée après sa majorité.",
+        "Si le parent perd la nationalité française alors que son enfant est majeur, cela n'a pas d'effet sur la nationalité de l'enfant.",
+        "Si le parent devient Français alors que son enfant est majeur, cela n'a pas d'effet sur la nationalité de l'enfant."
+      ]
+    },
+    {
+      "titre": "Un enfant devient-il Français si l'un de ses parents devient Français ?",
+      "contenu": [
+        "L'enfant mineur devient Français lorsque l'un de ses parents devient Français si les 2 conditions suivantes sont remplies :",
+        "• L'enfant réside habituellement avec ce parent (ou alternativement en cas de divorce ou de séparation)",
+        "• Le nom de l'enfant est indiqué dans le décret de naturalisation ou la déclaration de nationalité française du parent (mariage, ascendant, frère ou sœur).",
+        "Si le parent devient Français alors que son enfant est majeur, cela n'a pas d'effet sur la nationalité de l'enfant.",
+        "[À savoir] Il est possible de demander la naturalisation d'un enfant mineur resté étranger alors que l'un de ses parents est devenu Français. L'enfant doit toutefois résider en France avec ce parent depuis au moins 5 ans à la date de la demande."
+      ]
+    },
+    {
+      "titre": "Un enfant devient-il Français s'il est adopté par un Français ?",
+      "contenu": [
+        "Seule l'adoption plénière attribue la nationalité française à la naissance.",
+        "En effet l'adoption plénière attribue à l'enfant une nouvelle filiation qui remplace sa filiation d'origine.",
+        "L'adoption décidée à l'étranger a un effet sur la nationalité de l'enfant adopté uniquement si elle correspond à une adoption plénière en France.",
+        "[À savoir] La « kafala » n'est pas une adoption au sens du droit français."
+      ]
+    },
+    {
+      "titre": "Un enfant est-il Français s'il est né en France de parents étrangers ?",
+      "contenu": [
+        "Un enfant né en France de parents étrangers est Français de naissance uniquement dans l'une des 3 situations suivantes :",
+        "• Au moins l'un de ses parents est né en France (quelle que soit sa nationalité)",
+        "• Au moins l'un de ses parents est né en Algérie avant le 3 juillet 1962",
+        "• Il est né apatride en France.",
+        "[À noter] Si l'enfant né en France de parents étrangers se trouve dans une autre situation, il pourra devenir Français à partir de 13 ans, sous conditions."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : articles 18 à 18-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006149907"
+    },
+    {
+      "titre": "Code civil : articles 19 à 19-4",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006149908"
+    },
+    {
+      "titre": "Code civil : articles 20 à 20-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006149914"
+    },
+    {
+      "titre": "Code civil : articles 21-14-1 à 21-25-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165459"
+    },
+    {
+      "titre": "Code civil : articles 22 à 22-3",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006149953"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Maison de justice et du droit"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "dans-quels-cas-un-enfant-est-il-francais",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "nationalite-francaise",
+      "titre": "Nationalité française"
+    }
+  ]
+}

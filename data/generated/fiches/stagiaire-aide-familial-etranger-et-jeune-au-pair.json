@@ -1,0 +1,95 @@
+{
+  "id": "F13348",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Stagiaire aide familial étranger et jeune au pair",
+  "theme": "Travail - Formation",
+  "description": "Un jeune au pair ou une fille au pair peuvent venir en France pour apprendre le français. Ils doivent signer une convention.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-06-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F13348",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Salarié au pair, jeune au pair et stagiaire aide familial étranger",
+    "Stagiaire aide familial étranger et jeune au pair"
+  ],
+  "introduction": "Le stagiaire aide familial étranger est un jeune étranger européen venu en France pour étudier, alors que le jeune au pair est non européen venu en France pour approfondir ses compétences linguistiques et sa connaissance de la France. Nous faisons le point sur la réglementation.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Accord européen du 24 novembre 1969 sur le placement au pair",
+      "url": "https://rm.coe.int/CoERMPublicCommonSearchServices/DisplayDCTMContent?documentId=0900001680072357"
+    },
+    {
+      "titre": "Directive (UE) 2016/801 du 11 mai 2016 relative aux conditions d'entrée et de séjour des ressortissants de pays tiers pour : recherche, études, formation, volontariat et travail au pair",
+      "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32016L0801"
+    },
+    {
+      "titre": "Arrêté ministériel du 22 octobre 1985 fixant les cotisations de sécurité sociale dues pour l'emploi des stagiaires aides familiaux",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000295958/"
+    },
+    {
+      "titre": "Réponse ministérielle n°21105 du 18 mai 2006 relative à la situation des familles employant des étrangers au pair",
+      "url": "http://www.senat.fr/questions/base/2006/qSEQ060121105.html"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles L133-5-6 à L133-5-12",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000033812390"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : article L426-22",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042771906/"
+    },
+    {
+      "titre": "Arrêté du 4 mars 2019 relatif aux modalités de séjour des jeunes au pair",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000038196382"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Rechercher une agence agréée pour trouver un stagiaire aide familial étranger",
+      "url": "https://www.ufaap.org/fr/organismes-agences-adherents/pour-accueillir-jeune-au-pair/",
+      "type": "Outil de recherche"
+    },
+    {
+      "titre": "Convention conclue entre le jeune au pair et la famille d'accueil",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_15973.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Déclaration d'embauche d'un emploi familial",
+      "url": "https://www.urssaf.fr/files/live/sites/urssaffr/files/outils-documentation/formulaires-modeles/cerfa-declaration-employeur-pour-des-emplois-familiaux.pdf",
+      "type": "formulaireNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Stagiaire aide familial étranger",
+      "url": "https://www.urssaf.fr/accueil/particulier/particulier-employeur/embaucher-un-salarie/emploi-pair-stagiaire-aidant-fam.html"
+    },
+    {
+      "titre": "Stagiaire aide familial étranger : taux de cotisations",
+      "url": "https://www.urssaf.fr/accueil/outils-documentation/taux-baremes/taux-cotisations-emploi-au-pair.html"
+    },
+    {
+      "titre": "Site de l’Ircem (Mutuelle, prévoyance, retraite complémentaire)",
+      "url": "http://www.ircem.com"
+    },
+    {
+      "titre": "Site des Urssaf",
+      "url": "http://www.urssaf.fr"
+    }
+  ],
+  "slug": "stagiaire-aide-familial-etranger-et-jeune-au-pair",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "salarie-au-pair-jeune-au-pair-et-stagiaire-aide-familial-etranger",
+      "titre": "Salarié au pair, jeune au pair et stagiaire aide familial étranger"
+    }
+  ]
+}

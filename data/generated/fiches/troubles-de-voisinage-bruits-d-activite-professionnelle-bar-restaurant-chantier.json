@@ -1,0 +1,64 @@
+{
+  "id": "F31117",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Troubles de voisinage : bruits d'activité professionnelle (bar, restaurant, chantier...)",
+  "theme": "Logement",
+  "description": "Les bruits d'activité professionnelle (bar, discothèque, chantier...) peuvent dans certains cas être sanctionnés.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-05-26",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31117",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Troubles de voisinage",
+    "Troubles de voisinage : bruits d'activité professionnelle (bar, restaurant, chantier...)"
+  ],
+  "introduction": "Vous êtes incommodé par des bruits d'activité professionnelle (bruits liés à un chantier, à l'activité d'un bar, d'une discothèque, d'une salle de sport diffusant de la musique...) ? Ces bruits peuvent être sanctionnés. Nous faisons le point sur la réglementation.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de l'environnement : articles R571-25 à R571-28",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074220/LEGISCTA000006189020/#LEGISCTA000035426090"
+    },
+    {
+      "titre": "Code de la santé publique : article R1336-10",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035425918"
+    },
+    {
+      "titre": "Code civil : article 1253",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006437138"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Modèle d'attestation de témoin",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_11527.do",
+      "type": "formulaireNG"
+    }
+  ],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)",
+    "Maison de justice et du droit"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Guide pratique : isoler son logement du bruit",
+      "url": "https://www.ademe.fr/sites/default/files/assets/documents/guide-pratique-isoler-son-logement-du-bruit.pdf"
+    },
+    {
+      "titre": "Réglementation acoustique des bâtiments d'habitation neufs",
+      "url": "https://www.ecologique-solidaire.gouv.fr/confort-et-qualite-dusage-dans-batiments"
+    }
+  ],
+  "slug": "troubles-de-voisinage-bruits-d-activite-professionnelle-bar-restaurant-chantier",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "troubles-de-voisinage",
+      "titre": "Troubles de voisinage"
+    }
+  ]
+}

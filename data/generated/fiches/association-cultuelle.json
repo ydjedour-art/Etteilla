@@ -1,0 +1,92 @@
+{
+  "id": "F21925",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Association cultuelle",
+  "theme": "Associations, fondations et fonds de dotation",
+  "description": "Les associations cultuelles (sauf celles situées en Alsace-Moselle) ont exclusivement pour objet d'assurer l'exercice public d'un culte religieux.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-08-07",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F21925",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Associations, fondations et fonds de dotation",
+    "Associations sous régime légal spécial",
+    "Association cultuelle"
+  ],
+  "introduction": "Les associations cultuelles (sauf celles situées en Alsace-Moselle) ont exclusivement pour objet d'assurer l'exercice public d'un culte religieux. Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Loi du 1er juillet 1901 relative au contrat d'association",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006069570/"
+    },
+    {
+      "titre": "Loi du 9 décembre 1905 concernant la séparation des Églises et de l'Etat",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000508749/"
+    },
+    {
+      "titre": "Loi du 2 janvier 1907 concernant l'exercice public des cultes",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006070171/"
+    },
+    {
+      "titre": "LOI n°2021-1109 du 24 août 2021 confortant le respect des principes de la République",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000043964778/"
+    },
+    {
+      "titre": "Code général des collectivités territoriales : articles L1311-2 à L1311-4-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006181345/"
+    },
+    {
+      "titre": "Code général des collectivités territoriales : article L2252-4",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006390498/"
+    },
+    {
+      "titre": "Code général des collectivités territoriales : article L3231-5",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006391763/"
+    },
+    {
+      "titre": "Décret du 16 mars 1906 portant règlement d'administration publique pour l'exécution de la loi du 9 décembre 1905 sur la séparation des Églises et de l'État",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006070673/"
+    },
+    {
+      "titre": "Circulaire du 23 juin 2010 relative aux associations cultuelles et aux associations exerçant un culte sous le régime de la loi 1901",
+      "url": "https://www.legifrance.gouv.fr/download/pdf/circ?id=32278"
+    },
+    {
+      "titre": "Décret n° 2021-1789 du 23 décembre 2021 pris pour l'application de la loi du 2 janvier 1907 concernant l'exercice public des cultes",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000044559671"
+    },
+    {
+      "titre": "Décret n°2022-1623 du 22 décembre 2022 relatif aux associations inscrites à objet cultuel des départements du Bas-Rhin, du Haut-Rhin et de la Moselle",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000046792527"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Déclaration de la qualité cultuelle de votre association (Loi du 9 décembre 1905)",
+      "url": "https://demarche.numerique.gouv.fr/commencer/declaration-qualite-cultuelle",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "Point ressource à la vie associative",
+    "Bureau central des cultes - Ministère de l'intérieur"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Statut juridique des cultes en Alsace-Moselle",
+      "url": "https://www.idl-am.org/?kbe_knowledgebase=presentation-du-droit-local-des-cultes-et-de-lenseignement&print=pdf"
+    }
+  ],
+  "slug": "association-cultuelle",
+  "path": [
+    {
+      "slug": "associations-fondations-et-fonds-de-dotation",
+      "titre": "Associations, fondations et fonds de dotation"
+    },
+    {
+      "slug": "associations-sous-regime-legal-special",
+      "titre": "Associations sous régime légal spécial"
+    }
+  ]
+}

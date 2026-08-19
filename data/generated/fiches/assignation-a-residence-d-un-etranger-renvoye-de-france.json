@@ -1,0 +1,66 @@
+{
+  "id": "F20127",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Assignation à résidence d'un étranger renvoyé de France",
+  "theme": "Étranger - Europe",
+  "description": "L'assignation à résidence est une mesure prise en même temps qu'une mesure d'éloignement et qui oblige l'étranger à rester dans un endroit précis.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2024-11-19",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F20127",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Éloignement d'un étranger (expulsion, OQTF...)",
+    "Assignation à résidence d'un étranger renvoyé de France"
+  ],
+  "introduction": "L'assignation à résidence vous oblige à rester dans un endroit précis décidé par l'administration. Cette assignation est prononcée pour exécuter la décision d'éloignement ou pour une durée d'1 an en cas de report de l'éloignement. L'assignation à résidence peut être accompagnée d'une obligation de rester dans un périmètre défini et de vous présenter régulièrement aux services de police ou de gendarmerie. Nous faisons le point sur la réglementation.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "[Attention] Cette procédure ne concerne pas un étranger ressortissant d'un pays européen, ni les membres de sa famille vivant en France avec lui.",
+        "La situation varie selon qu'il s'agit de réaliser la décision d'éloignement ou de reporter l'éloignement."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles L731-1 à L731-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042773130/"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles L824-4 à L824-7",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042773850/"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : L900-1 à L931-4",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000049077897/"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles R730-1 à R733-21",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042802728/"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : R900-1 à R931-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000049975158/"
+    },
+    {
+      "titre": "Circulaire du 14 juillet 2024 relative à la simplification des règles du contentieux relatif à l'entrée, au séjour et à l'éloignement des étrangers",
+      "url": "https://media.interieur.gouv.fr/bomi/BOMI2024-7-2/textes/I00_20240714_IOMV2419202J.pdf"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "assignation-a-residence-d-un-etranger-renvoye-de-france",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "eloignement-d-un-etranger-expulsion-oqtf",
+      "titre": "Éloignement d'un étranger (expulsion, OQTF...)"
+    }
+  ]
+}

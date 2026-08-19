@@ -1,0 +1,103 @@
+{
+  "id": "F16225",
+  "type_publication": "Fiche Comment faire si conditionné",
+  "titre": "Je deviens parent",
+  "theme": "",
+  "description": "Nous vous présentons par ordre chronologique les démarches à effectuer pendant la grossesse, puis de la naissance jusqu’aux 3 ans de l’enfant.",
+  "type_fiche": "Comment faire si...",
+  "date_modif": "2026-06-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F16225",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Comment faire si",
+    "Je deviens parent"
+  ],
+  "introduction": "Vous vivez en France et vous allez devenir parent pour la première fois ou avoir un nouvel enfant ? Nous vous présentons par ordre chronologique les démarches à effectuer pendant la grossesse, puis de la naissance jusqu’aux 3 ans de l’enfant. Au préalable, nous vous posons quelques questions afin de vous fournir uniquement les informations correspondant à votre situation. Cette page ne présente pas les informations spécifiques concernant les travailleurs indépendants et les demandeurs d’emploi. Elles seront ajoutées prochainement.",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [
+    {
+      "titre": "Estimer le montant de la prime de naissance",
+      "url": "https://www.mesdroitssociaux.gouv.fr/votre-simulateur/prime-naissance/",
+      "type": "simulateurNG"
+    },
+    {
+      "titre": "Trouver un mode d’accueil pour mon enfant (crèche, assistante maternelle, maison d'assistantes maternelles, service de garde à domicile)",
+      "url": "https://www.monenfant.fr/que-recherchez-vous",
+      "type": "Outil de recherche"
+    },
+    {
+      "titre": "CMG emploi direct : estimer ses droits",
+      "url": "https://www.urssaf.fr/accueil/outils-documentation/simulateurs/calculer-reste-a-charge-cmg-pe.html",
+      "type": "simulateurNG"
+    },
+    {
+      "titre": "CMG emploi structure : estimer ses droits",
+      "url": "https://www.mesdroitssociaux.gouv.fr/votre-simulateur/aide-garde-enfant/cmg",
+      "type": "simulateurNG"
+    },
+    {
+      "titre": "Demander un congé de paternité et d'accueil de l'enfant",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/CongePaterniteAccueil",
+      "type": "lettreTypeNG"
+    },
+    {
+      "titre": "Demande initiale de congé parental dans le secteur privé",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/CongeParentalSecteurPrive",
+      "type": "lettreTypeNG"
+    },
+    {
+      "titre": "Carte Vitale : demande de rattachement d’un enfant à l'un ou aux 2 parents",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_14445.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Ameli en ligne",
+      "url": "https://assure.ameli.fr/PortailAS/appmanager/PortailAS/assure?_somtc=true&_pageID=P1_NAISSANCE_ENFANT&utm_source=ameli.fr&utm_medium=lien_redirection&utm_campaign=NAISSANCE_ENFANT#idPopupWARecueilConsentement",
+      "type": "selNG"
+    },
+    {
+      "titre": "MSA - Espace particuliers",
+      "url": "https://monespaceprive.msa.fr/lfp/web/msa/espace-prive",
+      "type": "selNG"
+    },
+    {
+      "titre": "Caisse d'allocations familiales (Caf) en ligne",
+      "url": "https://connect.caf.fr/connexionappli/dist/?forceReload=20211220&contexteAppel=caffr&urlredirect=%2Fwps%2Fmyportal%2Fcaffr#/login",
+      "type": "selNG"
+    },
+    {
+      "titre": "Impôts : accéder à votre espace Finances publiques",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Connaître les coordonnées des CapParents",
+      "url": "https://www.monparcourshandicap.gouv.fr/principaux-interlocuteurs/les-capparents#contacter-les-capparents",
+      "type": "Outil de recherche"
+    },
+    {
+      "titre": "Trouver un centre ressource INTIMAGIR",
+      "url": "https://www.monparcourshandicap.gouv.fr/vie-intime-et-parentalite/ou-trouver-un-centre-ressource-intimagir",
+      "type": "Outil de recherche"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Site des 1 000 premiers jours",
+      "url": "https://www.1000-premiers-jours.fr/fr"
+    },
+    {
+      "titre": "Vaccinations : nourrissons et enfants (de la naissance à 13 ans)",
+      "url": "https://vaccination-info-service.fr/La-vaccination-au-cours-de-la-vie/Nourrissons-et-enfants-de-la-naissance-a-13-ans"
+    }
+  ],
+  "slug": "je-deviens-parent",
+  "path": [
+    {
+      "slug": "comment-faire-si",
+      "titre": "Comment faire si"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "F3070",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Nationalité française d'un enfant adopté",
+  "theme": "Étranger - Europe",
+  "description": "L'adoption plénière attribue la nationalité française à la naissance. En cas d'adoption simple, l'enfant mineur peut devenir français par déclaration.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2024-12-11",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F3070",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Nationalité française",
+    "Nationalité française d'un enfant adopté"
+  ],
+  "introduction": "Vous adoptez un enfant étranger et voulez savoir s'il acquiert automatiquement la nationalité française ? Nous vous indiquons les informations à connaître selon que l'enfant est adopté par adoption simple ou par adoption plénière.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "L'adoption crée un lien de filiation entre l'adoptant et l'adopté. Elle peut être simple ou plénière.",
+        "Dans le cas de l'adoption simple, l'adopté conserve tous ses liens avec sa famille d'origine.",
+        "Dans le cas de l'adoption plénière, l'adopté a une nouvelle filiation qui remplace celle d'origine."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : article 21",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006165433/"
+    },
+    {
+      "titre": "Code civil : articles 21-7 à 21-11",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165743"
+    },
+    {
+      "titre": "Code civil : articles 21-12 à 21-14",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165458/"
+    },
+    {
+      "titre": "Code civil : articles 26 à 26-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006149961"
+    },
+    {
+      "titre": "Décret n°93-1362 du 30 décembre 1993 relatif aux déclarations de nationalité, aux décisions de naturalisation, de réintégration, de perte, de déchéance et de retrait de la nationalité française",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000699753"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Tribunal judiciaire ou tribunal de proximité",
+    "Maison de justice et du droit"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "nationalite-francaise-d-un-enfant-adopte",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "nationalite-francaise",
+      "titre": "Nationalité française"
+    }
+  ]
+}

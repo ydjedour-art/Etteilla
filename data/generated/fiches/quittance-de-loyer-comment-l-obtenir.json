@@ -1,0 +1,67 @@
+{
+  "id": "F35247",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quittance de loyer : comment l'obtenir ?",
+  "theme": "Logement",
+  "description": "Vous devez demander à votre propriétaire (bailleur) de vous transmettre une quittance de loyer. Il doit alors vous la transmettre gratuitement.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-08-25",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35247",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Bail d’habitation : loyer",
+    "Quittance de loyer : comment l'obtenir ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Une quittance de loyer est un document qui atteste que vous avez payé intégralement le loyer et les charges.",
+        "Le propriétaire ou l'agence immobilière ou le bailleur social doit vous remettre gratuitement une quittance de loyer, lorsque vous lui en faites la demande.",
+        "[À savoir] Le propriétaire ou l'agence immobilière ou le bailleur social peut vous transmettre la quittance de loyer par mail, à la condition que vous ayez donné votre accord.",
+        "Pour demander au propriétaire ou à l'agence immobilière ou au bailleur social de vous remettre une quittance de loyer, vous pouvez utiliser le modèle de lettre suivant :",
+        "Demander une quittance de loyer au propriétaire, à l’agence immobilière ou au bailleur social",
+        "La quittance doit indiquer le détail des sommes que vous avez versées, en distinguant le loyer et les charges.",
+        "[À savoir] Vous pouvez consulter un modèle de quittance de loyer.",
+        "Lorsque vous ne payez qu'une partie du montant du loyer, le propriétaire ou l'agence immobilière ou le bailleur social doit vous remettre un reçu."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 4",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000028806566/"
+    },
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 21",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000028806698/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demander une quittance de loyer au propriétaire, à l’agence immobilière ou au bailleur social",
+      "url": "https://www.inc-conso.fr/content/vous-demandez-une-quittance-de-loyer-votre-proprietaire",
+      "type": "lettreTypeNG"
+    },
+    {
+      "titre": "Modèle de quittance de loyer",
+      "url": "https://www.anil.org/modele-lettre-courrier-type-location/",
+      "type": "lettreTypeNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "quittance-de-loyer-comment-l-obtenir",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "bail-d-habitation-loyer",
+      "titre": "Bail d’habitation : loyer"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "F35175",
+  "type_publication": "Recherche guidée",
+  "titre": "A t-on droit au PTZ quand on est déjà propriétaire d'un logement ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "A t-on droit au PTZ quand on est déjà propriétaire d'un logement ?",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2024-10-21",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35175",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Crédit immobilier",
+    "A t-on droit au PTZ quand on est déjà propriétaire d'un logement ?"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "a-t-on-droit-au-ptz-quand-on-est-deja-proprietaire-d-un-logement-f35175",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "credit-immobilier",
+      "titre": "Crédit immobilier"
+    }
+  ]
+}

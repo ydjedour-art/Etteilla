@@ -1,0 +1,113 @@
+{
+  "id": "F32675",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Carte d'identité / Passeport : quel justificatif de domicile pour un mineur ?",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Pour demander la carte d'identité ou le passeport d'un mineur, il faut fournir un justificatif de domicile datant de moins d'un an.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-04-22",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F32675",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Carte d'identité",
+    "Carte d'identité / Passeport : quel justificatif de domicile pour un mineur ?"
+  ],
+  "introduction": "Pour demander la carte d'identité ou le passeport d'un mineur, il faut fournir un justificatif de domicile datant de moins d'un an. Le document à présenter varie selon que les parents vivent ensemble ou sont séparés :",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les parents vivent ensemble",
+        "Si l'enfant habite avec ses 2 parents, il faut fournir le justificatif de domicile de l'un de ses parents.",
+        "Vous avez un justificatif de domicile à votre nom",
+        "Si l’adresse n’a pas été vérifiée par le dispositif Justif’Adresse lors de la pré-demande en ligne, il faut fournir un justificatif de domicile daté de moins d'un an à la date de dépôt de la demande.",
+        "Il doit comporter le nom et le prénom du parent qui fait la demande.",
+        "Vous habitez chez un proche (parent, ami...)",
+        "Il faut présenter les 3 documents suivants :",
+        "• Pièce d'identité de la personne qui héberge (photocopie uniquement)",
+        "• Attestation sur l'honneur de l'hébergement datée, signée et certifiant une résidence stable ou supérieure à 3 mois (original)",
+        "• Justificatif de domicile de moins d'un an de l'hébergeant (original).",
+        "[À savoir] Aucun autre document ne doit être exigé.",
+        "Vous êtes sans domicile stable ou fixe (SDF)",
+        "Il est possible, sous certaines conditions, d'élire domicile auprès d'une des structures suivantes :",
+        "• Organisme agréé par le préfet. Il peut s'agir par exemple d'organismes humanitaires menant des actions contre l'exclusion ou pour l'accès aux soins (Croix Rouge Française, Secours catholique, Emmaüs,...). La liste des structures agréées peut être communiquée par la mairie",
+        "• Centre communal (ou intercommunal) d'action sociale (CCAS ou CIAS).",
+        "Le nom de l'organisme ne figure pas sur la pièce d'identité. Seule son adresse sera indiquée.",
+        "Vous vivez à l'hôtel",
+        "Il faut présenter les 2 documents suivants :",
+        "• Attestation d'hébergement du gérant ou du directeur de l'hôtel",
+        "• Document officiel à votre nom indiquant la même adresse (permis de conduire, avis d'imposition, attestation vitale, titre de pension, titre d'allocations familiales, document de France Travail).",
+        "Vous vivez dans une caravane",
+        "Il faut présenter les 2 documents suivants :",
+        "• Acte de propriété du terrain ou contrat de location",
+        "• Document officiel à votre nom indiquant la même adresse.",
+        "[À noter] En l’absence de domicile (ou résidence) fixe depuis plus de six mois (par exemple, gens du voyage), une attestation d’élection de domicile doit être fournie.",
+        "Les parents sont séparés",
+        "Le justificatif à produire dépend du mode de garde : résidence habituelle chez un seul parent ou garde alternée.",
+        "Résidence habituelle fixée chez l'un des parents",
+        "Si l'enfant vit habituellement chez l'un de ses parents et que l'adresse n'a pas été vérifiée par le dispositif Justif’Adresse lors de la pré-demande en ligne, il faut fournir un justificatif de domicile daté de moins d'un an à la date de dépôt de la demande.",
+        "Le justificatif doit comporter le nom et le prénom du parent chez qui l'enfant à sa résidence habituelle.",
+        "[À savoir] Chaque parent ayant l'autorité parentale peut faire la demande de titre d'identité de l'enfant. Mais si la demande est faite par le parent chez qui l'enfant n'habite pas habituellement, il doit fournir le justificatif de domicile de l'autre parent.",
+        "Garde alternée",
+        "Si l’adresse n’a pas été vérifiée par le dispositif Justif’Adresse lors de la pré-demande en ligne, il faut fournir un justificatif de domicile daté de moins d'un an à la date de dépôt de la demande.",
+        "Il doit comporter le nom et le prénom du parent qui fait la demande.",
+        "En cas de garde alternée, il est possible de mentionner les deux adresses du mineur sur le titre d'identité. Dans ce cas, il faut présenter :",
+        "• La preuve de la résidence alternée (convention conclue entre les parents ou décision du juge)",
+        "• Et 2 justificatifs de domicile (un pour chaque parent).",
+        "[Attention] Si la preuve de la résidence alternée n'est pas apportée, le titre d'identité sera établi uniquement avec l’adresse communiquée par le parent qui dépose la demande."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : articles 102 à 111",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006117683/"
+    },
+    {
+      "titre": "Code des relations entre le public et l'administration : articles R113-5 à R113-9",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000031366350/LEGISCTA000031370017/"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : articles D264-1 à D264-15",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074069/LEGISCTA000006160904/#LEGISCTA000006160904"
+    },
+    {
+      "titre": "Décret n°55-1397 du 22 octobre 1955 relatif à la carte d'identité : article 2 - Domicile",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000035977535"
+    },
+    {
+      "titre": "Décret n°2005-1726 du 30 décembre 2005 relatif au passeport : article 6 - Domicile",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000035977648"
+    },
+    {
+      "titre": "Arrêté du 27 septembre 2013 relatif à la sécurisation des pièces justificatives de domicile au moyen d'un dispositif électronique pour garantir son authenticité",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000028090286/"
+    },
+    {
+      "titre": "Arrêté du 4 février 2019 fixant la liste des fournisseurs qui communiquent à l'administration les informations permettant de vérifier le domicile",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000038114929"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "France Services / Maison de services au public"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Justif'adresse",
+      "url": "https://passeport.ants.gouv.fr/aide-et-contact/justif-adresse"
+    }
+  ],
+  "slug": "carte-d-identite-passeport-quel-justificatif-de-domicile-pour-un-mineur",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "carte-d-identite",
+      "titre": "Carte d'identité"
+    }
+  ]
+}

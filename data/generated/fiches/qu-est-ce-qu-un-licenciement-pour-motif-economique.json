@@ -1,0 +1,72 @@
+{
+  "id": "F2776",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Qu'est-ce qu'un licenciement pour motif économique ?",
+  "theme": "Travail - Formation",
+  "description": "Un licenciement est considéré comme un licenciement économique lorsqu'il est notamment lié à des difficultés économiques rencontrées par l'entreprise.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-05-22",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2776",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Licenciement économique",
+    "Qu'est-ce qu'un licenciement pour motif économique ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "Difficultés économiques",
+      "contenu": [
+        "Il y a difficulté économique lorsque l'entreprise connaît une évolution significative d'au moins un indicateur économique suivant :",
+        "• Baisse des commandes ou du chiffre d'affaires",
+        "• Pertes d'exploitation ou une dégradation de la trésorerie ou de l'excédent brut d'exploitation",
+        "• Tout autre élément de nature à justifier de difficultés économiques.",
+        "Une baisse des commandes ou du chiffre d'affaires est significative lorsque, en comparaison avec la même période de l'année précédente, elle atteint une certaine durée. Cette durée varie en fonction de la taille de l'entreprise et s’apprécie par trimestre glissant.",
+        "[Complement] Durée de la baisse des commandes ou du chiffre d'affaires en fonction de l’effectif constituant une baisse significative Effectif de l'entreprise Durée de la baisse des commandes ou du chiffre d'affaires constituant une baisse significative Moins de 11 salariés 1 trimestre Au moins 11 salariés et moins de 50 salariés 2 trimestres consécutifs Au moins 50 salariés et moins de 300 salariés 3 trimestres consécutifs Au moins 300 salariés 4 trimestres consécutifs"
+      ]
+    },
+    {
+      "titre": "Mutations technologiques",
+      "contenu": [
+        "L'introduction d'une nouvelle technologie peut justifier un licenciement économique.",
+        "[Exemple] L'adoption d'un procédé de fabrication par impression numérique remplaçant un procédé d'impression sérigraphique."
+      ]
+    },
+    {
+      "titre": "Réorganisation de l'entreprise nécessaire à la sauvegarde de sa compétitivité",
+      "contenu": [
+        "La réorganisation de l'entreprise peut justifier un licenciement économique si elle est nécessaire à la sauvegarde de sa compétitivité.",
+        "La sauvegarde de la compétitivité de l'entreprise doit permettre d'anticiper des difficultés économiques en prenant des mesures de nature à éviter des licenciements plus importants.",
+        "[Exemple] La réorganisation justifiée par une importante perte de clientèle et de marché."
+      ]
+    },
+    {
+      "titre": "Cessation d'activité de l'entreprise",
+      "contenu": [
+        "La cessation d'activité de l'entreprise peut justifier un licenciement économique.",
+        "[À noter] La cessation d'activité de l'entreprise due à une faute de l'employeur ne peut pas justifier un licenciement économique. Par exemple, la cessation d'activité d'une entreprise consécutive à un détournement de fonds de l'entreprise pour éponger une dette personnelle."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code du travail : article L1233-3",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036762081"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "qu-est-ce-qu-un-licenciement-pour-motif-economique",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "licenciement-economique",
+      "titre": "Licenciement économique"
+    }
+  ]
+}

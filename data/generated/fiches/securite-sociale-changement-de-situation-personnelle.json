@@ -1,0 +1,59 @@
+{
+  "id": "F737",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Sécurité sociale : changement de situation personnelle",
+  "theme": "Social - Santé",
+  "description": "En cas de changement lié à la situation personnelle (changement de banque ou d'adresse, naissance d'un enfant), il faut en informer la Sécurité sociale.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-03-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F737",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Affiliation à la sécurité sociale (assurance maladie)",
+    "Sécurité sociale : changement de situation personnelle"
+  ],
+  "introduction": "Votre situation personnelle change (exemples : déménagement, changement de banque, naissance d'un enfant) ? Vous devez informer votre organisme de Sécurité sociale. Les formalités varient selon que vous dépendez du régime général (CPAM) ou du régime agricole (MSA). Nous faisons le point sur les démarches à suivre.",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [
+    {
+      "titre": "Ameli en ligne",
+      "url": "https://assure.ameli.fr/PortailAS/appmanager/PortailAS/assure?_somtc=true&_pageID=P1_NAISSANCE_ENFANT&utm_source=ameli.fr&utm_medium=lien_redirection&utm_campaign=NAISSANCE_ENFANT#idPopupWARecueilConsentement",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "Caisse primaire d'assurance maladie (CPAM)",
+    "Mutualité sociale agricole (MSA)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "La déclaration de grossesse (MSA)",
+      "url": "https://www.msa.fr/lfp/sante/declaration-de-grossesse"
+    },
+    {
+      "titre": "Déclarer un déménagement (MSA)",
+      "url": "https://www.msa.fr/lfp/pratique/demenagement?p_p_id=com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_SZT2Hg7mwBhx&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_SZT2Hg7mwBhx_read_more=4"
+    },
+    {
+      "titre": "J'attends un enfant : la MSA à mes côtés",
+      "url": "https://www.msa.fr/lfp/j-attends-un-enfant?p_p_id=com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_Eij66wzTGAWi&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_Eij66wzTGAWi_read_more=6"
+    },
+    {
+      "titre": "Déclarer une grossesse (Cnam)",
+      "url": "https://www.ameli.fr/assure/droits-demarches/famille/maternite-paternite-adoption/grossesse"
+    }
+  ],
+  "slug": "securite-sociale-changement-de-situation-personnelle",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "affiliation-a-la-securite-sociale-assurance-maladie",
+      "titre": "Affiliation à la sécurité sociale (assurance maladie)"
+    }
+  ]
+}

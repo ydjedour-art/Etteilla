@@ -1,0 +1,84 @@
+{
+  "id": "F39103",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Qu'est-ce qu'un véhicule terrestre à moteur ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Un véhicule terrestre à moteur (VTM) est un engin motorisé circulant au sol, hors rails, destiné au transport ou à la traction.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-05-28",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F39103",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Assurance automobile (véhicule)",
+    "Qu'est-ce qu'un véhicule terrestre à moteur ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Un véhicule terrestre à moteur est un engin motorisé, conçu pour circuler au sol (hors rails) et destiné au transport de personnes, de marchandises ou à tracter un autre véhicule.",
+        "Cette définition englobe une grande variété de véhicules, répartis en plusieurs catégories selon leur usage, leur gabarit ou leur fonction.",
+        "Véhicules de tourisme et utilitaires",
+        "• Voitures particulières (VP)",
+        "• Véhicules utilitaires légers (VUL)",
+        "• Camions et poids lourds",
+        "• Camping-cars",
+        "2 et 3 roues motorisés",
+        "• Cyclomoteurs (≤ 50 cm³ ou ≤ 45 km/h)",
+        "• Motocyclettes légères (≤ 125 cm³)",
+        "• Motos (toutes cylindrées)",
+        "• Scooters",
+        "• Tricycles motorisés",
+        "Quads et engins assimilés",
+        "• Quads légers (≤ 50 cm³ ou ≤ 45 km/h, ≤ 350 kg à vide)",
+        "• Quads lourds (autres quads homologués)",
+        "• Side-by-side vehicles (Ssv) ou buggys motorisés",
+        "Véhicules à 4 roues légers",
+        "• Voiturettes (sans permis) / quadricycles légers",
+        "• Quadricycles lourds à moteur",
+        "Engins spéciaux motorisés",
+        "• Véhicules agricoles (par exemple, tracteurs, moissonneuses)",
+        "• Véhicules forestiers",
+        "• Matériel de travaux publics (engins de chantier)",
+        "• Engins de nettoyage, de déneigement",
+        "Transports collectifs motorisés",
+        "• Autobus, autocars",
+        "• Minibus",
+        "• Trolleybus (véhicules électriques guidés par caténaire, sans rail)",
+        "Véhicules prioritaires ou d'intérêt général",
+        "• Ambulances, véhicules de police, gendarmerie, douanes, pompiers",
+        "• Véhicules de service hivernal (saleuses, chasse-neige)",
+        "• Véhicules militaires (en dehors d’exemptions spécifiques)",
+        "[À noter] Les véhicules suivants ne sont donc pas considérés comme véhicule terrestre à moteur : vélo, trottinette non motorisée, train et tramway (car ils roulent sur rails), drone, avion ou hélicoptère.",
+        "Quand un véhicule est considéré comme un véhicule terrestre à moteur, il doit suivre les règles suivantes :",
+        "• Il doit être assuré, même s’il ne roule pas",
+        "• Il doit être immatriculé (avoir une carte grise et une plaque)",
+        "• Il peut avoir besoin d’un contrôle technique",
+        "• Il doit respecter le code de la route",
+        "• Il peut être concerné par des règles environnementales (par exemple, vignette Crit’Air)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la route : articles R311-1 à R311-4",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045025478"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "qu-est-ce-qu-un-vehicule-terrestre-a-moteur",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "assurance-automobile-vehicule",
+      "titre": "Assurance automobile (véhicule)"
+    }
+  ]
+}

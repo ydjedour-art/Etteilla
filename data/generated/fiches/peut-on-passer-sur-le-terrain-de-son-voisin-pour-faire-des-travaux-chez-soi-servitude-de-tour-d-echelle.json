@@ -1,0 +1,74 @@
+{
+  "id": "F67",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Peut-on passer sur le terrain de son voisin pour faire des travaux chez soi (servitude de tour d'échelle) ?",
+  "theme": "Logement",
+  "description": "Oui, à la condition d'obtenir l'accord de votre voisin. Sinon, il faut faire un recours auprès du juge pour obtenir un droit de passage temporaire.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-02-17",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F67",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Vie pratique en logement individuel (maison)",
+    "Peut-on passer sur le terrain de son voisin pour faire des travaux chez soi (servitude de tour d'échelle) ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Oui, vous pouvez passer sur le terrain de votre voisin pour réaliser des travaux chez vous. C’est ce que l’on appelle la servitude de tour d’échelle. Ce droit de passage permet d’accéder temporairement au terrain voisin pour effectuer des travaux indispensables sur votre bien. Ce droit n’est pas prévu par la loi, il relève de la jurisprudence et des règles d’usage (pratiques anciennes et reconnues).",
+        "Vous pouvez accéder au terrain de votre voisin si vous respectez les 3 conditions suivantes :",
+        "• Vous n’avez pas d’autre moyen pour réaliser vos travaux depuis votre propriété",
+        "• Vos travaux sont indispensables, qu’il s’agisse d’entretien, de réparation, de sécurité ou de travaux imposés par la réglementation ou une décision de justice",
+        "• Votre intervention est temporaire, limitée dans le temps et réalisée avec une emprise proportionnée, c’est-à-dire que l’occupation du terrain doit être réduite au strict nécessaire.",
+        "Avant toute intervention, vous devez obtenir l’accord de votre voisin.",
+        "Cet accord doit être formalisé par écrit, en précisant les points suivants :",
+        "• Durée des travaux",
+        "• Dates et heures de passage",
+        "• Assiette de passage (largeur, emplacement, échafaudage, ...)",
+        "• Modes de remise en état.",
+        "Il est possible de prévoir une indemnité d’occupation pour compenser le trouble de jouissance. Son montant est libre.",
+        "Vous pouvez vous aider d'un modèle de lettre pour rédiger votre courrier :",
+        "Demander l'autorisation de pénétrer sur le terrain voisin pour faire des travaux chez soi",
+        "Ce courrier doit être envoyé à votre voisin, de préférence, par lettre recommandée avec avis de réception.",
+        "Si votre voisin refuse ou si vous n'obtenez pas de réponse, vous pouvez faire appel à un conciliateur de justice (démarche gratuite) ou à un médiateur (démarche payante) ou à une procédure participative (démarche payante avec recours à un avocat) pour trouver une solution.",
+        "[Attention] Cette démarche est obligatoire avant de faire un recours auprès du tribunal.",
+        "Si aucun accord n’est trouvé, vous devez faire un recours auprès du tribunal judiciaire du lieu de votre bien.",
+        "Le juge peut autoriser le passage uniquement dans les cas suivants :",
+        "• Aucune autre solution technique ne permet de réaliser les travaux",
+        "• Une autre solution existe, mais elle est excessivement complexe ou disproportionnée."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Réponse ministérielle n°98209 du 29 novembre 2016",
+      "url": "https://questions.assemblee-nationale.fr/q14/14-98209QE.htm"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demander l'autorisation de pénétrer sur le terrain voisin pour faire des travaux chez soi",
+      "url": "https://www.inc-conso.fr/content/pour-refaire-votre-toiture-vous-demandez-votre-voisin-de-pouvoir-penetrer-sur-son-terrain",
+      "type": "Modèle de document"
+    }
+  ],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)",
+    "Maison de justice et du droit"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "peut-on-passer-sur-le-terrain-de-son-voisin-pour-faire-des-travaux-chez-soi-servitude-de-tour-d-echelle",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "vie-pratique-en-logement-individuel-maison",
+      "titre": "Vie pratique en logement individuel (maison)"
+    }
+  ]
+}

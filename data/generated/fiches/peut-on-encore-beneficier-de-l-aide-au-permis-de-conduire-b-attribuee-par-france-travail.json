@@ -1,0 +1,38 @@
+{
+  "id": "F1719",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Peut-on encore bénéficier de l’aide au permis de conduire B attribuée par France Travail ?",
+  "theme": "Social - Santé",
+  "description": "L’aide au permis B France Travail est supprimée depuis le 1er avril 2026.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-04-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1719",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Chômage : aides à la reprise d'activité",
+    "Peut-on encore bénéficier de l’aide au permis de conduire B attribuée par France Travail ?"
+  ],
+  "introduction": "Non, l’aide au permis B France Travail est supprimée depuis le 1er avril 2026.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Délibération n°2025-48 du 27 novembre 2025 relative au versement d'une aide à l'obtention du permis B par France Travail",
+      "url": "https://bo.francetravail.org/bulletinsofficiels/deliberation-n-2025-48-du-27-novembre-2025-bo-n-2025-73.html?type=dossiers/2025/bo-n-2025-73-du-4-decembre-2025"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "peut-on-encore-beneficier-de-l-aide-au-permis-de-conduire-b-attribuee-par-france-travail",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "chomage-aides-a-la-reprise-d-activite",
+      "titre": "Chômage : aides à la reprise d'activité"
+    }
+  ]
+}

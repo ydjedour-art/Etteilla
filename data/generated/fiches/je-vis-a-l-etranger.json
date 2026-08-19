@@ -1,0 +1,728 @@
+{
+  "id": "F37904",
+  "type_publication": "Fiche Comment faire si conditionné",
+  "titre": "Je vis à l'étranger",
+  "theme": "",
+  "description": "Nous vous présentons vos droits, vos démarches et vos obligations si vous êtes Français et vivez à l'étranger (naissance, mariage, véhicule, santé ...).",
+  "type_fiche": "Comment faire si...",
+  "date_modif": "2024-04-30",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F37904",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Comment faire si",
+    "Je vis à l'étranger"
+  ],
+  "introduction": "Vous êtes de nationalité française et vous vivez à l'étranger ? Nous vous présentons vos droits, vos obligations, les démarches que vous devez accomplir et vos interlocuteurs concernant vos sujets de vie quotidienne.",
+  "chapitres": [
+    {
+      "titre": "Accident",
+      "contenu": [
+        "Les démarches à suivre sont présentées dans les fiches « Que faire si vous êtes victime d’un accident de circulation ? » et « Que faire si vous êtes victime d’un accident collectif ? » du guide des victimes françaises à l’étranger publié par le ministère de l'Europe et des affaires étrangères :",
+        "Guide des victimes françaises à l’étranger"
+      ]
+    },
+    {
+      "titre": "Action en justice",
+      "contenu": [
+        "Vous vivez dans un pays de l'Union européenne",
+        "Le site e-justice.europa.eu présente les informations à connaître avant d'intenter une action en justice :",
+        "Intenter une action en justice",
+        "Ce site permet également de trouver un professionnel du droit (avocat, notaire, expert, médiateur, traducteur/interprète juridique, ...) :",
+        "Trouver un professionnel du droit dans un pays de l'Union européenne",
+        "Vous vivez dans un autre pays",
+        "Le consulat peut vous apporter de premières informations et vous orienter.",
+        "Ambassade ou consulat français à l'étranger"
+      ]
+    },
+    {
+      "titre": "Agression",
+      "contenu": [
+        "Les démarches à suivre sont présentées dans la fiche « Que faire si vous êtes victime d'une agression ? » du guide des victimes françaises à l’étranger publié par le ministère de l'Europe et des affaires étrangères :",
+        "Guide des victimes françaises à l’étranger"
+      ]
+    },
+    {
+      "titre": "Bien immobilier : achat ou construction",
+      "contenu": [
+        "Dans un pays de l'Union européenne",
+        "Le site du Conseil supérieur du notariat présente les informations principales à connaître :",
+        "Acheter un bien immobilier en Europe",
+        "[À savoir] Si vous souhaitez construire une maison dans le pays où vous vivez, vous devez d'abord vous renseigner sur les conditions pour avoir le droit de construire (certains pays restreignant le droit à construire pour les étrangers), puis sur la réglementation locale en matière d'immobilier. Votre consulat peut vous orienter vers des interlocuteurs en mesure de vous renseigner.",
+        "Dans un autre pays",
+        "Contactez votre consulat pour obtenir de premières informations sur les formalités et obligations en matière d'acquisition d'un bien immobilier dans le pays où vous vivez.",
+        "Ambassade ou consulat français à l'étranger",
+        "[À savoir] Si vous souhaitez construire une maison dans le pays où vous vivez, vous devez d'abord vous renseigner sur les conditions pour avoir le droit de construire (certains pays restreignant le droit à construire pour les étrangers), puis sur la réglementation locale en matière d'immobilier. Votre consulat peut vous orienter vers des interlocuteurs en mesure de vous renseigner."
+      ]
+    },
+    {
+      "titre": "Bourses scolaires",
+      "contenu": [
+        "L'enfant ou les enfants sont scolarisés dans un établissement d'enseignement français",
+        "Dans les établissements d'enseignement français à l'étranger, les familles doivent payer des frais de scolarité pour leurs enfants.",
+        "Une bourse scolaire peut être obtenue sous conditions de ressources si l'enfant est de nationalité française et à condition que le ou les parents soient inscrits au registre des Français établis hors de France.",
+        "Le poste consulaire dont la famille dépend en fonction de son lieu de résidence est l'interlocuteur de la famille en matière de bourses scolaires.",
+        "Le site de l'Agence pour l'enseignement français à l'étranger (AEFE) présente les informations à connaître :",
+        "Bourses scolaires des enfants français scolarisés à l'étranger",
+        "[Complement] Le site de l'AEFE présente les informations à connaître : AEFE : aide au financement d'un AESH",
+        "Autre situation",
+        "En général, vous ne pouvez pas bénéficier d'une bourse accordée par le consulat. Mais il y a quelques exceptions. Renseignez-vous auprès du consulat.",
+        "Ambassade ou consulat français à l'étranger"
+      ]
+    },
+    {
+      "titre": "Carte d'identité et passeport",
+      "contenu": [
+        "Carte d'identité",
+        "Pour un majeur",
+        "Carte d'identité bientôt expirée ou déjà expirée",
+        "La démarche se fait en plusieurs étapes.",
+        "Carte d'identité volée",
+        "La démarche se fait en plusieurs étapes.",
+        "Cas d'identité perdue",
+        "La démarche se fait en plusieurs étapes.",
+        "Pour un mineur",
+        "Carte d'identité bientôt expirée ou déjà expirée",
+        "La démarche se fait en plusieurs étapes.",
+        "Carte d'identité volée",
+        "La démarche se fait en plusieurs étapes.",
+        "Cas d'identité perdue",
+        "La démarche se fait en plusieurs étapes.",
+        "Passeport",
+        "Pour un majeur",
+        "Passeport bientôt expiré ou déjà expiré",
+        "Vous vivez au Canada ou au Portugal",
+        "Vous pouvez faire la demande de renouvellement du passeport sans vous déplacer à l'ambassade ou au consulat si vous répondez à toutes les conditions suivantes :",
+        "• Vous avez toujours votre passeport (il n'a pas été perdu ou volé)",
+        "• Vous étiez âgé d'au moins 18 ans à la date d'émission de votre passeport actuel",
+        "• Votre passeport est encore valide ou a expiré depuis moins de 5 ans",
+        "• Vous ne demandez pas le renouvellement de votre passeport pour faire modifier votre nom de naissance ou votre prénom ou votre sexe",
+        "• Vous ne demandez pas un 2e passeport (pour raisons professionnelles ou destinations incompatibles)",
+        "• Vous êtes inscrit au Registre des Français établis hors de France et avez en votre possession votre numéro d'inscription consulaire (Numic) ainsi que votre adresse e-mail figurant au Registre",
+        "• Vous avez une identité numérique France Identité certifiée ou une identité numérique La PosteL’Identité numérique La Poste.",
+        "Si vous répondez à toutes ces conditions, la démarche se fait en plusieurs étapes. Si vous ne répondez pas à toutes ces conditions, la démarche est différente.",
+        "Vous vivez dans un autre pays",
+        "La démarche se fait en plusieurs étapes.",
+        "Passeport volé",
+        "La démarche se fait en plusieurs étapes.",
+        "Passeport perdu",
+        "La démarche se fait en plusieurs étapes.",
+        "Pour un mineur",
+        "Passeport bientôt expiré ou déjà expiré",
+        "La démarche se fait en plusieurs étapes.",
+        "Passeport volé",
+        "La démarche se fait en plusieurs étapes.",
+        "Passeport perdu",
+        "La démarche se fait en plusieurs étapes."
+      ]
+    },
+    {
+      "titre": "Circulation des véhicules sur la route et infractions routières",
+      "contenu": [
+        "Vous vivez dans un pays de l'Union européenne",
+        "Le site Your Europe présente les règles pour chaque pays :",
+        "Code de la route et sécurité routière dans les pays de l'Union européenne",
+        "Vous vivez dans un autre pays",
+        "Certains sites d'ambassades et de consulats présentent les informations principales à connaître. Si ce n'est pas le cas, contactez votre consulat pour vous renseigner.",
+        "Ambassade ou consulat français à l'étranger"
+      ]
+    },
+    {
+      "titre": "Création d'une entreprise",
+      "contenu": [
+        "Les démarches pour créer une entreprise à l'étranger varient selon les pays. Vous devez d'abord prendre connaissance de la réglementation dans le pays où vous vivez, ainsi que de son environnement économique, fiscal et social.",
+        "Les services économiques à l'étranger de la Direction générale du Trésor fournissent des informations sur l'économie, le commerce et les finances des pays dans lesquels ils sont localisés :",
+        "Trouver un service économique à l'étranger",
+        "La plateforme Team France Export présente également des informations sur les marchés par pays :",
+        "Team France Export"
+      ]
+    },
+    {
+      "titre": "Crise ou guerre dans le pays ou la zone géographique",
+      "contenu": [
+        "Il est fortement recommandé d'être inscrit sur le registre des Français à l'étranger pour pouvoir être joignable en cas de crise.",
+        "En cas de crise ou de guerre, les ressortissants français inscrits sur le registre reçoivent des conseils et des informations des postes diplomatiques et consulaires.",
+        "[À noter] Pensez à renouveler votre inscription tous les 5 ans ou à modifier votre dossier en cas de changement d'adresse."
+      ]
+    },
+    {
+      "titre": "Décès d'un membre de la famille vivant à l'étranger",
+      "contenu": [
+        "Accompagnement par l'ambassade ou le consulat",
+        "Le site du ministère de l'Europe et des affaires étrangères présente l’aide que les missions diplomatiques et les postes consulaires peuvent vous apporter à l’étranger.",
+        "Pension de réversion",
+        "La pension de réversion correspond à une partie de la retraite dont bénéficiait ou aurait pu bénéficier l'assuré décédé (salarié ou fonctionnaire). Elle est versée, si certaines conditions sont remplies, à l'époux survivant ou à l'ex-époux (et aux orphelins, si le défunt était fonctionnaire).",
+        "Il est possible de percevoir une pension de réversion quand on vit à l'étranger, mais uniquement s’il y a un accord avec la France.",
+        "Pour savoir s'il y a un accord, vous devez contacter le Cleiss.",
+        "Centre des liaisons européennes et internationales de sécurité sociale (Cleiss)",
+        "Informations générales sur la Sécurité sociale à l'étranger et aide aux démarches des particuliers",
+        "Par téléphone",
+        "+33 (0) 1 45 26 33 41",
+        "Permanence téléphonique :",
+        "• Le lundi de 9h à 12h30",
+        "• Le mardi de 13h30 à 16h30",
+        "• Le mercredi de 9h à 12h30",
+        "• Le jeudi de 13h30 à 16h30",
+        "• Le vendredi de 13h30 à 16h30",
+        "Par messagerie",
+        "Accès au formulaire de contact",
+        "Par courrier",
+        "Centre des Liaisons Européennes et Internationales de Sécurité Sociale",
+        "44 rue Armand Carrel",
+        "93100 Montreuil",
+        "S’il y a accord :",
+        "• Concernant la pension de réversion pour la retraite principale : il faut contacter l’organisme de retraite du pays de résidence. L'organisme fera la liaison avec la caisse de retraite française.",
+        "• Concernant la pension de réversion pour la retraite complémentaire : si l’usager est dans un pays hors EEE-Suisse, il faut contacter directement l’Agirc-Arrco.",
+        "[Attention] Si vous demandez à recevoir la pension de réversion sur un compte étranger, c’est possible uniquement sur un compte d'un pays de l'Union européenne et de certains pays tiers.",
+        "Capital décès",
+        "Les ayants droit ont droit, sous conditions, à une prestation appelée capital décès. Un personne résidant à l'étranger peut percevoir le capital décès. Les ayants droit doivent en faire la demande à l'organisme de sécurité sociale dont dépendait la personne décédée au moment du décès selon un délai à respecter :",
+        "• Si la personne décédée dépendait du régime général, la démarche est à faire auprès de la CPAM.",
+        "• Si la personne décédée dépendait du régime agricole, la démarche est à faire auprès de la MSA.",
+        "Succession",
+        "Vous vivez dans un pays de l'Union européenne",
+        "Les règles en matière de succession varient d’un pays membre à l’autre (désignation des héritiers, détermination des parts et réserves héréditaires, administration de la succession, responsabilité des héritiers à l'égard des dettes du défunt, etc.).",
+        "Le site successions-europe.eu présente le droit des successions de chaque pays européen :",
+        "Connaître le droit des successions dans un pays de l'Union européenne",
+        "Le site e-justice.europa.eu permet de trouver un notaire dans chaque pays de l'UE :",
+        "Trouver un notaire dans l’Union européenne",
+        "Le site de l'Association du réseau européen des registres testamentaires présente comment inscrire et/ou rechercher un testament dans chaque pays de l’UE :",
+        "Inscrire ou rechercher un testament dans un pays de l’UE",
+        "Vous vivez dans un autre pays",
+        "Les règles en matière de succession varient selon les pays (désignation des héritiers, détermination des parts et réserves héréditaires, administration de la succession, responsabilité des héritiers à l'égard des dettes du défunt, etc.).",
+        "Contactez votre consulat afin d'être orienté vers des personnes pouvant vous apporter de premières informations.",
+        "Ambassade ou consulat français à l'étranger"
+      ]
+    },
+    {
+      "titre": "Délit / Infraction",
+      "contenu": [
+        "Vous devez respecter la loi locale. Ce qui est autorisé en France peut être considéré comme une infraction dans certains pays. Les peines encourues peuvent être lourdes, allant jusqu’à la réclusion à perpétuité voire la peine de mort.",
+        "Si vous commettez une infraction dans le pays, l’ambassade ou le consulat peuvent vous orienter pour vous permettre de mandater rapidement l’avocat de votre choix pour votre défense (ou de vous en voir désigner un d’office si la loi locale prévoit cette possibilité). Vous devrez payer l'avocat vous-même.",
+        "Ambassade ou consulat français à l'étranger",
+        "[À noter] Selon les lois du pays concerné, vous pouvez parfois bénéficier d'une aide pour payer les frais de justice si vous avez de faibles ressources. Vous devez vous adresser aux autorités judiciaires locales."
+      ]
+    },
+    {
+      "titre": "Déménagement au sein du même pays",
+      "contenu": [
+        "Mise à jour de votre dossier dans le registre des Français hors de France",
+        "Si vous êtes inscrit au registre des Français établis hors de France, vous devez mettre à jour votre dossier en cas de déménagement.",
+        "Il est recommandé de mettre à jour votre dossier d'inscription sur internet.",
+        "Si vous n'êtes pas en mesure de faire la demande sur internet, vous pouvez vous rendre à l'ambassade ou au consulat. Cette possibilité s'adresse plus particulièrement aux personne qui ont des difficultés à effectuer la démarche : personne en situation de handicap, personne âgée.",
+        "Sur internet",
+        "Vous devez utiliser le téléservice suivant :",
+        "Registre des Français établis hors de France - Actualisation",
+        "Accessible avec un compte Service Public ou via France Connect.",
+        "Chaque adulte doit avoir son propre compte.",
+        "Vous devez scanner le justificatif de résidence dans la nouvelle circonscription consulaire.",
+        "Si vous avez changé de situation, vous devez également scanner les justificatifs (arrivée d'un enfant, changement de nom d'usage, déménagement...).",
+        "Dès que le consulat a validé la modification de votre inscription, les documents suivants sont disponibles dans l'onglet Mes documents de votre espace personnel Service-Public.fr :",
+        "• Certificat d'inscription et de résidence",
+        "• Carte d'inscription consulaire.",
+        "Ces documents peuvent être imprimés chaque fois que vous en avez besoin.",
+        "Sur place",
+        "Ambassade ou consulat français à l'étranger",
+        "[Attention] Certains consulats demandent une prise de rendez-vous en ligne avant que vous vous rendiez au service d'administration des Français.",
+        "Si vous avez changé de situation, vous devez fournir les justificatifs de votre nouvelle situation (arrivée d'un enfant, changement de nom d'usage, déménagement...).",
+        "[À savoir] En cas de rattachement à un nouveau consulat, votre dossier sera transmis au consulat compétent pour traiter votre demande.",
+        "Mise à jour de vos informations sur le site impots.gouv.fr",
+        "Pensez à modifier les informations dans votre compte impots.gouv.fr."
+      ]
+    },
+    {
+      "titre": "Difficultés financières",
+      "contenu": [
+        "Le consulat peut disposer d’un budget d’aides sociales destiné à soutenir un ressortissant français rencontrant des difficultés financières. Il faut contacter le consulat pour se renseigner sur les conditions à respecter et les démarches.",
+        "Ambassade ou consulat français à l'étranger"
+      ]
+    },
+    {
+      "titre": "Diplôme universitaire obtenu en France : reconnaissance à l'étranger",
+      "contenu": [
+        "Si vous voulez faire reconnaître votre diplôme français pour étudier ou travailler à l'étranger, les critères de reconnaissance sont différents selon le pays d'accueil"
+      ]
+    },
+    {
+      "titre": "Disparition inquiétante d'un proche",
+      "contenu": [
+        "Le site du ministère de l'Europe et des affaires étrangères présente les démarches à suivre :",
+        "Disparition inquiétante d’un proche à l’étranger"
+      ]
+    },
+    {
+      "titre": "Divorce / Séparation de corps",
+      "contenu": [
+        "Votre mariage a été célébré en France ou dans un pays de l'Union européenne",
+        "Le site des Notaires de France propose un guide comportant un dossier intitulé « Divorce et résidence à l'étranger » :",
+        "Guide juridique des Français de l'étranger",
+        "Le site e-justice.europa.eu présente les informations à connaître et les règles en matière de divorce et de séparation de corps dans la plupart des pays de l'UE :",
+        "Divorce et séparation de corps dans un pays de l'Union européenne",
+        "Votre mariage a été célébré dans un autre pays",
+        "Le site des Notaires de France propose un guide comportant un dossier intitulé « Divorce et résidence à l'étranger » :",
+        "Guide juridique des Français de l'étranger"
+      ]
+    },
+    {
+      "titre": "Élections",
+      "contenu": [
+        "Si vous habitez à l'étranger, vous pouvez voter depuis l'étranger pour les élections législatives, européennes, présidentielle, conseillers des Français de l'étranger et référendums. Pour cela, vous devez être inscrit sur la liste électorale consulaire. Mais pour voter notamment lors des élections régionales, départementales et communales, vous devez être inscrit sur la liste électorale d'une commune."
+      ]
+    },
+    {
+      "titre": "Garde pour les enfants",
+      "contenu": [
+        "Le site du ministère de l'Europe et des affaires étrangères met à disposition un dossier d'information avec des informations de vie quotidienne pour chaque pays (avec parfois les informations sur les solutions locales de mode de garde) :",
+        "Expatriation : dossiers d'informations par pays",
+        "Vous pouvez également contacter votre consulat pour obtenir de premières informations.",
+        "Ambassade ou consulat français à l'étranger"
+      ]
+    },
+    {
+      "titre": "Handicap",
+      "contenu": [
+        "Vous vivez dans un pays de l'Union européenne",
+        "Prenez contact avec le consulat afin d'obtenir de premières informations sur les dispositifs prévus dans le pays où vous vivez et/ou d'être orienté vers les organismes locaux en charge des personnes en situation de handicap.",
+        "Ambassade ou consulat français à l'étranger",
+        "Vous vivez dans un autre pays",
+        "Le consulat peut verser une ou plusieurs aides financières (aides dites « CCPASS »). Prenez contact avec votre consulat.",
+        "Ambassade ou consulat français à l'étranger",
+        "Attention : pour obtenir une aide financière du consulat, vous devrez au préalable contacter une maison départementale des personnes handicapées (MDPH) en France.",
+        "[Complement] Le site de l'AEFE présente les informations à connaître : AEFE : aide au financement d'un AESH"
+      ]
+    },
+    {
+      "titre": "Impôts",
+      "contenu": [
+        "Vos obligations et vos démarches dépendent de votre résidence fiscale. Ce sont les services fiscaux qui la déterminent en fonction de votre situation.",
+        "[Attention] Pensez à modifier les informations sur votre compte impots.gouv.fr en cas de changement d'adresse, de mariage ou de conclusion d'un Pacs ou de divorce ou de séparation, d'un décès d'un membre de la famille installé à l'étranger avec vous."
+      ]
+    },
+    {
+      "titre": "Incarcération",
+      "contenu": [
+        "Le site du ministère de l'Europe et des affaires étrangères présente les informations à connaître :",
+        "Incarcération à l'étranger",
+        "L’ambassade ou le consulat peuvent vous orienter pour vous permettre de mandater rapidement l’avocat de votre choix pour votre défense (ou de vous en voir désigner un d’office si la loi locale prévoit cette possibilité). Mais vous devrez payer l'avocat vous-même.",
+        "Ambassade ou consulat français à l'étranger"
+      ]
+    },
+    {
+      "titre": "Jeune : recensement militaire et journée défense citoyenneté",
+      "contenu": [
+        "Recensement citoyen à 16 ans",
+        "Si le jeune est inscrit sur le registre des Français établis hors de France, son recensement citoyen est automatique. Il n'y a aucune démarche à faire.",
+        "Si le jeune n'est pas inscrit sur le registre, le jeune ou l'un de ses parents doit se rendre au consulat avec la carte d'identité ou passeport valide du mineur et le livret de famille à jour.",
+        "Après le recensement citoyen :",
+        "• Le jeune obtient une attestation de recensement. Il faut présenter cette attestation pour pouvoir vous inscrire avant l'âge de 18 ans à un examen (BEP, Bac...) ou un concours administratif en France.",
+        "• Il est inscrit automatiquement sur les listes électorales françaises dès 18 ans. Il peut voter dès 18 ans.",
+        "Journée défense et citoyenneté (JDC)",
+        "Après avoir fait le recensement citoyen, le jeune doit participer à la JDC avant l'âge de 25 ans. L'organisation de la JDC varie selon la situation du pays."
+      ]
+    },
+    {
+      "titre": "Mariage",
+      "contenu": [
+        "Le site du ministère des affaires étrangères présente les informations à connaître :",
+        "Se marier à l’étranger",
+        "[Complement] Les conditions à remplir et démarches à accomplir sont différentes."
+      ]
+    },
+    {
+      "titre": "Naissance d'un enfant",
+      "contenu": [
+        "Dans de nombreux pays, la législation locale oblige les ressortissants étrangers à déclarer une naissance à l'officier de l'état civil local. Contactez d'abord votre consulat pour connaître les règles locales et les documents devant être présentés.",
+        "Ambassade ou consulat français à l'étranger",
+        "Ensuite, la démarche varie selon la situation :",
+        "La législation locale oblige les ressortissants étrangers à déclarer une naissance à l'officier d'état civil local",
+        "Après la déclaration de naissance à l'officier d'état civil local, vous devez demander la transcription de l’acte de naissance local par l’officier d’état civil de l’ambassade ou du consulat.",
+        "Vous vivez en Algérie, au Liechtenstein, au Luxembourg, au Maroc, à Monaco, en Pologne, en Suisse ou en Tunisie",
+        "La liste des documents à fournir et le formulaire de demande de transcription peuvent être téléchargés sur le site du consulat général de France compétent dans le pays concerné.",
+        "Vous devez envoyer votre dossier uniquement par courrier postal au Service central d'état civil :",
+        "Service central d'état civil (Scec)",
+        "Attention : le Service central d'état civil n'accueille pas de public.",
+        "État civil (naissance, un mariage ou un décès) d'un Français à l'étranger",
+        "Uniquement par courrier à l'adresse suivante :",
+        "Service central d'état civil",
+        "11, rue de la Maison Blanche",
+        "44941 Nantes Cedex 09",
+        "Vous pouvez faire une demande d'acte d'état civil via un téléservice.",
+        "Pour toute information complémentaire, vous pouvez :",
+        "• Consulter le site diplomatie.gouv.fr",
+        "• Utiliser le formulaire en ligne suivant : https://etat-civil.diplomatie.gouv.fr/rece-informationusager-ui/",
+        "Vous vivez dans un autre pays",
+        "Contactez l'ambassade ou le consulat pour connaître la liste des documents devant être présentés.",
+        "La législation locale n'oblige pas les ressortissants étrangers à déclarer une naissance à l'officier d'état civil local",
+        "Dans les pays où la loi locale ne s’y oppose pas, la déclaration de naissance peut être reçue par l’officier de l’état civil consulaire territorialement compétent tout comme par les services de l’état civil du pays de résidence.",
+        "Dans ce cas, l’ambassade ou le consulat établit l’acte de naissance et le conserve dans ses registres.",
+        "La déclaration doit être faite dans les 15 jours de l'accouchement.",
+        "Le délai est porté à 30 jours dans les cas suivants :",
+        "• En Europe pour les pays suivants : Albanie, Arménie, Azerbaïdjan, Biélorussie, Bosnie-Herzégovine, Croatie, Espagne, Estonie, Finlande, Géorgie, Grèce, Kazakhstan, Kirghizstan, Kosovo, Lettonie, Lituanie, Macédoine, Moldavie, Monténégro, Norvège, Ouzbékistan, Pologne, Portugal, République tchèque, Roumanie, Russie, Serbie, Slovaquie, Slovénie, Suède, Tadjikistan, Turkménistan, Turquie, Ukraine",
+        "• Dans tout pays hors d'Europe."
+      ]
+    },
+    {
+      "titre": "Nationalité",
+      "contenu": [
+        "Si vous souhaitez demander la nationalité du pays où vous vivez, vous pouvez consulter le site internet de l'ambassade ou du consulat (ou contacter le consulat) pour obtenir les informations nécessaires.",
+        "Ambassade ou consulat français à l'étranger"
+      ]
+    },
+    {
+      "titre": "Obligation alimentaire / Recouvrement de créances alimentaires à l’étranger",
+      "contenu": [
+        "L'obligation alimentaire est l'obligation d'aider matériellement des personnes de sa famille, lorsque ces dernières sont dans le besoin.",
+        "Le site du ministère de l'Europe et des affaires étrangères présente les informations à connaître :",
+        "Vous résidez hors de France et le débiteur d’aliments est domicilié en France ou à l'étranger",
+        "Recouvrement de créances alimentaires à l’étranger"
+      ]
+    },
+    {
+      "titre": "Pacte civil de solidarité (Pacs)",
+      "contenu": [
+        "Conclusion d'un Pacs",
+        "Les démarches à accomplir varient en fonction de votre situation (par exemple, si vous vous pacsez avec une personne de nationalité française ou de nationalité étrangère ou si vous êtes né à l'étranger ou si vous êtes divorcé).",
+        "Modification du Pacs",
+        "Si vous souhaitez modifier les règles d'organisation de votre vie commune avec votre partenaire, vous devez modifier votre Pacs en rédigeant une convention modificative. Les démarches à accomplir dépendent du lieu d'enregistrement du Pacs initial.",
+        "Fin du Pacs",
+        "Les démarches à accomplir varient selon votre situation (séparation ou mariage)."
+      ]
+    },
+    {
+      "titre": "Permis de conduire",
+      "contenu": [
+        "Vous avez un permis français",
+        "On vous a volé votre permis",
+        "En cas de vol de votre permis de conduire français alors que vous êtes à l'étranger, la démarche à faire varie selon que votre résidence normale est en France ou à l'étranger.",
+        "Vous avez perdu votre permis",
+        "En cas de perte de votre permis de conduire français alors que vous êtes à l'étranger, la démarche à faire varie selon que votre résidence normale est en France ou à l'étranger.",
+        "Votre permis est très abîmé",
+        "La démarche à faire varie selon que votre résidence normale est en France ou à l'étranger.",
+        "Vous avez un permis délivré par un autre pays que la France (ou vous avez échangé votre permis français contre un permis étranger)",
+        "Vous devez vous renseigner auprès du consulat.",
+        "Ambassade ou consulat français à l'étranger",
+        "Vous voulez obtenir un permis de conduire à l'étranger, alors que vous n'en avez pas obtenu en France",
+        "Vous vivez dans un pays de l'Union européenne",
+        "Le site Your Europe présente les informations à connaître :",
+        "Obtenir un permis de conduire dans l'UE",
+        "Vous vivez dans un autre pays",
+        "Vous devez vous renseigner auprès du consulat.",
+        "Ambassade ou consulat français à l'étranger"
+      ]
+    },
+    {
+      "titre": "Perte d'emploi / Chômage",
+      "contenu": [
+        "Vous vivez dans un pays de l'Union européenne",
+        "Le site Your Europe présente les informations à connaître :",
+        "Perdre son emploi à l'étranger",
+        "Vous vivez dans un autre pays",
+        "Vous pouvez contacter le consulat qui pourra vous orienter vers les structures locales d'information.",
+        "Ambassade ou consulat français à l'étranger"
+      ]
+    },
+    {
+      "titre": "Protection juridique d'un majeur ou d'un mineur",
+      "contenu": [
+        "Vous vivez dans un pays de l'Union européenne",
+        "Le site Personnes vulnérables en Europe présente la réglementation sur les mesures de protection dans chacun des pays de l'UE :",
+        "Personnes vulnérables en Europe",
+        "Vous vivez dans un autre pays",
+        "Le consulat peut vous apporter de premières informations.",
+        "Ambassade ou consulat français à l'étranger"
+      ]
+    },
+    {
+      "titre": "Recherche d'emploi",
+      "contenu": [
+        "Des portails, des réseaux et des associations spécialisés sont mis en place pour vous communiquer les informations nécessaires.",
+        "Notamment :",
+        "• France Travail, qui dispose d'un portail spécialisé dans la mobilité internationale",
+        "• Réseau Eures ou Eurodisk (Europe), qui centralise les offres d'emploi dans l'Union européenne",
+        "• Association pour l'emploi des cadres (Apec), qui propose des offres d'emploi pour les cadres à l'étranger."
+      ]
+    },
+    {
+      "titre": "Registre des Français à l'étranger",
+      "contenu": [
+        "L'inscription consulaire s'adresse à tout Français qui va s'installer plus de 6 mois à l'étranger.",
+        "Elle a pour but de faciliter les démarches administratives suivantes :",
+        "• Obtention de documents d'identité (passeport, carte nationale d'identité)",
+        "• Inscription pour pouvoir voter aux élections françaises (présidentielle, référendum, européennes, législatives, consulaires)",
+        "• Obtention d'une bourse pour un enfant scolarisé dans un établissement français en Europe ou hors Europe",
+        "• Obtention d'une bourse universitaire auprès des Crous en France",
+        "• Recensement pour la journée défense et citoyenneté",
+        "• Réduction des tarifs des légalisations et copies conformes.",
+        "Cette inscription permet également aux services consulaires de vous contacter, vous et vos proches, en cas d'urgence.",
+        "Elle vous permet enfin d'obtenir des informations sur les élections, sur votre sécurité et des événements particuliers.",
+        "Nous vous présentons la démarche pour vous inscrire sur le registre."
+      ]
+    },
+    {
+      "titre": "Retraite",
+      "contenu": [
+        "Vous travaillez dans le pays où vous vivez",
+        "Vous voulez savoir comment vos années à l’étranger seront prises en compte pour votre retraite française",
+        "Le site Info Retraite présente des informations personnalisées sur la prise en compte de vos années à l’étranger dans votre retraite française :",
+        "Parcours Info Retraite - Expatriation",
+        "Vous allez prochainement faire valoir vos droits à votre départ à la retraite",
+        "Les caisses de retraite françaises ne sont compétentes que pour les droits acquis en France. Vous devez d'abord vous adresser à l’organisme de retraite de votre pays de résidence. Cet organisme contactera ensuite les caisses de retraite françaises.",
+        "[Attention] Un Français installé par exemple en Espagne et ayant travaillé à la fois en France et en Espagne peut demander à bénéficier de ses droits français à la retraite à compter d'un certain âge, mais pour faire valoir ses droits espagnols à la retraite, il devra attendre d'avoir atteint l'âge permis en Espagne pour partir à la retraite.",
+        "Vous êtes retraité",
+        "Le site Info Retraite présente les informations à connaître et les démarches à respecter :",
+        "Vivre sa retraite à l'étranger"
+      ]
+    },
+    {
+      "titre": "Risques sécuritaires (catastrophes naturelles, risques sanitaires, cyber…)",
+      "contenu": [
+        "Le site du ministère de l'Europe et des affaires étrangères présente les informations à connaître :",
+        "Risques à l'étranger"
+      ]
+    },
+    {
+      "titre": "Santé",
+      "contenu": [
+        "Vous êtes étudiant",
+        "Vous vivez dans un pays de l'Espace économique européen ou en Suisse",
+        "Le site ameli.fr présente ce qui se passe si vous avez besoin de soins médicaux ou s'il vous arrive un accident :",
+        "Études dans un pays de l'EEE ou en Suisse : protection sociale",
+        "Vous vivez dans un autre pays",
+        "Votre protection sociale varie en fonction de votre pays d’accueil. Le site ameli.fr vous présente les informations à connaître :",
+        "Études dans un pays hors EEE ou Suisse : protection sociale",
+        "Vous êtes en détachement",
+        "Vous vivez dans un pays de l'Espace économique européen ou en Suisse",
+        "Le site ameli.fr présente les informations concernant le remboursement des frais médicaux faits dans le pays de détachement ou en France, la protection pour la famille qui vous accompagne à l’étranger et sur les démarches en cas d'arrêt de travail ou d'accident du travail/trajet dans le pays de détachement :",
+        "Détachement dans un pays de l'EEE ou en Suisse : protection sociale",
+        "Vous vivez dans un autre pays",
+        "Le site amelI.fr présente les informations à connaître :",
+        "Détachement dans un pays hors EEE ou Suisse : protection sociale",
+        "Vous êtes salarié expatrié",
+        "Le site amelI.fr présente les informations sur votre protection sociale et sur celle des membres de votre famille :",
+        "Salarié expatrié : protection sociale",
+        "Vous êtes retraité",
+        "Vous vivez dans un pays de l'Espace économique européen ou en Suisse",
+        "Le site amelI.fr présente les informations à connaître :",
+        "Retraite dans un pays de l'EEE ou en Suisse : protection sociale",
+        "Vous vivez dans un autre pays",
+        "Le site amelI.fr présente les informations à connaître :",
+        "Retraite dans un pays hors EEE ou Suisse : protection sociale",
+        "Vous percevez une pension d’invalidité et résidez de façon permanente à l’étranger",
+        "Le site amelI.fr présente les informations à connaître :",
+        "Protection sociale du titulaire d'une pension d'invalidité vivant à l’étranger"
+      ]
+    },
+    {
+      "titre": "Scolarisation des enfants",
+      "contenu": [
+        "La situation est différente si vous vivez dans un pays de l'Espace économique européen (EEE) ou dans un autre pays.",
+        "[Complement] Un mineur doit obtenir une de ces attestations pour pouvoir s'inscrire à la formation pratique du BSR (catégorie AM du permis de conduire) et obtenir une 1re catégorie de permis de conduire en France. ASSR • Si l'enfant est scolarisé dans un établissement de l'AEFE ou est inscrit au Cned : l'épreuve est passée quand l’enfant est dans la classe où elle est prévue • Si l'enfant est scolarisé dans un autre établissement, l’enfant passe l’épreuve l’année où il revient en France (ou l’année suivante). ASR Il faut inscrire l’enfant au CFA ou au Greta l’année du retour en France. Formations et métiers : trouver un établissement (Lycée, CFA, DUT...)"
+      ]
+    },
+    {
+      "titre": "Succession",
+      "contenu": [
+        "Vous vivez dans un pays de l'Union européenne",
+        "Les règles en matière de succession varient d’un pays membre à l’autre (désignation des héritiers, détermination des parts et réserves héréditaires, administration de la succession, responsabilité des héritiers à l'égard des dettes du défunt, etc.).",
+        "Le site successions-europe.eu présente le droit des successions de chaque pays européen :",
+        "Connaître le droit des successions dans un pays de l'Union européenne",
+        "Le site e-justice.europa.eu permet de trouver un notaire dans chaque pays de l'UE :",
+        "Trouver un notaire dans l’Union européenne",
+        "Le site de l'Association du réseau européen des registres testamentaires présente comment inscrire et/ou rechercher un testament dans chaque pays de l’UE :",
+        "Inscrire ou rechercher un testament dans un pays de l’UE",
+        "Vous vivez dans un autre pays",
+        "Les règles en matière de succession varient selon les pays (désignation des héritiers, détermination des parts et réserves héréditaires, administration de la succession, responsabilité des héritiers à l'égard des dettes du défunt, etc.).",
+        "Contactez votre consulat afin d'être orienté vers des personnes pouvant vous apporter de premières informations.",
+        "Ambassade ou consulat français à l'étranger"
+      ]
+    },
+    {
+      "titre": "Union civile",
+      "contenu": [
+        "Dans certains pays, vous pouvez officialiser votre relation sans vous marier en établissant une union civile ou un partenariat enregistré.",
+        "L'union ou partenariat permet à 2 personnes qui vivent en couple d'enregistrer leur relation auprès des autorités compétentes de leur pays de résidence.",
+        "Il existe dans ce domaine des différences entre les pays, notamment en ce qui concerne les conditions pour contracter l'union civile, les droits que donne cette union et sa reconnaissance dans les autres pays.",
+        "Vous devez vous renseigner auprès de votre consulat.",
+        "Ambassade ou consulat français à l'étranger"
+      ]
+    },
+    {
+      "titre": "Véhicule : achat ou vente",
+      "contenu": [
+        "Votre consulat pourra vous apporter de premières informations sur vos obligations en matière de déclaration de l'achat ou de la vente, ainsi que sur les règles en matière d'immatriculation des véhicules dans le pays.",
+        "Ambassade ou consulat français à l'étranger"
+      ]
+    },
+    {
+      "titre": "Victime de violence : structures d'accueil à l'étranger",
+      "contenu": [
+        "Le ministère de l'Europe et des affaires étrangères met à disposition un annuaire des structures d’accueil des victimes de violence à l’étranger :",
+        "Trouver les structures d’accueil des victimes de violence à l’étranger"
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [
+    {
+      "titre": "Trouver un service économique à l'étranger",
+      "url": "https://www.tresor.economie.gouv.fr/tresor-international",
+      "type": "Outil de recherche"
+    },
+    {
+      "titre": "Trouver un professionnel du droit dans un pays de l'Union européenne",
+      "url": "https://e-justice.europa.eu/515/FR/find_a_legal_professional",
+      "type": "Outil de recherche"
+    },
+    {
+      "titre": "Mobilité internationale",
+      "url": "https://www.pole-emploi.fr/international/mobilite-internationale.html",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "Ambassade ou consulat français à l'étranger"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Expatriation : dossiers d'informations par pays",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays"
+    },
+    {
+      "titre": "Se pacser à l'étranger",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1618/personnalisation/resultat?lang=&quest0=2&quest="
+    },
+    {
+      "titre": "Guide des victimes françaises à l’étranger",
+      "url": "https://www.diplomatie.gouv.fr/IMG/pdf/guidevictimesfretranger_fusionne_05082020_cle44125a.pdf"
+    },
+    {
+      "titre": "Risques à l'étranger",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/informations-pratiques/risques/"
+    },
+    {
+      "titre": "Recouvrement de créances alimentaires à l’étranger",
+      "url": "https://www.diplomatie.gouv.fr/fr/services-aux-francais/conseils-aux-familles/recouvrement-de-creances-alimentaires-a-l-etranger/"
+    },
+    {
+      "titre": "Bourses scolaires des enfants français scolarisés à l'étranger",
+      "url": "https://aefe.gouv.fr/fr/scolarite/aide-la-scolarite-par-des-bourses-scolaires"
+    },
+    {
+      "titre": "AEFE : aide au financement d'un AESH",
+      "url": "https://aefe.gouv.fr/fr/aefe/observatoire-des-eleves-besoins-educatifs-particuliers-obep/faq-sur-laide-au-financement-des-aesh"
+    },
+    {
+      "titre": "Disparition inquiétante d’un proche à l’étranger",
+      "url": "https://www.diplomatie.gouv.fr/fr/services-aux-francaises-et-aux-francais/assistance-et-securite/disparitions-inquietantes"
+    },
+    {
+      "titre": "Code de la route et sécurité routière dans les pays de l'Union européenne",
+      "url": "https://europa.eu/youreurope/citizens/travel/driving-abroad/road-rules-and-safety/index_fr.htm"
+    },
+    {
+      "titre": "Incarcération à l'étranger",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/fiches-pratiques/assistance-aux-francais/incarceration"
+    },
+    {
+      "titre": "Acheter un bien immobilier en Europe",
+      "url": "https://www.notaires.fr/fr/immobilier-fiscalite/achat-et-vente-cas-particuliers/acheter-un-bien-immobilier-en-europe"
+    },
+    {
+      "titre": "Trouver les structures d’accueil des victimes de violence à l’étranger",
+      "url": "https://www.diplomatie.gouv.fr/fr/services-aux-francais/conseils-aux-familles/annuaire-international-des-structures-d-accueil-des-victimes-de-violence-a-l/"
+    },
+    {
+      "titre": "Divorce et séparation de corps dans un pays de l'Union européenne",
+      "url": "https://e-justice.europa.eu/45/FR/divorce_and_legal_separation"
+    },
+    {
+      "titre": "Connaître le droit des successions dans un pays de l'Union européenne",
+      "url": "http://successions-europe.eu/"
+    },
+    {
+      "titre": "Trouver un notaire dans l’Union européenne",
+      "url": "https://e-justice.europa.eu/335/FR/notaries?clang=fr"
+    },
+    {
+      "titre": "Inscrire ou rechercher un testament dans un pays de l’UE",
+      "url": "https://www.arert.eu/pour-les-citoyens-europeens/"
+    },
+    {
+      "titre": "Personnes vulnérables en Europe",
+      "url": "https://the-vulnerable.eu/?lang=fr"
+    },
+    {
+      "titre": "Perdre son emploi à l'étranger",
+      "url": "https://europa.eu/youreurope/citizens/work/unemployment-and-benefits/unemployment/index_fr.htm"
+    },
+    {
+      "titre": "Obtenir un permis de conduire dans l'UE",
+      "url": "https://europa.eu/youreurope/citizens/vehicles/driving-licence/get-driving-licence/index_fr.htm"
+    },
+    {
+      "titre": "Intenter une action en justice",
+      "url": "https://e-justice.europa.eu/511/FR/taking_legal_action"
+    },
+    {
+      "titre": "Vivre sa retraite à l'étranger",
+      "url": "https://www.info-retraite.fr/portail-info/sites/PortailInformationnel/home/ma-retraite-au-quotidien/vivre-sa-retraite-1/vivre-ma-retraite/retraite-a-letranger.html"
+    },
+    {
+      "titre": "Décès d'un Français à l'étranger : aide des services consulaires français",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/informations-pratiques/assistance-aux-francais/deces-a-l-etranger/#sommaire_2"
+    },
+    {
+      "titre": "Capital décès",
+      "url": "https://www.msa.fr/lfp/vous-avez-perdu-un-proche?p_p_id=com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_rh6MJe4Urluc&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_rh6MJe4Urluc_read_more=2"
+    },
+    {
+      "titre": "MDPH : missions et fonctionnement",
+      "url": "https://www.monparcourshandicap.gouv.fr/aides/la-maison-departementale-des-personnes-handicapees-mdph-missions-et-fonctionnement"
+    },
+    {
+      "titre": "Études dans un pays de l'EEE ou en Suisse : protection sociale",
+      "url": "https://www.ameli.fr/assure/droits-demarches/europe-international/protection-sociale-etranger/etudes-etranger#text_222"
+    },
+    {
+      "titre": "Études dans un pays hors EEE ou Suisse : protection sociale",
+      "url": "https://www.ameli.fr/assure/droits-demarches/europe-international/protection-sociale-etranger/etudes-etranger#text_461"
+    },
+    {
+      "titre": "Détachement dans un pays de l'EEE ou en Suisse : protection sociale",
+      "url": "https://www.ameli.fr/paris/assure/droits-demarches/europe-international/protection-sociale-etranger/travailleur-detachement-etranger#text_99688"
+    },
+    {
+      "titre": "Détachement dans un pays hors EEE ou Suisse : protection sociale",
+      "url": "https://www.ameli.fr/paris/assure/droits-demarches/europe-international/protection-sociale-etranger/travailleur-detachement-etranger#text_99709"
+    },
+    {
+      "titre": "Salarié expatrié : protection sociale",
+      "url": "https://www.ameli.fr/assure/droits-demarches/europe-international/protection-sociale-etranger/travailleur-expatriation-etranger"
+    },
+    {
+      "titre": "Retraite dans un pays de l'EEE ou en Suisse : protection sociale",
+      "url": "https://www.ameli.fr/assure/droits-demarches/europe-international/protection-sociale-etranger/retraite-etranger#text_224"
+    },
+    {
+      "titre": "Retraite dans un pays hors EEE ou Suisse : protection sociale",
+      "url": "https://www.ameli.fr/paris/assure/droits-demarches/europe-international/protection-sociale-etranger/retraite-etranger#text_448"
+    },
+    {
+      "titre": "Protection sociale du titulaire d'une pension d'invalidité vivant à l’étranger",
+      "url": "https://www.ameli.fr/assure/droits-demarches/europe-international/protection-sociale-etranger/titulaires-de-pension-d-invalidite-residant-l-etranger"
+    },
+    {
+      "titre": "Vous résidez hors de France et le débiteur d’aliments est domicilié en France ou à l'étranger",
+      "url": "https://www.diplomatie.gouv.fr/fr/services-aux-francais/conseils-aux-familles/recouvrement-de-creances-alimentaires-a-l-etranger/article/personne-creanciere#sommaire_3"
+    },
+    {
+      "titre": "Se marier à l’étranger",
+      "url": "https://www.diplomatie.gouv.fr/fr/services-aux-francais/etat-civil-et-nationalite-francaise/etat-civil/article/se-marier-a-l-etranger"
+    }
+  ],
+  "slug": "je-vis-a-l-etranger",
+  "path": [
+    {
+      "slug": "comment-faire-si",
+      "titre": "Comment faire si"
+    }
+  ]
+}

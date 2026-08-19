@@ -1,0 +1,70 @@
+{
+  "id": "F34479",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quelles associations peuvent aider un étranger maintenu en zone d'attente ?",
+  "theme": "Étranger - Europe",
+  "description": "Des associations peuvent aider les étrangers maintenus en zone d'attente, situées près des aéroports de Paris-Charles de Gaule ou de Lyon par exemple.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-08-30",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34479",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Entrée d'un étranger en France",
+    "Quelles associations peuvent aider un étranger maintenu en zone d'attente ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Des associations sont habilitées pour aider les étrangers maintenus en zone d'attente.",
+        "La zone d'attente est un espace bien délimité situé soit dans un aéroport (par exemple, Roissy, Orly), soit dans un port ou à proximité d'un lieu de débarquement (par exemple, Marseille, Calais), soit dans une gare ferroviaire ouverte au trafic international (par exemple, Paris-Gare du Nord, Lille-Europe).",
+        "Il s'agit des associations suivantes :",
+        "• Amnesty International France",
+        "• Association française de soutien à Human Rights Watch",
+        "• Association nationale d'assistance aux frontières pour les étrangers (Anafé)",
+        "• Cimade, service œcuménique d'entraide",
+        "• Croix-Rouge française",
+        "• France Terre d'asile",
+        "• Forum Réfugiés",
+        "• Groupe accueil et solidarité (GAS)",
+        "• Groupe d'information et de soutien des immigrés (Gisti)",
+        "• Ligue des droits de l'Homme (LDH)",
+        "• Mouvement contre le racisme et pour l'amitié entre les peuples (MRAP)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles R343-18 à R343-24",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042800676/"
+    },
+    {
+      "titre": "Arrêté du 12 juin 2024 fixant la liste des associations humanitaires habilitées à proposer des représentants en vue d'accéder en zone d'attente",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000049707855"
+    },
+    {
+      "titre": "Arrêté du 15 juillet 2025 fixant la liste des associations humanitaires habilitées à proposer des représentants en vue d'accéder en zone d'attente",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051941973"
+    },
+    {
+      "titre": "Arrêté du 28 février 1996 désignant les gares ferroviaires ouvertes au trafic international",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000558735/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "quelles-associations-peuvent-aider-un-etranger-maintenu-en-zone-d-attente",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "entree-d-un-etranger-en-france",
+      "titre": "Entrée d'un étranger en France"
+    }
+  ]
+}

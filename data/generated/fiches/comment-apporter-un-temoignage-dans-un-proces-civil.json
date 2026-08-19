@@ -1,0 +1,107 @@
+{
+  "id": "F1538",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Comment apporter un témoignage dans un procès civil ?",
+  "theme": "Justice",
+  "description": "Les témoignages, écrits ou oraux lors de l'audience, servent de preuves dans un procès civil.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-06-05",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1538",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Affaire civile",
+    "Comment apporter un témoignage dans un procès civil ?"
+  ],
+  "introduction": "Dans un procès civil, il peut être nécessaire de faire intervenir un ou plusieurs témoins pour prouver des faits. Le témoin peut être entendu oralement par le juge lors de l'audience civile. Il peut aussi présenter son témoignage par attestation écrite remise à l’une des parties au procès. Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code civil : articles 388 à 388-2",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136228/#LEGISCTA000031345343"
+    },
+    {
+      "titre": "Code de procédure civile : article 160",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034748107"
+    },
+    {
+      "titre": "Code de procédure civile : article 197",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038810371#:~:text=Le%20juge%20peut%20faire%20compara%C3%AEtre,ou%20ceux%20qui%20les%20assistent."
+    },
+    {
+      "titre": "Code de procédure civile : article 199",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006149656/"
+    },
+    {
+      "titre": "Code de procédure civile : articles 200 à 203",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070716/LEGISCTA000006165187/#LEGISCTA000006165187"
+    },
+    {
+      "titre": "Code de procédure civile : articles 204 à 221",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006181677/"
+    },
+    {
+      "titre": "Code de procédure civile : article 207",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034747733/"
+    },
+    {
+      "titre": "Code de procédure civile : article 228 à 230",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070716/LEGISCTA000006181678/"
+    },
+    {
+      "titre": "Code civil : article 1362",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042296"
+    },
+    {
+      "titre": "Code pénal : article 131-26",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417290"
+    },
+    {
+      "titre": "Code pénal : article 434-13",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418637"
+    },
+    {
+      "titre": "Code pénal : article 434-14",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418639/2026-05-27"
+    },
+    {
+      "titre": "Code pénal : article 434-17",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418651/"
+    },
+    {
+      "titre": "Code pénal : article 441-7",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037398925/"
+    },
+    {
+      "titre": "Code de procédure pénale : articles R123 à R128",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006193108/"
+    },
+    {
+      "titre": "Code de procédure pénale : article R 134",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039347859/2024-02-26"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Modèle d'attestation de témoin",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_11527.do",
+      "type": "formulaireNG"
+    }
+  ],
+  "contacts": [
+    "Permanence juridique",
+    "Maison de justice et du droit"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "comment-apporter-un-temoignage-dans-un-proces-civil",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "affaire-civile",
+      "titre": "Affaire civile"
+    }
+  ]
+}

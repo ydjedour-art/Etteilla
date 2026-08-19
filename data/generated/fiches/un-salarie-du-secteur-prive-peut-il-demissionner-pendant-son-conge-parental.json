@@ -1,0 +1,56 @@
+{
+  "id": "F540",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Un salarié du secteur privé peut-il démissionner pendant son congé parental ?",
+  "theme": "Travail - Formation",
+  "description": "Un salarié peut démissionner pendant son congé parental en respectant la procédure habituelle en matière de démission.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-06-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F540",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Rupture du contrat de travail dans le secteur privé",
+    "Un salarié du secteur privé peut-il démissionner pendant son congé parental ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Oui, le salarié peut démissionner pendant un congé parental en respectant la procédure habituelle en matière de démission.",
+        "Le contrat de travail est alors rompu à la fin du préavis.",
+        "Si la durée du préavis ne couvre pas l'intégralité du congé parental, le salarié doit retourner en entreprise pour effectuer ses derniers jours de préavis à la fin du congé.",
+        "[Exemple] Le salarié informe l'employeur de sa démission 1,5 mois avant la fin de son congé parental. La durée de son préavis est de 2 mois. Le salarié doit retourner en entreprise pour effectuer les 15 derniers jours du préavis à la fin de son congé parental.",
+        "Si le salarié démissionne parce qu'il a trouvé un nouvel emploi, il ne peut pas le commencer avant la fin du préavis en cours.",
+        "Toutefois, le salarié peut demander l'accord de son employeur pour réduire la durée du préavis ou l'annuler. L'employeur n'est pas obligé d'accepter la demande du salarié."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code du travail : article L1237-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901174"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Calculer la durée du préavis de démission selon la convention collective",
+      "url": "https://code.travail.gouv.fr/outils/preavis-demission?src_url=https://service-public.gouv.fr/particuliers/vosdroits/F2883",
+      "type": "simulateurNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "un-salarie-du-secteur-prive-peut-il-demissionner-pendant-son-conge-parental",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "rupture-du-contrat-de-travail-dans-le-secteur-prive",
+      "titre": "Rupture du contrat de travail dans le secteur privé"
+    }
+  ]
+}

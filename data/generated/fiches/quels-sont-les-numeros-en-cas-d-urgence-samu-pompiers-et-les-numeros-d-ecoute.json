@@ -1,0 +1,108 @@
+{
+  "id": "F33954",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quels sont les numéros en cas d'urgence (Samu, pompiers...) et les numéros d'écoute ?",
+  "theme": "Social - Santé",
+  "description": "En cas d'urgence, il est possible d'alerter par téléphone le Samu ou les pompiers par des numéros courts (15 ou 18) ou par SMS.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2024-11-15",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33954",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Hospitalisation et soins à domicile",
+    "Quels sont les numéros en cas d'urgence (Samu, pompiers...) et les numéros d'écoute ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Certains numéros sont liés à des situations d'urgence et d'autres sont destinés à l'écoute et au conseil.",
+        "La gratuité des ces appels est la règle.",
+        "Urgence : qui appeler ?",
+        "Service Public (DILA)",
+        "Urgence médicale : le 15 (Samu)",
+        "Signaler une infraction : le 17 (Police secours)",
+        "Situation de péril ou accident : le 18 (Pompiers)",
+        "Pour les personnes sourdes, sourdaveugles, malentendantes et aphasiques : le 114 (urgence 114) accessible par Application, internet ou SMS",
+        "Sauvetage en mer : 196 et canal 16 en mer.",
+        "Depuis le littoral : appelez le 196 ou le 112",
+        "En mer : privilégiez le canal 16 de la radio VHF",
+        "Urgence médicale - Infraction - Péril : le 112 Europe.",
+        "[À savoir] Le Service d'accès aux soins (SAS) est un nouveau service d’orientation dans le parcours de soins, accessible en appelant le 15. Si vous estimez nécessaire d’être en contact rapidement avec un soignant, composez le 15 pour une réponse adaptée à votre état de santé : avis médical, prescription, consultation, orientation vers d’autres professionnels. Ainsi, si votre votre médecin traitant n’est pas disponible, vous pouvez accéder à distance à un professionnel de santé. Réservé jusqu’alors aux urgences médicales, le 15 devient aussi le numéro du Service d'accès aux soins (SAS)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code pénal : article 322-14",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418305/"
+    },
+    {
+      "titre": "Code de la santé publique : article R6315-3",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032934534/"
+    },
+    {
+      "titre": "Décret n°2016-1012 du 22 juillet 2016 relatif à la mise en place d'un numéro d'appel national d'accès à la permanence des soins ambulatoires",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000032928958"
+    },
+    {
+      "titre": "Circulaire N°DGS/SP4/DGOS/2021/122 du 7 juillet 2021 relative à la mise en place du numéro national de prévention du suicide dans le cadre de la stratégie nationale de prévention du suicide",
+      "url": "https://www.legifrance.gouv.fr/download/pdf/circ?id=45209"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Connaître les coordonnées des centres antipoison",
+      "url": "https://centres-antipoison.net/",
+      "type": "Outil de recherche"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Connaître les numéros d'urgence",
+      "url": "https://www.info.gouv.fr/risques#numeros-durgence"
+    },
+    {
+      "titre": "Joindre les secours par SMS",
+      "url": "https://www.info.urgence114.fr/"
+    },
+    {
+      "titre": "Que faire et à qui s’adresser face à une crise suicidaire ?",
+      "url": "https://sante.gouv.fr/prevention-en-sante/sante-mentale/la-prevention-du-suicide/article/que-faire-et-a-qui-s-adresser-face-a-une-crise-suicidaire"
+    },
+    {
+      "titre": "Solidarité Femmes",
+      "url": "https://www.solidaritefemmes.org/"
+    },
+    {
+      "titre": "Rogervoice",
+      "url": "https://rogervoice.com/fr/"
+    },
+    {
+      "titre": "Conseiller technique départementale en spéléologie (CTDS)",
+      "url": "https://ssfalert.fr"
+    },
+    {
+      "titre": "Contacter une brigade de gendarmerie ou un commissariat de police",
+      "url": "https://www.interieur.gouv.fr/Contact/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police?adresse=26+Rue+Desaix+75015+Paris+15&country=FRA"
+    },
+    {
+      "titre": "Centres antipoison",
+      "url": "https://centres-antipoison.net/"
+    }
+  ],
+  "slug": "quels-sont-les-numeros-en-cas-d-urgence-samu-pompiers-et-les-numeros-d-ecoute",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "hospitalisation-et-soins-a-domicile",
+      "titre": "Hospitalisation et soins à domicile"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "F2726",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Déclaration de nationalité française par mariage",
+  "theme": "Étranger - Europe",
+  "description": "Une personne étrangère mariée avec un(e) Français(e) peut faire une déclaration de nationalité française, sous conditions.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-05-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2726",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Nationalité française",
+    "Déclaration de nationalité française par mariage"
+  ],
+  "introduction": "Vous êtes marié(e) avec un(e) français(e) et vous voulez avoir la nationalité française ? Vous pouvez faire une déclaration de nationalité française par mariage. Nous vous indiquons les étapes à suivre pour faire la demande.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code civil : articles 21-1 à 21-6",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165440"
+    },
+    {
+      "titre": "Code civil : articles 21-26 à 21-27-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165744"
+    },
+    {
+      "titre": "Code civil : articles 26 à 26-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006149961"
+    },
+    {
+      "titre": "Code général des impôts : articles 958 à 959",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000026284360"
+    },
+    {
+      "titre": "Décret n° 2025-648 du 15 juillet 2025 modifiant le décret n° 93-1362 du 30 décembre 1993 - déclarations de nationalité, décisions de naturalisation, de réintégration, de perte, de déchéance et de retrait de la nationalité française",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000051900519/2026-01-02"
+    },
+    {
+      "titre": "Décret n°93-1362 du 30 décembre 1993 relatif aux déclarations de nationalité, aux décisions de naturalisation, de réintégration, de perte, de déchéance et de retrait de la nationalité française",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000699753"
+    },
+    {
+      "titre": "Circulaire du 6 mai 2019 relative aux conséquences de propos ou d'actes à caractère raciste ou antisémite tenus ou commis par un étranger sur le droit au séjour et l'accès à la nationalité française",
+      "url": "http://circulaire.legifrance.gouv.fr/pdf/2019/05/cir_44645.pdf"
+    },
+    {
+      "titre": "Circulaire du ministère de l'immigration du 29 décembre 2009 relative à la procédure d'acquisition de la nationalité française en raison du mariage",
+      "url": "http://circulaire.legifrance.gouv.fr/pdf/2012/01/cir_34452.pdf"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Déclaration de nationalité française - Mariage avec un français",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_15277.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Quels sont les documents nécessaires à mon dossier de nationalité par mariage ?",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/AcquisitionNationaliteParMariage",
+      "type": "Simulateur"
+    }
+  ],
+  "contacts": [
+    "Plateformes de naturalisation"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "État civil et nationalité française",
+      "url": "http://www.diplomatie.gouv.fr/fr/services-aux-citoyens/etat-civil-et-nationalite-francaise/"
+    }
+  ],
+  "slug": "declaration-de-nationalite-francaise-par-mariage",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "nationalite-francaise",
+      "titre": "Nationalité française"
+    }
+  ]
+}

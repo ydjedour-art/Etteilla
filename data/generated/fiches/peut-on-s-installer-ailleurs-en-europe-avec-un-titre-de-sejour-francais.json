@@ -1,0 +1,76 @@
+{
+  "id": "F1453",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Peut-on s'installer ailleurs en Europe avec un titre de séjour français ?",
+  "theme": "Étranger - Europe",
+  "description": "Un étranger qui réside en France peut s'installer dans un autre pays de l'Union européenne sous conditions.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-04-28",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1453",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Titres, cartes de séjour et documents de circulation pour étranger en France",
+    "Peut-on s'installer ailleurs en Europe avec un titre de séjour français ?"
+  ],
+  "introduction": "Un titre de séjour français autorise un ressortissant originaire d'un pays hors Union européenne, hors Espace économique européen ou non suisse, à résider en France et à circuler dans les pays de l'espace Schengen. Pour vous installer dans un autre pays de l'Union européenne, vous devez vous renseigner sur les conditions de résidence du pays d'accueil. En fonction du titre de séjour détenu en France, les conditions d'installation peuvent varier. Nous vous exposons les démarches à entreprendre pour y parvenir.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Vous avez une carte de résident longue durée - UE",
+        "Votre statut de résident de longue durée vous autorise, sous certaines conditions, à résider dans les pays suivants : Allemagne, Autriche, Belgique, Bulgarie, Chypre, Croatie, Espagne, Estonie, Finlande, Grèce, Hongrie, Italie, Lituanie, Lettonie, Luxembourg, Malte, Pays-Bas, Pologne, Portugal, République tchèque, Roumanie, Slovaquie, Slovénie, Suède.",
+        "Mais si vous voulez y travailler, votre pays d'accueil peut soumettre l’exercice de votre activité professionnelle à autorisation selon la situation du marché du travail.",
+        "De plus, certains pays ont mis en place des quotas, qui limitent le nombre de titres de séjour délivrés aux étrangers.",
+        "Vous devez demander un permis de séjour dans votre nouveau pays européen d'installation, au plus tard 3 mois après votre entrée.",
+        "Vous pouvez aussi le demander, sous certaines conditions, avant votre départ de France. Renseignez-vous auprès des autorités compétentes de votre nouveau pays.",
+        "Votre pays d'accueil peut vous demander de prouver que vous êtes en possession des éléments suivants:",
+        "• Ressources stables, régulières et suffisantes pour vivre sans recourir à l'aide sociale",
+        "• Assurance maladie.",
+        "Votre pays d'accueil peut aussi exiger que vous remplissiez des conditions d'intégration. Vous pouvez être obligé de suivre des cours de langue.",
+        "Votre famille vivant avec vous en France peut vous accompagner ou vous rejoindre, sous conditions, dans votre nouveau pays européen d'accueil.",
+        "Si votre famille vit à l'étranger, vous devrez demander un regroupement familial depuis votre pays d'accueil.",
+        "Lorsque vous séjournez dans un autre pays européen, vous conservez votre statut de résident de longue durée en France jusqu'à ce vous ayez acquis ce statut dans votre pays d’installation.",
+        "Après 5 ans de séjour légal et ininterrompu dans celui-ci, et sous d'autres conditions notamment de ressources, vous pouvez en effet demander un permis de séjour résident de longue durée - UE. Vous perdrez alors votre statut en France. Votre carte de séjour française sera donc périmée et vous devrez la rendre.",
+        "Pour plus de précisions, renseignez-vous auprès du consulat ou de l'ambassade du pays concerné en France.",
+        "Ambassade ou consulat étranger en France",
+        "Vous avez un titre de séjour d'une autre nature",
+        "Vous ne pouvez pas vous installer dans un autre État membre avec votre carte de séjour.",
+        "Vous devez demander un visa de long séjour pour vous installer dans cet autre État membre.",
+        "Pour plus de précisions, renseignez-vous auprès du consulat ou de l'ambassade du pays concerné en France.",
+        "Ambassade ou consulat étranger en France"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Directive 2003/109/CE du 25 novembre 2003 relative au statut des ressortissants de pays tiers résidents de longue durée",
+      "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02003L0109-20110520"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : article L433-7",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042771992/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Ambassade ou consulat étranger en France"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Pays de l'Union européenne",
+      "url": "https://european-union.europa.eu/principles-countries-history/eu-countries_fr"
+    }
+  ],
+  "slug": "peut-on-s-installer-ailleurs-en-europe-avec-un-titre-de-sejour-francais",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "titres-cartes-de-sejour-et-documents-de-circulation-pour-etranger-en-france",
+      "titre": "Titres, cartes de séjour et documents de circulation pour étranger en France"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "id": "F1214",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Paiement du loyer par le locataire (bail d’habitation)",
+  "theme": "Logement",
+  "description": "Le loyer est à payer à la date indiquée sur le bail. En cas de difficultés à payer le loyer, il est recommandé d'en avertir le bailleur.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-02-24",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1214",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Bail d’habitation : obligations du locataire",
+    "Paiement du loyer par le locataire (bail d’habitation)"
+  ],
+  "introduction": "Lorsque le locataire utilise le logement comme résidence principale, il doit payer le loyer à la date indiquée sur le bail (logement loué vide ou meublé). En contrepartie, il peut obtenir une quittance de loyer. Le montant du loyer initial est indiqué dans le bail. Il peut être révisé chaque année, à condition que le bail le prévoit. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "L'application des règles diffère selon qu'il s'agit d'un logement du secteur privé ou d'un logement social :"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 7",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038834730/"
+    },
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 7-1",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000028777184/"
+    },
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 15",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000047900030"
+    },
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 21",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000028806698/"
+    },
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 4",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000028806566/"
+    },
+    {
+      "titre": "Loi n° 89-462 du 6 juillet 1989 sur les rapports locatifs : article 24",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038834673/"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : articles L442-1 à L442-12",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000006159074/"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : article L481-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037668295/"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : article L353-9-3",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038833892"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demander une quittance de loyer au propriétaire, à l’agence immobilière ou au bailleur social",
+      "url": "https://www.inc-conso.fr/content/vous-demandez-une-quittance-de-loyer-votre-proprietaire",
+      "type": "lettreTypeNG"
+    },
+    {
+      "titre": "Modèle de quittance de loyer",
+      "url": "https://www.anil.org/modele-lettre-courrier-type-location/",
+      "type": "lettreTypeNG"
+    },
+    {
+      "titre": "Lettre pour demander un délai pour payer un rappel de charges locatives important",
+      "url": "https://www.inc-conso.fr/content/vous-demandez-des-delais-pour-regler-un-rappel-de-charges-locatives-important",
+      "type": "lettreTypeNG"
+    }
+  ],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Communes en zone tendue pour un bail signé, reconduit ou renouvelé depuis le 27 août 2024 (en annexe, 1er tableau)",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000027399823/"
+    },
+    {
+      "titre": "Consignez votre loyer en cas de litige avec votre propriétaire",
+      "url": "https://consignations.caissedesdepots.fr/particulier/consignez-votre-loyer/consignez-votre-loyer-en-cas-de-litige-avec-votre-bailleur"
+    },
+    {
+      "titre": "Les aides en cas d’impayés de loyer",
+      "url": "https://www.ecologie.gouv.fr/sites/default/files/documents/21078_guide-ANIL-2-web.pdf"
+    }
+  ],
+  "slug": "paiement-du-loyer-par-le-locataire-bail-d-habitation",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "bail-d-habitation-obligations-du-locataire",
+      "titre": "Bail d’habitation : obligations du locataire"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "F3084",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Un enfant né apatride en France devient-il Français ?",
+  "theme": "Étranger - Europe",
+  "description": "La nationalité française est attribuée dès la naissance à un enfant né apatride en France.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-04-29",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F3084",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Nationalité française",
+    "Un enfant né apatride en France devient-il Français ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Oui, la nationalité française est attribuée dès la naissance à un enfant né apatride en France.",
+        "Dans quels cas un enfant naît-il apatride en France ?",
+        "Un enfant peut naître apatride en France s'il se trouve dans l'une des situations suivantes :",
+        "• Il est né en France de parents eux-mêmes apatrides",
+        "• Il est né en France de parents inconnus",
+        "• Il est né en France de parents dont la nationalité ne peut pas se transmettre dès sa naissance. Ainsi, dans certains pays, la nationalité ne se transmet pas aux enfants nés à l'étranger, aux enfants nés hors mariage ou aux enfants adoptés.",
+        "Comment prouver la nationalité française d'un enfant né apatride en France ?",
+        "Pour prouver la nationalité française de l'enfant né apatride en France, il faut demander un certificat de nationalité française. Il faut faire la demande avant la majorité de l'enfant (18 ans).",
+        "[Rappel] La nationalité française d'un enfant, qu'il soit né en France ou non, dépend principalement de la nationalité de ses parents."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : articles 17 à 17-12",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006136064/"
+    },
+    {
+      "titre": "Code civil : articles 19 à 19-4",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006149908"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Maison de justice et du droit"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "un-enfant-ne-apatride-en-france-devient-il-francais",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "nationalite-francaise",
+      "titre": "Nationalité française"
+    }
+  ]
+}

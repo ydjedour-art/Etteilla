@@ -1,0 +1,74 @@
+{
+  "id": "F628",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Ceinture de sécurité et siège auto : règles pour circuler en voiture",
+  "theme": "Transports - Mobilité",
+  "description": "La ceinture de sécurité est obligatoire à l'avant et à l'arrière du véhicule. Un enfant de moins de 10 ans doit être installé dans un siège auto.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-10-03",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F628",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Infractions routières",
+    "Ceinture de sécurité et siège auto : règles pour circuler en voiture"
+  ],
+  "introduction": "Les sièges arrière de votre voiture sont momentanément inutilisables et vous vous demandez si vous pouvez installer à l’avant votre enfant de moins de 10 ans ? Nous vous indiquons les règles à connaître sur le port de la ceinture de sécurité et le système homologué de retenue pour enfant (siège auto).",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les règles sont différentes pour un enfant et pour un adulte."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Directive du Conseil du 16 décembre 1991 relative à l'utilisation obligatoire de ceintures de sécurité et de dispositifs de retenue pour enfants dans les véhicules",
+      "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A01991L0671-20140320"
+    },
+    {
+      "titre": "Code de la route : articles R412-1 à R412-5",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006177120"
+    },
+    {
+      "titre": "Arrêté du 26 janvier 1995 relatif à l'utilisation des systèmes de retenue pour enfants transportés à bord des véhicules à moteur",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000715136/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Consulter et télécharger les informations du permis de conduire : solde de points, relevé intégral, attestation de droit à conduire sécurisée...",
+      "url": "https://mespoints.permisdeconduire.gouv.fr",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "Sécurité routière"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Port de la ceinture de sécurité en voiture",
+      "url": "https://www.securite-routiere.gouv.fr/chacun-son-mode-de-deplacement/dangers-de-la-route-en-voiture/equipement-de-la-voiture/port-de-la"
+    },
+    {
+      "titre": "Quel siège auto choisir pour bien attacher mon enfant ?",
+      "url": "https://www.securite-routiere.gouv.fr/reglementation-liee-lusager/reglementation-liee-aux-enfants/transporter-un-enfant-en-voiture"
+    },
+    {
+      "titre": "Le siège auto. Rouler en toute sécurité avec un enfant à bord",
+      "url": "https://www.securite-routiere.gouv.fr/sites/default/files/2023-05/depliant_siegeauto_2023-bd.pdf"
+    }
+  ],
+  "slug": "ceinture-de-securite-et-siege-auto-regles-pour-circuler-en-voiture",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "infractions-routieres",
+      "titre": "Infractions routières"
+    }
+  ]
+}

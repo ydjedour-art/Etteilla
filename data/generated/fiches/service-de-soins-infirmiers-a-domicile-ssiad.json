@@ -1,0 +1,100 @@
+{
+  "id": "F246",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Service de soins infirmiers à domicile (SSIAD)",
+  "theme": "Social - Santé",
+  "description": "Un SSIAD permet, si vous êtes notamment une personne âgée malade ou dépendante, de recevoir chez vous des soins infirmiers et d'hygiène.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2023-06-30",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F246",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Hospitalisation et soins à domicile",
+    "Service de soins infirmiers à domicile (SSIAD)"
+  ],
+  "introduction": "Un SSIAD permet, si vous êtes notamment une personne âgée malade ou dépendante, de recevoir chez vous des soins infirmiers et d'hygiène.",
+  "chapitres": [
+    {
+      "titre": "Qui peut bénéficier d'un SSIAD ?",
+      "contenu": [
+        "Vous pouvez bénéficier d'un service de soins infirmiers à domicile (SSIAD) si vous êtes dans l'une des situations suivantes :",
+        "• Vous êtes âgé d'au moins 60 ans et êtes malade ou dépendant (exemple : besoin d'aide pour l'accomplissement des actes essentiels de la vie)",
+        "• Vous avez moins de 60 ans et présentez un handicap",
+        "• Vous avez moins de 60 ans et êtes atteint de pathologies chroniques ou présentez certains types d'affection",
+        "Pour ces mêmes situations, le SSIAD peut aussi intervenir pour faciliter le retour à domicile après une hospitalisation.",
+        "Leurs interventions ont plusieurs objectifs :",
+        "• Prévenir la perte d'autonomie",
+        "• Éviter une hospitalisation",
+        "• Faciliter le retour à domicile après une hospitalisation",
+        "• Retarder une entrée dans un établissement d'hébergement",
+        "[À savoir] les SSIAD dispensent aussi des prestations notamment dans les établissements non médicalisés pour personnes âgées et pour personnes adultes handicapées. Ils peuvent également intervenir conjointement avec un établissement d'hospitalisation à domicile dans le cadre d'une convention de partenariat."
+      ]
+    },
+    {
+      "titre": "Comment faire la demande pour bénéficier d'un SSIAD ?",
+      "contenu": [
+        "Votre médecin traitant s'occupe de la prescription des soins et généralement de la demande de prise en charge par la Sécurité sociale.",
+        "Une fois que cette demande a été adressée, il y a un délai de 10 jours. En l'absence de réponse, elle est considérée comme acceptée.",
+        "En cas d'urgence, les soins peuvent débuter avant ce délai.",
+        "Avec cette prescription, vous pouvez contacter vous-même un service de soins à domicile proche de chez vous pour demander la prise en soins.",
+        "Annuaire des services d'aide et de soins à domicile",
+        "Une fois votre demande acceptée par le service, un infirmer se rendra à votre domicile pour décider avec vous du calendrier des interventions.",
+        "[À noter] les SSIAD sont autorisés à intervenir chez un nombre de personnes limité. Il est donc possible que vous soyez mis sur liste d'attente jusqu'à ce qu'une place se libère."
+      ]
+    },
+    {
+      "titre": "Quels soins sont proposés avec un SSIAD ?",
+      "contenu": [
+        "Les soins proposés peuvent être :",
+        "• des actes infirmiers (pansement, injections, distribution de médicaments...) et de surveillance médicale,",
+        "• des soins d'assistance pour la toilette et l'hygiène.",
+        "Ces soins peuvent être de courte, de moyenne ou de longue durée selon votre état de santé et vos besoins.",
+        "En complément, le SSIAD peut si besoin coordonner l'intervention d'autres professionnels de santé : kinésithérapeutes, pédicures, médecins...",
+        "Le service est assuré de façon continue, y compris le dimanche et les jours fériés en cas de nécessité.",
+        "[À savoir] les SPASAD (services polyvalents d'aide et de soins à domicile) sont des services assurant à la fois les missions d'un SSIAD et celles d'un service d'aide à domicile. Ils peuvent également intervenir conjointement avec un établissement d'hospitalisation à domicile dans le cadre d'une convention de partenariat."
+      ]
+    },
+    {
+      "titre": "Quelle prise en charge d'un SSIAD par la Sécurité sociale ?",
+      "contenu": [
+        "Les soins sont pris directement en charge à 100 %. Vous n'avez donc pas de frais à avancer.",
+        "Toutefois, certains soins, comme ceux de kinésithérapie, souvent payés à l'acte, ne sont pas compris dans le forfait du service de soins infirmiers à domicile.",
+        "Les honoraires des médecins (et des autres intervenants extérieurs) sont remboursés dans les conditions habituelles. Il en est de même pour les médicaments."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'action sociale et des familles : articles D312-1 à D312-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074069/LEGISCTA000006198642/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Être soigné à domicile",
+      "url": "https://www.pour-les-personnes-agees.gouv.fr/vivre-a-domicile/beneficier-de-soins-a-domicile"
+    },
+    {
+      "titre": "Annuaire santé - Site Ameli",
+      "url": "https://annuairesante.ameli.fr/"
+    },
+    {
+      "titre": "Les SPASAD (services polyvalents d'aide et de soins à domicile)",
+      "url": "https://www.pour-les-personnes-agees.gouv.fr/vivre-a-domicile/beneficier-de-soins-a-domicile/les-spasad-services-polyvalents-daide-et-de-soins-domicile"
+    }
+  ],
+  "slug": "service-de-soins-infirmiers-a-domicile-ssiad",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "hospitalisation-et-soins-a-domicile",
+      "titre": "Hospitalisation et soins à domicile"
+    }
+  ]
+}

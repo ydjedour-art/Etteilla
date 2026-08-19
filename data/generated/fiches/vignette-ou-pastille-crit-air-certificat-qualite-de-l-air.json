@@ -1,0 +1,450 @@
+{
+  "id": "F33371",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Vignette ou pastille Crit'Air (certificat qualité de l'air)",
+  "theme": "Transports - Mobilité",
+  "description": "Tous les véhicules sont concernés par la vignette Crit'Air (certificat qualité de l'air). La vignette Crit'Air indique le niveau de pollution du véhicule.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-01-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33371",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Mesures antipollution",
+    "Vignette ou pastille Crit'Air (certificat qualité de l'air)"
+  ],
+  "introduction": "Vous venez d'acquérir un véhicule et vous vous demandez quel est son classement pour pouvoir commander une vignette Crit'Air ? Nous vous indiquons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Qu'est-ce que la vignette Crit'Air ?",
+      "contenu": [
+        "La vignette Crit'Air (certificat qualité de l'air) permet de classer les véhicules en fonction de leur niveau d'émission de polluants atmosphériques.",
+        "Il y a 6 vignettes : plus le numéro de la vignette est élevé, plus le niveau des émissions de polluants est élevé."
+      ]
+    },
+    {
+      "titre": "Quels sont les véhicules concernés par la vignette Crit'Air ?",
+      "contenu": [
+        "La vignette Crit'Air concerne les véhicules à moteur des catégories M, N et L : voiture, utilitaire, moto, scooter, poids-lourd…"
+      ]
+    },
+    {
+      "titre": "La vignette Crit'Air est-elle obligatoire en cas de pic de pollution ?",
+      "contenu": [
+        "La vignette est obligatoire pour circuler lorsque le préfet instaure la circulation différenciée (alternée) lors d'un épisode de pollution.",
+        "[À savoir] Les panneaux de signalisation routière indiquent les éventuelles réductions des vitesses maximales autorisées ou les déviations de circulation.",
+        "[Complement] Consultez le service Vigilance atmosphérique pour connaître les mesures prises en cas d'épisode de pollution. Consulter la carte des épisodes de pollution et des procédures préfectorales Consultez également le site de votre préfecture. Des mesures concernant la gratuité des transports en commun peuvent être prévues. Préfecture [À savoir] Vous êtes informé de la mise en œuvre de la circulation différenciée par les média, la veille avant 19h (journaux, télévision, radio). Le périmètre de circulation différenciée et les véhicules concernés sont précisés.",
+        "[Complement] Dans votre région, consultez le site de l'association agréée de surveillance de la qualité de l'air (AASQAI) : Consulter la carte de la qualité de l'air près de chez soi À l'échelle nationale, consultez le site de Prev'air : Consulter la carte de la prévision de la qualité de l'air en France"
+      ]
+    },
+    {
+      "titre": "La vignette Crit'Air est-elle obligatoire dans une zone à faibles émissions ?",
+      "contenu": [
+        "La vignette est obligatoire pour circuler dans une zone à faibles émissions mobilité (ZFE-m).",
+        "Toutefois, l'accès à une ZFE-m ne peut pas être interdit aux véhicules affichant une carte mobilité inclusion avec la mention stationnement pour les personnes handicapées.",
+        "Les sites Itinériz et Bison Futé permettent de connaître les ZFE-m et leurs restrictions de circulation :",
+        "Itinériz : liste des ZFE et simulation de trajets",
+        "Bison futé : consulter la carte des zones à faibles émissions (ZFE-m)",
+        "[Exemple] Dans la ZFE-m de la Métropole du Grand Paris, les véhicules légers (PTAC ⩽ 3,5 tonnes) non classés ou portant la vignette Crit'Air 5, Crit'Air 4 ou Crit'Air 3 ne peuvent pas circuler du lundi au vendredi, de 8h à 20h, hors jours fériés. Cette restriction de circulation s'applique aux poids-lourds 7 jours sur 7, de 8h à 20h. Toutefois, des exceptions peuvent s'appliquer.",
+        "[Complement] Si vous avez une voiture de collection, renseignez-vous auprès de votre mairie pour savoir quelles règles s'appliquent. Mairie"
+      ]
+    },
+    {
+      "titre": "Dans quelle catégorie Crit'Air se classe votre véhicule ?",
+      "contenu": [
+        "La vignette Crit'Air dépend des critères suivants :",
+        "• Type de véhicule : voiture, utilitaire léger, moto, scooter, poids-lourd…",
+        "• Type d'énergie ou de carburant : électrique, diesel, essence…",
+        "• Norme Euro du véhicule ou date de 1re immatriculation.",
+        "Utilisez le simulateur pour savoir quelle vignette Crit'Air acheter pour votre véhicule :",
+        "Connaître le classement d’un véhicule (vignette Crit'Air)",
+        "Voiture",
+        "Le classement du véhicule dépend du type d'énergie ou de carburant :",
+        "Voiture électrique hybride, gaz et hydrogène",
+        "Classe d'une voiture électrique hybride, gaz et hydrogène",
+        "Classe",
+        "Couleur de la vignette",
+        "Type de véhicule",
+        "Électrique",
+        "Verte",
+        "Électrique et hydrogène quelle que soit la date",
+        "1",
+        "Violette",
+        "• Gaz quelle que soit la date",
+        "• Hybride rechargeable quelle que soit la date",
+        "Voiture essence ou diesel",
+        "Classe d'une voiture essence ou diesel",
+        "Classe",
+        "Couleur de la pastille",
+        "Date de 1re immatriculation ou norme Euro",
+        "Voiture",
+        "Diesel",
+        "Essence",
+        "1",
+        "Violette",
+        "_",
+        "À partir de 2011",
+        "EURO 5 et 6",
+        "2",
+        "Jaune",
+        "À partir de 2011",
+        "EURO 5 et 6",
+        "De janvier 2006 à décembre 2010",
+        "EURO 4",
+        "3",
+        "Orange",
+        "EURO 4",
+        "Entre 2006 et 2010",
+        "De janvier 1997 à décembre 2005",
+        "EURO 2 et 3",
+        "4",
+        "Bordeaux",
+        "Entre 2001 et 2005",
+        "EURO 3",
+        "-",
+        "5",
+        "Grise",
+        "Entre 1997 et 2000",
+        "EURO 2",
+        "-",
+        "Non classés",
+        "Pas de pastille",
+        "Avant 1997",
+        "EURO 1 et avant",
+        "Avant 1997",
+        "EURO 1 et avant",
+        "Utilitaire léger",
+        "Le classement du véhicule dépend du type d'énergie ou de carburant :",
+        "Utilitaire léger électrique hybride, gaz et hydrogène",
+        "Classe d'un utilitaire léger électrique hybride, gaz et hydrogène",
+        "Classe",
+        "Couleur de la vignette",
+        "Type de véhicule",
+        "Électrique",
+        "Verte",
+        "Électrique et hydrogène quelle que soit la date",
+        "1",
+        "Violette",
+        "• Gaz quelle que soit la date",
+        "• Hybride rechargeable quelle que soit la date",
+        "Utilitaire léger essence ou diesel",
+        "Classe d'un utilitaire léger essence ou diesel",
+        "Classe",
+        "Couleur de la pastille",
+        "Date de 1re immatriculation ou norme Euro",
+        "Véhicule utilitaire léger",
+        "Diesel",
+        "Essence",
+        "1",
+        "Violette",
+        "_",
+        "À partir de 2011",
+        "EURO 5 et 6",
+        "2",
+        "Jaune",
+        "À partir de 2011",
+        "EURO 5 et 6A",
+        "De janvier 2006 à décembre 2010",
+        "EURO 4",
+        "3",
+        "Orange",
+        "De janvier 2006 à décembre 2010",
+        "EURO 4",
+        "D'octobre 1997 à décembre 2005",
+        "EURO 2 et 3",
+        "4",
+        "Bordeaux",
+        "Entre 2001 et 2005",
+        "EURO 3",
+        "-",
+        "5",
+        "Grise",
+        "Entre 1997 et 2000",
+        "EURO 2",
+        "-",
+        "Non classés",
+        "Pas de pastille",
+        "Avant octobre 1997",
+        "EURO 1 et avant",
+        "Avant octobre 1997",
+        "EURO 1 et avant",
+        "2 roues, tricycle, quadricycle à moteur",
+        "Le classement du véhicule dépend du type d'énergie ou de carburant :",
+        "2 roues, tricycle, quadricycle électrique hybride, gaz ou hydrogène",
+        "Classe d'un 2 roues, tricycle, quadricycle électrique hybride, gaz ou hydrogène",
+        "Classe",
+        "Couleur de la vignette",
+        "Type de véhicule",
+        "Électrique",
+        "Verte",
+        "Électrique et hydrogène quelle que soit la date",
+        "1",
+        "Violette",
+        "- Gaz quelle que soit la date",
+        "- Hybride rechargeable quelle que soit la date",
+        "2 roues, tricycle, quadricycle essence ou diesel",
+        "Classe d'un 2 roues, tricycle, quadricycle essence ou diesel",
+        "Classe",
+        "Couleur de la pastille",
+        "Date de 1re immatriculation ou norme Euro",
+        "2 roues, tricycle, quadricycle à moteur",
+        "1",
+        "Violette",
+        "À partir de 2017 pour les motos",
+        "À partir de 2018 pour les cyclomoteurs",
+        "EURO 4 et 5A",
+        "2",
+        "Jaune",
+        "De janvier 2007 à décembre 2016 pour les motos",
+        "De janvier 2007 à décembre 2017 pour les cyclomoteurs",
+        "EURO 3",
+        "3",
+        "Orange",
+        "De juillet 2004 à décembre 2006",
+        "EURO 2",
+        "4",
+        "Bordeaux",
+        "De juin 2000",
+        "au 30 juin 2004",
+        "Pas de norme tout type",
+        "5",
+        "Grise",
+        "-",
+        "Non classés",
+        "Pas de pastille",
+        "Jusqu'au 31 mai 2000",
+        "Pas de norme tout type"
+      ]
+    },
+    {
+      "titre": "Quel est le prix de la vignette Crit'Air ?",
+      "contenu": [
+        "Le prix de la vignette Crit'Air est de 3,85 €, frais d'affanchissement inclus, pour un envoi en France."
+      ]
+    },
+    {
+      "titre": "Combien de vignettes Crit'Air par véhicule ?",
+      "contenu": [
+        "Il y a une seule vignette Crit'Air par véhicule."
+      ]
+    },
+    {
+      "titre": "Comment faire la demande de vignette Crit'Air ?",
+      "contenu": [
+        "La démarche varie selon que le véhicule est immatriculé en France ou à l’étranger :",
+        "Véhicule immatriculé en France",
+        "Vous pouvez faire la démarche en ligne ou par courrier :",
+        "En ligne",
+        "Demander en ligne une vignette Crit'Air (certificat qualité de l'air) pour un véhicule immatriculé en France",
+        "Avoir une adresse mail",
+        "Un service en ligne permet connaitre l'état d'avancement de la demande :",
+        "Suivre une demande de Vignette Crit'Air (certificat qualité de l’air)",
+        "Par courrier",
+        "La demande peut se faire par courrier via un formulaire :",
+        "Demande de certificat qualité de l'air pour un véhicule immatriculé en France",
+        "Véhicule immatriculé à l'étranger",
+        "La demande se fait uniquement en ligne pour un véhicule immatriculé à l'étranger :",
+        "Demander en ligne une vignette Crit'Air (certificat qualité de l'air) pour un véhicule immatriculé à l'étranger",
+        "Avoir une adresse mail",
+        "Un service en ligne permet connaitre l'état d'avancement de la demande :",
+        "Suivre une demande de Vignette Crit'Air (certificat qualité de l’air)",
+        "[Attention] Le site certificat-air.gouv.fr est le seul site officiel de délivrance des vignettes Crit’Air."
+      ]
+    },
+    {
+      "titre": "Où coller la vignette Crit'Air ?",
+      "contenu": [
+        "Vous devez coller la vignette à l'avant du véhicule de manière qu'elle soit visible depuis l'extérieur.",
+        "• Pour un 2 ou 3 roues : sur la fourche",
+        "• Pour une voiture, utilitaire, poids-lourd.... : à l'intérieur du véhicule, recto visible de l'extérieur, sur la partie inférieure droite du pare-brise.",
+        "[Complement] Comment apposer la vignette Crit'Air (certificat qualité de l'air) ? Mode d'emploi pour un véhcule avec pare-brise Nettoyer l'intérieur du pare-brise en bas à droite. La surface doit être propre et sèche avant application. Décoller l'ensemble par l'arrière du document et le coller sur la zone nettoyée. La vignette Crit'Air doit être visible de l'extérieur. Une fois collée, ne pas tenter de repositionner l'ensemble sous peine de voir la vignette se déchirer. Mode d'emploi pour un véhcule sans pare-brise Enlever le patch qui est sur le recto du courrier Décoller le certificat délicatement. Attention la surface est collante. Retourner le certificat et le repositionner au même endroit. Décoller l'ensemble par l'arrière du document. La vignette Crit'Air doit être apposée, recto visible à l'extérieur, sur une surface située à l'avant du véhicule de manière très visible : fourche, garde-boue, carénage avant droit."
+      ]
+    },
+    {
+      "titre": "La vignette Crit'Air doit-elle être renouvelée ?",
+      "contenu": [
+        "La vignette Crit’Air est délivrée sans limitation de durée et n’a pas besoin d’être renouvelée.",
+        "Ainsi, un véhicule conserve la même vignette Crit'Air tout au long de sa vie. Un fois achetée, la vignette reste valable aussi longtemps qu'elle reste lisible.",
+        "[À savoir] La vignette Crit’Air est conçue de manière sécurisée et ne peut pas être transférée d’un pare-brise à un autre."
+      ]
+    },
+    {
+      "titre": "Vignette Crit'Air : quelle amende en cas d'infraction ?",
+      "contenu": [
+        "Se déplacer dans une zone à faibles émissions mobilité (ZFE-m) avec un véhicule non autorisé ou sans vignette Crit'Air est sanctionné par une amende pouvant aller jusqu'à 450 €. En général, il s'agit d'une amende forfaitaire de 68 €.",
+        "La même amende est prévue si vous ne respectez pas les restrictions de circulation en cas de circulation alternée lors d'un épisode de pollution.",
+        "Les véhicules suivants sont concernés :",
+        "• Voiture particulière",
+        "• 2 ou 3 roues, quadricycles à moteur",
+        "• Utilitaire léger.",
+        "Cette infraction peut entraîner l'immobilisation du véhicule et sa mise en fourrière."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la route : articles R318-1 à R318-10",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074228/LEGISCTA000006159584/"
+    },
+    {
+      "titre": "Code de la route : articles R411-17 à R411-24",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074228/LEGISCTA000006177117"
+    },
+    {
+      "titre": "Code général des collectivités territoriales : articles L2213-1 à L2213-6-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070633/LEGISCTA000006180977"
+    },
+    {
+      "titre": "Code général des collectivités territoriales : articles R2213-1-0-1 à D2213-1-0-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070633/LEGISCTA000032791903"
+    },
+    {
+      "titre": "Code de l'environnement : articles L223-1 à L223-2",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074220/LEGISCTA000006159230/#LEGISCTA000006159230"
+    },
+    {
+      "titre": "Code de l'environnement : articles R221-1 à D221-3",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074220/LEGISCTA000006177052/#LEGISCTA000022964541"
+    },
+    {
+      "titre": "Code de l'environnement : articles R221-4 à R221-8",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074220/LEGISCTA000006177053"
+    },
+    {
+      "titre": "Code de l'environnement : articles R223-1 à R223-5",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006159472/"
+    },
+    {
+      "titre": "Code de l'environnement : articles R224-15 à D224-15-13",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074220/LEGISCTA000033858151"
+    },
+    {
+      "titre": "Arrêté du 22 décembre 2021 établissant les listes d'agglomérations pour lesquelles des mesures en faveur de la qualité de l'air sont mises en œuvre",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000044590127"
+    },
+    {
+      "titre": "Arrêté du 27 juillet 2021 relatif à l'expérimentation d'une signalisation d'une zone à faibles émissions mobilité (ZFE-m) dans la communauté urbaine du Grand Reims",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000043884790"
+    },
+    {
+      "titre": "Arrêté du 29 juin 2016 relatif aux modalités de délivrance et d'apposition des certificats qualité de l'air",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000032795657/"
+    },
+    {
+      "titre": "Arrêté du 21 juin 2016 établissant la nomenclature des véhicules classés en fonction de leur niveau d'émission de polluants atmosphériques",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000032749723/"
+    },
+    {
+      "titre": "Arrêté du 7 avril 2016 relatif au déclenchement des procédures préfectorales en cas d'épisodes de pollution de l'air ambiant",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000032376671/"
+    },
+    {
+      "titre": "Réponse ministérielle du 13 juillet 2021 relative aux dérogations pour les véhicules de collection sur le territoire d'une ZFE-m",
+      "url": "https://questions.assemblee-nationale.fr/q15/15-36075QE.htm"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Connaître le classement d’un véhicule (vignette Crit'Air)",
+      "url": "https://www.certificat-air.gouv.fr/simulation",
+      "type": "simulateurNG"
+    },
+    {
+      "titre": "Demander en ligne une vignette Crit'Air (certificat qualité de l'air) pour un véhicule immatriculé en France",
+      "url": "https://www.certificat-air.gouv.fr/demande/cgu",
+      "type": "selNG"
+    },
+    {
+      "titre": "Demander en ligne une vignette Crit'Air (certificat qualité de l'air) pour un véhicule immatriculé à l'étranger",
+      "url": "https://www.certificat-air.gouv.fr/fr/demande-ext/cgu",
+      "type": "selNG"
+    },
+    {
+      "titre": "Demande de certificat qualité de l'air pour un véhicule immatriculé en France",
+      "url": "https://www.certificat-air.gouv.fr/files/CQA_Formulaire_demande_courrier.pdf",
+      "type": "formulaireNG"
+    },
+    {
+      "titre": "Suivre une demande de Vignette Crit'Air (certificat qualité de l’air)",
+      "url": "https://www.certificat-air.gouv.fr/suivi-commande",
+      "type": "selNG"
+    },
+    {
+      "titre": "Itinériz : liste des ZFE et simulation de trajets",
+      "url": "https://itineriz.zfe.green/",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Bison futé : consulter la carte des zones à faibles émissions (ZFE-m)",
+      "url": "https://www.bison-fute.gouv.fr/webapp/tabs",
+      "type": "outilRechercheNG"
+    },
+    {
+      "titre": "Consulter la carte de la qualité de l'air près de chez soi",
+      "url": "https://www.atmo-france.org/",
+      "type": "outilRechercheNG"
+    },
+    {
+      "titre": "Consulter la carte de la prévision de la qualité de l'air en France",
+      "url": "http://www2.prevair.org/",
+      "type": "outilRechercheNG"
+    },
+    {
+      "titre": "Consulter la carte des épisodes de pollution et des procédures préfectorales",
+      "url": "https://www.lcsqa.org/fr/vigilance-atmospherique/procedures/carte/metropole",
+      "type": "outilRechercheNG"
+    }
+  ],
+  "contacts": [
+    "Service de délivrance du certificat qualité de l'air (vignette Crit'Air)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Le site de la délivrance de la vignette Crit'air",
+      "url": "https://www.certificat-air.gouv.fr/"
+    },
+    {
+      "titre": "Comment apposer son certificat (véhicule avec ou sans pare-brise) ?",
+      "url": "https://www.certificat-air.gouv.fr/aide-certificat"
+    },
+    {
+      "titre": "Portail national ZFE - Mieux respirer en ville",
+      "url": "https://mieuxrespirerenville.gouv.fr/"
+    },
+    {
+      "titre": "PREV'AIR : L'air en France aujourd'hui et demain",
+      "url": "http://www2.prevair.org/"
+    },
+    {
+      "titre": "Airparif - la pollution de l'air en Île-de-France",
+      "url": "http://www.airparif.asso.fr/"
+    },
+    {
+      "titre": "Liste des zones à faibles émissions (ZFE)",
+      "url": "https://mieuxrespirerenville.gouv.fr/fiches-thematique/se-deplacer/zfe-francaises"
+    },
+    {
+      "titre": "Circulation dans une ZFE : dérogations locales pour certains véhicules",
+      "url": "https://mieuxrespirerenville.gouv.fr/fiches-thematique/derogations/derogations-locales?profil=Particuliers"
+    },
+    {
+      "titre": "Zone à faibles émissions de la Métropole du Grand Paris",
+      "url": "https://www.paris.fr/pages/la-zone-a-faibles-emissions-zfe-pour-lutter-contre-la-pollution-de-l-air-16799#de-la-zfe-parisienne-a-la-zfe-metropolitaine"
+    },
+    {
+      "titre": "Je change ma voiture",
+      "url": "https://jechangemavoiture.gouv.fr/jcmv/"
+    }
+  ],
+  "slug": "vignette-ou-pastille-crit-air-certificat-qualite-de-l-air",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "mesures-antipollution",
+      "titre": "Mesures antipollution"
+    }
+  ]
+}

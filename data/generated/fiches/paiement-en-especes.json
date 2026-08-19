@@ -1,0 +1,133 @@
+{
+  "id": "F10999",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Paiement en espèces",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Le paiement en espèces (ou \"liquide\") est possible, mais il est réglementé. Dans certains cas, il peut être refusé, plafonné ou interdit.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-06-26",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F10999",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Moyens de paiement",
+    "Paiement en espèces"
+  ],
+  "introduction": "Vous voulez régler vos achats en utilisant des pièces ou des billets ? On parle alors de paiement en espèces (ou en liquide). Dans certains cas, il peut être refusé, plafonné ou interdit. Voici les règles à connaître.",
+  "chapitres": [
+    {
+      "titre": "Le paiement en espèces peut-il être refusé ?",
+      "contenu": [
+        "Les billets et les pièces en euros sont les seuls moyens de paiement en France. En principe, un paiement en espèces ne peut pas vous être refusé.",
+        "[À savoir] Un commerçant qui vous refuse un paiement en espèces risque une amende de 150 €.",
+        "Toutefois, il existe des exceptions qui permettent à une personne de refuser d'être payée en espèces dans certains cas :",
+        "Devises étrangères",
+        "Le paiement en devises étrangères peut vous être refusé.",
+        "Pièces et billets en mauvais état",
+        "Le paiement avec des pièces ou billets en mauvais état peut vous être refusé. Ces espèces pourraient être rejetés par la Banque de France.",
+        "[À savoir] Si vous avez des billets en euros en mauvais état, vous pouvez, sous conditions, les échanger à la Banque de France. Vous pouvez aussi, sous conditions, en demander le remboursement à la Banque de France ou dans certains bureaux de poste.",
+        "Fausse monnaie",
+        "Si le créancier se rend compte que votre billet (ou votre pièce) est faux, il pourra refuser le paiement.",
+        "Nombre de pièces",
+        "Si vous utilisez plus de 50 pièces pour un seul paiement, ce paiement peut être refusé (sauf pour les paiements au Trésor public).",
+        "Appoint",
+        "Quand vous payez en espèces, vous devez faire l'appoint, c'est-à-dire régler la somme exacte au vendeur. Le créancier peut donc refuser le paiement en espèces s'il n'a pas la possibilité de vous rendre la monnaie.",
+        "Motifs d’intérêt général",
+        "Le paiement en espèces peut vous être refusé pour des motifs d’intérêt général. Les limitations au paiement en espèces sont admises par les tribunaux si elles n’entrainent pas des contraintes trop importantes pour les usagers.",
+        "[Exemple] Pour des raisons de sécurité, afin d’éviter les vols dans les horodateurs, une commune peut exiger le paiement du stationnement au moyen d’une carte prépayée. Les usagers ont la possibilité d’acheter cette carte, y compris en espèces, auprès d’un commerçant agréé."
+      ]
+    },
+    {
+      "titre": "Le montant du paiement en espèces est-il limité ?",
+      "contenu": [
+        "Entre particuliers, s’ils n’agissent pas pour des besoins professionnels, le paiement en espèces n'est pas limité.",
+        "Un écrit est nécessaire au-delà de 1 500 € pour prouver les versements.",
+        "[Exemple] L’achat entre particuliers d’une voiture à usage privé peut être réglé en totalité en espèces.",
+        "Toutefois, dans plusieurs cas, le paiement en espèces ne peut pas dépasser certains montants. Il existe des plafonds.",
+        "[À savoir] Le paiement pour une location de véhicules automobiles ne peut pas être effectué en espèces.",
+        "Règlement des impôts, taxes, amendes et condamnations pécuniaires",
+        "Le paiement en espèces au guichet des centres des finances publiques est limité à 300 €.",
+        "Paiement à un professionnel",
+        "Le paiement en espèces d'un particulier à un professionnel ou entre professionnels est limité à 1 000 €.",
+        "[Exemple] L'achat à un professionnel d'un véhicule à usage privé.",
+        "Ce plafond est relevé si votre domicile fiscal est à l'étranger et que vous réglez une dépense personnelle.",
+        "Vous pouvez alors régler en espèces jusqu’à 15 000 € si le paiement est effectué à un professionnel soumis aux obligations de lutte contre le blanchiment. Sinon, le paiement en espèces est limité à 10 000 €.",
+        "La loi fixe la liste des professionnels (par exemple les antiquaires) soumis aux obligations de lutte contre le blanchiment de capitaux et le financement du terrorisme.",
+        "Si votre paiement en espèces dépasse ces plafonds, vous risquez une amende d'un montant maximum de 5 % des sommes payées illégalement en espèces. Vous devrez payer la moitié de cette amende. L'autre moitié devra être payée par le professionnel qui a accepté le règlement en espèces.",
+        "Vous devrez présenter une pièce d'identité pour tout paiement supérieur à 1 000 €.",
+        "[À savoir] Par exception, les plafonds de paiement en espèces ne vous concernent pas si vous n'avez pas de compte bancaire. Ils ne vous concernent pas non plus si vous êtes dans l’incapacité juridique ou bancaire d’utiliser un autre moyen de paiement.",
+        "Paiement d'un salaire",
+        "Le salaire peut vous être payé en espèces jusqu'à 1 500 € par mois.",
+        "Au-delà, l'employeur doit payer par chèque barré ou par virement bancaire.",
+        "[À savoir] Ce plafond ne concerne pas l'employeur qui n'a pas d'autre moyen de paiement ou pas de compte bancaire.",
+        "Si votre employeur ne respecte pas ces obligations, il risque une amende de 450 €.",
+        "Paiement d’une transaction immobilière",
+        "Les paiements effectués ou reçus par un notaire pour le règlement des transactions immobilières peuvent s'effectuer en espèces si la transaction ne dépasse pas 3 000 €. Au-delà de cette somme, les paiements doivent être réalisés par virement bancaire.",
+        "Cette obligation s’applique pour le règlement des actes authentiques qui doivent être publiés au service de publicité foncière : par exemple l'achat d'un terrain ou d'un logement, une donation de terrain, de maison ou d’appartement, ou une attestation de propriété immobilière établie après un décès."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Règlement (CE) n° 974-98 du 3 mai 1998 concernant l'introduction de l'euro",
+      "url": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31998R0974:FR:HTML"
+    },
+    {
+      "titre": "Code monétaire et financier : article L112-5 à L112-5-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006170820/"
+    },
+    {
+      "titre": "Code monétaire et financier : articles L112-6 à L112-8",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006169848/"
+    },
+    {
+      "titre": "Code monétaire et financier : articles D112-3 et R112-5",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000019265478/"
+    },
+    {
+      "titre": "Code monétaire et financier : article L112-10",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006169849"
+    },
+    {
+      "titre": "Code monétaire et financier : article L112-7",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033461943"
+    },
+    {
+      "titre": "Code pénal : article R642-3",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022375969"
+    },
+    {
+      "titre": "Décret n°85-1073 du 7 octobre 1985 relatif aux règlements par chèques et virements",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000682043/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Info Banque - Assurance"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Billets et pièces",
+      "url": "https://www.abe-infoservice.fr/banque/moyens-de-paiement/billets-et-pieces"
+    },
+    {
+      "titre": "Paiement en espèces : quelles sont les règles ?",
+      "url": "https://www.abe-infoservice.fr/banque/moyens-de-paiement/paiement-en-especes-quelles-sont-les-regles"
+    },
+    {
+      "titre": "Payer en espèces : les pièces et les billets de banque",
+      "url": "https://www.inc-conso.fr/node/9476"
+    }
+  ],
+  "slug": "paiement-en-especes",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "moyens-de-paiement",
+      "titre": "Moyens de paiement"
+    }
+  ]
+}

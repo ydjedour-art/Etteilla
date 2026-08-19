@@ -1,0 +1,123 @@
+{
+  "id": "F34123",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Vol d'un téléphone portable",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "En cas de vol de votre téléphone mobile ou smartphone, vous devez immédiatement joindre votre opérateur pour faire suspendre votre ligne et porter plainte.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-09-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34123",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Communications électroniques (téléphone, internet, télévision)",
+    "Vol d'un téléphone portable"
+  ],
+  "introduction": "En cas de vol de votre téléphone mobile ou smartphone, vous devez respecter plusieurs étapes : localiser et verrouiller votre portable, changer vos mots de passe, joindre immédiatement votre opérateur pour faire suspendre votre ligne, porter plainte rapidement au commissariat ou en gendarmerie, contacter votre assureur si vous avez souscrit une assurance pour obtenir le remplacement de votre appareil. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Localiser et verrouiller votre téléphone",
+      "contenu": [
+        "Pour protéger vos données confidentielles à la suite d'un vol, vous pouvez tenter de localiser et de verrouiller votre appareil à distance.",
+        "Pour ce faire, vous pouvez utiliser une application de localisation ou les outils intégrés comme \"Localiser mon iPhone\" ou \"Localiser mon appareil Android\".",
+        "Plusieurs sites internet permettent également de le faire. Pour cela, la fonction \"localisation\" de votre téléphone doit être activée.",
+        "Si vous le localisez, il est recommandé de prévenir la police ou la gendarmerie et de ne pas agir vous-même.",
+        "[À savoir] La plupart des téléphones récents permettent d'effacer à distance les données contenues (photos, SMS...) et de désactiver l'accès aux mails et autres applications."
+      ]
+    },
+    {
+      "titre": "Changer vos mots de passe",
+      "contenu": [
+        "Si votre téléphone contient des applications tels que votre boîte mails, votre compte bancaire, vos réseaux sociaux, il est recommandé de changer rapidement vos mots de passe dans chacun d'eux.",
+        "En effet, vos mots de passe sont stockés dans la mémoire de ces applications. Un voleur peut facilement les trouver et utiliser vos applications et données confidentielles."
+      ]
+    },
+    {
+      "titre": "Faire suspendre votre ligne",
+      "contenu": [
+        "Joindre votre opérateur",
+        "Vous devez signaler au plus vite le vol de votre téléphone à votre opérateur pour faire suspendre votre ligne (c'est-à-dire désactiver votre carte SIM pour éviter toute utilisation frauduleuse de votre téléphone). Le voleur ne pourra alors plus émettre d'appels.",
+        "Vous devez faire cette déclaration soit sur le site internet de votre opérateur (à partir de votre espace client), soit en appelant le numéro de téléphone d'urgence de votre opérateur.",
+        "Avant cette déclaration, les communications passées par le voleur vous seront facturées.",
+        "Si vous retrouvez votre téléphone, votre ligne (carte SIM) pourra être réactivée.",
+        "Numéro IMEI",
+        "Lorsque vous appelez votre opérateur pour suspendre votre ligne, il doit vous communiquer le numéro IMEI (15 chiffres) de votre téléphone. Il s'agit de son identifiant.",
+        "Vous devrez le donner aux services de police ou de gendarmerie. Sans cela, votre téléphone ne pourra pas être bloqué.",
+        "Ce numéro permet également d'identifier votre téléphone si la police ou la gendarmerie le retrouve.",
+        "Si vous êtes assuré pour le vol de votre téléphone mobile, vous devez communiquer le numéro à votre assurance.",
+        "[À savoir] Vous pouvez trouver votre IMEI dans votre espace client sur le site internet de votre opérateur (dans les paramètres de votre compte)."
+      ]
+    },
+    {
+      "titre": "Porter plainte",
+      "contenu": [
+        "Vous devez porter plainte au plus vite auprès d'un commissariat de police ou d'une brigade de gendarmerie.",
+        "Pour cela, vous devez leur donner le numéro IMEI de votre appareil (15 chiffres).",
+        "Commissariat",
+        "Brigade de gendarmerie",
+        "[À savoir] Si vous le souhaitez, vous pouvez déposer votre plainte en ligne sur le site officiel du ministère de l’Intérieur “Ma Sécurité”, sans vous déplacer au commissariat pour les affaires de vol quand l’auteur des faits est inconnu (comme un portable volé). Vous aurez un reçu électronique à conserver en guise de preuve. Plainte en ligne",
+        "Les forces de l'ordre se chargent d'envoyer la demande de blocage de l'appareil à votre opérateur.",
+        "L'opérateur doit bloquer votre ligne dans les 4 jours maximum suivants votre déclaration.",
+        "C'est l'appareil en lui-même qui sera bloqué et pas seulement la ligne.",
+        "[À noter] Même si vous êtes en voyage à l'étranger, vous devez aller porter plainte pour vol dans un commissariat de police.",
+        "Il vous sera demandé de fournir le plus de détails possible sur le vol : lieu, heure et description du voleur.",
+        "[À savoir] Si la police retrouve votre téléphone, votre ligne pourra être réactivée, mais vous ne pourrez plus utiliser votre appareil s'il a déjà été bloqué."
+      ]
+    },
+    {
+      "titre": "Joindre votre assureur",
+      "contenu": [
+        "Si vous possédez une assurance pour le vol de votre téléphone, vous pourrez l'utiliser pour le remplacer.",
+        "Il peut s'agir d'une assurance prise auprès de votre opérateur ou de celle liée à votre carte bancaire ou d'une assurance voyage.",
+        "Vous devez contacter votre assureur dans un délai rapide après le vol (48 heures ou quelques jours maximum).",
+        "L'assureur vous demandera la preuve de votre plainte. Vous devrez lui fournir le dépôt de plainte.",
+        "[À noter] Le vol ou la perte d’un téléphone ne constitue pas un motif légitime de résiliation de votre contrat mobile, en cas de durée minimale d’engagement non atteinte.",
+        "Le remplacement ou non dépend du contrat d'assurance signé.",
+        "Par exemple, l'assurance peut fonctionner uniquement en cas de vol avec violences (une agression) et non à cause d'un pickpocket. Il faut vous renseigner auprès de votre opérateur.",
+        "L'assureur peut vous interroger et vous demander plus de détails avant de vous dédommager.",
+        "[Attention] Faire une fausse déclaration (comme prétexter une agression violente alors qu'il s'agit d'un pickpocket) pour obtenir le remplacement de votre téléphone est un cas d'escroquerie. De plus, le dépôt d'une fausse plainte devant la police ou la gendarmerie est un délit punissable de 6 mois de prison et 7 500 € d'amende."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code des postes et des communications électroniques : article L34-3",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023713267/"
+    },
+    {
+      "titre": "Code pénal : articles 311-1 à 311-11",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000006418127"
+    },
+    {
+      "titre": "Code pénal : articles 313-1 à 313-3",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006165331/"
+    },
+    {
+      "titre": "Code pénal : article 434-17",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418651/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Plainte en ligne",
+      "url": "https://www.masecurite.interieur.gouv.fr/fr/demarches-en-ligne/plainte-en-ligne",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "Commissariat",
+    "Brigade de gendarmerie"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "vol-d-un-telephone-portable",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "communications-electroniques-telephone-internet-television",
+      "titre": "Communications électroniques (téléphone, internet, télévision)"
+    }
+  ]
+}

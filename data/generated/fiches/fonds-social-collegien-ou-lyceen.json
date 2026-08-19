@@ -1,0 +1,94 @@
+{
+  "id": "F1025",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Fonds social collégien ou lycéen",
+  "theme": "Famille - Scolarité",
+  "description": "Le fonds social collégien et le fonds social lycéen sont destinés à répondre aux difficultés des familles à faire face à des dépenses de scolarité.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-05-22",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1025",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Aides financières pour la scolarité",
+    "Fonds social collégien ou lycéen"
+  ],
+  "introduction": "Votre enfant est au collège ou au lycée et vous avez des difficultés à payer ses frais de scolarité ? Une aide financière appelée le fonds social peut vous être attribuée. Quelles sont les conditions pour en bénéficier et comment en faire la demande ? Voici les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Qu'est-ce que le fonds social collégien ou lycéen ?",
+      "contenu": [
+        "Le fonds social est une aide qui vous permet de faire face à des dépenses de scolarité ou de vie scolaire.",
+        "Il peut s'agir notamment des dépenses suivantes :",
+        "• Transport et sorties scolaires",
+        "• Soins de l'enfant (soins bucco-dentaires, achat de lunettes, d'appareils auditifs, etc.)",
+        "• Vêtements de travail",
+        "• Équipements professionnel ou sportif",
+        "• Manuels ou fournitures scolaires.",
+        "[À noter] Cette aide peut être complétée par le fonds social pour les cantines.",
+        "Si votre enfant est inscrit dans un collège ou un lycée public, le fonds social peut prendre la forme d'une somme d'argent ou d'une prestation en nature. S'il est inscrit dans le privé, l'aide est uniquement financière."
+      ]
+    },
+    {
+      "titre": "Quelles sont les conditions pour bénéficier du fonds social collégien ou lycéen ?",
+      "contenu": [
+        "Pour bénéficier du fonds social, votre enfant doit être scolarisé dans l'une des classes ou structures suivantes :",
+        "• Collège ou lycée public",
+        "• Collège ou lycée privé sous contrat",
+        "• Classe de niveau collège ou lycée au Centre national d'enseignement à distance (Cned)",
+        "• Établissement régional d'enseignement adapté (EREA).",
+        "Si votre enfant est inscrit dans une classe préparatoire de lycée, vous ne pouvez pas bénéficier du fonds social.",
+        "[À savoir] Il n’est pas nécessaire que l’enfant soit boursier pour bénéficier du fonds social."
+      ]
+    },
+    {
+      "titre": "Comment demander le fonds social collégien ou lycéen ?",
+      "contenu": [
+        "Le chef d'établissement vous informe à la rentrée de la possibilité de bénéficier de cette aide. Vous pouvez aussi vous renseigner sur le fonds social auprès du secrétariat de l’établissement scolaire.",
+        "Vous devez retirer un dossier au secrétariat de l'établissement et le retourner, avec les justificatifs demandés.",
+        "Établissement scolaire"
+      ]
+    },
+    {
+      "titre": "Comment le fonds social collégien ou lycéen est-il attribué ?",
+      "contenu": [
+        "Le procédure d'attribution du fonds social est différente dans les établissements scolaires publics et privés sous contrat :",
+        "Votre enfant est inscrit dans un établissement public",
+        "Une commission spéciale, présidée par le chef d'établissement, étudie chaque dossier et donne son avis sur les demandes.",
+        "Le chef d'établissement vous informe de la décision de vous accorder ou non le fonds social.",
+        "Votre enfant est inscrit dans un établissement privé sous contrat",
+        "Le chef d'établissement étudie chaque dossier et fait des propositions d'attributions. Ces propositions sont d'abord transmises au recteur d’académie, qui prend ensuite la décision.",
+        "Le chef d'établissement vous communique la décision prise par le recteur.",
+        "Si votre enfant est mineur, l'aide vous est attribuée directement. S'il est majeur, elle peut lui être attribuée personnellement.",
+        "Lorsque l'attribution du fonds social vous a été refusé, vous pouvez prendre rendez-vous avec l'assistance sociale scolaire du collège ou du lycée. Elle vous orientera vers les aides dont vous pouvez avoir droit."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Circulaire n°2017-122 du 22 août 2017 relative au fonds social collégien et au fonds social lycéen",
+      "url": "http://circulaire.legifrance.gouv.fr/pdf/2017/09/cir_42559.pdf"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Établissement scolaire"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Les établissements régionaux d'enseignement adapté (EREA)",
+      "url": "https://eduscol.education.fr/1178/les-etablissements-regionaux-d-enseignement-adapte"
+    }
+  ],
+  "slug": "fonds-social-collegien-ou-lyceen",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "aides-financieres-pour-la-scolarite",
+      "titre": "Aides financières pour la scolarité"
+    }
+  ]
+}

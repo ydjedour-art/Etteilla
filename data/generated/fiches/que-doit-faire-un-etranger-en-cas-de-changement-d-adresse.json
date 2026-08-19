@@ -1,0 +1,65 @@
+{
+  "id": "F35807",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Que doit faire un étranger en cas de changement d'adresse ?",
+  "theme": "Étranger - Europe",
+  "description": "Lorsqu'un étranger déménage, il doit déclarer son nouveau domicile dans les 3 mois et demander un duplicata.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-05-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35807",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Titres, cartes de séjour et documents de circulation pour étranger en France",
+    "Que doit faire un étranger en cas de changement d'adresse ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Si vous êtes étranger, que vous avez une carte de séjour d'une durée supérieure à 1 an et que vous avez déménagé (dans la même commune ou dans une autre), vous devez déclarer votre nouveau domicile dans les 3 mois qui suivent votre déménagement.",
+        "Vous devez faire cette démarche en ligne :",
+        "Faire une demande sur internet pour un titre de séjour, un changement de situation, un titre de voyage, une demande de naturalisation - ANEF",
+        "Pour faire votre demande par internet, vous devez fournir sous format numérique tous les documents suivants (ils doivent être lisibles) :",
+        "• Titre de séjour",
+        "• Passeport (pages sur l'état civil, les dates de validité et les cachets d'entrée)",
+        "• Justificatif de domicile datant de moins de 3 mois.",
+        "Si vous demandez la fabrication d’une nouvelle carte de séjour :",
+        "• e-photo : indiquez le code de la e-photo (fourni par le photographe ou la cabine agréée sur la planche photo). Si vous n'avez pas encore de e-photo, vous pouvez localiser un service photo et signature numériques.",
+        "Votre déclaration de changement d'adresse sera enregistrée gratuitement. Vous recevrez une attestation à conserver.",
+        "[À savoir] La fabrication d'une nouvelle carte de séjour n'est pas obligatoire. Si vous en faites la demande, vous devez payer 50 € par timbres fiscaux, sauf si vous êtes ressortissant de l'UE, de l'EEE , de la Confédération suisse ou membre de la famille d'un tel ressortissant ou bénéficiaire d’un titre « accord de retrait »."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles L436-1 à L436-13",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042772036/"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles R431-20 à R431-24",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042801350/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Faire une demande sur internet pour un titre de séjour, un changement de situation, un titre de voyage, une demande de naturalisation - ANEF",
+      "url": "https://administration-etrangers-en-france.interieur.gouv.fr/particuliers/#/",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "que-doit-faire-un-etranger-en-cas-de-changement-d-adresse",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "titres-cartes-de-sejour-et-documents-de-circulation-pour-etranger-en-france",
+      "titre": "Titres, cartes de séjour et documents de circulation pour étranger en France"
+    }
+  ]
+}

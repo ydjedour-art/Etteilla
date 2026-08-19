@@ -1,0 +1,94 @@
+{
+  "id": "F1992",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Déclaration d'ouverture de chantier (DOC)",
+  "theme": "Logement, Secteurs d'activité",
+  "description": "Dès le commencement des travaux soumis à permis de construire ou permis d'aménager, il faut faire une déclaration d'ouverture du chantier en mairie.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-08-11",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1992",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Travaux",
+    "Déclaration d'ouverture de chantier (DOC)"
+  ],
+  "introduction": "Vous venez de recevoir l'autorisation d'urbanisme (permis de construire ou permis d'aménager) et vous vous demandez s'il faut déclarer l'ouverture de chantier ? Nous vous expliquons comment procéder.",
+  "chapitres": [
+    {
+      "titre": "Qu'est-ce que la déclaration d'ouverture de chantier (DOC) ?",
+      "contenu": [
+        "La DOC est un document signalant le commencement des travaux à la mairie.",
+        "Elle doit obligatoirement être adressée dès le début des travaux.",
+        "[À noter] Il n'y a pas de définition légale de la notion de commencement des travaux."
+      ]
+    },
+    {
+      "titre": "Qui doit déposer une déclaration d'ouverture de chantier ?",
+      "contenu": [
+        "Si vous détenez un permis de construire u un permis d'aménager, vous devez déclarer l'ouverture de votre chantier à la mairie."
+      ]
+    },
+    {
+      "titre": "Comment s'effectue la démarche de déclaration d'ouverture de chantier ?",
+      "contenu": [
+        "La démarche de DOC varie selon que vous êtes en province ou à Paris.",
+        "Cas général",
+        "Vous devez déposer votre DOC en mairie :",
+        "• Par voie dématérialisée selon les dispositions prises par votre commune (renseignez-vous sur le site de la mairie ou sur place)",
+        "• Par lettre RAR",
+        "• En main propre.",
+        "Sur internet",
+        "Vous pouvez déposer votre DOC par internet :",
+        "Assistance pour votre demande d'autorisation d'urbanisme",
+        "Formulaire",
+        "Vous pouvez remplir votre DOC au moyen d'un formulaire :",
+        "Déclaration d'ouverture de chantier",
+        "Mairie",
+        "À Paris",
+        "Vous devez déposer votre DOC au Basu par voie dématérialisée :",
+        "Bureau accueil et service à l'usager (Basu) de Paris : guichet électronique unique",
+        "Guichet électronique unique pour toutes vos démarches d'urbanisme à Paris : préparer votre dossier, suivre vos demandes et déclarer vos chantiers."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'urbanisme : article R*424-16",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006175981/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Assistance pour votre demande d'autorisation d'urbanisme",
+      "url": "https://demarches.service-public.gouv.fr/mademarche/DAUA/demarche",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Bureau accueil et service à l'usager (Basu) de Paris : guichet électronique unique",
+      "url": "https://teleservices.paris.fr/demarchesurbanisme/jsp/site/Portal.jsp?page=accueil",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Déclaration d'ouverture de chantier",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_13407.do",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Mairie",
+    "Paris : Bureau accueil et service à l'usager (Basu)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "declaration-d-ouverture-de-chantier-doc",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "travaux",
+      "titre": "Travaux"
+    }
+  ]
+}

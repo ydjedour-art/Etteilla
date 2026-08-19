@@ -1,0 +1,126 @@
+{
+  "id": "F10256",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Commission des usagers d'un hôpital ou d'une clinique",
+  "theme": "Social - Santé",
+  "description": "Il est possible de saisir la commission des usagers (CDU) pour adresser une réclamation à un établissement de santé (public ou privé).",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-03-20",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F10256",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Préjudice médical",
+    "Commission des usagers d'un hôpital ou d'une clinique"
+  ],
+  "introduction": "Vous avez une réclamation à adresser auprès d’un établissement de santé (public ou privé) ? Vous pouvez saisir la commission des usagers (CDU). Elle veille au respect de vos droits et a pour objet de vous aider dans vos démarches. Elle est présente dans chaque hôpital ou clinique. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Quelles sont les missions de la commission des usagers (CDU) ?",
+      "contenu": [
+        "La commission des usagers (CDU) a les missions suivantes :",
+        "• S'assurer du respect de vos droits",
+        "• Faciliter vos démarches et celles de vos proches.",
+        "Les plaintes et réclamations adressées à l'établissement de santé et les réponses apportées sont tenues à la disposition de la CDU.",
+        "Les plaintes et réclamations qui n'ont pas le caractère d'un recours gracieux ou juridictionnel sont examinées par la CDU.",
+        "La CDU doit :",
+        "• Contribuer à l'amélioration de la qualité de votre accueil, celle de vos proches et de la prise en charge",
+        "• Veiller à ce que vous et vos proches puissiez exprimer vos reproches auprès des responsables de l'établissement",
+        "• Veiller à ce que vous puissiez connaître les voies de recours et de conciliation dont vous disposez",
+        "• Faire des propositions à la direction de l'établissement pour améliorer l'accueil et votre prise en charge ainsi que celles de vos proches.",
+        "[À noter] La CDU examine au moins une fois par trimestre et chaque fois que nécessaire les réclamations adressées à l'établissement."
+      ]
+    },
+    {
+      "titre": "Comment est composée la commission des usagers (CDU) ?",
+      "contenu": [
+        "La CDU est composée notamment des personnes suivantes :",
+        "• Représentant légal de l'établissement de santé ou la personne qu'il désigne à cet effet",
+        "• 2 médiateurs et leurs suppléants, désignés par l'établissement de santé",
+        "• 2 représentants des usagers, et leurs suppléants désignés par l'ARS.",
+        "Selon qu'il s'agisse d'un établissement public ou privé, des personnes supplémentaires peuvent venir s'ajouter à cette composition.",
+        "[À noter] La liste nominative des membres de la CDU est affichée dans l'établissement et remise à chaque patient avec le livret d'accueil."
+      ]
+    },
+    {
+      "titre": "Qui peut saisir la commission des usagers (CDU) ?",
+      "contenu": [
+        "• Vous en tant que patient hospitalisé ou l'un de vos proches",
+        "• Le représentant légal de l'établissement, auprès duquel aboutissent toutes les réclamations adressées dans les services"
+      ]
+    },
+    {
+      "titre": "À quel moment saisir la commission des usagers (CDU) ?",
+      "contenu": [
+        "Avant de saisir la CDU, vous pouvez adresser vos remarques par oral au responsable du service dans lequel vous êtes hospitalisé.",
+        "En cas d'impossibilité ou si les explications données par le responsable du service ne vous satisfont pas, vous pouvez adresser directement une plainte ou réclamation écrite au représentant légal de l'hôpital.",
+        "[À savoir] Le livret d'accueil indique comment contacter la personne remplissant la fonction de responsable des relations avec les usagers ou habilitée pour recueillir les expressions de mécontentement."
+      ]
+    },
+    {
+      "titre": "Comment est traitée la réclamation adressée à l'établissement de santé ?",
+      "contenu": [
+        "Examen par l'établissement de santé",
+        "Toute plainte ou réclamation écrite adressée à l'hôpital est transmise à son représentant légal.",
+        "Il vous informe :",
+        "• De la possibilité que vous avez de saisir directement un médiateur",
+        "• Ou du fait qu'il transmet de lui-même cette plainte ou réclamation au médiateur.",
+        "[À noter] Avant de rencontrer un médiateur, le représentant légal de l'établissement vous informe que vous pouvez vous faire accompagner d'un représentant des usagers (membre de la CDU).",
+        "Examen par la commission des usagers (CDU)",
+        "Une fois saisi, le médiateur doit vous rencontrer dans les 8 jours, sauf impossibilité pour vous.",
+        "[À noter] Si la réclamation est formulée alors que vous êtes hospitalisé, votre audition doit avoir lieu dans la mesure du possible avant votre sortie de l'hôpital.",
+        "Le médiateur peut également rencontrer vos proches s'il le juge utile ou si vos proches le demandent.",
+        "8 jours après sa rencontre avec vous, le médiateur adresse le compte-rendu au président de la CDU. Vous êtes, ainsi que les autres membres de la CDU, destinataire de ce compte-rendu.",
+        "Décisions pouvant être prises par la CDU",
+        "La CDU formule des recommandations pour :",
+        "• Apporter une solution au litige",
+        "• Ou vous informer des voies de conciliation ou de recours dont vous disposez.",
+        "Elle peut également émettre un avis en faveur du classement du dossier en expliquant pourquoi.",
+        "Dans le délai de 8 jours suivant la séance, le représentant légal de l'établissement vous répond et joint à son courrier l'avis de la CDU. Il transmet ce courrier aux membres de la CDU."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la santé publique : articles L1112-1 à L1112-6",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000006170994"
+    },
+    {
+      "titre": "Code de la santé publique : articles R1112-79 à R1112-90",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000006190181/"
+    },
+    {
+      "titre": "Code de la santé publique : articles R1112-91 à R1112-94",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006196149/"
+    },
+    {
+      "titre": "Arrêté du 15 avril 2008 relatif au contenu du livret d'accueil des établissements de santé",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000018787636/"
+    },
+    {
+      "titre": "Décret n°2016-726 du 1er juin 2016 relatif à la commission des usagers des établissements de santé",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000032623281"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Santé Info Droits"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Commission des usagers (CDU) : son rôle dans l'examen des plaintes",
+      "url": "https://www.france-assos-sante.org/wp-content/uploads/2024/03/Fiche-B.2_Commission-des-usagers.pdf"
+    }
+  ],
+  "slug": "commission-des-usagers-d-un-hopital-ou-d-une-clinique",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "prejudice-medical",
+      "titre": "Préjudice médical"
+    }
+  ]
+}

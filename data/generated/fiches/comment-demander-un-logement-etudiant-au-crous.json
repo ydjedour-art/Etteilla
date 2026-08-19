@@ -1,0 +1,103 @@
+{
+  "id": "F31912",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Comment demander un logement étudiant au Crous ?",
+  "theme": "Famille - Scolarité",
+  "description": "Vous devez être étudiant pour bénéficier d'un logement du Crous. Les logements sont attribués selon plusieurs critères suivants :",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-03-03",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31912",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Bourses et aides pour étudiant",
+    "Comment demander un logement étudiant au Crous ?"
+  ],
+  "introduction": "Vous êtes étudiant ou professionnel de l'enseignement supérieur et vous voulez être logé dans un logement du Crous ? Nous vous expliquons les conditions à respecter et les démarches à faire pour bénéficier de ce type de logement.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "La démarche diffère en fonction de la durée d’occupation du logement : année universitaire ou plus d’un mois, qui est le cas général, ou pour moins d’un mois (chercheur, enseignant-chercheur ou personnel administratif)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'éducation : article L822-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038902756/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Trouver un logement étudiant",
+      "url": "https://monlogementetudiant.beta.gouv.fr/trouver-un-logement-etudiant",
+      "type": "outilRechercheNG"
+    },
+    {
+      "titre": "Mes services étudiant : constituer son Dossier Social Étudiant (DSE)",
+      "url": "https://dossier-social.etudiant.gouv.fr/bienvenue",
+      "type": "selNG"
+    },
+    {
+      "titre": "TrouverUnLogement.LesCrous.fr",
+      "url": "https://trouverunlogement.lescrous.fr/",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Lokaviz : logement étudiant chez un particulier",
+      "url": "https://www.lokaviz.fr/",
+      "type": "Outil de recherche"
+    },
+    {
+      "titre": "Offre courts séjours : réserver un logement Crous pour une courte ou moyenne durée",
+      "url": "https://www.lescrous.fr/nos-services/notre-offre-commerciale/hebergement-courts-sejours-des-logements-a-tarif-crous-pour-une-courte-duree/",
+      "type": "Outil de recherche"
+    }
+  ],
+  "contacts": [
+    "Centre régional des œuvres universitaires et scolaires (Crous)",
+    "Établissement d'enseignement supérieur"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Lycéens de terminale : la demande de bourse/logement",
+      "url": "https://www.etudiant.gouv.fr/fr/bourse-et-logement-constituez-votre-dossier-social-etudiant-dse-409"
+    },
+    {
+      "titre": "FAQ bourse, dossier social étudiant, logement Crous",
+      "url": "https://www.etudiant.gouv.fr/fr/faq-dossier-social-etudiant-dse-bourse-sur-criteres-sociaux-et-logement-crous-2238"
+    },
+    {
+      "titre": "Carte des résidences universitaires Crous",
+      "url": "http://www.lokaviz.fr/logement-crous/annuaire-des-residences-crous/carte-des-residences-crous/n:223"
+    },
+    {
+      "titre": "Étudiant : vous loger en résidence universitaire",
+      "url": "http://www.etudiant.gouv.fr/pid33824/vous-loger-en-residence-universitaire.html"
+    },
+    {
+      "titre": "Hébergement des étudiants d'outre-mer venant étudier en métropole",
+      "url": "https://hebergement.outremersolidaires.gouv.fr/"
+    },
+    {
+      "titre": "Vous loger en résidence universitaire",
+      "url": "https://www.etudiant.gouv.fr/fr/vous-loger-en-residence-universitaire-1906"
+    },
+    {
+      "titre": "Comment se passe l'attribution des logements en résidence ?",
+      "url": "https://www.etudiant.gouv.fr/fr/comment-se-passe-l-attribution-des-logements-en-residence-73"
+    }
+  ],
+  "slug": "comment-demander-un-logement-etudiant-au-crous",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "bourses-et-aides-pour-etudiant",
+      "titre": "Bourses et aides pour étudiant"
+    }
+  ]
+}

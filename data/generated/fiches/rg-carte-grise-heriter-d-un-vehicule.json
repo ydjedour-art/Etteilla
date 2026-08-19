@@ -1,0 +1,33 @@
+{
+  "id": "F36517",
+  "type_publication": "Recherche guidée",
+  "titre": "[RG - Carte grise : hériter d'un véhicule]",
+  "theme": "Transports - Mobilité",
+  "description": "[RG - Carte grise : hériter d'un véhicule]",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2022-07-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F36517",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Carte grise (certificat d'immatriculation)",
+    "[RG - Carte grise : hériter d'un véhicule]"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "rg-carte-grise-heriter-d-un-vehicule",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "carte-grise-certificat-d-immatriculation",
+      "titre": "Carte grise (certificat d'immatriculation)"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "F34092",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Arnaques à la location immobilière sur internet",
+  "theme": "Justice",
+  "description": "Le fait de publier sur internet une fausse annonce de location immobilière ou une annonce trompeuse est passible d'une sanction pénale.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2024-10-16",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34092",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Arnaques sur internet (THESEE, Pharos ...)",
+    "Arnaques à la location immobilière sur internet"
+  ],
+  "introduction": "Vous avez répondu à une annonce de location immobilière sur internet et le bien n'existe pas ou n'est pas conforme à la description ? Il peut s'agir d'une fausse annonce de location ou d'une annonce de location trompeuse. Ces deux procédés constituent des délits. Quelle que soit votre situation (majeur, mineur, témoin, victime), vous pouvez signaler ce type d'infraction. Si vous êtes victime de tels actes, vous pouvez déposer plainte. Nous vous guidons dans vos démarches.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code pénal : articles 313-1 à 313-3",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006165331/"
+    },
+    {
+      "titre": "Code pénal : article 313-9",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025494719"
+    },
+    {
+      "titre": "Code de la consommation : article L121-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044563114/"
+    },
+    {
+      "titre": "Code de la consommation : article L132-1 à L 132-9",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069565/LEGISCTA000032221101/#LEGISCTA000032227124"
+    },
+    {
+      "titre": "Arrêté du 26 juin 2020 sur la création du traitement harmonisé des enquêtes et des signalements pour les e-escroqueries (THESEE)",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000042056637/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Porter plainte pour escroquerie à la location (fausse annonce) - THESEE",
+      "url": "https://demarches.service-public.gouv.fr/mademarche/arnaqueInternet/demarche?action=PLAINTE&type=FL",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Signaler une escroquerie à la location (fausse annonce) - THESEE",
+      "url": "https://demarches.service-public.gouv.fr/mademarche/arnaqueInternet/demarche?action=SIGNALEMENT&type=FL",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "Info Escroqueries",
+    "Direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "arnaques-a-la-location-immobiliere-sur-internet",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "arnaques-sur-internet-thesee-pharos",
+      "titre": "Arnaques sur internet (THESEE, Pharos ...)"
+    }
+  ]
+}

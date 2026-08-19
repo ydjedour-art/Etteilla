@@ -1,0 +1,105 @@
+{
+  "id": "F35535",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Un salarié du particulier employeur ou une assistante maternelle sont-ils indemnisés s'ils tombent malades ?",
+  "theme": "Travail - Formation",
+  "description": "En arrêt de travail, le salarié du particulier et l'assistante maternelle peuvent être indemnisés. Le salarié doit remplir une attestation sur l'honneur.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-12-18",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35535",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Particulier employeur : aide à domicile (services à la personne)",
+    "Un salarié du particulier employeur ou une assistante maternelle sont-ils indemnisés s'ils tombent malades ?"
+  ],
+  "introduction": "Oui, le salarié du particulier employeur ou l’assistante maternelle qui est malade peut, sous conditions, percevoir des indemnités journalières de la part de la Sécurité sociale et un complément de salaire versé par le régime de prévoyance. Il doit justifier de son absence à l'employeur et transmettre des documents à la CPAM. Nous faisons le point sur la réglementation.",
+  "chapitres": [
+    {
+      "titre": "Justifier son absence à l’employeur",
+      "contenu": [
+        "En cas d'absence pour maladie ou accident, le salarié prévient l'employeur par tout moyen. Le salarié communique à l'employeur le justificatif de l'arrêt de travail dans un délai de 48 heures, sauf cas de circonstances exceptionnelles.",
+        "[À savoir] S'il a plusieurs employeurs, le salarié doit transmettre une copie de son arrêt de travail à chaque employeur."
+      ]
+    },
+    {
+      "titre": "Transmettre les documents à la CPAM",
+      "contenu": [
+        "Envoyer l’arrêt de travail",
+        "La procédure diffère selon que le médecin a établi l’arrêt de travail sur internet ou en version papier :",
+        "Arrêt de travail établi sur internet",
+        "Si le médecin a établi l’arrêt de travail sur internet, la transmission à la CPAM se fait automatiquement.",
+        "L’arrêt de travail n’a pas à être transmis à la CPAM par le salarié.",
+        "Arrêt de travail établi en version papier",
+        "Si le médecin a établi l’arrêt de travail en version papier, le salarié transmet les volets 1 et 2 de l’arrêt à la CPAM. Cet envoi doit avoir lieu dans les 48h.",
+        "Envoyer une attestation sur l’honneur",
+        "Le salarié doit remplir et adresser à la CPAM une attestation sur l'honneur indiquant le dernier jour travaillé.",
+        "Un modèle d'attestation sur l'honneur est disponible :",
+        "Attestation sur l'honneur pour le paiement des indemnités journalières"
+      ]
+    },
+    {
+      "titre": "Percevoir des indemnités journalières de la CPAM si les conditions sont réunies",
+      "contenu": [
+        "Le salarié peut percevoir des indemnités journalières de la CPAM s'il remplit certaines conditions.",
+        "Les IJSS sont versées après un délai de carence de 3 jours.",
+        "Les IJSS du salarié sont calculées en fonction des informations remplies par le salarié sur l'attestation sur l'honneur et du salaire qu'il a eu."
+      ]
+    },
+    {
+      "titre": "Percevoir des indemnités complémentaires du régime de prévoyance (Ircem) si les conditions sont réunies",
+      "contenu": [
+        "La CPAM transmet automatiquement les décomptes d'IJSS à la Caisse de prévoyance des salariés des particuliers employeurs (Ircem).",
+        "En plus des IJSS, un complément peut être versé au salarié à compter du 8e jour d'arrêt.",
+        "[À noter] En cas de rechute de la maladie, si la CPAM n’applique pas de délai de carence, le salarié est indemnisé par le régime de prévoyance dès le 1er jour.",
+        "Conditions pour être indemnisé",
+        "Pour être indemnisé, le salarié doit remplir, notamment, les conditions cumulatives suivantes :",
+        "• Avoir un contrat de travail avec un particulier employeur au 1er jour de l’arrêt de travail",
+        "• Justifier, sauf impossibilité absolue, de son incapacité au travail dans les 48 heures",
+        "• Se soumettre à une contre-visite s’il y a lieu à l’initiative de l’organisme assureur",
+        "• Justifier, au 1er jour de l'arrêt de travail, de salaires réguliers dans la branche du secteur des particuliers employeurs et de l'emploi à domicile.",
+        "Montant de l'indemnité complémentaire",
+        "L'indemnité complémentaire peut permettre d'obtenir 81,8 % du salaire brut."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Convention collective nationale des particuliers employeurs et de l'emploi à domicile du 15 mars 2021",
+      "url": "https://www.legifrance.gouv.fr/conv_coll/id/KALITEXT000043941642"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Attestation sur l'honneur pour le paiement des indemnités journalières",
+      "url": "https://www.ameli.fr/sites/default/files/Documents/Cesu-Attestation-sur-honneur.pdf",
+      "type": "lettreTypeNG"
+    }
+  ],
+  "contacts": [
+    "Caisse primaire d'assurance maladie (CPAM)",
+    "Contact support Ameli pour les employeurs",
+    "Contact support Ircem"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Site de l’Ircem (Mutuelle, prévoyance, retraite complémentaire)",
+      "url": "http://www.ircem.com"
+    },
+    {
+      "titre": "Arrêt de travail du salarié du particulier employeur ou de l'assistante maternelle",
+      "url": "https://www.ameli.fr/assure/remboursements/indemnites-journalieres-maladie-maternite-paternite/arret-maladie-salarie#text_189199"
+    }
+  ],
+  "slug": "un-salarie-du-particulier-employeur-ou-une-assistante-maternelle-sont-ils-indemnises-s-ils-tombent-malades",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "particulier-employeur-aide-a-domicile-services-a-la-personne",
+      "titre": "Particulier employeur : aide à domicile (services à la personne)"
+    }
+  ]
+}

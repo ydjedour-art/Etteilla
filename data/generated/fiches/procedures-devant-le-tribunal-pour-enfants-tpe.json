@@ -1,0 +1,63 @@
+{
+  "id": "F1830",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Procédures devant le tribunal pour enfants (TPE)",
+  "theme": "Justice",
+  "description": "Le tribunal pour enfants (TPE) juge le mineur lors de 2 audiences (procédure de mise à l’épreuve) ou lors d’une audience unique",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-10-31",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1830",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Justice pénale des mineurs",
+    "Procédures devant le tribunal pour enfants (TPE)"
+  ],
+  "introduction": "En matière pénale, il existe 2 types de procédure devant le tribunal pour enfants. En principe, le mineur est jugé lors de 2 audiences différentes entre lesquelles s’applique une période de mise à l’épreuve éducative. On parle d’une procédure de mise à l’épreuve éducative. De manière exceptionnelle, le mineur est jugé lors d’une audience unique. Nous vous présentons les informations à connaitre.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de la justice pénale des mineurs : article L231-3",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039088053"
+    },
+    {
+      "titre": "Code de justice pénale des mineurs : articles L521-1 à L521-25",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000039088409/2021-09-30"
+    },
+    {
+      "titre": "Code de justice pénale des mineurs : article L423-4",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047053022"
+    },
+    {
+      "titre": "Code de justice pénale des mineurs : article L521-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039088399"
+    },
+    {
+      "titre": "Code de justice pénale des mineurs : articles L521-26 à L521-27",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000039086952/LEGISCTA000039088455/2021-09-30/#LEGISCTA000039088455"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Maison de justice et du droit",
+    "Avocat",
+    "Tribunal pour enfants"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Justice pénale des mineurs",
+      "url": "https://www.justice.gouv.fr/cjpm-outils-pratiques-fiches-techniques"
+    }
+  ],
+  "slug": "procedures-devant-le-tribunal-pour-enfants-tpe",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "justice-penale-des-mineurs",
+      "titre": "Justice pénale des mineurs"
+    }
+  ]
+}

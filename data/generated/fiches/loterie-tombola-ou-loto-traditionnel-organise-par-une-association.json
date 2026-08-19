@@ -1,0 +1,75 @@
+{
+  "id": "F21565",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Loterie, tombola ou loto traditionnel organisé par une association",
+  "theme": "Associations, fondations et fonds de dotation",
+  "description": "Une association peut organiser, sous certaines conditions, des loteries d'objets mobiliers et des lotos traditionnels.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2024-04-25",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F21565",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Associations, fondations et fonds de dotation",
+    "Activités commerciales d'une association",
+    "Loterie, tombola ou loto traditionnel organisé par une association"
+  ],
+  "introduction": "En tant qu'association, vous souhaitez savoir si vous pouvez organiser des jeux d'argent et de hasard ? En principe, en dehors de la loterie nationale et des casinos, les jeux d'argent sont interdits. Toutefois, l'organisation des loteries ou tombolas et lotos traditionnels sont autorisés aux associations sous certaines conditions. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "L'organisation de jeux d'argent et de hasard, hors respect des conditions prévues, peut entraîner une amende de 90 000 € et 3 ans de prison."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la sécurité intérieure : articles L322-1 à L322-6",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000025503132/LEGISCTA000025505714/#LEGISCTA000025507973"
+    },
+    {
+      "titre": "Code général des impôts : article 261",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042909959"
+    },
+    {
+      "titre": "Arrêté du 19 juin 1987 relatif aux loteries autorisées en application de l'article 5 de la loi du 21 mai 1836 portant prohibition de loteries",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000471931/2021-01-29/"
+    },
+    {
+      "titre": "Instruction du 15 avril 2016 sur les conditions d'intervention et le rôle des services de la DGFiP dans le contrôle de l'organisation de loteries et tombolas",
+      "url": "http://circulaire.legifrance.gouv.fr/pdf/2016/04/cir_40785.pdf"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demande d'autorisation de loterie - actes de bienfaisance – encouragement des arts – financement d'activités sportives à but non lucratif",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_11823.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Déclaration et demande d'autorisation de manifestations",
+      "url": "https://declaration-manifestations.gouv.fr/",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "Point ressource à la vie associative"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Règles applicables à l'organisation des loteries",
+      "url": "https://www.economie.gouv.fr/cedef/organisation-des-loteries"
+    }
+  ],
+  "slug": "loterie-tombola-ou-loto-traditionnel-organise-par-une-association",
+  "path": [
+    {
+      "slug": "associations-fondations-et-fonds-de-dotation",
+      "titre": "Associations, fondations et fonds de dotation"
+    },
+    {
+      "slug": "activites-commerciales-d-une-association",
+      "titre": "Activités commerciales d'une association"
+    }
+  ]
+}

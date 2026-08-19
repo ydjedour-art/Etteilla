@@ -1,0 +1,33 @@
+{
+  "id": "F34966",
+  "type_publication": "Recherche guidée",
+  "titre": "PTZ",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "PTZ",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2024-04-05",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34966",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Crédit immobilier",
+    "PTZ"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "ptz",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "credit-immobilier",
+      "titre": "Crédit immobilier"
+    }
+  ]
+}

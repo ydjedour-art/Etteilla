@@ -1,0 +1,79 @@
+{
+  "id": "F1431",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Comment contester un refus de la mairie en matière d'état civil ?",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "La mairie a l'obligation de vous communiquer certains actes d'état civil. En cas de refus de sa part, vous devez faire un recours.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-03-27",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1431",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Actes d'état civil",
+    "Comment contester un refus de la mairie en matière d'état civil ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "La mairie est obligée de vous délivrer les documents d'état civil suivants :",
+        "• Acte de naissance",
+        "• Acte de mariage",
+        "• Acte de décès",
+        "• Livret de famille en cas de mariage ou de naissance du 1er enfant.",
+        "La mairie doit également mettre à jour le livret de famille si vous lui en faites la demande.",
+        "En cas de refus injustifié de la mairie (par exemple, pour un motif discriminatoire) de vous délivrer ou de mettre à jour un acte, vous disposez de différents moyens pour obtenir le document que vous demandez :",
+        "Recours gracieux",
+        "Vous pouvez tout d’abord effectuer un recours gracieux auprès de la mairie qui a refusé de vous délivrer ou mettre à jour votre acte d’état civil.",
+        "Mairie",
+        "Recours hiérarchique",
+        "Les actes d'état civil sont établis par un officier d'état civil qui est placé sous le contrôle du procureur de la République.",
+        "Vous pouvez également vous adresser au procureur de la République dans le ressort duquel l'acte ou le registre a été établi.",
+        "Tribunal judiciaire ou tribunal de proximité",
+        "Vous pouvez lui adresser votre demande par voie postale, de préférence par RAR.",
+        "Saisir le Défenseur des droits",
+        "Vous avez également la possibilité de saisir le Défenseur des droits. Ses délégués vous aident à comprendre vos droits et vous orientent dans vos démarches.",
+        "Délégué territorial du Défenseur des droits"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Décret n°2017-890 du 6 mai 2017 relatif à l'état civil",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000034708016/"
+    },
+    {
+      "titre": "Décret n°74-449 du 15 mai 1974 relatif au livret de famille et à l'information des futurs époux sur le droit de la famille",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000328986/"
+    },
+    {
+      "titre": "Circulaire du 28 octobre 2011 portant sur divers actes de l'état civil relatifs à la naissance et à la filiation",
+      "url": "https://www.legifrance.gouv.fr/circulaire/id/34124"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Saisir en ligne le Défenseur des droits",
+      "url": "https://formulaire.defenseurdesdroits.fr/formulaire_saisine/",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "Tribunal judiciaire ou tribunal de proximité",
+    "Défenseur des droits"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "comment-contester-un-refus-de-la-mairie-en-matiere-d-etat-civil",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "actes-d-etat-civil",
+      "titre": "Actes d'état civil"
+    }
+  ]
+}

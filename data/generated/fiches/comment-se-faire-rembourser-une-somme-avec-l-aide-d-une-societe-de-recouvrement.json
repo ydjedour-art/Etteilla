@@ -1,0 +1,105 @@
+{
+  "id": "F2272",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Comment se faire rembourser une somme avec l'aide d'une société de recouvrement ?",
+  "theme": "Justice",
+  "description": "Si vous doutez que votre débiteur rembourse sa dette à la date prévue, vous pouvez charger une société de recouvrement amiable de lui réclamer.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-08-21",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2272",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Saisies et recouvrements",
+    "Comment se faire rembourser une somme avec l'aide d'une société de recouvrement ?"
+  ],
+  "introduction": "Si vous doutez que votre débiteur rembourse sa dette à la date prévue, vous pouvez charger une société de recouvrement amiable de lui réclamer cette somme pour votre compte. En contrepartie, la société de recouvrement vous facture en général une commission calculée sur la somme recouvrée.",
+  "chapitres": [
+    {
+      "titre": "Qu'est-ce qu'une société de recouvrement ?",
+      "contenu": [
+        "Une société de recouvrement est une entreprise qui se charge de réclamer le remboursement d'une somme qu’un débiteur doit à un créancier.",
+        "Elle agit pour le compte de ce créancier (entreprise ou personne), après qu’il a signé une convention avec elle.",
+        "La société de recouvrement n'a pas de moyens d'action spécifiques. Elle a le droit de réclamer la somme due par courrier, par téléphone, par mail ou en se rendant au domicile du débiteur. En cas d’interventions répétitives et malveillantes envers le débiteur, la société de recouvrement peut être sanctionnée."
+      ]
+    },
+    {
+      "titre": "Comment charger une société de recouvrement d'intervenir ?",
+      "contenu": [
+        "Pour que la société de recouvrement puisse intervenir, vous devez conclure une convention écrite avec elle.",
+        "Cette convention doit notamment indiquer les informations suivantes :",
+        "• Origine de la créance",
+        "• Montant des sommes dues par le débiteur, avec l'indication distincte des différents éléments de la créance",
+        "• Conditions de fixation de la rémunération de la société de recouvrement que vous devrez payer",
+        "• Conditions dans lesquelles la société de recouvrement vous reversera les sommes encaissées pour votre compte.",
+        "Les frais que la société de recouvrement engage pour contacter le débiteur (par exemple, frais de rédaction et d'envoi de lettre recommandée) vous sont facturés. Il ne peuvent pas être à la charge du débiteur."
+      ]
+    },
+    {
+      "titre": "Comment intervient la société de recouvrement ?",
+      "contenu": [
+        "La société de recouvrement doit tout d'abord envoyer une lettre de mise en demeure au débiteur, par courrier recommandé avec accusé de réception, ou par courrier simple. Pour être valable, cette lettre doit contenir les informations suivantes :",
+        "• Nom, adresse ou siège social de la société de recouvrement",
+        "• Information que la société de recouvrement exerce une activité de recouvrement amiable",
+        "• Votre nom, adresse ou siège social",
+        "• Origine et montant des sommes dues (montant principal, intérêts éventuels et sommes accessoires)",
+        "• Fait d'avoir à payer la somme due et les exigences de paiement de cette dette (délais, lieu ...),",
+        "• 2e et 3e paragraphes de l'article L111-8 du code des procédures civiles d'exécution.",
+        "La société de recouvrement doit rappeler au débiteur la référence et la date d'envoi de la lettre de mise en demeure lors de chacune de ses interventions suivantes. Ces interventions peuvent prendre la forme de l’envoi d’une lettre de relance par courrier simple ou courrier recommandé avec accusé de réception, ou par mail. La société de recouvrement peut aussi contacter le débiteur par téléphone ou se rendre à son domicile.",
+        "[À noter] En cas d’interventions répétitives et malveillantes, la société de recouvrement peut être sanctionnée.",
+        "La suite dépend de l’action du débiteur :",
+        "Le débiteur rembourse sa dette",
+        "Lorsque le débiteur paie sa dette en totalité, la société de recouvrement vous en informe.",
+        "Elle vous reverse les sommes reçues dans le délai inscrit dans la convention.",
+        "Si aucun délai n'est inscrit dans la convention, un délai d'un mois à partir de l'encaissement effectif du remboursement s'applique.",
+        "L'intervention de la société de recouvrement s'achève alors.",
+        "Le débiteur ne rembourse qu'une partie de sa dette",
+        "Lorsque le débiteur paie une partie de sa dette, la société de recouvrement vous en informe.",
+        "Elle vous reverse les sommes reçues dans le délai inscrit dans la convention.",
+        "Si aucun délai n'est inscrit dans la convention, un délai d'un mois à partir de l'encaissement effectif du remboursement s'applique.",
+        "L'intervention de la société de recouvrement est une procédure de recouvrement amiable, elle prend fin lorsque le délai fixé au débiteur pour payer est dépassé.",
+        "Pour obtenir le remboursement intégral de l'impayé, vous pouvez choisir :",
+        "• d'engager une autre procédure amiable (injonction de payer et procédure simplifiée),",
+        "• ou de demander notamment une hypothèque judiciaire conservatoire, une saisie conservatoire, une saisie sur compte bancaire ou une saisie sur salaire.",
+        "Le débiteur ne paie pas",
+        "L'intervention de la société de recouvrement est une procédure de recouvrement amiable, elle prend fin lorsque le délai fixé au débiteur pour payer est dépassé.",
+        "Pour obtenir le remboursement de l'impayé, vous pouvez notamment choisir de demander une hypothèque judiciaire conservatoire, une saisie conservatoire, une saisie sur compte bancaire ou une saisie sur salaire."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code des procédures civiles d'exécution : article L124-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025025711/"
+    },
+    {
+      "titre": "Code des procédures civiles d'exécution : articles R124-1 à R124-7",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000025024948/LEGISCTA000025938360/#LEGISCTA000025938360"
+    },
+    {
+      "titre": "Code des procédures civiles d'exécution : article L111-8",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028747701/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Point-justice"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Le recouvrement amiable des créances",
+      "url": "https://www.inc-conso.fr/content/le-recouvrement-amiable-des-creances"
+    }
+  ],
+  "slug": "comment-se-faire-rembourser-une-somme-avec-l-aide-d-une-societe-de-recouvrement",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "saisies-et-recouvrements",
+      "titre": "Saisies et recouvrements"
+    }
+  ]
+}

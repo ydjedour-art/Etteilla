@@ -1,0 +1,443 @@
+{
+  "id": "F2485",
+  "type_publication": "Fiche Comment faire si conditionné",
+  "titre": "Je pars vivre à l'étranger",
+  "theme": "",
+  "description": "Si vous allez vous installer à l'étranger, vous devez faire de nombreuses démarches avant votre départ et dans les mois qui suivent votre arrivée à l'étranger.",
+  "type_fiche": "Comment faire si...",
+  "date_modif": "2024-04-26",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2485",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Comment faire si",
+    "Je pars vivre à l'étranger"
+  ],
+  "introduction": "Vous êtes de nationalité française et vous partez bientôt vous installer à l'étranger ? Cet événement nécessite d’engager de nombreuses démarches avant votre départ et pendant les mois qui suivent votre arrivée à l'étranger. Nous vous présentons les démarches que vous devez accomplir, comment les faire et dans quels délais. Les règles varient selon que vous partez vous installer dans un pays de l'Espace économique européen (EEE) ou en Suisse ou dans un autre pays.",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [
+    "Ambassade ou consulat français à l'étranger"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Check-list de l’expatriation",
+      "url": "https://www.diplomatie.gouv.fr/files/files/services/demarches-a-letranger/depliant_check-list_meae_avril_2025_cle049299-1.pdf"
+    },
+    {
+      "titre": "Guide de l'expatriation : partir et revenir l'esprit tranquille",
+      "url": "https://www.diplomatie.gouv.fr/fr/services-aux-francaises-et-aux-francais/preparer-son-expatriation/preparation-d-une-expatriation/le-guide-de-l-expatriation"
+    },
+    {
+      "titre": "Guide du jeune expat",
+      "url": "https://www.diplomatie.gouv.fr/fr/services-aux-francais/preparer-son-expatriation/le-guide-de-l-expatriation/article/le-guide-du-jeune-expat"
+    },
+    {
+      "titre": "Études dans un pays de l'EEE ou en Suisse : protection sociale",
+      "url": "https://www.ameli.fr/assure/droits-demarches/europe-international/protection-sociale-etranger/etudes-etranger#text_222"
+    },
+    {
+      "titre": "Stage dans un pays de l'EEE ou en Suisse : protection sociale",
+      "url": "https://www.cleiss.fr/particuliers/partir/stage/ue-eee-suisse.html"
+    },
+    {
+      "titre": "Recherche d’emploi dans un pays de l'EEE ou en Suisse : protection sociale",
+      "url": "https://www.ameli.fr/assure/droits-demarches/europe-international/protection-sociale-etranger/recherche-emploi-etranger#text_471"
+    },
+    {
+      "titre": "Détachement vers un pays de l’EEE ou la Suisse : protection sociale",
+      "url": "https://www.ameli.fr/assure/droits-demarches/europe-international/protection-sociale-etranger/travailleur-detachement-etranger#text_99688"
+    },
+    {
+      "titre": "Expatriation dans un pays de l'EEE ou en Suisse : protection sociale",
+      "url": "https://www.ameli.fr/assure/droits-demarches/europe-international/protection-sociale-etranger/travailleur-expatriation-etranger"
+    },
+    {
+      "titre": "Retraité s'installant dans un pays de l'EEE ou en Suisse : protection sociale",
+      "url": "https://www.ameli.fr/assure/droits-demarches/europe-international/protection-sociale-etranger/retraite-etranger#text_224"
+    },
+    {
+      "titre": "Pension d'invalidité et installation dans un pays de l'EEE ou en Suisse : protection sociale",
+      "url": "https://www.ameli.fr/assure/droits-demarches/europe-international/protection-sociale-etranger/titulaires-de-pension-d-invalidite-residant-l-etranger#text_73926"
+    },
+    {
+      "titre": "Départ à l'étranger dans le cadre d'un programme vacances-travail : couverture santé",
+      "url": "https://www.cleiss.fr/particuliers/partir/pvt/index.html#maladie"
+    },
+    {
+      "titre": "Travailleur indépendant : protection sociale à l'international",
+      "url": "https://www.cleiss.fr/independants/index.php"
+    },
+    {
+      "titre": "Personne sans activité dans un pays de l'EEE (ou en Suisse) et membre de la famille d'une personne assurée du régime français au titre de son activité professionnelle : couverture santé",
+      "url": "https://www.cleiss.fr/particuliers/partir/resider/ue-eee-suisse_ayant-droit.html"
+    },
+    {
+      "titre": "Personne en congé parental et qui suit son conjoint à l'étranger : couverture santé",
+      "url": "https://www.cleiss.fr/particuliers/partir/resider/eee_conge-parental.html"
+    },
+    {
+      "titre": "Études dans un pays hors EEE-Suisse : protection sociale",
+      "url": "https://www.ameli.fr/assure/droits-demarches/europe-international/protection-sociale-etranger/etudes-etranger#text_461"
+    },
+    {
+      "titre": "Stage obligatoire dans le cadre des études effectué au Québec : couverture santé",
+      "url": "https://www.cleiss.fr/particuliers/partir/stage/quebec.html"
+    },
+    {
+      "titre": "Stage obligatoire dans le cadre des études effectué dans un pays hors UE ou Suisse ou Québec : couverture santé",
+      "url": "https://www.cleiss.fr/particuliers/partir/stage/autres.html"
+    },
+    {
+      "titre": "Vous partez étudier à l'étranger : votre protection sociale",
+      "url": "https://www.cleiss.fr/particuliers/partir/etudes/index.html"
+    },
+    {
+      "titre": "Recherche d’emploi dans un pays hors EEE-Suisse : protection sociale",
+      "url": "https://www.ameli.fr/assure/droits-demarches/europe-international/protection-sociale-etranger/recherche-emploi-etranger#text_475"
+    },
+    {
+      "titre": "Détachement vers un pays hors EEE-Suisse : protection sociale",
+      "url": "https://www.ameli.fr/assure/droits-demarches/europe-international/protection-sociale-etranger/travailleur-detachement-etranger#text_99709"
+    },
+    {
+      "titre": "Travailler à l'étranger : protection sociale",
+      "url": "https://www.cleiss.fr/particuliers/partir/travailler/index.html"
+    },
+    {
+      "titre": "Retraité s'installant dans un pays hors EEE-Suisse : protection sociale",
+      "url": "https://www.ameli.fr/assure/droits-demarches/europe-international/protection-sociale-etranger/retraite-etranger#text_448"
+    },
+    {
+      "titre": "Pension d'invalidité et installation dans un pays hors EEE-Suisse : protection sociale",
+      "url": "https://www.ameli.fr/assure/droits-demarches/europe-international/protection-sociale-etranger/titulaires-de-pension-d-invalidite-residant-l-etranger#text_73944"
+    },
+    {
+      "titre": "Je pars chercher un emploi en Europe",
+      "url": "https://www.francetravail.fr/candidat/mes-droits-aux-aides-et-allocati/lallocation-chomage-a-letranger/je-pars-chercher-un-emploi-en-eu.html"
+    },
+    {
+      "titre": "Je démissionne pour suivre mon conjoint en Europe",
+      "url": "https://www.francetravail.fr/candidat/mes-droits-aux-aides-et-allocati/lallocation-chomage-a-letranger/je-demissionne-pour-suivre-mon-c.html"
+    },
+    {
+      "titre": "Je démissionne pour suivre mon conjoint hors de l’Europe",
+      "url": "https://www.francetravail.fr/candidat/mes-droits-aux-aides-et-allocati/lallocation-chomage-a-letranger/je-demissionne-pour-suivre-mon-1.html"
+    },
+    {
+      "titre": "Bourses Erasmus+ et Aide à la mobilité internationale (AMI)",
+      "url": "https://www.etudiant.gouv.fr/fr/bourses-erasmus-et-aide-la-mobilite-internationale-ami-67"
+    },
+    {
+      "titre": "Autres bourses et autres aides pour étudier à l'étranger",
+      "url": "https://www.etudiant.gouv.fr/fr/les-autres-bourses-et-aides-pour-etudier-l-etranger-190"
+    },
+    {
+      "titre": "Bourses et aides financières pour faire un stage à l’étranger",
+      "url": "https://agence.erasmusplus.fr/2022/12/20/quelles-bourses-et-aides-financieres-pour-faire-un-stage-a-letranger/"
+    },
+    {
+      "titre": "Trouver un logement à l'étranger",
+      "url": "https://agence.erasmusplus.fr/2022/12/19/comment-trouver-un-logement-a-letranger/"
+    },
+    {
+      "titre": "Caf : je vais étudier à l'étranger",
+      "url": "https://www.caf.fr/index.php/allocataires/aides-et-demarches/ma-situation/vie-personnelle/je-vais-etudier-l-etranger"
+    },
+    {
+      "titre": "Caf : je travaille à l'étranger pour un employeur français",
+      "url": "https://www.caf.fr/index.php/allocataires/aides-et-demarches/ma-situation/vie-professionnelle/je-travaille-l-etranger-pour-un-employeur-francais"
+    },
+    {
+      "titre": "Caf : je travaille à l'étranger pour un employeur étranger",
+      "url": "https://www.caf.fr/index.php/allocataires/aides-et-demarches/ma-situation/vie-professionnelle/je-travaille-l-etranger-pour-un-employeur-etranger"
+    },
+    {
+      "titre": "Français qui s'installe dans un pays de l'EEE ou Suisse : conduire avec un permis français",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F37376/1?idFicheParent=F420#1"
+    },
+    {
+      "titre": "Vous possédez des armes en France",
+      "url": "https://www.douane.gouv.fr/particuliers/vous-demenagez/letranger/vous-possedez-des-armes-en-france"
+    },
+    {
+      "titre": "Vous faites sortir des biens culturels du territoire national",
+      "url": "https://www.douane.gouv.fr/demarche/vous-faites-sortir-des-biens-culturels-du-territoire-national"
+    },
+    {
+      "titre": "Travailler à l'étranger",
+      "url": "https://www.francetravail.fr/international/mobilite-internationale/travailler-a-letranger.html"
+    },
+    {
+      "titre": "Les entreprises de déménagements internationaux",
+      "url": "https://www.diplomatie.gouv.fr/fr/services-aux-francais/preparer-son-expatriation/douanes/article/demenagement#sommaire_4"
+    },
+    {
+      "titre": "Douane : démarches à effectuer lors du transfert de la résidence principale hors de l'Union européenne",
+      "url": "https://www.douane.gouv.fr/demarche/vous-souhaitez-connaitre-les-demarches-effectuer-lors-du-transfert-de-votre-residence"
+    },
+    {
+      "titre": "Certificat de vie",
+      "url": "https://www.lassuranceretraite.fr/portail-info/home/retraite/vivre-etranger-retraite/justifier-existence-etranger.html"
+    },
+    {
+      "titre": "Étudier à l’étranger quand on est en situation de handicap",
+      "url": "https://www.monparcourshandicap.gouv.fr/etudes-superieures/comment-etudier-letranger-avec-un-handicap"
+    },
+    {
+      "titre": "Partir vivre en Afrique du Sud",
+      "url": "https://www.diplomatie.gouv.fr/fr/services-aux-francais/preparer-son-expatriation/dossiers-pays-de-l-expatriation/afrique-du-sud/"
+    },
+    {
+      "titre": "Partir vivre en Allemagne",
+      "url": "https://www.diplomatie.gouv.fr/fr/services-aux-francais/preparer-son-expatriation/dossiers-pays-de-l-expatriation/allemagne/"
+    },
+    {
+      "titre": "Partir vivre en Andorre",
+      "url": "https://www.diplomatie.gouv.fr/fr/services-aux-francais/preparer-son-expatriation/dossiers-pays-de-l-expatriation/andorre/"
+    },
+    {
+      "titre": "Partir en Arabie Saoudite",
+      "url": "https://www.diplomatie.gouv.fr/fr/services-aux-francais/preparer-son-expatriation/dossiers-pays-de-l-expatriation/arabie-saoudite/"
+    },
+    {
+      "titre": "Partir vivre en Argentine",
+      "url": "https://www.diplomatie.gouv.fr/fr/services-aux-francais/preparer-son-expatriation/dossiers-pays-de-l-expatriation/argentine/"
+    },
+    {
+      "titre": "Partir vivre en Australie",
+      "url": "https://www.diplomatie.gouv.fr/fr/services-aux-francais/preparer-son-expatriation/dossiers-pays-de-l-expatriation/australie/"
+    },
+    {
+      "titre": "Partir vivre en Autriche",
+      "url": "https://www.diplomatie.gouv.fr/fr/services-aux-francais/preparer-son-expatriation/dossiers-pays-de-l-expatriation/autriche/"
+    },
+    {
+      "titre": "Partir vivre au Bangladesh",
+      "url": "https://www.diplomatie.gouv.fr/fr/services-aux-francais/preparer-son-expatriation/dossiers-pays-de-l-expatriation/bangladesh/"
+    },
+    {
+      "titre": "Partir vivre en Belgique",
+      "url": "https://www.diplomatie.gouv.fr/fr/services-aux-francais/preparer-son-expatriation/dossiers-pays-de-l-expatriation/belgique/"
+    },
+    {
+      "titre": "Partir vivre au Bénin",
+      "url": "https://www.diplomatie.gouv.fr/fr/services-aux-francais/preparer-son-expatriation/dossiers-pays-de-l-expatriation/benin/"
+    },
+    {
+      "titre": "Partir vivre en Birmanie",
+      "url": "https://www.diplomatie.gouv.fr/fr/services-aux-francais/preparer-son-expatriation/dossiers-pays-de-l-expatriation/birmanie/"
+    },
+    {
+      "titre": "Partir vivre au Brésil",
+      "url": "https://www.diplomatie.gouv.fr/fr/services-aux-francais/preparer-son-expatriation/dossiers-pays-de-l-expatriation/bresil/"
+    },
+    {
+      "titre": "Partir vivre en Bulgarie",
+      "url": "https://www.diplomatie.gouv.fr/fr/services-aux-francais/preparer-son-expatriation/dossiers-pays-de-l-expatriation/bulgarie/"
+    },
+    {
+      "titre": "Partir au Burkina Faso",
+      "url": "https://www.diplomatie.gouv.fr/fr/services-aux-francais/preparer-son-expatriation/dossiers-pays-de-l-expatriation/burkina-faso/"
+    },
+    {
+      "titre": "Partir au Cambodge",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/cambodge/presentation-du-cambodge"
+    },
+    {
+      "titre": "Partir au Canada",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/canada/presentation-du-canada"
+    },
+    {
+      "titre": "Partir au Chili",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/chili/presentation-du-chili"
+    },
+    {
+      "titre": "Partir en Chine",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/chine/presentation-de-la-chine"
+    },
+    {
+      "titre": "Partir en Colombie",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/colombie/presentation-de-la-colombie"
+    },
+    {
+      "titre": "Partir en Corée du Sud",
+      "url": "http://diplomatie.gouv.fr/fr/information-par-pays/coree-du-sud/presentation-de-la-coree-du-sud"
+    },
+    {
+      "titre": "Partir au Costa Rica",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/costa-rica/presentation-du-costa-rica"
+    },
+    {
+      "titre": "Partir en Côte d’Ivoire",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/cote-d-ivoire/presentation-de-la-cote-d-ivoire"
+    },
+    {
+      "titre": "Partir en Croatie",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/croatie/presentation-de-la-croatie"
+    },
+    {
+      "titre": "Partir à Cuba",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/cuba/presentation-de-cuba"
+    },
+    {
+      "titre": "Partir au Danemark",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/danemark/presentation-du-danemark"
+    },
+    {
+      "titre": "Partir en Égypte",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/egypte/presentation-de-l-egypte"
+    },
+    {
+      "titre": "Partir en Espagne",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/espagne/presentation-de-l-espagne"
+    },
+    {
+      "titre": "Partir aux États-Unis",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/etats-unis/presentation-des-etats-unis"
+    },
+    {
+      "titre": "Partir en Finlande",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/finlande/presentation-de-la-finlande"
+    },
+    {
+      "titre": "Partir au Gabon",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/gabon/presentation-du-gabon"
+    },
+    {
+      "titre": "Partir en Grèce",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/grece/presentation-de-la-grece"
+    },
+    {
+      "titre": "Partir en Guinée",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/guinee/presentation-de-la-guinee"
+    },
+    {
+      "titre": "Partir en Indonésie",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/indonesie/presentation-de-l-indonesie"
+    },
+    {
+      "titre": "Partir en Irlande",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/irlande/presentation-de-l-irlande"
+    },
+    {
+      "titre": "Partir en Israël",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/israel-palestine/presentation-d-israel"
+    },
+    {
+      "titre": "Partir en Italie",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/italie/presentation-de-l-italie"
+    },
+    {
+      "titre": "Partir au Japon",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/japon/presentation-du-japon"
+    },
+    {
+      "titre": "Partir en Lettonie",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/lettonie/presentation-de-la-lettonie"
+    },
+    {
+      "titre": "Partir au Luxembourg",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/luxembourg/presentation-du-luxembourg"
+    },
+    {
+      "titre": "Partir au Maroc",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/maroc/presentation-du-maroc"
+    },
+    {
+      "titre": "Partir à l'Île Maurice",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/maurice/presentation-de-maurice"
+    },
+    {
+      "titre": "Partir au Mexique",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/mexique/presentation-du-mexique"
+    },
+    {
+      "titre": "Partir en Moldavie",
+      "url": "https://www.diplomatie.gouv.fr/fr/services-aux-francais/preparer-son-expatriation/dossiers-pays-de-l-expatriation/moldavie/"
+    },
+    {
+      "titre": "Partir en Norvège",
+      "url": "https://www.diplomatie.gouv.fr/fr/services-aux-francais/preparer-son-expatriation/dossiers-pays-de-l-expatriation/norvege/"
+    },
+    {
+      "titre": "Partir en Nouvelle-Zélande",
+      "url": "https://www.diplomatie.gouv.fr/fr/services-aux-francais/preparer-son-expatriation/dossiers-pays-de-l-expatriation/nouvelle-zelande/"
+    },
+    {
+      "titre": "Partir en Ouzbékistan",
+      "url": "https://www.diplomatie.gouv.fr/fr/services-aux-francais/preparer-son-expatriation/dossiers-pays-de-l-expatriation/ouzbekistan/"
+    },
+    {
+      "titre": "Partir aux Pays-Bas",
+      "url": "https://www.diplomatie.gouv.fr/fr/services-aux-francais/preparer-son-expatriation/dossiers-pays-de-l-expatriation/pays-bas/"
+    },
+    {
+      "titre": "Partir aux Philippines",
+      "url": "https://www.diplomatie.gouv.fr/fr/services-aux-francais/preparer-son-expatriation/dossiers-pays-de-l-expatriation/philippines/"
+    },
+    {
+      "titre": "Partir en Pologne",
+      "url": "https://www.diplomatie.gouv.fr/fr/services-aux-francais/preparer-son-expatriation/dossiers-pays-de-l-expatriation/pologne/"
+    },
+    {
+      "titre": "Partir au Portugal",
+      "url": "https://www.diplomatie.gouv.fr/fr/services-aux-francais/preparer-son-expatriation/dossiers-pays-de-l-expatriation/portugal/"
+    },
+    {
+      "titre": "Partir au Royaume-Uni",
+      "url": "https://uk.ambafrance.org/-Votre-vie-au-Royaume-uni-"
+    },
+    {
+      "titre": "Partir au Sénégal",
+      "url": "https://www.diplomatie.gouv.fr/fr/services-aux-francais/preparer-son-expatriation/dossiers-pays-de-l-expatriation/senegal/"
+    },
+    {
+      "titre": "Partir à Singapour",
+      "url": "https://www.diplomatie.gouv.fr/fr/services-aux-francais/preparer-son-expatriation/dossiers-pays-de-l-expatriation/singapour/"
+    },
+    {
+      "titre": "Partir au Sri Lanka",
+      "url": "https://www.diplomatie.gouv.fr/fr/services-aux-francais/preparer-son-expatriation/dossiers-pays-de-l-expatriation/sri-lanka/"
+    },
+    {
+      "titre": "Partir en Suède",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/suede/presentation-de-la-suede"
+    },
+    {
+      "titre": "Partir en Suisse",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/suisse/presentation-de-la-suisse"
+    },
+    {
+      "titre": "Partir en Thaïlande",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/thailande/presentation-de-la-thailande"
+    },
+    {
+      "titre": "Partir au Togo",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/togo/presentation-du-togo"
+    },
+    {
+      "titre": "Partir en Tunisie",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/tunisie/presentation-de-la-tunisie"
+    },
+    {
+      "titre": "Partir en Turquie",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/turquie/presentation-de-la-turquie"
+    },
+    {
+      "titre": "Partir en Uruguay",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/uruguay/presentation-de-l-uruguay"
+    },
+    {
+      "titre": "Partir au Venezuela",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/venezuela/presentation-du-venezuela"
+    }
+  ],
+  "slug": "je-pars-vivre-a-l-etranger",
+  "path": [
+    {
+      "slug": "comment-faire-si",
+      "titre": "Comment faire si"
+    }
+  ]
+}

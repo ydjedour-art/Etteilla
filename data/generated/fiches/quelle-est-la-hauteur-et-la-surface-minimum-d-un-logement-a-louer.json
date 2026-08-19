@@ -1,0 +1,49 @@
+{
+  "id": "F34905",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quelle est la hauteur et la surface minimum d'un logement à louer ?",
+  "theme": "Logement",
+  "description": "Lorsqu'il est loué pour servir de résidence principale au locataire, le logement doit avoir une surface et une hauteur sous plafond minimum. La surface minimum diffère selon qu'il s'agit d'un logement en location ou en colocation. Si cette obligation n'est pas respectée, le propriétaire a interdiction de louer le logement. Nous vous expliquons.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-03-21",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34905",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Bail d’habitation : obligations du propriétaire (bailleur)",
+    "Quelle est la hauteur et la surface minimum d'un logement à louer ?"
+  ],
+  "introduction": "Lorsqu'il est loué pour servir de résidence principale au locataire, le logement doit avoir une surface et une hauteur sous plafond minimum. La surface minimum diffère selon qu'il s'agit d'un logement en location ou en colocation. Si cette obligation n'est pas respectée, le propriétaire a interdiction de louer le logement. Nous vous expliquons.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Décret n°2002-120 du 30 janvier 2002 relatif aux caractéristiques du logement décent",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000217471/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Caractéristiques du logement décent",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000217471/"
+    },
+    {
+      "titre": "Habitat indigne (insalubre, péril, ...) : quel recours ?",
+      "url": "https://www.anil.org/habitat-indigne/"
+    }
+  ],
+  "slug": "quelle-est-la-hauteur-et-la-surface-minimum-d-un-logement-a-louer",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "bail-d-habitation-obligations-du-proprietaire-bailleur",
+      "titre": "Bail d’habitation : obligations du propriétaire (bailleur)"
+    }
+  ]
+}

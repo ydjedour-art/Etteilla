@@ -1,0 +1,78 @@
+{
+  "id": "F31531",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Qui est prioritaire pour acheter un bien dans un immeuble en copropriété ?",
+  "theme": "Logement",
+  "description": "Tout dépend si la vente concerne un logement ou une place de parking.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-06-17",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31531",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Budget et charges de copropriété",
+    "Qui est prioritaire pour acheter un bien dans un immeuble en copropriété ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les règles applicables varient selon qu’il s’agit de la vente d'un logement ou d'une place de parking :",
+        "Vente d'un logement",
+        "En dehors de la vente d’un bien situé dans une zone de préemption, les règles applicables varient selon que le logement mis en vente est loué ou libre de toute occupation :",
+        "Logement loué",
+        "Il est possible de vendre le bien vide ou occupé par votre locataire.",
+        "Vente du logement vide",
+        "Si vous voulez vendre votre logement vide, vous devez donner congé pour vendre à votre locataire.",
+        "Ce congé lui donne droit à une priorité, appelé droit de préemption, sur l'achat du logement par rapport à d'autres acquéreurs potentiels. Le congé doit préciser le prix et les conditions de la vente.",
+        "Ce congé vaut ainsi offre de vente à votre locataire. Cette offre est valable pendant les 2 premiers mois du délai de préavis. En l'absence de réponse ou d'un refus de votre locataire, vous êtes libre de proposer votre logement à une autre personne.",
+        "En revanche, si vous décidez de baisser le prix de vente de votre logement, vous devez en informer le locataire directement ou par l'intermédiaire de votre notaire. Votre locataire redevient alors prioritaire pour acheter le logement pendant 1 mois.",
+        "[À noter] Le locataire ne peut pas bénéficier du droit de préemption en cas de congé pour vendre dans 3 cas : • La vente concerne un logement meublé • La vente a lieu au profit direct d'un parent jusqu'au 3e degrés inclus, l'acquéreur devant occuper le logement pendant une durée minimum de 2 ans à partir de l'expiration du délai de préavis • La vente porte sur un immeuble faisant l'objet d'une interdiction d'habiter, d'un arrêté de péril ou d'une déclaration d'insalubrité.",
+        "Vente du logement occupé par le locataire",
+        "Si vous voulez vendre votre logement occupé par le locataire, vous n'avez aucune obligation de lui proposer d'acheter le bien.",
+        "En effet, son bail se poursuit avec le nouveau propriétaire.",
+        "Le locataire ne dispose donc pas d'un droit de préemption. Mais il y a une exception : si le logement vient d'être mis en copropriété et qu'il s'agit d'une 1re vente.",
+        "[À savoir] L’acte de vente mentionnera que le bien est vendu occupé par un locataire.",
+        "Le logement n'est pas loué",
+        "Vous pouvez vendre votre logement librement à condition que le règlement de copropriété ne prévoit pas de clauses restrictives justifiées par la destination de l'immeuble. Par exemple, il peut être interdit de vendre certains lots de copropriété séparément (vente d'une chambre de services indépendamment du lot principal).",
+        "Vente d'une place de parking",
+        "En principe, vous pouvez vendre votre place de parking à qui vous le souhaitez.",
+        "Toutefois, dans certains immeubles, le règlement de copropriété peut prévoir un droit de priorité, également appelé droit de préférence, aux copropriétaires en cas de vente d'un lot exclusivement à usage de stationnement dans la copropriété.",
+        "Dans ce cas, vous devez prévenir le syndic de copropriété de votre intention de vendre votre place de parking, par lettre recommandée avec avis de réception. Votre lettre doit indiquer le prix de vente et les conditions de la vente.",
+        "Le syndic doit transmettre sans délai l'information à chaque copropriétaire par lettre recommandée avec avis de réception, à vos frais. Les copropriétaires ont 2 mois à partir de la réception du courrier pour donner leur réponse.",
+        "Si aucun copropriétaire ne souhaite acheter votre place de parking, vous pouvez la vendre à qui vous le souhaitez."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 15",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000047900030"
+    },
+    {
+      "titre": "Loi n°65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis : article 8-1",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000020448383"
+    },
+    {
+      "titre": "Loi n°75-1351 du 31 décembre 1975 relative à la protection des occupants de locaux à usage d'habitation : article 10-1",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000041587293/2022-08-02/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "France Services / Maison de services au public"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "qui-est-prioritaire-pour-acheter-un-bien-dans-un-immeuble-en-copropriete",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "budget-et-charges-de-copropriete",
+      "titre": "Budget et charges de copropriété"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "F295",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Nationalité française d'un enfant né en France de parents étrangers",
+  "theme": "Étranger - Europe",
+  "description": "Vous êtes parents étrangers d'un enfant né en France ? Si vous résidez en France, votre enfant peut obtenir la nationalité française. Nous vous indiquons les conditions à remplir et comment faire la demande selon l'âge de votre enfant.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-08-19",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F295",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Nationalité française",
+    "Nationalité française d'un enfant né en France de parents étrangers"
+  ],
+  "introduction": "Vous êtes parents étrangers d'un enfant né en France ? Si vous résidez en France, votre enfant peut obtenir la nationalité française. Nous vous indiquons les conditions à remplir et comment faire la demande selon l'âge de votre enfant.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code civil : articles 17 à 17-12",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006136064/"
+    },
+    {
+      "titre": "Code civil : articles 21-7 à 21-11",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165743"
+    },
+    {
+      "titre": "Code civil : articles 26 à 26-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006149961"
+    },
+    {
+      "titre": "Décret n°93-1362 du 30 décembre 1993 relatif aux déclarations de nationalité, aux décisions de naturalisation, de réintégration, de perte, de déchéance et de retrait de la nationalité française",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000699753"
+    },
+    {
+      "titre": "Circulaire du 29 septembre 2023 relative au contentieux de la nationalité",
+      "url": "https://www.justice.gouv.fr/documentation/bulletin-officiel/circulaire-relative-aux-contentieux-matiere-nationalite-integrant-laction"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Maison de justice et du droit"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Justificatifs de la régularité du séjour d'un parent de nationalité étrangère d'un enfant né à Mayotte",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000038190466/2025-08-14/"
+    }
+  ],
+  "slug": "nationalite-francaise-d-un-enfant-ne-en-france-de-parents-etrangers",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "nationalite-francaise",
+      "titre": "Nationalité française"
+    }
+  ]
+}

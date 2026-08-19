@@ -1,0 +1,33 @@
+{
+  "id": "F35534",
+  "type_publication": "Recherche guidée",
+  "titre": "Demande d'asile",
+  "theme": "Étranger - Europe",
+  "description": "Demande d'asile",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2024-07-03",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35534",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Demande d'asile (réfugié, protection subsidiaire, apatride)",
+    "Demande d'asile"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "demande-d-asile-f35534",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "demande-d-asile-refugie-protection-subsidiaire-apatride",
+      "titre": "Demande d'asile (réfugié, protection subsidiaire, apatride)"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "F14807",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Demande de carte d'identité ou de passeport : quel justificatif de domicile présenter ?",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Pour demander une carte d'identité ou un passeport en France, il faut fournir un justificatif de domicile récent de moins d'un an.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-05-19",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F14807",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Carte d'identité",
+    "Demande de carte d'identité ou de passeport : quel justificatif de domicile présenter ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les règles varient selon le lieu où vous faites la demande de carte d'identité ou de passeport :"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : articles 102 à 111",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006117683/"
+    },
+    {
+      "titre": "Code des relations entre le public et l'administration : articles R113-5 à R113-9",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000031366350/LEGISCTA000031370017/"
+    },
+    {
+      "titre": "Décret n°55-1397 du 22 octobre 1955 relatif à la carte d'identité : article 2 - Domicile",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000035977535"
+    },
+    {
+      "titre": "Décret n°2005-1726 du 30 décembre 2005 relatif au passeport : article 6 - Domicile",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000035977648"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : articles D264-1 à D264-15",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074069/LEGISCTA000006160904/#LEGISCTA000006160904"
+    },
+    {
+      "titre": "Circulaire du 23 octobre 2012 relative à la demande et à la délivrance de la carte nationale d’identité aux personnes détenues",
+      "url": "https://www.legifrance.gouv.fr/circulaire/id/36000?page=2&pageSize=100&query=la+tierce+detention&searchField=ALL&searchType=ALL&tab_selection=all&typePagination=DEFAULT"
+    },
+    {
+      "titre": "Arrêté du 27 septembre 2013 relatif à la sécurisation des pièces justificatives de domicile au moyen d'un dispositif électronique pour garantir son authenticité",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000028090286/"
+    },
+    {
+      "titre": "Arrêté du 4 février 2019 fixant la liste des fournisseurs qui communiquent à l'administration les informations permettant de vérifier le domicile",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000038114929"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Point d'accueil numérique",
+    "Ambassade ou consulat français à l'étranger"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Justif'adresse",
+      "url": "https://passeport.ants.gouv.fr/aide-et-contact/justif-adresse"
+    }
+  ],
+  "slug": "demande-de-carte-d-identite-ou-de-passeport-quel-justificatif-de-domicile-presenter",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "carte-d-identite",
+      "titre": "Carte d'identité"
+    }
+  ]
+}

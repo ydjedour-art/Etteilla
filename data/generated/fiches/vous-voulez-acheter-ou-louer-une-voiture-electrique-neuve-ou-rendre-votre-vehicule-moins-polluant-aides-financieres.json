@@ -1,0 +1,46 @@
+{
+  "id": "F38576",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Vous voulez acheter ou louer une voiture électrique neuve ou rendre votre véhicule moins polluant : aides financières",
+  "theme": "Social - Santé",
+  "description": "Si vous achetez une voiture neuve peu polluante ou si vous transformez le moteur thermique de votre véhicule, vous pouvez bénéficier d'une aide financière.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-03-30",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F38576",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Aides financières",
+    "Vous voulez acheter ou louer une voiture électrique neuve ou rendre votre véhicule moins polluant : aides financières"
+  ],
+  "introduction": "Si vous voulez acheter (ou louer) une voiture électrique neuve ou si vous transformez le moteur thermique de votre véhicule en moteur électrique ou hybride rechargeable, vous pouvez bénéficier d'une aide.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Coup de pouce véhicules particuliers électriques",
+        "Si vous souhaitez acheter (ou louez dans le cadre d'un contrat d'une durée d'au moins 2 ans) un véhicule électrique de catégorie M1, vous pouvez bénéficier sous certaines conditions d'une aide financière appelée « Coup de pouce véhicules particuliers électriques ».",
+        "Vous percevez une prime complémentaire si le véhicule est assemblé en Europe et doté d’une batterie européenne.",
+        "Leasing social",
+        "Si vous souhaitez louer un véhicule électrique de catégorie M1 (genre voiture particulière) et que vos revenus sont inférieurs à un certain montant, vous pouvez bénéficier d’une aide financière appelée « leasing social ».",
+        "Prime au rétrofit",
+        "Si vous transformez le moteur thermique de votre véhicule en moteur électrique ou hybride rechargeable, vous pouvez bénéficier sous conditions de la prime au rétrofit. Plusieurs conditions sont à respecter. Le montant de la prime varie selon vos revenus et le type de véhicule : voiture, camionnette, 2,3 roues ou quadricycle à moteur."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "vous-voulez-acheter-ou-louer-une-voiture-electrique-neuve-ou-rendre-votre-vehicule-moins-polluant-aides-financieres",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "aides-financieres",
+      "titre": "Aides financières"
+    }
+  ]
+}

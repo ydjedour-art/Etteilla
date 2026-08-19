@@ -1,0 +1,181 @@
+{
+  "id": "F31130",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Qui doit payer la contribution exceptionnelle sur les hauts revenus ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "La contribution exceptionnelle sur les hauts revenus s'ajoute à l'impôt sur le revenu des personnes percevant des revenus élevés.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-04-15",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31130",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Impôt sur le revenu : déclaration et revenus à déclarer",
+    "Qui doit payer la contribution exceptionnelle sur les hauts revenus ?"
+  ],
+  "introduction": "La contribution exceptionnelle sur les hauts revenus s'ajoute à l'impôt sur le revenu des personnes percevant des revenus élevés.",
+  "chapitres": [
+    {
+      "titre": "Qui est concerné par la contribution exceptionnelle sur les hauts revenus ?",
+      "contenu": [
+        "La contribution exceptionnelle s'ajoute à l'impôt sur le revenu.",
+        "Elle concerne les contribuables qui perçoivent de hauts revenus.",
+        "Vous devez la payer si votre foyer fiscal est soumis à l'impôt sur le revenu et que votre revenu fiscal de référence (RFR) dépasse l'un des montants suivants :",
+        "• 250 000 € si vous êtes célibataire, veuf, séparé ou divorcé",
+        "• 500 000 € si vous êtes marié ou pacsé, soumis à imposition commune.",
+        "[À noter] Ces seuils d'imposition n'augmentent pas si vous avez une ou plusieurs personnes à charge."
+      ]
+    },
+    {
+      "titre": "Quel est le taux de la contribution exceptionnelle sur les hauts revenus ?",
+      "contenu": [
+        "Le taux de la contribution exceptionnelle dépend de votre situation.",
+        "Contribution exceptionnelle sur les hauts revenus : taux applicable selon le revenu fiscal de référence et la situation de famille",
+        "Fraction de revenu fiscal de référence",
+        "Taux pour une personne seule",
+        "Taux pour un couple soumis à imposition commune",
+        "Jusqu'à 250 000 €",
+        "0 %",
+        "0 %",
+        "Entre 250 001 € et 500 000 €",
+        "3 %",
+        "0 %",
+        "Entre 500 001 € et 1 000 000 €",
+        "4 %",
+        "3 %",
+        "Plus de 1 000 000 €",
+        "4 %",
+        "4 %",
+        "[Exemple] Pour un célibataire disposant d'un revenu fiscal de référence de 400 000 €, la contribution exceptionnelle est de : (400 000 € - 250 000 €) x 3 % = 4 500 €.",
+        "[Exemple] Pour un célibataire disposant d'un revenu fiscal de référence de 550 000 €, la contribution exceptionnelle est de : [(500 000 € - 250 000 €) x 3 %] + [(550 000 € - 500 000 €) x 4 %] = 9 500 €.",
+        "Le montant de la contribution exceptionnelle sur les hauts revenus est indiqué sur l'avis d'impôt sur le revenu."
+      ]
+    },
+    {
+      "titre": "L'imposition à la contribution exceptionnelle sur les hauts revenus peut-elle être atténuée ?",
+      "contenu": [
+        "Un système de lissage (aussi appelé mécanisme du quotient) peut s'appliquer pour atténuer votre imposition.",
+        "Vous devez bénéficier de revenus considérés comme exceptionnels en raison de leur montant.",
+        "Pour en bénéficier, vous devez adresser votre demande à votre centre des finances publiques.",
+        "Service en charge des impôts (trésorerie, service des impôts...)",
+        "En cas de modification de votre situation de famille (Pacs, mariage, séparation, divorce ou décès), des règles particulières s'appliquent."
+      ]
+    },
+    {
+      "titre": "Qu'est-ce que la contribution différentielle sur les hauts revenus ?",
+      "contenu": [
+        "C'est une contribution supplémentaire qui s'applique à certains contribuables domiciliés fiscalement en France.",
+        "Cette contribution doit s’appliquer jusqu’à l'imposition des revenus de l’année pour laquelle sera constaté un déficit du budget national inférieur à 3 % du produit intérieur brut (PIB).",
+        "La contribution différentielle vise à assurer une imposition minimale de 20 % des plus hauts revenus.",
+        "Elle s'applique pour l'imposition des revenus de 2025 et de 2026 :",
+        "2025",
+        "Vous êtes concerné par la contribution différentielle sur les hauts revenus si votre revenu fiscal de référence (RFR) dépasse l'un des montants suivants :",
+        "• 250 000 € si vous êtes célibataire, veuf, séparé ou divorcé",
+        "• 500 000 € si vous êtes marié ou pacsé, soumis à imposition commune.",
+        "[Complement] Vous êtes soumis à la contribution différentielle si votre taux moyen d'imposition est inférieur à 20 %. La contribution différentielle est calculée à partir de éléments suivants : • 20 % du revenu fiscal de référence ajusté • Montant résultant du total de l’impôt sur le revenu, de la contribution exceptionnelle sur les hauts revenus et des prélèvements libératoires sur l’impôt sur le revenu, majoré de 1 500 € par personne à charge et de 12 500 € pour les contribuables soumis à imposition commune. La contribution est égale à la différence entre ces 2 montants. [À noter] L'aide d'un professionnel, par exemple un expert-comptable, peut s'avérer nécessaire pour le calcul de l'acompte.",
+        "Pour vérifier si vous êtes concerné par la contribution différentielle sur les hauts revenus (CDHR), vous pouvez utiliser un simulateur :",
+        "Vérifier si l’on est concerné par la contribution différentielle sur les hauts revenus (revenus 2025)",
+        "Le simulateur vous permet de calculer le montant de la contribution à partir de l’estimation de vos revenus de 2025.",
+        "La contribution différentielle due pour l’année 2025 a donné lieu au versement d’un acompte en décembre 2025.",
+        "L’acompte est égal à 95 % du montant de la contribution estimé par le contribuable.",
+        "L’acompte versé figurera sur l'avis d'imposition émis à l'été 2026, à la suite de la déclaration des revenus de 2025 (au printemps 2026).",
+        "Si l'acompte versé est supérieur à la contribution finalement due, l'excédent est restitué.",
+        "Si le montant est inférieur, vous devrez payer le complément avec le solde de votre impôt sur le revenu 2025.",
+        "[À noter] En cas de paiement tardif ou insuffisant, une pénalité de 20 % est prévue.",
+        "2026",
+        "Vous êtes concerné par la contribution différentielle sur les hauts revenus si votre revenu fiscal de référence (RFR) dépasse l'un des montants suivants :",
+        "• 250 000 € si vous êtes célibataire, veuf, séparé ou divorcé",
+        "• 500 000 € si vous êtes marié ou pacsé, soumis à imposition commune.",
+        "[Complement] Vous êtes soumis à la contribution différentielle si votre taux moyen d'imposition est inférieur à 20 %. La contribution différentielle est calculée à partir de éléments suivants : • 20 % du revenu fiscal de référence ajusté • Montant résultant du total de l’impôt sur le revenu, de la contribution exceptionnelle sur les hauts revenus et des prélèvements libératoires sur l’impôt sur le revenu, majoré de 1 500 € par personne à charge et de 12 500 € pour les contribuables soumis à imposition commune. La contribution est égale à la différence entre ces 2 montants. [À noter] L'aide d'un professionnel, par exemple un expert-comptable, peut s'avérer nécessaire pour le calcul de l'acompte.",
+        "Vous devez effectuer votre déclaration entre le 1er décembre et le 15 décembre 2026 dans votre espace en ligne :",
+        "Impôts : accéder à votre espace Finances publiques",
+        "Connexion avec l’identifiant fiscal du contribuable ou via FranceConnect. Ensuite, double authentification avec réception d’un code à 6 chiffres par mail.",
+        "La contribution différentielle due pour l’année 2026 donne lieu au versement d’un acompte.",
+        "L’acompte est égal à 95 % du montant de la contribution estimé par le contribuable.",
+        "Il doit être versé entre le 1er et le 15 décembre 2026.",
+        "L’acompte versé figurera sur l'avis d'imposition émis à l'été 2027, à la suite de la déclaration des revenus de 2026 (au printemps 2027).",
+        "Si l'acompte versé est supérieur à la contribution finalement due, l'excédent sera restitué.",
+        "Si le montant est inférieur, vous devrez payer le complément avec le solde de votre impôt sur le revenu 2026.",
+        "[À noter] En cas de paiement tardif ou insuffisant, une pénalité de 20 % est prévue."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général des impôts : article 223 sexies",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000025049019/"
+    },
+    {
+      "titre": "Loi n° 2025-127 du 14 février 2025 de finances pour 2025",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000051168007/"
+    },
+    {
+      "titre": "Loi n° 2026-103 du 19 février 2026 de finances pour 2026",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053508155"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-IR-CHR-20170711 relatif à la contribution exceptionnelle sur les hauts revenus",
+      "url": "http://bofip.impots.gouv.fr/bofip/7804-PGP"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Impôts : accéder à votre espace Finances publiques",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Estimer le montant de son impôt sur les revenus de 2025 (déclaration de 2026)",
+      "url": "https://simulateur-ir-ifi.impots.gouv.fr/calcul_impot/2026/",
+      "type": "simulateurNG"
+    },
+    {
+      "titre": "Déclarer vos revenus en ligne",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Accéder au service de paiement de l’impôt en ligne",
+      "url": "https://www.telepaiement.dgfip.finances.gouv.fr/stl/satelit.web?templatename=accueilcharpente&contexteinitial=2",
+      "type": "selNG"
+    },
+    {
+      "titre": "Déclaration 2026 des revenus 2025 (papier)",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/2042/declaration-des-revenus",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Service d'information des impôts",
+    "Service en charge des impôts (trésorerie, service des impôts...)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Site des impôts",
+      "url": "https://www.impots.gouv.fr/portail/"
+    },
+    {
+      "titre": "Brochure pratique 2026 - Déclaration des revenus de 2025",
+      "url": "https://www.impots.gouv.fr/www2/fichiers/documentation/brochure/ir_2026/accueil.htm"
+    },
+    {
+      "titre": "Impôt sur le revenu : dépliants d'information",
+      "url": "https://www.impots.gouv.fr/brochures-et-depliants"
+    },
+    {
+      "titre": "Contribution différentielle sur les hauts revenus (CDHR)",
+      "url": "https://www.impots.gouv.fr/actualite/contribution-differentielle-sur-les-hauts-revenus-cdhr"
+    }
+  ],
+  "slug": "qui-doit-payer-la-contribution-exceptionnelle-sur-les-hauts-revenus",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "impot-sur-le-revenu-declaration-et-revenus-a-declarer",
+      "titre": "Impôt sur le revenu : déclaration et revenus à déclarer"
+    }
+  ]
+}

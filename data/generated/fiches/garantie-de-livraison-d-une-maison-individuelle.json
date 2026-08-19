@@ -1,0 +1,105 @@
+{
+  "id": "F34253",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Garantie de livraison d'une maison individuelle",
+  "theme": "Logement",
+  "description": "La garantie de livraison est une assurance contre les risques d’inexécution des travaux inclue dans le contrat de construction de maison individuelle (CCMI).",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-12-12",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34253",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Travaux",
+    "Garantie de livraison d'une maison individuelle"
+  ],
+  "introduction": "Vous faites construire votre maison et vous avez signé un contrat de construction de maison individuelle (CCMI) avec ou sans fourniture de plan ? Si les travaux ne sont pas réalisés dans les délais prévus ou en cas de malfaçon, vous pouvez bénéficier de la garantie de livraison. Il s’agit d’une assurance spécifique au CCMI. Voici les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Qu'est-ce que la garantie de livraison d'une maison individuelle ?",
+      "contenu": [
+        "La garantie de livraison est une assurance. Elle vous couvre (en tant que maître d'ouvrage) si les travaux ne sont pas réalisés à prix et délais convenus dans votre CCMI ou en cas de malfaçon.",
+        "Elle est constituée par une caution solidaire donnée par une banque, une société de financement ou une entreprise d'assurance agréée à cet effet."
+      ]
+    },
+    {
+      "titre": "Qui doit souscrire la garantie de livraison d’une maison individuelle ?",
+      "contenu": [
+        "La garantie de livraison est obligatoirement souscrite par le constructeur. Une attestation de garantie de livraison est annexée à votre CCMI."
+      ]
+    },
+    {
+      "titre": "Quels sont les risques couverts par la garantie de livraison d'une maison individuelle ?",
+      "contenu": [
+        "La garantie de livraison prend en charge les risques suivants :",
+        "• Inexécution ou mauvaise exécution des travaux prévus au contrat",
+        "• Inexécution ou mauvaise exécution dans la fabrication, la pose et l'assemblage d'éléments préfabriqués",
+        "• Coût des dépassements du prix convenu s'ils sont nécessaires à l'achèvement de la construction",
+        "• Actions imputables au constructeur ayant abouti à un paiement anticipé ou à un supplément de prix",
+        "• Pénalités forfaitaires prévues au contrat en cas de retard de livraison de plus de 30 jours calendaires (les indemnités sont calculées et dues à partir du 1er jour de retard)."
+      ]
+    },
+    {
+      "titre": "Quelle est la durée de la garantie de livraison d’une maison individuelle ?",
+      "contenu": [
+        "La couverture de la garantie de livraison débute à compter de la date d'ouverture du chantier.",
+        "La garantie prend fin à la réception des travaux constatée par écrit. Si nécessaire, elle se poursuit jusqu’à la fin du délai de 8 jours qui suit la remise des clefs pour dénoncer les vices apparents.",
+        "Si des défauts de conformité au contrat de construction ou des malfaçons on été signalés, la garantie prend fin à la levée de ces réserves, c’est-à-dire quand elles sont corrigées."
+      ]
+    },
+    {
+      "titre": "Comment mettre en œuvre la garantie de livraison d'une maison individuelle ?",
+      "contenu": [
+        "Vous pouvez mettre en œuvre la garantie de livraison dès que vous constatez que le délai de livraison n'est pas respecté ou que les travaux nécessaires à la levée des réserves (malfaçons et défaut de conformité) ne sont pas réalisés. La mise en oeuvre de la garantie de livraison est encadrée. Vous devez respecter les étapes suivantes :",
+        "Mettre en demeure le constructeur de terminer les travaux",
+        "Si la construction de votre maison n'est pas terminée dans les délais fixés par le contrat ou si elle est mal exécutée, vous devez mettre en demeure le constructeur de respecter ses obligations, par courrier RAR.",
+        "Vous lui demandez de terminer les travaux et de vous verser les pénalités de retard prévues dans le contrat.",
+        "Un modèle de lettre est disponible :",
+        "Modèle de courrier pour mettre en demeure le constructeur de terminer sa maison",
+        "Faire intervenir le garant du constructeur",
+        "Si le constructeur ne réagit pas à votre mise en demeure, vous devez contacter son garant. Ses coordonnées figurent sur l'attestation de la garantie de livraison annexée à votre CCMI.",
+        "Un modèle de lettre est disponible :",
+        "Modèle de courrier pour mettre en œuvre la garantie de livraison",
+        "Le garant met en demeure le constructeur soit de terminer les travaux, soit de livrer la maison.",
+        "Si le constructeur ne réagit pas dans un délai de 15 jours calendaires suivant cette mise en demeure, le garant désigne la personne qui terminera les travaux.",
+        "Si votre maison a atteint le stade du hors d'eau (ouvrages de couverture et d'étanchéité achevés), le garant peut faire appel à une entreprise qui se chargera de terminer les travaux. Dans ce cas, avec votre accord, il verse directement à cette entreprise les sommes dont il est redevable."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la construction et de l'habitation : article L231-6",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038433486"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Modèle de courrier pour mettre en demeure le constructeur de terminer sa maison",
+      "url": "https://www.inc-conso.fr/content/votre-maison-nest-pas-terminee-dans-les-delais-fixes-par-le-contrat-vous-mettez-en-demeure",
+      "type": "lettreTypeNG"
+    },
+    {
+      "titre": "Modèle de courrier pour mettre en œuvre la garantie de livraison",
+      "url": "https://www.inc-conso.fr/content/votre-maison-nest-pas-terminee-vous-vous-retournez-contre-le-garant-du-constructeur",
+      "type": "lettreTypeNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Assurance construction",
+      "url": "https://www.abe-infoservice.fr/page-sommaire/assurance-construction"
+    }
+  ],
+  "slug": "garantie-de-livraison-d-une-maison-individuelle",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "travaux",
+      "titre": "Travaux"
+    }
+  ]
+}

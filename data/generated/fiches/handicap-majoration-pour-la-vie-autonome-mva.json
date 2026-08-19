@@ -1,0 +1,133 @@
+{
+  "id": "F12903",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Handicap : majoration pour la vie autonome (MVA)",
+  "theme": "Social - Santé",
+  "description": "La MVA est une aide financière accordée aux personnes qui perçoivent l'AAH ou l'Asi pour faire face aux dépenses courantes d'entretien de son logement.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-22",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F12903",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Handicap : allocations (AAH, AEEH, ...) et aides",
+    "Handicap : majoration pour la vie autonome (MVA)"
+  ],
+  "introduction": "Vous percevez l'allocation aux adultes handicapés (AAH) ou l'allocation supplémentaire d'invalidité (Asi) ? Vous pouvez obtenir la majoration pour la vie autonome (MVA). Cette aide permet de faire face aux dépenses du quotidien (par exemple, courses, factures) lorsque vous vivez dans un logement indépendant. Nous faisons le point sur la réglementation.",
+  "chapitres": [
+    {
+      "titre": "Quelles sont les conditions d'attribution de la majoration pour la vie autonome (MVA) ?",
+      "contenu": [
+        "Vous devez remplir l'ensemble des conditions suivantes :",
+        "• Percevoir l'AAH à taux plein ou en complément d'une retraite, d'une pension d'invalidité ou d'une rente accident du travail, ou percevoir l'Asi à taux plein ou en complément d'une retraite, d'une pension d'invalidité ou d'une rente accident du travail",
+        "• Avoir un taux d'incapacité permanente d'au minimum 80 % déterminé par la commission des droits pour l’autonomie des personnes handicapées (CDAPH). Ce taux est fixé en fonction d'un guide-barème pour l'évaluation des déficiences et incapacités des personnes handicapées.",
+        "• Vivre dans un logement indépendant, c'est-à-dire un logement personnel. Si vous êtes hébergé par un particulier à son domicile, le logement est considéré comme indépendant uniquement s'il s'agit du logement de la personne avec laquelle vous vivez en couple.",
+        "• Percevoir une aide personnelle au logement (APL ou ALF ou ALS)",
+        "• Ne pas percevoir de revenu d’activité professionnelle."
+      ]
+    },
+    {
+      "titre": "Comment demander la majoration pour la vie autonome (MVA) ?",
+      "contenu": [
+        "La démarche pour demander la MVA diffère selon que vous percevez l'AAH ou l'Asi :",
+        "Vous percevez l'AAH",
+        "Vous n'avez pas de démarche à faire.",
+        "La MVA complète l'AAH.",
+        "Vous recevez la MVA en même temps que l'AAH si vous remplissez les conditions d'attribution de la MVA.",
+        "Vous percevez l'Asi",
+        "Vous devez demander la MVA auprès de la maison départementale des personnes handicapées (MDPH) de votre département.",
+        "La demande peut être faite en ligne par le biais d'un téléservice, si la MDPH de votre lieu de résidence le propose :",
+        "Demande de prestations MDPH (AAH, PCH, admission en Ésat, hébergement...) et renouvellement",
+        "Ce service en ligne permet de faire une demande ou renouvellement de prestations Handicap auprès de la MDPH .",
+        "Vous pouvez aussi faire votre demande par courrier par le biais d'un formulaire :",
+        "Demande ou renouvellement de prestations Handicap (AEEH, AAH, PCH, CMI, hébergement, Ésat...)",
+        "Certificat médical à joindre à une demande à la maison départementale des personnes handicapées (MDPH)",
+        "À joindre à toute demande. Il doit dater d'au maximum 1 an.",
+        "Guide d'utilisation du certificat médical destiné à la MDPH",
+        "Compte rendu type pour un bilan auditif à joindre au certificat médical (volet1)",
+        "Compte rendu type pour un bilan ophtalmologique à joindre au certificat médical (volet 2)",
+        "Vous devez joindre les documents justificatifs mentionnés à l'occasion de votre demande en ligne ou sur le formulaire.",
+        "Les documents doivent être envoyés (ou scannés si vous faites votre demande en ligne) à la MDPH de votre lieu de résidence.",
+        "Maison départementale des personnes handicapées (MDPH)",
+        "La commission des droits et de l’autonomie des personnes handicapées (CDAPH) de la MDPH instruit la demande.",
+        "Sa réponse intervient dans un délai de 4 mois.",
+        "L’absence de réponse de la CDAPH pendant plus de 4 mois vaut décision implicite de rejet."
+      ]
+    },
+    {
+      "titre": "La décision de refus de la CDAPH d’attribuer la majoration pour la vie autonome (MVA) peut-elle faire l’objet d’un recours ?",
+      "contenu": [
+        "Oui, la décision de refus de la CDAPH peut faire l’objet d’un recours administratif préalable obligatoire (Rapo) auprès de la MDPH. Ce recours doit être exercé avant tout recours devant le tribunal.",
+        "Le RAPO doit être déposé dans un délai de 2 mois à partir de la réception de la décision contestée. Cette décision doit être jointe à votre recours.",
+        "L’absence de réponse de la CDAPH pendant plus de 2 mois vaut décision implicite de rejet.",
+        "À partir de cette décision, explicite ou implicite, vous avez 2 mois pour faire un recours devant le tribunal judiciaire du lieu de votre résidence."
+      ]
+    },
+    {
+      "titre": "Quel est le montant de la majoration pour la vie autonome (MVA) ?",
+      "contenu": [
+        "Le montant de la MVA est de 104,77 € par mois."
+      ]
+    },
+    {
+      "titre": "La majoration pour la vie autonome (MVA) continue-t-elle d'être versée en cas d'hospitalisation ?",
+      "contenu": [
+        "Oui, la MVA est versée jusqu’au 60e jour d'hospitalisation. Au-delà, elle cesse d’être versée.",
+        "Le versement de la MVA reprend automatiquement à partir du 1er jour du mois suivant celui au cours duquel vous n'êtes plus hospitalisé."
+      ]
+    },
+    {
+      "titre": "La majoration pour la vie autonome (MVA) continue-t-elle d'être versée en cas d'hébergement en établissement social ou médico-social ?",
+      "contenu": [
+        "Oui, la MVA est versée jusqu’au 60e jour d'hébergement en établissement social ou médico-social (par exemple, en maison d'accueil spécialisée). Au-delà, elle cesse d’être versée.",
+        "Le versement de la MVA reprend automatiquement à partir du 1er jour du mois suivant celui au cours duquel vous n'êtes plus hébergé."
+      ]
+    },
+    {
+      "titre": "La majoration pour la vie autonome (MVA) continue-t-elle d'être versée en cas d'incarcération ?",
+      "contenu": [
+        "Oui, la MVA est versée jusqu’au 60e jour d'incarcération. Au-delà, elle cesse d’être versée.",
+        "Le versement de la MVA reprend automatiquement à partir du 1er jour du mois suivant celui au cours duquel vous n'êtes plus incarcéré."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la sécurité sociale : article L821-1-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042685659"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles R821-1 à R821-9",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006142017/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles D821-1 à D821-11",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006141593"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Maison départementale des personnes handicapées (MDPH)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Majoration pour la vie autonome - Version \"facile à lire et à comprendre\" (Falc)",
+      "url": "https://www.cnsa.fr/sites/default/files/2024-03/FALC_cnsa_20-07_fiches-facilealire_majoration_vie_autonome.pdf"
+    },
+    {
+      "titre": "Les aides financières pour adapter son logement",
+      "url": "https://www.pour-les-personnes-agees.gouv.fr/preserver-son-autonomie/amenager-son-logement-et-s-equiper/les-aides-financieres-pour-adapter-son-logement"
+    }
+  ],
+  "slug": "handicap-majoration-pour-la-vie-autonome-mva",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "handicap-allocations-aah-aeeh-et-aides",
+      "titre": "Handicap : allocations (AAH, AEEH, ...) et aides"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "F2143",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Assurances pour le sport",
+  "theme": "Loisirs - Sports - Culture",
+  "description": "L'obligation de souscrire une assurance dépend du cadre dans lequel le sport est pratiqué : en pratique libre, en club ou dans le cadre scolaire.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-05-29",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2143",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Loisirs - Sports - Culture",
+    "Sport",
+    "Assurances pour le sport"
+  ],
+  "introduction": "Vous pratiquez un sport et vous vous demandez si vous devez prendre une assurance pour vous protéger contre les blessures subies ou causées pendant votre activité ? Cela dépend du cadre dans lequel vous pratiquez le sport : en pratique libre (indépendamment de toute structure), en club ou dans le cadre scolaire. Voici les règles à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code du sport : articles L321-1 à L321-9",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006151574"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : articles L227-1 à L227-12",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006157592/"
+    },
+    {
+      "titre": "Code du sport : articles D321-1 à D321-5",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006151552"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : articles R227-1 à R227-4",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006190050/"
+    },
+    {
+      "titre": "Circulaire n°2006-137 du 25 août 2006 relative au rôle et à la place des parents à l'école",
+      "url": "https://www.legifrance.gouv.fr/circulaire/id/324"
+    },
+    {
+      "titre": "Circulaire du 16 juillet 2024 relative à l'organisation des sorties et voyages scolaires dans les écoles, les collèges et les lycées publics",
+      "url": "https://www.education.gouv.fr/bo/2024/Hebdo30/MENE2407159C"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Rectorat"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Activités sportives : responsabilités et assurances",
+      "url": "https://www.inc-conso.fr/content/activites-sportives-responsabilites-et-assurances"
+    }
+  ],
+  "slug": "assurances-pour-le-sport",
+  "path": [
+    {
+      "slug": "loisirs-sports-culture",
+      "titre": "Loisirs - Sports - Culture"
+    },
+    {
+      "slug": "sport",
+      "titre": "Sport"
+    }
+  ]
+}

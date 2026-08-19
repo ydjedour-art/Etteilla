@@ -1,0 +1,61 @@
+{
+  "id": "F2300",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Smic (salaire minimum interprofessionnel de croissance)",
+  "theme": "Travail - Formation, Ressources humaines",
+  "description": "Le Smic est le salaire horaire minimum légal auquel le salarié doit être rémunéré.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-06-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2300",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Rémunération dans le secteur privé",
+    "Smic (salaire minimum interprofessionnel de croissance)"
+  ],
+  "introduction": "Qu'est-ce que le salaire minimum interprofessionnel de croissance (Smic) ? Le Smic est le montant légal minimum brut horaire que doit percevoir chaque salarié. Des dispositions particulières s'appliquent pour les salariés mineurs et les salariés résidant à Mayotte. Nous vous expliquons les conditions de son versement et son montant.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code du travail : articles L3231-2 à L3231-3",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006189663"
+    },
+    {
+      "titre": "Code du travail : articles R3231-1 à D3231-3",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000018487177"
+    },
+    {
+      "titre": "Code du travail : articles R3231-4 à D3231-6",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000018533880"
+    },
+    {
+      "titre": "Arrêté du 22 mai 2026 relatif au relèvement du salaire minimum de croissance",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054126589"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Connaître le montant du salaire minimum en fonction de la convention collective de l’entreprise",
+      "url": "https://code.travail.gouv.fr/contribution/quel-est-le-salaire-minimum?src_url=https://www.service-public.gouv.fr/particuliers/vosdroits/F2300",
+      "type": "Simulateur"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Évolution du Smic : données annuelles de 1980 à 2026",
+      "url": "https://www.insee.fr/fr/statistiques/1375188"
+    }
+  ],
+  "slug": "smic-salaire-minimum-interprofessionnel-de-croissance",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "remuneration-dans-le-secteur-prive",
+      "titre": "Rémunération dans le secteur privé"
+    }
+  ]
+}

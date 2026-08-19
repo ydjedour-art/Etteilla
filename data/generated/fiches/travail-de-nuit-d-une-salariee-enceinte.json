@@ -1,0 +1,55 @@
+{
+  "id": "F2691",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Travail de nuit d'une salariée enceinte",
+  "theme": "Travail - Formation",
+  "description": "La salariée enceinte travailleur de nuit peut demander une affectation sur un poste de jour.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-05-29",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2691",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Conditions de travail dans le secteur privé",
+    "Travail de nuit d'une salariée enceinte"
+  ],
+  "introduction": "Une salariée enceinte qui est reconnue travailleur de nuit peut être affectée sur un poste de jour pour protéger sa santé et celle de son futur enfant. Quelle est la procédure à suivre par la salariée ? Nous faisons un point sur la réglementation.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Un travailleur de nuit est un salarié qui accomplit :",
+        "• Au moins 2 fois par semaine, selon son horaire de travail habituel, au moins 3 heures de travail de nuit",
+        "• Ou 270 heures de nuit sur une période de référence de 12 mois continus.",
+        "Un accord collectif peut prévoir des conditions de travail de nuit différentes.",
+        "La procédure pour l’affectation à un travail de jour diffère selon que ce soit la salariée ou le médecin de travail qui en font la demande."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code du travail : articles L1225-9 à L1225-11",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006198526/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Calculer les indemnités journalières maternité ou paternité et d’accueil de l’enfant",
+      "url": "http://www.ameli.fr/simulateur",
+      "type": "simulateurNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "travail-de-nuit-d-une-salariee-enceinte",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "conditions-de-travail-dans-le-secteur-prive",
+      "titre": "Conditions de travail dans le secteur privé"
+    }
+  ]
+}

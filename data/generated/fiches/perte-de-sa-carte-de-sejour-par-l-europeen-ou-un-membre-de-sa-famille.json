@@ -1,0 +1,54 @@
+{
+  "id": "F847",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Perte de sa carte de séjour par l'Européen ou un membre de sa famille",
+  "theme": "Étranger - Europe",
+  "description": "Vous avez perdu votre carte de séjour citoyen UE/EEE/Suisse ou membre de la famille d'un citoyen de l'Union/EEE/Suisse ? Si vous êtes européen, vous pouvez demander un duplicata de votre carte, la démarche est facultative. Si vous êtes membre de famille non européen, vous devez demander un duplicata de votre carte, la démarche est obligatoire. Dans les 2 cas, la durée de validité de votre duplicata sera la même que celle de votre titre de séjour initial. Nous vous expliquons la procédure.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2023-12-04",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F847",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Titres, cartes de séjour et documents de circulation pour étranger en France",
+    "Perte de sa carte de séjour par l'Européen ou un membre de sa famille"
+  ],
+  "introduction": "Vous avez perdu votre carte de séjour citoyen UE/EEE/Suisse ou membre de la famille d'un citoyen de l'Union/EEE/Suisse ? Si vous êtes européen, vous pouvez demander un duplicata de votre carte, la démarche est facultative. Si vous êtes membre de famille non européen, vous devez demander un duplicata de votre carte, la démarche est obligatoire. Dans les 2 cas, la durée de validité de votre duplicata sera la même que celle de votre titre de séjour initial. Nous vous expliquons la procédure.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles L436-1 à L436-13",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042772036/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Attestation sur l'honneur",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/AttestationHonneur",
+      "type": "Modèle de document"
+    },
+    {
+      "titre": "Faire une demande sur internet pour un titre de séjour, un changement de situation, un titre de voyage, une demande de naturalisation - ANEF",
+      "url": "https://administration-etrangers-en-france.interieur.gouv.fr/particuliers/#/",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Trouver les coordonnées des photographes habilités et des cabines agréées",
+      "url": "https://passeport.ants.gouv.fr/services/geolocaliser-les-photographes-habilites",
+      "type": "outilRechercheNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "perte-de-sa-carte-de-sejour-par-l-europeen-ou-un-membre-de-sa-famille",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "titres-cartes-de-sejour-et-documents-de-circulation-pour-etranger-en-france",
+      "titre": "Titres, cartes de séjour et documents de circulation pour étranger en France"
+    }
+  ]
+}

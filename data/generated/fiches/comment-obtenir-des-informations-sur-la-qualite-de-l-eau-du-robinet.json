@@ -1,0 +1,74 @@
+{
+  "id": "F664",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Comment obtenir des informations sur la qualité de l'eau du robinet ?",
+  "theme": "Logement",
+  "description": "Les données sur la qualité de l'eau du robinet dans votre ville sont disponibles sur internet, en mairie et sur votre facture d'eau.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-08-17",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F664",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Aides au paiement des factures : eau, téléphone, électricité, gaz",
+    "Comment obtenir des informations sur la qualité de l'eau du robinet ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les données sur la qualité de l'eau du robinet sont publiques.",
+        "Sur internet",
+        "Vous pouvez consulter les résultats des analyses du contrôle sanitaire de l’eau du robinet pour chaque commune sur le site internet du ministère chargé de la santé :",
+        "Connaître les résultats du contrôle sanitaire de l'eau du robinet dans chaque ville",
+        "Les informations sont régulièrement mises à jour.",
+        "À la mairie",
+        "Vous pouvez également contacter votre mairie pour connaître les résultats des derniers contrôles sanitaires effectués dans votre commune.",
+        "Mairie",
+        "Les résultats sont affichés en mairie. Ils sont aussi consultables sur son site internet.",
+        "Sur votre facture d’eau",
+        "Une note de synthèse sur la qualité de l'eau du robinet est jointe chaque année à la facture d'eau.",
+        "Selon le mode de facturation de votre logement, cette facture peut être adressée directement au locataire ou au syndic de copropriété.",
+        "Si vous êtes locataire et que vous ne recevez pas la facture d’eau, vous pouvez obtenir cette note auprès de votre bailleur ou du syndic. Si vous ne connaissez pas le syndic, ses coordonnées sont généralement affichées dans les parties communes de l’immeuble."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la santé publique : articles D1321-103 à D1321-105",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006190964/"
+    },
+    {
+      "titre": "Arrêté du 10 juillet 1996 relatif aux factures d'eau, collecte et traitement des eaux usées",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000005621424/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Connaître les résultats du contrôle sanitaire de l'eau du robinet dans chaque ville",
+      "url": "https://sante.gouv.fr/sante-et-environnement/eaux/eau",
+      "type": "outilRechercheNG"
+    }
+  ],
+  "contacts": [
+    "Mairie"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Qualité de l'eau du robinet en France",
+      "url": "https://sante.gouv.fr/sante-et-environnement/eaux/eau"
+    }
+  ],
+  "slug": "comment-obtenir-des-informations-sur-la-qualite-de-l-eau-du-robinet",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "aides-au-paiement-des-factures-eau-telephone-electricite-gaz",
+      "titre": "Aides au paiement des factures : eau, téléphone, électricité, gaz"
+    }
+  ]
+}

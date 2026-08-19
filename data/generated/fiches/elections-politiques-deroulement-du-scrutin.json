@@ -1,0 +1,98 @@
+{
+  "id": "F16828",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Élections politiques : déroulement du scrutin",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Le bureau de vote ouvre à 8 heures. Il ferme à 18 heures, mais cet horaire peut être repoussé jusqu'à 20 heures.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-10-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F16828",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Élections",
+    "Élections politiques : déroulement du scrutin"
+  ],
+  "introduction": "Pour voter le jour de l'élection (ou du référendum), vous devez vous rendre au bureau de vote. Le bureau de vote ouvre à 8h. Généralement, il ferme à 18h, mais cet horaire peut être repoussé jusqu'à 20h dans certains cas. Nous vous présentons les informations à connaître selon que le vote a lieu à l’urne (cas général) ou dans un bureau de vote équipé d’une machine à voter.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code électoral : articles L54 à L70",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070239/LEGISCTA000006164058/"
+    },
+    {
+      "titre": "Code électoral : articles R42 à R71",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070239/LEGISCTA000006164050/#LEGIARTI000043098416"
+    },
+    {
+      "titre": "Décret n°2016-1924 du 28 décembre 2016 relatif à la tenue de listes électorales consulaires et à l'organisation d'opérations de vote hors de France",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000033734794/"
+    },
+    {
+      "titre": "Arrêté du 16 novembre 2018 relatif aux justificatifs d'identité et de domicile pour s'inscrire et pour voter en mairie",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000037627369/"
+    },
+    {
+      "titre": "Circulaire du 16 janvier 2020 sur le déroulement des opérations électorales des élections au suffrage universel direct",
+      "url": "https://www.legifrance.gouv.fr/circulaire/id/44912"
+    },
+    {
+      "titre": "Réponse ministérielle du 19 novembre 2020 relative à la désignation des scrutateurs chargés du dépouillement des bulletins de vote",
+      "url": "http://www.senat.fr/basile/visio.do?id=qSEQ200717374&idtable=q381613|q381618|q381651|q381653|q381711|q381730|q381734|q381804|q381336|q381442&_na=QE&rch=qa&de=20201105&au=20201130&dp=1+an&radio=deau&date=dateJORep&appr=text&aff=ar&tri=dd&off=90&afd=ppr&afd=ppl&afd=pjl&afd=cvn"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Vérifier votre inscription électorale et votre bureau de vote",
+      "url": "https://situation.elections.interieur.gouv.fr/",
+      "type": "selNG"
+    },
+    {
+      "titre": "Nouvelle-Calédonie : vérifier son inscription sur la liste électorale et son bureau de vote",
+      "url": "https://electeur-nc.fr/",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Législatives 2024 : liste et programme des candidats par circonscription",
+      "url": "https://programme-candidats.interieur.gouv.fr/",
+      "type": "Outil de recherche"
+    }
+  ],
+  "contacts": [
+    "Mairie",
+    "Ambassade ou consulat français à l'étranger"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Abstention, vote blanc ou vote nul : quelles différences ?",
+      "url": "http://www.vie-publique.fr/decouverte-institutions/citoyen/participation/voter/droit-vote/abstention-vote-blanc-vote-nul-quelles-differences.html"
+    },
+    {
+      "titre": "Handicap : mémento pratique à l’usage des candidats aux élections et des citoyens",
+      "url": "https://handicap.gouv.fr/sites/handicap/files/2022-04/m%C3%A9mento%20candidats_0.pdf"
+    },
+    {
+      "titre": "Guide pratique pour l'accessibilité effective des bureaux de vote",
+      "url": "https://www.elections.interieur.gouv.fr/comprendre-elections/comment-je-vote/vote-des-personnes-en-situation-de-handicap-laccessibilite-des-operations-de-vote"
+    },
+    {
+      "titre": "Fonctionnement d'un bureau de vote",
+      "url": "https://www.interieur.gouv.fr/Elections/Comment-voter/Fonctionnement-d-un-bureau-de-vote"
+    },
+    {
+      "titre": "Elections législatives de 2024 : les résultats",
+      "url": "https://www.resultats-elections.interieur.gouv.fr/legislatives2024/"
+    }
+  ],
+  "slug": "elections-politiques-deroulement-du-scrutin",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "elections",
+      "titre": "Élections"
+    }
+  ]
+}

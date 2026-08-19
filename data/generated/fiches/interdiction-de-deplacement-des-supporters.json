@@ -1,0 +1,45 @@
+{
+  "id": "F35116",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Interdiction de déplacement des supporters",
+  "theme": "Loisirs - Sports - Culture",
+  "description": "L'interdiction de déplacement est une mesure empêchant tous les supporters d'une équipe définie de se déplacer pour assister à un match.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-02-04",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35116",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Loisirs - Sports - Culture",
+    "Sport",
+    "Interdiction de déplacement des supporters"
+  ],
+  "introduction": "Vous voulez savoir comment les pouvoirs publics agissent pour éviter les violences entre supporters à l'occasion d'une rencontre sportive ? L'interdiction de déplacement est une mesure empêchant tous les supporters d'une équipe définie de se déplacer pour assister à un match. L'interdiction peut s'appliquer sur tout le territoire français ou au sein d'un département. Voici les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code du sport : article L332-16-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023715846"
+    },
+    {
+      "titre": "Code du sport : article L332-16-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023715896"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Préfecture",
+    "Préfecture de police de Paris"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "interdiction-de-deplacement-des-supporters",
+  "path": [
+    {
+      "slug": "loisirs-sports-culture",
+      "titre": "Loisirs - Sports - Culture"
+    },
+    {
+      "slug": "sport",
+      "titre": "Sport"
+    }
+  ]
+}

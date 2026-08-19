@@ -1,0 +1,91 @@
+{
+  "id": "F35889",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Un agent public peut-il revenir travailler avant la fin de son arrêt maladie ?",
+  "theme": "Travail - Formation",
+  "description": "Oui, vous pouvez reprendre le travail avant la date de fin prévue de votre arrêt de travail sur autorisation médicale.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-10-27",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35889",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Maladie ou accident du travail dans la fonction publique",
+    "Un agent public peut-il revenir travailler avant la fin de son arrêt maladie ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Oui, vous pouvez reprendre le travail avant la date de fin prévue de votre arrêt de travail sur autorisation médicale.",
+        "La démarche varie selon que vous êtes fonctionnaire ou contractuel :",
+        "Fonctionnaire",
+        "Si vous souhaitez reprendre votre travail avant la date de fin prévue de votre congé de maladie, vous devez justifier auprès de votre administration employeur que vous êtes apte à reprendre vos fonctions.",
+        "Pour cela, vous devez faire établir, par le médecin qui vous a prescrit votre arrêt de travail, un nouvel arrêt de travail avec une date de fin antérieure à celle prévue initialement.",
+        "Sans ce justificatif attestant que votre état de santé vous permet de reprendre vos fonctions, votre administration employeur peut s'opposer à votre reprise de travail.",
+        "Contractuel",
+        "Si vous souhaitez reprendre votre travail avant la date de fin prévue de votre congé de maladie, vous devez justifier auprès de votre administration employeur que vous êtes apte à reprendre vos fonctions.",
+        "Pour cela, vous devez faire établir, par le médecin qui vous a prescrit votre arrêt de travail, un nouvel arrêt de travail avec une date de fin antérieure à celle prévue initialement.",
+        "Sans ce justificatif attestant que votre état de santé vous permet de reprendre vos fonctions, votre administration employeur peut s'opposer à votre reprise de travail.",
+        "Vous devez également informer votre CPAM au plus vite pour suspendre le versement des indemnités journalières (IJ) de maladie.",
+        "Vous pouvez informer votre CPAM par téléphone.",
+        "Caisse primaire d'assurance maladie (CPAM)",
+        "Vous pouvez aussi informer votre CPAM depuis l'Espace d’échanges de votre compte ameli.",
+        "Ameli en ligne",
+        "Connexion avec France Connect ou avec le compte Ameli",
+        "Si votre administration est subrogée dans vos droits auprès de l’Assurance maladie, c'est elle qui informe votre CPAM de votre reprise anticipée.",
+        "La subrogation est le dispositif qui permet à votre administration employeur de vous verser la totalité de la rémunération qui vous est due pendant un congé de maladie et de percevoir en compensation à votre place les IJ de la Sécurité sociale.",
+        "S'il y a lieu, votre CPAM récupère les indemnités qui n'auraient pas dû vous être versées du fait de votre reprise anticipée."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Décret n°86-442 du 14 mars 1986 relatif aux médecins agréés, aux comités médicaux et commissions de réforme, aux conditions d'aptitude physique et aux congés de maladie des fonctionnaires",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000884830"
+    },
+    {
+      "titre": "Décret n°87-602 du 30 juillet 1987 relatif à l'organisation des comités médicaux, aux conditions d'aptitude physique et au régime des congés de maladie des fonctionnaires territoriaux",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000521836/"
+    },
+    {
+      "titre": "Décret n°88-386 du 19 avril 1988 relatif aux conditions d'aptitude physique et aux congés de maladie des agents de la fonction publique hospitalière",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000695289/"
+    },
+    {
+      "titre": "Décret n°86-83 du 17 janvier 1986 relatif aux agents contractuels de la FPE",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000699956/"
+    },
+    {
+      "titre": "Décret n°88-145 du 15 février 1988 relatif aux agents non titulaires de la FPT",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000871608"
+    },
+    {
+      "titre": "Décret n°91-155 du 6 février 1991 relatif aux agents contractuels de la FPH",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000343794"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Ameli en ligne",
+      "url": "https://assure.ameli.fr/PortailAS/appmanager/PortailAS/assure?_somtc=true&_pageID=P1_NAISSANCE_ENFANT&utm_source=ameli.fr&utm_medium=lien_redirection&utm_campaign=NAISSANCE_ENFANT#idPopupWARecueilConsentement",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "Caisse primaire d'assurance maladie (CPAM)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "un-agent-public-peut-il-revenir-travailler-avant-la-fin-de-son-arret-maladie",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "maladie-ou-accident-du-travail-dans-la-fonction-publique",
+      "titre": "Maladie ou accident du travail dans la fonction publique"
+    }
+  ]
+}

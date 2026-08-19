@@ -1,0 +1,112 @@
+{
+  "id": "F383",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Impôt sur le revenu - Comment indiquer son changement d'adresse ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "En cas de déménagement, il faut en informer les services des impôts et l'indiquer sur sa déclaration de revenus.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-04-15",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F383",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Impôt sur le revenu : déclaration et revenus à déclarer",
+    "Impôt sur le revenu - Comment indiquer son changement d'adresse ?"
+  ],
+  "introduction": "Si vous avez déménagé, vous devez en informer les services des impôts et l'indiquer sur votre déclaration de revenus.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Vous pouvez effectuer en ligne ou par courrier :",
+        "En ligne",
+        "Vous devez informer les services des impôts à tout moment, puis indiquer votre déménagement dans votre déclaration de revenus :",
+        "À tout moment",
+        "Vous pouvez faire la déclaration depuis votre espace Finances publiques sur le site impots.gouv.fr.",
+        "Impôts : accéder à votre espace Finances publiques",
+        "Connexion avec l’identifiant fiscal du contribuable ou via FranceConnect. Ensuite, double authentification avec réception d’un code à 6 chiffres par mail.",
+        "Vous pouvez aussi utiliser le service de changement d'adresse en ligne :",
+        "Déclaration de changement d'adresse",
+        "Lors de votre déclaration de revenus",
+        "Vous informez également les impôts de votre déménagement lorsque vous faites votre déclaration de revenus.",
+        "Au début de votre télédéclaration, vous êtes invité à déclarer votre changement d'adresse.",
+        "Déclarer vos revenus en ligne",
+        "Connexion avec l’identifiant fiscal du contribuable ou via FranceConnect. Ensuite, double authentification avec réception d’un code à 6 chiffres par mail.",
+        "Par courrier",
+        "Vous devez informer les services des impôts à tout moment, puis indiquer votre déménagement dans votre déclaration de revenus :",
+        "À tout moment",
+        "Contactez le centre des finances publiques dont dépend votre adresse au 1er janvier de l'année d'imposition.",
+        "Indiquez votre ancienne adresse et la nouvelle, en précisant les informations suivantes :",
+        "• Numéro fiscal",
+        "• Nom",
+        "• Prénom",
+        "• Date et lieu de naissance",
+        "• Numéro de téléphone.",
+        "Service en charge des impôts (trésorerie, service des impôts...)",
+        "Lors de votre déclaration de revenus",
+        "Vous avez déménagé au cours de l'année 2025",
+        "Si vous faites votre déclaration de revenus sur formulaire papier, l’adresse pré-imprimée n’est pas celle de votre domicile au 1er janvier 2026.",
+        "Vous devez donc indiquer l'adresse exacte et la date du déménagement.",
+        "Vous avez changé d'adresse après le 1er janvier 2026",
+        "Si vous faites votre déclaration de revenus sur formulaire papier, vous devez indiquer votre adresse actuelle et la date du déménagement.",
+        "Vous recevrez les courriers des impôts à votre nouvelle adresse."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [
+    {
+      "titre": "Impôts : accéder à votre espace Finances publiques",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Déclaration de changement d'adresse",
+      "url": "https://demarches.service-public.gouv.fr/mademarche/JeChangeDeCoordonnees/demarche",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Déclarer vos revenus en ligne",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Déclaration 2026 des revenus 2025 (papier)",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/2042/declaration-des-revenus",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Service d'information des impôts",
+    "Service en charge des impôts (trésorerie, service des impôts...)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Site des impôts",
+      "url": "https://www.impots.gouv.fr/portail/"
+    },
+    {
+      "titre": "Impôt sur le revenu : dépliants d'information",
+      "url": "https://www.impots.gouv.fr/brochures-et-depliants"
+    },
+    {
+      "titre": "Brochure pratique 2026 - Déclaration des revenus de 2025",
+      "url": "https://www.impots.gouv.fr/www2/fichiers/documentation/brochure/ir_2026/accueil.htm"
+    },
+    {
+      "titre": "Déclarer mes revenus",
+      "url": "https://www.impots.gouv.fr/portail/node/4486"
+    }
+  ],
+  "slug": "impot-sur-le-revenu-comment-indiquer-son-changement-d-adresse",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "impot-sur-le-revenu-declaration-et-revenus-a-declarer",
+      "titre": "Impôt sur le revenu : déclaration et revenus à déclarer"
+    }
+  ]
+}

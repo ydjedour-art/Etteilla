@@ -1,0 +1,64 @@
+{
+  "id": "F33739",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Peut-on percevoir le RSA quand on vit à l'étranger ?",
+  "theme": "Social - Santé",
+  "description": "Il est possible de continuer à percevoir le RSA à l'étranger pendant un séjour de moins de 3 mois.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-03-06",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33739",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Revenu de solidarité active (RSA)",
+    "Peut-on percevoir le RSA quand on vit à l'étranger ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Oui, il est possible de percevoir le RSA si vous êtes à l'étranger, mais sous conditions.",
+        "Tout dépend si vous quittez la France pour une durée inférieure ou supérieure à 3 mois.",
+        "Durée inférieure à 3 mois",
+        "Vous continuez de percevoir le RSA pendant les mois d'absence hors de France.",
+        "À votre retour de l'étranger, vous devez résider de manière stable et effective en France.",
+        "[Exemple] Si vous quittez la France du 1er mars au 25 avril (durée inférieure à 3 mois), vous continuez à percevoir le RSA pendant cette période.",
+        "Vous devez vérifier votre déclaration trimestrielle de ressources préremplie, la valider et, si besoin, la compléter avec vos autres ressources perçues sur la période (pension alimentaire par exemple).",
+        "Durée supérieure à 3 mois",
+        "Vous ne pouvez plus percevoir le RSA pendant votre séjour à l'étranger.",
+        "Vous devez informer votre Caf (ou la MSA si vous dépendez du régime agricole) de votre changement de situation.",
+        "L'allocation est uniquement versée pour les mois civils complets (du 1er jour au dernier jour du mois) de présence en France.",
+        "[Exemple] Si vous quittez la France du 25 avril au 25 octobre, vous ne percevrez pas le RSA pour les mois d'avril à octobre, mais uniquement du 1er janvier au 31 mars et du 1er novembre au 31 décembre.",
+        "Vous devez vérifier votre déclaration trimestrielle de ressources préremplie, la valider et, si besoin, la compléter avec vos autres ressources perçues sur la période (pension alimentaire par exemple).",
+        "Si vous ne connaissez pas votre date de retour en France, vous pouvez demander à votre Caf ou la MSA une suspension de votre droit au RSA.",
+        "[Attention] Pour éviter d'avoir à rembourser un trop perçu, signalez votre changement de situation à votre Caf ou la MSA.",
+        "Caisse d'allocations familiales (Caf)",
+        "Mutualité sociale agricole (MSA)"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'action sociale et des familles : article R262-5",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000020526213/2009-06-01"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Caisse d'allocations familiales (Caf)",
+    "Mutualité sociale agricole (MSA)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "peut-on-percevoir-le-rsa-quand-on-vit-a-l-etranger",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "revenu-de-solidarite-active-rsa",
+      "titre": "Revenu de solidarité active (RSA)"
+    }
+  ]
+}

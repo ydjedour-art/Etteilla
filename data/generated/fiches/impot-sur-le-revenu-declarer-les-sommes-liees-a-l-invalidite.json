@@ -1,0 +1,175 @@
+{
+  "id": "F3169",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Impôt sur le revenu - Déclarer les sommes liées à l'invalidité",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Les pensions, rentes, et prestations versées en raison d'une invalidité sont soumises à l'impôt sur le revenu. Mais certains revenus sont exonérés.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-15",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F3169",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Impôt sur le revenu : déclaration et revenus à déclarer",
+    "Impôt sur le revenu - Déclarer les sommes liées à l'invalidité"
+  ],
+  "introduction": "Vous percevez une pension, une rente ou une prestation en raison de votre invalidité ? Elle est soumise à l'impôt sur le revenu. Toutefois, certains revenus en sont exonérés. Nous vous indiquons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Pension d'invalidité versée par une caisse de retraite ou un organisme de prévoyance",
+      "contenu": [
+        "Vous devez déclarer la pension versée par un organisme de retraite ou de prévoyance dans le cadre de contrats collectifs et obligatoires.",
+        "L'administration fiscale applique automatiquement un abattement de 10 % sur le montant total déclaré des pensions et rentes de votre foyer fiscal.",
+        "Le montant de l'abattement doit se situer dans la fourchette suivante :",
+        "• Minimum : 454 € par pensionné",
+        "• Maximum : 4 439 € par foyer fiscal.",
+        "[À noter] Vous devez déclarer vous-même les pensions des personnes à charge ou rattachées, car ces montants ne sont jamais pré-remplis."
+      ]
+    },
+    {
+      "titre": "Pension d'invalidité versée par la Sécurité sociale",
+      "contenu": [
+        "Vous devez déclarer la pension versée par la sécurité sociale suite à un accident ou une maladie.",
+        "Toutefois, vous devez déclarer une pension versée par la Sécurité sociale dont le montant ne dépasse pas 4 023,51 € par an, uniquement si vos ressources annuelles dépassent :",
+        "• 12 411,44 € pour une personne seule",
+        "• 19 268,80 € pour un couple.",
+        "L'administration fiscale applique automatiquement un abattement de 10 % sur le montant total déclaré des pensions et rentes de votre foyer fiscal.",
+        "Le montant de l'abattement doit se situer dans la fourchette suivante :",
+        "• Minimum : 454 € par pensionné",
+        "• Maximum : 4 439 € par foyer fiscal.",
+        "[À noter] Vous devez déclarer vous-même les pensions des personnes à charge ou rattachées, car ces montants ne sont jamais pré-remplis."
+      ]
+    },
+    {
+      "titre": "Pension militaire d'invalidité ou de victime de guerre",
+      "contenu": [
+        "Les pensions militaires d'invalidité et les pensions versées aux victimes civiles de la guerre (y compris suite à des actes de terrorisme) sont exonérées.",
+        "C'est aussi le cas des allocations complémentaires à ces pensions (allocation temporaire aux grands invalides, etc.)."
+      ]
+    },
+    {
+      "titre": "Majoration pour assistance d'une tierce personne (MTP)",
+      "contenu": [
+        "La majoration pour assistance d'une tierce personne (MTP) est exonérée."
+      ]
+    },
+    {
+      "titre": "Rente viagère en raison d'une invalidité",
+      "contenu": [
+        "Vous devez déclarer les rentes viagères perçues en raison d'une invalidité, qu'il s'agisse de rentes à titre gratuit ou à titre onéreux.",
+        "Les rentes viagères versées sans contrepartie (à titre gratuit) sont imposées après déduction d'un abattement.",
+        "L'administration fiscale applique automatiquement un abattement de 10 % sur le montant total déclaré des pensions et rentes de votre foyer fiscal.",
+        "Le montant de l'abattement doit se situer dans la fourchette suivante :",
+        "• Minimum : 454 € par pensionné",
+        "• Maximum : 4 439 € par foyer fiscal.",
+        "Les rentes viagères versées avec contrepartie (à titre onéreux) sont soumises à l'impôt sur le revenu pour une fraction de leur montant.",
+        "[À noter] Vous devez déclarer vous-même les pensions des personnes à charge ou rattachées, car ces montants ne sont jamais pré-remplis."
+      ]
+    },
+    {
+      "titre": "Rente viagère versée pour dommages-intérêts",
+      "contenu": [
+        "La rente viagère versée pour dommages-intérêts à la suite d'une condamnation judiciaire pour la réparation d'un préjudice corporel très grave est exonérée.",
+        "C'est le cas si vous souffrez d'une incapacité permanente totale (par exemple suite à un accident de la route)."
+      ]
+    },
+    {
+      "titre": "Indemnité versée aux victimes de l'amiante",
+      "contenu": [
+        "L'indemnité versée aux victimes de l'amiante par le Fonds d'indemnisation des victimes de l'amiante ou par décision de justice est exonérée."
+      ]
+    },
+    {
+      "titre": "Revenu versé à une victime d'accident du travail ou de maladie professionnelle",
+      "contenu": [
+        "La situation dépend du revenu concerné :",
+        "Indemnité temporaire",
+        "L'indemnité temporaire que vous touchez en tant que victime d'un accident de travail ou d'une maladie professionnelle est exonérée pour 50 % de son montant.",
+        "Prestation versée",
+        "Cette prestation est exonérée.",
+        "Rente viagère",
+        "La rente est exonérée."
+      ]
+    },
+    {
+      "titre": "Allocation aux adultes handicapés (AAH)",
+      "contenu": [
+        "L'allocation aux adultes handicapés est exonérée.",
+        "[À savoir] Si vous touchez aussi la prestation de compensation du handicap (PCH), celle-ci est également exonérée d'impôt."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général des impôts : articles 79 à 81 quater",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006197199/"
+    },
+    {
+      "titre": "Code général des impôts : articles 156 à 163 quinvicies",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000006191588/"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-RSA-PENS-10-10-20 relatif aux pensions d'invalidité imposables",
+      "url": "http://bofip.impots.gouv.fr/bofip/363-PGP"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-RSA-PENS-20-20 relatif aux pensions d'invalidité exonérées",
+      "url": "http://bofip.impots.gouv.fr/bofip/370-PGP.html"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-RSA-PENS-20-20-10 relatif à l'exonération des pensions militaires d'invalidité et des victimes de guerre",
+      "url": "http://bofip.impots.gouv.fr/bofip/371-PGP.html"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Impôts : accéder à votre espace Finances publiques",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Déclarer vos revenus en ligne",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Déclaration 2026 des revenus 2025 (papier)",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/2042/declaration-des-revenus",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Estimer le montant de son impôt sur les revenus de 2025 (déclaration de 2026)",
+      "url": "https://simulateur-ir-ifi.impots.gouv.fr/calcul_impot/2026/",
+      "type": "simulateurNG"
+    }
+  ],
+  "contacts": [
+    "Service d'information des impôts",
+    "Service en charge des impôts (trésorerie, service des impôts...)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Site des impôts",
+      "url": "https://www.impots.gouv.fr/portail/"
+    },
+    {
+      "titre": "Brochure pratique 2026 - Déclaration des revenus de 2025",
+      "url": "https://www.impots.gouv.fr/www2/fichiers/documentation/brochure/ir_2026/accueil.htm"
+    },
+    {
+      "titre": "Impôt sur le revenu : dépliants d'information",
+      "url": "https://www.impots.gouv.fr/brochures-et-depliants"
+    }
+  ],
+  "slug": "impot-sur-le-revenu-declarer-les-sommes-liees-a-l-invalidite",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "impot-sur-le-revenu-declaration-et-revenus-a-declarer",
+      "titre": "Impôt sur le revenu : déclaration et revenus à déclarer"
+    }
+  ]
+}

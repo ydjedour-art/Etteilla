@@ -1,0 +1,81 @@
+{
+  "id": "F31404",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Installation ou construction d'une piscine privative",
+  "theme": "Logement",
+  "description": "Selon la surface de la future piscine et la hauteur de sa couverture, il peut être nécessaire de faire une déclaration préalable ou un permis de construire.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-01-31",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31404",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Vie pratique en logement individuel (maison)",
+    "Installation ou construction d'une piscine privative"
+  ],
+  "introduction": "Vous allez installer ou construire une piscine dans votre jardin ? En fonction du type de piscine (enterrée ou hors sol, avec ou sans couverture), de sa superficie et de sa situation, une autorisation d'urbanisme peut être nécessaire. Nous vous présentons la réglementation.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Avant de commencer vos démarches d'urbanisme, vous devez vous renseigner auprès de votre mairie pour savoir si votre projet se situe dans un secteur protégé. Les sites protégés sont les sites patrimoniaux remarquables, les abords des monuments historiques, les sites classés ou en instance de classement."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'urbanisme : article R*421-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006188285/"
+    },
+    {
+      "titre": "Code de l'urbanisme : articles R*421-2 à R*421-8-2",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006188251/"
+    },
+    {
+      "titre": "Code de l'urbanisme : articles R421-9 à R*421-12",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006188272"
+    },
+    {
+      "titre": "Réponse ministérielle du 24 septembre 2013 relative aux autorisations d'urbanisme pour l'installation d'une piscine hors sol",
+      "url": "http://questions.assemblee-nationale.fr/q14/14-28734QE.htm"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Assistance pour votre demande d'autorisation d'urbanisme",
+      "url": "https://demarches.service-public.gouv.fr/mademarche/DAUA/demarche",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Déclaration préalable constructions et travaux non soumis à permis de construire",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_16702.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Demande de permis de construire pour une maison individuelle et/ou ses annexes (PCMI)",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_13406.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Demande de permis de construire (autre que portant sur une maison individuelle ou ses annexes)",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_13409.do",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)",
+    "Conseil d'architecture, d'urbanisme et d'environnement (CAUE)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "installation-ou-construction-d-une-piscine-privative",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "vie-pratique-en-logement-individuel-maison",
+      "titre": "Vie pratique en logement individuel (maison)"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "F34566",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Un salarié a-t-il droit à un congé pour aider les victimes d’une catastrophe naturelle survenue dans une zone où il vit ou habite ?",
+  "theme": "Travail - Formation",
+  "description": "Le salarié qui habite ou travaille dans une zone touchée par une catastrophe naturelle peut bénéficier d'un congé pour participer à l’aide aux victimes.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-02-05",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34566",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Congés dans le secteur privé",
+    "Un salarié a-t-il droit à un congé pour aider les victimes d’une catastrophe naturelle survenue dans une zone où il vit ou habite ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Le salarié qui habite ou travaille dans une zone touchée par une catastrophe naturelle peut bénéficier, sous certaines conditions, d'un congé spécifique pour participer aux activités d'organismes apportant une aide aux victimes.",
+        "[À savoir] Ce congé spécifique n'est pas rémunéré.",
+        "Le congé peut être pris en une ou plusieurs fois dans l'année.",
+        "Sa durée maximale est de 20 jours par an.",
+        "La durée maximale du congé peut être supérieure si elle est prévue par convention collective, accord collectif d'entreprise ou accord de branche d'entreprise plus favorable.",
+        "La convention collective applicable est celle dont relève l'activité principale de l'entreprise.",
+        "Un simulateur permet de rechercher la convention collective avec le nom de l'entreprise ou son numéro Siret :",
+        "Trouver sa convention collective",
+        "[À noter] La durée du congé pour catastrophe naturelle ne peut pas réduire la durée du congé payé annuel du salarié.",
+        "Des dispositions conventionnelles déterminent les délais dans lesquels le salarié adresse sa demande de congé à l'employeur.",
+        "En l'absence de dispositions prévues, le salarié informe l'employeur (notamment par lettre RAR) de sa volonté de bénéficier de ce congé au moins 48 heures avant le début du congé.",
+        "En cas d'urgence, le congé peut être pris sous préavis de 24 heures.",
+        "L'employeur peut refuser d'accorder le congé pour catastrophe naturelle s'il estime qu'il sera préjudiciable à la bonne marche de son entreprise.",
+        "Ce refus doit être motivé et notifié au salarié et intervient après consultation du comité social et économique (CSE), s'il en existe un dans l'entreprise.",
+        "Le refus de l'employeur peut être contesté par le salarié devant le conseil de prud'hommes."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code du travail : articles L3142-48 à L3142-51",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033004429"
+    },
+    {
+      "titre": "Code du travail : article L3142-52",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033004431"
+    },
+    {
+      "titre": "Code du travail : article L3142-53",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033004433"
+    },
+    {
+      "titre": "Code du travail : articles R3142-33 et R3142-34",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033444126"
+    },
+    {
+      "titre": "Code du travail : article D3142-35",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033508898"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "un-salarie-a-t-il-droit-a-un-conge-pour-aider-les-victimes-d-une-catastrophe-naturelle-survenue-dans-une-zone-ou-il-vit-ou-habite",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "conges-dans-le-secteur-prive",
+      "titre": "Congés dans le secteur privé"
+    }
+  ]
+}

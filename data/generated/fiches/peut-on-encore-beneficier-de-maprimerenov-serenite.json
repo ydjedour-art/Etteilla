@@ -1,0 +1,42 @@
+{
+  "id": "F20554",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Peut-on encore bénéficier de MaPrimeRénov' Sérénité ?",
+  "theme": "Logement",
+  "description": "Non, depuis le 1er janvier 2024, cette aide est intégrée au dispositif MaPrimeRénov' Rénovation d'ampleur.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-07-09",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F20554",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Aides et prêts pour l'amélioration et la rénovation énergétique de l'habitat",
+    "Peut-on encore bénéficier de MaPrimeRénov' Sérénité ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Non, depuis le 1er janvier 2024, l'aide MaPrimeRénov' Sérénité est remplacée par l’aide MaPrimeRénov' Rénovation d'ampleur."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [
+    "Conseillers spécialisés en travaux de rénovation de l'habitat (France Rénov')"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "peut-on-encore-beneficier-de-maprimerenov-serenite",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "aides-et-prets-pour-l-amelioration-et-la-renovation-energetique-de-l-habitat",
+      "titre": "Aides et prêts pour l'amélioration et la rénovation énergétique de l'habitat"
+    }
+  ]
+}

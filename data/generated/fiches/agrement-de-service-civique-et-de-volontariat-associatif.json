@@ -1,0 +1,95 @@
+{
+  "id": "F15854",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Agrément de service civique et de volontariat associatif",
+  "theme": "Associations, fondations et fonds de dotation",
+  "description": "Les organismes sans but lucratif qui souhaitent accueillir des jeunes en service civique doivent obtenir un agrément de l'Agence du service civique.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-05-02",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F15854",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Associations, fondations et fonds de dotation",
+    "Bénévoles, volontaires et salariés d'une association",
+    "Agrément de service civique et de volontariat associatif"
+  ],
+  "introduction": "Vous dirigez un organisme sans but lucratif (OSBL) et vous souhaitez accueillir des jeunes en service civique ou en volontariat ? Vous devez préalablement obtenir un agrément. Le service civique est ouvert aux jeunes de 16 à 25 ans alors que le volontariat associatif concerne les plus de 25 ans. Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code du service national : article L120-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033971509"
+    },
+    {
+      "titre": "Code du service national : articles L120-31 à L120-36",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000021960341"
+    },
+    {
+      "titre": "Code du service national : articles R121-33 à R121-46",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000022208555/"
+    },
+    {
+      "titre": "Code du service national : articles R121-47 à R121-50",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022208516/"
+    },
+    {
+      "titre": "Arrêté du 21 juin 2017 fixant le montant de l'aide pour l'organisation de la formation civique et citoyenne des engagés de service civique",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000035072202"
+    },
+    {
+      "titre": "Arrêté du 2 juillet 2018 relatif au dossier de demande d'agrément d'engagement de service civique et de volontariat associatif",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000037235201/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demande ou renouvellement d'agrément pour l'engagement de service civique",
+      "url": "https://www.service-civique.gouv.fr/organisme/creation",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Service civique : publier ses offres de mission",
+      "url": "http://www.service-civique.gouv.fr/organismes/register",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Elisa (Extranet local pour l'indemnisation et le suivi des accueils de volontaires en service civique)",
+      "url": "https://ELISA.service-civique.gouv.fr",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Modèle de convention de mise à disposition d'un volontaire",
+      "url": "https://www.service-civique.gouv.fr/api/media/assets/document/service-civique-formulaire-modele-de-convention-de-mise-a-disposition-volontaire.pdf",
+      "type": "Modèle de document"
+    }
+  ],
+  "contacts": [
+    "Point ressource à la vie associative",
+    "Référents du service civique"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Comment formuler une demande d'agrément ?",
+      "url": "https://www.service-civique.gouv.fr/accueillir-un-volontaire/etape02-realiser-les-demarches-d-agrement/formuler-une-demande-dagrement-en-ligne"
+    },
+    {
+      "titre": "Accueillir un volontaire",
+      "url": "https://www.service-civique.gouv.fr/accueillir-un-volontaire"
+    },
+    {
+      "titre": "Les autres formes de volontariat",
+      "url": "https://www.service-civique.gouv.fr/page/les-autres-formes-de-volontariat"
+    }
+  ],
+  "slug": "agrement-de-service-civique-et-de-volontariat-associatif",
+  "path": [
+    {
+      "slug": "associations-fondations-et-fonds-de-dotation",
+      "titre": "Associations, fondations et fonds de dotation"
+    },
+    {
+      "slug": "benevoles-volontaires-et-salaries-d-une-association",
+      "titre": "Bénévoles, volontaires et salariés d'une association"
+    }
+  ]
+}

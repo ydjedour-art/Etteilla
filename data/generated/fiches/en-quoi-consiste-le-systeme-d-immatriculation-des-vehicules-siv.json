@@ -1,0 +1,101 @@
+{
+  "id": "F17638",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "En quoi consiste le système d'immatriculation des véhicules (SIV) ?",
+  "theme": "Transports - Mobilité",
+  "description": "Chaque véhicule est immatriculé dans le système d'immatriculation des véhicules (SIV) et a son propre numéro d’immatriculation qu’il conserve à vie.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-02-26",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F17638",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Carte grise (certificat d'immatriculation)",
+    "En quoi consiste le système d'immatriculation des véhicules (SIV) ?"
+  ],
+  "introduction": "Le SIV est le dispositif d'enregistrement des immatriculations des véhicules sur le territoire français. Chaque véhicule immatriculé depuis avril 2009 a son propre numéro SIV. Les véhicules immatriculés avant cette date obtiennent ce numéro lors d'un changement de situation nécessitant l’édition d’un nouveau certificat d’immatriculation (appelé auparavant carte grise). Le véhicule conserve ce numéro jusqu'à sa destruction, même s'il change de propriétaire. Nous faisons un point sur la réglementation.",
+  "chapitres": [
+    {
+      "titre": "Qu’est-ce que le système d'immatriculation des véhicules (SIV) ?",
+      "contenu": [
+        "Le SIV est un fichier national placé sous la responsabilité du ministère de l'intérieur et géré par France Titres - Agence nationale des titres sécurisés (ANTS).",
+        "Il sert à la gestion des certificats d'immatriculation et des autres documents administratifs exigés pour la circulation des véhicules.",
+        "Il repose sur les principes suivants :",
+        "• Attribution d’un numéro d’immatriculation SIV à vie pour chaque véhicule en circulation, quelle que soit l'identité ou l'adresse des propriétaires successifs, contrairement à l’ancien FNI",
+        "• Plus de numéro de département dans le numéro d'immatriculation SIV, cette référence départementale figure uniquement sur la plaque d’immatriculation",
+        "• Simplification des démarches administratives pour les usagers qui peuvent réaliser leurs démarches directement sur le site internet de l’ANTS ou auprès de professionnels habilités."
+      ]
+    },
+    {
+      "titre": "Comment se présente le numéro SIV ?",
+      "contenu": [
+        "La présentation diffère selon que vous avez un cyclomoteur ou non :",
+        "Cas général",
+        "Le numéro SIV est composé d'une série de 7 caractères alphanumériques : 2 lettres, 1 tiret, 3 chiffres, 1 tiret et 2 lettres (exemple : AA-123-AA).",
+        "Il est attribué chronologiquement dans une série nationale unique. Il est donc impossible de le choisir.",
+        "Cyclomoteurs",
+        "La présentation diffère selon la date d’immatriculation de votre cyclomoteur :",
+        "Cyclomoteurs immatriculés avant le 1er juillet 2015",
+        "Le numéro d’immatriculation d’un cyclomoteur immatriculé avant le 1er juillet 2015 se compose d'1 à 2 lettres, suivies de 2 à 3 chiffres, suivis de 1 lettre, avec un espace entre les blocs de lettres et le bloc de chiffres. (exemples : A 11 A ou AA 11 A).",
+        "[À noter] Lorsqu’une transaction nécessitant l’édition d’un nouveau certificat d’immatriculation est réalisée, un nouveau numéro d’immatriculation sera attribué, composé d'une série de 7 caractères alphanumériques : 2 lettres, 1 tiret, 3 chiffres, 1 tiret et 2 lettres (exemple : AA-123-AA).",
+        "Cyclomoteurs immatriculés à partir du 1er juillet 2015",
+        "Dans le cas d'un cyclomoteur nouvellement immatriculé à partir du 1er juillet 2015, le numéro d’immatriculation est composé d'une série de 7 caractères alphanumériques : 2 lettres, 1 tiret, 3 chiffres, 1 tiret et 2 lettres (exemple : AA-123-AA).",
+        "[À noter] 3 lettres ne sont pas utilisées, le I, le O et le U, pour éviter les confusions avec les chiffres 1 et 0 et la lettre V."
+      ]
+    },
+    {
+      "titre": "Quand et comment est attribué le numéro SIV ?",
+      "contenu": [
+        "Les véhicules reçoivent un nouveau numéro d'immatriculation SIV :",
+        "• Depuis le 15 avril 2009, pour tous les véhicules neufs",
+        "• Depuis le 15 octobre 2009, dès qu’une démarche impliquant l’édition d’un certificat d’immatriculation est effectuée pour un véhicule qui était immatriculé dans l'ancien système FNI (de type 123 AB 01).",
+        "[À savoir] La conversion d'une ancienne immatriculation en numéro SIV n'a pas de conséquence sur la validité du contrôle technique. Le procès-verbal du contrôle technique, sur lequel figure le numéro de série du véhicule, fait foi."
+      ]
+    },
+    {
+      "titre": "Peut-on obtenir spontanément un nouveau numéro SIV avec un ancien numéro ?",
+      "contenu": [
+        "Non, il n’est pas possible de demander une conversion volontaire d’un numéro d’immatriculation FNI (de type 123 AB 01) vers un numéro d’immatriculation SIV (de type AA-123-AA) sans effectuer une démarche administrative sur le véhicule.",
+        "La conversion du numéro FNI vers SIV se fait uniquement à l’occasion d’une modification sur le certificat d’immatriculation, telle que :",
+        "• Changement d’adresse",
+        "• Changement de titulaire",
+        "• Demande de duplicata",
+        "• Modification d’état civil ou d’état matrimonial",
+        "• Toute autre démarche nécessitant l’édition d’un nouveau certificat d’immatriculation.",
+        "Tant qu’aucune modification n’est réalisée, vous conservez votre ancien numéro FNI."
+      ]
+    },
+    {
+      "titre": "Un véhicule peut-il changer d'immatriculation SIV ?",
+      "contenu": [
+        "Un véhicule enregistré dans le SIV a un numéro à vie.",
+        "Si vous déménagez, vous devez faire les démarches de changement de domicile sur le certificat d’immatriculation. Si vous possédez déjà un numéro SIV, vous conservez le même numéro d’immatriculation et, en cas de changement de département, vous n’avez pas l’obligation de modifier votre plaque d’immatriculation.",
+        "[À noter] Il est également possible d'obtenir un nouveau numéro d'immatriculation SIV en cas d'usurpation de vos plaques."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la route : articles R322-1 à R322-14",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074228/LEGISCTA000006177098"
+    },
+    {
+      "titre": "Arrêté du 9 février 2009 relatif aux démarches d'immatriculation des véhicules",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000020237165"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "en-quoi-consiste-le-systeme-d-immatriculation-des-vehicules-siv",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "carte-grise-certificat-d-immatriculation",
+      "titre": "Carte grise (certificat d'immatriculation)"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "F36527",
+  "type_publication": "Recherche guidée",
+  "titre": "[RG - Contestation de la filiation]",
+  "theme": "Famille - Scolarité",
+  "description": "[RG - Contestation de la filiation]",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2026-07-06",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F36527",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Naissance et filiation",
+    "[RG - Contestation de la filiation]"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "rg-contestation-de-la-filiation",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "naissance-et-filiation",
+      "titre": "Naissance et filiation"
+    }
+  ]
+}

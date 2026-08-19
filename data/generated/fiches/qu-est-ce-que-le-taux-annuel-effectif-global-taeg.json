@@ -1,0 +1,131 @@
+{
+  "id": "F2456",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Qu'est-ce que le taux annuel effectif global (TAEG) ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Le TAEG calcule le coût réel d’un prêt. Il inclut les intérêts selon le taux effectif et tous les frais liés à la souscription du crédit.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-04-16",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2456",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Crédit à la consommation",
+    "Qu'est-ce que le taux annuel effectif global (TAEG) ?"
+  ],
+  "introduction": "Le TAEG représente le coût total d'un crédit. il prend en compte l’ensemble des frais liés au crédit. Il permet ainsi aux consommateurs de comparer différentes offres sur une base équitable, en intégrant tous les coûts obligatoires. Le TAEG est exprimé en pourcentage annuel de la somme empruntée. Voici les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Quels sont les frais inclus dans le TAEG ?",
+      "contenu": [
+        "Le TAEG inclut les intérêts calculés sur le montant emprunté (taux nominal), mais aussi tous les autres frais associés à l'obtention du crédit. Ces frais peuvent être liés aux éléments qui sont des conditions nécessaires pour l'obtention du crédit comme les frais de dossier, les honoraires de courtier ou encore les frais d'assurance obligatoire et de garanties obligatoires (hypothèque, caution,...)."
+      ]
+    },
+    {
+      "titre": "Comment estimer le TAEG d'un crédit ?",
+      "contenu": [
+        "Vous pouvez faire une estimation du TAEG en utilisant un simulateur :",
+        "Faire une simulation de l'échéancier et du TAEG d'un crédit immobilier"
+      ]
+    },
+    {
+      "titre": "Quelle est la différence entre crédit à la consommation et crédit immobilier concernant le TAEG ?",
+      "contenu": [
+        "Bien que le TAEG soit calculé de la même manière pour tous les types de crédit, certains frais peuvent différer :",
+        "Crédit à la consommation",
+        "Les frais sont plus limités et concernent principalement les suivants :",
+        "• Intérêts bancaires calculés sur la base du taux actuariel",
+        "• Frais de dossier (payés à la banque)",
+        "• Frais payés ou dus à des intermédiaires (courtier par exemple)",
+        "• Coût de l'assurance obligatoire (assurance de la banque ou d'une autre compagnie)",
+        "• Tous les autres frais qui vous sont imposés pour l'obtention du crédit (frais de tenue de compte, en cas d'obligation d'ouverture de compte dans la banque qui octroie le prêt).",
+        "Crédit immobilier",
+        "Les frais suivants sont pris en compte :",
+        "• Intérêts bancaires calculés sur la base du taux actuariel",
+        "• Frais de dossier (payés à la banque)",
+        "• Frais payés ou dus à des intermédiaires intervenus dans l'octroi du prêt (courtier par exemple).",
+        "Mais ce type de crédit inclut fréquemment des frais supplémentaires, notamment les suivants :",
+        "• Coût de l'assurance emprunteur",
+        "• Frais de garanties (hypothèque ou cautionnement)",
+        "• Frais d'évaluation du bien immobilier (payés à un agent immobilier)",
+        "• Tous les autres frais qui vous sont imposés pour l'obtention du crédit (frais de tenue de compte, en cas d'obligation d'ouverture de compte dans la banque qui octroie le prêt).",
+        "[À savoir] Pour un prêt qui finance l'achat d'un logement en l'état futur d'achèvement (Véfa), les intérêts intercalaires ne sont pas pris en compte dans le calcul du TAEG."
+      ]
+    },
+    {
+      "titre": "L'affichage du TAEG est-il obligatoire dans les publicités et contrats ?",
+      "contenu": [
+        "Les établissements financiers ont l'obligation légale de mentionner le TAEG dans leurs publicités, leurs offres préalables et leurs contrats de prêt.",
+        "Cette transparence permet à l'emprunteur de connaître le coût total du crédit, facilitant ainsi la comparaison entre plusieurs offres."
+      ]
+    },
+    {
+      "titre": "Que se passe-t-il en cas d'absence ou d'erreur de mention du TAEG ?",
+      "contenu": [
+        "En l'absence de mention du TAEG dans le contrat ou en cas d’erreur dans ce taux, l’emprunteur peut demander au juge de supprimer tout ou partie des intérêts prévus.",
+        "Pour décider du montant à annuler, le juge prend notamment en compte le préjudice subi par l’emprunteur.",
+        "Si le juge prononce cette sanction, le contrat reste valable pour le remboursement du capital, qui continue selon le calendrier initial. En revanche, les intérêts déjà payés doivent être remboursés par le prêteur ou déduits du montant du capital qu’il reste à rembourser. Ces sommes donnent droit, pour l’emprunteur, à des intérêts au taux légal à partir de la date à laquelle elles ont été versées."
+      ]
+    },
+    {
+      "titre": "Le TAEG peut-il dépasser le taux de l'usure ?",
+      "contenu": [
+        "Le TAEG ne peut pas être supérieur au taux de l'usure applicable, c'est-à-dire le taux maximal d'intérêt légalement applicable en France.",
+        "Il existe différents taux de l'usure selon votre situation : somme empruntée, durée et type de prêt, par exemple."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la consommation : articles L314-1 à L314-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069565/LEGISCTA000032228043/"
+    },
+    {
+      "titre": "Code de la consommation : articles R314-1 à R314-14",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069565/LEGISCTA000032807602/"
+    },
+    {
+      "titre": "Code de la consommation : articles L341-48 à L341-48-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069565/LEGISCTA000032222589/#LEGISCTA000032225579"
+    },
+    {
+      "titre": "Décret n°2002-928 du 10 juin 2002 relatif au calcul du taux effectif global applicable au crédit à la consommation",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000413399/"
+    },
+    {
+      "titre": "Directive 2014/17/UE du Parlement européen et du Conseil du 4 février 2014 sur les contrats de crédit aux consommateurs relatifs aux biens immobiliers à usage résidentiel",
+      "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=CELEX:32014L0017"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Faire une simulation de l'échéancier et du TAEG d'un crédit immobilier",
+      "url": "https://www.anil.org/outils/outils-de-calcul/echeancier-dun-pret/",
+      "type": "Simulateur"
+    }
+  ],
+  "contacts": [
+    "0809 540 550 DGCCRF - RéponseConso"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Taux de l'usure à partir du 1er juillet 2026",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054323743"
+    },
+    {
+      "titre": "Le taux de l'usure : qu’est-ce que c’est ?",
+      "url": "https://www.banque-france.fr/fr/a-votre-service/particuliers/connaitre-pratiques-bancaires-assurance/credit/taux-usure"
+    }
+  ],
+  "slug": "qu-est-ce-que-le-taux-annuel-effectif-global-taeg",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "credit-a-la-consommation",
+      "titre": "Crédit à la consommation"
+    }
+  ]
+}

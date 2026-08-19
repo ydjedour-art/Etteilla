@@ -1,0 +1,52 @@
+{
+  "id": "F1011",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Chômage : aide à la mobilité",
+  "theme": "Social - Santé",
+  "description": "Si vous êtes inscrit comme demandeur d'emploi, vous pourrez peut-être bénéficier de l'aide à la mobilité.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2024-07-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1011",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Chômage : aides à la reprise d'activité",
+    "Chômage : aide à la mobilité"
+  ],
+  "introduction": "Une aide à la mobilité peut vous être accordée notamment si vous êtes demandeur d'emploi inscrit à France Travail (anciennement Pôle emploi). Cette aide permet la prise en charge de tout ou en partie de vos frais de déplacement, de repas, et d'hébergement. L'aide peut être accordée si vous vous rendez à un entretien d'embauche, si vous avez une formation éloignée de votre lieu de résidence ou si vous participez à un concours. Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Délibération n°2012-51 du 23 novembre 2012 relative à l'accès aux aides de France Travail (anciennement Pôle emploi) pour les bénéficiaires des emplois d'avenir non inscrits comme demandeurs d'emploi",
+      "url": "http://www.bo-pole-emploi.org/bulletinsofficiels/deliberation-n2012-51-du-23-nove.html?type=dossiers/2012/bope-n2012-126-du-7-decembre-201"
+    },
+    {
+      "titre": "Instruction DG n° 2022-25 du 1er décembre 2022 relative aux aides financières à la mobilité",
+      "url": "https://www.bo-pole-emploi.org/bulletinsofficiels/instruction-dg-n-2022-25-du-1er-decembre-2022-bope-n-2022-83.html?type=dossiers/2022/bope-n-2022-83-du-16-decembre-2022"
+    },
+    {
+      "titre": "Aides financières à la mobilité",
+      "url": "https://www.pole-emploi.fr/candidat/en-formation/les-dispositifs/jentre-en-formation---laide-au-d.html"
+    },
+    {
+      "titre": "Revalorisation des allocations d'assurance chômage au 1er juillet 2025",
+      "url": "https://www.unedic.org/actualites/allocations-d-assurance-chomage-revalorisation-de-0-5-au-1er-juillet-2025"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "France Travail"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "chomage-aide-a-la-mobilite",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "chomage-aides-a-la-reprise-d-activite",
+      "titre": "Chômage : aides à la reprise d'activité"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "F38575",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Vous voulez passer le permis de conduire : aides financières",
+  "theme": "Social - Santé",
+  "description": "Si vous voulez souhaiter passer le permis de conduire, mais que vos ressources sont faibles, vous pouvez demander des aides sous certaines conditions.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-03-03",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F38575",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Aides financières",
+    "Vous voulez passer le permis de conduire : aides financières"
+  ],
+  "introduction": "Si vous voulez passer le permis de conduire, mais que vos ressources sont faibles, vous pouvez demander une aide financière sous certaines conditions.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Il existe plusieurs aides.",
+        "Elles varient selon votre situation : jeune, demandeur d’emploi, personne en situation de handicap, etc."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "vous-voulez-passer-le-permis-de-conduire-aides-financieres",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "aides-financieres",
+      "titre": "Aides financières"
+    }
+  ]
+}

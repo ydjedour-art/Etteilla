@@ -1,0 +1,68 @@
+{
+  "id": "F21248",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Qui perçoit les allocations familiales pour un enfant en garde alternée ?",
+  "theme": "Famille - Scolarité",
+  "description": "En cas de garde alternée à la suite d'une séparation ou d'un divorce, seules les allocations familiales peuvent être partagées entre les parents.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-03-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F21248",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Allocations destinées aux familles",
+    "Qui perçoit les allocations familiales pour un enfant en garde alternée ?"
+  ],
+  "introduction": "Les allocations familiales sont versées différemment selon que les parents sont d'accord ou non sur le ou les bénéficiaires.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "La garde alternée (ou résidence alternée) est le fait de fixer la résidence de l'enfant en alternance au domicile de chacun des parents.",
+        "La résidence alternée ne peut concerner que des enfants résidant alternativement au domicile de chacun de leurs parents dans une des situations suivantes :",
+        "• Le juge aux affaires familiales (Jaf) a fixé la résidence de l’enfant en alternance au domicile de chacun de ses parents. La résidence alternée est mise en œuvre de façon effective.",
+        "• En cas de déclaration de résidence alternée effectuée conjointement par les 2 parents à la Caf ou à la MSA",
+        "• En cas de déclaration de résidence alternée effectuée par un parent et non contestée par l’autre à la Caf ou à la MSA.",
+        "[À savoir] Si vous avez un seul enfant à charge, vous ne pouvez pas percevoir les allocations familiales."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la sécurité sociale : articles L521-1 à L521-3",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006156163/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles R521-1 à R521-4",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006156681"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Enfant(s) en résidence alternée - Déclaration et choix des parents",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_14000.do",
+      "type": "formulaireNG"
+    }
+  ],
+  "contacts": [
+    "Caisse d'allocations familiales (Caf)",
+    "Mutualité sociale agricole (MSA)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Partage des allocations si vous avez un ou plusieurs enfants en garde alternée",
+      "url": "https://www.caf.fr/allocataires/aides-et-demarches/droits-et-prestations/vie-personnelle/les-enfants-en-garde-alternee"
+    }
+  ],
+  "slug": "qui-percoit-les-allocations-familiales-pour-un-enfant-en-garde-alternee",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "allocations-destinees-aux-familles",
+      "titre": "Allocations destinées aux familles"
+    }
+  ]
+}

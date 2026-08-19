@@ -1,0 +1,105 @@
+{
+  "id": "F2665",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Carnet d'entretien de la copropriété",
+  "theme": "Logement",
+  "description": "Le carnet d'entretien de la copropriété centralise les informations essentielles sur l’entretien et les travaux, garantissant transparence et gestion efficace",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-08-04",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2665",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Documents de copropriété",
+    "Carnet d'entretien de la copropriété"
+  ],
+  "introduction": "Dans une copropriété, le syndic a l’obligation légale d’établir et de tenir à jour un carnet d'entretien de l’immeuble. Il s’agit d’un document obligatoire qui a pour objet de répertorier les informations techniques et administratives de l'immeuble. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "À quoi sert le carnet d’entretien de la copropriété ?",
+      "contenu": [
+        "Le carnet d’entretien est un outil d’information des copropriétaires et des acquéreurs. En effet, il permet de connaître l’état technique de l’immeuble, à travers les travaux réalisés, les contrats d’entretien et les travaux programmés.",
+        "Le carnet d’entretien est également un outil de gestion de la copropriété, puisqu’il retrace l’historique des travaux importants et des contrats d’entretien. Cela facilite la programmation et le suivi de l’entretien courant et des gros travaux."
+      ]
+    },
+    {
+      "titre": "Comment est établi le carnet d'entretien de la copropriété ?",
+      "contenu": [
+        "Le carnet d'entretien est établi, tenu et mis à jour par le syndic de copropriété. Il n'a pas à obtenir l'accord préalable du syndicat des copropriétaires pour établir le carnet d'entretien.",
+        "Lorsque la copropriété comporte plusieurs bâtiments :",
+        "• Le syndic doit ouvrir un chapitre par bâtiment dans le carnet d’entretien",
+        "• En présence d'un ou plusieurs syndicats secondaires, le syndic doit tenir à jour un carnet d'entretien pour chacun d'entre eux. Dans ce cas, le syndic ouvre, dans le carnet du syndicat principal, un chapitre pour les parties communes à l'ensemble des syndicats.",
+        "[À savoir] Ces prestations sont incluses dans la rémunération forfaitaire du syndic et ne peuvent pas donner lieu à rémunération complémentaire."
+      ]
+    },
+    {
+      "titre": "Que doit contenir le carnet d'entretien de la copropriété ?",
+      "contenu": [
+        "Informations obligatoires",
+        "Le carnet d'entretien doit mentionner au minimum les éléments suivants :",
+        "• Adresse de l'immeuble pour lequel il est établi",
+        "• Identité de l'actuel syndic de copropriété",
+        "• Références des contrats d'assurance souscrits par le syndicat de copropriétaires avec leurs dates d'échéance.",
+        "D'autres informations sont également obligatoires si les cas se présentent :",
+        "• Année de réalisation des travaux importants (par exemple, ravalement de façade, réfection de toiture, remplacement de l'ascenseur, de la chaudière ou des canalisations) et identité des entreprises ayant réalisé ces travaux",
+        "• Références des contrats d'assurance dommages ouvrages souscrits pour le compte du syndicat de copropriétaires dont la garantie est en cours",
+        "• Références des contrats d'entretien et de maintenance des équipements communs et date d'échéance de ces contrats",
+        "• Travaux prescrits dans le plan pluriannuel de travaux (PPT) et échéancier.",
+        "Informations complémentaires",
+        "Le carnet d'entretien peut mentionner toutes les informations complémentaires que les copropriétaires décident d'y faire figurer. La décision d'ajouter ces informations complémentaires est votée en assemblée générale des copropriétaires à la majorité simple.",
+        "Il peut notamment s'agir d'information sur la construction de l'immeuble ou sur les études techniques réalisées (par exemple, le diagnostic technique global (DTG) ou le diagnostic de performance énergétique collectif)."
+      ]
+    },
+    {
+      "titre": "Comment consulter le carnet d'entretien de la copropriété ?",
+      "contenu": [
+        "Le syndic de copropriété doit proposer un accès en ligne pour permettre à tous les copropriétaires de consulter le carnet d'entretien. Ce document doit être téléchargeable et imprimable.",
+        "Les copropriétaires peuvent également obtenir une copie du carnet d'entretien auprès du syndic. Cette demande est payante. Le prix est librement fixé par le syndic dans son contrat.",
+        "[À savoir] Une copie du carnet d'entretien doit également être annexée à la promesse de vente du lot.",
+        "Le carnet d'entretien doit nécessairement faire partie des archives qui sont remises par le syndic à son successeur en cas de changement de syndic."
+      ]
+    },
+    {
+      "titre": "Quelles sanctions en cas d'absence de carnet d'entretien de la copropriété ou d'absence de mise à jour ?",
+      "contenu": [
+        "L'absence d'établissement d'un carnet d'entretien ou d'actualisation de ce carnet peut :",
+        "• Engager la responsabilité du syndic si le syndicat des copropriétaires subi un dommage du fait de ce manquement",
+        "• Justifier la résiliation anticipée (révocation) du mandat du syndic."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Loi n°65-557 du 10 juillet 1965 : article 18",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044074302"
+    },
+    {
+      "titre": "Loi n°65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis : article 14-2",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043977289/2023-01-01/"
+    },
+    {
+      "titre": "Décret n°67-223 du 17 mars 1967 : article 33",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042078759"
+    },
+    {
+      "titre": "Décret n°2001-477 du 30 mai 2001 fixant le contenu du carnet d'entretien de l'immeuble",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000005631026"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "carnet-d-entretien-de-la-copropriete",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "documents-de-copropriete",
+      "titre": "Documents de copropriété"
+    }
+  ]
+}

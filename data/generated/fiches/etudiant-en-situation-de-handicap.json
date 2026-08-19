@@ -1,0 +1,112 @@
+{
+  "id": "F2326",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Étudiant en situation de handicap",
+  "theme": "Famille - Scolarité",
+  "description": "Un étudiant en situation de handicap doit pouvoir suivre une scolarité normale dans l'enseignement supérieur.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2024-10-18",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2326",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Inscription dans l'enseignement supérieur",
+    "Étudiant en situation de handicap"
+  ],
+  "introduction": "Vous êtes étudiant en situation de handicap et vous vous posez des questions sur le déroulement de votre scolarité dans l'enseignement supérieur ? Accueil dans l'établissement, transport, aides financières...Voici les informations utiles sur le sujet.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les règles diffèrent selon que vous étudiez en France ou que vous êtes en mobilité à l'étranger."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'éducation : articles L112-1 à L112-5",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000044523885"
+    },
+    {
+      "titre": "Code de l'éducation : articles D714-21 à D714-27",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071191/LEGISCTA000027866257/#LEGISCTA000027866257"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Connaître les lieux de restauration Crous",
+      "url": "https://www.etudiant.gouv.fr/fr/carte-pour-trouver-les-resto-u-235",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "Établissement d'enseignement supérieur",
+    "Centre régional des œuvres universitaires et scolaires (Crous)",
+    "Centre national d'enseignement à distance (Cned)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Informations au service des étudiants en situation de handicap",
+      "url": "http://www.handi-u.fr/"
+    },
+    {
+      "titre": "Formation et handicap",
+      "url": "https://www.onisep.fr/formation-et-handicap"
+    },
+    {
+      "titre": "Guide de l'accompagnement de l'étudiant handicapé à l'université",
+      "url": "http://cache.media.enseignementsup-recherche.gouv.fr/file/Lutte_contre_les_discriminations/90/2/121671_guide-handicap-2012_275902.pdf"
+    },
+    {
+      "titre": "Stages et handicap",
+      "url": "https://www.onisep.fr/Formation-et-handicap/Vers-l-emploi/La-formation-professionnelle/Stages-et-handicap-une-voie-vers-l-insertion"
+    },
+    {
+      "titre": "Aides au transport des étudiants en situation de handicap",
+      "url": "https://www.monparcourshandicap.gouv.fr/etudes-superieures/des-aides-aux-deplacements-pour-gagner-en-autonomie"
+    },
+    {
+      "titre": "Référent handicap",
+      "url": "https://www.monparcourshandicap.gouv.fr/actualite/le-referent-handicap-votre-allie-pendant-vos-etudes-superieures"
+    },
+    {
+      "titre": "Enseignant référent à la scolarisation des élèves en situation de handicap",
+      "url": "https://www.monparcourshandicap.gouv.fr/scolarite/quels-professionnels-de-lenseignement-accompagnent-les-eleves-en-situation-de-handicap"
+    },
+    {
+      "titre": "Etudier à l'étranger avec un handicap",
+      "url": "https://www.monparcourshandicap.gouv.fr/etudes-superieures/etudier-letranger-avec-un-handicap"
+    },
+    {
+      "titre": "Les campus connectés",
+      "url": "https://www.enseignementsup-recherche.gouv.fr/fr/se-former-dans-lieu-labellise-campus-connecte-46381"
+    },
+    {
+      "titre": "La santé sur les campus",
+      "url": "https://www.etudiant.gouv.fr/fr/la-sante-sur-les-campus-910"
+    },
+    {
+      "titre": "Aides psychologiques pour les étudiants",
+      "url": "https://www.etudiant.gouv.fr/fr/besoin-d-une-aide-psychologique-1297"
+    },
+    {
+      "titre": "Aménagements des concours et examens pour les étudiants en situation de handicap",
+      "url": "https://www.monparcourshandicap.gouv.fr/etudes-superieures/amenagements-des-concours-et-examens-pour-les-etudiants-en-situation-de-handicap"
+    },
+    {
+      "titre": "Alternance : des formations accessibles aux jeunes en situation de handicap",
+      "url": "https://www.monparcourshandicap.gouv.fr/etudes-superieures/alternance-des-formations-accessibles-aux-jeunes-en-situation-de-handicap"
+    }
+  ],
+  "slug": "etudiant-en-situation-de-handicap",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "inscription-dans-l-enseignement-superieur",
+      "titre": "Inscription dans l'enseignement supérieur"
+    }
+  ]
+}

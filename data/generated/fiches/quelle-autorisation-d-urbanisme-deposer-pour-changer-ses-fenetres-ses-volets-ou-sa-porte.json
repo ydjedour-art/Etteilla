@@ -1,0 +1,71 @@
+{
+  "id": "F36762",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quelle autorisation d'urbanisme déposer pour changer ses fenêtres, ses volets ou sa porte ?",
+  "theme": "Logement",
+  "description": "Une déclaration préalable de travaux ou un permis de construire sont nécessaires pour changer ses fenêtres, ses volets ou sa porte.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2024-12-03",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F36762",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Autorisations d'urbanisme",
+    "Quelle autorisation d'urbanisme déposer pour changer ses fenêtres, ses volets ou sa porte ?"
+  ],
+  "introduction": "Si vous remplacez vos fenêtres, vos volets et/ou une porte donnant sur l'extérieur par un autre modèle, une déclaration préalable de travaux (DP) est nécessaire. En revanche, si ces travaux sont accompagnés d'un changement de destination de tout ou partie du bâtiment, il faut un permis de construire (PC). C'est le cas, par exemple, si vous transformez un commerce ou une grange en habitation.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de l'urbanisme : article R*421-17",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034355355"
+    },
+    {
+      "titre": "Code de l'urbanisme : article R*421-14",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031764577"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Assistance pour votre demande d'autorisation d'urbanisme",
+      "url": "https://demarches.service-public.gouv.fr/mademarche/DAUA/demarche",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Bureau accueil et service à l'usager (Basu) de Paris : guichet électronique unique",
+      "url": "https://teleservices.paris.fr/demarchesurbanisme/jsp/site/Portal.jsp?page=accueil",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Déclaration préalable constructions et travaux non soumis à permis de construire",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_16702.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Demande de permis de construire pour une maison individuelle et/ou ses annexes (PCMI)",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_13406.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Demande de permis de construire (autre que portant sur une maison individuelle ou ses annexes)",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_13409.do",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Mairie",
+    "Centre départemental des impôts fonciers (CDIF)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "quelle-autorisation-d-urbanisme-deposer-pour-changer-ses-fenetres-ses-volets-ou-sa-porte",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "autorisations-d-urbanisme",
+      "titre": "Autorisations d'urbanisme"
+    }
+  ]
+}

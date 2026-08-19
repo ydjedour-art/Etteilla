@@ -1,0 +1,110 @@
+{
+  "id": "F2951",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Remboursement des frais de transports par l'Assurance maladie",
+  "theme": "Social - Santé",
+  "description": "L'Assurance maladie peut prendre en charge des frais de transport pour des soins, des examens ou pour rentrer chez soi après une hospitalisation.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-03-06",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2951",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Remboursement des soins par la Sécurité sociale",
+    "Remboursement des frais de transports par l'Assurance maladie"
+  ],
+  "introduction": "Vous avez besoin d'un transport pour des soins, des examens ou pour rentrer chez vous après une hospitalisation ? L'Assurance maladie peut prendre en charge vos frais de transport, sous certaines conditions et si votre état de santé le justifie. Si la prescription concerne un transport assis professionnalisé (VSL, taxi conventionné) et que votre état de santé le permet, un transport partagé vous est proposé. Nous vous présentons la réglementation à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de la sécurité sociale : article L161-33",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043498632"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles L162-2 à L162-4-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000006172513/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles L322-5 à L322-5-4",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000006172596/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles L432-1 à L432-4-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000006172659"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles R322-10 à R322-10-9",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000006186455/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : article R322-11-1 à R322-11-8",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000006186456/#LEGISCTA000023755274"
+    },
+    {
+      "titre": "Code de la santé publique : article L6312-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033714968/"
+    },
+    {
+      "titre": "Arrêté du 23 décembre 2006 fixant le référentiel de prescription des transports",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000645199"
+    },
+    {
+      "titre": "Arrêté du 28 février 2025 relatif aux transports partagés",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000051270868/"
+    },
+    {
+      "titre": "Circulaire n°DGOS/R2/DSS/1A/CNAMTS/2013/262 du 27 juin 2013",
+      "url": "http://circulaire.legifrance.gouv.fr/pdf/2013/06/cir_37176.pdf"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Facture de transport Véhicule sanitaire léger (VSL) et ambulance",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_11163.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Demande de remboursement des frais de transports pour motif médical en véhicule personnel et/ou transports en commun",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_11162.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Prescription médicale de transport",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_11574.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Demande d'accord préalable de transport - prescription médicale de transport",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_11575.do",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Santé Info Droits"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Frais de transport : prise en charge et remboursements",
+      "url": "https://www.ameli.fr/assure/remboursements/rembourse/transport/transport"
+    },
+    {
+      "titre": "Remboursement des frais de transport",
+      "url": "https://www.ameli.fr/transporteur-sanitaire/exercice-professionnel/facturation/taux-remboursement/taux-remboursement"
+    },
+    {
+      "titre": "Annuaire santé - Site Ameli",
+      "url": "https://annuairesante.ameli.fr/"
+    }
+  ],
+  "slug": "remboursement-des-frais-de-transports-par-l-assurance-maladie",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "remboursement-des-soins-par-la-securite-sociale",
+      "titre": "Remboursement des soins par la Sécurité sociale"
+    }
+  ]
+}

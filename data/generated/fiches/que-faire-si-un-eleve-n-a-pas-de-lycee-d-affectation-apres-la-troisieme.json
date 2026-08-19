@@ -1,0 +1,54 @@
+{
+  "id": "F32777",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Que faire si un élève n'a pas de lycée d'affectation après la troisième ?",
+  "theme": "Famille - Scolarité",
+  "description": "Si la décision de fin de 3e était l'orientation en lycée, l'enfant devrait être affecté dans le lycée de votre secteur. Sinon, il faut contacter le Dasen.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-11-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F32777",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Collège et lycée",
+    "Que faire si un élève n'a pas de lycée d'affectation après la troisième ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Si, en fin de 3e, vous avez une décision d'orientation pour la seconde générale et technologique ou professionnelle (public ou privé sous contrat), vous devez être admis dans un lycée public. L'affectation se fait généralement dans votre secteur géographique.",
+        "Si vous n'avez pas reçu d'avis d'affectation par manque de place disponible, vous devez contacter la direction des services départementaux de l'éducation nationale de votre secteur géographique.",
+        "Vous pouvez également vous rapprocher du principal de votre collège ou d'un psychologue de l’Éducation nationale dans un centre d'information et d'orientation (CIO). Ils vous accompagneront dans la recherche d'une place dans un lycée.",
+        "Direction des services départementaux de l'Éducation nationale",
+        "Établissement scolaire",
+        "Centre d'information et d'orientation (CIO)"
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [
+    "Direction des services départementaux de l'Éducation nationale",
+    "Établissement scolaire",
+    "Centre d'information et d'orientation (CIO)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "L'orientation en 3e et l'affectation en lycée",
+      "url": "https://www.education.gouv.fr/reussir-au-lycee/l-orientation-en-3e-et-l-affectation-en-lycee-9257"
+    }
+  ],
+  "slug": "que-faire-si-un-eleve-n-a-pas-de-lycee-d-affectation-apres-la-troisieme",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "college-et-lycee",
+      "titre": "Collège et lycée"
+    }
+  ]
+}

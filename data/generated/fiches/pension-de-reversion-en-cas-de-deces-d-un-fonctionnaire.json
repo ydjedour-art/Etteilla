@@ -1,0 +1,112 @@
+{
+  "id": "F21819",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Pension de réversion en cas de décès d'un fonctionnaire",
+  "theme": "Famille - Scolarité",
+  "description": "Le décès de l'époux bénéficiaire d'une pension de retraite du SRE ou de la CNRACL ouvre droit, sous certaines conditions, à une pension de réversion.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-02-21",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F21819",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Pension de réversion et pension d'orphelin au décès d'un fonctionnaire",
+    "Pension de réversion en cas de décès d'un fonctionnaire"
+  ],
+  "introduction": "Au décès de votre époux ou épouse, vous pouvez, sous certaines conditions, percevoir une partie de sa pension de retraite, appelée pension de réversion, si votre époux ou épouse percevait ou aurait pu percevoir une retraite de base de la part du SRE ou de la CNRACL selon qu'il était fonctionnaire d'Etat ou fonctionnaire territorial ou hospitalier. Nous vous présentons les informations à connaître selon votre fonction publique d'appartenance (État - FPE, territoriale - FPT, hospitalière - FPH).",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Cette page présente les conditions d'attribution d'une pension de réversion par le SRE ou par la CNRACL.",
+        "Si la personne décédée percevait ou aurait pu percevoir une ou plusieurs pensions de retraite d'un ou plusieurs autres régimes de retraite (de base ou complémentaires), vous pouvez utiliser un simulateur qui vous permet d'évaluer vos droits à une pension de réversion de la part de ces autres régimes de retraite.",
+        "Simulateur de droit à la réversion",
+        "Quel que soit le ou les régimes de retraite dont relevait la personne décédée, vous devez obligatoirement avoir été marié avec cette personne pour pouvoir bénéficier d'une pension de réversion."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code des pensions civiles et militaires de retraite : articles L38 à L46",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006148899/"
+    },
+    {
+      "titre": "Code des pensions civiles et militaires de retraite : article L88",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027432082"
+    },
+    {
+      "titre": "Code des pensions civiles et militaires de retraite : articles R53 à R57 bis",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006148922/"
+    },
+    {
+      "titre": "Code des pensions civiles et militaires de retraite : articles R96 à R98",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006148946/"
+    },
+    {
+      "titre": "Code des pensions civiles et militaires de retraite : articles D19-1 à D19-6",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006134988"
+    },
+    {
+      "titre": "Code des pensions civiles et militaires de retraite : articles D20 à D26",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006148876"
+    },
+    {
+      "titre": "Décret n°2003-1306 du 26 décembre 2003 relatif au régime de retraite des fonctionnaires affiliés à la Caisse nationale de retraites des agents des collectivités locales",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000005753112/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Simulateur de droit à la réversion",
+      "url": "https://services.info-retraite.fr/service/simulateur-de-droit-a-la-reversion/",
+      "type": "Simulateur"
+    },
+    {
+      "titre": "Demande de pension de réversion et de rente d’éducation ou handicap à la suite du décès d'un fonctionnaire de l'État, d'un magistrat ou d'un militaire en activité",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_12231.do",
+      "type": "formulaireNG"
+    },
+    {
+      "titre": "Demander une retraite de réversion",
+      "url": "https://www.info-retraite.fr/portail-services/drv",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "Service des retraites de l'État (SRE)",
+    "Caisse nationale de retraite des agents des collectivités locales (CNRACL)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Retraites des fonctionnaires de l'État",
+      "url": "https://retraitesdeletat.gouv.fr/"
+    },
+    {
+      "titre": "Caisse nationale de retraites des agents des collectivités locales (CNRACL)",
+      "url": "https://www.cnracl.retraites.fr/"
+    },
+    {
+      "titre": "Droit du conjoint en cas de décès (pension de réversion)",
+      "url": "https://www.info-retraite.fr/portail-info/sites/PortailInformationnel/home/mes-droits-a-la-retraite/ma-vie-personnelle-1/famille/pension-de-reversion-1.html"
+    },
+    {
+      "titre": "Prestations de réversion de la Rafp",
+      "url": "https://www.rafp.fr/actif/activite/reversion"
+    },
+    {
+      "titre": "Comment demander ma pension de réversion au service des retraites de l'Etat?",
+      "url": "https://retraitesdeletat.gouv.fr/deces/les-demarches/la-pension-de-reversion"
+    }
+  ],
+  "slug": "pension-de-reversion-en-cas-de-deces-d-un-fonctionnaire",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "pension-de-reversion-et-pension-d-orphelin-au-deces-d-un-fonctionnaire",
+      "titre": "Pension de réversion et pension d'orphelin au décès d'un fonctionnaire"
+    }
+  ]
+}

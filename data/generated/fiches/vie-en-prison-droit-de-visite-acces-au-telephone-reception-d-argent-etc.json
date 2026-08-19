@@ -1,0 +1,99 @@
+{
+  "id": "F14149",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Vie en prison : droit de visite, accès au téléphone, réception d'argent, etc.",
+  "theme": "Justice",
+  "description": "Une personne en prison a le droit de recevoir des visites, de communiquer avec l'extérieur et de recevoir de l'argent pour subvenir à vos besoins quotidiens.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-02-05",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F14149",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Prison",
+    "Vie en prison : droit de visite, accès au téléphone, réception d'argent, etc."
+  ],
+  "introduction": "De quels droits pouvez-vous bénéficier si vous êtes en prison ? Même si vous êtes privé de liberté, vous avez le droit de recevoir des visites, de communiquer avec l'extérieur (par téléphone, courrier) et de recevoir de l'argent pour subvenir à vos besoins quotidiens. Vous pouvez également pratiquer des activités culturelles et sportives et exercer votre religion. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les droits dont bénéficient les personnes condamnées ne sont pas les mêmes que ceux accordés aux personnes placées en détention provisoire (appelées prévenu ou accusé).",
+        "Ces droits sont précisés dans le règlement intérieur de chaque établissement pénitentiaire. Ils sont repris dans un guide qui vous est remis dès votre arrivée en prison."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code pénitentiaire : article R112-22",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046367919"
+    },
+    {
+      "titre": "Code pénitentiaire : articles R341-17 à D341-21",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000045476241/LEGISCTA000045489210/#LEGISCTA000045492547"
+    },
+    {
+      "titre": "Code pénitentiaire : articles L345-1 à L345-7",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000045476241/LEGISCTA000045478707/#LEGISCTA000045480044"
+    },
+    {
+      "titre": "Code de procédure pénale : article 145-4",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033462335"
+    },
+    {
+      "titre": "Code de procédure pénale : article 145-4-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045498237"
+    },
+    {
+      "titre": "Code pénitentiaire : articles D414-1 à D414-9",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000045476241/LEGISCTA000045489524/#LEGISCTA000045492217"
+    },
+    {
+      "titre": "Code pénitentiaire : articles R351-1 à R352-9",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000045476241/LEGISCTA000045489290/#:~:text=Cr%C3%A9ation%20D%C3%A9cret%20n%C2%B02022,pr%C3%A9sence%20des%20intervenants%20d'aum%C3%B4nerie."
+    },
+    {
+      "titre": "Code de procédure pénale : articles D142 à D145",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000006182099/#LEGISCTA000006182099"
+    },
+    {
+      "titre": "Code de procédure pénale : article D147",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033121930"
+    },
+    {
+      "titre": "Code pénitentiaire : articles L224-5 à L224-11",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000045476241/LEGISCTA000051748491?idSecParent=LEGISCTA000051751767#LEGISCTA000051748491"
+    },
+    {
+      "titre": "Décret n° 2025-620 du 8 juillet 2025 relatif aux quartiers de lutte contre la criminalité organisée, à l'anonymat des personnels de l'administration pénitentiaire et modifiant le code pénitentiaire",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051861954"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demande de permis de visite (prison)",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_13960.do",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Service pénitentiaire d'insertion et de probation (Spip)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Guide du détenu arrivant",
+      "url": "https://www.justice.gouv.fr/sites/default/files/2024-07/dap_guide_je_suis_en_detention.pdf"
+    }
+  ],
+  "slug": "vie-en-prison-droit-de-visite-acces-au-telephone-reception-d-argent-etc",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "prison",
+      "titre": "Prison"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "F34843",
+  "type_publication": "Recherche guidée",
+  "titre": "Scolarité en France d'un enfant arrivant de l'étranger",
+  "theme": "Famille - Scolarité",
+  "description": "Scolarité en France d'un enfant arrivant de l'étranger",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2019-02-21",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34843",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Scolarité en France d'un enfant arrivant de l'étranger",
+    "Scolarité en France d'un enfant arrivant de l'étranger"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "scolarite-en-france-d-un-enfant-arrivant-de-l-etranger",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "scolarite-en-france-d-un-enfant-arrivant-de-l-etranger",
+      "titre": "Scolarité en France d'un enfant arrivant de l'étranger"
+    }
+  ]
+}

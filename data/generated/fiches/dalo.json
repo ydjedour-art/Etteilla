@@ -1,0 +1,33 @@
+{
+  "id": "F37237",
+  "type_publication": "Recherche guidée",
+  "titre": "Dalo",
+  "theme": "Logement",
+  "description": "Dalo",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2026-07-08",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F37237",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Accéder à un logement social",
+    "Dalo"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "dalo",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "acceder-a-un-logement-social",
+      "titre": "Accéder à un logement social"
+    }
+  ]
+}

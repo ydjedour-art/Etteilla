@@ -1,0 +1,64 @@
+{
+  "id": "F2267",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Peut-on percevoir rétroactivement les prestations familiales non demandées ?",
+  "theme": "Famille - Scolarité",
+  "description": "Certaines prestations peuvent être versées rétroactivement. Vous percevez l'ensemble des sommes dues même si vous déposez votre dossier tardivement.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-12-12",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2267",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Allocations destinées aux familles",
+    "Peut-on percevoir rétroactivement les prestations familiales non demandées ?"
+  ],
+  "introduction": "Dans le cas de certaines prestations familiales, si vous n'en avez pas fait la demande alors que vous répondiez aux conditions pour en bénéficier, vous avez un délai de 2 ans à partir du jour où les conditions d'ouverture du droit ont été réunies pour les demander.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "En principe, les prestations familiales sont dues à partir du 1er jour du mois civil suivant celui au cours duquel les conditions d'ouverture du droit sont réunies (exemples : complément familial, allocation de rentrée scolaire).",
+        "[Exemple] Vous remplissez les conditions pour percevoir les prestations familiales depuis le 10 juin de l’année X. Ces prestations familiales vous sont dues à partir du 1er jour du mois civil suivant, c’est-à-dire à partir du du 1er juillet de cette même année X.",
+        "Toutefois, certaines prestations ne peuvent pas être versées rétroactivement. Il en est ainsi notamment pour l'allocation journalière de présence parentale (AJPP), le complément de libre choix du mode de garde (CMG) et l'allocation d'éducation de l'enfant handicapé (AEEH).",
+        "Allocation journalière de présence parentale (AJPP)",
+        "Le versement est dû à partir du 1er jour du mois de dépôt de la demande. Cette prestation n'est donc pas versée rétroactivement.",
+        "En effet, c'est la date du dépôt de la demande qui est prise en compte pour l'ouverture des droits, et non le seul fait que les conditions d'ouverture du droit soient remplies.",
+        "Complément de libre choix du mode de garde (CMG)",
+        "Le CMG est dû à compter du 1er jour du mois civil précédant celui du dépôt de la demande, sous réserve que les conditions d'ouverture du droit soient réunies à cette date. Dans ce cas, la rétroactivité n'est pas possible.",
+        "Toutefois, le droit est ouvert à compter du 1er jour du mois civil où les conditions en sont remplies dans 2 cas :",
+        "• Lorsqu'un droit est déjà ouvert au titre d'un autre enfant. Dans ce cas, la rétroactivité peut être demandée",
+        "• Lorsque la demande est déposée au cours du mois où les conditions sont remplies.",
+        "Allocation d'éducation de l'enfant handicapé (AEEH)",
+        "L'AEEH est attribuée à compter du 1er jour du mois suivant celui du dépôt de la demande. Cette prestation n'est donc pas versée rétroactivement."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la sécurité sociale : articles L553-1 à L553-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000006156182"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles R552-1 à R552-3",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000006156694/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Caisse d'allocations familiales (Caf)",
+    "Mutualité sociale agricole (MSA)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "peut-on-percevoir-retroactivement-les-prestations-familiales-non-demandees",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "allocations-destinees-aux-familles",
+      "titre": "Allocations destinées aux familles"
+    }
+  ]
+}

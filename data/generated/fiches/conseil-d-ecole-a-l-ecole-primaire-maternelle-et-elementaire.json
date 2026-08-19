@@ -1,0 +1,131 @@
+{
+  "id": "F1399",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Conseil d'école à l'école primaire (maternelle et élémentaire)",
+  "theme": "Famille - Scolarité",
+  "description": "Le conseil d'école vote le règlement intérieur, adopte le projet d'école et donne son avis sur les questions de la vie scolaire et périscolaire.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-01-09",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1399",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "École primaire (maternelle et élémentaire)",
+    "Conseil d'école à l'école primaire (maternelle et élémentaire)"
+  ],
+  "introduction": "Votre enfant est à l'école maternelle ou élémentaire et vous souhaitez être informé sur le rôle du conseil d'école dans son établissement ? Le conseil d'école est l'assemblée qui prend les décisions importantes de l'organisation de l'établissement. Composition, fonctionnement, décisions : voici les informations à connaître sur le conseil d'école.",
+  "chapitres": [
+    {
+      "titre": "Quel est le rôle du conseil d'école ?",
+      "contenu": [
+        "Le conseil d'école établit et vote le règlement intérieur de l'école.",
+        "Il participe à l'élaboration et adopte le projet d'école.",
+        "Il donne son avis sur les questions concernant la vie de l'école, notamment sur les sujets suivants :",
+        "• Actions pédagogiques et éducatives",
+        "• Utilisation des moyens alloués à l'école",
+        "• Conditions d'intégration des enfants handicapés",
+        "• Activités périscolaires",
+        "• Restauration scolaire",
+        "• Hygiène scolaire",
+        "• Protection et sécurité des enfants dans le cadre scolaire et périscolaire",
+        "• Respect et la mise en application des valeurs et des principes de la République.",
+        "Il donne son accord pour l'organisation d'activités complémentaires éducatives, sportives ou culturelles.",
+        "Il définit le calendrier des rencontres entre les enseignants et les parents d'élèves.",
+        "En fin d'année scolaire, le directeur de l'école transmet aux membres du conseil d'école un bilan. Ce bilan concerne notamment la réalisation du projet d'école, et les suites qui ont été données aux avis formulés par le conseil d'école.",
+        "Le conseil d'école peut transmettre un projet d'organisation de la semaine scolaire au Dasen, après avis de l'inspecteur de l'éducation nationale.",
+        "Si le projet d'organisation du temps scolaire proposé par le conseil d'école est diffèrent de celui du maire, l'inspecteur de l'éducation nationale met en place une concertation qui doit permettre de rapprocher les 2 projets.",
+        "Au final, c'est le Dasen qui choisit l'organisation du temps scolaire des écoles concernées."
+      ]
+    },
+    {
+      "titre": "Qui est membre du conseil d'école ?",
+      "contenu": [
+        "Membres ayant le droit de vote",
+        "Le conseil d'école est composé des membres suivants :",
+        "• Directeur de l'école, qui préside le conseil",
+        "• Ensemble des maîtres affectés à l'école",
+        "• Maire",
+        "• Conseiller municipal ou président de l'intercommunalité",
+        "• Représentants élus des parents d'élèves (autant de représentants que l'école comporte de classes)",
+        "• Délégué départemental de l'éducation chargé de visiter les écoles.",
+        "L'ensemble de ces membres a le droit de vote.",
+        "[À savoir] le conseil d'école peut avoir lieu même si aucun représentant des parents d'élèves n'a pu être élu ou désigné (par exemple s'il n'y avait aucun candidat).",
+        "Membres supplémentaires",
+        "L'inspecteur de l'éducation nationale de la circonscription et les suppléants des représentants des parents d'élèves peuvent assister au conseil d'école.",
+        "Certaines personnes peuvent aussi assister au conseil si des sujets inscrits à l'ordre du jour les concernent.",
+        "Il s'agit notamment des personnes suivantes :",
+        "• Personnes chargées d'activités sportives et culturelles",
+        "• Personnes participant aux actions de prévention et d'aide psychologique",
+        "• Équipe médicale scolaire",
+        "• Assistantes sociales",
+        "• ATSEM.",
+        "Ces membres supplémentaires n'ont pas le droit de vote."
+      ]
+    },
+    {
+      "titre": "Quelle est la durée du mandat des membres du conseil d'école ?",
+      "contenu": [
+        "Les membres du conseil d'école sont élus ou désignés pour une année scolaire."
+      ]
+    },
+    {
+      "titre": "Quelles sont les règles de fonctionnement du conseil d'école ?",
+      "contenu": [
+        "Le conseil se réunit au moins 1 fois par trimestre, et obligatoirement dans le mois qui suit l'élection des représentants des parents d'élèves.",
+        "L'ordre du jour est adressé aux membres du conseil au moins 8 jours avant les réunions du conseil.",
+        "Après le conseil, le directeur de l'école dresse un procès-verbal qui est affiché dans un lieu accessible aux parents d'élèves."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'éducation : articles D111-1 à D111-5",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006182457"
+    },
+    {
+      "titre": "Code de l'éducation : articles D411-1 à D411-9",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000018380826"
+    },
+    {
+      "titre": "Arrêté du 13 mai 1985 relatif au conseil d'école",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000019266475/"
+    },
+    {
+      "titre": "Circulaire n°2006-137 du 25 août 2006 relative au rôle et à la place des parents à l'école",
+      "url": "https://www.legifrance.gouv.fr/circulaire/id/324"
+    },
+    {
+      "titre": "Circulaire n°90-039 du 15 février 1990 relative au projet d'école",
+      "url": "http://circulaire.legifrance.gouv.fr/pdf/2009/04/cir_870.pdf"
+    },
+    {
+      "titre": "Circulaire n°2014-088 du 9 juillet 2014 relative au règlement type départemental des écoles maternelles et élémentaires",
+      "url": "https://www.legifrance.gouv.fr/download/pdf/circ?id=38497"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Établissement scolaire"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Le règlement intérieur à l'école",
+      "url": "https://www.education.gouv.fr/le-reglement-interieur-l-ecole-7751"
+    },
+    {
+      "titre": "Le conseil d'école et les autres instances de l'école",
+      "url": "http://eduscol.education.fr/cid77759/le-conseil-d-ecole.html"
+    }
+  ],
+  "slug": "conseil-d-ecole-a-l-ecole-primaire-maternelle-et-elementaire",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "ecole-primaire-maternelle-et-elementaire",
+      "titre": "École primaire (maternelle et élémentaire)"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": "F14930",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Passeport d'un mineur : première demande",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Pour faire le passeport d'un mineur, l'enfant et son représentant légal doivent se rendre dans une mairie équipée avec les pièces justificatives.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-06-19",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F14930",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Passeport",
+    "Passeport d'un mineur : première demande"
+  ],
+  "introduction": "Vous souhaitez faire une première demande de passeport pour un mineur ? Un mineur français peut avoir un passeport quel que soit son âge (même un bébé). La procédure varie selon que la demande est faite en France ou à l'étranger et selon l'âge du mineur. Nous vous présentons les étapes de la démarche.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Décret n°2005-1726 du 30 décembre 2005 relatif au passeport : article 5 - Pièces à fournir pour une première demande",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000033333825"
+    },
+    {
+      "titre": "Code général des impôts : articles 953 à 955",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006179981/"
+    },
+    {
+      "titre": "Code civil : articles 372 à 373-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006165785/"
+    },
+    {
+      "titre": "Décret n°2005-1726 du 30 décembre 2005 relatif au passeport : article 6-1 - Empreintes et photo",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000033333857"
+    },
+    {
+      "titre": "Décret n°2005-1726 du 30 décembre 2005 relatif aux passeports : article 8 - Représentant légal et présence obligatoire",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000033333855"
+    },
+    {
+      "titre": "Décret n°2005-1726 du 30 décembre 2005 relatif au passeport : article 10 - Retrait du passeport",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000033333863"
+    },
+    {
+      "titre": "Arrêté du 5 février 2009 relatif aux photos d'identité produites pour une demande de passeport",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000020246797/"
+    },
+    {
+      "titre": "Arrêté du 20 avril 2016 autorisant la création d'un système de téléservices destinés à la prédemande et à la demande de titres officiels",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000032445878/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Achat en ligne du timbre fiscal - Passeport",
+      "url": "https://timbres.impots.gouv.fr",
+      "type": "selNG"
+    },
+    {
+      "titre": "Rechercher un rendez-vous pour une demande de passeport",
+      "url": "https://rendezvouspasseport.ants.gouv.fr/",
+      "type": "Outil de recherche"
+    },
+    {
+      "titre": "Pré-demande pour une demande de 1er passeport",
+      "url": "https://passeport.ants.gouv.fr/demarches-en-ligne/faire-une-premiere-demande-de-passeport",
+      "type": "selNG"
+    },
+    {
+      "titre": "Suivre l'état d'avancement d'une demande de passeport",
+      "url": "https://moncompte.ants.gouv.fr/suivi_cni_passeport",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "France Services / Maison de services au public",
+    "Point d'accueil numérique"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Vérifier si l'état civil de votre ville de naissance est dématérialisé",
+      "url": "https://passeport.ants.gouv.fr/services/villes-adherentes-a-la-dematerialisation"
+    },
+    {
+      "titre": "Consuls honoraires habilités à remettre les cartes d'identité et les passeports",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052295016"
+    }
+  ],
+  "slug": "passeport-d-un-mineur-premiere-demande",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "passeport",
+      "titre": "Passeport"
+    }
+  ]
+}

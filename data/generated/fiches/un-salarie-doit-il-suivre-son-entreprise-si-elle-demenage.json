@@ -1,0 +1,47 @@
+{
+  "id": "F1918",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Un salarié doit-il suivre son entreprise si elle déménage ?",
+  "theme": "Travail - Formation",
+  "description": "Le salarié peut refuser ou pas un changement de son lieu de travail, selon les dispositions prévues dans son contrat de travail.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2024-02-21",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1918",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Contrats de travail dans le secteur privé",
+    "Un salarié doit-il suivre son entreprise si elle déménage ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Cela dépend des conditions de déménagement de l'entreprise :",
+        "• Soit le déménagement a lieu dans le même secteur initial géographique d'activité de l'entreprise prévu par le contrat de travail du salarié",
+        "• Soit le déménagement a lieu en dehors du secteur initial géographique d'activité de l'entreprise prévu par le contrat de travail du salarié"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code du travail : article L1222-6",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028724382"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "un-salarie-doit-il-suivre-son-entreprise-si-elle-demenage",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "contrats-de-travail-dans-le-secteur-prive",
+      "titre": "Contrats de travail dans le secteur privé"
+    }
+  ]
+}

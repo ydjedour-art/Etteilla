@@ -1,0 +1,60 @@
+{
+  "id": "F2122",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Le salaire du concierge, gardien ou employé fait-il partie des charges locatives (récupérables sur le locataire) ?",
+  "theme": "Logement",
+  "description": "Sous certaines conditions, le salaire du personnel d'entretien (gardien ou concierge ou employé) fait partie des charges que le locataire doit payer.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-03-10",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2122",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Budget et charges de copropriété",
+    "Le salaire du concierge, gardien ou employé fait-il partie des charges locatives (récupérables sur le locataire) ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Sous certaines conditions, le salaire du personnel d'entretien (gardien ou concierge ou employé) fait partie des charges que le locataire doit payer. Ces charges sont dites récupérables sur le locataire.",
+        "Les dépenses de personnel récupérables sur le locataire correspondent uniquement à la rémunération (salaire brut) et aux charges sociales et fiscales.",
+        "Elles n’incluent donc pas les dépenses suivantes, qui restent à la charge des propriétaires :",
+        "• Le salaire en nature",
+        "• L'intéressement et la participation aux bénéfices de l'entreprise",
+        "• Les indemnités et primes de départ à la retraite",
+        "• Les indemnités de licenciement",
+        "• La cotisation à une mutuelle prise en charge par l'employeur",
+        "• La cotisation à la médecine du travail.",
+        "[À noter] L'employé de l'immeuble n'a pas de logement de fonction dans la copropriété, à la différence du gardien d'immeuble ou du concierge. Il est embauché par une entreprise."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Décret n°87-713 du 26 août 1987 fixant la liste des charges récupérables sur les locataires",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006066149/"
+    },
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 23",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000041587263/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "le-salaire-du-concierge-gardien-ou-employe-fait-il-partie-des-charges-locatives-recuperables-sur-le-locataire",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "budget-et-charges-de-copropriete",
+      "titre": "Budget et charges de copropriété"
+    }
+  ]
+}

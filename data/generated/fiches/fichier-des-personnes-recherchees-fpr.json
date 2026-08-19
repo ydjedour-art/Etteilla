@@ -1,0 +1,284 @@
+{
+  "id": "F34830",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Fichier des personnes recherchées (FPR)",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Le fichier des personnes recherchées sert à faciliter les recherches de la police et de la gendarmerie, à la demande de la justice et de l'administration.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-01-30",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34830",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Fichiers judiciaires et de police judiciaire",
+    "Fichier des personnes recherchées (FPR)"
+  ],
+  "introduction": "Qu’est-ce que le FPR ? Il s’agit d’un fichier informatique utilisé par des services exerçant des missions de police judiciaire et administrative. Il recense des données à caractère personnel et des informations concernant des personnes impliquées dans une procédure judiciaire ou administrative. Sous certaines conditions, les renseignements enregistrés dans ce fichier peuvent être consultés, rectifiés ou effacés. Voici les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "À quoi sert le FPR ?",
+      "contenu": [
+        "Le FPR sert à rechercher, surveiller ou contrôler certaines personnes à la demande des autorités judiciaires, des autorités administratives ou des services de police ou de gendarmerie.",
+        "Il peut également être consulté lors d'enquêtes administratives. Par exemple, pour le recrutement dans certains emplois.",
+        "Le fichier est organisé en 18 catégories.",
+        "Chaque catégorie regroupe les personnes inscrites pour un même motif. Par exemple, la catégorie S regroupe les personnes inscrites au FPR pour empêcher une menace grave pour la sécurité publique ou la sûreté de l'État (exemple : terrorisme)."
+      ]
+    },
+    {
+      "titre": "Qui est inscrit au FPR ?",
+      "contenu": [
+        "En premier lieu, les personnes concernées par certaines décisions de justice sont inscrites au FPR.",
+        "[Exemple] • Décision décernant un mandat de recherche ou d’arrêt • Décision prononçant une interdiction du territoire français • Décision prononçant la peine complémentaire d’interdiction d’exercer une fonction publique ou une activité professionnelle • Décision ordonnant de suivre des obligations et interdiction dans le cadre d’un sursis probatoire, d’un suivi socio judiciaire, d’une libération conditionnelle, etc. • Décision prononçant une inscription au fichier judiciaire national automatisé des auteurs d'infractions terroristes (Fijait) • Décision prononçant une inscription au fichier judiciaire national automatisé des auteurs d'infractions sexuelles ou violentes (Fijais) • Décision prononçant une interdiction de participer à des manifestations sur la voie publique",
+        "L'administration peut également demander l'inscription de personnes au FPR dans certaines situations.",
+        "[Exemple] • Personne recherchée pour empêcher une menace grave pour la sécurité publique ou la sûreté de l'État (exemple : terrorisme), si des informations ou des indices réels ont été recueillis sur elle • Mineur ayant interdiction de sortir de France sans l'autorisation des 2 parents • Mineur fugueur • Personne n'ayant pas remis dans les délais son permis de conduire invalidé pour solde de points nul • Personne ayant tenté d'obtenir illégalement une carte nationale d'identité ou un passeport • Personne faisant l’objet d'une interdiction de séjour dans tout ou partie d'un département • Personne faisant l’objet d’une interdiction de paraître sur une portion de la voie publique sur laquelle un trafic de drogues est suspecté.",
+        "Enfin, une personne peut être inscrite au FPR si elle est recherchée dans le cadre d'une enquête de police judiciaire.",
+        "[Exemple] • Disparition d'une personne dans des conditions inquiétantes ou suspectes • Découverte d'une personne décédée ou vivante non identifiée • Recherche d’un témoin d’une infraction, dont l’identité est inconnue • Recherche d’une personne suspectée d’avoir commis une infraction dont l’identité est inconnue"
+      ]
+    },
+    {
+      "titre": "Quelles informations sont enregistrées dans le FPR ?",
+      "contenu": [
+        "En cas d’inscription d’une personne au FPR, différentes données à caractère personnel et informations la concernant sont enregistrées dans ce fichier.",
+        "[À savoir] L’enregistrement des informations concernant une victime d’usurpation d’identité répond à des règles différentes. Si elle est d’accord, seules ses données à caractère personnel et les informations liées à son titre d’identité et de voyage seront inscrites au FPR.",
+        "Quelles données à caractère personnel sont enregistrées dans le FPR ?",
+        "Les données suivantes sont enregistrées au FPR :",
+        "• État civil (noms, prénoms, date et lieu de naissance, filiation) et surnom",
+        "• Sexe",
+        "• Nationalité",
+        "• Adresse du dernier domicile connu",
+        "• Lieu de commission de l’infraction",
+        "• Si la personne inscrite au FPR est mineure, l’état civil, la nationalité et le numéro de téléphone des titulaires de l’autorité parentale",
+        "• Évaluation de la dangerosité ou de la fragilité de la personne inscrite (lorsqu’elle est violente, armée, impliquée dans un acte de terrorisme, si elle présente un risque de suicide, etc.)",
+        "• Description de signes physiques particuliers",
+        "• Photos de la personne inscrite",
+        "• Numéro de dossier, si la personne est inscrite au Fijais ou au Fijait",
+        "• Numéro national d’identification, si la personne est étrangère",
+        "• Numéro de dossier du permis de conduire.",
+        "Quelles informations sont enregistrées au FPR ?",
+        "Le FPR contient également les informations suivantes :",
+        "• Motifs de la recherche",
+        "• Décisions judiciaires ou administratives justifiant l’inscription au FPR",
+        "• Autorité ayant rendu la décision",
+        "• Si nécessaire, descriptif et caractéristiques des objets présentant un lien direct avec la personne inscrite et permettant de la localiser (véhicule à moteur, caravane, bateau, conteneur, avion, documents officiels vierges volés, détournés, falsifiés ou perdus, armes à feu, etc.)",
+        "• Explication de la conduite à tenir en cas de découverte de la personne recherchée",
+        "• Catégorie et numéro du titre d’identité ou de séjour de la personne inscrite au FPR",
+        "• Date, pays et autorité de délivrance de ce titre",
+        "• Copie du titre",
+        "• Numéro du permis de conduire.",
+        "[À noter] D’autres informations peuvent être enregistrées au FPR si elles sont strictement indispensables à l’identification de la personne recherchée (exemple : information concernant la santé, données génétique)."
+      ]
+    },
+    {
+      "titre": "Quelles autorités peuvent accéder au FPR ?",
+      "contenu": [
+        "Des personnes, individuellement désignées et spécialement habilitées, peuvent avoir accès au FPR, de manière plus ou moins étendue. Notamment :",
+        "• Personnel de la police nationale",
+        "• Personnel de la gendarmerie nationale",
+        "• Agent des douanes",
+        "• Agent du ministère de l'intérieur, des préfectures et sous-préfectures",
+        "• Agent du ministère des affaires étrangères",
+        "• Agent du Conseil national des activités privées de sécurité (CNAPS)",
+        "• Agent de l'Agence nationale des données de voyage",
+        "• Agent de la cellule de renseignement financier nationale",
+        "• Agent du service national des enquêtes administratives de sécurité",
+        "• Agent du Commandement spécialisé pour la sécurité nucléaire",
+        "• Agent du service national des enquêtes d’autorisation de voyage (SNEAV)",
+        "• Agent du service central des armes et explosifs (SCAE)",
+        "• Agent des services spécialisés de renseignement du ministère des armées",
+        "• Agent du service national du renseignement pénitentiaire (SNRP)",
+        "• Magistrats du parquet, magistrats chargés de l’instruction et magistrats chargés de l’application des peines",
+        "• Agent des services judiciaires chargé de la demande d'inscription et du suivi des décisions judiciaires entraînant l'inscription au FPR",
+        "• Agent de l'Agence européenne de garde-frontières et de garde-côtes (Frontex)",
+        "• Inspecteur de l’environnement affecté à l'OFB.",
+        "Les informations enregistrées dans le FPR sont communiquées aux personnes et services suivants, uniquement dans le cadre de leurs attributions et sous conditions :",
+        "• Organisme de coopération internationale en matière de police judiciaire (par exemple, Interpol) et service de police étranger",
+        "• Agent de police municipale, à la demande d'un policier ou d'un gendarme pour rechercher une personne disparue. Exceptionnellement, afin de parer à un danger pour la population, un policier ou un gendarme peut transmettre oralement certaines informations à un agent de police municipale.",
+        "• Agent du service du Fijaisv",
+        "• Agent du service du Fijait."
+      ]
+    },
+    {
+      "titre": "Combien de temps sont conservées les informations enregistrées dans le FPR ?",
+      "contenu": [
+        "Les informations sont conservées jusqu'à l'aboutissement de la recherche ou jusqu’à ce que le motif de l’inscription ne soit plus valable.",
+        "[Exemple] • Lorsqu’une personne fait l’objet d’une inscription au FPR en raison d’un mandat d’arrêt, les données sont conservées jusqu’à son interpellation. • Concernant l'inscription d'une personne disparue dans des conditions inquiétantes, les informations sont conservées jusqu’à ce qu’elle soit retrouvée.",
+        "Même si elles ne sont plus visibles au FPR, ces informations restent dans les archives pendant 6 ans. Durant cette période, elles sont uniquement accessibles aux personnels de la police nationale et de la gendarmerie nationale chargés de la gestion du FPR."
+      ]
+    },
+    {
+      "titre": "Comment accéder aux données du FPR, demander leur rectification ou leur effacement ?",
+      "contenu": [
+        "Les moyens pour demander l’accès, la rectification ou l’effacement des données enregistrées au FPR diffèrent en fonction du statut de la personne qui en fait la demande.",
+        "De manière générale, la demande est adressée au directeur de la police nationale ou au directeur de la gendarmerie nationale.",
+        "Par exception, elle doit être effectuée auprès de la Cnil pour les personnes suivantes :",
+        "• Personnes recherchées pour empêcher une menace grave pour la sécurité publique ou la sûreté de l'État (exemple : trafic d’armes), si des informations ou des indices réels ont été recueillis sur elle",
+        "• Personne faisant l'objet de certaines mesures individuelles de contrôle administratif et de surveillance.",
+        "Cas général",
+        "La demande peut être effectuée en ligne ou être transmise par courrier postal :",
+        "En ligne",
+        "La personne inscrite au FPR peut faire sa demande en ligne :",
+        "Demande d’accès, de rectification ou d’effacement des données enregistrées au FPR, au directeur de la police nationale ou de la gendarmerie nationale",
+        "Connexion par FranceConnect ou à l’aide d’une adresse mail",
+        "[À savoir] La demande peut être effectuée par une autre personne que celle inscrite au FPR (exemple : représentants légaux d’un mineur, avocat).",
+        "La demande est traitée dans un délai de 2 mois suivant sa réception par l’autorité compétente.",
+        "Elle peut être rejetée ou partiellement acceptée pour l'une des raisons suivantes :",
+        "• Eviter de gêner des enquêtes, des recherches et des procédures administratives ou judiciaires",
+        "• Eviter de nuire à la prévention ou à la détection d'infractions pénales, aux enquêtes, aux poursuites en la matière, ou à l'exécution de sanctions pénales",
+        "• Protéger la sécurité publique et la sécurité nationale.",
+        "Quelle que soit la décision prise, la personne à l’origine de la demande en est informée par courrier postal.",
+        "Par courrier postal",
+        "La demande doit être adressée au directeur de la police nationale ou au directeur de la gendarmerie nationale, par courrier postal.",
+        "Ministère de l'intérieur - Direction générale de la police nationale (DGPN)",
+        "Ministère de l'intérieur - Direction générale de la gendarmerie nationale (DGGN)",
+        "La personne à l’origine de la demande doit indiquer le fichier concerné (Taj, FPR, etc.). Elle doit également joindre une copie d’un justificatif d'identité (exemple : carte nationale d'identité, passeport).",
+        "[À savoir] La demande peut être effectuée par une autre personne que celle inscrite au FPR (exemple : représentants légaux d’un mineur, avocat).",
+        "La demande est traitée dans un délai de 2 mois suivant sa réception par l’autorité compétente.",
+        "Elle peut être rejetée ou partiellement acceptée pour l'une des raisons suivantes :",
+        "• Eviter de gêner des enquêtes, des recherches et des procédures administratives ou judiciaires",
+        "• Eviter de nuire à la prévention ou à la détection d'infractions pénales, aux enquêtes, aux poursuites en la matière, ou à l'exécution de sanctions pénales",
+        "• Protéger la sécurité publique et la sécurité nationale.",
+        "Quelle que soit la décision prise, la personne à l’origine de la demande en est informée par courrier postal.",
+        "Demande à la Cnil",
+        "La demande auprès de la Cnil se fait en ligne ou par courrier postal :",
+        "En ligne",
+        "La demande peut être effectuée en ligne :",
+        "Demande d’accès, de rectification ou d’effacement des données enregistrées au FPR, à la Cnil",
+        "Connexion via France Connect ou un email",
+        "[À savoir] Il est possible de faire cette demande pour une autre personne (exemple : un mineur).",
+        "La Cnil répond dans un délai de 6 mois. Selon la complexité du dossier, ce délai peut être plus long.",
+        "Par courrier postal",
+        "La demande doit être transmise à la Cnil.",
+        "Commission nationale de l'informatique et des libertés (Cnil)",
+        "Par courrier",
+        "3 Place de Fontenoy",
+        "TSA 80715",
+        "75334 Paris cedex 07",
+        "La CNIL ne reçoit pas le public et n'assure aucun renseignement sur place.",
+        "Par téléphone",
+        "+33 1 53 73 22 22",
+        "Accueil téléphonique ouvert du lundi au vendredi de 9h30 à 17h.",
+        "Renseignements juridiques ouverts les lundi, mardi, jeudi et vendredi de 10h à 12h.",
+        "Par courriel",
+        "Accès au formulaire de contact",
+        "[À savoir] Il est possible de faire cette demande pour une autre personne (exemple : un mineur).",
+        "La demande doit être accompagnée des documents suivants :",
+        "• Copie d’un titre d’identité (carte nationale d’identité, passeport, etc.) de la personne pour laquelle la demande est faite",
+        "• Copie des informations figurant dans le FPR, à condition de les avoir déjà reçues",
+        "• Copie de tous documents attestant de l’erreur à corriger ou de l’information à effacer (par exemple, la décision judiciaire ayant entraîné l’inscription au fichier).",
+        "[À noter] En fonction de la situation de la personne qui fait la demande, d’autres document peuvent être demandés par la Cnil (par exemple, les représentants légaux d’un mineur doivent joindre une copie du livret de famille, la copie d’une pièce d’identité de chaque parent et la copie d’une demande signée par chaque parent)",
+        "La Cnil répond dans un délai de 6 mois. Selon la complexité du dossier, ce délai peut être plus long."
+      ]
+    },
+    {
+      "titre": "Peut-on contester un refus d’accès, de rectification ou d’effacement des données au FPR ?",
+      "contenu": [
+        "En l’absence de réponse ou en cas de rejet de la demande, la personne inscrite au FPR peut saisir la Cnil et/ou le tribunal administratif de Paris.",
+        "[À noter] Dans le cas où l'administration compétente n’a pas répondu, la personne concernée doit leur transmettre une preuve d’envoi de sa demande datée de 2 mois ou plus.",
+        "Comment saisir la Cnil en cas de refus d’une demande liée aux données du FPR ?",
+        "La manière de faire un recours devant la Cnil dépend du statut de la personne qui conteste la décision préalablement rendue.",
+        "[À savoir] Ce recours peut être formé au nom d'une personne autre que celle figurant dans le FPR (exemple : parents d’un mineur).",
+        "Cas général",
+        "En ligne",
+        "Pour former un recours auprès de la Cnil, la personne inscrite dans un fichier de police (Taj, FPR, etc.) peut utiliser un service en ligne :",
+        "Fichiers de police (Taj, FPR) : recours auprès de la Commission nationale informatique et libertés (Cnil)",
+        "Connexion avec FranceConnect",
+        "Avant de faire un recours en ligne, la personne inscrite au Taj doit préparer les documents suivants :",
+        "• Copie recto/verso d’une pièce d’identité (carte nationale d’identité, passeport, etc.)",
+        "• Demande transmise au ministère de l’Intérieur",
+        "• Décision du ministère de l’Intérieur (s’il a répondu à la demande)",
+        "• Tout document permettant de justifier le recours.",
+        "La Cnil dispose d’un délai de 6 mois pour répondre. Selon la complexité du dossier, ce délai peut être plus long.",
+        "Par courrier postal",
+        "Le recours doit être adressé à la Cnil.",
+        "Commission nationale de l'informatique et des libertés (Cnil)",
+        "Par courrier",
+        "3 Place de Fontenoy",
+        "TSA 80715",
+        "75334 Paris cedex 07",
+        "La CNIL ne reçoit pas le public et n'assure aucun renseignement sur place.",
+        "Par téléphone",
+        "+33 1 53 73 22 22",
+        "Accueil téléphonique ouvert du lundi au vendredi de 9h30 à 17h.",
+        "Renseignements juridiques ouverts les lundi, mardi, jeudi et vendredi de 10h à 12h.",
+        "Par courriel",
+        "Accès au formulaire de contact",
+        "Dans ce recours, la personne inscrite dans un fichier de police doit préciser les éléments suivants :",
+        "• Nom du fichier concerné ou des fichiers concernés (Taj, FPR, etc.)",
+        "• Son adresse postale.",
+        "Par ailleurs, le recours doit être accompagné des documents suivants :",
+        "• Copie recto/verso d’une pièce d’identité (carte nationale d’identité, passeport, etc.)",
+        "• Demande transmise au ministère de l’Intérieur",
+        "• Décision du ministère de l’Intérieur (s’il a répondu à la demande)",
+        "• Tout document permettant de justifier le recours.",
+        "La Cnil dispose d’un délai de 6 mois pour répondre. Selon la complexité de votre dossier, ce délai peut être plus long.",
+        "Personne inscrite pour une raison liée à la sûreté de l’État",
+        "La personne inscrite au FPR peut faire une réclamation à la Cnil, en lui adressant un courrier postal.",
+        "Commission nationale de l'informatique et des libertés (Cnil)",
+        "Par courrier",
+        "3 Place de Fontenoy",
+        "TSA 80715",
+        "75334 Paris cedex 07",
+        "La CNIL ne reçoit pas le public et n'assure aucun renseignement sur place.",
+        "Par téléphone",
+        "+33 1 53 73 22 22",
+        "Accueil téléphonique ouvert du lundi au vendredi de 9h30 à 17h.",
+        "Renseignements juridiques ouverts les lundi, mardi, jeudi et vendredi de 10h à 12h.",
+        "Par courriel",
+        "Accès au formulaire de contact",
+        "Cette réclamation doit être accompagnée des documents suivants :",
+        "• Copie recto/verso d’une pièce d’identité (carte nationale d’identité, passeport, etc.)",
+        "• Demande initiale transmise à la Cnil",
+        "• Décision de la Cnil (si elle a répondu à la demande)",
+        "• Tout document permettant de justifier le recours.",
+        "Comment saisir le tribunal administratif en cas de refus d’une demande liée aux données du FPR ?",
+        "Pour saisir le tribunal administratif, la personne inscrite au FPR doit lui transmettre une requête par le biais du téléservice Télérecours citoyens.",
+        "Télérecours citoyens (recours devant le juge administratif)",
+        "Connexion via France Connect"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Décret n°2010-569 du 28 mai 2010 relatif au fichier des personnes recherchées (FPR)",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000022276189"
+    },
+    {
+      "titre": "Code de procédure pénale : article 230-19",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000023709798"
+    },
+    {
+      "titre": "Code des relations entre le public et l'administration : articles L231-4 à L231-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000031366350/LEGISCTA000031367617"
+    },
+    {
+      "titre": "Loi n°78-17 du 6 janvier 1978 - Informatique et libertés",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000886460/"
+    },
+    {
+      "titre": "Décret n°2019-536 du 29 mai 2019 pris pour l'application de la loi de 1978 relative à l'informatique, aux fichiers et aux libertés",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000038528420/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demande d’accès, de rectification ou d’effacement des données enregistrées au FPR, au directeur de la police nationale ou de la gendarmerie nationale",
+      "url": "https://demarche.numerique.gouv.fr/commencer/plateforme-numerique-des-demande-de-droit-d-acces-fpr",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "Maison de justice et du droit"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "fichier-des-personnes-recherchees-fpr",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "fichiers-judiciaires-et-de-police-judiciaire",
+      "titre": "Fichiers judiciaires et de police judiciaire"
+    }
+  ]
+}

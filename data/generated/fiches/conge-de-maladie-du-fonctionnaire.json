@@ -1,0 +1,105 @@
+{
+  "id": "F490",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Congé de maladie du fonctionnaire",
+  "theme": "Travail - Formation",
+  "description": "Un fonctionnaire malade et dans l'incapacité de travailler peut être placé en congé de maladie sur présentation d'un arrêt de travail.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-03-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F490",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Maladie ou accident du travail dans la fonction publique",
+    "Congé de maladie du fonctionnaire"
+  ],
+  "introduction": "Vous êtes fonctionnaire et vous êtes malade ou avez été victime d'un accident non professionnel, ce qui vous met dans l'incapacité de travailler ? Vous pouvez être placé en congé de maladie par votre administration employeur sur présentation d'un arrêt de travail. Nous vous présentons les règles applicables au congé de maladie, selon votre fonction publique d'appartenance (État - FPE, territoriale - FPT, hospitalière - FPH).",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code général de la fonction publique : articles L115-1 à L115-6",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044420657/"
+    },
+    {
+      "titre": "Code général de la fonction publique : articles L822-1 à L822-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044423975/"
+    },
+    {
+      "titre": "Code général de la fonction publique : articles L822-27 à L822-30",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044424037/"
+    },
+    {
+      "titre": "Code général de la fonction publique : articles R327-36 à R327-41",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000051962361/"
+    },
+    {
+      "titre": "Décret n°86-442 du 14 mars 1986 relatif aux médecins agréés, aux comités médicaux et commissions de réforme, aux conditions d'aptitude physique et aux congés de maladie des fonctionnaires",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000884830"
+    },
+    {
+      "titre": "Décret n°87-602 du 30 juillet 1987 relatif à l'organisation des comités médicaux, aux conditions d'aptitude physique et au régime des congés de maladie des fonctionnaires territoriaux",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000521836/"
+    },
+    {
+      "titre": "Décret n°88-386 du 19 avril 1988 relatif aux conditions d'aptitude physique et aux congés de maladie des agents de la fonction publique hospitalière",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000695289/"
+    },
+    {
+      "titre": "Décret n°93-522 du 26 mars 1993 relatif aux conditions de mise en œuvre de la NBI dans la FPE",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000362602/"
+    },
+    {
+      "titre": "Décret n°93-863 du 18 juin 1993 relatif aux conditions de mise en œuvre de la NBI dans la FPT",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000728910/"
+    },
+    {
+      "titre": "Décret n°94-139 du 14 février 1994 relatif aux conditions de mise en œuvre de la NBI dans la FPH",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000546248/"
+    },
+    {
+      "titre": "Décret n°2010-997 du 26 août 2010 relatif au régime de maintien des primes et indemnités des agents publics de l'État dans certaines situations de congés",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000022748868/"
+    },
+    {
+      "titre": "Circulaire du 30 janvier 1989 relative à la protection sociale des fonctionnaires et stagiaires de l'État contre les risques de maladie et d'accidents de service",
+      "url": "https://www.legifrance.gouv.fr/circulaire/id/16317"
+    },
+    {
+      "titre": "Circulaire du 24 juillet 2003 concernant le traitement des certificats médicaux d'arrêt de travail pour maladie des fonctionnaires",
+      "url": "http://www.circulaires.gouv.fr/pdf/2009/05/cir_26341.pdf"
+    },
+    {
+      "titre": "Circulaire du 22 mars 2011 relative au régime de maintien des primes et indemnités des agents publics de l'État dans certaines situations de congés",
+      "url": "https://www.legifrance.gouv.fr/circulaire/id/32767"
+    },
+    {
+      "titre": "Circulaire du 20 avril 2015 relative au délai de transmission des arrêts de maladie",
+      "url": "https://www.fonction-publique.gouv.fr/files/files/textes_de_reference/2015/C_20150420_0001.pdf"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Avis d'arrêt de travail",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_10170.do",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Liste des maladies donnant droit à un congé de longue maladie",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000471431"
+    }
+  ],
+  "slug": "conge-de-maladie-du-fonctionnaire",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "maladie-ou-accident-du-travail-dans-la-fonction-publique",
+      "titre": "Maladie ou accident du travail dans la fonction publique"
+    }
+  ]
+}

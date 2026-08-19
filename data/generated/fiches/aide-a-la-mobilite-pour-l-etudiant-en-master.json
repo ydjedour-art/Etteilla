@@ -1,0 +1,89 @@
+{
+  "id": "F34343",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Aide à la mobilité pour l'étudiant en Master",
+  "theme": "Famille - Scolarité",
+  "description": "Elle est destinée à l'étudiant boursier, qui vient d'obtenir sa licence, qui souhaite s'inscrire en Master 1 dans une autre région.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-06-05",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34343",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Bourses et aides pour étudiant",
+    "Aide à la mobilité pour l'étudiant en Master"
+  ],
+  "introduction": "Vous venez d'obtenir votre licence et vous voulez vous inscrire en Master 1 dans une autre région académique ? Si vous êtes boursier, vous pouvez bénéficier d'une aide à la mobilité. Voici les informations à connaître sur cette aide.",
+  "chapitres": [
+    {
+      "titre": "Quelles sont les conditions pour bénéficier de l'aide à la mobilité ?",
+      "contenu": [
+        "Pour en bénéficier, vous devez, à la rentrée universitaire, remplir l’ensemble des conditions suivantes :",
+        "• Avoir obtenu une licence l'année précédente. Attention, l'obtention d'une licence professionnelle ne vous permet pas de bénéficier de l'aide.",
+        "• Vous inscrire pour la 1re fois en 1re année de Master",
+        "• Bénéficier de la bourse sur critères sociaux ou d'une allocation annuelle spécifique pour étudiant en difficulté",
+        "• Vous inscrire dans une université d'une région différente de celle où vous avez obtenu votre licence"
+      ]
+    },
+    {
+      "titre": "Comment demander l'aide à la mobilité ?",
+      "contenu": [
+        "Vous n’avez pas de démarche particulière à faire pour demander l’aide à la mobilité.",
+        "Vous devrez fournir une copie des documents suivants :",
+        "• Attestation de réussite de licence",
+        "• Certificat d'inscription en 1re année de Master 1"
+      ]
+    },
+    {
+      "titre": "Quel est le montant de l'aide à la mobilité ?",
+      "contenu": [
+        "Le montant de l'aide à la mobilité est de 1 000 €.",
+        "Elle est versée par le Crous en une fois, le mois suivant la réception de vos justificatifs."
+      ]
+    },
+    {
+      "titre": "Quelles sont les aides cumulables avec l'aide à la mobilité ?",
+      "contenu": [
+        "Vous pouvez cumuler l'aide à la mobilité avec les aides suivantes :",
+        "• Bourse Talents",
+        "• Aide au mérite",
+        "• Aide spécifique ponctuelle"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Arrêté du 26 mars 2026 fixant les plafonds de ressources relatifs aux bourses d'enseignement supérieur du ministère chargé de l'enseignement supérieur et de la recherche pour l'année universitaire 2026-2027",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053788150"
+    },
+    {
+      "titre": "Décret n°2017-969 du 10 mai 2017 relatif à l'aide à la mobilité accordée aux étudiants inscrits en première année du diplôme national de master",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000034675851"
+    },
+    {
+      "titre": "Arrêté du 21 août 2017 fixant le montant de l'aide à la mobilité accordée aux étudiants qui changent de région académique pour s'inscrire en première année de master",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000035448648"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Centre régional des œuvres universitaires et scolaires (Crous)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Aide à la mobilité en master",
+      "url": "https://www.etudiant.gouv.fr/cid119255/aide-a-la-mobilite-en-master-deposez-vos-demandes.html"
+    }
+  ],
+  "slug": "aide-a-la-mobilite-pour-l-etudiant-en-master",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "bourses-et-aides-pour-etudiant",
+      "titre": "Bourses et aides pour étudiant"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "F15913",
+  "type_publication": "Fiche Comment faire si conditionné",
+  "titre": "J'achète un logement",
+  "theme": "",
+  "description": "L'achat d'un bien immobilier nécessite de prendre certaines précautions, avant, au moment et après la réalisation de mon achat. Quelles démarches faut-il faire ? Pour quel type de bien ? Avec quel type de prêt immobilier ? Puis-je bénéficier d'aides, d'un crédit d'impôt ?",
+  "type_fiche": "Comment faire si...",
+  "date_modif": "2022-07-15",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F15913",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Comment faire si",
+    "J'achète un logement"
+  ],
+  "introduction": "L'achat d'un bien immobilier nécessite de prendre certaines précautions, avant, au moment et après la réalisation de mon achat. Quelles démarches faut-il faire ? Pour quel type de bien ? Avec quel type de prêt immobilier ? Puis-je bénéficier d'aides, d'un crédit d'impôt ?",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [
+    {
+      "titre": "Patrim : rechercher des transactions immobilières pour aider à estimer la valeur d'un bien immobilier",
+      "url": "https://cfspart.impots.gouv.fr/LoginAccess",
+      "type": "Simulateur"
+    },
+    {
+      "titre": "Calculer le montant des frais d'acquisition d'un bien immobilier",
+      "url": "https://www.immobilier.notaires.fr/fr/frais-de-notaire",
+      "type": "Simulateur"
+    },
+    {
+      "titre": "Calculer le montant du prêt à taux zéro (PTZ)",
+      "url": "https://www.anil.org/outils/outils-de-calcul/votre-pret-a-taux-zero/",
+      "type": "Simulateur"
+    },
+    {
+      "titre": "Diagnostic de financement pour votre projet immobilier",
+      "url": "https://www.anil.org/outils/outils-de-calcul/diagnostic-de-financement/",
+      "type": "Simulateur"
+    },
+    {
+      "titre": "Faire une simulation de l'échéancier et du TAEG d'un crédit immobilier",
+      "url": "https://www.anil.org/outils/outils-de-calcul/echeancier-dun-pret/",
+      "type": "Simulateur"
+    },
+    {
+      "titre": "Demande d’aide personnelle au logement (APL, ALF, ALS) - Caf",
+      "url": "https://wwwd.caf.fr/wps/portal/caffr/aidesetservices/lesservicesenligne/faireunedemandedeprestation/demanderlaideaulogement",
+      "type": "selNG"
+    },
+    {
+      "titre": "Allocations et prestations familiales - Déclaration de situation (Caf)",
+      "url": "https://connect.caf.fr/connexionappli/dist/?forceReload=20211220&contexteAppel=caffr&urlredirect=%2Fwps%2Fmyportal%2Fcaffr%2Fmoncompte%2Fmonprofil#/login",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Guides de l'Anil",
+      "url": "https://www.anil.org/publications/publications-grand-public/"
+    },
+    {
+      "titre": "Vivre en accueil familial",
+      "url": "https://www.pour-les-personnes-agees.gouv.fr/changer-de-logement/vivre-en-accueil-familial"
+    }
+  ],
+  "slug": "j-achete-un-logement",
+  "path": [
+    {
+      "slug": "comment-faire-si",
+      "titre": "Comment faire si"
+    }
+  ]
+}

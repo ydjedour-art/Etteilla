@@ -1,0 +1,81 @@
+{
+  "id": "F32556",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Vacances à la montagne : faut-il souscrire une assurance spécifique ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Si vous souhaitez souscrire une \"assurance neige\", il faut d'abord vérifier si vous n'êtes pas déjà couvert par d'autres assurances.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-03-10",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F32556",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Assurance habitation",
+    "Vacances à la montagne : faut-il souscrire une assurance spécifique ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Avant de souscrire une assurance spécifique pour vos vacances à la montagne, il est nécessaire de vérifier si vous êtes déjà couvert par d'autres assurances. Si vous êtes déjà couvert pour les risques liés aux sports d'hiver, une assurance spécifique n'est pas nécessaire. Sinon, vous pourrez souscrire une assurance neige auprès de votre assureur.",
+        "Si vous possédez une assurance multirisques habitation, vous disposez déjà de la garantie responsabilité civile.",
+        "Cette assurance vous couvre si vous provoquez un accident.",
+        "Ainsi, votre assureur prendra en charge les dommages que vous aurez causés aux autres, mais pas nécessairement ceux que vous aurez subis.",
+        "De ce fait, il est nécessaire de vérifier dans votre contrat ce qui est indiqué à ce sujet.",
+        "Par ailleurs, l'assurance multirisques habitation comporte généralement la garantie villégiature, qui assure les logements que vous louez pour vos vacances.",
+        "Si vous avez une assurance individuelle accident ou garantie accidents de la vie, vous êtes peut-être déjà couvert pour les dommages subis à l'occasion d'un accident de ski.",
+        "De ce fait, il est important de vérifier dans votre contrat si la pratique de cette activité n'est pas exclue des risques couverts.",
+        "Si vous avez une mutuelle santé, il est possible que celle-ci prenne en charge les frais d'hospitalisation et les soins si vous avez un accident.",
+        "Il est nécessaire de vérifier les garanties de votre mutuelle, ainsi que les personnes couvertes.",
+        "Certaines cartes bancaires comportent des assurances qui peuvent vous couvrir en cas d'accident.",
+        "Pour bénéficier de ces assurances lors d'un voyage à la montagne, il faut avoir utilisé la carte pour payer la location de vos skis ou votre forfait de remontée.",
+        "Certaines assurances peuvent même prendre en charge votre rapatriement, en cas d'accident à l'étranger par exemple.",
+        "Il est nécessaire de vérifier dans le contrat de votre carte bancaire les garanties qui sont proposées.",
+        "Si les assurances que vous avez déjà ne vous couvrent pas pour le voyage à la montagne ou si elles ne vous couvrent pas suffisamment, vous pouvez souscrire une assurance neige auprès de votre assureur.",
+        "Ce type d'assurance vous permet, en cas d'accident, d'être remboursé non seulement des frais médicaux, mais aussi des dépenses suivantes :",
+        "• Forfait de remontées mécaniques",
+        "• Cours de ski non utilisés",
+        "• Location de matériel",
+        "• Indemnisation d'un skieur blessé par votre faute",
+        "• Frais d'assistance ou de rapatriement.",
+        "Le tarif de l'assurance neige est généralement calculé par personne et par semaine. Elle peut être parfois souscrite pour une seule journée."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code des assurances : articles L113-1 à L113-17",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006157200"
+    },
+    {
+      "titre": "Code des assurances : articles L121-1 à L121-17",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006157222"
+    },
+    {
+      "titre": "Code des assurances : articles L211-1 à L211-2",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006174242"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Info Banque - Assurance"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Assurance ski ou sports d'hiver",
+      "url": "https://www.abe-infoservice.fr/assurance/autres-assurances-protection-juridique-voyage-scolaire-ski/assurance-ski-ou-sports-dhiver"
+    }
+  ],
+  "slug": "vacances-a-la-montagne-faut-il-souscrire-une-assurance-specifique",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "assurance-habitation",
+      "titre": "Assurance habitation"
+    }
+  ]
+}

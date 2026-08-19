@@ -1,0 +1,94 @@
+{
+  "id": "F35453",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Qui peut accéder au bulletin n°2 du casier judiciaire ?",
+  "theme": "Justice",
+  "description": "Le bulletin n°2 peut uniquement être délivré à certaines autorités publiques et à certains employeurs. Un particulier peut le consulter.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-10-20",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35453",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Condamnations et peines",
+    "Qui peut accéder au bulletin n°2 du casier judiciaire ?"
+  ],
+  "introduction": "Quel que soit le motif, vous ne pouvez pas demander vous-même une copie du bulletin n°2 de votre casier judiciaire. Vous pouvez seulement solliciter la consultation de ce document. Le bulletin n°2 du casier judiciaire est uniquement délivré à certaines autorités publiques et à certains employeurs. Voici les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Comment consulter le bulletin n°2 du casier judiciaire ?",
+      "contenu": [
+        "Si vous souhaitez connaître le contenu de votre casier judiciaire, vous pouvez faire une demande de consultation du relevé intégral de votre casier judiciaire. Ainsi, vous aurez accès aux 3 bulletins (B1, B2 et B3) de votre casier judiciaire.",
+        "Cette demande doit être faite par courrier libre adressé au procureur de la République du tribunal judiciaire de votre domicile. Vous devez joindre une copie de votre justificatif d'identité (par exemple, carte d'identité ou passeport) à votre demande.",
+        "Tribunal judiciaire ou tribunal de proximité",
+        "La consultation se fait dans les locaux du tribunal judiciaire.",
+        "Vous ne pouvez pas faire de photocopie du relevé intégral de votre casier judiciaire.",
+        "[À noter] Si vous êtes de nationalité étrangère, vous devez joindre une pièce d'identité et un justificatif de filiation (par exemple, un acte de naissance avec filiation) à votre demande."
+      ]
+    },
+    {
+      "titre": "Quelles autorités publiques peuvent obtenir le B2 du casier judiciaire ?",
+      "contenu": [
+        "Le bulletin n°2 de votre casier judiciaire peut être délivré à différentes autorités publiques. Il s'agit notamment des :",
+        "• Préfets et administrations publiques de l’État",
+        "• Autorités militaires (par exemple, votre B2 peut leur être délivré si vous candidatez pour intégrer l'armée)",
+        "• Autorités publiques compétentes pour l'examen des recours concernant l'exercice des droits électoraux (droit de vote)",
+        "• Administrations ou organismes chargés du contrôle de l'exercice d'une activité professionnelle ou sociale, en cas de restrictions fondées sur l'existence d'une condamnation pénale ou d'une sanction disciplinaire. Par exemple, si vous souhaitez devenir masseur-kinésithérapeute, les conseillers départementaux de l'Ordre des masseurs-kinésithérapeutes peuvent demander le bulletin n°2 de votre casier judiciaire.",
+        "• Juges du tribunal de commerce chargés de la surveillance du Registre du commerce et des sociétés (RCS), pour l'examen des demandes d'inscription au RCS ou au registre spécial des agents commerciaux (RSAC)",
+        "• Présidents de conseils départementaux saisis d'une demande d'agrément en vue de l'adoption d'un enfant",
+        "• Autorités compétentes pour recevoir les déclarations de candidatures à une élection, dans le but de vérifier que le candidat n'a pas été condamné à une peine d'inéligibilité",
+        "• Administration publique de l'Etat chargée de la police des armes et des explosifs",
+        "• Commissions d'inscription sur la liste des commissaires aux comptes.",
+        "Service du casier judiciaire national"
+      ]
+    },
+    {
+      "titre": "À quels employeurs le bulletin n°2 du casier judiciaire peut-il être délivré ?",
+      "contenu": [
+        "Le B2 de votre casier judiciaire peut être délivré aux dirigeants des organismes de droit public ou de droit privé qui exercent une activité culturelle, éducative ou sociale auprès des mineurs.",
+        "L'employeur peut solliciter votre B2 uniquement s'il souhaite vous recruter à un poste sur lequel vous serez (ou pourrez être) en contact avec des mineurs.",
+        "Les dirigeants d'organismes autorisés à consulter le bulletin n°2 ne peuvent pas faire la demande directement auprès du Service du casier judiciaire national. Ils doivent passer par une autorité administrative spécialisée, en fonction de leur secteur d'activité. Par exemple, le service départemental à la jeunesse à l'engagement et au sport (SDJES).",
+        "C'est l'autorité administrative qui fait la demande auprès des services judiciaires et qui reçoit le bulletin n°2.",
+        "Si cet extrait ne contient aucune mention de condamnation, l'autorité administrative le transmet à l'employeur.",
+        "Dans le cas contraire, l'autorité administrative indique uniquement à l'employeur que le bulletin n°2 contient une mention de condamnation.",
+        "Dans cette hypothèse, elle doit préciser au dirigeant si les condamnations qui figurent sur votre casier judiciaire peuvent empêcher votre embauche."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de procédure pénale : article 775",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035588385"
+    },
+    {
+      "titre": "Code de procédure pénale : article 772-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039279116"
+    },
+    {
+      "titre": "Code de procédure pénale : article 776",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035588378"
+    },
+    {
+      "titre": "Code de procédure pénale : article R79",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043683278"
+    },
+    {
+      "titre": "Code de procédure pénale : articles D571-4 à D571-7",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000006516736/2007-03-25"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "qui-peut-acceder-au-bulletin-n-2-du-casier-judiciaire",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "condamnations-et-peines",
+      "titre": "Condamnations et peines"
+    }
+  ]
+}

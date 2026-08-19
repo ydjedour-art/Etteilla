@@ -1,0 +1,145 @@
+{
+  "id": "F3152",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Impôt sur le revenu - Comment sont imposées les indemnités d'arrêt de travail ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Les indemnités pour maladie, accident ou maternité sont généralement imposables mais il existe des exceptions.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-04-15",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F3152",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Impôt sur le revenu : déclaration et revenus à déclarer",
+    "Impôt sur le revenu - Comment sont imposées les indemnités d'arrêt de travail ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les indemnités pour maladie, accident ou maternité sont imposables quelle que soit leur provenance (sécurité sociale, employeur, organisme d'assurance ou de prévoyance).",
+        "Vous devez les déclarer avec vos salaires.",
+        "Cependant, certaines indemnités sont exonérées d'impôt, en totalité ou en partie.",
+        "Maladie",
+        "Imposition des indemnités en cas de maladie",
+        "Indemnité",
+        "Régime fiscal",
+        "Indemnité journalière de maladie",
+        "Imposable",
+        "Indemnité complémentaire versée par l'employeur (système du maintien du salaire)",
+        "Imposable",
+        "Indemnité journalière versée en cas de maladie comportant un traitement prolongé et des soins particulièrement coûteux (affections de longue durée)",
+        "Exonérée",
+        "Indemnité versée à une personne souffrant d'une maladie radio-induite ou à ses ayants droit",
+        "Exonérée",
+        "Indemnité versée à une victime de l'amiante ou à ses ayants droit",
+        "Exonérée",
+        "Maternité",
+        "Imposition des indemnités en cas de maternité",
+        "Indemnité",
+        "Régime fiscal",
+        "Indemnité journalière de maternité",
+        "Imposable",
+        "Indemnité journalière de maternité versée lors d'arrêts de travail nécessités par des troubles pathologiques liés à la grossesse ou à l'accouchement",
+        "Imposable",
+        "Indemnité journalière de maternité supplémentaire, attribuée par la CPAM à une femme dont le métier comporte des travaux incompatibles avec son état",
+        "Exonérée",
+        "Paternité",
+        "L'indemnité journalière de paternité est imposable.",
+        "Adoption",
+        "L'indemnité journalière d'adoption est imposable.",
+        "Accident du travail ou maladie professionnelle",
+        "Imposition des indemnités en cas d'accident du travail ou de maladie professionnelle",
+        "Indemnité",
+        "Régime fiscal",
+        "Indemnité journalière d'accident du travail ou de maladie professionnelle",
+        "Exonérée à 50 %",
+        "Indemnité temporaire d'inaptitude versée suite à un accident du travail ou une maladie professionnelle",
+        "Exonérée à 50 %",
+        "Prévoyance (maladie, maternité, invalidité, décès)",
+        "Imposition des indemnités de prévoyance",
+        "Indemnité",
+        "Régime fiscal",
+        "Indemnité perçue en exécution d'un contrat d'assurance à adhésion facultative complétant les prestations de la Sécurité sociale",
+        "Exonérée",
+        "Indemnité complémentaire versée par un organisme de prévoyance dans le cadre d'un régime complémentaire obligatoire dans l'entreprise",
+        "Imposable",
+        "La déclaration des revenus par internet est obligatoire si votre résidence principale est équipée d'un accès à internet et que vous êtes en mesure de faire votre déclaration en ligne.",
+        "La déclaration 2026 des revenus de 2025 est terminée.",
+        "La déclaration 2027 des revenus de 2026 débutera en avril 2027.",
+        "[Complement] La déclaration 2026 des revenus de 2025 est terminée. La déclaration 2027 des revenus de 2026 débutera en avril 2027."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général des impôts : articles 79 à 81 quater",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006197199/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : article D160-4",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031806122/"
+    },
+    {
+      "titre": "Bofip-impôts n°BOI-RSA-CHAMP-20-30-20 relatif à l'imposition des indemnités ou allocations journalières versées aux salariés en cas de maladie, accident ou maternité",
+      "url": "http://bofip.impots.gouv.fr/bofip/5606-PGP"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Impôts : accéder à votre espace Finances publiques",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Estimer le montant de son impôt sur les revenus de 2025 (déclaration de 2026)",
+      "url": "https://simulateur-ir-ifi.impots.gouv.fr/calcul_impot/2026/",
+      "type": "simulateurNG"
+    },
+    {
+      "titre": "Déclarer vos revenus en ligne",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Déclaration 2026 des revenus 2025 (papier)",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/2042/declaration-des-revenus",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Relevé fiscal (Ameli)",
+      "url": "https://assure.ameli.fr/PortailAS/appmanager/PortailAS/assure?_nfpb=true&_pageLabel=as_releve_fiscal_page",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "Service d'information des impôts",
+    "Service en charge des impôts (trésorerie, service des impôts...)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Site des impôts",
+      "url": "https://www.impots.gouv.fr/portail/"
+    },
+    {
+      "titre": "Brochure pratique 2026 - Déclaration des revenus de 2025",
+      "url": "https://www.impots.gouv.fr/www2/fichiers/documentation/brochure/ir_2026/accueil.htm"
+    },
+    {
+      "titre": "Impôt sur le revenu : dépliants d'information",
+      "url": "https://www.impots.gouv.fr/brochures-et-depliants"
+    }
+  ],
+  "slug": "impot-sur-le-revenu-comment-sont-imposees-les-indemnites-d-arret-de-travail",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "impot-sur-le-revenu-declaration-et-revenus-a-declarer",
+      "titre": "Impôt sur le revenu : déclaration et revenus à déclarer"
+    }
+  ]
+}

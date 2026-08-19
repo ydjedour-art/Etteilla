@@ -1,0 +1,33 @@
+{
+  "id": "F36236",
+  "type_publication": "Recherche guidée",
+  "titre": "[Un enfant peut-il changer d'école en cours d'année]",
+  "theme": "Famille - Scolarité",
+  "description": "[Un enfant peut-il changer d'école en cours d'année]",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2025-07-08",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F36236",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "École primaire (maternelle et élémentaire)",
+    "[Un enfant peut-il changer d'école en cours d'année]"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "un-enfant-peut-il-changer-d-ecole-en-cours-d-annee-f36236",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "ecole-primaire-maternelle-et-elementaire",
+      "titre": "École primaire (maternelle et élémentaire)"
+    }
+  ]
+}

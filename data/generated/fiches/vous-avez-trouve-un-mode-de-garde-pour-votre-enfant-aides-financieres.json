@@ -1,0 +1,41 @@
+{
+  "id": "F38243",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Vous avez trouvé un mode de garde pour votre enfant : aides financières",
+  "theme": "Social - Santé",
+  "description": "Si vous avez trouvé un mode de garde pour votre enfant, vous pouvez bénéficier d'aides financières, sous certaines conditions.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-30",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F38243",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Aides financières",
+    "Vous avez trouvé un mode de garde pour votre enfant : aides financières"
+  ],
+  "introduction": "Si vous avez trouvé un mode de garde pour votre enfant, vous pouvez bénéficier d'aides financières, sous certaines conditions.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "• Vous avez peut-être droit au complément de libre choix du mode de garde (CMG) si vous passez par une structure pour garder votre ou vos enfants (organisme, micro-crèche ou crèche familiale) ou si vous employez vous-même une assistante maternelle ou une garde à domicile.",
+        "• Vous pouvez également bénéficier d'un crédit d'impôt."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "vous-avez-trouve-un-mode-de-garde-pour-votre-enfant-aides-financieres",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "aides-financieres",
+      "titre": "Aides financières"
+    }
+  ]
+}

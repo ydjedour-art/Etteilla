@@ -1,0 +1,54 @@
+{
+  "id": "F1507",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quelle est la valeur juridique du baptême civil ?",
+  "theme": "Famille - Scolarité",
+  "description": "Le baptême civil n'est prévu par aucun texte et ne crée aucune obligation.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-10-09",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1507",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Autorité parentale",
+    "Quelle est la valeur juridique du baptême civil ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Le baptême civil (également appelé parrainage civil ou parrainage républicain) n'est prévu par aucun texte. Il ne crée aucune obligation. Il s'agit d'un engagement moral d'ordre purement privé.",
+        "Le baptême civil se pratique dans certaines mairies, mais elles ne sont pas obligées de le célébrer.",
+        "Le baptême civil n'est pas inscrit sur les registres de l'état civil et les justificatifs éventuellement délivrés n'ont pas de valeur au regard de la loi.",
+        "Il s'agit d'une cérémonie symbolique et laïque qui vise à célébrer la naissance d'un enfant.",
+        "La demande de baptême civil se fait généralement auprès du service État civil ou Vie citoyenne de la mairie.",
+        "Les délais, le déroulement de la cérémonie ou encore les conditions à remplir peuvent varier d’une commune à l’autre.",
+        "Il peut être nécessaire de fournir certains documents (par exemple : acte de naissance de l’enfant, pièce d’identité des parents et des parrains/marraines, justificatif de domicile)",
+        "Certaines mairies proposent un formulaire à télécharger en ligne ou une prise de rendez-vous préalable.",
+        "Mairie",
+        "[À savoir] Les parents peuvent aussi désigner un parrain et/ou marraine comme tuteurs par testament ou par déclaration devant notaire."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Réponse ministérielle du 20 mai 2014 relative au baptême civil",
+      "url": "https://questions.assemblee-nationale.fr/q14/14-36090QE.htm"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "quelle-est-la-valeur-juridique-du-bapteme-civil",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "autorite-parentale",
+      "titre": "Autorité parentale"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "F146",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Comment renégocier ou obtenir le rachat de son crédit immobilier ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Renégocier un crédit immobilier pour avoir de meilleures conditions d'emprunt est possible. Si c'est avec une autre banque, c'est un rachat de crédit immobilier",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2024-12-24",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F146",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Crédit immobilier",
+    "Comment renégocier ou obtenir le rachat de son crédit immobilier ?"
+  ],
+  "introduction": "Vous pouvez renégocier votre crédit immobilier avec l'organisme financier qui pour l'a accordé (par exemple, votre banque) pour obtenir des conditions d'emprunt plus favorables, lorsque les taux d'intérêt baissent. Si vous décidez de renégocier votre crédit auprès d'un autre organisme financier, on parle alors de rachat de crédit immobilier. Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de la consommation : articles L313-24 à L313-39",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069565/LEGISCTA000032222241/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Recherche dans le registre des agents financiers (Regafi)",
+      "url": "https://www.regafi.fr",
+      "type": "Simulateur"
+    },
+    {
+      "titre": "Consultation du registre des intermédiaires en assurance",
+      "url": "https://www.orias.fr",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "Info Banque - Assurance"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Que savoir si vous souhaitez renégocier le taux de votre crédit immobilier ?",
+      "url": "https://www.abe-infoservice.fr/fr/banque/credit/credit-immobilier/que-savoir-si-vous-souhaitez-renegocier-le-taux-de-votre-credit-immobilier"
+    },
+    {
+      "titre": "Renégociation et rachat de crédit immobilier : attention à son coût",
+      "url": "https://www.inc-conso.fr/content/regroupement-ou-rachat-de-credits-que-faut-il-savoir"
+    },
+    {
+      "titre": "Attention aux faux rachats de crédit !",
+      "url": "https://www.abe-infoservice.fr/prevention-arnaques/savoir-detecter-une-arnaque/les-faux-produits-proposes/attention-aux-faux-rachats-de-credit"
+    }
+  ],
+  "slug": "comment-renegocier-ou-obtenir-le-rachat-de-son-credit-immobilier",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "credit-immobilier",
+      "titre": "Crédit immobilier"
+    }
+  ]
+}

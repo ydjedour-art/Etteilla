@@ -1,0 +1,91 @@
+{
+  "id": "F33805",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Carte d'identité perdue ou volée : comment acheter un timbre fiscal ?",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "En cas de perte ou de vol de votre carte d'identité, vous devez demander le renouvellement de la carte et acheter un timbre fiscal.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-03-27",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33805",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Carte d'identité",
+    "Carte d'identité perdue ou volée : comment acheter un timbre fiscal ?"
+  ],
+  "introduction": "L'achat du timbre fiscal (en ligne ou sur place) varie selon le lieu de la demande :",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "En France",
+        "Le renouvellement d’une carte d'identité qui a été perdue ou volée coûte 25 €.",
+        "Vous pouvez acheter un timbre fiscal soit sur internet, soit dans un bureau de tabac :",
+        "Sur internet",
+        "La pré-demande sur le site de l'ANTS vous permet de gagner du temps lors du dépôt du dossier.",
+        "Vous pouvez acheter le timbre fiscal à la fin de la procédure de pré-demande :",
+        "Pré-demande pour un renouvellement de carte d'identité",
+        "Connexion avec FranceConnect",
+        "Sinon, vous pouvez acheter le timbre fiscal sur le site timbres.impots.gouv.fr :",
+        "Achat en ligne du timbre fiscal - Carte d'identité",
+        "Le timbre électronique peut être délivré sur 2 supports :",
+        "• Document PDF avec un code 2D qui peut également être scanné directement depuis un téléphone ou une tablette par le service chargé de recevoir votre demande",
+        "• SMS contenant l'identifiant à 16 chiffres du timbre qui sera accepté par l'agent chargé de traiter votre dossier.",
+        "Dans un bureau de tabac",
+        "Vous pouvez acheter un timbre fiscal dans un bureau de tabac s'il est équipé de l'application Point de vente agréé.",
+        "En Guyane",
+        "Le renouvellement d’une carte d'identité qui a été perdue ou volée coûte 12,50 €.",
+        "Vous pouvez acheter le timbre fiscal sur internet ou dans un bureau de tabac :",
+        "Sur internet",
+        "La pré-demande sur le site de l'ANTS vous permet de gagner du temps lors du dépôt du dossier.",
+        "Vous pouvez acheter le timbre fiscal à la fin de la procédure de pré-demande :",
+        "Pré-demande pour un renouvellement de carte d'identité",
+        "Connexion avec FranceConnect",
+        "Sinon, vous pouvez acheter le timbre fiscal sur le site timbres.impots.gouv.fr :",
+        "Achat en ligne du timbre fiscal - Carte d'identité",
+        "Le timbre électronique peut être délivré sur 2 supports :",
+        "• Document PDF avec un code 2D qui peut également être scanné directement depuis un téléphone ou une tablette par le service chargé de recevoir votre demande",
+        "• SMS contenant l'identifiant à 16 chiffres du timbre qui sera accepté par l'agent chargé de traiter votre dossier.",
+        "Dans un bureau de tabac",
+        "Vous pouvez acheter un timbre fiscal dans un bureau de tabac s'il est équipé de l'application Point de vente agréé.",
+        "À l'étranger",
+        "Le renouvellement d’une carte d'identité qui a été perdue ou volée coûte 25 €.",
+        "Vous pouvez acheter un timbre fiscal soit sur internet, soit au consulat :",
+        "Sur internet",
+        "La pré-demande sur le site de l'ANTS vous permet de gagner du temps lors du dépôt du dossier.",
+        "Vous pouvez acheter le timbre fiscal à la fin de la procédure de pré-demande :",
+        "Pré-demande pour un renouvellement de carte d'identité",
+        "Connexion avec FranceConnect",
+        "Sinon, vous pouvez acheter le timbre fiscal sur le site timbres.impots.gouv.fr :",
+        "Achat en ligne du timbre fiscal - Carte d'identité",
+        "Le timbre électronique peut être délivré sur 2 supports :",
+        "• Document PDF avec un code 2D qui peut également être scanné directement depuis un téléphone ou une tablette par le service chargé de recevoir votre demande",
+        "• SMS contenant l'identifiant à 16 chiffres du timbre qui sera accepté par l'agent chargé de traiter votre dossier.",
+        "Au consulat",
+        "Vous pouvez aussi régler directement en espèces au consulat. Certains consulats acceptent aussi le paiement par carte bancaire, chèque ou virement. Consultez le site internet du consulat pour savoir comment payer.",
+        "Ambassade ou consulat français à l'étranger"
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [
+    {
+      "titre": "Achat en ligne du timbre fiscal - Carte d'identité",
+      "url": "https://timbres.impots.gouv.fr",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "carte-d-identite-perdue-ou-volee-comment-acheter-un-timbre-fiscal",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "carte-d-identite",
+      "titre": "Carte d'identité"
+    }
+  ]
+}

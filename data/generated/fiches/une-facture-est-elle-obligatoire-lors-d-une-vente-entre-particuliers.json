@@ -1,0 +1,71 @@
+{
+  "id": "F31683",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Une facture est-elle obligatoire lors d'une vente entre particuliers ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Un particulier ne peut pas émettre de facture lors d'une vente avec un autre particulier. Seule une preuve écrite est nécessaire si la vente dépasse 1 500 €.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-08-22",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31683",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Information et protection du consommateur",
+    "Une facture est-elle obligatoire lors d'une vente entre particuliers ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Un particulier ne peut pas établir de facture. L’établissement d’une facture est réservé aux personnes exerçant une activité professionnelle, que ce soit à titre individuel (par exemple, entrepreneur individuel, autoentrepreneur) ou dans le cadre d’une personne morale.",
+        "Le particulier peut néanmoins produire un document pour justifier la vente.",
+        "Seule une preuve écrite (attestation, contrat de vente sous signature privée) est nécessaire si la vente dépasse 1 500 €.",
+        "Vente inférieure à 1 500 €",
+        "Une preuve écrite de la vente n'est pas nécessaire, mais reste recommandée.",
+        "En cas de litige, la vente peut être prouvée par tous moyens (par exemple : témoignage, échange de mail).",
+        "Vente supérieure ou égale à 1 500 €",
+        "La remise d'une preuve écrite est obligatoire. Cette preuve peut être :",
+        "• une attestation de vente remise à l'acheteur par le vendeur (particulier). Cette attestation doit être faite en 2 exemplaires (1 pour l'acheteur et 1 pour le vendeur),",
+        "• ou un contrat de vente sous signature privée.",
+        "Il est recommandé de faire figurer les informations suivantes dans l'attestation de vente :",
+        "• Identité et coordonnées du vendeur et de l'acheteur",
+        "• Date et lieu de la vente et de la remise du bien",
+        "• Description du bien vendu (nature, couleur, etc.)",
+        "• Prix de la vente et moyen de paiement de l'acheteur (espèces, chèque, etc.)",
+        "• Liste des documents remis (attestation, facture, notice, etc.)",
+        "• Signature des 2 parties."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de commerce : article L441-9",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000038411053"
+    },
+    {
+      "titre": "Code civil : articles 1358 à 1362",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032035939/"
+    },
+    {
+      "titre": "Décret n°80-533 du 15 juillet 1980 pris pour l'application de l'article 1341 du code civil",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006063274/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "0809 540 550 DGCCRF - RéponseConso"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "une-facture-est-elle-obligatoire-lors-d-une-vente-entre-particuliers",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "information-et-protection-du-consommateur",
+      "titre": "Information et protection du consommateur"
+    }
+  ]
+}

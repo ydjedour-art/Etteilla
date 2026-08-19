@@ -1,0 +1,82 @@
+{
+  "id": "F31661",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Détention d'une arme : faut-il signaler son changement d'adresse ?",
+  "theme": "Loisirs - Sports - Culture",
+  "description": "Tout titulaire d'un titre d'achat ou de détention d'arme informe de son changement d'adresse la préfecture de son nouveau domicile.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-01-28",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31661",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Loisirs - Sports - Culture",
+    "Armes",
+    "Détention d'une arme : faut-il signaler son changement d'adresse ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Oui, vous devez signaler votre changement d'adresse.",
+        "Cette règle s'applique si vous avez déclaré une arme de catégorie C ou obtenu l'autorisation d'avoir une arme de catégorie B ou A.",
+        "La démarche varie selon que vous disposez d’un compte SIA ou pas.",
+        "Vous disposez d'un compte SIA",
+        "Système d'information sur les armes",
+        "La démarche se fait via votre compte SIA .",
+        "Vous devez enregistrer un justificatif de domicile actualisé.",
+        "Espace détenteurs du système d'information sur les armes (SIA)",
+        "Avoir une adresse mail",
+        "Vous êtes dans une autre situation",
+        "Vous devez indiquer votre changement d'adresse à la préfecture de votre nouveau domicile.",
+        "Préfecture",
+        "Préfecture de police de Paris - Section armes et explosifs",
+        "La section armes et explosifs ne reçoit pas les usagers.",
+        "Par courrier",
+        "Préfecture de police",
+        "Direction de la police générale",
+        "Bureau des polices administratives",
+        "Section armes et explosifs",
+        "1 bis rue de Lutèce",
+        "75195 Paris Cedex 04",
+        "Par messagerie",
+        "À partir du formulaire de contact",
+        "Ne pas signaler son nouveau domicile en cas de déménagement dans un autre département est sanctionné par une amende de 750 €."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la sécurité intérieure : articles L311-2 à L311-4",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000025503132/LEGISCTA000025505562"
+    },
+    {
+      "titre": "Code de la sécurité intérieure : articles R312-50 à R312-51-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000025503132/LEGISCTA000029655197"
+    },
+    {
+      "titre": "Code de la sécurité intérieure : articles R317-1 à R317-8",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000025503132/LEGISCTA000029655479"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Espace détenteurs du système d'information sur les armes (SIA)",
+      "url": "https://sia.detenteurs.interieur.gouv.fr/realms/detenteurs/protocol/openid-connect/auth?response_type=code&scope=openid%20email&client_id=detenteurs-oidc-client-app&state=uSz39YeexithZCsvCWdOdqLSAbM&redirect_uri=https%3A%2F%2Fsia.detenteurs.interieur.gouv.fr%2Fespace-detenteurs%2Fredirect_uri&nonce=cEfwMmhP-F-7hewyw3LeHJlsy4klnmcbmmT3exFJoLk",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "detention-d-une-arme-faut-il-signaler-son-changement-d-adresse",
+  "path": [
+    {
+      "slug": "loisirs-sports-culture",
+      "titre": "Loisirs - Sports - Culture"
+    },
+    {
+      "slug": "armes",
+      "titre": "Armes"
+    }
+  ]
+}

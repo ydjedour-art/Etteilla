@@ -1,0 +1,55 @@
+{
+  "id": "F2595",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Modification du contrat d'assurance auto ou moto",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Vous devez signaler toute modification de votre situation à votre assureur, surtout si elle entraîne une modification des risques.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2024-06-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2595",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Assurance automobile (véhicule)",
+    "Modification du contrat d'assurance auto ou moto"
+  ],
+  "introduction": "Vous utilisez moins souvent votre véhicule et vous souhaitez obtenir une baisse de tarif ? Vous pouvez demander la modification du contrat. L'assureur peut aussi demander la modification du contrat dans certains cas. Nous vous présentons les règles applicables.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code des assurances : articles L113-1 à L113-17",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006157200"
+    },
+    {
+      "titre": "Code des assurances : articles R113-1 à R113-14",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006158221"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Déclarer une modification de risque à son assureur",
+      "url": "https://www.inc-conso.fr/content/vous-declarez-une-modification-de-risque-votre-assureur",
+      "type": "Modèle de document"
+    }
+  ],
+  "contacts": [
+    "Info Banque - Assurance"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Assurance automobile",
+      "url": "https://www.abe-infoservice.fr/assurance/assurance-automobile"
+    }
+  ],
+  "slug": "modification-du-contrat-d-assurance-auto-ou-moto",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "assurance-automobile-vehicule",
+      "titre": "Assurance automobile (véhicule)"
+    }
+  ]
+}

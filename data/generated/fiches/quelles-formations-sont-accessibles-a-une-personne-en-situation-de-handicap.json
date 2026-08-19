@@ -1,0 +1,56 @@
+{
+  "id": "F221",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quelles formations sont accessibles à une personne en situation de handicap ?",
+  "theme": "Travail - Formation",
+  "description": "Les personnes en situation de handicap peuvent accéder à des formations adaptées, avec accompagnement pour définir, réaliser et sécuriser leur projet.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-07-25",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F221",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Formation des personnes handicapées",
+    "Quelles formations sont accessibles à une personne en situation de handicap ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Si vous êtes en situation de handicap, vous avez accès à l’ensemble des dispositifs de formation professionnelle ordinaires prévus dans le secteur privé comme dans le secteur public. Les organismes de formation doivent toutefois mettre en place des adaptations pour compenser votre handicap. Cela peut inclure un accueil à temps partiel ou discontinu et une durée de formation adaptée.",
+        "En complément, certains dispositifs sont spécifiquement conçus pour les personnes en situation de handicap. Par exemple, vous pouvez obtenir une qualification professionnelle par le biais d’un contrat d'apprentissage comportant des aménagements adaptés à vos besoins.",
+        "Si vous avez besoin d’un accompagnement pour définir votre projet professionnel, vous pouvez intégrer un établissement et service de pré-orientation (ESPO) pour vous aider à clarifier vos objectifs. Une fois ce projet établi, vous pouvez poursuivre votre parcours dans un établissement et service de réadaptation professionnelle (ESRP) pour le concrétiser à travers des formations préparatoires, qualifiantes ou diplômantes.",
+        "Enfin, pour sécuriser l’ensemble de votre parcours professionnel, vous pouvez bénéficier du soutien d’un référent unique."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code du travail : articles D5211-1 à D5211-6",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000018526183"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Maison départementale des personnes handicapées (MDPH)",
+    "Cap Emploi"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Formation professionnelle des personnes en situation de handicap",
+      "url": "https://www.monparcourshandicap.gouv.fr/formation-professionnelle"
+    }
+  ],
+  "slug": "quelles-formations-sont-accessibles-a-une-personne-en-situation-de-handicap",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "formation-des-personnes-handicapees",
+      "titre": "Formation des personnes handicapées"
+    }
+  ]
+}

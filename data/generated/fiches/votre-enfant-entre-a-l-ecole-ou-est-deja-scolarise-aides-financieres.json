@@ -1,0 +1,84 @@
+{
+  "id": "F38244",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Votre enfant entre à l'école ou est déjà scolarisé : aides financières",
+  "theme": "Social - Santé",
+  "description": "Si votre enfant va prochainement être scolarisé ou l'est déjà, vous pouvez bénéficier d'aides financières, sous certaines conditions.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-30",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F38244",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Aides financières",
+    "Votre enfant entre à l'école ou est déjà scolarisé : aides financières"
+  ],
+  "introduction": "Si votre enfant va prochainement être scolarisé ou l'est déjà, vous pouvez bénéficier d'aides financières, sous certaines conditions. Les aides diffèrent si votre enfant est à l'école primaire, au collège, au lycée général ou au lycée professionnel.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "À l'école primaire",
+        "Vous pouvez bénéficier, sous conditions de ressources, de l'allocation de rentrée scolaire (ARS) dès les 6 ans de votre enfant.",
+        "S'il fréquente la cantine, vous pouvez éventuellement, sous conditions de ressources, bénéficier d'aides pour la cantine.",
+        "Certains départements accordent une bourse pour l'école élémentaire pour les élèves scolarisés à partir du CP. Cette bourse est notamment attribuée sous conditions de ressources et d'éloignement géographique.",
+        "Votre commune, votre département ou votre région peuvent vous accorder d'autres aides. Elles varient selon les collectivités. Chacune peut définir ses propres critères d'attribution. L'aide peut être financière ou matérielle (fournitures scolaires, cartable, dictionnaire, etc.).",
+        "Vous devez vous renseigner auprès de votre collectivité.",
+        "Mairie",
+        "Département",
+        "Conseil régional",
+        "Au collège",
+        "Vous pouvez bénéficier, sous conditions de ressources, de l'allocation de rentrée scolaire (ARS) et de la bourse de collège dès l'entrée au collège de votre enfant.",
+        "S'il fréquente la cantine, vous pouvez éventuellement, sous conditions de ressources, bénéficier d'aides pour la cantine.",
+        "S'il est scolarisé en internat et boursier, vous pouvez bénéficier de la prime à l'internat.",
+        "En cas de difficulté, vous pouvez également faire une demande de fonds social collégien.",
+        "Votre commune, votre département ou votre région peuvent vous accorder d'autres aides. Elles varient selon les collectivités. Chacune peut définir ses propres critères d'attribution. L'aide peut être financière ou matérielle (fournitures scolaires, cartable, dictionnaire, etc.).",
+        "Vous devez vous renseigner auprès de votre collectivité.",
+        "Département",
+        "Conseil régional",
+        "Mairie",
+        "Au lycée",
+        "Vous pouvez bénéficier, sous conditions de ressources, de l'allocation de rentrée scolaire (ARS) et de la bourse de lycée dès l'entrée au lycée de votre enfant.",
+        "[Attention] Si votre enfant a 18 ans avant le 16 septembre de la rentrée scolaire, vous ne pouvez pas bénéficier de l’ARS.",
+        "S'il est boursier et a obtenu une mention bien ou très bien au diplôme national du brevet, vous pouvez bénéficier d'une bourse au mérite.",
+        "S'il fréquente la cantine, vous pouvez éventuellement, sous conditions de ressources, bénéficier d'aides pour la cantine,",
+        "S'il est scolarisé en internat et boursier, vous pouvez bénéficier de la prime à l'internat.",
+        "En cas de difficulté, vous pouvez également faire une demande de fonds social lycéen.",
+        "Votre commune, votre département ou votre région peuvent vous accorder d'autres aides. Elles varient selon les collectivités. Chacune peut définir ses propres critères d'attribution. L'aide peut être financière ou matérielle (fournitures scolaires, cartable, dictionnaire, etc.).",
+        "Vous devez vous renseigner auprès de votre collectivité.",
+        "Conseil régional",
+        "Mairie",
+        "Département",
+        "Au lycée professionnel",
+        "Vous pouvez bénéficier, sous conditions de ressources, de l'allocation de rentrée scolaire (ARS) et de la bourse de lycée dès l'entrée au lycée de votre enfant.",
+        "[Attention] Si votre enfant a 18 ans avant le 16 septembre de la rentrée scolaire, vous ne pouvez pas bénéficier de l’ARS.",
+        "S'il est boursier et a obtenu une mention bien ou très bien au diplôme national du brevet, vous pouvez bénéficier d'une bourse au mérite.",
+        "S'il est boursier et selon la spécialité choisie, vous pouvez éventuellement bénéficier d'une prime d'équipement.",
+        "S'il fréquente la cantine, vous pouvez éventuellement bénéficier d'aides pour la cantine.",
+        "S'il est scolarisé en internat et boursier, vous pouvez bénéficier de la prime à l'internat.",
+        "En cas de difficulté, vous pouvez également faire une demande de fonds social lycéen.",
+        "Votre commune, votre département ou votre région peuvent vous accorder d'autres aides. Elles varient selon les collectivités. Chacune peut définir ses propres critères d'attribution. L'aide peut être financière ou matérielle (fournitures scolaires, cartable, dictionnaire, etc.).",
+        "Vous devez vous renseigner auprès de votre collectivité.",
+        "Conseil régional",
+        "Mairie",
+        "Département",
+        "[À savoir] Si votre enfant est en situation de handicap, les dispositifs d'aide sont différents."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "votre-enfant-entre-a-l-ecole-ou-est-deja-scolarise-aides-financieres",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "aides-financieres",
+      "titre": "Aides financières"
+    }
+  ]
+}

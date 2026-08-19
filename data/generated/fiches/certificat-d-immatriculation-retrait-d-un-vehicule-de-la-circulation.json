@@ -1,0 +1,114 @@
+{
+  "id": "F1754",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Certificat d’immatriculation : retrait d’un véhicule de la circulation",
+  "theme": "Transports - Mobilité",
+  "description": "Le retrait de la circulation d'un véhicule peut être décidé par le titulaire du certificat d’immatriculation (appelé auparavant carte grise) ou par l'acquéreur.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-10-29",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1754",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Carte grise (certificat d'immatriculation)",
+    "Certificat d’immatriculation : retrait d’un véhicule de la circulation"
+  ],
+  "introduction": "Vous pouvez décider de retirer de la circulation votre véhicule (par exemple, si vous voulez le restaurer ou le modifier sur un temps assez long). De même, en cas d’acquisition d’un véhicule (achat ou don), vous pouvez également demander le retrait de la circulation aussitôt après. Quelles sont les conséquences sur le certificat d’immatriculation (appelé auparavant carte grise) ? Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Dans quels cas demander le retrait d’un véhicule de la circulation ?",
+      "contenu": [
+        "La demande de retrait de la circulation peut être soit volontaire, soit obligatoire.",
+        "Retrait volontaire",
+        "Vous pouvez souhaiter que votre véhicule soit retiré de la circulation parce que vous voulez le restaurer ou le modifier sur un temps assez long.",
+        "Si vous venez d'acheter un véhicule, vous pouvez souhaitez demander son retrait de la circulation tout de suite après l'achat, par exemple pour le transformer.",
+        "Si la demande de retrait est faite dans le délai d’1 mois après l’achat, vous n'êtes pas obligé de l'immatriculer au préalable à votre nom. Vous pourrez attendre que le véhicule soit prêt.",
+        "Si vous souhaitez retirer le véhicule de la circulation plus d’1 mois après son achat, vous devrez d’abord l’immatriculer à votre nom.",
+        "Retrait obligatoire",
+        "Si le véhicule est transformé et qu’après cette transformation il n’entre plus dans une catégorie soumise à immatriculation, vous avez l’obligation de le retirer de la circulation.",
+        "[Attention] Le fait de ne pas demander le retrait de la circulation est puni d’une amende forfaitaire de 135 €."
+      ]
+    },
+    {
+      "titre": "Quelles sont les conséquences du retrait de la circulation du véhicule ?",
+      "contenu": [
+        "Vous ne pouvez plus circuler avec le véhicule sur les voies ouvertes à la circulation publique, même s’il est remorqué par un véhicule immatriculé.",
+        "La validité du certificat d’immatriculation est suspendue pendant toute la période du retrait. Le retrait de la circulation n'entraîne pas l'annulation de l'immatriculation."
+      ]
+    },
+    {
+      "titre": "Comment demander le retrait de la circulation du véhicule ?",
+      "contenu": [
+        "Les règles diffèrent selon que le retrait est effectué aussitôt après l'achat du véhicule ou non :",
+        "Retrait effectué aussitôt après l'achat",
+        "Si vous souhaitez, aussitôt après l'achat du véhicule, le retirer de la circulation, vous devez en faire la demande dans le délai d'1 mois à compter de la date de la cession indiquée sur le certificat d’immatriculation. Dans ce cas, vous n’êtes pas obligé de faire la demande de certificat d’immatriculation à votre nom avant le retrait du véhicule.",
+        "La demande de retrait s'effectue sur internet :",
+        "Demander le retrait de la circulation d'un véhicule",
+        "Vous devez vous connecter sur le site de l'ANTS en vous identifiant soit via France Connect, soit via l’application France Identité.",
+        "[Attention] Le fait de ne pas demander le retrait de la circulation dans le délai d’1 mois après l’achat est puni d’une amende forfaitaire de 135 €.",
+        "Autre situation",
+        "Si vous souhaitez retirer votre véhicule de la circulation, vous devez en faire la demande sur internet :",
+        "Demander le retrait de la circulation d'un véhicule",
+        "Vous devez vous connecter sur le site de l'ANTS en vous identifiant soit via France Connect, soit via l’application France Identité."
+      ]
+    },
+    {
+      "titre": "Quels sont les documents à fournir pour demander le retrait de la circulation du véhicule ?",
+      "contenu": [
+        "Vous devez vous munir d'une copie numérique (photo ou scan) des documents suivants :",
+        "• Formulaire cerfa n°13756 de déclaration de retrait de circulation du véhicule (à télécharger via le téléservice)",
+        "• Certificat d’immatriculation du véhicule barré et signé, portant la mention “retiré de la circulation le [jour / mois / année]”.",
+        "Si vous faites la démarche pour quelqu'un d'autre, vous devez avoir une copie numérique du mandat signé et de sa pièce d'identité.",
+        "À la fin de la procédure, vous obtiendrez un numéro de dossier et un accusé d'enregistrement de votre demande, que vous pourrez imprimer.",
+        "Des points numériques (avec ordinateurs, imprimantes et scanners) sont mis à votre disposition dans chaque préfecture et dans la plupart des sous-préfectures. Vous pouvez y accomplir la démarche. Vous pouvez être aidé par des médiateurs numériques si vous rencontrez des difficultés avec l'utilisation d'internet.",
+        "Vous pouvez aussi être accompagné dans votre démarche par une maison France Services.",
+        "Point d'accueil numérique",
+        "France Services / Maison de services au public",
+        "[Attention] Il n'est désormais plus possible de demander un certificat d'immatriculation auprès de la préfecture ou de la sous-préfecture."
+      ]
+    },
+    {
+      "titre": "Quel est le coût du retrait de la circulation du véhicule ?",
+      "contenu": [
+        "La demande de retrait de la circulation du véhicule est gratuite."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la route : articles R322-1 à R322-14",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074228/LEGISCTA000006177098"
+    },
+    {
+      "titre": "Arrêté du 9 février 2009 relatif aux démarches d'immatriculation des véhicules",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000020237165"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demander le retrait de la circulation d'un véhicule",
+      "url": "https://immatriculation.ants.gouv.fr/demarches-en-ligne/signaler-un-changement-sur-la-situation-de-votre-vehicule",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "34 00 - Informations sur le certificat d’immatriculation ou le permis de conduire"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Points numériques",
+      "url": "https://immatriculation.ants.gouv.fr/services-et-formulaires/carte-des-points-numeriques"
+    }
+  ],
+  "slug": "certificat-d-immatriculation-retrait-d-un-vehicule-de-la-circulation",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "carte-grise-certificat-d-immatriculation",
+      "titre": "Carte grise (certificat d'immatriculation)"
+    }
+  ]
+}

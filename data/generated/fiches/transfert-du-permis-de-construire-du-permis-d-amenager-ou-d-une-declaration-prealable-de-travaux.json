@@ -1,0 +1,128 @@
+{
+  "id": "F2698",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Transfert du permis de construire, du permis d'aménager ou d'une déclaration préalable de travaux",
+  "theme": "Logement",
+  "description": "Le permis de construire (PC), le permis d'aménager (PA) ou la déclaration préalable de travaux (DP) peuvent être transférés à une personne physique.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-02-28",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2698",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Autorisations d'urbanisme",
+    "Transfert du permis de construire, du permis d'aménager ou d'une déclaration préalable de travaux"
+  ],
+  "introduction": "Vous achetez ou vendez un terrain pour lequel un permis de construire ou d'aménager ou une déclaration préalable a déjà été accordé ? Vous achetez ou vendez un bien en cours de construction ? Vous pouvez changer le titulaire du permis en demandant le transfert de l'autorisation d'urbanisme du vendeur à l'acheteur. La mairie autorise ce transfert sous certaines conditions. Nous faisons le point sur le sujet.",
+  "chapitres": [
+    {
+      "titre": "Quelles sont les conditions d'un transfert d'autorisation d'urbanisme ?",
+      "contenu": [
+        "Les conditions sont différentes selon que l'on transfère une autorisation d'urbanisme à une personne morale ou physique.",
+        "Transfert vers une personne physique",
+        "L'autorisation de transfert est accordée quand les 3 conditions suivantes sont réunies :",
+        "• Autorisation d'urbanisme en cours de validité",
+        "• Accord du titulaire et du bénéficiaire du transfert",
+        "• Capacité du bénéficiaire du transfert à déposer une autorisation d'urbanisme.",
+        "Un éventuel changement des règles d'urbanisme entre le permis initial et son transfert ne peut pas entraîner un refus de la mairie.",
+        "Transfert vers une personne morale",
+        "L'autorisation d'urbanisme peut être transferée si les plans du permis de construire initial ont été établis par un architecte.",
+        "L'autorisation de transfert est accordée quand les 3 conditions suivantes sont réunies :",
+        "• Autorisation d'urbanisme en cours de validité",
+        "• Accord du titulaire et du bénéficiaire du transfert",
+        "• Capacité du bénéficiaire du transfert à déposer une autorisation d'urbanisme.",
+        "Un éventuel changement des règles d'urbanisme entre le permis initial et son transfert ne peut pas entraîner un refus de la mairie."
+      ]
+    },
+    {
+      "titre": "Quelle est la démarche d'un transfert d'autorisation d'urbanisme ?",
+      "contenu": [
+        "Vous devez déposer votre demande de transfert en mairie :",
+        "• Par voie dématérialisée selon les dispositions prises par votre commune (renseignez-vous sur le site de la mairie ou sur place)",
+        "• Par lettre RAR",
+        "• En main propre",
+        "Mairie",
+        "[Attention] Dans une commune de plus de 3 500 habitants, une personne morale doit transmettre sa demande d'autorisation d'urbanisme uniquement par voie électronique.",
+        "Sur internet",
+        "Cas général",
+        "Vous pouvez remplir votre demande de transfert sur internet :",
+        "Assistance pour votre demande d'autorisation d'urbanisme",
+        "À Paris",
+        "Vous devez déposer votre demande de transfert au Basu :",
+        "Bureau accueil et service à l'usager (Basu) de Paris : guichet électronique unique",
+        "Guichet électronique unique pour toutes vos démarches d'urbanisme à Paris : préparer votre dossier, suivre vos demandes et déclarer vos chantiers.",
+        "Formulaire",
+        "Cas général",
+        "Vous pouvez remplir votre demande de transfert au moyen d'un formulaire :",
+        "Demander le transfert d’une autorisation d'urbanisme délivrée en cours de validité",
+        "Permet au titulaire initial d'un permis de construire ou d'aménager ou d'une déclaration préalable de transférer son autorisation d'urbanisme à une autre personne sous conditions",
+        "À Paris",
+        "Vous devez déposer votre demande de transfert au Basu obligatoirement par voie dématérialisée :",
+        "Bureau accueil et service à l'usager (Basu) de Paris : guichet électronique unique",
+        "Guichet électronique unique pour toutes vos démarches d'urbanisme à Paris : préparer votre dossier, suivre vos demandes et déclarer vos chantiers."
+      ]
+    },
+    {
+      "titre": "Dans quel délai est rendue la décision de transfert de l'autorisation d'urbanisme ?",
+      "contenu": [
+        "La décision est rendue dans un délai de 2 mois.",
+        "L'absence de décision écrite de la mairie signifie qu'elle autorise le transfert.",
+        "Le nouveau titulaire doit afficher le permis ou la déclaration préalable sur son terrain."
+      ]
+    },
+    {
+      "titre": "Quelles sont les conséquences du transfert d'autorisation d'urbanisme ?",
+      "contenu": [
+        "La totalité des droits et obligations fiscales et de faire, liées à l'autorisation d'urbanisme, vous est transférée en tant que nouveau titulaire.",
+        "Vous êtes redevable des taxes et participations (par exemple, la taxe d'aménagement, la participation pour voirie et réseaux - PVR, redevance d'archéologie préventive - RAP).",
+        "Pour connaitre les montants à payer vous devez vous adresser au centre des impôts foncier.",
+        "Centre départemental des impôts fonciers (CDIF)",
+        "Vous pouvez être poursuivi par la mairie si vous ne respectez pas les règles de l'autorisation d'urbanisme accordée et transférée.",
+        "Votre voisin peut exercer un recours contre l'autorisation qui vous a été accordée si votre construction lui cause un préjudice. ."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'urbanisme : articles R*424-1 à R*424-4",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031764682"
+    },
+    {
+      "titre": "Code de l'urbanisme : article R*424-13",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037215370"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Assistance pour votre demande d'autorisation d'urbanisme",
+      "url": "https://demarches.service-public.gouv.fr/mademarche/DAUA/demarche",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Bureau accueil et service à l'usager (Basu) de Paris : guichet électronique unique",
+      "url": "https://teleservices.paris.fr/demarchesurbanisme/jsp/site/Portal.jsp?page=accueil",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Demander le transfert d’une autorisation d'urbanisme délivrée en cours de validité",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_16701.do",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Mairie",
+    "Paris : Bureau accueil et service à l'usager (Basu)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "transfert-du-permis-de-construire-du-permis-d-amenager-ou-d-une-declaration-prealable-de-travaux",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "autorisations-d-urbanisme",
+      "titre": "Autorisations d'urbanisme"
+    }
+  ]
+}

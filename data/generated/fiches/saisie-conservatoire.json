@@ -1,0 +1,33 @@
+{
+  "id": "F35960",
+  "type_publication": "Recherche guidée",
+  "titre": "Saisie conservatoire",
+  "theme": "Justice",
+  "description": "Saisie conservatoire",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2021-10-22",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35960",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Saisies et recouvrements",
+    "Saisie conservatoire"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "saisie-conservatoire",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "saisies-et-recouvrements",
+      "titre": "Saisies et recouvrements"
+    }
+  ]
+}

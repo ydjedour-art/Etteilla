@@ -1,0 +1,110 @@
+{
+  "id": "F32928",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Bourse au mérite (au lycée)",
+  "theme": "Famille - Scolarité",
+  "description": "La bourse au mérite peut être attribuée à l'élève qui bénéficie de la bourse de lycée et a obtenu une mention bien ou très bien au diplôme national du brevet.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-06-10",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F32928",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Aides financières pour la scolarité",
+    "Bourse au mérite (au lycée)"
+  ],
+  "introduction": "Votre enfant bénéficie de la bourse de lycée et a obtenu une mention bien ou très bien au diplôme national du brevet ? La bourse au mérite peut alors lui être attribuée. Voici les informations à connaître sur la bourse au mérite.",
+  "chapitres": [
+    {
+      "titre": "Qui peut bénéficier de la bourse au mérite ?",
+      "contenu": [
+        "Pour avoir droit à la bourse au mérite, vous devez remplir les 3 conditions suivantes :",
+        "• Bénéficier de la bourse de lycée",
+        "• Être scolarisé dans un cycle d'enseignement conduisant au CAP, au brevet national des métiers d’art ou au bac",
+        "• Avoir obtenu une mention bien ou très bien au diplôme national du brevet.",
+        "[À noter] Le versement de la bourse au mérite peut être interrompu si le conseil de classe juge vos efforts et vos résultats insuffisants ou si vous n'êtes pas assidu en classe."
+      ]
+    },
+    {
+      "titre": "Comment demander la bourse au mérite ?",
+      "contenu": [
+        "Vous n'avez pas de demande spécifique à faire. En effet, votre dossier de bourse de lycée suffit.",
+        "Une fois que la décision d'attribution vous est communiquée, vous devez vous engager par écrit à poursuivre votre scolarité avec assiduité jusqu'au CAP, jusqu’au brevet national des métiers d’art ou jusqu'au bac et obtenir de bons résultats scolaires. Cet engagement doit être remis au lycée dans lequel vous êtes inscrit.",
+        "[À noter] Vous pouvez accepter l’étude automatique de votre droit à bourse au moment de l’inscription de votre enfant dans son établissement scolaire. Vous n’aurez pas d’autre démarche à faire pour que votre droit à bourse soit étudié à chaque rentrée scolaire."
+      ]
+    },
+    {
+      "titre": "Quel est le montant de la bourse au mérite ?",
+      "contenu": [
+        "Le montant de la bourse au mérité dépend de votre échelon à la bourse de lycée.",
+        "La bourse au mérite est versée en 3 fois en même temps que la bourse de lycée.",
+        "Montant de la bourse au mérite selon votre échelon",
+        "Échelon",
+        "Montant trimestriel de la bourse au mérite",
+        "1",
+        "134 €",
+        "2",
+        "174 €",
+        "3",
+        "214 €",
+        "4",
+        "254 €",
+        "5",
+        "294 €",
+        "6",
+        "334 €"
+      ]
+    },
+    {
+      "titre": "Quelles sont les aides cumulables avec la bourse au mérite ?",
+      "contenu": [
+        "La bourse est obligatoirement cumulée avec la bourse de lycée.",
+        "Par ailleurs, elle peut être cumulée, sous conditions, avec les aides suivantes :",
+        "• Allocation de rentrée scolaire (ARS)",
+        "• Aides pour l'élève inscrit dans la voie professionnelle",
+        "• Prime à l'internat",
+        "• Fonds social lycéen",
+        "• Aides pour la cantine."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'éducation : articles R531-13 à D531-36-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071191/LEGISCTA000020663308/#LEGISCTA000020743183"
+    },
+    {
+      "titre": "Code de l'éducation : articles D531-37 à D531-41",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000020743125"
+    },
+    {
+      "titre": "Arrêté du 22 mars 2016 fixant le montant de la bourse au mérite à compter de l'année scolaire 2016-2017",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000032325022"
+    },
+    {
+      "titre": "Circulaire du 20 juin 2024 relative aux bourses au mérite",
+      "url": "https://www.education.gouv.fr/bo/2024/Hebdo27/MENE2416039C"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Établissement scolaire"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Les bourses de collège et de lycée",
+      "url": "https://www.education.gouv.fr/les-bourses-de-college-et-de-lycee-326728"
+    }
+  ],
+  "slug": "bourse-au-merite-au-lycee",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "aides-financieres-pour-la-scolarite",
+      "titre": "Aides financières pour la scolarité"
+    }
+  ]
+}

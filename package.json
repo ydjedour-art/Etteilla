@@ -11,7 +11,8 @@
     "kb:extract": "tsx knowledge-base/pipeline/extract.ts",
     "kb:validate": "tsx knowledge-base/pipeline/validate.ts",
     "kb:refresh-check": "tsx knowledge-base/pipeline/refresh-check.ts",
-    "kb:build-embeddings": "tsx knowledge-base/pipeline/build-embeddings.ts"
+    "kb:build-embeddings": "tsx knowledge-base/pipeline/build-embeddings.ts",
+    "build:arbo": "tsx scripts/build-arborescence.ts"
   },
   "dependencies": {
     "cheerio": "^1.2.0",

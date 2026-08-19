@@ -1,0 +1,111 @@
+{
+  "id": "F1739",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Médiateur pénal",
+  "theme": "Justice",
+  "description": "Le médiateur pénal est habilité par le procureur pour faciliter le règlement amiable d'un litige lié à une infraction pénale de faible gravité.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-09-25",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1739",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Acteurs du monde judiciaire",
+    "Médiateur pénal"
+  ],
+  "introduction": "Le médiateur pénal est un tiers indépendant et impartial, désigné par le procureur de la République. Son rôle est d'aider l'auteur d'une infraction et sa victime à trouver une solution amiable. Le recours au médiateur pénal est gratuit. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Quand le procureur peut-il décider de désigner un médiateur pénal ?",
+      "contenu": [
+        "La médiation pénale est une mesure alternative aux poursuites pénales. Cela signifie que le procureur de la République doit proposer la médiation pénale avant de prendre une décision sur l’affaire, à savoir un classement sans suite ou des poursuites judiciaires.",
+        "Le choix de recourir à la médiation repose sur une marge d’appréciation du procureur qui tient compte de la gravité des faits, du contexte relationnel entre l’auteur et la victime, de la capacité de la juridiction à traiter le dossier, du temps de réponse pénale, du coût de la mesure et de la possibilité de rétablir la cohésion sociale.",
+        "Cette mesure est principalement utilisée en matières contraventionnelle et correctionnelle, pour les infractions de faible gravité, telles que les troubles de voisinage, injures, violences légères, non-représentation d’enfants ou le non-paiement de pension alimentaire. En revanche, la matière criminelle et les violences conjugales sont exclues de son domaine d’application.",
+        "Le procureur de la République peut désigner un médiateur pénal uniquement si la mesure remplit au moins l’un des objectifs suivants :",
+        "• Assurer la réparation du dommage causé à la victime",
+        "• Mettre fin au trouble causé par l'infraction",
+        "• Contribuer au reclassement de l'auteur des faits.",
+        "[À savoir] La médiation pénale ne peut être mise en œuvre qu’avec l’accord de la victime. L’accord de l’auteur des faits est en pratique recherché pour garantir l’efficacité de la médiation."
+      ]
+    },
+    {
+      "titre": "Quel est le rôle du médiateur pénal ?",
+      "contenu": [
+        "Le rôle du médiateur pénal est d’aider l’auteur d’une infraction et la victime à dialoguer afin de parvenir à un accord.",
+        "Dès sa désignation, le médiateur pénal convoque séparément chaque partie à un entretien individuel. Il explique alors le cadre, l’objet et la finalité de la médiation pénale et rappelle les faits reprochés ainsi que les règles de droit applicables. Ces entretiens permettent aussi de vérifier que la victime accepte la médiation et que chaque partie est réellement motivée à trouver une solution négociée.",
+        "Lors des rencontres communes, le médiateur pénal aide les parties à apaiser les tensions et à rechercher une solution librement négociée. Pour cela, il reprend les demandes et concessions de chacun, met en avant les points de convergence et encourage les parties à mettre un terme à leur différend par un accord qui leur paraît équilibré. Concrètement, les discussions portent sur la réparation du préjudice causé, l'indemnisation financière mais aussi la réparation symbolique (des excuses, par exemple).",
+        "Le rôle du médiateur pénal est indispensable en ce qu’il veille à ce que la solution soit équitable pour chacune des parties. Il s’assure ainsi que la victime n’est soumise à aucune pression et que le dialogue reste équilibré.",
+        "[À savoir] Le médiateur pénal peut formuler des suggestions, mais il ne ne tranche pas le litige."
+      ]
+    },
+    {
+      "titre": "Quelles sont les obligations du médiateur pénal ?",
+      "contenu": [
+        "Le médiateur pénal doit respecter plusieurs devoirs dans l’exercice de ses fonctions, à savoir la rigueur, la loyauté, l’impartialité et la dignité. Il est soumis à une exigence de neutralité.",
+        "Le médiateur pénal est également tenu au secret professionnel et à la confidentialité des échanges. Il ne peut ainsi révéler les informations recueillies au cours de son intervention qu’avec l’accord des parties."
+      ]
+    },
+    {
+      "titre": "Que se passe-t-il en cas de réussite de la médiation pénale ?",
+      "contenu": [
+        "Lorsque le processus de médiation aboutit à un accord, il revient au procureur de la République ou au médiateur pénal de rédiger le procès-verbal de l’accord obtenu.",
+        "Ce procès-verbal doit préciser les engagements qui ont été pris par l’auteur des faits envers la victime. Il est signé par les parties ainsi que par celui qui l’a dressé (procureur de la République ou le médiateur). Une copie en est remise à chaque partie.",
+        "Si l'auteur des faits respecte les engagements qu'il a pris, le procureur de la République peut abandonner les poursuites à son encontre.",
+        "[À savoir] En cas de non-exécution de l’accord en raison du comportement de l’auteur des faits, le procureur doit engager des poursuites ou proposer une composition pénale."
+      ]
+    },
+    {
+      "titre": "Que se passe-t-il en cas d'échec de la médiation pénale ?",
+      "contenu": [
+        "Lorsque la médiation mise en œuvre n'aboutit pas, les parties n'étant pas arrivées à un accord, le médiateur constate l'échec de la médiation pénale et en informe le procureur de la République. Ce dernier peut alors décider de proposer à l’auteur des faits une composition pénale ou d’engager des poursuites à son encontre."
+      ]
+    },
+    {
+      "titre": "Comment est rémunéré le médiateur pénal ?",
+      "contenu": [
+        "La procédure de médiation pénale est gratuite pour les parties. La rémunération du médiateur est à la charge de l’État au titre des frais de justice."
+      ]
+    },
+    {
+      "titre": "Qui peut être médiateur pénal ?",
+      "contenu": [
+        "Le médiateur pénal peut être une personne physique ou une association déclarée.",
+        "Pour exercer cette mission, il doit obtenir une habilitation délivrée, selon le cas, par le procureur de la République ou par le procureur général, en fonction du ressort dans lequel il souhaite intervenir (tribunal judiciaire ou cour d’appel).",
+        "Les personnes qui exercent la fonction de médiateur pénal, qu’elles interviennent à titre individuel ou au sein d’une association, doivent respecter les conditions suivantes :",
+        "• Ne pas exercer de fonctions judiciaires, ne pas participer au fonctionnement de la justice (avocat, greffier, juge etc), ni être investies d’un mandat électif",
+        "• Ne pas avoir fait l’objet d’une condamnation, incapacité ou déchéance inscrite au bulletin n°2 du casier judiciaire",
+        "• Présenter des garanties de compétence (spécialiste du droit), d'indépendance et d'impartialité",
+        "• Ne pas avoir de lien familial avec un magistrat ou un fonctionnaire de la juridiction (couple, parent jusqu'au degré d'oncle ou de neveu), sauf dispense accordée par le ministre de la justice",
+        "• Ne pas avoir plus de 75 ans."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de procédure pénale : article 41-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042193474"
+    },
+    {
+      "titre": "Code de procédure pénale : articles R15-33-30 à R15-33-37",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006517012"
+    },
+    {
+      "titre": "Code de procédure pénale : article R92",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000038313689/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "mediateur-penal",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "acteurs-du-monde-judiciaire",
+      "titre": "Acteurs du monde judiciaire"
+    }
+  ]
+}

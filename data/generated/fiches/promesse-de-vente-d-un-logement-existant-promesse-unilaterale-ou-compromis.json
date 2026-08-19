@@ -1,0 +1,99 @@
+{
+  "id": "F2965",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Promesse de vente d'un logement existant : promesse unilatérale ou compromis",
+  "theme": "Logement",
+  "description": "L'acquéreur et le vendeur d’une maison ou d’un appartement existant signent une promesse unilatérale de vente ou un compromis de vente.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-10",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2965",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Achat ou vente d'un logement",
+    "Promesse de vente d'un logement existant : promesse unilatérale ou compromis"
+  ],
+  "introduction": "Pour l’achat et la vente d’un logement existant, il est possible d’utiliser 2 principaux types d’avant-contrat : la promesse unilatérale de vente (souvent appelée promesse de vente) et la promesse synallagmatique de vente (couramment appelée compromis de vente). Ces 2 actes reposent sur des règles juridiques différentes. Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code civil : article 1106",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032040762"
+    },
+    {
+      "titre": "Code civil : article 1124",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032040818/"
+    },
+    {
+      "titre": "Code civil : articles 1304 à 1304-7",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032028608"
+    },
+    {
+      "titre": "Code civil : articles 1372 à 1377",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032037833"
+    },
+    {
+      "titre": "Code civil : articles 1582 à 1593",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006136377"
+    },
+    {
+      "titre": "Code civil : article 1589-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006441326"
+    },
+    {
+      "titre": "Code de la consommation : articles L313-40 à L313-45",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032225898"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : articles L271-1 à L271-3",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000006176357/"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : article L271-4",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041586781/"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : articles L290-1 et L290-2",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000020466370/"
+    },
+    {
+      "titre": "Code de l'urbanisme : article L151-14-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050616970/"
+    },
+    {
+      "titre": "Code de procédure civile : articles 640 à 647-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006135898/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Résilier le compromis de vente pour l'achat d'un logement",
+      "url": "https://www.inc-conso.fr/content/vous-vous-retractez-dans-le-delai-de-dix-jours-apres-la-signature-dun-compromis-de-vente",
+      "type": "Modèle de document"
+    }
+  ],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "La promesse de vente et le compromis de vente",
+      "url": "https://www.notaires.fr/fr/immobilier-fiscalit%C3%A9/achat-et-vente-les-%C3%A9tapes/la-promesse-de-vente-et-le-compromis-de-vente"
+    },
+    {
+      "titre": "Enregistrement de la promesse de vente",
+      "url": "https://www.impots.gouv.fr/portail/particulier/questions/je-souhaite-acheter-un-bien-immobilier-dois-je-faire-enregistrer-la-promesse"
+    }
+  ],
+  "slug": "promesse-de-vente-d-un-logement-existant-promesse-unilaterale-ou-compromis",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "achat-ou-vente-d-un-logement",
+      "titre": "Achat ou vente d'un logement"
+    }
+  ]
+}

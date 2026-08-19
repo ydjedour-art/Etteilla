@@ -1,0 +1,63 @@
+{
+  "id": "F863",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Les allocations familiales sont-elles saisissables ?",
+  "theme": "Justice",
+  "description": "En principe, les prestations familiales sont insaisissables. Mais certaines prestations peuvent être saisies dans certains cas.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2024-05-10",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F863",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Saisies et recouvrements",
+    "Les allocations familiales sont-elles saisissables ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Non, en principe, les prestations familiales sont insaisissables.",
+        "Mais certaines prestations familiales peuvent être saisies en cas de non-paiement de dette alimentaire (par exemple, pension alimentaire, frais de cantine scolaire).",
+        "Elles peuvent également être saisies en cas de non-paiement d'autres dépenses liées aux autres besoins de l'enfant (par exemple, frais d'hospitalisation).",
+        "Il s'agit des prestations suivantes :",
+        "• Allocation de base et prestation partagée d'éducation de l'enfant",
+        "• Allocations familiales",
+        "• Complément familial",
+        "• Allocation de rentrée scolaire (ARS)",
+        "• Allocation de soutien familial (ASF)",
+        "• Allocation d'éducation de l'enfant handicapé (AEEH)",
+        "Les sommes sont saisies dans la limite d'un montant mensuel fixé selon les revenus et les charges de la famille.",
+        "[À savoir] Si une personne obtient une prestation familiale après avoir fraudé ou fait une fausse déclaration, la Caf (ou la MSA) récupère cet indu. La Caf (ou MSA) peut notamment faire une retenue sur les versements à venir d'une autre prestation familiale."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la sécurité sociale : article L553-4",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041398650/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : article L553-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041398453/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Caisse d'allocations familiales (Caf)",
+    "Mutualité sociale agricole (MSA)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "les-allocations-familiales-sont-elles-saisissables",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "saisies-et-recouvrements",
+      "titre": "Saisies et recouvrements"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "id": "F843",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Un particulier peut-il payer un auto-entrepreneur par Cesu préfinancé ?",
+  "theme": "Travail - Formation",
+  "description": "Oui, un particulier peut payer un auto-entrepreneur avec le Cesu préfinancé sous certaines conditions.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-06-24",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F843",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Particulier employeur : aide à domicile (services à la personne)",
+    "Un particulier peut-il payer un auto-entrepreneur par Cesu préfinancé ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Oui, un particulier peut payer le service fourni par un auto-entrepreneur (ou micro-entrepreneur) avec le chèque emploi-service universel (Cesu) préfinancé.",
+        "L'activité que l'auto-entrepreneur effectue au domicile du particulier doit toutefois concerner le secteur des services à la personne. L'auto-entrepreneur devra préalablement avoir effectué une déclaration, obtenu un agrément ou demandé une autorisation d'activités.",
+        "Les activités des services à la personne sont principalement les suivantes :",
+        "• Garde d'enfants, soutien scolaire ou cours à domicile, accompagnement des enfants dans leurs déplacements",
+        "• Assistance aux personnes âgées ou handicapées à leur domicile",
+        "• Assistance aux personnes ayant besoin d'une aide personnelle à leur domicile ou d'une aide à la mobilité dans l'environnement de proximité favorisant leur maintien à domicile",
+        "• Services aux personnes à leur domicile concernant les tâches ménagères ou familiales.",
+        "Le particulier peut utiliser le Cesu préfinancé pour payer la totalité ou seulement une partie de la somme qu'il doit à l'auto-entrepreneur. Le paiement du reste de la somme due peut être effectué en espèces (dans la limite de 1 000 €), par virement ou chèque bancaire.",
+        "[À noter] Les sommes versées à l'auto-entrepreneur prestataire peuvent permettre au particulier de bénéficier, sous conditions, d'un crédit d'impôt."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code du travail : articles L7231-1 à L7231-2",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006178244/"
+    },
+    {
+      "titre": "Code du travail : article D7231-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033747429"
+    },
+    {
+      "titre": "Code général des impôts : article 199 sexdecies",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000006191899"
+    },
+    {
+      "titre": "Circulaire du 11 avril 2019 relative à la déclaration et à l'agrément des organismes de services à la personne",
+      "url": "http://circulaires.legifrance.gouv.fr/pdf/2019/04/cir_44550.pdf"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Titres Cesu préfinancés",
+      "url": "https://www.cr-cesu.fr/Les-titres-CESU-Home/les-titres-cesu.html"
+    },
+    {
+      "titre": "Site du Cesu",
+      "url": "https://www.cesu.urssaf.fr/info/accueil.html"
+    },
+    {
+      "titre": "Activités autorisées pour le particulier employeur (services à la personne)",
+      "url": "https://www.servicesalapersonne.gouv.fr/beneficier-des-sap/activites-de-services-la-personne"
+    },
+    {
+      "titre": "Site des services à la personne",
+      "url": "https://www.servicesalapersonne.gouv.fr/"
+    }
+  ],
+  "slug": "un-particulier-peut-il-payer-un-auto-entrepreneur-par-cesu-prefinance",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "particulier-employeur-aide-a-domicile-services-a-la-personne",
+      "titre": "Particulier employeur : aide à domicile (services à la personne)"
+    }
+  ]
+}

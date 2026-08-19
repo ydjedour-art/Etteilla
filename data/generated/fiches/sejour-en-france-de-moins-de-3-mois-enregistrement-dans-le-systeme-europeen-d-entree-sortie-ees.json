@@ -1,0 +1,181 @@
+{
+  "id": "F39104",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Séjour en France de moins de 3 mois : enregistrement dans le système européen d’entrée/sortie (EES)",
+  "theme": "Étranger - Europe",
+  "description": "Un ressortissant de pays tiers se rendant dans l’espace Schengen pendant moins de 3 mois sera enregistré dans le système EES.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-10",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F39104",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Entrée d'un étranger en France",
+    "Séjour en France de moins de 3 mois : enregistrement dans le système européen d’entrée/sortie (EES)"
+  ],
+  "introduction": "Vous êtes étranger et vous souhaitez séjourner en France pendant moins de 3 mois ? Depuis le 12 octobre 2025, que vous soyez soumis ou non à l’obligation de posséder un visa de court séjour, vous faites l'objet à votre arrivée en France d’un enregistrement dans le système européen d’entrée/sortie (Entry Exit System - EES). Ce système est mis en place aux frontières extérieures des États membres de l’espace Schengen. Il enregistre les données personnelles ainsi que les données concernant les entrées, sorties et refus d’entrées des voyageurs ressortissants de pays tiers. Voici les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Qu’est-ce que le système européen d’entrée/sortie EES ?",
+      "contenu": [
+        "Ce système :",
+        "• Remplace l’apposition d’un tampon sur les passeports et documents de voyage par un cachet numérique",
+        "• Automatise le calcul de la durée du séjour sur le territoire des États membres",
+        "• Permet de détecter en temps réel les personnes ayant dépassé le temps du séjour autorisé.",
+        "L’enregistrement est réalisé par un garde-frontière lors du franchissement d’une frontière extérieure de l’espace Schengen (aéroport, port, gare ferroviaire internationale)."
+      ]
+    },
+    {
+      "titre": "Qui est concerné par le système d’entrée/sortie EES ?",
+      "contenu": [
+        "Vous êtes concerné si vous remplissez les 3 conditions suivantes :",
+        "• Être ressortissant d’un pays non européen",
+        "• Durée maximale de séjour en France de 3 mois (ou dans un autre pays de l’espace Schengen)",
+        "• Ne pas avoir de titre de séjour (carte de résident) ou de visa long séjour délivré par un État membre de l’espace Schengen.",
+        "Mais, selon votre nationalité et votre situation, vous pouvez être dispensé d’un enregistrement dans le système EES.",
+        "Personnes devant s’enregistrer dans le système EES",
+        "Les ressortissants de pays tiers qui se rendent dans l’espace Schengen pour un court séjour (durée maximale de 90 jours sur une période de 180 jours), qu’ils soient soumis à l’obligation de visa de court séjour ou non, font obligatoirement l’objet d’un enregistrement dans le système d’entrée/sortie (EES).",
+        "Y compris les personnes suivantes :",
+        "• Travailleurs saisonniers lorsque leur contrat de travail est inférieur à 3 mois, qu’ils soient détenteurs d’une carte de séjour ou non",
+        "• Ressortissants de pays tiers membres de la famille d’un citoyen de l’Union européenne qui ne possèdent pas de carte de séjour « membre de famille ».",
+        "Les ressortissants de pays tiers à qui l’entrée est refusée font également l’objet d’un enregistrement dans le système EES.",
+        "Personnes n’ayant pas à s’enregistrer dans le système EES",
+        "• Ressortissants d’un pays de l’Union européenne, de la Norvège, de la Suisse, du Liechtenstein, de la Suède, d’Andorre, de Monaco, de Saint-Marin",
+        "• Titulaires d’un passeport délivré par l’État de la cité du Vatican",
+        "• Ressortissants de pays tiers en situation de long séjour : titulaires d’un visa D, dit de long séjour, ou d’un titre de séjour délivré par la France ou un autre État membre",
+        "• Personnes ayant un contrat de travail ou un certificat de scolarité de plus de 3 mois accompagnant un visa de court séjour s’ils y sont soumis, dans l’attente de la délivrance d’un titre de séjour : chercheurs, étudiants, travailleurs saisonniers, volontaires dans le cadre d’un volontariat européen, travailleurs au pair, travailleurs en transfert interne à leur entreprise pouvant l’attester (droit à la mobilité)",
+        "• Personnes qui bénéficient déjà de régimes d’exemption de vérification aux frontières ou qui bénéficient de règles spécifiques en la matière : chefs d’État, souverains et leurs délégations dont l’arrivée a été annoncée par voie diplomatique ; pilotes et membres d’équipage (aéronefs, cargos, croisières, ferroviaire) ; marins (uniquement lorsqu’ils restent sur l’emprise du port où le bateau est amarré) ; travailleurs frontaliers ; services de sécurité et de secours ; personnes possédant un permis ou une dérogation de passage frontière ou un document facilitant le transit ferroviaire."
+      ]
+    },
+    {
+      "titre": "Comment fonctionne l’enregistrement dans le système d’entrée/sortie EES ?",
+      "contenu": [
+        "L’enregistrement dans le système d’entrée/sortie (EES) est réalisé au sein du point de passage frontalier (aéroport, port, gare etc.) où la frontière extérieure de l’espace Schengen est franchie par le voyageur.",
+        "Afin de pouvoir réaliser l’enregistrement des données nécessaires à la création de leur dossier EES, les voyageurs ont 2 options :",
+        "• Se rendre directement au poste de contrôle frontière pour qu’un garde-frontière procède à la collecte des données et à l’enregistrement dans le système EES",
+        "• Utiliser un dispositif de pré-enregistrement, de type « kiosque » ou « tablette » présent dans certains points de passages frontaliers. Ces dispositifs de fluidification permettent un franchissement plus rapide de la frontière. Leur utilisation est facultative et gratuite. Le dossier EES est validé par un garde-frontière au poste de contrôle."
+      ]
+    },
+    {
+      "titre": "Quelles sont les données collectées par le système d’entrée/sortie EES ?",
+      "contenu": [
+        "Le système EES recueille, enregistre et stocke les données suivantes :",
+        "• Données figurant dans le(s) document(s) de voyage : nom, prénom, date de naissance, lieu de naissance, genre, nationalité, numéro du document de voyage, code à 3 lettres du pays de délivrance du document de voyage , date d’expiration du document de voyage",
+        "• Lieu, heure et date du franchissement de la frontière : à l’entrée et à la sortie de l’espace Schengen",
+        "• Données biométriques du voyageur : la biométrie faciale (photo du visage) et, sauf pour les mineurs de moins de 12 ans, la biométrie digitale (empreintes digitales de la main droite, ou sinon de la main gauche).",
+        "La collecte des données biométriques des ressortissants de pays tiers concernés par l’EES est obligatoire. Si le voyageur refuse la collecte de ses données biométriques, il se verra refuser l’entrée sur le territoire Schengen.",
+        "Les données collectées par les dispositifs de pré-enregistrement sont différentes si vous avez été précédemment enregistré dans le système EES :",
+        "Vous êtes inconnu du système EES",
+        "Si vous n’avez franchi aucune frontière extérieure de l’espace Schengen depuis l’entrée en service d’EES le 12 octobre 2025, vous faites l’objet d’un 1er enregistrement. L’ensemble des données suivantes est enregistré dans votre dossier EES pour la 1re fois :",
+        "• Nom",
+        "• Prénom(s)",
+        "• Date de naissance",
+        "• Lieu de naissance",
+        "• Genre",
+        "• Nationalité",
+        "• Numéro du document de voyage",
+        "• Code à 3 lettres du pays de délivrance du document de voyage",
+        "• Date d’expiration du document de voyage",
+        "• Lieu, heure et date du franchissement de la frontière",
+        "• Données biométriques : biométrie faciale (photo du visage) et, sauf pour les mineurs de moins de 12 ans, biométrie digitale (empreinte digitale de la main droite, ou sinon de la main gauche).",
+        "Vous êtes déjà connu du système EES",
+        "Si vous avez franchi une frontière extérieure de l’espace Schengen depuis l’entrée en service d’EES le 12 octobre 2025, votre dossier EES existant est mis à jour à chaque franchissement d’une frontière extérieure, en enregistrant le lieu, la date et l’heure du franchissement."
+      ]
+    },
+    {
+      "titre": "Combien de temps sont conservées les données enregistrées dans le système d’entrée/sortie EES ?",
+      "contenu": [
+        "Vos données ne sont conservées dans le système qu'aux fins pour lesquelles elles ont été collectées et pour une durée précise :",
+        "• Fiche d’entrée, de sortie ou de refus d’entrée : 3 ans à partir de la date de leur création",
+        "• Dossiers individuels contenant vos données à caractère personnel (dont vos données biométriques) : 3 ans et 1 jour à compter de la date de votre dernière sortie ou de votre refus d'entrée (si vous n'avez pas été autorisé à entrer)",
+        "• Si aucune sortie n’a été enregistrée dans votre dossier individuel : 5 ans à compter de la date de fin du séjour autorisé.",
+        "À la fin de chaque période, vos données sont automatiquement effacées."
+      ]
+    },
+    {
+      "titre": "Qui peut accéder à vos données personnelles enregistrées dans le système d’entrée/sortie EES ?",
+      "contenu": [
+        "• Autorités des pays européens qui utilisent le système EES, telles que les autorités chargées des frontières, des visas et de l'immigration, afin de vérifier votre identité et de déterminer si vous êtes autorisé à entrer ou à rester sur le territoire",
+        "• Europol, qui peut également accéder à vos données à des fins répressives",
+        "• Dans des conditions strictes, vos données peuvent être transférées à un autre pays (à l'intérieur ou à l'extérieur de l'Union européenne) ou à une organisation internationale (Nations unies, Organisation internationale pour les migrations ou le Comité international de la Croix-Rouge) à des fins de retour et/ou à des fins répressives."
+      ]
+    },
+    {
+      "titre": "Comment connaître la durée de court séjour autorisée ?",
+      "contenu": [
+        "Vous pouvez utiliser une calculatrice qui vous aide à vérifier si votre séjour respecte bien la durée autorisée si vous souhaitez séjourner en France pendant moins de 3 mois :",
+        "Calculer la durée maximale autorisée de courts séjours dans les pays Schengen",
+        "[À noter] Vous pouvez également demander ces informations aux agents chargés du contrôle aux frontières."
+      ]
+    },
+    {
+      "titre": "Quels sont les droits d’accès aux données personnelles enregistrées dans le système européen d’entrée/sortie (EES) ?",
+      "contenu": [
+        "Vous pouvez accéder aux données vous concernant. Vous avez également un droit d’opposition, un droit de rectification et un droit à la limitation du traitement de vos données.",
+        "Pour exercer ces droits ou pour toute question sur le traitement de vos données dans ce dispositif, vous pouvez contacter le ministère de l’intérieur par voie électronique : donnees-personnelles-dgef@interieur.gouv.fr",
+        "Ce traitement est contrôlé par le délégué ministériel à la protection des données du ministère de l’intérieur :",
+        "Délégué ministériel à la protection des données",
+        "Ministère de l’intérieur",
+        "Place Beauvau",
+        "75800 Paris Cedex 08",
+        "Si vous estimez, après avoir contacté le ministère de l'intérieur, que vos droits Informatique et Libertés ne sont pas respectés, vous pouvez adresser une réclamation auprès de la Commission nationale de l’informatique et des libertés (Cnil) :",
+        "3 Place de Fontenoy",
+        "TSA 80715",
+        "75334 Paris Cedex 07"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Règlement du 9 mars 2016 concernant un code de l'Union relatif au régime de franchissement des frontières par les personnes (code frontières Schengen)",
+      "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32016R0399"
+    },
+    {
+      "titre": "Règlement du 30 novembre 2017 relatif à la création du système d’entrée / de sortie (EES)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2017/2226/oj/fra"
+    },
+    {
+      "titre": "Règlement du 30 novembre 2017 relatif au CFS et à l’utilisation du système d’entrée/de sortie (EES)",
+      "url": "https://eur-lex.europa.eu/legal-content/fr/ALL/?uri=CELEX%3A32017R2225"
+    },
+    {
+      "titre": "Règlement général sur la protection des données",
+      "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=celex%3A32016R0679"
+    },
+    {
+      "titre": "Loi n°78-17 du 6 janvier 1978 - Informatique et libertés",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000886460/"
+    },
+    {
+      "titre": "Décret n°2022-1145 du 10 août 2022 portant création d’un traitement automatisé de données à caractère personnel dénommé « dispositif de pré-enregistrement » et modifiant le code de la sécurité intérieure",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000046174107"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Carte de l'Espace Schengen",
+      "url": "https://www.touteleurope.eu/les-pays-membres-de-l-espace-schengen.html"
+    },
+    {
+      "titre": "Entry/Exit System (EES)",
+      "url": "https://travel-europe.europa.eu/en/ees"
+    },
+    {
+      "titre": "Les dispositifs de pré-enregistrement dans le cadre du système d'entrée/de sortie EES",
+      "url": "https://www.immigration.interieur.gouv.fr/limmigration-en-france/circulation-aux-frontieres/informations-relatives-au-traitement-de-donnees-a-caractere-personnel-dans-systeme-dentreede-sortie"
+    }
+  ],
+  "slug": "sejour-en-france-de-moins-de-3-mois-enregistrement-dans-le-systeme-europeen-d-entree-sortie-ees",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "entree-d-un-etranger-en-france",
+      "titre": "Entrée d'un étranger en France"
+    }
+  ]
+}

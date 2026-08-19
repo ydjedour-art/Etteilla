@@ -1,0 +1,84 @@
+{
+  "id": "F12219",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Un étranger peut-il travailler dans la fonction publique française ?",
+  "theme": "Travail - Formation",
+  "description": "Oui, vous pouvez intégrer la fonction publique française, selon votre nationalité, par le biais d'un concours, d'un détachement ou d'un contrat.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-05-22",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F12219",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Recrutement dans la fonction publique",
+    "Un étranger peut-il travailler dans la fonction publique française ?"
+  ],
+  "introduction": "Oui, vous pouvez travailler dans la fonction publique française si vous êtes étranger. Toutefois, selon votre nationalité, les conditions d'accès et votre statut (fonctionnaire ou contractuel) varient. De plus, les emplois dits de souveraineté sont accessibles uniquement aux Français. Nous vous présentons les informations en fonction de votre situation.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les conditions d'accès à la fonction publique française et votre statut (fonctionnaire ou contractuel) varient selon que vous êtes européen (ou ressortissant de la Principauté d'Andorre) ou ressortissant d'un autre pays."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général de la fonction publique : articles L311-1 à L311-3",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044421542/"
+    },
+    {
+      "titre": "Code général de la fonction publique : articles L321-1 à L321-3",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044421572/"
+    },
+    {
+      "titre": "Code général de la fonction publique : article L324-4",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044426974/"
+    },
+    {
+      "titre": "Code général de la fonction publique : article L513-16",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044422900/"
+    },
+    {
+      "titre": "Code général de la fonction publique : article L522-5",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044425558/"
+    },
+    {
+      "titre": "Code général de la fonction publique : articles R321-4 à R321-15",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000051961648/"
+    },
+    {
+      "titre": "Arrêté du 26 juillet 2007 fixant les équivalences de diplômes requises pour se présenter aux concours de la fonction publique",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000251881"
+    },
+    {
+      "titre": "Circulaire du 15 avril 2011 relative au recrutement et à l'accueil des ressortissants de l'Espace économique européen dans la fonction publique française",
+      "url": "http://www.circulaires.gouv.fr/pdf/2011/04/cir_32935.pdf"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Europe Direct"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Conditions d'accès à la fonction publique des ressortissants européens",
+      "url": "https://www.fonction-publique.gouv.fr/files/files/Recrutement%20et%20concours/FICHE_DGAFP_ACCES_FP_CITOYENS_UE_0.pdf"
+    },
+    {
+      "titre": "Travailler dans la fonction publique à l'étranger",
+      "url": "http://europa.eu/youreurope/citizens/work/work-abroad/civil-servants/index_fr.htm"
+    }
+  ],
+  "slug": "un-etranger-peut-il-travailler-dans-la-fonction-publique-francaise",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "recrutement-dans-la-fonction-publique",
+      "titre": "Recrutement dans la fonction publique"
+    }
+  ]
+}

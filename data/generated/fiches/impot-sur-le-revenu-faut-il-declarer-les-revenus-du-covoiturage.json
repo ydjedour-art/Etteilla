@@ -1,0 +1,79 @@
+{
+  "id": "F33879",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Impôt sur le revenu - Faut-il déclarer les revenus du covoiturage ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Les revenus issus du covoiturage sont exonérés d'impôt si le prix proposé n'excède pas les frais engagés.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-04-15",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33879",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Impôt sur le revenu : déclaration et revenus à déclarer",
+    "Impôt sur le revenu - Faut-il déclarer les revenus du covoiturage ?"
+  ],
+  "introduction": "Si vous faites du covoiturage dans le cadre d'un déplacement pour votre propre compte, vous n'avez pas à déclarer ces revenus. Toutefois, la somme des participations aux frais (y compris la part qui reste à votre charge) ne doit pas dépasser les frais engagés. Sinon, les revenus issus du covoiturage sont imposés.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Bofip-Impôts n°BOI-IR-BASE-10-10-10-10 relatif à la base d'imposition de l'IR",
+      "url": "http://bofip.impots.gouv.fr/bofip/1322-PGP"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Frais réels : calculer vos frais kilométriques",
+      "url": "https://www.impots.gouv.fr/portail/simulateur-bareme-kilometrique",
+      "type": "Simulateur"
+    },
+    {
+      "titre": "Déclaration complémentaire des revenus des professions non salariées",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/2042/declaration-des-revenus",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Déclaration des bénéfices industriels et commerciaux (BIC)",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/2031-sd/impot-sur-le-revenu",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Déclaration annuelle de régularisation de TVA - Régime simplifié (n° 3517-CA12)",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/3517-s-sd/tva-et-taxes-assimilees-et-regime-simplifie",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Service d'information des impôts",
+    "Service en charge des impôts (trésorerie, service des impôts...)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Site des impôts",
+      "url": "https://www.impots.gouv.fr/portail/"
+    },
+    {
+      "titre": "Brochure pratique 2026 - Déclaration des revenus de 2025",
+      "url": "https://www.impots.gouv.fr/www2/fichiers/documentation/brochure/ir_2026/accueil.htm"
+    },
+    {
+      "titre": "Impôt sur le revenu : dépliants d'information",
+      "url": "https://www.impots.gouv.fr/brochures-et-depliants"
+    },
+    {
+      "titre": "Comment déclarer mes revenus issus du covoiturage ?",
+      "url": "https://www.impots.gouv.fr/portail/files/media/1_metier/1_particulier/EV/1_declarer/141_autres_revenus/eco-collabo-fiscal-covoiturage.pdf"
+    }
+  ],
+  "slug": "impot-sur-le-revenu-faut-il-declarer-les-revenus-du-covoiturage",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "impot-sur-le-revenu-declaration-et-revenus-a-declarer",
+      "titre": "Impôt sur le revenu : déclaration et revenus à déclarer"
+    }
+  ]
+}

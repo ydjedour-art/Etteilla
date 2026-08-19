@@ -1,0 +1,50 @@
+{
+  "id": "F1357",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Carte d'identité / Passeport : la photo peut-elle être prise au guichet ?",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "En métropole, la photo ne peut pas être prise au guichet. Toutefois, dans certains territoires d’outre-mer et à l’étranger, c’est possible.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-08-05",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1357",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Passeport",
+    "Carte d'identité / Passeport : la photo peut-elle être prise au guichet ?"
+  ],
+  "introduction": "La situation varie selon le lieu où vous faites la demande.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code général des impôts : articles 953 à 955",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006179981/"
+    },
+    {
+      "titre": "Code général des impôts : article 1043 A - Montant en Guyane",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006305785"
+    },
+    {
+      "titre": "Décret n°81-778 du 13 août 1981 fixant le tarif des droits à percevoir dans les chancelleries diplomatiques et consulaires et, en France, par le ministère des relations extérieures",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000335104/"
+    },
+    {
+      "titre": "Décret n°2005-1726 du 30 décembre 2005 relatif au passeport : article 6-1 - Empreintes et photo",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000033333857"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "carte-d-identite-passeport-la-photo-peut-elle-etre-prise-au-guichet",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "passeport",
+      "titre": "Passeport"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "F1619",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Modifier un Pacs",
+  "theme": "Famille - Scolarité",
+  "description": "Pour modifier votre Pacs, vous devez rédiger une convention modificative. La démarche dépend du lieu d'enregistrement de votre Pacs initial.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-09-18",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1619",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Pacte civil de solidarité (Pacs)",
+    "Modifier un Pacs"
+  ],
+  "introduction": "Vous êtes pacsé et souhaitez modifier les règles d'organisation de votre vie commune ? Dans ce cas, vous devez modifier votre Pacs en rédigeant une convention modificative. La démarche dépend du lieu d'enregistrement de votre Pacs initial (mairie, tribunal, étude notariale, consulat ou ambassade). Nous vous indiquons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code civil : articles 515-1 à 515-7-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006136536/"
+    },
+    {
+      "titre": "Décret n°2006-1806 du 23 décembre 2006 relatif à la déclaration, la modification, la dissolution et la publicité du Pacs",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006055164"
+    },
+    {
+      "titre": "Décret n°2012-966 du 20 août 2012 sur l'enregistrement de la déclaration, modification et dissolution du Pacs reçu par notaire",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000026304871"
+    },
+    {
+      "titre": "Circulaire du 10 mai 2017 relative au transfert des Pacs aux officiers d'état civil",
+      "url": "http://www.textes.justice.gouv.fr/art_pix/JUSC1711700C.pdf"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Convention modificative type de pacte civil de solidarité (Pacs)",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_15791.do",
+      "type": "formulaireNG"
+    },
+    {
+      "titre": "Déclaration conjointe de modification d'un pacte civil de solidarité (Pacs)",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_15790.do",
+      "type": "formulaireNG"
+    }
+  ],
+  "contacts": [
+    "Mairie",
+    "Notaire",
+    "Ambassade ou consulat français à l'étranger",
+    "Service central d'état civil - Répertoire civil",
+    "Permanence juridique"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "modifier-un-pacs",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "pacte-civil-de-solidarite-pacs",
+      "titre": "Pacte civil de solidarité (Pacs)"
+    }
+  ]
+}

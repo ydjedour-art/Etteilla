@@ -1,0 +1,136 @@
+{
+  "id": "F724",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Calendrier des vaccinations",
+  "theme": "Social - Santé",
+  "description": "Le calendrier des vaccinations pour 2026 concerne les personnes qui vivent en France. Certaines vaccinations sont obligatoires, d'autres recommandées.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-29",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F724",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Prévention - Vaccinations",
+    "Calendrier des vaccinations"
+  ],
+  "introduction": "Vous vous posez des questions liées au calendrier des vaccinations ? Ce calendrier concerne les personnes qui vivent en France quelle que soit leur nationalité. Certaines vaccinations sont obligatoires, d'autres sont recommandées. Des règles spécifiques s'appliquent notamment pour certaines personnes exposées à un risque particulier. Nous vous exposons les règles à connaître.",
+  "chapitres": [
+    {
+      "titre": "Qu'est-ce que le calendrier vaccinal ?",
+      "contenu": [
+        "Le calendrier vaccinal indique les informations suivantes :",
+        "• Vaccinations (obligatoires et recommandées) pour les personnes résidant en France, en fonction de leur âge",
+        "• Recommandations générales et particulières pour les personnes présentant des risques importants du fait de leur état de santé ou d'une exposition plus forte",
+        "• Rythme des injections.",
+        "Il est actualisé chaque année par le ministère en charge de la santé."
+      ]
+    },
+    {
+      "titre": "Quelles sont les personnes concernées par le calendrier des vaccinations ?",
+      "contenu": [
+        "La vaccination est destinée à tous et à tout âge (bébé, enfant, adulte).",
+        "Il peut y avoir des contre-indications à la vaccination (exemples : contre-indications médicales, fièvre).",
+        "Le professionnel de santé décide, selon la situation de son patient, si la vaccination peut être réalisée."
+      ]
+    },
+    {
+      "titre": "Comment connaître les vaccinations prévues par le calendrier ?",
+      "contenu": [
+        "Le ministère de la santé a mis en ligne un calendrier simplifié des vaccinations.",
+        "Ce calendrier met en avant notamment :",
+        "• Les vaccinations obligatoires pour les nourissons",
+        "• La fréquence d'injection des vaccins",
+        "• Des précisions pour chacun des vaccins.",
+        "Calendrier simplifié des vaccinations"
+      ]
+    },
+    {
+      "titre": "Comment savoir si on est à jour des vaccinations ?",
+      "contenu": [
+        "Vous pouvez prendre conseil auprès d’un professionnel de santé : médecin, pharmacien, infirmière ou sage-femme (si vous êtes une femme enceinte ou si vous venez d’accoucher).",
+        "De plus, sur le site du ministère de la santé, il est possible de :",
+        "• Consulter le calendrier des vaccinations ou une carte simplifiée",
+        "• Voir les vaccinations recommandées selon votre âge et selon votre état de santé.",
+        "Vaccination : êtes-vous à jour ?"
+      ]
+    },
+    {
+      "titre": "Que faire en cas de retard dans ses vaccinations ?",
+      "contenu": [
+        "Le rattrapage vaccinal concerne les personnes qui n’ont plus fait de rappels depuis longtemps ou qui ignorent où en sont leurs vaccinations (exemple : leur carnet de vaccination est inexistant).",
+        "Dans ces cas, le rattrapage vaccinal correspond à un nouveau calendrier de vaccination établi par le médecin. Il peut concerner un ou plusieurs vaccins à la fois.",
+        "[À savoir] Pour éviter les erreurs, il est nécessaire de tenir à jour son carnet de vaccination et de respecter les échéances du calendrier vaccinal."
+      ]
+    },
+    {
+      "titre": "Comment signaler un effet indésirable suite à une vaccination ?",
+      "contenu": [
+        "Si vous constatez un effet indésirable sur l'état de santé, à la suite de la vaccination, vous pouvez le signaler sur le portail \"Signalement santé \" :",
+        "Signalement santé",
+        "Avoir une adresse mail"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la santé publique : articles L3111-1 à L3111-11",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006171171"
+    },
+    {
+      "titre": "Code de la santé publique : articles R3111-1 à R3111-4-2",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006190436/"
+    },
+    {
+      "titre": "Code de la santé publique : articles D3111-6 à R3111-8",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006190433"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : articles R227-5 à R227-11",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006196004"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Signalement santé",
+      "url": "https://signalement.social-sante.gouv.fr",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "Centre de protection maternelle et infantile (PMI)",
+    "Médecin"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Calendrier des vaccinations 2026",
+      "url": "https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/calendrier-vaccinal"
+    },
+    {
+      "titre": "Calendrier simplifié des vaccinations",
+      "url": "https://sante.gouv.fr/IMG/pdf/carte_postale_vaccination_150x105_2026_v5.pdf"
+    },
+    {
+      "titre": "Les principales nouveautés inscrites au calendrier des vaccinations 2026",
+      "url": "https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/calendrier-vaccinal#Points-cles-sur-les-nouveautes-du-calendrier-des-vaccinations-2026"
+    },
+    {
+      "titre": "Site Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/"
+    },
+    {
+      "titre": "Vaccination : êtes-vous à jour ?",
+      "url": "https://vaccination-info-service.fr/Questions-frequentes/Questions-pratiques/Quand-dois-je-me-faire-vacciner/Comment-savoir-si-je-suis-a-jour-de-mes-vaccins"
+    }
+  ],
+  "slug": "calendrier-des-vaccinations",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "prevention-vaccinations",
+      "titre": "Prévention - Vaccinations"
+    }
+  ]
+}

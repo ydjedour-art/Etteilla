@@ -1,0 +1,33 @@
+{
+  "id": "F36526",
+  "type_publication": "Recherche guidée",
+  "titre": "[RG - Plan d'épargne retraite]",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "[RG - Plan d'épargne retraite]",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2025-02-12",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F36526",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Épargne salariale, participation et intéressement",
+    "[RG - Plan d'épargne retraite]"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "rg-plan-d-epargne-retraite",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "epargne-salariale-participation-et-interessement",
+      "titre": "Épargne salariale, participation et intéressement"
+    }
+  ]
+}

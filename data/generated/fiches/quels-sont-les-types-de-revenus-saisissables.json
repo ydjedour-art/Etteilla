@@ -1,0 +1,78 @@
+{
+  "id": "F31185",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quels sont les types de revenus saisissables ?",
+  "theme": "Justice",
+  "description": "Lorsqu'un particulier fait l'objet d'une saisie, ses sources de revenus sont partiellement ou totalement insaisissables.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-04-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31185",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Saisies et recouvrements",
+    "Quels sont les types de revenus saisissables ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Lorsqu'un particulier fait l'objet d'une saisie, ses sources de revenus sont saisissables en totalité ou partiellement, ou totalement insaisissables, selon le type de la saisie : saisie sur salaire, saisie sur compte bancaire, saisie administrative à tiers détenteur (SATD)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Bofip-impôts n°BOI-REC-FORCE-10 relatif aux saisies de droit commun",
+      "url": "https://bofip.impots.gouv.fr/bofip/1795-PGP.html/identifiant%3DBOI-REC-FORCE-10-20200819"
+    },
+    {
+      "titre": "Bofip-impôts n°BOI-REC-FORCE-20-20 relatif à la saisie des rémunérations",
+      "url": "https://bofip.impots.gouv.fr/bofip/3629-PGP.html/identifiant%3DBOI-REC-FORCE-20-20-20191127"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : articles L232-22 à L232-28",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074069/LEGISCTA000006174351/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : article L821-5",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041398624/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles L845-1 à L845-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000031077433/#LEGISCTA000031077475"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : article L162-48",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019868861/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Estimer le montant de la saisie sur salaire (ou saisie sur rémunérations)",
+      "url": "https://www.justice.fr/simulateurs/saisies-remunerations#simuler",
+      "type": "Simulateur"
+    }
+  ],
+  "contacts": [
+    "Maison de justice et du droit"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Barème des saisies sur rémunérations",
+      "url": "https://www.justice.fr/simulateurs/saisies-remunerations/bareme"
+    }
+  ],
+  "slug": "quels-sont-les-types-de-revenus-saisissables",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "saisies-et-recouvrements",
+      "titre": "Saisies et recouvrements"
+    }
+  ]
+}

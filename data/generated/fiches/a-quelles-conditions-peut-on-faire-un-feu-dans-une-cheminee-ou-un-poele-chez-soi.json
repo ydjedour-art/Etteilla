@@ -1,0 +1,58 @@
+{
+  "id": "F32437",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "À quelles conditions peut-on faire un feu dans une cheminée ou un poêle chez soi ?",
+  "theme": "Logement",
+  "description": "La réglementation varie selon les caractéristiques de votre cheminée ou votre poêle, votre région et votre type de logement (appartement ou maison).",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-05-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F32437",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Vie pratique en logement individuel (maison)",
+    "À quelles conditions peut-on faire un feu dans une cheminée ou un poêle chez soi ?"
+  ],
+  "introduction": "La réglementation varie selon les caractéristiques de votre cheminée ou de votre poêle, votre région et votre type de logement (appartement ou maison). Nous faisons le point sur la réglementation.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Décret n°2023-641 du 20 juillet 2023 relatif à l'entretien des foyers et appareils de chauffage, de cuisine et de production d'eau chaude à combustion et au ramonage des conduits de fumée",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047867286"
+    },
+    {
+      "titre": "Arrêté inter-préfectoral relatif au Plan de protection de l'atmosphère pour l'Île-de-France",
+      "url": "https://www.drieat.ile-de-france.developpement-durable.gouv.fr/IMG/pdf/publication_au_raa_du_29.01_2025.pdf"
+    },
+    {
+      "titre": "Code général des collectivités territoriales : article L2213-26",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042343300"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Mairie",
+    "Préfecture"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Île-de-France : liste des communes situées en zone sensible pour la qualité de l'air (en annexe 1)",
+      "url": "https://www.val-de-marne.gouv.fr/index.php/contenu/telechargement/25123/193698/file/Arr%C3%AAte%20interpref%20PPA%20VDEF.pdf"
+    },
+    {
+      "titre": "Guide pratique : se chauffer au bois de manière efficace",
+      "url": "https://agirpourlatransition.ademe.fr/particuliers/amenager-maison/chauffer/chauffage-bois-moins-consommer-moins-polluer"
+    }
+  ],
+  "slug": "a-quelles-conditions-peut-on-faire-un-feu-dans-une-cheminee-ou-un-poele-chez-soi",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "vie-pratique-en-logement-individuel-maison",
+      "titre": "Vie pratique en logement individuel (maison)"
+    }
+  ]
+}

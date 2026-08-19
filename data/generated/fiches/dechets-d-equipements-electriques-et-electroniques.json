@@ -1,0 +1,33 @@
+{
+  "id": "F35212",
+  "type_publication": "Recherche guidée",
+  "titre": "Déchets d'équipements électriques et électroniques",
+  "theme": "Logement",
+  "description": "Déchets d'équipements électriques et électroniques",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2020-04-02",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35212",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Déchets",
+    "Déchets d'équipements électriques et électroniques"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "dechets-d-equipements-electriques-et-electroniques",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "dechets",
+      "titre": "Déchets"
+    }
+  ]
+}

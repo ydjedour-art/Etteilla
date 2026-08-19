@@ -1,0 +1,59 @@
+{
+  "id": "F12788",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Un fonctionnaire peut-il travailler à temps partiel pour raison thérapeutique ?",
+  "theme": "Travail - Formation",
+  "description": "Si votre état de santé le justifie, vous pouvez être autorisé à travailler à temps partiel pour raison thérapeutique.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-08-06",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F12788",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Maladie ou accident du travail dans la fonction publique",
+    "Un fonctionnaire peut-il travailler à temps partiel pour raison thérapeutique ?"
+  ],
+  "introduction": "Oui, si votre état de santé le justifie, vous pouvez être autorisé à travailler à temps partiel pour raison thérapeutique lorsque cela permet votre maintien ou votre retour à l'emploi. Nous vous présentons les règles concernant ce temps partiel selon votre fonction publique d'appartenance (État - FPE, territoriale - FPT, hospitalière - FPH).",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code général de la fonction publique : articles L115-1 à L115-6",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044420657/"
+    },
+    {
+      "titre": "Code général de la fonction publique : articles L823-1 à L823-6",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044424047/"
+    },
+    {
+      "titre": "Décret n°86-442 du 14 mars 1986 relatif aux médecins agréés, aux comités médicaux et commissions de réforme, aux conditions d'aptitude physique et aux congés de maladie des fonctionnaires",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000884830"
+    },
+    {
+      "titre": "Décret n°87-602 du 30 juillet 1987 relatif à l'organisation des comités médicaux, aux conditions d'aptitude physique et au régime des congés de maladie des fonctionnaires territoriaux",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000521836/"
+    },
+    {
+      "titre": "Décret n°88-386 du 19 avril 1988 relatif aux conditions d'aptitude physique et aux congés de maladie des agents de la fonction publique hospitalière",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000695289/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Foire aux questions : le temps partiel pour motif thérapeutique dans la FPE",
+      "url": "https://www.fonction-publique.gouv.fr/files/files/temps_de_travail_et_conges/20220602_FAQ-Decret_TPT_FPE.pdf"
+    }
+  ],
+  "slug": "un-fonctionnaire-peut-il-travailler-a-temps-partiel-pour-raison-therapeutique",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "maladie-ou-accident-du-travail-dans-la-fonction-publique",
+      "titre": "Maladie ou accident du travail dans la fonction publique"
+    }
+  ]
+}

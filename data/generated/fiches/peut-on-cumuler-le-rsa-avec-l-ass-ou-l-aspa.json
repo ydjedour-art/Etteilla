@@ -1,0 +1,51 @@
+{
+  "id": "F11014",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Peut-on cumuler le RSA avec l’ASS ou l’Aspa ?",
+  "theme": "Social - Santé",
+  "description": "Vous pouvez bénéficier du RSA si vous remplissez les conditions requises.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-04-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F11014",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Revenu de solidarité active (RSA)",
+    "Peut-on cumuler le RSA avec l’ASS ou l’Aspa ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Oui, vous pouvez cumuler l'allocation de solidarité spécifique (ASS) ou l'allocation de solidarité aux personnes âgées (Aspa) avec le RSA si vous remplissez les conditions générales pour en bénéficier.",
+        "Le montant du RSA sera réduit du montant de l'ASS ou de l'Aspa. Vous ne pouvez pas cumuler l'intégralité du montant de l'ASS ou de l'Aspa et celui du RSA.",
+        "Il est plus avantageux de conserver le montant de l'Aspa, car il est plus élevé que celui du RSA."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [
+    {
+      "titre": "Estimer son droit au RSA (Caf)",
+      "url": "https://wwwd.caf.fr/wps/portal/caffr/aidesetdemarches/mesdemarches/faireunesimulation/lersa#/",
+      "type": "Simulateur"
+    }
+  ],
+  "contacts": [
+    "Caisse d'allocations familiales (Caf)",
+    "Mutualité sociale agricole (MSA)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "peut-on-cumuler-le-rsa-avec-l-ass-ou-l-aspa",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "revenu-de-solidarite-active-rsa",
+      "titre": "Revenu de solidarité active (RSA)"
+    }
+  ]
+}

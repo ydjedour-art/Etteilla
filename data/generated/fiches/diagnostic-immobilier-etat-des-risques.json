@@ -1,0 +1,86 @@
+{
+  "id": "F12239",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Diagnostic immobilier : état des risques",
+  "theme": "Logement",
+  "description": "L'état des risques est un document qui informe le futur acquéreur ou locataire d'un logement des risques (naturels, miniers...) auxquels il peut s'exposer.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-01-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F12239",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Diagnostic immobilier",
+    "Diagnostic immobilier : état des risques"
+  ],
+  "introduction": "Dans quel cas devez-vous réaliser le diagnostic État des risques ? Ce document doit être réalisé en cas de vente ou de mise en location d'un logement. Il doit être remis au futur acquéreur ou locataire pour l'informer sur les risques (naturels, miniers...) auxquels le bien peut être exposé. Nous faisons le point sur la réglementation.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de l'environnement : article L125-5",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043978268"
+    },
+    {
+      "titre": "Code de l'environnement : articles R125-23 à R125-27",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074220/LEGISCTA000006176683/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "État des risques (naturels, miniers, technologiques, sismiques, radon...)",
+      "url": "https://www.georisques.gouv.fr/sites/default/files/2025-01/etat-des-risques_VDEF_MODIF_OLD_01012025_v7.pdf",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Aide au remplissage de l'état des risques et pollutions",
+      "url": "https://errial.georisques.gouv.fr/#/",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Rechercher les zones concernées par l'obligation légale de débroussaillement",
+      "url": "https://agdvp.brgm.fr/#/context/georisques_global/457",
+      "type": "Outil de recherche"
+    },
+    {
+      "titre": "Tester son éligibilité au fonds de prévention du retrait-gonflement des argiles",
+      "url": "https://fonds-prevention-argile.beta.gouv.fr/simulateur",
+      "type": "Simulateur"
+    }
+  ],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Site d'information sur les risques (naturels, miniers, technologiques...)",
+      "url": "http://www.georisques.gouv.fr/"
+    },
+    {
+      "titre": "Le zonage sismique sur ma commune",
+      "url": "https://www.georisques.gouv.fr/sites/default/files/2023-11/Fiche%20s%C3%A9isme.pdf"
+    },
+    {
+      "titre": "Le zonage du radon sur sa commune",
+      "url": "https://www.georisques.gouv.fr/sites/default/files/2023-11/Fiche-radon.pdf"
+    },
+    {
+      "titre": "Information sur les risques naturels",
+      "url": "https://www.info.gouv.fr/risques"
+    },
+    {
+      "titre": "Obligations légales de débroussaillement",
+      "url": "https://www.georisques.gouv.fr/me-preparer-me-proteger/OLD-obligations-legales-de-debroussaillement"
+    }
+  ],
+  "slug": "diagnostic-immobilier-etat-des-risques",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "diagnostic-immobilier",
+      "titre": "Diagnostic immobilier"
+    }
+  ]
+}

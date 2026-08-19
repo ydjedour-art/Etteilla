@@ -1,0 +1,219 @@
+{
+  "id": "F110",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Réclamations et recours en justice en matière d'impôt",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Pour contester le bien-fondé ou la régularité d'un impôt, il faut faire une réclamation dans certains délais. Il est possible d'aller en justice.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-07-30",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F110",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Saisir l'administration fiscale (difficultés de paiement, réclamation...)",
+    "Réclamations et recours en justice en matière d'impôt"
+  ],
+  "introduction": "Vous contestez le bien-fondé ou la régularité de votre impôt ? Vous pouvez déposer une réclamation. Vous devez respecter certains délais. Cela ne vous dispense pas de payer l'impôt, mais vous pouvez demander à différer le paiement (on parle de sursis). En l'absence de réponse dans les 6 mois ou si la réponse ne vous satisfait pas, vous pouvez saisir les tribunaux. Nous vous indiquons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Qu'est-ce qu'une réclamation en matière d'impôt ?",
+      "contenu": [
+        "Vous pouvez vous adresser à l'administration fiscale si vous constatez une erreur ou si vous contestez le bien-fondé de votre impôt.",
+        "Votre réclamation doit concerner l'un des impôts suivants :",
+        "• Impôt sur le revenu",
+        "• Impôt sur la fortune immobilière",
+        "• Impôts locaux (taxe foncière sur les propriétés bâties ou taxe d'habitation sur les résidences secondaires par exemple)."
+      ]
+    },
+    {
+      "titre": "Qui peut réclamer en matière d'impôt ?",
+      "contenu": [
+        "Vous pouvez faire une réclamation pour vous-même ou pour votre foyer fiscal.",
+        "Vous pouvez aussi confier un mandat à une autre personne chargée de vous représenter, ou faire appel à un avocat."
+      ]
+    },
+    {
+      "titre": "Comment faire une réclamation en matière d'impôt ?",
+      "contenu": [
+        "Vous pouvez déposer votre réclamation en ligne.",
+        "Adressez votre réclamation sur votre espace Finances publiques, à la rubrique \"Nous contacter\" de votre messagerie.",
+        "Impôts : accéder à votre espace Finances publiques",
+        "Connexion avec l’identifiant fiscal du contribuable ou via FranceConnect. Ensuite, double authentification avec réception d’un code à 6 chiffres par mail.",
+        "Préparez un dossier contenant les informations à fournir :",
+        "• Vos nom et adresse",
+        "• Nom et caractéristique de l'impôt concerné",
+        "• Motifs de la réclamation",
+        "• Justificatifs (selon le cas, copie de l'avis d'imposition, copie de l'avis de mise en recouvrement, document justifiant le montant de la retenue ou du paiement en cas d'impôt perçu par voie de retenue à la source).",
+        "L’administration fiscale doit traiter votre demande dans un délai de 6 mois.",
+        "L’état d’avancement de votre demande est indiqué dans votre espace Finances publiques.",
+        "Vous serez averti par mail du traitement de votre demande.",
+        "Vous pourrez consulter la réponse de l'administration en vous connectant à votre espace Finances publiques.",
+        "[Complement] Vous pouvez utiliser l’un des moyens suivants : Par courrier Adressez votre réclamation par lettre simple sur papier libre à votre centre des finances publiques (les coordonnées figurent sur votre avis d'imposition). Service en charge des impôts (trésorerie, service des impôts...) Préparez un dossier contenant les informations à fournir : • Vos nom et adresse • Nom et caractéristique de l'impôt concerné • Motifs de la réclamation • Justificatifs (selon le cas, copie de l'avis d'imposition, copie de l'avis de mise en recouvrement, document justifiant le montant de la retenue ou du paiement en cas d'impôt perçu par voie de retenue à la source). Votre courrier doit comporter votre signature manuscrite. [À noter] En cas d'erreur sur le service destinataire, votre réclamation est transmise au service compétent. Au guichet Rendez-vous à votre centre des finances publiques. Service en charge des impôts (trésorerie, service des impôts...) Préparez un dossier contenant les informations à fournir : • Vos nom et adresse • Nom et caractéristique de l'impôt concerné • Motifs de la réclamation • Justificatifs (selon le cas, copie de l'avis d'imposition, copie de l'avis de mise en recouvrement, document justifiant le montant de la retenue ou du paiement en cas d'impôt perçu par voie de retenue à la source). Par téléphone Contactez directement votre centre des finances publiques. Service en charge des impôts (trésorerie, service des impôts...) Préparez un dossier contenant les informations à fournir : • Vos nom et adresse • Nom et caractéristique de l'impôt concerné • Motifs de la réclamation • Justificatifs (selon le cas, copie de l'avis d'imposition, copie de l'avis de mise en recouvrement, document justifiant le montant de la retenue ou du paiement en cas d'impôt perçu par voie de retenue à la source). L’administration fiscale doit traiter votre demande dans un délai de 6 mois. Vous serez informé par écrit de sa réponse."
+      ]
+    },
+    {
+      "titre": "Peut-on différer le paiement de l'impôt en cas de réclamation ?",
+      "contenu": [
+        "Vous pouvez demander un sursis de paiement à l'administration fiscale, si vous souhaitez qu'elle diffère le paiement de l'impôt que vous contestez.",
+        "Indiquez-le dans votre réclamation.",
+        "[Attention] Si votre réclamation est rejetée, vous devrez payer une majoration de 10 %.",
+        "Les règles diffèrent selon le montant que vous contestez :",
+        "Montant contesté inférieur à 4 500 €",
+        "Vous pouvez demander à différer le paiement de l'imposition que vous contestez.",
+        "Le sursis diffère le paiement jusqu'à ce qu'une décision définitive ait été prise sur la réclamation, soit par l'administration soit par le tribunal compétent.",
+        "Si votre réclamation est rejetée, vous devrez payer à la fois :",
+        "• L'impôt contesté",
+        "• Une majoration de 10 % pour retard de paiement.",
+        "Montant contesté supérieur à 4 500 €",
+        "Vous pouvez demander à différer le paiement de l'imposition que vous contestez.",
+        "Des garanties sont nécessaires pour couvrir le montant des droits contestés (par exemple, une caution bancaire).",
+        "Le comptable chargé du recouvrement peut prendre des mesures conservatoires dans les cas suivants :",
+        "• Absence de garantie",
+        "• Garanties jugées insuffisantes.",
+        "Le sursis diffère le paiement jusqu'à ce qu'une décision définitive ait été prise sur la réclamation, soit par l'administration soit par le tribunal compétent.",
+        "Si votre réclamation est rejetée, vous devrez payer à la fois :",
+        "• L'impôt contesté",
+        "• Une majoration de 10 % pour retard de paiement.",
+        "[À savoir] La décision de rejet des garanties et la prise de mesures conservatoires peuvent être contestées devant le juge compétent."
+      ]
+    },
+    {
+      "titre": "Quels sont les délais pour faire une réclamation en matière d'impôt ?",
+      "contenu": [
+        "Le délai de réclamation varie selon le type d'impôt :",
+        "Impôt sur le revenu",
+        "La réclamation doit intervenir avant le 31 décembre de la 2e année qui suit celle de la mise en recouvrement de l'impôt (indiquée sur l'avis d'imposition).",
+        "[Exemple] Le délai s'achève le 31 décembre 2028 pour l'impôt sur le revenu mis en recouvrement en 2026.",
+        "Impôts locaux",
+        "Taxe d'habitation sur les résidences secondaires",
+        "La réclamation doit intervenir avant le 31 décembre de l'année qui suit celle de la mise en recouvrement de l'impôt indiquée sur l'avis d'imposition.",
+        "[Exemple] Le délai s'achève le 31 décembre 2027 pour la taxe mise en recouvrement en 2026.",
+        "Toutefois, si vous faites l'objet d'une procédure de reprise de la part de l'administration des impôts, votre réclamation peut intervenir jusqu’au 31 décembre de la 3e année qui suit celle de la mise en recouvrement de l'impôt indiquée sur l'avis d'imposition.",
+        "[Exemple] Le délai s'achève le 31 décembre 2029 pour une mise en recouvrement en 2026.",
+        "Taxe sur les logements vacants, taxe d'habitation sur les logements vacants",
+        "Jusqu’au 31 décembre 2026",
+        "La réclamation doit intervenir avant le 31 décembre de l'année qui suit celle de la mise en recouvrement de l'impôt indiquée sur l'avis d'imposition.",
+        "[Exemple] Le délai s'achève le 31 décembre 2027 pour la taxe mise en recouvrement en 2026.",
+        "Toutefois, si vous faites l'objet d'une procédure de reprise de la part de l'administration des impôts, votre réclamation peut intervenir jusqu’au 31 décembre de la 3e année qui suit celle de la mise en recouvrement de l'impôt indiquée sur l'avis d'imposition.",
+        "[Exemple] Le délai s'achève le 31 décembre 2029 pour une mise en recouvrement en 2026.",
+        "À compter du 1er janvier 2027",
+        "La taxe sur les logements vacants et la taxe d'habitation sur les logements vacants sont supprimées.",
+        "Elles sont remplacées par la taxe sur la vacance des locaux d’habitation.",
+        "La réclamation doit intervenir avant le 31 décembre de l'année qui suit celle de la mise en recouvrement de l'impôt indiquée sur l'avis d'imposition.",
+        "[Exemple] Le délai s'achève le 31 décembre 2028 pour la taxe mise en recouvrement en 2027.",
+        "Toutefois, si vous faites l'objet d'une procédure de reprise de la part de l'administration des impôts, votre réclamation peut intervenir jusqu’au 31 décembre de la 3e année qui suit celle de la mise en recouvrement de l'impôt indiquée sur l'avis d'imposition.",
+        "[Exemple] Le délai s'achève le 31 décembre 2030 pour une mise en recouvrement en 2027.",
+        "Autres impôts locaux",
+        "La réclamation doit intervenir avant le 31 décembre de l'année qui suit celle de la mise en recouvrement de l'impôt indiquée sur l'avis d'imposition.",
+        "[Exemple] Le délai s'achève le 31 décembre 2027 pour la taxe foncière mise en recouvrement en 2026.",
+        "Impôt sur la fortune immobilière",
+        "La réclamation doit intervenir avant le 31 décembre de la 2e année qui suit celle de la mise en recouvrement de l'impôt, indiquée sur l'avis d'imposition.",
+        "[Exemple] Le délai s'achève le 31 décembre 2028 pour l'impôt sur le revenu mis en recouvrement en 2026."
+      ]
+    },
+    {
+      "titre": "Dans quel délai l'administration fiscale répond-elle à la réclamation ?",
+      "contenu": [
+        "L'administration a 6 mois pour vous répondre, en motivant sa décision.",
+        "Si elle a besoin d'un délai supplémentaire, elle doit vous en avertir.",
+        "Ce délai supplémentaire est au maximum de 3 mois.",
+        "La situation dépend ensuite de la réponse de l'administration :",
+        "Votre réclamation est acceptée",
+        "Si votre réclamation est admise en totalité, vous recevez un avis de dégrèvement ou de restitution.",
+        "Vous êtes par la suite remboursé des sommes payées en trop.",
+        "Votre réclamation est partiellement admise",
+        "Si votre réclamation est partiellement admise, vous recevez la décision par lettre RAR. La décision est motivée.",
+        "Vous avez alors 2 mois pour la contester et saisir les tribunaux.",
+        "Votre réclamation est refusée",
+        "Si votre réclamation est rejetée ou partiellement admise, vous recevez la décision par lettre RAR. La décision est motivée.",
+        "Vous avez alors 2 mois pour la contester et saisir les tribunaux."
+      ]
+    },
+    {
+      "titre": "Quels sont les recours en justice possibles en matière d'impôt ?",
+      "contenu": [
+        "Vous pouvez saisir les tribunaux dans les cas suivants :",
+        "• Vous n'êtes pas satisfait de la décision",
+        "• Vous n'avez pas reçu de réponse 6 mois après votre réclamation.",
+        "Le recours dépend du type d'impôt :",
+        "Impôt sur le revenu",
+        "Vous pouvez saisir le tribunal administratif dans un délai de 2 mois à partir de la réception de la décision de l'administration.",
+        "Le tribunal administratif compétent est celui dont dépend le lieu d'imposition.",
+        "Tribunal administratif",
+        "[À savoir] Vous pouvez présenter votre requête vous-même ou vous faire assister par un avocat.",
+        "Impôts locaux",
+        "Vous pouvez saisir le tribunal administratif dans un délai de 2 mois à partir de la réception de la décision de l'administration.",
+        "Le tribunal administratif compétent est celui dont dépend le lieu d'imposition.",
+        "Tribunal administratif",
+        "Vous pouvez présenter votre requête vous-même ou vous faire assister par un avocat.",
+        "Taxe de publicité foncière, droit de timbre, droits d'enregistrement",
+        "Vous pouvez saisir le tribunal judiciaire dans un délai de 2 mois à partir de la réception de la décision de l'administration.",
+        "Le tribunal compétent est celui dont dépend la recette des impôts chargée du recouvrement ou celui dont dépend la situation du bien si la contestation porte sur la valeur de ce bien.",
+        "Tribunal judiciaire ou tribunal de proximité",
+        "[À savoir] Le recours à un avocat est obligatoire.",
+        "Impôt sur la fortune immobilière (IFI)",
+        "Vous pouvez saisir le tribunal judiciaire dans un délai de 2 mois à partir de la réception de la décision de l'administration.",
+        "Le tribunal compétent est celui dont dépend la recette des impôts chargée du recouvrement ou celui dont dépend la situation du bien si la contestation porte sur la valeur de ce bien.",
+        "Tribunal judiciaire ou tribunal de proximité",
+        "[À savoir] Le recours à un avocat est obligatoire."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Livre des procédures fiscales : articles L190 à L190 A",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006147336/"
+    },
+    {
+      "titre": "Livre des procédures fiscales : articles L277 à L280",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006147340/"
+    },
+    {
+      "titre": "Livre des procédures fiscales : articles R*190-1 à R*190-3",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006147388/"
+    },
+    {
+      "titre": "Livre des procédures fiscales : articles R*196-1 à R*196-6",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006180177/"
+    },
+    {
+      "titre": "Livre des procédures fiscales : articles R*198-1 à R*198-10",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006180163/"
+    },
+    {
+      "titre": "Livre des procédures fiscales : articles R*277-1 à R*277-8",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006147392/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Impôts : accéder à votre espace Finances publiques",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "Service d'information des impôts"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Après rejet de ma réclamation, je souhaite saisir la justice",
+      "url": "https://www.impots.gouv.fr/portail/particulier/apres-rejet-de-ma-reclamation-je-souhaite-saisir-la-justice"
+    },
+    {
+      "titre": "Je veux contester un impôt : je fais une réclamation",
+      "url": "https://www.impots.gouv.fr/portail/particulier/je-veux-contester-un-impot-je-fais-une-reclamation"
+    }
+  ],
+  "slug": "reclamations-et-recours-en-justice-en-matiere-d-impot",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "saisir-l-administration-fiscale-difficultes-de-paiement-reclamation",
+      "titre": "Saisir l'administration fiscale (difficultés de paiement, réclamation...)"
+    }
+  ]
+}

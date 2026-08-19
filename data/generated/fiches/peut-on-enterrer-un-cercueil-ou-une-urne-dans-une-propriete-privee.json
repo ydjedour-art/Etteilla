@@ -1,0 +1,103 @@
+{
+  "id": "F1114",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Peut-on enterrer un cercueil ou une urne dans une propriété privée ?",
+  "theme": "Famille - Scolarité",
+  "description": "À titre exceptionnel, et sous certaines conditions, il est possible d'enterrer un cercueil ou une urne funéraire dans le jardin d'une propriété privée.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-07-22",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1114",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Déclaration de décès, obsèques et sépulture",
+    "Peut-on enterrer un cercueil ou une urne dans une propriété privée ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Oui, à titre exceptionnel, et sous certaines conditions, il est possible d'enterrer un cercueil ou une urne funéraire dans le jardin d'une propriété privée.",
+        "Vous devez demander l'autorisation du préfet du département où est située la propriété.",
+        "Cette autorisation ne peut pas être délivrée par anticipation (du vivant des intéressés).",
+        "Elle est valable uniquement à titre personnel.",
+        "Elle ne donne pas de droit aux autres membres de la famille pour un enterrement dans la même propriété que le défunt.",
+        "L'inhumation d'un cercueil ou d'une urne a des conséquences pour le terrain.",
+        "L'inhumation dans un terrain privé crée une servitude à l'égard des proches du défunt. Ils doivent pouvoir accéder librement à la sépulture pour se recueillir.",
+        "Cette servitude est perpétuelle (elle dure indéfiniment).",
+        "En cas de vente du terrain, la servitude s'impose au nouveau propriétaire.",
+        "Les démarches varient selon que l'inhumation concerne un cercueil ou une urne :",
+        "Cercueil",
+        "Une inhumation dans le terrain d'une propriété privée est possible à titre exceptionnel.",
+        "Les formalités peuvent être accomplies par l'opérateur de pompes funèbres.",
+        "Vous devez remplir les 3 conditions suivantes :",
+        "• Prouver que la propriété est située hors zone urbaine (et à plus de 35 mètres des habitations)",
+        "• Solliciter l'avis d'un hydrogéologue (vous devez vous adresser à l'ARS)",
+        "• Obtenir l'accord du préfet.",
+        "Agence régionale de santé (ARS)",
+        "Vous devez déposer une demande d'inhumation dans une propriété privée, avec l’ensemble de vos justificatifs, à la préfecture du département où est située la propriété.",
+        "Préfecture",
+        "[Attention] Si le terrain ne vous appartient pas, vous devez demander l'autorisation de son propriétaire.",
+        "Urne funéraire",
+        "Une inhumation dans le terrain d'une propriété privée est possible à titre exceptionnel.",
+        "Les formalités peuvent être accomplies par l'opérateur de pompes funèbres.",
+        "Vous devez remplir les 2 conditions suivantes :",
+        "• Prouver que la propriété est située hors zone urbaine (et à plus de 35 mètres des habitations)",
+        "• Obtenir l'accord du préfet.",
+        "Vous devez déposer une demande d'inhumation dans une propriété privée, avec l’ensemble de vos justificatifs, à la préfecture du département où est située la propriété.",
+        "Préfecture",
+        "[Attention] Si le terrain ne vous appartient pas, vous devez demander l'autorisation de son propriétaire."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général des collectivités territoriales : articles L2223-1 à L2223-12-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006192267/"
+    },
+    {
+      "titre": "Code général des collectivités territoriales : articles L2223-38 à L2223-43",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006192272/"
+    },
+    {
+      "titre": "Code général des collectivités territoriales : articles R2213-31 à R2213-33",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070633/LEGISCTA000006197795/#LEGISCTA000006197795"
+    },
+    {
+      "titre": "Code général des collectivités territoriales : articles R2512-30 à R2512-36",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006192705/"
+    },
+    {
+      "titre": "Réponse ministérielle du 1er octobre 2015 relative à la transmission des concessions funéraires",
+      "url": "http://questions.assemblee-nationale.fr/q14/14-22191QE.htm"
+    },
+    {
+      "titre": "Réponse ministérielle relative aux cimetières privés",
+      "url": "https://www.senat.fr/questions/base/2018/qSEQ181107948.html"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Base des unités urbaines",
+      "url": "https://www.insee.fr/fr/information/4802589"
+    },
+    {
+      "titre": "Guides juridiques sur la législation funéraire pour les collectivités territoriales",
+      "url": "https://www.collectivites-locales.gouv.fr/competences/guides-funeraires"
+    }
+  ],
+  "slug": "peut-on-enterrer-un-cercueil-ou-une-urne-dans-une-propriete-privee",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "declaration-de-deces-obseques-et-sepulture",
+      "titre": "Déclaration de décès, obsèques et sépulture"
+    }
+  ]
+}

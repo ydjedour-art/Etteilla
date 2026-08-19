@@ -1,0 +1,38 @@
+{
+  "id": "F31878",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quels sont les différents dispositifs de formation du salarié du secteur privé ?",
+  "theme": "Travail - Formation, Ressources humaines",
+  "description": "Le salarié a accès à plusieurs dispositifs de formation. Certains lui permettent de choisir librement sa formation, d'autres sont encadrés par l'employeur.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-02-06",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31878",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Formation des salariés du secteur privé",
+    "Quels sont les différents dispositifs de formation du salarié du secteur privé ?"
+  ],
+  "introduction": "Le salarié du secteur privé a accès à plusieurs dispositifs de formation. Certains permettent au salarié de choisir librement sa formation, d'autres sont encadrés par l'employeur. Nous vous présentons les formations choisies par le salarié et celles prévues par son entreprise.",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Recherche d'une offre de formation professionnelle continue",
+      "url": "http://www.intercariforef.org/formations/recherche-avancee-formations.html"
+    }
+  ],
+  "slug": "quels-sont-les-differents-dispositifs-de-formation-du-salarie-du-secteur-prive",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "formation-des-salaries-du-secteur-prive",
+      "titre": "Formation des salariés du secteur privé"
+    }
+  ]
+}

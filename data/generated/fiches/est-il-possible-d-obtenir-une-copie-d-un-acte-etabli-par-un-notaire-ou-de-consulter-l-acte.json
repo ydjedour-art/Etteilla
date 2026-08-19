@@ -1,0 +1,112 @@
+{
+  "id": "F3167",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Est-il possible d'obtenir une copie d'un acte établi par un notaire ou de consulter l’acte ?",
+  "theme": "Justice",
+  "description": "Il est possible d'obtenir la copie d'un acte notarié sous certaines conditions. Les procédures à suivre diffèrent en fonction de la nature du document.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-06-19",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F3167",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Acteurs du monde judiciaire",
+    "Est-il possible d'obtenir une copie d'un acte établi par un notaire ou de consulter l’acte ?"
+  ],
+  "introduction": "Oui, les personnes concernées par un acte notarié, leurs ayants droits ou leurs héritiers peuvent obtenir une copie de l’acte établi par le notaire. Dans certains cas, l'acte notarié peut également être consulté par un tiers. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Obtention d’une copie d’un acte notarié",
+        "La démarche est différente selon le type d’acte :",
+        "Acte notarié concernant un bien immobilier",
+        "Toute personne peut obtenir la copie d'un acte notarié ou des renseignements qui concernent un bien immobilier en s'adressant au service de la publicité foncière.",
+        "Service de la publicité foncière et de l'enregistrement",
+        "Les documents et informations qui peuvent être demandés dépendent du moment auquel l'acte notarié a été rédigé : avant ou après le 1er janvier 1956.",
+        "Des frais vous seront demandés, notamment le paiement d'une taxe appelée contribution de sécurité immobilière.",
+        "Autre cas",
+        "Les actes notariés sont couverts par le secret professionnel du notaire.",
+        "Toutefois, le notaire a néanmoins l’obligation de délivrer une copie aux signataires de l’acte (vendeur, acquéreur, emprunteur, prêteur, donateur, donataire, etc.), aux héritiers (une fois la personne décédée) ou aux ayants droits qui le demandent. Un acte notarié peut également être remis au représentant d'une personne morale qui en fait la demande.",
+        "La copie peut être délivrée en version papier ou sur un support électronique. Le notaire peut demander le paiement de cette prestation.",
+        "[À savoir] Un refus injustifié du notaire peut être sanctionné par une amende de 15 € et/ou à des poursuites disciplinaires.",
+        "Toutes les autres personnes (tiers ou créanciers) doivent saisir le président du tribunal judiciaire du lieu de situation de l’étude notariale pour obtenir la délivrance d’une copie de l’acte notarié.",
+        "Tribunal judiciaire",
+        "En effet, le notaire ne peut donner ni connaissance de l’acte, ni délivrer une copie à des tiers sans autorisation judiciaire.",
+        "La demande doit prendre la forme d'une requête. Il est obligatoire de se faire assister par un avocat pour cette procédure.",
+        "[À savoir] La personne qui ne dispose pas des ressources financières suffisantes pour faire appel à un avocat peut éventuellement demander l'aide juridictionnelle.",
+        "Consultation d’un acte notarié",
+        "La démarche est différente selon la date de l’acte :",
+        "Acte établi depuis moins de 75 ans",
+        "Toute personne peut demander à consulter un acte notarié en adressant une demande écrite et argumentée au président du tribunal judiciaire dont dépend le notaire qui a rédigé le document.",
+        "Tribunal judiciaire",
+        "La consultation peut être accordée uniquement par ordonnance du président du tribunal judiciaire, après avoir obtenu l'accord du notaire qui a établi l'acte.",
+        "Si la consultation est autorisée, elle a généralement lieu au sein de l'étude notariale, pendant un temps limité.",
+        "Acte établi depuis plus de 75 ans (ou 100 ans s'il concerne un mineur)",
+        "Lorsqu'un acte est établi depuis plus de 75 ans (ou100 ans s'il concerne un mineur), il devient une archive publique. L’acte notarié devient ainsi communicable et consultable par tous (partie à l'acte, héritiers, ayant droit ou tiers). Il est conservé aux archives nationales (pour Paris) ou aux archives départementales (pour les autres villes).",
+        "Cas général",
+        "Pour obtenir la copie d'un acte notarié rédigé en France, il faut s'adresser aux archives départementales dont dépend géographiquement ce professionnel. En fonction du département, la demande peut être faite par écrit ou directement sur le site des archives départementales.",
+        "Archives départementales",
+        "[Attention] La copie de l'acte peut être délivrée sous format papier ou par mail (si le document est disponible sous format électronique). La transmission d'un acte notarié est payante.",
+        "Acte établi à Paris",
+        "Pour obtenir la copie d'un acte rédigé par un notaire à Paris, il faut s'adresser au département du Minutier central des notaires de Paris, qui relève des archives nationales.",
+        "La demande doit être faite par écrit.",
+        "Département du Minutier central des notaires de Paris",
+        "[Attention] La copie de l'acte peut être délivrée sous format papier ou par mail (si le document est disponible sous format électronique). La transmission d'un acte notarié est payante."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de procédure civile : articles 1435 à 1441",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000019960686/"
+    },
+    {
+      "titre": "Code du patrimoine : articles L213-1 à L213-8",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006159942"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Copie de documents (acte de vente, donation, règlement de copropriété...) enregistrés avant le 1er janvier 1956",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/3231-sd/demande-de-copie-de-documents-pour-la-periode-anterieure-au-1er-janvier-1956",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Copie de documents (acte de vente, donation, règlement de copropriété...) enregistrés après le 1er janvier 1956",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/3236-sd/demande-de-copie-de-documents-pour-la-periode-compter-du-1er-janvier-1956",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Renseignements concernant la situation juridique des immeubles et le patrimoine immobilier des personnes (après 1956)",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/3233-sd/demande-de-renseignements-pour-la-periode-compter-du-1er-janvier-1956",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Complément de renseignements après 1956",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/3240-sd/demande-complementaire-de-renseignements-pour-la-periode-compter-du-111956",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Chambre régionale des notaires",
+    "Service de la publicité foncière et de l'enregistrement"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Notice pour une demande d'informations ou d'acte soumis à la publicité foncière",
+      "url": "https://www.impots.gouv.fr/formulaire/3241-not-sd/notice-pour-remplir-les-demandes-de-renseignements-hypothecaires"
+    }
+  ],
+  "slug": "est-il-possible-d-obtenir-une-copie-d-un-acte-etabli-par-un-notaire-ou-de-consulter-l-acte",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "acteurs-du-monde-judiciaire",
+      "titre": "Acteurs du monde judiciaire"
+    }
+  ]
+}

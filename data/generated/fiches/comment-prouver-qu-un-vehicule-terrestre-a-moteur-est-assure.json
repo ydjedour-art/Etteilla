@@ -1,0 +1,65 @@
+{
+  "id": "F1362",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Comment prouver qu'un véhicule terrestre à moteur est assuré ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "La carte verte n’est plus utilisée pour les véhicules immatriculés, mais reste obligatoire pour les véhicules non immatriculés soumis à obligation d’assurance.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-04-10",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1362",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Assurance automobile (véhicule)",
+    "Comment prouver qu'un véhicule terrestre à moteur est assuré ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Tout véhicule terrestre à moteur doit être assuré, même lorsqu’il ne circule pas.",
+        "Jusqu’au 1er avril 2024, la preuve d’assurance se faisait avec la carte verte, composée d’une attestation conservée dans le véhicule et d’un certificat apposé sur le pare-brise.",
+        "Depuis le 1er avril 2024, la carte verte (attestation + certificat apposé sur le véhicule) n’est plus délivrée, ni exigée comme justificatif pour les véhicules immatriculés. La preuve d’assurance se fait désormais par le Fichier des véhicules assurés (FVA) ou, temporairement par le document remis par l’assureur lors de la souscription, valable 15 jours.",
+        "Pour les véhicules non immatriculés soumis à l’assurance (par exemple, cyclomobiles légers, EDPM, tondeuses autoportées) :",
+        "• La carte verte continue d’être délivrée, mais elle est imprimée sur papier blanc.",
+        "• Vous devez apposer un certificat d’assurance sur le véhicule dans les 15 jours qui suivent la souscription ou le renouvellement du contrat. Ce certificat indique notamment le numéro de châssis et les dates de validité du contrat. Si le certificat définitif n’est pas encore disponible, l’assureur peut vous fournir un certificat provisoire.",
+        "• Lors d’un contrôle, vous devez pouvoir présenter une attestation d’assurance (ou attestation provisoire, ou, pour les déplacements à l’étranger, une carte internationale d’assurance. Si vous n’êtes pas en mesure de présenter un document valide, vous devez payer une amende de 35 €. La police peut vous accorder 5 jours pour présenter un justificatif.",
+        "[Complement] Vous pouvez vérifier que votre véhicule est bien enregistré comme assuré dans le fichier des véhicules assurés (FVA). Cette vérification peut être effectuée en renseignant le numéro d’immatriculation du véhicule ou certaines informations figurant sur le certificat d’immatriculation ou le contrat d’assurance. Interrogation du Fichier des véhicules assurés"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code des assurances : articles R211-14-0 à R211-21-6",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073984/LEGISCTA000006175432/2024-04-01/#LEGISCTA000006175432"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Interrogation du Fichier des véhicules assurés",
+      "url": "https://www.consultation-fva.fr/",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "Info Banque - Assurance"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Assurance automobile",
+      "url": "https://www.abe-infoservice.fr/assurance/assurance-automobile"
+    }
+  ],
+  "slug": "comment-prouver-qu-un-vehicule-terrestre-a-moteur-est-assure",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "assurance-automobile-vehicule",
+      "titre": "Assurance automobile (véhicule)"
+    }
+  ]
+}

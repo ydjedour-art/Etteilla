@@ -1,0 +1,99 @@
+{
+  "id": "F299",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Statut de réfugié, protection subsidiaire ou temporaire : quelles différences ?",
+  "theme": "Étranger - Europe",
+  "description": "Différents statuts permettent à un étranger d'obtenir une protection : le statut de réfugié, la protection subsidiaire ou la protection temporaire.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-06-11",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F299",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Demande d'asile (réfugié, protection subsidiaire, apatride)",
+    "Statut de réfugié, protection subsidiaire ou temporaire : quelles différences ?"
+  ],
+  "introduction": "L'asile est la protection accordée par un État à un étranger qui est ou risque d'être persécuté dans son pays. Il existe 2 formes de protection par l'asile : le statut de réfugié et la protection subsidiaire. L'Office français de protection des réfugiés et apatrides (Ofpra) est seul compétent pour accorder ces statuts en France. La protection temporaire est un dispositif particulier décidé au niveau européen lors d'afflux massif de personnes déplacées. Nous faisons un point sur la réglementation.",
+  "chapitres": [
+    {
+      "titre": "Statut de réfugié",
+      "contenu": [
+        "Le statut de réfugié est accordée aux personnes suivantes :",
+        "• Étranger persécuté dans son pays et qui ne peut ou ne veut pas se réclamer de la protection de ce pays. Il doit s'agir de persécutions fondées sur la race, la religion, la nationalité, l’appartenance à un certain groupe social (y compris pour des considérations liées au genre et à l'orientation sexuelle, au risque d'excision pour les femmes) ou sur les opinions politiques. On parle d’asile conventionnel en référence à la Convention de Genève du 28 juillet 1951.",
+        "• Étranger persécuté dans son pays en raison de son action en faveur de la liberté. Il peut s'agir, par exemple, de militants politiques ou syndicalistes, de journalistes, d'artistes ou d'intellectuels menacés pour leur engagement en faveur de la démocratie dans leur pays. On parle d'asile constitutionnel.",
+        "• Étranger qui a obtenu dans son pays la protection du Haut-Commissariat des Nations unies, mais ne peut plus y rester."
+      ]
+    },
+    {
+      "titre": "Protection subsidiaire",
+      "contenu": [
+        "La protection subsidiaire est l'autre forme de protection.",
+        "Elle est attribuée à l'étranger qui ne remplit pas les conditions d'obtention du statut de réfugié et qui prouve qu'il est exposé dans son pays à l'un des risques suivants :",
+        "• Peine de mort ou exécution",
+        "• Torture ou peines ou traitements inhumains ou dégradants",
+        "• Menace grave et individuelle contre sa vie ou sa personne en raison d'une violence qui peut s'étendre à des personnes sans considération de leur situation personnelle et résultant d'une situation de conflit armé interne ou international."
+      ]
+    },
+    {
+      "titre": "Protection temporaire",
+      "contenu": [
+        "Les personnes concernées sont les étrangers non-européens qui fuient massivement leur pays ou leur région d'origine et qui ne peuvent pas y retourner. En raison notamment d'un conflit armé ou de violences ou parce qu'ils sont victimes de violations graves et répétées des droits de l'homme.",
+        "Ce dispositif exceptionnel et temporaire est autorisé par une décision du Conseil de l'Union européenne (UE). La décision définit les bénéficiaires et sa date d'entrée en vigueur.",
+        "Le dispositif est décidé pour une période d'1 an et peut être prolongé de 2 ans maximum.",
+        "Le Conseil de l'UE peut à tout moment y mettre fin si la situation dans le pays d'origine permet un retour sûr et durable des personnes déplacées.",
+        "L'étranger bénéficiaire de la protection temporaire qui sollicite l'asile reste soumis au régime de la protection temporaire pendant l'instruction de sa demande. Si, à l'issue de l'examen de la demande d'asile, le statut de réfugié ou le bénéfice de la protection subsidiaire n'est pas accordé à l'étranger bénéficiaire de la protection temporaire, celui-ci conserve le bénéfice de cette protection aussi longtemps qu'elle demeure en vigueur."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Convention de Genève du 28 juillet 1951 relative au statut des réfugiés",
+      "url": "https://www.ohchr.org/fr/instruments-mechanisms/instruments/convention-relating-status-refugees"
+    },
+    {
+      "titre": "Directive 2001/55/CE du 20 juillet 2001 relative à l'octroi d'une protection temporaire en cas d'afflux massif de personnes déplacées",
+      "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=celex%3A32001L0055"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles L511-1 à L511-9",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042772146/"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles L512-1 à L512-4",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042772166/"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles L581-1 à L581-10",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042772644/"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles R581-1 à D581-7",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042802254/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Office français de protection des réfugiés et apatrides (Ofpra)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Asile : clauses d'exclusion du bénéfice de l'asile (Convention de Genève)",
+      "url": "https://www.ofpra.gouv.fr/lexclusion-et-le-refus-de-statut"
+    },
+    {
+      "titre": "Le Haut-Commissariat des Nations-Unies pour les Réfugiés (HCR) en France",
+      "url": "https://www.unhcr.org/fr-fr/le-hcr-en-france.html"
+    }
+  ],
+  "slug": "statut-de-refugie-protection-subsidiaire-ou-temporaire-quelles-differences",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "demande-d-asile-refugie-protection-subsidiaire-apatride",
+      "titre": "Demande d'asile (réfugié, protection subsidiaire, apatride)"
+    }
+  ]
+}

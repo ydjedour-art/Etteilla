@@ -1,0 +1,50 @@
+{
+  "id": "F1035",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Passeport en urgence : passeport temporaire pour un mineur",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Un passeport temporaire (valable seulement 1 an) peut être délivré en urgence à un mineur pour des motifs d'ordre médicaux ou humanitaires.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-10-06",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1035",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Passeport",
+    "Passeport en urgence : passeport temporaire pour un mineur"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code général des impôts : articles 953 à 955",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006179981/"
+    },
+    {
+      "titre": "Décret n°2005-1726 du 30 décembre 2005 relatif au passeport : article 5 - Pièces à fournir pour une première demande",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000033333825"
+    },
+    {
+      "titre": "Décret n°2005-1726 du 30 décembre 2005 relatif aux passeports : article 17-1 - Passeport temporaire",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000018763673"
+    },
+    {
+      "titre": "Arrêté du 5 février 2009 relatif aux photos d'identité produites pour une demande de passeport",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000020246797/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "passeport-en-urgence-passeport-temporaire-pour-un-mineur",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "passeport",
+      "titre": "Passeport"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "id": "F34231",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Fiche de paie dans la fonction publique : quelles sont les règles ?",
+  "theme": "Travail - Formation",
+  "description": "Le bulletin de paie d'un agent public est établi selon les mêmes règles que pour un salarié de droit privé.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-02-06",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34231",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Rémunération dans la fonction publique",
+    "Fiche de paie dans la fonction publique : quelles sont les règles ?"
+  ],
+  "introduction": "Aucune loi, ni aucun décret ne définit les mentions obligatoires du bulletin de paie des agents de la fonction publique. Toutefois, il est recommandé aux administrations d'établir des bulletins de paie aussi complets que pour les salariés de droit privé et de tenir compte des mêmes règles de présentation. Seuls les composants de la rémunération et les cotisations auxquelles cette rémunération est soumise sont définis par les textes. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Quelles sont les rubriques du bulletin de paie d'un agent public ?",
+      "contenu": [
+        "Votre bulletin comporte au moins les informations suivantes :",
+        "• Nom et adresse de votre employeur, et éventuellement votre service d'affectation",
+        "• Identifiants de l'employeur auprès de l'Insee : code APE et n°Siret",
+        "• Vos nom, prénom, grade, échelon et indice majoré",
+        "• Période et nombre d'heures de travail auxquels se rapporte la rémunération",
+        "• Montants bruts de votre traitement de base et des autres composants de votre rémunération selon votre situation",
+        "• Montant de la rémunération brute totale",
+        "• Montant, assiette et taux des cotisations à votre charge et à la charge de votre administration employeur",
+        "• Montant net social égal à votre rémunération brute - les différentes cotisations",
+        "• Nature et montant des autres versements (prise en charge des frais de transport public ou de frais de transports personnels notamment) et retenues (saisie sur salaire par exemple)",
+        "• Montant de la rémunération nette à payer avant impôt sur le revenu",
+        "• Montant du prélèvement à la source de l’impôt sur le revenu",
+        "• Montant de la rémunération nette qui vous est effectivement versée",
+        "• Date de paiement de cette rémunération nette",
+        "• Montant total versé par l'administration employeur (rémunération brute + cotisations à la charge de l'administration employeur).",
+        "Le bulletin de paie mentionne également généralement le revenu mensuel net imposable et le cumul annuel net imposable.",
+        "Le revenu mensuel net imposable est égal au montant de la rémunération brute - les remboursements de frais et les avantages en nature - la part de la CSG déductible + la participation de l'administration employeur à la complémentaire santé.",
+        "Le cumul annuel net imposable est égal à la somme des revenus mensuels nets imposables.",
+        "[À noter] Vous devez conserver vos bulletins de paie jusqu’à la liquidation de vos pensions de retraite, c'est-à-dire jusqu'à ce que vous receviez vos titres de pension de la part des différentes caisses de retraite auprès desquelles vous avez des droits."
+      ]
+    },
+    {
+      "titre": "Le bulletin de paie d'un agent public est-il dématérialisé ?",
+      "contenu": [
+        "Depuis 2020, si vous travaillez dans un service ministériel central ou déconcentré, vos bulletins de pae et vos états annuels indiquant le montant annuel de votre revenu imposable sont dématérialisés.",
+        "Votre état annuel vous est remis chaque année. Il vous indique le montant total du revenu imposable que vous avez perçu au cours de l'année écoulée. Ce montant figure sur la déclaration de revenus pré-remplie.",
+        "Les bulletins de paye et l'état annuel sont mis à votre disposition sous forme électronique, dans un espace personnel sur l'espace numérique sécurisé des agents publics de l'État (Ensap) :",
+        "Espace numérique sécurisé de l’agent public (Ensap)",
+        "Connexion avec France Connect ou avec votre numéro de Sécurité sociale et votre mot de passe",
+        "Si vous avez fourni votre adresse électronique, vous êtes informé par message électronique de la mise à disposition sur votre espace sécurisé de votre bulletin de paie et de l'état annuel.",
+        "Les documents enregistrés dans votre espace numérique sont conservés tout au long de votre carrière et jusqu'à vos 75 ans.",
+        "Vous pouvez demander que vos bulletins de paye et les états annuels continuent de vous être délivrés sur support papier dans les 2 cas suivants :",
+        "• Vous êtes dans l'incapacité d'accéder sur votre lieu de travail à votre espace personnel sécurisé sur l'Ensap",
+        "• Vous êtes en congé de maladie, de longue maladie ou de longue durée.",
+        "Chaque arrêté ministériel qui a fixé la date de cessation du bulletin de paye papier précise les situations professionnelles dans lesquelles vous pouvez demander à bénéficier de ces documents sur support papier. Il fixe également les conditions dans lesquelles vous devez présenter votre demande.",
+        "Depuis 2022, vos bulletins de paye et vos états annuels peuvent aussi être dématérialisés et mis à votre disposition dans un espace personnel sur l'Ensap si vous exercez notamment auprès de l'un des employeurs publics suivants :",
+        "• Établissements publics de l’État",
+        "• Collectivités et établissements publics territoriaux",
+        "• Établissements et services sociaux et médico-sociaux",
+        "• Établissements publics de santé.",
+        "Selon l'administration concernée, le calendrier et les conditions de cette mise à disposition sont précisés par arrêté ministériel, convention approuvée par délibération ou convention approuvée par décision du conseil de surveillance."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général de la fonction publique : article L712-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044424813/"
+    },
+    {
+      "titre": "Code du travail : articles L3243-1 à L3243-5",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006178028/"
+    },
+    {
+      "titre": "Code du travail : articles R3243-1 à R3243-9",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000018487280/"
+    },
+    {
+      "titre": "Décret n°62-765 du 8 juillet 1962 portant règlement sur la comptabilité publique en ce qui concerne la liquidation des traitements des personnels de l'État",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000679861/"
+    },
+    {
+      "titre": "Décret n°85-730 du 17 juillet 1985 relatif à la rémunération des fonctionnaires de l'État et des fonctionnaires des collectivités territoriales",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000508629/"
+    },
+    {
+      "titre": "Décret n°85-1148 du 24 octobre 1985 relatif à la rémunération des personnels des 3 fonctions publiques",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006064738/"
+    },
+    {
+      "titre": "Décret n°2016-1073 du 3 août 2016 relatif à la mise à disposition et à la conservation sur support électronique des bulletins de paye",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000032974124"
+    },
+    {
+      "titre": "Arrêté du 25 février 2016 fixant les libellés, l'ordre et le regroupement des informations du bulletin de paie (article R3243-2 du code du travail)",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000032106923/"
+    },
+    {
+      "titre": "Réponse ministérielle du 23 janvier 1989 sur la présentation des bulletins de salaire dans la fonction publique",
+      "url": "http://questions.assemblee-nationale.fr/q9/9-4745QE.htm"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Espace numérique sécurisé de l’agent public (Ensap)",
+      "url": "https://ensap.gouv.fr/web/accueilnonconnecte",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "fiche-de-paie-dans-la-fonction-publique-quelles-sont-les-regles",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "remuneration-dans-la-fonction-publique",
+      "titre": "Rémunération dans la fonction publique"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "F37482",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Un salarié peut-il acquérir des congés payés pendant un arrêt maladie ?",
+  "theme": "Travail - Formation",
+  "description": "En cas de maladie d'origine non professionnelle ou d'accident du travail et de maladie d'origine professionnelle, le salarié peut acquérir des congés payés.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2024-06-12",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F37482",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Congés dans le secteur privé",
+    "Un salarié peut-il acquérir des congés payés pendant un arrêt maladie ?"
+  ],
+  "introduction": "Oui, le salarié en arrêt de travail en raison d'accident du travail ou de maladie professionnelle ou, depuis le 24 avril 2024, d'accident ou de maladie ordinaire est en droit d'acquérir des congés payés. Dans certains cas, le salarié bénéficie d’un droit au report des congés. Nous vous expliquons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Le nombre de jours de congés payés acquis dépend de la nature de l'arrêt de travail : accident et maladie d'origine non professionnelle ou accident du travail et maladie d'origine professionnelle."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code du travail : article L3141-5",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049461613"
+    },
+    {
+      "titre": "Code du travail : article L3141-5-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049459068"
+    },
+    {
+      "titre": "Code du travail : articles L3141-12 à L3141-14",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033008413"
+    },
+    {
+      "titre": "Code du travail : article L3141-15",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033008455"
+    },
+    {
+      "titre": "Code du travail : article L3141-16",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033008473"
+    },
+    {
+      "titre": "Code du travail : articles L3141-17 à L3141-23",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000006195794"
+    },
+    {
+      "titre": "Code du travail : articles L3141-21 à L3141-22",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000033008528"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "un-salarie-peut-il-acquerir-des-conges-payes-pendant-un-arret-maladie",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "conges-dans-le-secteur-prive",
+      "titre": "Congés dans le secteur privé"
+    }
+  ]
+}

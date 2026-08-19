@@ -1,0 +1,63 @@
+{
+  "id": "F32823",
+  "type_publication": "Fiche Comment faire si conditionné",
+  "titre": "Je rentre en France après avoir vécu à l'étranger",
+  "theme": "",
+  "description": "Nous vous présentons les démarches que vous devez faire avant votre départ de l'étranger et après votre arrivée en France.",
+  "type_fiche": "Comment faire si...",
+  "date_modif": "2026-06-17",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F32823",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Comment faire si",
+    "Je rentre en France après avoir vécu à l'étranger"
+  ],
+  "introduction": "Vous êtes de nationalité française, vous vivez à l'étranger depuis plus de 3 mois et vous préparez votre retour pour vous réinstaller en France ? Nous vous présentons les démarches que vous devez faire avant votre départ de l'étranger et après votre arrivée en France. Les démarches varient selon que vous rentrez d'un pays de l'Espace économique européen ou de la Suisse ou d'un autre pays. Nous vous posons plusieurs questions. Vos réponses nous permettent d'identifier votre situation et de vous apporter une réponse personnalisée.",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [
+    {
+      "titre": "France-Visas - Coût du visa selon les pays",
+      "url": "https://france-visas.gouv.fr/web/france-visas/assistant-visa",
+      "type": "Outil de recherche"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Les naissances à l'étranger",
+      "url": "https://www.diplomatie.gouv.fr/fr/services-aux-francais/etat-civil-et-nationalite-francaise/etat-civil/article/declarer-la-naissance-ou-la-reconnaissance-d-un-enfant-a-l-etranger"
+    },
+    {
+      "titre": "Faire reconnaitre un divorce prononcé à l’étranger",
+      "url": "https://www.diplomatie.gouv.fr/fr/services-aux-francais/etat-civil-et-nationalite-francaise/etat-civil/article/les-divorces-a-l-etranger"
+    },
+    {
+      "titre": "Déclarer un décès à l’étranger",
+      "url": "https://www.diplomatie.gouv.fr/fr/services-aux-francais/etat-civil-et-nationalite-francaise/etat-civil/article/declarer-un-deces-a-l-etranger"
+    },
+    {
+      "titre": "Je viens ou je reviens en France, comment et quels revenus dois-je déclarer ?",
+      "url": "https://www.impots.gouv.fr/international-particulier/questions/je-reviens-en-france-apres-un-sejour-letranger"
+    },
+    {
+      "titre": "Le régime des impatriés",
+      "url": "https://www.impots.gouv.fr/international-particulier/le-regime-des-impatries"
+    },
+    {
+      "titre": "Vous êtes pensionné du seul régime suisse et venez vivre votre retraite en France",
+      "url": "https://www.cleiss.fr/particuliers/venir/retraite/suisse.html"
+    },
+    {
+      "titre": "Droits et prestations versées par les caisses d'allocations familiales (Caf)",
+      "url": "https://www.caf.fr/allocataires/aides-et-demarches/droits-et-prestations"
+    }
+  ],
+  "slug": "je-rentre-en-france-apres-avoir-vecu-a-l-etranger",
+  "path": [
+    {
+      "slug": "comment-faire-si",
+      "titre": "Comment faire si"
+    }
+  ]
+}

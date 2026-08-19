@@ -1,0 +1,33 @@
+{
+  "id": "F35600",
+  "type_publication": "Recherche guidée",
+  "titre": "Étranger en France : carte de séjour pluriannuelle - salarié détaché ICT",
+  "theme": "Étranger - Europe",
+  "description": "Étranger en France : carte de séjour pluriannuelle - salarié détaché ICT",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2021-01-25",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35600",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Titres, cartes de séjour et documents de circulation pour étranger en France",
+    "Étranger en France : carte de séjour pluriannuelle - salarié détaché ICT"
+  ],
+  "introduction": "Selon votre nationalité, la démarche pour obtenir une carte de séjour pluriannuelle \"salarié détaché ICT\" sera différente. En répondant à quelques questions, ce module vous orientera sur la page correspondant à votre situation et à vos droits.",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "etranger-en-france-carte-de-sejour-pluriannuelle-salarie-detache-ict-f35600",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "titres-cartes-de-sejour-et-documents-de-circulation-pour-etranger-en-france",
+      "titre": "Titres, cartes de séjour et documents de circulation pour étranger en France"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "F492",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "S'installer en France après avoir vécu dans un pays hors Union européenne : quels droits de douane ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Vous bénéficiez de franchise douanière dans 3 cas : transfert de résidence principale, mariage et installation en France, études en France.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-11-19",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F492",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Douane",
+    "S'installer en France après avoir vécu dans un pays hors Union européenne : quels droits de douane ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Si vous venez d'un pays membre de l'UE, vous n'avez rien à payer. Aucune formalité n'est à effectuer lors du passage en douane.",
+        "En revanche, si vous venez d'un pays tiers, vous bénéficiez de franchise douanière dans les 3 cas suivants :",
+        "• Transfert de résidence principale",
+        "• Mariage et installation en France",
+        "• Études (scolarité).",
+        "Cependant, certaines taxes restent dûes sur l'alcool, le tabac, les biens et le véhicule professionnels."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général des impôts, annexe 4 : articles 50 septies à 50 octies C",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000020786766/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Déclaration d'entrée en France en franchise de biens personnels en provenance de pays tiers à l'Union Européenne",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_10070.do",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Infos Douane Service",
+    "Ambassades et consulats de France à l'étranger",
+    "Cellules-conseil aux entreprises (Douanes - Pôles d'action économique)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Importer un véhicule acheté à l'étranger",
+      "url": "https://www.douane.gouv.fr/fiche/achat-dun-vehicule-letranger-ou-dans-un-dom-com"
+    },
+    {
+      "titre": "Voyage hors UE : carte de libre circulation pour vos marchandises",
+      "url": "https://www.douane.gouv.fr/fiche/carte-de-libre-circulation-passeport-des-marchandises"
+    },
+    {
+      "titre": "À l'import ou à l'export : une obligation, déclarer sa marchandise",
+      "url": "https://www.douane.gouv.fr/fiche/limport-ou-lexport-une-obligation-declarer-sa-marchandise"
+    }
+  ],
+  "slug": "s-installer-en-france-apres-avoir-vecu-dans-un-pays-hors-union-europeenne-quels-droits-de-douane",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "douane",
+      "titre": "Douane"
+    }
+  ]
+}

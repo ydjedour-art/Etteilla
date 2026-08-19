@@ -1,0 +1,111 @@
+{
+  "id": "F35248",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "L'avocat est-il obligatoire dans un procès pénal ?",
+  "theme": "Justice",
+  "description": "Au pénal, l'avocat peut être obligatoire pour le prévenu. Ce n'est pas le cas pour la victime partie civile majeure. L'avocat est obligatoire pour les mineurs.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-07-07",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35248",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Affaire pénale",
+    "L'avocat est-il obligatoire dans un procès pénal ?"
+  ],
+  "introduction": "L'avocat n'est pas toujours obligatoire en matière pénale. Dans certaines procédures, la loi l'impose notamment pour les mineurs. Même quand l'avocat n'est pas obligatoire, le prévenu, la victime ou la partie civile peuvent être assistés par ce professionnel. Nous vous présentons les différentes situations.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de procédure pénale : articles 114 à 121",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000006167425/#LEGISCTA000006167425"
+    },
+    {
+      "titre": "Code de procédure pénale : article 274",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006576111/"
+    },
+    {
+      "titre": "Code de procédure pénale : article 317",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006576192/"
+    },
+    {
+      "titre": "Code de procédure pénale : articles 389 à 392-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006182902/"
+    },
+    {
+      "titre": "Code de procédure pénale : articles 393 à 397-7",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000006182903/"
+    },
+    {
+      "titre": "Code de procédure pénale : articles 406 à 417",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006182905/#:~:text=L'avocat%20du%20pr%C3%A9venu%2C%20qui,ult%C3%A9rieure%20en%20ordonnant%20cette%20comparution."
+    },
+    {
+      "titre": "Code de procédure pénale : articles 418 à 426",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006182906/"
+    },
+    {
+      "titre": "Code de procédure pénale : articles 495-7 à 495-16",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006167486/"
+    },
+    {
+      "titre": "Code de procédure pénale : articles 496 à 509-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000006167487/#LEGISCTA000006167487"
+    },
+    {
+      "titre": "Code de procédure pénale : articles 567 à 574-2",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000006151911/"
+    },
+    {
+      "titre": "Code de procédure pénale : articles 706-47 à 706-53-22",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000006138130/#LEGISCTA000006138130"
+    },
+    {
+      "titre": "Code de procédure pénale : article 706-50",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027811160/"
+    },
+    {
+      "titre": "Code de la justice pénale des mineurs : articles L12-1 à L12-6",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000039087877/2021-09-30"
+    },
+    {
+      "titre": "Code de la justice pénale des mineurs : articles L413-1 à L413-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000039086952/LEGISCTA000039088189/#LEGISCTA000039088189"
+    },
+    {
+      "titre": "Code de la justice pénale des mineurs : articles L412-1 à L412-2",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000039086952/LEGISCTA000039088183/"
+    },
+    {
+      "titre": "Loi n°91-647 du 10 juillet 1991 relative à l'aide juridique",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000537611/2025-05-13/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demande d'aide juridictionnelle (formulaire)",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/16146",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Demander la désignation d’un avocat commis d’office",
+      "url": "",
+      "type": "lettreTypeNG"
+    }
+  ],
+  "contacts": [
+    "Barreau des avocats"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "l-avocat-est-il-obligatoire-dans-un-proces-penal",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "affaire-penale",
+      "titre": "Affaire pénale"
+    }
+  ]
+}

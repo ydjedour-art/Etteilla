@@ -1,0 +1,54 @@
+{
+  "id": "F32768",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quelles sont les obligations du salarié dont le contrat de travail est suspendu ?",
+  "theme": "Travail - Formation",
+  "description": "Un salarié dont le contrat de travail est suspendu ne peut pas travailler.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-04-10",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F32768",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Contrats de travail dans le secteur privé",
+    "Quelles sont les obligations du salarié dont le contrat de travail est suspendu ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Pendant la suspension temporaire de son contrat de travail (arrêt maladie, congé de maternité ou congé d'adoption, par exemples), le salarié ne pas peut travailler.",
+        "Durant la suspension de son contrat de travail, le salarié doit respecter une obligation de loyauté envers son employeur.",
+        "Cette obligation dite de loyauté n'est pas définie par le code du travail. Toutefois, la jurisprudence a précisé que le salarié dont le contrat de travail est suspendu doit respecter toutes les conditions suivantes :",
+        "• Le salarié ne peut pas travailler pour un concurrent de son employeur pendant la suspension de son contrat de travail",
+        "• Le salarié doit respecter une obligation de discrétion vis-à-vis de son employeur (il n'a pas le droit notamment de divulguer des données confidentielles de l'entreprise auxquelles il a accès, secret de fabrication de l’entreprise, par exemple).",
+        "S'il ne respecte pas ces obligations, le salarié peut être licencié."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code du travail : articles L1222-1 à L1222-5",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006189417"
+    },
+    {
+      "titre": "Code du travail : article L1227-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006900992"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "quelles-sont-les-obligations-du-salarie-dont-le-contrat-de-travail-est-suspendu",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "contrats-de-travail-dans-le-secteur-prive",
+      "titre": "Contrats de travail dans le secteur privé"
+    }
+  ]
+}

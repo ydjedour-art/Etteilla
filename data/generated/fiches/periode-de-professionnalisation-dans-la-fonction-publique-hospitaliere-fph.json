@@ -1,0 +1,128 @@
+{
+  "id": "F3063",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Période de professionnalisation dans la fonction publique hospitalière (FPH)",
+  "theme": "Travail - Formation",
+  "description": "La période de professionnalisation peut permettre l'accès à un emploi exigeant des compétences nouvelles ou correspondant à une autre activité professionnelles.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-08-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F3063",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Formation professionnelle dans la fonction publique",
+    "Période de professionnalisation dans la fonction publique hospitalière (FPH)"
+  ],
+  "introduction": "Vous êtes agent public hospitalier et souhaitez accéder à un emploi demandant des compétences nouvelles ou correspondant à des activités professionnelles différentes ? La période de professionnalisation peut vous permettre de réaliser ce projet au sein de l'administration. Elle intègre des phases de service et de formation. La période de professionnalisation peut être engagée à la demande de votre établissement ou à votre initiative. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Qui peut bénéficier de la période de professionnalisation dans la FPH ?",
+      "contenu": [
+        "Vous pouvez bénéficier d'une période de professionnalisation si vous êtes titulaire (fonctionnaire) ou non titulaire (contractuel) dans la fonction publique hospitalière."
+      ]
+    },
+    {
+      "titre": "En quoi consiste la période de professionnalisation dans la FPH ?",
+      "contenu": [
+        "Ce dispositif implique des périodes de service et de formation. Il s'agit donc d'alternance.",
+        "Cette alternance doit permettre la réalisation au sein de l'administration d'un projet professionnel.",
+        "Ce projet vise à accéder à un emploi exigeant des compétences nouvelles ou correspond à des activités professionnelles différentes.",
+        "Si vous êtes fonctionnaire en activité, la période de professionnalisation peut aussi vous permettre d'accéder à un autre corps de la fonction publique hospitalière de même niveau et de même catégorie pour exercer de nouvelles fonctions.",
+        "La période de professionnalisation est adaptée aux spécificités de l'emploi auquel vous vous destinez. Elle peut se dérouler dans un emploi différent de votre affectation antérieure."
+      ]
+    },
+    {
+      "titre": "Combien de temps dure une période de professionnalisation dans la FPH ?",
+      "contenu": [
+        "Vous pouvez bénéficier d'une période de professionnalisation d'une durée entre 3 mois et 12 mois (1 an)."
+      ]
+    },
+    {
+      "titre": "Qui met en place une période de professionnalisation dans la FPH ?",
+      "contenu": [
+        "La période de professionnalisation peut être engagée :",
+        "• À la demande de votre établissement hospitalier",
+        "• Ou à votre initiative."
+      ]
+    },
+    {
+      "titre": "Faut-il motiver le refus d’une période de professionnalisation dans la FPH ?",
+      "contenu": [
+        "Oui, l’établissement hospitalier doit motiver le rejet de la demande d’un agent de réaliser une période de professionnalisation.",
+        "[À savoir] Seuls 2 % du nombre total d'agents du service ou pôle concerné peuvent être admis en période de professionnalisation, sauf décision contraire du chef d'établissement. Si le service ou le pôle compte moins de 50 agents, l'acceptation d'une période de professionnalisation peut être reportée si un autre agent en bénéficie déjà."
+      ]
+    },
+    {
+      "titre": "Comment se déroule une période de professionnalisation dans la FPH ?",
+      "contenu": [
+        "Elle peut se dérouler pendant et/ou hors temps de travail :",
+        "• À votre initiative dans le cadre du compte personnel de formation (CPF)",
+        "• À l'initiative de votre établissement hospitalier.",
+        "Le nombre d'heures en dehors du temps de travail ne peut pas dépasser 50 par an."
+      ]
+    },
+    {
+      "titre": "Comment se formalise la période de professionnalisation dans la FPH ?",
+      "contenu": [
+        "Le départ en formation donne lieu à une convention entre vous et votre établissement hospitalier.",
+        "Cette convention précise les points suivants :",
+        "• Fonctions qui pourront vous être confiées si vous avez été assidu et avez satisfait aux évaluations",
+        "• Durée de la période de professionnalisation",
+        "• Qualifications à acquérir",
+        "• Actions de formation prévues."
+      ]
+    },
+    {
+      "titre": "La rémunération de l’agent hospitalier est-elle maintenue pendant la période de professionnalisation ?",
+      "contenu": [
+        "Oui. Votre rémunération est maintenue pendant la période de professionnalisation."
+      ]
+    },
+    {
+      "titre": "Quelles sont les conséquences après une période de professionnalisation dans la FPH ?",
+      "contenu": [
+        "Après la période de professionnalisation et après avoir réussi une évaluation, votre détachement dans le corps d'accueil est prononcé.",
+        "Après 2 années de services effectifs dans cette position de détachement, vous êtes, sur votre demande, intégré dans le corps d'accueil."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général de la fonction publique : article L115-4",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044427923/"
+    },
+    {
+      "titre": "Code général de la fonction publique : article L422-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044426268/"
+    },
+    {
+      "titre": "Code général de la fonction publique : articles R422-145 à R422-155",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000054076870/2026-08-01"
+    },
+    {
+      "titre": "Arrêté du 3 septembre 2010 relatif à l'évaluation de la période de professionnalisation pour les agents de la fonction publique hospitalière",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000022818715/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Association nationale pour la formation du personnel hospitalier (ANFH)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Période de professionnalisation",
+      "url": "https://www.anfh.fr/se-former-dans-la-fph/la-periode-de-professionnalisation"
+    }
+  ],
+  "slug": "periode-de-professionnalisation-dans-la-fonction-publique-hospitaliere-fph",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "formation-professionnelle-dans-la-fonction-publique",
+      "titre": "Formation professionnelle dans la fonction publique"
+    }
+  ]
+}

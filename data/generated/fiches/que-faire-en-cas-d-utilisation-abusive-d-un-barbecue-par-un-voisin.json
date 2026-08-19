@@ -1,0 +1,61 @@
+{
+  "id": "F1176",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Que faire en cas d'utilisation abusive d'un barbecue par un voisin ?",
+  "theme": "Logement",
+  "description": "L'utilisation occasionnelle d'un barbecue ne constitue pas un trouble anormal de voisinage, mais elle peut être réglementée dans certains cas.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-06-23",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1176",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Troubles de voisinage",
+    "Que faire en cas d'utilisation abusive d'un barbecue par un voisin ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "En principe, l'utilisation occasionnelle d'un barbecue par un voisin n'est pas interdite. Cette utilisation devient abusive si elle constitue un trouble anormal de voisinage ou un abus du droit de copropriété. Dans ce cas, elle peut être sanctionnée.",
+        "Il faut néanmoins différencier l'utilisation d'un barbecue en maison individuelle et dans un immeuble en copropriété."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la santé publique : articles L1422-1 et L1422-2",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000045212752"
+    },
+    {
+      "titre": "Code civil : article 1253",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006437138"
+    },
+    {
+      "titre": "Code civil : article 544",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006428859"
+    },
+    {
+      "titre": "Loi n°65-557 du 10 juillet 1965 : article 18",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044074302"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)",
+    "Maison de justice et du droit"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "que-faire-en-cas-d-utilisation-abusive-d-un-barbecue-par-un-voisin",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "troubles-de-voisinage",
+      "titre": "Troubles de voisinage"
+    }
+  ]
+}

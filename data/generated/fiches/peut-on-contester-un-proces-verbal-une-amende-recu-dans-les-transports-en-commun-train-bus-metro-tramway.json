@@ -1,0 +1,65 @@
+{
+  "id": "F31852",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Peut-on contester un procès-verbal (une amende) reçu dans les transports en commun (train, bus, métro, tramway...) ?",
+  "theme": "Transports - Mobilité",
+  "description": "Un procès-verbal (une amende) établi dans les transports en commun (bus, métro, train, tramway...) peut être contesté s’il a été dressé à tort",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-07-21",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31852",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Cartes de transport",
+    "Peut-on contester un procès-verbal (une amende) reçu dans les transports en commun (train, bus, métro, tramway...) ?"
+  ],
+  "introduction": "Oui, vous pouvez contester un procès-verbal (amende) reçu dans les transports en commun (bus, métro, train, tramway...) si vous estimez qu’il a été établi à tort, notamment lorsque l’absence de présentation du titre de transport était sans intention de frauder.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Par exemple, vous disposiez d’un titre de transport valide enregistré sur votre téléphone, mais l’extinction imprévue de celui-ci vous a empêché de le présenter lors du contrôle.",
+        "Vous disposez d’un délai de 3 mois pour adresser une réclamation au service clientèle du transporteurLa demande doit être envoyée par lettre recommandée avec avis de réception.",
+        "Si vous n'êtes pas satisfait de la réponse ou si vous n'obtenez pas de réponse dans un délai de 1 mois, vous pouvez saisir le médiateur de la compagnie.",
+        "Par exemple, pour la Société nationale des chemins de fer français (SNCF), vous pouvez saisir le médiateur de la SNCF.",
+        "Pour la Régie autonome des transports parisiens (RATP) ou pour l’une de ses filiales (par exemple RATP Dev, RATP Cap Île-de-France), vous pouvez saisir le médiateur de la RATP en ligne :",
+        "Saisir le médiateur de la RATP",
+        "[À savoir] Le recouvrement du procès-verbal est suspendu durant la médiation."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Réponse ministérielle du 11 août 2020 relative à la majoration des titres de transports",
+      "url": "http://questions.assemblee-nationale.fr/q15/15-24479QE.htm"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Saisir le médiateur de la RATP",
+      "url": "https://www.ratp.fr/mediateur/faire-une-demande-de-mediation",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "SNCF",
+    "RATP"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Litiges formés à la suite de verbalisation (RATP)",
+      "url": "https://www.ratp.fr/mediateur/la-demande-de-mediation/quand"
+    }
+  ],
+  "slug": "peut-on-contester-un-proces-verbal-une-amende-recu-dans-les-transports-en-commun-train-bus-metro-tramway",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "cartes-de-transport",
+      "titre": "Cartes de transport"
+    }
+  ]
+}

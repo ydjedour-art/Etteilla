@@ -1,0 +1,68 @@
+{
+  "id": "F783",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Calcul de l'intérêt légal",
+  "theme": "Justice",
+  "description": "Si une personne, condamnée judiciairement à payer une somme, paie avec retard, elle doit payer des intérêts légaux en plus.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-07-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F783",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Saisies et recouvrements",
+    "Calcul de l'intérêt légal"
+  ],
+  "introduction": "Lorsqu'une décision de justice impose à une personne de payer une somme et que cette personne paie la somme avec retard, elle doit payer des intérêts légaux en plus. Le montant total à payer varie selon les conditions prévues par le jugement, la date du paiement effectif de la somme due et la valeur du taux d'intérêt légal. Nous vous exposons la règlementation à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Il existe 2 types d'intérêts légaux :",
+        "• Le taux d'intérêt légal simple, qui est utilisé quand la somme due est versée dans les 2 mois suivant la date d'application du jugement",
+        "• Le taux d'intérêt légal majoré, qui est utilisé dans les autres cas. Depuis 2015, le taux majoré correspond au taux d'intérêt légal simple, augmenté de 5 points."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code monétaire et financier : articles L313-2 et L313-3",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072026/LEGISCTA000006193925/"
+    },
+    {
+      "titre": "Code monétaire et financier : article D313-1-A",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072026/LEGISCTA000019266318"
+    },
+    {
+      "titre": "Code civil : articles 1231 à 1231-7",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000032009929/#LEGISCTA000032009929"
+    },
+    {
+      "titre": "Code de procédure civile : article 641",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411002/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Les taux d’intérêt légal de 2008 à 2022",
+      "url": "https://www.banque-france.fr/fr/publications-et-statistiques/statistiques/taux-interet-legal"
+    },
+    {
+      "titre": "Le taux de l'usure : qu’est-ce que c’est ?",
+      "url": "https://www.banque-france.fr/fr/a-votre-service/particuliers/connaitre-pratiques-bancaires-assurance/credit/taux-usure"
+    }
+  ],
+  "slug": "calcul-de-l-interet-legal",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "saisies-et-recouvrements",
+      "titre": "Saisies et recouvrements"
+    }
+  ]
+}

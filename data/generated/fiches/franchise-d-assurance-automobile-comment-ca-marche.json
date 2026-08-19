@@ -1,0 +1,51 @@
+{
+  "id": "F2706",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Franchise d'assurance automobile : comment ça marche ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "La franchise est la somme qui reste à la charge de l'assuré à la suite d'un sinistre et ne sera donc pas remboursée par l'assureur.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-04-14",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2706",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Assurance automobile (véhicule)",
+    "Franchise d'assurance automobile : comment ça marche ?"
+  ],
+  "introduction": "Si votre véhicule est impliqué dans un sinistre, votre assurance ne couvrira pas toujours l'intégralité des dommages. La part des frais restant à votre charge après l'indemnisation de l'assureur s'appelle la franchise. L'application d'une franchise dépend des conditions définies dans votre contrat d'assurance (montant, situation dans laquelle elle est due,...). Il existe plusieurs sortes de franchises qui varient selon le type de sinistre et les garanties souscrites.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les informations diffèrent selon qu’il s’agit d’un sinistre classique ou d’une catastrophe naturelle, car dans ce second cas, c’est la loi (et non seulement le contrat) qui fixe les règles d’indemnisation et la franchise."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code des assurances : articles L121-1 à L121-17",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006157222"
+    },
+    {
+      "titre": "Code des assurances : articles A125-2 à A125-6-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073984/LEGISCTA000006156960"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Info Banque - Assurance"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "franchise-d-assurance-automobile-comment-ca-marche",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "assurance-automobile-vehicule",
+      "titre": "Assurance automobile (véhicule)"
+    }
+  ]
+}

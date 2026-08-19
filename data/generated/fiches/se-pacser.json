@@ -1,0 +1,124 @@
+{
+  "id": "F1618",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Se pacser",
+  "theme": "Famille - Scolarité",
+  "description": "Le Pacs est ouvert aux couples de même sexe ou de sexe différent. Les partenaires doivent remplir des conditions, rédiger une convention et enregistrer le Pacs.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-10",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1618",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Pacte civil de solidarité (Pacs)",
+    "Se pacser"
+  ],
+  "introduction": "Vous voulez conclure un pacte civil de solidarité (Pacs) ? C’est possible que vous soyez en couple de même sexe ou de sexe différent, et quelle que soit votre nationalité. Le Pacs est un contrat (aussi appelé convention), signé par vous deux, qui organise votre vie commune (participation aux charges communes, etc.). Votre Pacs doit être enregistré (gratuit) en mairie ou, si vous résidez à l’étranger, dans une ambassade ou un consulat. Vous pouvez aussi faire appel à un notaire (payant). Nous vous guidons dans les étapes de votre démarche.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code civil : articles 515-1 à 515-7-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006136536/"
+    },
+    {
+      "titre": "Décret n°2006-1806 du 23 décembre 2006 relatif à la déclaration, la modification, la dissolution et la publicité du Pacs",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006055164"
+    },
+    {
+      "titre": "Décret n°2012-966 du 20 août 2012 sur l'enregistrement de la déclaration, modification et dissolution du Pacs reçu par notaire",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000026304871"
+    },
+    {
+      "titre": "Arrêté du 21 décembre 2017 relatif au téléservice de dépôt de dossier de conclusion de pacte civil de solidarité (PACS)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000036267080"
+    },
+    {
+      "titre": "Circulaire du 10 mai 2017 relative au transfert des Pacs aux officiers d'état civil",
+      "url": "http://www.textes.justice.gouv.fr/art_pix/JUSC1711700C.pdf"
+    },
+    {
+      "titre": "Règlement de l'Union européenne (UE) du 6 juillet 2016 visant à favoriser la libre circulation des citoyens et simplifiant les conditions de présentation de certains documents publics dans l'UE",
+      "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32016R1191"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Déclaration conjointe d'un pacte civil de solidarité (Pacs) et attestations sur l'honneur de non-parenté, non-alliance et résidence commune",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_15725.do",
+      "type": "formulaireNG"
+    },
+    {
+      "titre": "Vérifier les documents à fournir pour se pacser",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/ListeDocumentsPourUnPacs",
+      "type": "simulateurNG"
+    },
+    {
+      "titre": "Convention-type de pacte civil de solidarité (Pacs)",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_15726.do",
+      "type": "formulaireNG"
+    },
+    {
+      "titre": "Vérifier s’il faut fournir un acte de naissance dans un dossier de Pacs ou de mariage",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/ActeNaissance",
+      "type": "simulateurNG"
+    },
+    {
+      "titre": "Demander une copie ou un extrait d'acte d'état civil à l'Ofpra si l’on est réfugié, apatride ou sous protection subsidiaire",
+      "url": "https://www.ofpra.gouv.fr/demander-un-acte",
+      "type": "selNG"
+    },
+    {
+      "titre": "Demander un certificat de non-Pacs pour le partenaire étranger né à l'étranger",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_12819.do",
+      "type": "formulaireNG"
+    },
+    {
+      "titre": "Déposer une pré-demande de Pacs",
+      "url": "https://demarches.service-public.gouv.fr/mademarche/demarcheGenerique/?codeDemarche=depotDossierPACS",
+      "type": "selNG"
+    },
+    {
+      "titre": "Demander une attestation de Pacs pour un étranger né à l'étranger",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/DemanderUneAttestationDePacsEtranger",
+      "type": "lettreTypeNG"
+    }
+  ],
+  "contacts": [
+    "Mairie",
+    "Ambassade ou consulat français à l'étranger",
+    "Notaire"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Couples en Europe",
+      "url": "https://www.coupleseurope.eu/fr/"
+    },
+    {
+      "titre": "Obtenir un certificat de non-Pacs",
+      "url": "https://www.diplomatie.gouv.fr/fr/services-aux-francais/etat-civil-et-nationalite-francaise/etat-civil/article/obtenir-un-certificat-de-non-pacs"
+    },
+    {
+      "titre": "Mes documents relèvent-ils de la légalisation, de l’apostille ou d’une dispense ?",
+      "url": "https://www.notaires.fr/fr/media/1539"
+    },
+    {
+      "titre": "Démarches en ligne pour une personne protégée par l’Ofpra",
+      "url": "https://www.ofpra.gouv.fr/demarches-en-ligne-bpi"
+    },
+    {
+      "titre": "Le service public d’information pour les personnes réfugiées",
+      "url": "https://refugies.info/"
+    }
+  ],
+  "slug": "se-pacser",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "pacte-civil-de-solidarite-pacs",
+      "titre": "Pacte civil de solidarité (Pacs)"
+    }
+  ]
+}

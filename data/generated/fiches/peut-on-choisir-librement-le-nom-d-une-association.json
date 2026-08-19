@@ -1,0 +1,77 @@
+{
+  "id": "F31494",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Peut-on choisir librement le nom d'une association ?",
+  "theme": "Associations, fondations et fonds de dotation",
+  "description": "Les fondateurs d'une association peuvent librement choisir son nom. Mais il n'est pas possible d'utiliser un nom protégé ou objet d'un droit exclusif notamment.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-07-18",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31494",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Associations, fondations et fonds de dotation",
+    "Création d'une association",
+    "Peut-on choisir librement le nom d'une association ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "En principe, les fondateurs peuvent librement choisir le nom de l'association.",
+        "Cependant, il faut vérifier que le nom envisagé pour l'association n'est pas déjà utilisé.",
+        "Le nom choisi ne doit pas dépasser 250 caractères pour pouvoir être publié au JOAFE.",
+        "Il peut être suivi d'un sigle (par exemple : Société protectrice des animaux - SPA). Toutefois, l'utilisation d'un sigle seul est déconseillée.",
+        "Il est possible d'utiliser les intitulés suivants :",
+        "• Association",
+        "• Amicale",
+        "• Club",
+        "• Ligue",
+        "• Cercle",
+        "• Mouvement",
+        "• Syndicat",
+        "• Société.",
+        "Lorsque plusieurs associations se réunissent, elles peuvent être appelées union, fédération, confédération ou encore groupe (par exemple, la Confédération nationale des radios associatives).",
+        "[À savoir] À l'exception des fédérations sportives agréées à la date du 16 juillet 1992, seules les fédérations sportives délégataires peuvent utiliser l'appellation \"Fédération française de\" ou \"Fédération nationale de\".",
+        "Il est possible d'utiliser un nom faisant référence à l'activité de l'association (association sportive de ..., association culturelle de ...).",
+        "Il est également possible d'utiliser une dénomination faisant référence au nom d'une personne physique (exemple : association Jean Monnet). Toutefois, il faut une autorisation sauf si le nom est tombé dans le domaine public.",
+        "Il est également possible d'utiliser un nom de pure fantaisie.",
+        "Les fondateurs de l'association ne peuvent pas choisir, comme dénomination, un nom protégé. Ainsi il n'est pas possible d'utiliser :",
+        "• Une marque enregistrée auprès de l'Institut national de la propriété industrielle (Inpi)",
+        "• Une appellation d'origine (c'est-à-dire la dénomination d'un pays, d'une région ou d'une localité servant à désigner un produit qui en est originaire), telle que par exemple Laguiole",
+        "• Le nom de famille d'un particulier sans son accord (sauf s'il s'agit de celui l'un des fondateurs avec son accord)",
+        "• Un terme correspondant à une qualification ou un titre dont l'usage est réservé à certaines personnes physiques ou morales tel que par exemple, les appellations fondation, fondation d'entreprise ou mutuelle.",
+        "[À noter] Pour protéger le nom de l'association, il faut s'adresser à l'Inpi.",
+        "Une association ne peut pas choisir un nom déjà pris par une autre association ou une autre personne morale, dès lors qu'il s'agit d'une dénomination originale. Le caractère original d'un nom est déterminé par le juge judiciaire.",
+        "Le nom choisi par une association ne doit pas porter à confusion avec le nom d'une autre personne physique ou morale (privée ou publique), notamment du fait de l'utilisation de mots similaires.",
+        "La confusion est évaluée au regard de la perception du public, notamment selon l’activité, la notoriété, et l’usage effectif."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la propriété intellectuelle : article L713-6",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039381590/"
+    },
+    {
+      "titre": "Code de la propriété intellectuelle : article L722-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028748219/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Point ressource à la vie associative"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "peut-on-choisir-librement-le-nom-d-une-association",
+  "path": [
+    {
+      "slug": "associations-fondations-et-fonds-de-dotation",
+      "titre": "Associations, fondations et fonds de dotation"
+    },
+    {
+      "slug": "creation-d-une-association",
+      "titre": "Création d'une association"
+    }
+  ]
+}

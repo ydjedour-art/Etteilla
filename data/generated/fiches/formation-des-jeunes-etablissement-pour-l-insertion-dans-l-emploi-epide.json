@@ -1,0 +1,134 @@
+{
+  "id": "F1190",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Formation des jeunes : établissement pour l'insertion dans l'emploi (Épide)",
+  "theme": "Famille - Scolarité",
+  "description": "Les centres Établissement public pour l'insertion dans l'emploi (Épide) aident les jeunes sans diplômes à s'insérer dans le monde du travail.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1190",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Parcours éducatifs alternatifs",
+    "Formation des jeunes : établissement pour l'insertion dans l'emploi (Épide)"
+  ],
+  "introduction": "Vous avez entre 17 et 25 ans, vous êtes sans diplôme ou qualification professionnelle et vous rencontrez des difficultés à trouver un travail ou une formation ? Vous pouvez, sous conditions, intégrer un établissement pour l'insertion dans l'emploi (Épide). Cette structure vous accompagne, pendant une durée de 8 mois environ, pour faciliter votre insertion professionnelle. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Qu'est-ce qu'un Épide ?",
+      "contenu": [
+        "Les centres Épide vous proposent un accompagnement pour faciliter votre insertion professionnelle.",
+        "Il existe 20 centres Épide répartis dans toute la France :",
+        "[À savoir] Dans les départements et collectivités d'outre-mer où il n'existe pas de centre Épide, un parcours de formation comparable, appelé le service militaire adapté (SMA), peut être réalisé.",
+        "Si vous décidez de vous engager dans un parcours Épide, vous devez signer un contrat de volontariat pour l'insertion. Ce contrat n'est pas un contrat de travail."
+      ]
+    },
+    {
+      "titre": "Qui peut suivre une formation dans un Épide ?",
+      "contenu": [
+        "Vous pouvez candidater au dispositif si vous remplissez toutes les conditions suivantes :",
+        "• Vous avez entre 17 et 25 ans",
+        "• Vous êtes de nationalité française ou étrangère (en situation régulière depuis plus d'1 an avec autorisation de travailler)",
+        "• Vous avez un niveau maximum CAP ou BEP ou vous avez abandonné le lycée avant le bac",
+        "• Vous avez effectué ou effectuez prochainement votre journée défense et citoyenneté (JDC)",
+        "• Vous ne parvenez pas à trouver un emploi."
+      ]
+    },
+    {
+      "titre": "Quel programme est proposé dans un Épide ?",
+      "contenu": [
+        "Le parcours de l'Épide peut inclure les activités suivantes :",
+        "• Mise en place d'un projet professionnel en rapport avec vos goûts et capacités",
+        "• Formations en rapport avec un métier envisagé",
+        "• Préparation au permis de conduire pour faciliter l'entrée dans la vie professionnelle",
+        "• Activités sportives",
+        "• Actions de solidarité.",
+        "Les centres vous accueillent en internat et imposent une discipline et un règlement intérieur stricts."
+      ]
+    },
+    {
+      "titre": "Comment s'inscrire dans un Épide ?",
+      "contenu": [
+        "Vous pouvez déposer votre candidature en ligne en utilisant un téléservice :",
+        "Candidature à un centre Épide",
+        "Vous pouvez aussi contacter directement un centre Épide pour candidater :"
+      ]
+    },
+    {
+      "titre": "Comment se passe la sélection pour intégrer un Épide ?",
+      "contenu": [
+        "Le centre dans lequel vous avez candidaté vous convoque à une journée de préadmission. Vous devez passer et réussir un entretien. Il est destiné à évaluer votre motivation.",
+        "Si vous êtes sélectionné, vous êtes convoqué à une journée d'admission."
+      ]
+    },
+    {
+      "titre": "Quels frais sont pris en charge pendant la formation en Épide ?",
+      "contenu": [
+        "L'hébergement et la restauration sont gratuits. En revanche, vous devez prendre en charge les frais de transports.",
+        "Les frais de maladie, maternité et invalidité sont pris en charge."
+      ]
+    },
+    {
+      "titre": "Quelle rémunération pendant la formation en Épide ?",
+      "contenu": [
+        "Vous percevez une allocation de 460 € par mois. Elle est non imposable.",
+        "Une prime de 106,17 € par mois vous est également versée si vous trouvez un emploi durable ou une formation qualifiante après avoir quitté l'Épide. Vous percevez cette prime 3 mois après la fin de votre parcours."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code du service national : articles L130-1 à L130-5",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006151650"
+    },
+    {
+      "titre": "Décret n°2005-885 du 2 août 2005 relatif au volontariat pour l'insertion et au contrat de service en Épide",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000262738"
+    },
+    {
+      "titre": "Décret n°2005-886 du 2 août 2005 relatif à la discipline générale s'appliquant aux volontaires en Épide",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000262900"
+    },
+    {
+      "titre": "Décret n°2005-888 du 2 août 2005 relatif à l'allocation et à la prime versées aux volontaires pour l'insertion en Épide",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000810761"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Candidature à un centre Épide",
+      "url": "https://api.api-engagement.beta.gouv.fr/r/campaign/67a240c6a04a314a4d42cbe9",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Formulaire de candidature à un centre Épide",
+      "url": "https://jeune.epide.fr/deposer-ma-candidature/",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Établissement public d'insertion dans l'emploi"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Service militaire adapté (SMA)",
+      "url": "http://www.le-sma.com/"
+    },
+    {
+      "titre": "Site de l'Épide",
+      "url": "http://www.epide.fr/"
+    }
+  ],
+  "slug": "formation-des-jeunes-etablissement-pour-l-insertion-dans-l-emploi-epide",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "parcours-educatifs-alternatifs",
+      "titre": "Parcours éducatifs alternatifs"
+    }
+  ]
+}

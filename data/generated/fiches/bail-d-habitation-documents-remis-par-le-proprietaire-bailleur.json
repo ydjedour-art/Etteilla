@@ -1,0 +1,103 @@
+{
+  "id": "F2066",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Bail d’habitation : documents remis par le propriétaire (bailleur)",
+  "theme": "Logement",
+  "description": "La liste des documents que le propriétaire (ou l’agent immobilier) doit remettre au locataire est différente selon que le logement est loué vide ou loué meublé.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-03-06",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2066",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Bail d’habitation : obligations du propriétaire (bailleur)",
+    "Bail d’habitation : documents remis par le propriétaire (bailleur)"
+  ],
+  "introduction": "Lorsque le logement est la résidence principale du locataire, le propriétaire (ou l’agent immobilier) de ce logement a l’obligation de remettre certains documents au locataire durant le bail. La liste de ces documents est différente selon que le logement est loué vide ou loué meublé. Nous vous présentons la règlementation.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 3",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039369598/"
+    },
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 3-3",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043978254"
+    },
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 3-4",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049395050"
+    },
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 6-2",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042120464"
+    },
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 6-3",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000046782366"
+    },
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 21",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000028806698/"
+    },
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 23",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000041587263/"
+    },
+    {
+      "titre": "Arrêté du 27 août 2012 sur la fixation individuelle de la quantité de chaleur et froid et à la répartition des frais de chauffage et refroidissement en immeuble collectif d'habitation ou à usage mixte",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000026344847/"
+    },
+    {
+      "titre": "Décret n°2016-382 du 30 mars 2016 sur l'établissement de l'état des lieux et la prise en compte de la vétusté des logements loués à usage de résidence principale",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000032320564/"
+    },
+    {
+      "titre": "Arrêté du 29 mai 2015 relatif au contenu de la notice d'information annexée aux contrats de location de logement à usage de résidence principale",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000030649902/"
+    },
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 25-10",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000028779195/"
+    },
+    {
+      "titre": "Arrêté du 13 décembre 2017 sur la notice d'information relative aux obligations du bailleur et aux voies de recours et d'indemnisation du locataire",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000036236664/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demander une quittance de loyer au propriétaire, à l’agence immobilière ou au bailleur social",
+      "url": "https://www.inc-conso.fr/content/vous-demandez-une-quittance-de-loyer-votre-proprietaire",
+      "type": "lettreTypeNG"
+    }
+  ],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Contenu de la notice d'information à annexer au bail (logement vide ou meublé)",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000030649902"
+    },
+    {
+      "titre": "Logement vide : notice d'information à joindre au congé pour vendre ou habiter",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000036236664#JORFARTI000036236675"
+    },
+    {
+      "titre": "Interdiction de location et gel des loyers des passoires énergétiques",
+      "url": "https://www.ecologie.gouv.fr/interdiction-location-et-gel-des-loyers-des-passoires-energetiques"
+    }
+  ],
+  "slug": "bail-d-habitation-documents-remis-par-le-proprietaire-bailleur",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "bail-d-habitation-obligations-du-proprietaire-bailleur",
+      "titre": "Bail d’habitation : obligations du propriétaire (bailleur)"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "id": "F23512",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quelles sont les orientations possibles après la classe de troisième ?",
+  "theme": "Famille - Scolarité",
+  "description": "L'élève va devoir choisir une des 3 voies d'orientation possibles après le collège : 2nd générale et technologique, 2nd professionnelle, CAP - 1re année.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-10-20",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F23512",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Collège et lycée",
+    "Quelles sont les orientations possibles après la classe de troisième ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "Seconde générale et technologique",
+      "contenu": [
+        "En seconde générale, votre enfant pourra choisir, en plus des enseignements du tronc commun, des enseignements optionnels. Par exemple, création et culture design, biotechnologies.",
+        "Il devra choisir à la fin de la classe de seconde les spécialités du bac qu'il va préparer.",
+        "Pour l'aider dans ses choix, il bénéficiera de 2 heures d'accompagnement personnalisé.",
+        "La formation se déroule en 3 ans (avec l’année de seconde) pour un bac général ou un bac technologique.",
+        "[À noter] Certains diplômes technologiques se préparent à partir d'une seconde spécifique. C'est le cas des baccalauréats technologiques Sciences et technologies de l'hôtellerie et de la restauration (STHR) et Techniques de la musique et de la danse (TMD). C'est aussi le cas des brevets de techniciens (BT) dessinateur en arts appliqués et des métiers de la musique."
+      ]
+    },
+    {
+      "titre": "Seconde professionnelle",
+      "contenu": [
+        "La seconde professionnelle permet à votre enfant de passer un bac professionnel après 3 années de formation.",
+        "Il existe environ 75 spécialités de baccalauréat professionnel. La formation comporte des enseignements généraux, professionnels et des périodes de formation en milieu professionnel.",
+        "Votre enfant bénéficie également d'un accompagnement personnalisé.",
+        "Il peut, sous certaines conditions, poursuivre une formation supérieure après avoir obtenu un de ces diplômes."
+      ]
+    },
+    {
+      "titre": "Certificat d'aptitude professionnel (CAP)",
+      "contenu": [
+        "Le CAP forme en 2 ans des jeunes à des techniques particulières pour exercer un métier déterminé.",
+        "La formation comporte des enseignements généraux, professionnels et technologiques et des périodes de formation en milieu professionnel.",
+        "Après avoir obtenu le diplôme, votre enfant peut aussi intégrer une classe de première professionnelle.",
+        "[À savoir] Votre enfant peut aussi obtenir le CAP par l'apprentissage."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'éducation : articles L331-7 et L331-8",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006182413"
+    },
+    {
+      "titre": "Code de l'éducation : article D334-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006151440"
+    },
+    {
+      "titre": "Code de l'éducation : articles D336-1 à D336-3",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006166856"
+    },
+    {
+      "titre": "Code de l'éducation : articles D337-1 à D337-4",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006182528"
+    },
+    {
+      "titre": "Code de l'éducation : articles D337-26 à D337-28",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006182532"
+    },
+    {
+      "titre": "Code de l'éducation : articles D337-55 à D337-66",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006182538"
+    },
+    {
+      "titre": "Code de l'éducation : articles D337-95 à D337-98",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006182541"
+    },
+    {
+      "titre": "Calendrier 2026 de l'orientation et de l'affectation des élèves, des épreuves de brevet, bac, CAP, BEP et BT",
+      "url": "https://www.education.gouv.fr/bo/2025/Hebdo36/MENE2525995N"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Centre d'information et d'orientation (CIO)",
+    "Établissement scolaire"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Que faire après la 3ème ?",
+      "url": "https://www.education.gouv.fr/reussir-au-lycee/que-faire-apres-la-troisieme-12506"
+    },
+    {
+      "titre": "Présentation des classes en lycée général",
+      "url": "https://www.education.gouv.fr/la-voie-generale-au-lycee-9749"
+    },
+    {
+      "titre": "Le baccalauréat professionnel",
+      "url": "http://eduscol.education.fr/cid47640/le-baccalaureat-professionnel.html"
+    },
+    {
+      "titre": "Le certificat d'aptitude professionnelle (CAP)",
+      "url": "https://eduscol.education.fr/1923/le-certificat-d-aptitude-professionnelle-cap"
+    }
+  ],
+  "slug": "quelles-sont-les-orientations-possibles-apres-la-classe-de-troisieme",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "college-et-lycee",
+      "titre": "Collège et lycée"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "F11370",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Voyage en avion : bagage perdu, retardé ou endommagé",
+  "theme": "Transports - Mobilité",
+  "description": "Si un bagage enregistré est retardé, perdu ou abîmé lors d'un voyage en avion, la compagnie aérienne doit vous indemniser.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2024-02-29",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F11370",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Voyage en avion",
+    "Voyage en avion : bagage perdu, retardé ou endommagé"
+  ],
+  "introduction": "Lors d'un voyage en avion, un de vos bagages est retardé, perdu ou abîmé ? La compagnie aérienne doit vous indemniser. Seuls les bagages enregistrés et envoyés en soute sont concernés. L'indemnisation dépend du pays dans lequel votre compagnie aérienne est établie. Nous vous indiquons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Convention de Montréal du 28 mai 1999 relative au transport aérien international",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000801353"
+    },
+    {
+      "titre": "Convention de Varsovie du 12 octobre 1929 pour l'unification de certain règles relatives au transport aérien international",
+      "url": "https://www.ecologie.gouv.fr/sites/default/files/Convention_Varsovie.pdf"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demander réparation auprès de la compagnie aérienne en cas de bagages abîmés",
+      "url": "https://www.inc-conso.fr/content/vos-bagages-enregistres-aupres-dune-compagnie-aerienne-europeenne-ont-ete-abimes",
+      "type": "Modèle de document"
+    },
+    {
+      "titre": "Saisir le médiateur Tourisme et Voyage",
+      "url": "https://mtv.travel/demande-saisine/",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "0809 540 550 DGCCRF - RéponseConso"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Guide pratique du voyage en avion, train",
+      "url": "https://www.inc-conso.fr/content/nos-conseils-pour-bien-voyager-avion-train"
+    },
+    {
+      "titre": "Liste des pays signataires de la Convention de Montréal",
+      "url": "https://www.icao.int/secretariat/legal/List%20of%20Parties/Mtl99_FR.pdf"
+    },
+    {
+      "titre": "Liste des pays ayant signé la Convention de Varsovie",
+      "url": "https://www.icao.int/secretariat/legal/List%20of%20Parties/WC-HP_FR.pdf"
+    },
+    {
+      "titre": "Perte ou détérioration des bagages",
+      "url": "https://www.ecologie.gouv.fr/faire-en-cas-perte-ou-deterioration-bagages"
+    },
+    {
+      "titre": "Droits des passagers voyageant avec une compagnie aérienne de l'Union européenne",
+      "url": "https://europa.eu/youreurope/citizens/travel/passenger-rights/air/index_fr.htm"
+    },
+    {
+      "titre": "Bagages en avion : restrictions et problèmes",
+      "url": "https://www.europe-consommateurs.eu/tourisme-transports/voyage-en-avion/bagages-en-avion.html"
+    },
+    {
+      "titre": "Problème avec une compagnie : démarches et formulaires",
+      "url": "https://www.europe-consommateurs.eu/tourisme-transports/voyage-en-avion/problemes-avec-une-compagnie-aerienne-demarches-et-formulaires.html"
+    }
+  ],
+  "slug": "voyage-en-avion-bagage-perdu-retarde-ou-endommage",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "voyage-en-avion",
+      "titre": "Voyage en avion"
+    }
+  ]
+}

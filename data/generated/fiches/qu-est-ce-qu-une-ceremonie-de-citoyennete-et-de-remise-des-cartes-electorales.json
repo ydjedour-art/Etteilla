@@ -1,0 +1,73 @@
+{
+  "id": "F13277",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Qu'est-ce qu'une cérémonie de citoyenneté et de remise des cartes électorales ?",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Durant cette cérémonie, le jeune de 18 ans nouvellement inscrit sur les listes électorales se voit remettre sa carte électorale (ou carte d'électeur).",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-09-30",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F13277",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Élections",
+    "Qu'est-ce qu'une cérémonie de citoyenneté et de remise des cartes électorales ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Cette cérémonie permet au maire de rencontrer chaque jeune de 18 ans nouvellement inscrit sur les listes électorales de sa commune.",
+        "Vous pouvez être invité à cette cérémonie lorsque vous avez atteint l'âge de 18 ans et que vous figurez sur les listes électorales :",
+        "• Parce que vous y avez été inscrit d'office, après avoir fait votre recensement citoyen",
+        "• Ou parce que vous vous y êtes inscrit volontairement",
+        "• Ou parce que vous vous êtes inscrit en tant que citoyen d'un autre État membre de l'Union européenne.",
+        "La cérémonie peut avoir lieu tout au long de l'année, en dehors des périodes de campagne électorale pour un scrutin concernant tout ou partie du territoire de la commune.",
+        "La mairie peut y convier le préfet et le président du tribunal judiciaire (ou leurs représentants).",
+        "Le discours du maire (ou d'un de ses adjoints) doit rappeler les principes fondamentaux de la République, de la démocratie et du système politique. La cérémonie doit faire le lien entre la remise de la carte électorale, le recensement militaire et la journée défense et citoyenneté (JDC).",
+        "Votre carte électorale (ou carte d'électeur) vous est remise.",
+        "[À noter] Pendant cette cérémonie, le maire agit comme agent de l'État et est astreint à un devoir de stricte neutralité.",
+        "Il n'est pas obligatoire d'y être présent. Si vous êtes absent :",
+        "• Soit vous serez invité à une prochaine cérémonie",
+        "• Soit votre carte électorale vous sera envoyée par courrier à votre domicile, au plus tard 3 jours avant le scrutin",
+        "• Soit votre carte électorale vous sera remise à votre bureau de vote, le jour de l'élection ou du référendum. Pour l'obtenir, vous devrez présenter une pièce d'identité.",
+        "[Attention] Il ne faut pas confondre cérémonie de citoyenneté et cérémonie d'accueil dans la citoyenneté française."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code électoral : articles R22 à R25",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070239/LEGISCTA000006164081/"
+    },
+    {
+      "titre": "Circulaire du 22 octobre 2013 relative à l'organisation de la cérémonie de citoyenneté",
+      "url": "https://www.aisne.gouv.fr/contenu/telechargement/9397/51305/file/circulaire_2013-35.pdf"
+    },
+    {
+      "titre": "Instruction INTA1830120J du 21 novembre 2018 relative à la tenue des listes électorales et des listes électorales complémentaires",
+      "url": "https://www.legifrance.gouv.fr/download/pdf/circ?id=44101"
+    },
+    {
+      "titre": "Addendum à l'instruction INTA1830120J du 21 novembre 2018 relative à la tenue des listes électorales complémentaires",
+      "url": "https://www.legifrance.gouv.fr/circulaire/id/45129?origin=list"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Mairie"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "qu-est-ce-qu-une-ceremonie-de-citoyennete-et-de-remise-des-cartes-electorales",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "elections",
+      "titre": "Élections"
+    }
+  ]
+}

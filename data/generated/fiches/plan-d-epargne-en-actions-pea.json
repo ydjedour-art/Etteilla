@@ -1,0 +1,83 @@
+{
+  "id": "F2385",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Plan d'épargne en actions (PEA)",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Le PEA est un produit d'épargne réglementé qui permet d'investir dans un portefeuille d'actions d'entreprises européennes.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-05-22",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2385",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Livrets, plans et comptes d'épargne",
+    "Plan d'épargne en actions (PEA)"
+  ],
+  "introduction": "Vous souhaitez faire fructifier votre épargne dans la durée, en bénéficiant d'une exonération d'impôt ? Vous pouvez ouvrir un plan épargne actions (PEA). C'est un produit d'épargne réglementé qui vous permet d'investir dans un portefeuille d'actions d'entreprises européennes. Il existe 2 types de plans : le PEA bancaire ou le PEA assurance et le PEA-PME-ETI. Nous vous présentons les règles applicables.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code monétaire et financier : articles L221-30 à L221-32",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006170310"
+    },
+    {
+      "titre": "Code monétaire et financier : articles L221-32-1 à L221-32-3",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000028406044"
+    },
+    {
+      "titre": "Code monétaire et financier : articles D221-109 à R221-13",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006169757"
+    },
+    {
+      "titre": "Code monétaire et financier : articles D221-113-1 à D221-113-7",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000028681760"
+    },
+    {
+      "titre": "BOFIP-Impôts n°BOI-RPPM-RCM-40-50 relatif au plan d'épargne en actions (PEA)",
+      "url": "http://bofip.impots.gouv.fr/bofip/3786-PGP.html"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Base des décisions et informations financières (BDIF)",
+      "url": "https://bdif.amf-france.org/Recherche-avancee?formId=BDIF&TEXT",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "Info Banque - Assurance"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Le site de l'Autorité des marchés financiers (AMF)",
+      "url": "http://www.amf-france.org"
+    },
+    {
+      "titre": "Le site de la finance pour tous",
+      "url": "http://www.lafinancepourtous.com"
+    },
+    {
+      "titre": "Plafonnement des frais de transaction sur un PEA",
+      "url": "https://www.amf-france.org/fr/le-mediateur/journal-de-bord-du-mediateur/dossiers-du-mois/plafonnement-des-frais-de-transaction-sur-un-pea-le-canal-de-transmission-dun-ordre-ne-suffit-pas#ancre_1"
+    },
+    {
+      "titre": "Investir en actions avec le PEA et le PEA PME-ETI",
+      "url": "https://www.amf-france.org/fr/espace-epargnants/comprendre-les-produits-financiers/supports-dinvestissement/investir-en-actions-avec-le-pea-et-le-pea-pme-eti-0"
+    },
+    {
+      "titre": "Le plan d'épargne en actions (PEA)",
+      "url": "https://www.lafinancepourtous.com/pratique/placements/pea/"
+    }
+  ],
+  "slug": "plan-d-epargne-en-actions-pea",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "livrets-plans-et-comptes-d-epargne",
+      "titre": "Livrets, plans et comptes d'épargne"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "F2255",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Que faire en cas de vol ou de perte d'une arme ?",
+  "theme": "Loisirs - Sports - Culture",
+  "description": "En cas de perte ou de vol d'une arme de catégorie A, B ou C, il faut le déclarer auprès d'un commissariat de police ou d'une gendarmerie.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-02-03",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2255",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Loisirs - Sports - Culture",
+    "Armes",
+    "Que faire en cas de vol ou de perte d'une arme ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "En cas de perte ou de vol d'une arme, d'un élément d'arme ou de munitions des catégories A, B ou C, vous devez le déclarer immédiatement auprès d'un commissariat de police ou d'une brigade de gendarmerie.",
+        "Votre déclaration doit détailler précisément les circonstances de la perte ou du vol. Vous devez aussi préciser la marque, le modèle, le calibre, le numéro de série et la catégorie de l'arme, de l'élément d'arme ou des munitions concernés.",
+        "Ne pas faire la déclaration de perte ou de vol est sanctionné par une amende de 750 € maximum.",
+        "Commissariat",
+        "Brigade de gendarmerie",
+        "Le commissaire de police ou le commandant de brigade de gendarmerie vous remet un récépissé de déclaration de perte ou de vol.",
+        "Si vous êtes détenteur d'un compte dans le SIA, vous devez renseigner le vol ou la perte de l'arme dans le SIA en produisant la copie du récépissé.",
+        "Le commissariat ou la gendarmerie transmet ensuite votre déclaration à la préfecture qui vous a accordé l'autorisation ou délivré le récépissé de déclaration.",
+        "[À noter] Si l’arme est inscrite sur votre carte européenne d’armes à feu (CEAF), vous devez éditer une nouvelle carte via votre compte SIA. Si vous ne disposez pas de compte SIA, vous devez restituer ou faire mettre à jour votre carte dans un délai d’un mois suivant le vol ou la perte de l’arme."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la sécurité intérieure : articles L311-2 à L311-4",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000025503132/LEGISCTA000025505562"
+    },
+    {
+      "titre": "Article R312-91 du code de la sécurité intérieure",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000025503132/LEGISCTA000045143450"
+    },
+    {
+      "titre": "Code de la sécurité intérieure : articles R314-12 à R314-15",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000025503132/LEGISCTA000029655399"
+    },
+    {
+      "titre": "Code de la sécurité intérieure : articles R317-1 à R317-8",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000025503132/LEGISCTA000029655479"
+    },
+    {
+      "titre": "Arrêté du 8 février 2022 portant application de l'article R. 312-91 du code de la sécurité intérieure et de l'article 8 du décret n° 2022-144 du 8 février 2022 - compte détenteurs d'armes dans le SIA",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000045141682"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Espace détenteurs du système d'information sur les armes (SIA)",
+      "url": "https://sia.detenteurs.interieur.gouv.fr/realms/detenteurs/protocol/openid-connect/auth?response_type=code&scope=openid%20email&client_id=detenteurs-oidc-client-app&state=uSz39YeexithZCsvCWdOdqLSAbM&redirect_uri=https%3A%2F%2Fsia.detenteurs.interieur.gouv.fr%2Fespace-detenteurs%2Fredirect_uri&nonce=cEfwMmhP-F-7hewyw3LeHJlsy4klnmcbmmT3exFJoLk",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "que-faire-en-cas-de-vol-ou-de-perte-d-une-arme",
+  "path": [
+    {
+      "slug": "loisirs-sports-culture",
+      "titre": "Loisirs - Sports - Culture"
+    },
+    {
+      "slug": "armes",
+      "titre": "Armes"
+    }
+  ]
+}

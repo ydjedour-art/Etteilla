@@ -1,0 +1,93 @@
+{
+  "id": "F2697",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Doit-on s'assurer lorsqu'on circule à vélo ou en trottinette électrique ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Les règles dépendent du type de véhicule : vélo classique, vélo à pédalage assisté (VAE), vélo électrique ou trottinette électrique.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-11-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2697",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Assurance automobile (véhicule)",
+    "Doit-on s'assurer lorsqu'on circule à vélo ou en trottinette électrique ?"
+  ],
+  "introduction": "Les règles dépendent du type de véhicule : vélo classique, vélo à pédalage assisté (VAE), vélo électrique ou trottinette électrique.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Vélo classique",
+        "Le vélo classique, sans assistance électrique, est un vélo qui n'a pas de moteur et qui avance uniquement par le pédalage.",
+        "Le vélo sans assistance électrique n'est pas soumis à l'obligation d'assurance. Vous pouvez donc circuler avec ce type de vélo sans souscrire une assurance responsabilité civile.",
+        "Mais si vous provoquez un accident en conduisant votre vélo sans assistance électrique et que vous n'avez aucune assurance responsabilité civile, vous devrez assumer personnellement la réparation des dommages causés aux autres.",
+        "Il est fortement recommandé de disposer d’une assurance responsabilité civile (souvent incluse dans les assurances multirisques habitation) pour être couvert en cas de dommages causés à autrui.",
+        "Il est nécessaire de vérifier si votre assurance habitation inclut explicitement la couverture en déplacement à vélo.",
+        "Si ce n’est pas le cas, vous pouvez souscrire un contrat spécifique.",
+        "[À savoir] Vous pouvez également souscrire des garanties complémentaires comme la garantie accidents de la vie, vol, protection juridique, dommages à votre propre vélo,...).",
+        "Vélo à pédalage assisté (VAE)",
+        "Le vélo à pédalage assisté (VAE) est équipé d'un moteur auxiliaire électrique d'une puissance nominale continue maximale de 0,25 kilowatt (250 watts). L'alimentation du moteur est réduite progressivement et finalement interrompue lorsque le vélo atteint une vitesse de 25 km/ h, ou plus tôt si le cycliste arrête de pédaler.",
+        "Le moteur du VAE fonctionne donc uniquement si vous pédalez. Lorsque vous atteignez les 25 km/h, l’assistance s’arrête.",
+        "Le VAE appartient à la catégorie des cycles. Il n'est donc pas soumis à l'obligation d'assurance. Vous pouvez donc circuler avec un VAE sans souscrire une assurance responsabilité civile.",
+        "Mais si vous provoquez un accident en conduisant votre VAE et que vous n'avez aucune assurance responsabilité civile, vous devrez assumer personnellement la réparation des dommages causés aux autres.",
+        "Il est fortement recommandé de disposer d’une assurance responsabilité civile (souvent incluse dans les assurances multirisques habitation) pour être couvert en cas de dommages causés à autrui.",
+        "Il est nécessaire de vérifier si votre assurance habitation inclut explicitement la couverture en déplacement à VAE.",
+        "Si ce n’est pas le cas, vous pouvez souscrire un contrat spécifique.",
+        "[À savoir] Vous pouvez également souscrire des garanties complémentaires comme la garantie accidents de la vie, vol, protection juridique, dommages à votre propre vélo,...).",
+        "Vélo électrique",
+        "Le vélo électrique, appelé aussi speedbike, est un vélo équipé d'un moteur électrique.",
+        "Le vélo électrique appartient à la catégorie des cyclomoteurs. Il est donc soumis à l'obligation d'assurance responsabilité civile.",
+        "Cette assurance sert à réparer les dommages que vous pourriez causer aux autres en circulant avec votre vélo électrique.",
+        "L’assureur peut exiger certaines conditions techniques (immatriculation, éclairage conforme, équipements de sécurité) avant d’accepter de garantir votre vélo électrique.",
+        "Vous pouvez également souscrire des garanties complémentaires comme la garantie accidents de la vie, vol, protection juridique, dommages à votre propre vélo,...).",
+        "[À savoir] Vous devez faire immatriculer un vélo électrique.",
+        "Trottinette électrique",
+        "La trottinette électrique est juridiquement considérée comme un engin de déplacement personnel motorisé (EDPM).",
+        "Elle est assimilée à un véhicule terrestre à moteur. Une assurance responsabilité civile est donc obligatoire, même si la vitesse maximale est limitée à 25 km/h.",
+        "Cette assurance permet d’indemniser les dommages que vous pourriez causer à des tiers lors de l’utilisation de la trottinette.",
+        "Votre assurance habitation ne couvre pas toujours automatiquement ce type d’engin.",
+        "Si ce n’est pas prévu dans votre contrat, vous devez souscrire une extension de garantie ou une assurance spécifique EDPM.",
+        "L’assureur peut exiger certaines conditions techniques (éclairage, conformité, bridage…) avant d’accepter de garantir votre trottinette électrique.",
+        "Si la vitesse maximale dépasse 25 km/h ou si l’engin est modifié (débridé), il est requalifié en cyclomoteur : vous devez alors respecter des obligations supplémentaires (immatriculation, assurance deux-roues motorisé, port du casque...).",
+        "[À savoir] En cas d’accident sans responsable identifié (par exemple chute seule), les dommages matériels (trottinette, casque,...) sont pris en charge uniquement si vous avez souscrit une assurance personnelle couvrant ces risques (par exemple : assurance dommages, garantie accidents de la vie, ou extension d’assurance habitation).",
+        "Vous pouvez aussi souscrire des garanties complémentaires : dommages matériels, garantie vol, garantie accidents de la vie ou protection juridique."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Directive 2002/24/CE du 18 mars 2002 relative à la réception des véhicules à moteur à 2 ou 3 roues",
+      "url": "http://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32002L0024"
+    },
+    {
+      "titre": "Code de la route : article R311-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043750942"
+    },
+    {
+      "titre": "Code de la route : articles L324-1 et L324-2",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006159534"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Info Banque - Assurance"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Le vélo et l'assurance",
+      "url": "https://www.franceassureurs.fr/assurance-protege-finance-et-emploie/assurance-protege/lassurance-en-pratique-pour-les-particuliers/le-velo-et-assurance/"
+    }
+  ],
+  "slug": "doit-on-s-assurer-lorsqu-on-circule-a-velo-ou-en-trottinette-electrique",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "assurance-automobile-vehicule",
+      "titre": "Assurance automobile (véhicule)"
+    }
+  ]
+}

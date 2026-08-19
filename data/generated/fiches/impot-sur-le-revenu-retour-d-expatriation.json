@@ -1,0 +1,104 @@
+{
+  "id": "F31443",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Impôt sur le revenu - Retour d'expatriation",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Lors du retour en France, certaines démarches doivent être réalisées pour déclarer ses revenus.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-15",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31443",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Impôt sur le revenu des Français à l'étranger",
+    "Impôt sur le revenu - Retour d'expatriation"
+  ],
+  "introduction": "Vous étiez expatrié et vous êtes revenu en France en 2025 ? Vous devez déclarer vos revenus à votre retour. Vous devrez adresser votre déclaration à des services des impôts différents selon que vous avez ou non déclaré en 2025 des revenus de France pour l'année 2024. Nous vous indiquons les informations à connaître selon votre situation.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Votre situation fiscale, en particulier pour la déclaration de revenus à effectuer en 2026, varie selon que vous avez ou non déclarés en France en 2025 des revenus perçus au cours de l'année 2024."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général des impôts : articles 164 A à 165 bis",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006191589/"
+    },
+    {
+      "titre": "Code général des impôts : article 166",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006191590/"
+    },
+    {
+      "titre": "Code général des impôts : articles 1649A à 1649AC",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000041578443/"
+    },
+    {
+      "titre": "Code général des impôts, annexe 3 : articles 344A à 344C",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006162316/"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-CF-CPF-30-20 relatif aux obligations des contribuables tendant à la prévention de la fraude - Déclaration des comptes ouverts, utilisés ou clos hors de France",
+      "url": "http://bofip.impots.gouv.fr/bofip/580-PGP"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-IR-DOMIC-20 relatif à l'acquisition d'un domicile en France ou transfert d'un domicile hors de France",
+      "url": "http://bofip.impots.gouv.fr/bofip/2027-PGP"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Déclarer vos revenus en ligne",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Déclaration 2026 des revenus 2025 - Départ à l'étranger ou retour en France",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/2042/declaration-des-revenus",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Déclaration 2026 des revenus 2025 (papier)",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/2042/declaration-des-revenus",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Impôts : accéder à votre espace Finances publiques",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Déclaration 2026 des comptes ouverts, utilisés ou clos à l'étranger",
+      "url": "https://www.impots.gouv.fr/portail/node/9106",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Service d'information des impôts",
+    "Service en charge des impôts (trésorerie, service des impôts...)",
+    "Service des impôts des particuliers non résidents"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Je viens ou je reviens en France, comment et quels revenus dois-je déclarer ?",
+      "url": "https://www.impots.gouv.fr/international-particulier/questions/je-reviens-en-france-apres-un-sejour-letranger"
+    },
+    {
+      "titre": "Le régime des impatriés",
+      "url": "https://www.impots.gouv.fr/international-particulier/le-regime-des-impatries"
+    }
+  ],
+  "slug": "impot-sur-le-revenu-retour-d-expatriation",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "impot-sur-le-revenu-des-francais-a-l-etranger",
+      "titre": "Impôt sur le revenu des Français à l'étranger"
+    }
+  ]
+}

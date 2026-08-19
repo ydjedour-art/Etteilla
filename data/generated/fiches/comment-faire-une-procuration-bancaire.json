@@ -1,0 +1,105 @@
+{
+  "id": "F1474",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Comment faire une procuration bancaire ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Vous devez contacter votre banque pour faire une procuration bancaire. Ce document vous permet de laisser une autre personne gérer votre compte bancaire.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-12-03",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1474",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Comptes bancaires",
+    "Comment faire une procuration bancaire ?"
+  ],
+  "introduction": "Vous devez contacter votre banque pour faire une procuration bancaire. Ce document vous permet de laisser une autre personne gérer votre compte bancaire. Démarches à réaliser, responsabilités, fin de la procuration : voici les informations à connaître sur la procuration bancaire.",
+  "chapitres": [
+    {
+      "titre": "Qu'est-ce qu'une procuration bancaire ?",
+      "contenu": [
+        "La procuration bancaire vous permet de laisser une autre personne gérer votre compte bancaire.",
+        "[Exemple] Un mineur donne souvent procuration bancaire à ses parents pour l'aider dans la gestion de son compte.",
+        "La personne qui bénéficie de la procuration est appelée mandataire. La personne donnant procuration (vous-même) est appelée mandant.",
+        "Le mandataire peut retirer et déposer de l'argent sur le compte du mandant.",
+        "Le mandataire ne peut pas clôturer le compte du titulaire.",
+        "Le mandataire n'est pas obligatoirement un membre de votre famille. Toutefois, il est recommandé de donner la procuration à une personne de confiance.",
+        "[À noter] La procuration est une procédure différente de la curatelle ou de la tutelle. Vous restez autonome et conservez vos droits sur votre compte bancaire et ses revenus."
+      ]
+    },
+    {
+      "titre": "Sous quelle forme une procuration bancaire doit-elle être demandée ?",
+      "contenu": [
+        "La procédure peut varier en fonction des banques. En général, vous devez vous rendre dans votre banque pour y remplir et signer un formulaire de demande de procuration bancaire.",
+        "[À savoir] Si vous ne pouvez pas vous déplacer, contactez votre conseiller bancaire. Il pourra vous proposer une solution adaptée à votre situation (visite à domicile ou à l'hôpital, demande par courrier).",
+        "La banque peut également demander un exemplaire de la signature de votre mandataire et ses justificatifs d'identité et de domicile. Le type de liens existants (parenté, d'affaires, etc.) entre vous et le mandataire peut aussi être demandé.",
+        "Le document écrit doit préciser si la procuration est générale ou limitée :",
+        "• La procuration est générale lorsqu'elle concerne toute opération pour une durée indéterminée.",
+        "• Elle est limitée lorsqu'elle concerne seulement certaines opérations, certains montants et une durée déterminée.",
+        "Vous pouvez donner une procuration sur un même compte à plusieurs mandataires. Ces personnes peuvent agir séparément, sans se consulter entre elles, sauf si la procuration précise le contraire."
+      ]
+    },
+    {
+      "titre": "Une procuration bancaire est-elle payante ?",
+      "contenu": [
+        "Le mandataire n'est pas rémunéré pour sa prestation. Toutefois, une convention peut le prévoir."
+      ]
+    },
+    {
+      "titre": "Qui est responsable des opérations bancaires pendant la procuration ?",
+      "contenu": [
+        "Vous restez responsable des opérations effectuées par votre mandataire sur votre compte bancaire. Par exemple, vous êtes responsable en cas de découvert."
+      ]
+    },
+    {
+      "titre": "Quand prend fin la procuration bancaire ?",
+      "contenu": [
+        "Une procuration prend fin dans les cas suivants :",
+        "• À tout moment, sur demande écrite du mandant ou du mandataire adressée à la banque",
+        "• À la fin de la durée prévue, si la procuration a une durée déterminée et n'est pas renouvelée",
+        "• À la date du placement sous tutelle du mandant ou du mandataire",
+        "• À la date du décès du mandant ou du mandataire."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : articles 1984 à 1990",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006136404/"
+    },
+    {
+      "titre": "Code civil : articles 1991 à 1997",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006136405"
+    },
+    {
+      "titre": "Code civil : articles 1998 à 2002",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006136406"
+    },
+    {
+      "titre": "Code civil : articles 2003 à 2010",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006136407"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Info Banque - Assurance",
+    "Banque de France Particuliers"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Compte bancaire individuel",
+      "url": "https://www.banque-france.fr/fr/votre-service/particuliers/la-banque-de-france-vous-aide/connaitre-les-pratiques-bancaires-et-dassurance/compte-et-frais/compte-bancaire-individuel"
+    }
+  ],
+  "slug": "comment-faire-une-procuration-bancaire",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "comptes-bancaires",
+      "titre": "Comptes bancaires"
+    }
+  ]
+}

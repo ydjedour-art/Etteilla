@@ -1,0 +1,96 @@
+{
+  "id": "F984",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Bourse de collège",
+  "theme": "Famille - Scolarité",
+  "description": "La bourse des collèges est versée aux parents d'un élève inscrit au collège à condition de ne pas dépasser un certain plafond de ressources annuelles.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-30",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F984",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Aides financières pour la scolarité",
+    "Bourse de collège"
+  ],
+  "introduction": "Votre enfant est inscrit au collège et vous vous demandez si vous avez droit à la bourse de collège ? Pour en bénéficier, vos ressources annuelles ne doivent pas dépasser des plafonds, selon le nombre d'enfants que vous avez à charge. Les règles diffèrent selon que l'enfant est scolarisé dans un collège public ou privé ou au Cned. Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de l'éducation : articles R531-1 à D531-3",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000020743213"
+    },
+    {
+      "titre": "Code de l'éducation : articles D531-4 à D531-6",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000020743205"
+    },
+    {
+      "titre": "Code de l'éducation : articles D531-7 à D531-12",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000020743197"
+    },
+    {
+      "titre": "Arrêté du 22 mars 2016 fixant les plafonds de ressources ouvrant droit à l'attribution d'une bourse nationale de collège",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000032325018"
+    },
+    {
+      "titre": "Arrêté du 27 juillet 2009 fixant les conditions d'attribution et de paiement des bourses nationales pour les élèves inscrits à une formation de niveau collège ou lycée au CNED",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000020991769/"
+    },
+    {
+      "titre": "Circulaire du 21 mai 2024 relative aux bourses nationales de collège et aux bourses nationales d’études du second degré de lycée",
+      "url": "https://www.education.gouv.fr/bo/2024/Hebdo23/MENE2413111C"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demander une bourse de collège",
+      "url": "https://teleservices.education.gouv.fr/",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Demande de bourse de collège",
+      "url": "https://www.service-public.fr/simulateur/calcul/12539",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Calculer le droit à la bourse de collège",
+      "url": "https://calculateur-bourses.education.gouv.fr/cabs/api/v1/college/simulateur.html",
+      "type": "Simulateur"
+    },
+    {
+      "titre": "Procuration pour le paiement des bourses nationales de collège et de lycée dans l’enseignement privé",
+      "url": "https://www.education.gouv.fr/sites/default/files/document/annexe-10-procuration-pour-le-paiement-des-bourses-nationales-de-college-et-de-lycee-dans-l.pdf",
+      "type": "formulaireNG"
+    },
+    {
+      "titre": "Connaître les prestations sociales auxquelles vous pouvez avoir droit",
+      "url": "https://www.mesdroitssociaux.gouv.fr",
+      "type": "selNG"
+    },
+    {
+      "titre": "Educonnect",
+      "url": "https://educonnect.education.gouv.fr",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "Établissement scolaire"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Educonnect : aide à la 1ère connexion des parents",
+      "url": "https://www.education.gouv.fr/scolarite-services-un-acces-unique-pour-toutes-les-demarches-scolaires-326158"
+    }
+  ],
+  "slug": "bourse-de-college",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "aides-financieres-pour-la-scolarite",
+      "titre": "Aides financières pour la scolarité"
+    }
+  ]
+}

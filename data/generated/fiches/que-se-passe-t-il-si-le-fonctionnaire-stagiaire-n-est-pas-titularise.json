@@ -1,0 +1,55 @@
+{
+  "id": "F1564",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Que se passe-t-il si le fonctionnaire stagiaire n'est pas titularisé ?",
+  "theme": "Travail - Formation",
+  "description": "Le fonctionnaire qui n'est pas titularisé en fin de stage est licencié ou réintégré dans son corps ou cadre d'emplois antérieur.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-02-17",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1564",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Carrière dans la fonction publique",
+    "Que se passe-t-il si le fonctionnaire stagiaire n'est pas titularisé ?"
+  ],
+  "introduction": "Le fonctionnaire stagiaire a vocation à être titularisé après avoir accompli la période probatoire de stage. Toutefois, si l'administration employeur juge ses aptitudes professionnelles insuffisantes pour exercer les fonctions correspondant à son grade, elle peut décider de ne pas le titulariser. Nous vous présentons les conditions dans lesquelles ce refus de titularisation peut intervenir et ses conséquences pour le fonctionnaire.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "À la suite de votre recrutement ou de votre promotion interne, vous êtes soumis à une période probatoire de stage au cours de laquelle vous êtes fonctionnaire stagiaire.",
+        "Cette période de stage a pour but de permettre à votre administration employeur de vérifier, avant de vous titulariser, que vous disposez des aptitudes professionnelles requises pour exercer les fonctions correspondant à votre grade.",
+        "La période de stage peut être prolongée si votre administration employeur juge vos aptitudes professionnelles insuffisantes pour permettre votre titularisation à la fin de la période initiale.",
+        "La durée initiale du stage et la durée possible de prolongation sont fixées par le statut particulier du corps ou du cadre d'emplois dans lequel vous êtes nommé fonctionnaire stagiaire.",
+        "Votre administration employeur peut décider de ne pas vous titulariser :",
+        "• Soit au cours de la période de stage, sans attendre la fin de cette période",
+        "• Soit à la fin de la période initiale de stage ou à la fin de la période de prolongation de votre stage."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général de la fonction publique : articles L327-1 à L327-12",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044421816/"
+    },
+    {
+      "titre": "Code général de la fonction publique : articles R327-66 à R327-69",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000051962454/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "que-se-passe-t-il-si-le-fonctionnaire-stagiaire-n-est-pas-titularise",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "carriere-dans-la-fonction-publique",
+      "titre": "Carrière dans la fonction publique"
+    }
+  ]
+}

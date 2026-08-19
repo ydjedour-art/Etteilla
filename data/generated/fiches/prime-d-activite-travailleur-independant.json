@@ -1,0 +1,94 @@
+{
+  "id": "F34701",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Prime d'activité : travailleur indépendant",
+  "theme": "Social - Santé",
+  "description": "Les travailleurs indépendants des secteurs agricole et non agricole, de plus de 18 ans, peuvent en bénéficier sous certaines conditions",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34701",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Prime d'activité",
+    "Prime d'activité : travailleur indépendant"
+  ],
+  "introduction": "La prime d'activité remplace le RSA activité et la prime pour l'emploi. Les travailleurs indépendants des secteurs agricole et non agricole, de plus de 18 ans, peuvent en bénéficier sous certaines conditions. La demande de prime d'activité se fait via un téléservice ou auprès de la Caf ou de la MSA. Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Décret n° 2026-222 du 30 mars 2026 portant revalorisation légale et exceptionnelle de la prime d'activité",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053733855"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles L842-1 à L842-8",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000006156393/#LEGISCTA000031087625"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles R842-1 à R842-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000006156827/#LEGISCTA000031694348"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles R843-1 et R843-2",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000006156829/#LEGISCTA000031694323"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles R844-1 à R844-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000031675731/#LEGISCTA000031675739"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles R845-1 à R845-3",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000031676039/#LEGISCTA000031676044"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles R846-1 à R846-9",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000031676086/#LEGISCTA000031676091"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles D843-1 à D843-3",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000031673854/#LEGISCTA000031673859"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles L845-1 à L845-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000031077433/#LEGISCTA000031077475"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demande de prime d'activité - Caf",
+      "url": "https://wwwd.caf.fr/wps/portal/caffr/simulateurpa/",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Demander la prime d'activité",
+      "url": "https://www.msa.fr/lfp/prime-d-activite",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Connaître les prestations sociales auxquelles vous pouvez avoir droit",
+      "url": "https://www.mesdroitssociaux.gouv.fr",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "Caisse d'allocations familiales (Caf)",
+    "Mutualité sociale agricole (MSA)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Les déclarations de ressources des bénéficiaires du RSA et de la prime d’activité seront préremplies dès le 1er mars 2025",
+      "url": "https://solidarites.gouv.fr/les-declarations-de-ressources-des-beneficiaires-du-rsa-et-de-la-prime-dactivite-seront-pre-remplies-des-le-1er-mars-2025"
+    }
+  ],
+  "slug": "prime-d-activite-travailleur-independant",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "prime-d-activite",
+      "titre": "Prime d'activité"
+    }
+  ]
+}

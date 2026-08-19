@@ -1,0 +1,73 @@
+{
+  "id": "F887",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Reconnaissance d'un enfant (couple non marié) : démarche",
+  "theme": "Famille - Scolarité",
+  "description": "Vous n'êtes pas mariés, la filiation de votre enfant n'est pas automatique. Une reconnaissance par le père est obligatoire avant la naissance ou plus tard.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-01-27",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F887",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Naissance et filiation",
+    "Reconnaissance d'un enfant (couple non marié) : démarche"
+  ],
+  "introduction": "Vous n'êtes pas marié et vous voulez reconnaître votre enfant ? Si vous êtes le père, cette reconnaissance est obligatoire pour établir la filiation de votre enfant. Elle n'est pas automatique. Vous pouvez reconnaître votre enfant à tout moment, avant la naissance ou plus tard. Si vous êtes la mère, il suffit que votre nom figure sur l'acte de naissance, mais une reconnaissance avant la naissance est possible. Nous vous indiquons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Si vous n'êtes pas mariés, les 2 liens de filiation, maternelle et paternelle, de votre enfant sont indépendants l'un de l'autre (on parle du caractère divisible du lien de filiation).",
+        "La reconnaissance de l'enfant est un acte volontaire et personnel, qui engage uniquement la personne qui fait la démarche.",
+        "Chacun de vous 2 peut faire établir son lien de filiation avec l'enfant sans avoir à demander l'autorisation de l'autre parent.",
+        "La filiation de votre enfant s'établit différemment selon que vous êtes le père ou la mère.",
+        "[À savoir] Si vous êtes un couple de femmes, vous devez passer par une reconnaissance conjointe anticipée.",
+        "Si vous résidez à l'étranger, renseignez-vous auprès de l'ambassade ou du consulat pour connaître les démarches à effectuer.",
+        "Ambassade ou consulat français à l'étranger"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : articles 62 et 62-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006150517/#LEGISCTA000006150517"
+    },
+    {
+      "titre": "Code civil : articles 316 à 316-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006150523/#LEGISCTA000006150523"
+    },
+    {
+      "titre": "Code civil : article 457-1 à 463",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006165510/"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : article L224-6",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039280118"
+    },
+    {
+      "titre": "Circulaire du 28 octobre 2011 portant sur divers actes de l'état civil relatifs à la naissance et à la filiation",
+      "url": "https://www.legifrance.gouv.fr/circulaire/id/34124"
+    },
+    {
+      "titre": "Circulaire du 21 septembre 2021 de présentation des dispositions en matière d'assistance médicale à la procréation issues de la loi n°2021-1017 du 2 août 2021 relative à la bioéthique",
+      "url": "http://www.justice.gouv.fr/bo/2021/20210930/JUSC2127286C.pdf"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Mairie"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "reconnaissance-d-un-enfant-couple-non-marie-demarche",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "naissance-et-filiation",
+      "titre": "Naissance et filiation"
+    }
+  ]
+}

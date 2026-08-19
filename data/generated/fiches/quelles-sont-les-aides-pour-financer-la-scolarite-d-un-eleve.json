@@ -1,0 +1,106 @@
+{
+  "id": "F1885",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quelles sont les aides pour financer la scolarité d'un élève ?",
+  "theme": "Famille - Scolarité",
+  "description": "En plus des aides nationales, les communes, départements ou régions peuvent accorder des aides aux élèves des écoles, collèges et lycées, sous conditions.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-09-23",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1885",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Aides financières pour la scolarité",
+    "Quelles sont les aides pour financer la scolarité d'un élève ?"
+  ],
+  "introduction": "Vous pouvez, sous conditions, bénéficier d'aides nationales et territoriales pour financer la scolarité de votre enfant.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "À l'école primaire",
+        "Vous pouvez bénéficier, sous conditions de ressources, de l'allocation de rentrée scolaire (ARS) dès les 6 ans de votre enfant.",
+        "S'il fréquente la cantine, vous pouvez éventuellement, sous conditions de ressources, bénéficier d'aides pour la cantine.",
+        "Certains départements accordent une bourse pour l'école élémentaire pour les élèves scolarisés à partir du CP. Cette bourse est notamment attribuée sous conditions de ressources et d'éloignement géographique.",
+        "Votre commune, votre département ou votre région peuvent vous accorder d'autres aides. Elles varient selon les collectivités. Chacune peut définir ses propres critères d'attribution. L'aide peut être financière ou matérielle (fournitures scolaires, cartable, dictionnaire, etc.).",
+        "Vous devez vous renseigner auprès de votre collectivité.",
+        "Mairie",
+        "Département",
+        "Conseil régional",
+        "Au collège",
+        "Vous pouvez bénéficier, sous conditions de ressources, de l'allocation de rentrée scolaire (ARS) et de la bourse de collège dès l'entrée au collège de votre enfant.",
+        "S'il fréquente la cantine, vous pouvez éventuellement, sous conditions de ressources, bénéficier d'aides pour la cantine.",
+        "S'il est scolarisé en internat et boursier, vous pouvez bénéficier de la prime à l'internat.",
+        "En cas de difficulté, vous pouvez également faire une demande de fonds social collégien.",
+        "Votre commune, votre département ou votre région peuvent vous accorder d'autres aides. Elles varient selon les collectivités. Chacune peut définir ses propres critères d'attribution. L'aide peut être financière ou matérielle (fournitures scolaires, cartable, dictionnaire, etc.).",
+        "Vous devez vous renseigner auprès de votre collectivité.",
+        "Département",
+        "Conseil régional",
+        "Mairie",
+        "Au lycée",
+        "Vous pouvez bénéficier, sous conditions de ressources, de l'allocation de rentrée scolaire (ARS) et de la bourse de lycée dès l'entrée au lycée de votre enfant.",
+        "[Attention] Si votre enfant a 18 ans avant le 16 septembre de la rentrée scolaire, vous ne pouvez pas bénéficier de l’ARS.",
+        "S'il est boursier et a obtenu une mention bien ou très bien au diplôme national du brevet, vous pouvez bénéficier d'une bourse au mérite.",
+        "S'il fréquente la cantine, vous pouvez éventuellement, sous conditions de ressources, bénéficier d'aides pour la cantine,",
+        "S'il est scolarisé en internat et boursier, vous pouvez bénéficier de la prime à l'internat.",
+        "En cas de difficulté, vous pouvez également faire une demande de fonds social lycéen.",
+        "Votre commune, votre département ou votre région peuvent vous accorder d'autres aides. Elles varient selon les collectivités. Chacune peut définir ses propres critères d'attribution. L'aide peut être financière ou matérielle (fournitures scolaires, cartable, dictionnaire, etc.).",
+        "Vous devez vous renseigner auprès de votre collectivité.",
+        "Conseil régional",
+        "Mairie",
+        "Département",
+        "Au lycée professionnel",
+        "Vous pouvez bénéficier, sous conditions de ressources, de l'allocation de rentrée scolaire (ARS) et de la bourse de lycée dès l'entrée au lycée de votre enfant.",
+        "[Attention] Si votre enfant a 18 ans avant le 16 septembre de la rentrée scolaire, vous ne pouvez pas bénéficier de l’ARS.",
+        "S'il est boursier et a obtenu une mention bien ou très bien au diplôme national du brevet, vous pouvez bénéficier d'une bourse au mérite.",
+        "S'il est boursier et selon la spécialité choisie, vous pouvez éventuellement bénéficier d'une prime d'équipement.",
+        "S'il fréquente la cantine, vous pouvez éventuellement bénéficier d'aides pour la cantine.",
+        "S'il est scolarisé en internat et boursier, vous pouvez bénéficier de la prime à l'internat.",
+        "En cas de difficulté, vous pouvez également faire une demande de fonds social lycéen.",
+        "Votre commune, votre département ou votre région peuvent vous accorder d'autres aides. Elles varient selon les collectivités. Chacune peut définir ses propres critères d'attribution. L'aide peut être financière ou matérielle (fournitures scolaires, cartable, dictionnaire, etc.).",
+        "Vous devez vous renseigner auprès de votre collectivité.",
+        "Conseil régional",
+        "Mairie",
+        "Département",
+        "[À savoir] Si votre enfant est en situation de handicap, les dispositifs d'aide sont différents."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'éducation : articles L531-1 à L533-2",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071191/LEGISCTA000006151361/#LEGISCTA000006151361"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Mairie",
+    "Services du département",
+    "Conseil régional"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Les aides financières à l'école élémentaire",
+      "url": "https://www.education.gouv.fr/les-aides-financieres-l-ecole-elementaire-8465"
+    },
+    {
+      "titre": "Les aides financières au collège",
+      "url": "https://www.education.gouv.fr/les-aides-financieres-au-college-4970"
+    },
+    {
+      "titre": "Les aides financières au lycée",
+      "url": "https://www.education.gouv.fr/les-aides-financieres-au-lycee-7511"
+    }
+  ],
+  "slug": "quelles-sont-les-aides-pour-financer-la-scolarite-d-un-eleve",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "aides-financieres-pour-la-scolarite",
+      "titre": "Aides financières pour la scolarité"
+    }
+  ]
+}

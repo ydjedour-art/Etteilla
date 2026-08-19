@@ -1,0 +1,144 @@
+{
+  "id": "F32511",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Indemnité de résidence dans la fonction publique",
+  "theme": "Travail - Formation",
+  "description": "La rémunération d'un agent public peut comporter, selon sa commune d'affectation, une indemnité de résidence égale à 1 % ou 3 % de son traitement indiciaire.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-04-14",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F32511",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Rémunération dans la fonction publique",
+    "Indemnité de résidence dans la fonction publique"
+  ],
+  "introduction": "En tant qu'agent public, votre rémunération se compose de différents éléments. Selon votre commune d'affectation, elle peut notamment inclure une indemnité de résidence. Celle-ci est égale à 1 % ou 3 % de votre traitement indiciaire. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Quels agents bénéficient de l'indemnité de résidence ?",
+      "contenu": [
+        "L'indemnité de résidence a pour but de compenser les disparités du coût de la vie selon les zones géographiques.",
+        "L'indemnité de résidence est égale à un pourcentage de votre traitement indiciaire brut.",
+        "Les communes de France sont classées en 3 zones. À chaque zone correspond un pourcentage du traitement indiciaire brut :",
+        "• Zone 1 : 3 %",
+        "• Zone 2 : 1 %",
+        "• Zone 3 : 0 %.",
+        "L'indemnité de résidence est obligatoirement versée à tout agent public, fonctionnaire ou contractuel, affecté dans une commune ouvrant droit à une indemnité de résidence.",
+        "[À noter] Dans un couple d'agents publics, les 2 membres du couple perçoivent l'indemnité de résidence."
+      ]
+    },
+    {
+      "titre": "Quel est le montant de l'indemnité de résidence ?",
+      "contenu": [
+        "L'indemnité de résidence est égale à 1 % ou 3 % de votre traitement indiciaire brut.",
+        "Le pourcentage dépend de la commune dans laquelle vous exercez effectivement vos fonctions. Ce n'est pas la commune du siège de l'administration qui vous emploie.",
+        "Si vous percevez une nouvelle bonification indiciaire (NBI), la NBI s'ajoute au traitement indiciaire pour le calcul de votre indemnité de résidence.",
+        "Par exemple, si vous êtes rémunéré sur la base de l'indice majoré 427 et percevez une NBI de 10 points, votre indemnité de résidence est calculée sur la base du traitement indiciaire correspondant à l'indice majoré 437.",
+        "Le montant de l'indemnité de résidence ne peut pas être inférieur au montant de l'indemnité de résidence correspondant à l'indice majoré 366, soit :",
+        "• 54,05 € en zone 1",
+        "• 18,01 € en zone 2.",
+        "[À savoir] Le montant du traitement indiciaire mensuel et de l'indemnité de résidence est déterminé en ignorant les millièmes d'euro.",
+        "Si vous êtes affecté dans une commune faisant partie d'une agglomération urbaine multicommunale, vous bénéficiez du pourcentage le plus élevé applicable au sein de l'agglomération.",
+        "Si vous exercez vos fonctions dans le périmètre d'une agglomération nouvelle, vous bénéficiez du pourcentage le plus élevé applicable au sein de l'agglomération.",
+        "Si vous exercez vos fonctions dans les départements de la Haute-Corse et de la Corse-du-Sud, vous bénéficiez d'une indemnité de résidence spécifique, égale à 3 % de votre traitement indiciaire.",
+        "Si vous exercez vos fonctions dans les communes du département de l’Ain ou de la Haute Savoie classées en zone géographique A, vous bénéficiez d'une indemnité de résidence spécifique, égale à 3 % de votre traitement indiciaire.",
+        "Si vous exercez vos fonctions dans les communes des départements de l'Ain et de la Haute-Savoie relevant de la même unité urbaine que l'une des communes classées en zone géographique A, vous bénéficiez de cette indemnité de résidence spécifique, égale à 3 % de votre traitement indiciaire.",
+        "Connaître votre zone géographique (A, A bis, B1, B2 ou C)"
+      ]
+    },
+    {
+      "titre": "Comment est versée l'indemnité de résidence ?",
+      "contenu": [
+        "L’indemnité de résidence vous est versée chaque mois comme votre traitement indiciaire.",
+        "Elle est versée dans les mêmes proportions que votre traitement indiciaire en cas de temps partiel, que vous soyez fonctionnaire ou contractuel.",
+        "Si vous êtes fonctionnaire, l’indemnité de résidence vous est versée intégralement pendant toute la durée des congés suivants :",
+        "• Congé de maladie",
+        "• Congé de longue maladie, de longue durée",
+        "• Congé pour invalidité temporaire imputable au service (Citis).",
+        "Si vous êtes contractuel, l’indemnité de résidence vous est versée intégralement pendant les congés suivants, tant que vous percevez votre indiciaire :",
+        "• Congé de maladie",
+        "• Congé pour accident du travail ou maladie professionnelle."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général de la fonction publique : article L115-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044427929/"
+    },
+    {
+      "titre": "Code général de la fonction publique : article L712-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044424813/"
+    },
+    {
+      "titre": "Code général de la fonction publique : articles L712-7 à L712-13",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044423779/"
+    },
+    {
+      "titre": "Code général de la fonction publique : articles L822-1 à L822-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044423975/"
+    },
+    {
+      "titre": "Code général de la fonction publique : articles L822-6 à L822-11",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044423987/"
+    },
+    {
+      "titre": "Code général de la fonction publique : articles L822-12 à L822-17",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044424001/"
+    },
+    {
+      "titre": "Décret n°82-1105 du 23 décembre 1982 relatif aux indices de la fonction publique",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000703628/"
+    },
+    {
+      "titre": "Décret n°85-1148 du 24 octobre 1985 relatif à la rémunération des personnels des 3 fonctions publiques",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006064738/"
+    },
+    {
+      "titre": "Décret n°93-522 du 26 mars 1993 relatif aux conditions de mise en œuvre de la NBI dans la FPE",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000362602/"
+    },
+    {
+      "titre": "Décret n°93-863 du 18 juin 1993 relatif aux conditions de mise en œuvre de la NBI dans la FPT",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000728910/"
+    },
+    {
+      "titre": "Décret n°94-139 du 14 février 1994 relatif aux conditions de mise en œuvre de la NBI dans la FPH",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000546248/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Connaître votre zone géographique (A, A bis, B1, B2 ou C)",
+      "url": "https://www.actionlogement.fr/connaitre-votre-zone-geographique",
+      "type": "outilRechercheNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Structure et principaux éléments constitutifs de la rémunération",
+      "url": "https://www.fonction-publique.gouv.fr/files/files/publications/publications-dgafp/parcours-de-formation-professionnalisation-rh-l3.pdf"
+    },
+    {
+      "titre": "Classement des communes en 3 zones",
+      "url": "https://www.fonction-publique.gouv.fr/files/files/ArchivePortailFP/www.fonction-publique.gouv.fr/files/files/statut_et_remunerations/circulaire_fp_12_03_2001_ind_residence.pdf"
+    },
+    {
+      "titre": "Base des unités urbaines",
+      "url": "https://www.insee.fr/fr/information/4802589"
+    }
+  ],
+  "slug": "indemnite-de-residence-dans-la-fonction-publique",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "remuneration-dans-la-fonction-publique",
+      "titre": "Rémunération dans la fonction publique"
+    }
+  ]
+}

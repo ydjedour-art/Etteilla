@@ -1,0 +1,227 @@
+{
+  "id": "F2655",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Bonus-malus dans l'assurance automobile",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Le bonus-malus auto est un système qui augmente ou réduit votre prime d’assurance selon votre responsabilité dans les accidents.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-05-26",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2655",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Assurance automobile (véhicule)",
+    "Bonus-malus dans l'assurance automobile"
+  ],
+  "introduction": "Vous avez été impliqué dans un accident de la route et vous vous interrogez sur les conséquences pour votre contrat d’assurance auto ? Cet événement peut avoir un impact sur votre bonus-malus, qui est un système qui ajuste votre prime d’assurance en fonction de votre conduite. Nous vous expliquons son fonctionnement.",
+  "chapitres": [
+    {
+      "titre": "Qu'est-ce que le bonus-malus en matière d'assurance automobile ?",
+      "contenu": [
+        "Le système du bonus-malus, encore appelé coefficient de réduction-majoration, est une clause contenue dans les contrats d'assurance auto.",
+        "Il s'agit d'une formule de réduction ou de majoration de la prime d'assurance, à chaque échéance annuelle, en fonction de votre comportement.",
+        "Le principe est que votre coefficient de réduction-majoration est :",
+        "• majoré lorsque vous avez des sinistres impliquant votre responsabilité,",
+        "• et minoré en l'absence de sinistre,",
+        "sur une période de référence.",
+        "Chaque année, votre coefficient de réduction-majoration est appliqué à la prime de référence, c'est-à-dire la prime calculée lors de la souscription, pour déterminer le nouveau montant à payer.",
+        "Si votre coefficient a baissé, vous aurez une réduction de la prime de référence et vous paierez moins cher votre assurance.",
+        "Si votre coefficient a augmenté, vous aurez une majoration de la prime de référence et vous payerez un tarif plus élevé."
+      ]
+    },
+    {
+      "titre": "Quels sont les véhicules concernés par le bonus-malus ?",
+      "contenu": [
+        "Le système du bonus-malus s’applique à la majorité des véhicules terrestres à moteur, notamment les voitures particulières et les utilitaires.",
+        "[Attention] Les véhicules, matériels ou engins suivants sont exclus du système du bonus-malus : • Cyclomoteur • Engin de service hivernal • Motocyclette légère • Quadricycle léger à moteur • Quadricycle lourd à moteur • Véhicule de collection (plus de 30 ans d'âge) • Véhicule d'intérêt général prioritaire (bus) • Véhicule d'intérêt général bénéficiant de facilités de passage (ambulances, véhicules de pompiers) • Véhicule et matériel agricoles • Matériel forestier • Matériel de travaux publics."
+      ]
+    },
+    {
+      "titre": "Quels sont les sinistres pris en compte pour le bonus-malus ?",
+      "contenu": [
+        "Seuls les sinistres dans lesquels votre responsabilité, totale ou partielle, est retenue sont pris en compte dans le calcul du bonus-malus.",
+        "En revanche, certains sinistres ne sont pas pris en compte, notamment lorsque votre responsabilité n'est pas engagée, (par exemple : en cas de force majeure ou pour certains sinistres tels que le vol, l'incendie ou le bris de glace).",
+        "[Attention] Ce n’est pas votre propre appréciation de la situation, ni celle de l’autre conducteur, qui détermine la responsabilité, mais bien l’échange entre les compagnies d’assurance sur la base des éléments du dossier (constat, témoignages,...)."
+      ]
+    },
+    {
+      "titre": "Quelle est la période prise en compte pour calculer le bonus-malus ?",
+      "contenu": [
+        "Le bonus-malus prend comme référence la période de 12 mois consécutifs qui se termine 2 mois avant l'échéance annuelle du contrat.",
+        "[Exemple] Pour un contrat dont l'échéance annuelle est le 31 décembre 2025, la période de référence doit se terminer 2 mois avant cette échéance, donc le 31 octobre 2025. Si on décompte 12 mois en arrière, le début de la période de référence est le 1er novembre 2024. Pour un contrat dont l'échéance annuelle est le 31 décembre 2025, la période de référence va donc du 1er novembre 2024 au 31 octobre 2025.",
+        "L'assureur est obligé d'appliquer la règle du bonus-malus.",
+        "Cependant, la prime de référence est déterminée par l'assureur et chaque assureur a ses propres tarifs de primes de référence. Vous devez donc comparer les primes de référence applicables par les assureurs avant de souscrire le contrat."
+      ]
+    },
+    {
+      "titre": "Quelles sont les règles de calcul du bonus et du malus ?",
+      "contenu": [
+        "Les cotisations d'assurance du véhicule sont calculées en fonction d'un système de bonification-majoration (ou bonus-malus), qui prend en compte les accidents que vous déclarez.",
+        "Le coefficient de départ est de 1.",
+        "Bonus",
+        "Pour chaque année sans accident responsable, vous bénéficiez d'une réduction de 5 % sur votre coefficient de l'année précédente.",
+        "Il suffit de multiplier le coefficient de l'année précédente par 0,95 pour obtenir le coefficient de l'année, s'il n'y a pas eu d'accident avec une part de responsabilité. Le coefficient est arrondi par défaut à 2 chiffres après la virgule.",
+        "La réduction maximale est fixée à 50% (coefficient 0,50).",
+        "Quand vous atteignez ce niveau, le coefficient ne peut plus baisser.",
+        "Tableau illustré du bonus-malus",
+        "Ancienneté du contrat",
+        "Coefficient bonus",
+        "Calcul du coefficient",
+        "Exemple avec un prime de référence de 1 000 €",
+        "Souscription",
+        "1",
+        "-",
+        "1 000 €",
+        "1er anniversaire",
+        "0,95",
+        "1*0,95 = 0,95",
+        "950 €",
+        "2e anniversaire",
+        "0,90",
+        "0,95*0,95 = 0,9025 arrondi à 0,90",
+        "900 €",
+        "3e anniversaire",
+        "0,85",
+        "0,90*0,95 = 0,855 arrondi à 0,85",
+        "850 €",
+        "4e anniversaire",
+        "0,80",
+        "0,85*0,95 = 0,8075 arrondi à 0,80",
+        "800 €",
+        "5e anniversaire",
+        "0,76",
+        "0,80*0,95 = 0,76",
+        "760 €",
+        "6e anniversaire",
+        "0,72",
+        "0,76*0,95 = 0,722 arrondi à 0,72",
+        "720 €",
+        "7e anniversaire",
+        "0,68",
+        "0,72*0,95 = 0,684 arrondi à 0,68",
+        "680 €",
+        "8e anniversaire",
+        "0,64",
+        "0,68*0,95 = 0,646 arrondi à 0,64",
+        "640 €",
+        "9e anniversaire",
+        "0,60",
+        "0,64*0,95 = 0,608 arrondi à 0,6",
+        "600 €",
+        "10e anniversaire",
+        "0,57",
+        "0,60*0,95 = 0,57 arrondi à 0,57",
+        "570 €",
+        "11e anniversaire",
+        "0,54",
+        "0,57*0,95 = 0,541 arrondi à 0,54",
+        "540 €",
+        "12e anniversaire",
+        "0,51",
+        "0,54*0,95 = 0,513 arrondi à 0,51",
+        "510 €",
+        "13e anniversaire",
+        "0,50",
+        "0,51*0.95 = 0,48 arrondi à 0.5 coefficient maximum",
+        "500 €",
+        "[À noter] Le coefficient obtenu par l'application de la règle du bonus-malus est modifié en fonction du nombre de sinistres enregistrés par les assurances au cours de l'année précédente. Il s'agit du coefficient de variation technique de sinistralité.",
+        "Malus",
+        "Pour chaque accident responsable, l'assuré subit une majoration de 25 %.",
+        "Pour déterminer le coefficient qui résultera de cette majoration, on prend le coefficient avant l'accident que l'on multiplie par 1,25.",
+        "[Exemple] Vous avez un coefficient de 0,68. Un 1er accident entraînera un nouveau coefficient, à savoir : 0,68 * 1,25 = 0,85. Si vous avez un second accident la même année, votre coefficient passera à : 0,85 * 1,25 = 1,06.",
+        "Le coefficient maximal est fixé à 3,5.",
+        "Ainsi, pour une prime de référence de 1 000 €, le montant maximum de prime est de 3 500 €.",
+        "Si vous avez une responsabilité partielle dans l'accident, la majoration est de 12,5%. Dans cette hypothèse, le coefficient reviendra à nouveau à 1 si vous n'avez pas d'accident responsable pendant 2 ans.",
+        "[À savoir] Si vous avez un coefficient de 0,50 depuis au moins 3 ans, le 1er accident responsable qui survient n'entraîne pas l'application du malus.",
+        "Articulation entre le bonus et le malus",
+        "Lors de la souscription du 1er contrat, vous avez un coefficient de 1.",
+        "Si vous n'avez pas d'accident impliquant même partiellement votre responsabilité au cours de la 1re année, vous bénéficiez d'une réduction de 5 %.",
+        "Votre coefficient pour la 2e année sera donc : 1*0,95 = 0,95.",
+        "Si vous avez un accident responsable au cours de la 2e année, vous subirez une majoration de 25 %.",
+        "Votre coefficient pour la 3e année sera donc celui de la 2e année majoré de 25 % : 0,95*1,25 = 1,1875, arrondi à 1,18.",
+        "Pour déterminer le coefficient de la 4e année, on appliquera au coefficient de la 3e année soit une réduction de 5 % soit une majoration de 25 % suivant qu'il y ait eu ou non un accident responsable."
+      ]
+    },
+    {
+      "titre": "Que devient le bonus-malus en cas de changement de véhicule ou d'assurance ?",
+      "contenu": [
+        "Vous conservez votre coefficient de bonus-malus à la fin de votre contrat d'assurance.",
+        "Il sera transféré automatiquement si vous changez de véhicule ou d'assureur ou si vous achetez un véhicule supplémentaire (sous réserve qu'il n'y ait pas de nouveaux conducteurs habituels).",
+        "Si vous vendez votre véhicule et que vous n'en reprenez pas un autre dans l'immédiat, votre contrat sera interrompu.",
+        "Si l'interruption est inférieure à 3 mois et que vous n'avez subi aucun sinistre responsable dans l'année, vous bénéficierez d'une évolution de 5 % de votre bonus en souscrivant votre prochain contrat.",
+        "Si l'interruption est supérieure à 3 mois, vous conservez le bonus-malus que vous aviez avant l'interruption, mais l'assureur peut décider de vous considérer comme un nouveau conducteur si la durée de l'interruption est très longue."
+      ]
+    },
+    {
+      "titre": "Comment connaître son coefficient bonus malus ?",
+      "contenu": [
+        "Chaque année, à l'échéance de votre contrat, votre assureur vous délivre un relevé d'informations. Ce document mentionne votre coefficient de bonus-malus et la liste des sinistres responsables survenus au cours des 5 périodes annuelles précédentes.",
+        "Vous pouvez également demander ce relevé à un autre moment.",
+        "Ce relevé vous sera indispensable si vous désirez changer d'assureur."
+      ]
+    },
+    {
+      "titre": "Quelles circonstances aggravantes peuvent majorer le bonus malus ?",
+      "contenu": [
+        "Certaines circonstances aggravantes peuvent entraîner une majoration de votre prime d'assurance auto. Ces majorations s'appliquent en sus du coefficient de réduction-majoration (bonus-malus) et ne peuvent pas excéder 400 % de la prime de référence.",
+        "Les majorations maximales sont les suivantes :",
+        "• 150 % en cas d'accident responsable avec alcoolémie constatée",
+        "• 50 % à 100 % en cas de suspension du permis de conduire (selon la durée)",
+        "• 100 % en cas de délit de fuite après accident",
+        "• 100 % en cas de fausse déclaration ou d'omission de sinistres lors de la souscription",
+        "• 50 % si vous êtes responsable de 3 sinistres ou plus au cours de la période annuelle de référence."
+      ]
+    },
+    {
+      "titre": "Existe-t-il des exceptions à l'application du bonus malus en matière d'assurance automobile ?",
+      "contenu": [
+        "Oui, le bonus-malus ne s'applique pas dans les cas suivants :",
+        "• Contrats garantissant plus de 3 véhicules dont la conduite exige la possession d'un permis B appartenant à un même propriétaire (sauf pour les véhicules destinés à une location de plus de 12 mois ou au crédit-bail)",
+        "• Véhicules d'exploitation agricole ou à caractère agricole",
+        "• Véhicules du transport public de marchandises ou de voyageurs, et tous les véhicules de poids total autorisé en charge (PTAC) de plus de 3,5 tonnes",
+        "• Véhicules des collaborateurs (salariés ou bénévoles) d'une entreprise utilisés pour les besoins de celle-ci."
+      ]
+    },
+    {
+      "titre": "Comment récupérer son bonus après un malus ?",
+      "contenu": [
+        "Après 2 années consécutives sans aucun accident responsable, votre coefficient de réduction-majoration revient automatiquement à son niveau initial, quel que soit le niveau du malus avant ces 2 années."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code des assurances : articles A121-1 à A121-2",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006156959"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Info Banque - Assurance"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Assurance auto, moto : le bonus-malus",
+      "url": "https://www.franceassureurs.fr/assurance-protege-finance-et-emploie/assurance-protege/lassurance-en-pratique-pour-les-particuliers/assurance-auto-moto-le-bonus-malus/"
+    },
+    {
+      "titre": "Assurance automobile",
+      "url": "https://www.abe-infoservice.fr/assurance/assurance-automobile"
+    },
+    {
+      "titre": "Validité de l'assurance automobile dans l'UE",
+      "url": "http://europa.eu/youreurope/citizens/vehicles/insurance/validity/index_fr.htm"
+    }
+  ],
+  "slug": "bonus-malus-dans-l-assurance-automobile",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "assurance-automobile-vehicule",
+      "titre": "Assurance automobile (véhicule)"
+    }
+  ]
+}

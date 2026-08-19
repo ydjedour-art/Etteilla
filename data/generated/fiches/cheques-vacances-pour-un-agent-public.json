@@ -1,0 +1,75 @@
+{
+  "id": "F32884",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Chèques-vacances pour un agent public",
+  "theme": "Loisirs - Sports - Culture",
+  "description": "En tant qu'agent de la fonction publique, vous pouvez bénéficier de chèques-vacances pour payer certaines prestations (hébergement, restauration, activités).",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-01-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F32884",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Loisirs - Sports - Culture",
+    "Aides aux vacances",
+    "Chèques-vacances pour un agent public"
+  ],
+  "introduction": "Vous êtes agent de l'une des 3 fonctions publiques (fonction publique d'État - FPE, fonction publique territoriale - FPT, fonction publique hospitalière - FPH) et souhaitez obtenir des chèques-vacances pour payer des prestations de loisirs et vacances (hébergement, activités culturelles...) ? Nous vous indiquons les informations à connaître selon votre situation.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Circulaire du 18 juillet 2025 relative au chèque-vacances au bénéfice des agents de l’État",
+      "url": "https://www.legifrance.gouv.fr/download/pdf/circ?id=45615"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demande de chèques-vacances : agent de la fonction publique de l'État",
+      "url": "https://contenu.zecarte.fr/1090/Documents/Formulaire%20demande%20Ch%C3%A8ques%20Vacances.pdf",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Simulateur : avez-vous droit aux chèques-vacances (agent de l'État)",
+      "url": "https://www.fonctionpublique-chequesvacances.fr/agents/Simulateur.aspx",
+      "type": "Simulateur"
+    },
+    {
+      "titre": "Utiliser vos chèques-vacances papiers et dématérialisés",
+      "url": "https://leguide.ancv.com/ptl/recherche/list?theme=&text=&location=&filters%5Bproduits_acceptes%5D%5BCV%5D=CV",
+      "type": "Outil de recherche"
+    },
+    {
+      "titre": "Utiliser vos e-chèques-vacances sur l'application Chèque-vacances connect",
+      "url": "https://leguide.ancv.com/enseignes-cvco",
+      "type": "Outil de recherche"
+    },
+    {
+      "titre": "Demande d'échange de chèques-vacances ou de mise en recherche de titres perdus ou volés",
+      "url": "https://leguide.ancv.com/account/trades/step-1",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "Agence nationale des chèques-vacances (ANCV)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Chèques-vacances : agent public",
+      "url": "https://cheque-vacances.com/fonction-publique/obtenir-cheques-vacances/"
+    },
+    {
+      "titre": "Chèques-vacances",
+      "url": "https://www.ancv.com/obtenir-le-cheque-vacances"
+    }
+  ],
+  "slug": "cheques-vacances-pour-un-agent-public",
+  "path": [
+    {
+      "slug": "loisirs-sports-culture",
+      "titre": "Loisirs - Sports - Culture"
+    },
+    {
+      "slug": "aides-aux-vacances",
+      "titre": "Aides aux vacances"
+    }
+  ]
+}

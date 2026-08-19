@@ -1,0 +1,60 @@
+{
+  "id": "F13212",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Les prestations familiales sont-elles versées sous conditions de ressources ?",
+  "theme": "Famille - Scolarité",
+  "description": "La plupart du temps, les prestations familiales sont soumises à conditions de revenus.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-06-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F13212",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Allocations destinées aux familles",
+    "Les prestations familiales sont-elles versées sous conditions de ressources ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "La plupart du temps, les prestations familiales sont soumises à conditions de revenus. C'est-à-dire qu'au-dessus d'un certain seuil de revenus, soit la famille n'y a plus droit, soit le montant des prestations versées est plus faible.",
+        "Prestations sous conditions de ressources",
+        "• Prime à la naissance de la prestation d'accueil du jeune enfant (Paje)",
+        "• Allocation de base de la Paje",
+        "• Prime à l'adoption de la Paje",
+        "• Prime de déménagement",
+        "• Complément pour frais de l'allocation journalière de présence parentale (AJPP)",
+        "• Allocation de rentrée scolaire (ARS).",
+        "Prestations réduites en fonction des revenus",
+        "• Allocations familiales",
+        "• Complément de libre choix du mode de garde",
+        "• Allocation versée en cas de décès d'un enfant",
+        "Prestations sans condition de revenus",
+        "• Prestation partagée d'éducation de l'enfant (PreParE)",
+        "• Allocation de soutien familial (ASF)",
+        "• Allocation journalière de présence parentale (AJPP)",
+        "• Allocation d'éducation de l'enfant handicapé (AEEH).",
+        "[Attention] Pour que les parents puissent bénéficier de l'AEEH, l'enfant ne doit pas percevoir de revenus professionnels supérieurs à 55 % du Smic mensuel brut, soit 1 026,86 €."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [
+    "Caisse primaire d'assurance maladie (CPAM)",
+    "Mutualité sociale agricole (MSA)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "les-prestations-familiales-sont-elles-versees-sous-conditions-de-ressources",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "allocations-destinees-aux-familles",
+      "titre": "Allocations destinées aux familles"
+    }
+  ]
+}

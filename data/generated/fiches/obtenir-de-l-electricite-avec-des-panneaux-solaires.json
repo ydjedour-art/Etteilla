@@ -1,0 +1,33 @@
+{
+  "id": "F36490",
+  "type_publication": "Recherche guidée",
+  "titre": "[Obtenir de l'électricité avec des panneaux solaires]",
+  "theme": "Logement",
+  "description": "[Obtenir de l'électricité avec des panneaux solaires]",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2025-09-30",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F36490",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Vie pratique en logement individuel (maison)",
+    "[Obtenir de l'électricité avec des panneaux solaires]"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "obtenir-de-l-electricite-avec-des-panneaux-solaires",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "vie-pratique-en-logement-individuel-maison",
+      "titre": "Vie pratique en logement individuel (maison)"
+    }
+  ]
+}

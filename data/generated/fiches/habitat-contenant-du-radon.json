@@ -1,0 +1,85 @@
+{
+  "id": "F20599",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Habitat contenant du radon",
+  "theme": "Logement",
+  "description": "Le radon est un gaz radioactif d'origine naturelle généralement présent dans les sous-sols. Dans certains cas, des mesures ou travaux doivent être entrepris.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-02-03",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F20599",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Risques sanitaires et sécurité du logement",
+    "Habitat contenant du radon"
+  ],
+  "introduction": "Le radon est un gaz radioactif d'origine naturelle généralement présent dans les sous-sols. Plus rarement, il peut aussi être présent dans les matériaux de construction ou l'eau courante. Le radon comporte des risques pour la santé (par exemple, augmentation du risque de développer un cancer du poumon). Que faire en cas de présence de radon dans son logement ? Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Quelles sont les zones concernées par le radon ?",
+      "contenu": [
+        "On trouve du radon principalement dans les zones géographiques suivantes :",
+        "• Bretagne",
+        "• Corse",
+        "• Massif Central",
+        "• Vosges.",
+        "Vous pouvez consulter une cartographie pour savoir si votre commune est concernée.",
+        "Ces zones n'indiquent pas forcément la présence de radon dans votre logement, car cela dépend de multiples facteurs (par exemple, étanchéité entre le bâtiment et le sol, taux de renouvellement de l'air intérieur).",
+        "[Attention] En tant que propriétaire bailleur ou vendeur, vous avez l'obligation de remettre au futur locataire ou acquéreur un état des risques si le logement est situé dans une zone à potentiel radon significatif, dite de niveau 3 (le plus élevé)."
+      ]
+    },
+    {
+      "titre": "Comment vérifier la présence de radon dans un logement ?",
+      "contenu": [
+        "Vous pouvez vous procurer un dosimètre dans le commerce (ou plusieurs dosimètres selon la taille du logement).",
+        "Pour que les vérifications soient efficaces, elles doivent être effectuées dans les pièces aux niveaux les plus bas occupés (principalement séjour et chambre) sur une durée de 2 mois minimum et de préférence en période de chauffe (mi-septembre à fin avril)."
+      ]
+    },
+    {
+      "titre": "Quelles sont les conséquences en présence de radon dans le logement ?",
+      "contenu": [
+        "Lorsque le résultat du dosimètre est supérieur à 300 becquerels (BQ)/m3, il y a un risque pour votre santé.",
+        "Dans ce cas, il est nécessaire de réaliser des travaux ou de mettre en place des mesures.",
+        "Ces mesures peuvent être les suivantes :",
+        "• Installation d'un système de ventilation mécanique ou aération fréquente de toutes les pièces du logement en ouvrant les fenêtres",
+        "• Rénovation des sous-sols (étanchéité, par exemple) et des canalisations. Les travaux doivent être réalisés par des entreprises compétentes en matière de maçonnerie ou d'étanchéité et plus particulièrement en matière de génie climatique.",
+        "[Attention] Il est possible de réduire le taux de radon dans son logement, mais non de l'éliminer totalement."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la santé publique : articles L1333-22 à L1333-24",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032044661"
+    },
+    {
+      "titre": "Code de la santé publique : articles R1333-28 à R1333-31",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000036990982/#LEGISCTA000036990982"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Dossier sur la présence de radon dans l'habitat",
+      "url": "https://www.irsn.fr/FR/connaissances/Environnement/expertises-radioactivite-naturelle/radon/Pages/Le-radon.aspx"
+    },
+    {
+      "titre": "Le zonage du radon sur sa commune",
+      "url": "https://www.georisques.gouv.fr/sites/default/files/2023-11/Fiche-radon.pdf"
+    }
+  ],
+  "slug": "habitat-contenant-du-radon",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "risques-sanitaires-et-securite-du-logement",
+      "titre": "Risques sanitaires et sécurité du logement"
+    }
+  ]
+}

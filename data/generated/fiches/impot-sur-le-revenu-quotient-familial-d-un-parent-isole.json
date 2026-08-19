@@ -1,0 +1,184 @@
+{
+  "id": "F35120",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Impôt sur le revenu - Quotient familial d'un parent isolé",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Si vous vivez seul avec vos enfants, en garde exclusive ou partagée, vous bénéficiez d'une majoration de votre nombre de parts en tant que parent isolé.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-15",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35120",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Impôt sur le revenu : déclaration et revenus à déclarer",
+    "Impôt sur le revenu - Quotient familial d'un parent isolé"
+  ],
+  "introduction": "Vous vivez seul avec vos enfants et vous vous interrogez sur votre situation fiscale ? Vous bénéficiez de la majoration de votre nombre de parts liée à vos enfants, mais aussi d'un majoration supplémentaire en tant que parent isolé. L'avantage varie selon que vos enfants sont en garde exclusive ou partagée. Nous vous indiquons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Qu'est-ce qu'un parent isolé ?",
+      "contenu": [
+        "Pour les services fiscaux, vous êtes un parent isolé si vous êtes au 1er janvier 2025 dans l'une des situations suivantes :",
+        "• Vous vivez seul avec vos enfants à charge",
+        "• Vous vivez seul et vous avez recueilli une personne invalide sous votre toit.",
+        "Vous devez aussi être dans l'une des situations suivantes :",
+        "• Célibataire",
+        "• Divorcé",
+        "• Séparé.",
+        "Les services fiscaux considèrent que vous vivez seul si vous ne vivez pas en concubinage.",
+        "Vous pouvez donc vivre par exemple avec un descendant ou un ascendant.",
+        "[À noter] Si votre époux ou épouse ou partenaire de Pacs est décédé, votre situation est différente."
+      ]
+    },
+    {
+      "titre": "Quels sont les avantages accordés à un parent isolé en présence d'un ou de plusieurs enfants ?",
+      "contenu": [
+        "Vos enfants à charge (ou rattachés à votre déclaration) vous donnent droit à une majoration de votre nombre de parts, selon votre situation.",
+        "Vous avez des enfants en garde exclusive",
+        "Si vous avez un (ou plusieurs) enfant à charge exclusive (mineur ou majeur célibataire), vous bénéficiez d'une majoration de parts pour chacun de vos enfants.",
+        "En tant que parent isolé, vous bénéficiez d'une demi-part supplémentaire pour votre 1er enfant.",
+        "Vous pouvez donc bénéficier du nombre total de parts suivant :",
+        "Nombre de parts de quotient familial en présence d'enfants en garde exclusive",
+        "Nombre d'enfants",
+        "Nombre de parts (parent compris)",
+        "1",
+        "2",
+        "2",
+        "2,5",
+        "Par enfant supplémentaire",
+        "1",
+        "[À savoir] Si votre enfant fiscalement à charge a une carte mobilité inclusion portant la mention \"invalidité\", vous avez droit à une demi-part supplémentaire de quotient familial.",
+        "[Exemple] Vous vivez seule et vous avez 3 enfants à charge exclusive. Vous avez droit à 1 part pour vous. Vos enfants vous donnent les droits suivants : • 1er enfant : 1 part (dont une demi-part en tant que parent isolé) • 2e enfant : une demi-part • 3e enfant : 1 part. Soit un total de 3,5 parts.",
+        "L'avantage fiscal est limité à 4 262 € pour la part entière accordée pour votre 1er enfant à charge.",
+        "Pour savoir si vous êtes concerné par le plafonnement, le service des impôts compare les résultats des 2 calculs suivants :",
+        "• Impôt calculé sur 1 part, diminué du montant du plafond correspondant aux majorations de quotient familial",
+        "• Impôt calculé sur votre nombre de parts réel (en fonction de votre situation et de vos charges de famille).",
+        "Si le 2nd résultat est inférieur au 1er, le plafonnement est applicable. Le montant de l'impôt dû correspond au 1er résultat.",
+        "Vous avez des enfants en résidence alternée",
+        "Vous avez droit à une majoration de parts pour chacun de vos enfants à charge (mineur ou majeur célibataire).",
+        "En tant que parent isolé, vous bénéficiez d'une majoration supplémentaire :",
+        "• Un quart de part supplémentaire pour 1 enfant",
+        "• Une demi-part supplémentaire pour 2 enfants au moins.",
+        "[À noter] Si vous avez à la fois des enfants en garde exclusive et des enfants en résidence alternée, vous avez droit à une demi-part supplémentaire en tant que parent isolé.",
+        "Vous pouvez donc bénéficier du nombre total de parts suivant :",
+        "Nombre de parts de quotient familial en présence d'enfants en garde partagée",
+        "Nombre d'enfants",
+        "Nombre de parts (parent compris)",
+        "1",
+        "1,5",
+        "2",
+        "2",
+        "Par enfant supplémentaire",
+        "0,5",
+        "[À savoir] Si votre enfant fiscalement à charge a une carte mobilité inclusion portant la mention \"invalidité\", vous avez droit à un quart de part supplémentaire de quotient familial.",
+        "[Exemple] Vous vivez seule et vous avez 3 enfants en résidence alternée. Vous avez droit à 1 part pour vous. Vos enfants vous donnent les droits suivants : • 1er enfant : une demi-part (dont un quart de part en tant que parent isolé) • 2e enfant : une demi-part (dont un quart de part en tant que parent isolé) • 3e enfant : une demi-part. Soit un total de 2,5 parts.",
+        "L'avantage fiscal est limité à 2 131,00 € pour la demi-part accordée pour chacun des 2 premiers enfants à charge.",
+        "Pour savoir si vous êtes concerné par le plafonnement, le service des impôts compare les résultats des 2 calculs suivants :",
+        "• Impôt calculé sur 1 part, diminué du montant du plafond correspondant aux majorations de quotient familial",
+        "• Impôt calculé sur votre nombre de parts réel (en fonction de votre situation et de vos charges de famille).",
+        "Si le 2nd résultat est inférieur au 1er, le plafonnement est applicable. Le montant de l'impôt dû correspond au 1er résultat."
+      ]
+    },
+    {
+      "titre": "Quel est l'avantage accordé à un parent isolé qui a une personne invalide à charge ?",
+      "contenu": [
+        "Vous faites votre déclaration de revenus personnelle.",
+        "Vous avez droit à 1 part de quotient familial.",
+        "Vous avez droit à une majoration d'une part pour chaque personne invalide recueillie sous votre toit.",
+        "La personne invalide à charge doit remplir les conditions suivantes :",
+        "• Vivre sous votre toit",
+        "• Avoir la carte mobilité inclusion portant la mention \"invalidité\".",
+        "Puisque vous vivez seul, vous bénéficiez d'une demi-part supplémentaire.",
+        "Vous bénéficiez donc d'un total de 2,5 parts."
+      ]
+    },
+    {
+      "titre": "Quel est l'avantage accordé à un parent isolé invalide ?",
+      "contenu": [
+        "Vous bénéficiez d'une demi-part supplémentaire si vous êtes dans l'une des 2 situations suivantes :",
+        "• Carte mobilité inclusion portant la mention \"invalidité\"",
+        "• Pension (militaire ou accident de travail) pour une invalidité d'au moins 40 %."
+      ]
+    },
+    {
+      "titre": "Quel est l'avantage accordé à un parent isolé ancien combattant ?",
+      "contenu": [
+        "Vous bénéficiez d'une demi-part supplémentaire si vous remplissez les 2 conditions suivantes :",
+        "• Plus de 74 ans au 31 décembre 2025",
+        "• Carte du combattant ou pension militaire d'invalidité ou de victime de guerre."
+      ]
+    },
+    {
+      "titre": "Comment remplir sa déclaration de revenus en tant que parent isolé ?",
+      "contenu": [
+        "Pour bénéficier de l’avantage accordé au parent isolé, la case T de votre déclaration de revenus doit être cochée.",
+        "Vérifiez que la case est précochée, ou cochez la case si ce n’est pas le cas."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général des impôts : articles 193 à 199",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006179577/"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-IR-LIQ-10-20 relatif au calcul du quotient familial",
+      "url": "http://bofip.impots.gouv.fr/bofip/2235-PGP"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-IR-LIQ-10-20-20 relatif aux majorations du quotient familial",
+      "url": "https://bofip.impots.gouv.fr/bofip/2234-PGP.html/identifiant%3DBOI-IR-LIQ-10-20-20-20140331"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-IR-LIQ-20-20-20 relatif au plafonnement des effets du quotient familial",
+      "url": "https://bofip.impots.gouv.fr/bofip/2494-PGP"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-IR-LIQ-10-10 relatif à la prise en compte de la situation et des charges de famille pour l'impôt sur le revenu",
+      "url": "https://bofip.impots.gouv.fr/node/3647"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Impôts : accéder à votre espace Finances publiques",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Déclarer vos revenus en ligne",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Déclaration 2026 des revenus 2025 (papier)",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/2042/declaration-des-revenus",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Estimer le montant de son impôt sur les revenus de 2025 (déclaration de 2026)",
+      "url": "https://simulateur-ir-ifi.impots.gouv.fr/calcul_impot/2026/",
+      "type": "simulateurNG"
+    }
+  ],
+  "contacts": [
+    "Service d'information des impôts",
+    "Service en charge des impôts (trésorerie, service des impôts...)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Brochure pratique 2026 - Déclaration des revenus de 2025",
+      "url": "https://www.impots.gouv.fr/www2/fichiers/documentation/brochure/ir_2026/accueil.htm"
+    }
+  ],
+  "slug": "impot-sur-le-revenu-quotient-familial-d-un-parent-isole",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "impot-sur-le-revenu-declaration-et-revenus-a-declarer",
+      "titre": "Impôt sur le revenu : déclaration et revenus à déclarer"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "F3042",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Congé de formation professionnelle dans la fonction publique territoriale (FPT)",
+  "theme": "Travail - Formation",
+  "description": "Un congé de formation professionnelle (CFP) peut permettre de suivre une formation pour un projet personnel ou professionnel.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-08-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F3042",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Formation professionnelle dans la fonction publique",
+    "Congé de formation professionnelle dans la fonction publique territoriale (FPT)"
+  ],
+  "introduction": "Vous êtes agent territorial et souhaitez suivre une formation pour réaliser un projet personnel ou professionnel ? Pour cela, vous pouvez bénéficier, sous certaines conditions, d'un congé de formation professionnelle (CFP). Nous vous exposons les règles à connaître. Elles diffèrent selon que vous êtes fonctionnaire (titulaire) ou contractuel (non titulaire).",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code général de la fonction publique : article L422-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044422304/"
+    },
+    {
+      "titre": "Code général de la fonction publique : article L422-35",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044422390/"
+    },
+    {
+      "titre": "Code général de la fonction publique : articles R422-108 à R422-142",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000054076765/2026-08-01"
+    },
+    {
+      "titre": "Code général de la fonction publique : articles R423-31 et R423-32",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000054077047/2026-08-01"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "conge-de-formation-professionnelle-dans-la-fonction-publique-territoriale-fpt",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "formation-professionnelle-dans-la-fonction-publique",
+      "titre": "Formation professionnelle dans la fonction publique"
+    }
+  ]
+}

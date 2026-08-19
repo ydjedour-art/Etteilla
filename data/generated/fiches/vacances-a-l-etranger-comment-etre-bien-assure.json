@@ -1,0 +1,35 @@
+{
+  "id": "F2169",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Vacances à l'étranger : comment être bien assuré ?",
+  "theme": "Étranger - Europe",
+  "description": "La souscription d'un contrat d'assurance et/ou d'assistance permet, pendant vos vacances, de vous protéger contre des imprévus vol de bagages, accident,...).",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-11-26",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2169",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Voyager à l'étranger",
+    "Vacances à l'étranger : comment être bien assuré ?"
+  ],
+  "introduction": "Lors de vacances à l'étranger, vous pouvez être confronté à des imprévus (par exemple, accident, vol de bagages). La souscription d'un contrat d'assurance et/ou d'assistance permet de vous protéger. Nous vous présentons les informations à connaître avant de partir et pendant votre voyage.",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [
+    "Info Banque - Assurance"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "vacances-a-l-etranger-comment-etre-bien-assure",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "voyager-a-l-etranger",
+      "titre": "Voyager à l'étranger"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "F37346",
+  "type_publication": "Recherche guidée",
+  "titre": "Abandon d'une arme",
+  "theme": "Loisirs - Sports - Culture",
+  "description": "Abandon d'une arme",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2024-04-03",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F37346",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Loisirs - Sports - Culture",
+    "Armes",
+    "Abandon d'une arme"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "abandon-d-une-arme",
+  "path": [
+    {
+      "slug": "loisirs-sports-culture",
+      "titre": "Loisirs - Sports - Culture"
+    },
+    {
+      "slug": "armes",
+      "titre": "Armes"
+    }
+  ]
+}

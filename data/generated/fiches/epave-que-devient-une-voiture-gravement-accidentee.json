@@ -1,0 +1,109 @@
+{
+  "id": "F2682",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Épave : que devient une voiture gravement accidentée ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Une voiture gravement accidentée peut être retirée de la circulation si les dégâts subis la rendent dangereuse. Le véhicule peut être déclaré irréparable.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-04-27",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2682",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Assurance automobile (véhicule)",
+    "Épave : que devient une voiture gravement accidentée ?"
+  ],
+  "introduction": "Vous avez été victime d’un accident de la circulation et votre véhicule est gravement endommagé ? Dans ce cas, une procédure spécifique peut être engagée pour vérifier si le véhicule peut continuer à circuler en toute sécurité. La procédure se déroule en plusieurs étapes, depuis la constatation du danger jusqu’aux décisions sur la réparation ou la destruction du véhicule.",
+  "chapitres": [
+    {
+      "titre": "Faire constater le caractère dangereux du véhicule",
+      "contenu": [
+        "Intervenants",
+        "Les forces de l’ordre peuvent intervenir immédiatement après l’accident si elles constatent que le véhicule présente un danger pour la circulation.",
+        "Un expert mandaté par votre assurance peut également intervenir, dans un second temps, pour examiner l’état du véhicule.",
+        "Procédure",
+        "Lorsque le véhicule présente un danger immédiat, les forces de l’ordre peuvent décider de l’immobiliser. Elles peuvent également retirer le certificat d’immatriculation ou signaler la situation au ministère de l’intérieur pour qu’une opposition soit inscrite. Dans tous les cas, un avis de retrait vous est remis pour vous informer de la décision.",
+        "[Exemple] Un véhicule dont la structure est fortement déformée après un choc peut être immédiatement interdit de circulation.",
+        "Conséquences",
+        "Vous ne pouvez plus utiliser votre véhicule sur la voie publique. Par ailleurs, vous ne pouvez pas le vendre ou le donner tant que la situation n’est pas régularisée."
+      ]
+    },
+    {
+      "titre": "Faire expertiser le véhicule",
+      "contenu": [
+        "Intervenants",
+        "Votre assureur mandate un expert en automobile pour examiner le véhicule.",
+        "Procédure",
+        "L’expert procède à une analyse complète du véhicule pour évaluer son état. Il rédige ensuite un rapport dans lequel il précise si le véhicule peut être réparé dans des conditions normales de sécurité ou s’il doit être considéré comme dangereux. Ce rapport est transmis à la fois à votre assureur et au ministère de l’intérieur.",
+        "[Exemple] si les éléments de direction ou les dispositifs de sécurité comme les airbags sont endommagés, le véhicule peut être considéré comme dangereux tant que les réparations ne sont pas effectuées.",
+        "Conséquences",
+        "Vous êtes informé de l’état réel du véhicule et des réparations éventuellement nécessaires. Cette expertise constitue la base de toutes les décisions qui seront prises par la suite.",
+        "[À savoir] Si vous contestez les conclusions du rapport d’expertise, vous avez la possibilité de demander une contre-expertise. Cette démarche permet de faire examiner à nouveau le véhicule par un autre professionnel. Vous pouvez ainsi défendre vos intérêts, notamment en ce qui concerne la possibilité de réparer le véhicule ou l’évaluation de sa valeur."
+      ]
+    },
+    {
+      "titre": "Décider de réparer le véhicule ou de le céder",
+      "contenu": [
+        "Intervenants",
+        "Vous intervenez avec votre assureur, un professionnel de l’automobile et, si la situation le nécessite, un expert en véhicule endommagé (expert VE).",
+        "Procédure",
+        "À la suite du rapport d’expertise, 2 situations peuvent se présenter :",
+        "• Si le véhicule est techniquement réparable, vous pouvez faire réaliser les travaux par un garagiste. Dans ce cas, un expert VE suit les réparations et vérifie qu’elles respectent les exigences de sécurité.",
+        "• Si le véhicule est irréparable ou si le coût des réparations dépasse sa valeur, l’assureur met en œuvre la procédure de « véhicule économiquement irréparable » et peut vous proposer de racheter le véhicule.",
+        "Conséquences",
+        "Lorsque les réparations sont validées, vous pouvez demander la remise en circulation du véhicule.",
+        "En revanche, si vous acceptez l’offre de l’assureur, celui-ci prend en charge la destruction du véhicule. Si vous refusez cette offre, vous conservez le véhicule, mais vous ne pouvez le céder qu’à un professionnel agréé pour destruction."
+      ]
+    },
+    {
+      "titre": "Si le véhicule est réparé, effectuer les démarches administratives",
+      "contenu": [
+        "Le ministère de l’intérieur intervient pour mettre à jour la situation administrative du véhicule.",
+        "Selon les conclusions de l’expertise et les décisions prises, l’administration peut lever l’opposition inscrite sur le certificat d’immatriculation. Elle peut également restituer ou rééditer ce certificat si le véhicule est à nouveau autorisé à circuler.",
+        "Vous pouvez alors utiliser de nouveau votre véhicule en toute légalité. Vous retrouvez également la possibilité de le vendre ou de le donner, dans le respect des règles applicables.",
+        "Ainsi, après validation des réparations par l’expert, vous pouvez récupérer votre carte grise et reprendre l’usage du véhicule."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la route : articles L327-1 à L327-6",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006159537"
+    },
+    {
+      "titre": "Code de la route : articles R327-1 à R327-6",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074228/LEGISCTA000006159618/"
+    },
+    {
+      "titre": "Arrêté du 29 avril 2009 relatif aux véhicules endommagés pour les voitures particulières et les camionnettes",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000020608894/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Certificat de cession d'un véhicule d'occasion",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/15776",
+      "type": "formulaireNG"
+    }
+  ],
+  "contacts": [
+    "Info Banque - Assurance"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Assurance automobile",
+      "url": "https://www.abe-infoservice.fr/assurance/assurance-automobile"
+    }
+  ],
+  "slug": "epave-que-devient-une-voiture-gravement-accidentee",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "assurance-automobile-vehicule",
+      "titre": "Assurance automobile (véhicule)"
+    }
+  ]
+}

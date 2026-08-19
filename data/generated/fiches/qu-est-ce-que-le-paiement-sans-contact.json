@@ -1,0 +1,56 @@
+{
+  "id": "F10410",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Qu'est-ce que le paiement sans contact ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Le paiement sans contact est un mode de paiement rapide, par carte bancaire ou téléphone mobile, chez un commerçant.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-07-31",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F10410",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Moyens de paiement",
+    "Qu'est-ce que le paiement sans contact ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Le paiement sans contact est un mode de paiement rapide, par carte bancaire ou téléphone mobile. Vous pouvez l'utiliser pour effectuer des achats d'un faible montant chez un commerçant équipé d'un terminal. Pour une période donnée (par jour, par semaine ou par mois), le montant cumulé des paiements sans contact est limité."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Règlement délégué (UE) 2018/389 de la commission du 27 novembre 2017",
+      "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:02018R0389-20230912#tocId75"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Info Banque - Assurance"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Le paiement sans contact : comment ça marche ?",
+      "url": "https://www.abe-infoservice.fr/banque/moyens-de-paiement/paiement-sans-contact-ou-nfc-comment-ca-marche"
+    },
+    {
+      "titre": "Paiement sans contact : comment ça fonctionne ?",
+      "url": "https://www.economie.gouv.fr/particuliers/paiement-carte-bancaire-telephone-sans-contact"
+    }
+  ],
+  "slug": "qu-est-ce-que-le-paiement-sans-contact",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "moyens-de-paiement",
+      "titre": "Moyens de paiement"
+    }
+  ]
+}

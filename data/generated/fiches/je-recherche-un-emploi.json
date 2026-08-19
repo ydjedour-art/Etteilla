@@ -1,0 +1,100 @@
+{
+  "id": "F17556",
+  "type_publication": "Fiche Comment faire si conditionné",
+  "titre": "Je recherche un emploi",
+  "theme": "",
+  "description": "Si je suis à la recherche d’un emploi, je peux m’inscrire à France Travail.",
+  "type_fiche": "Comment faire si...",
+  "date_modif": "2026-04-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F17556",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Comment faire si",
+    "Je recherche un emploi"
+  ],
+  "introduction": "Lorsque je suis en recherche d'emploi, je peux dans un premier temps m'inscrire à France Travail (anciennement Pôle emploi). Ensuite, lors de ma recherche d'emploi ou lors de ma reprise d'activité, je dois accomplir différentes démarches.",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [
+    {
+      "titre": "Connaître les prestations sociales auxquelles vous pouvez avoir droit",
+      "url": "https://www.mesdroitssociaux.gouv.fr",
+      "type": "selNG"
+    },
+    {
+      "titre": "Guide des simulateurs d'allocations et aides de France Travail (anciennement Pôle emploi)",
+      "url": "https://candidat.francetravail.fr/portail-simulateurs/",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Rechercher une offre d'emploi sur France Travail",
+      "url": "https://candidat.francetravail.fr/offres/emploi",
+      "type": "selNG"
+    },
+    {
+      "titre": "Les outils pratiques de France Travail (anciennement Pôle emploi)",
+      "url": "https://www.francetravail.org/acteursemploi/des-outils-a-votre-disposition.html",
+      "type": "selNG"
+    },
+    {
+      "titre": "La bonne boîte : trouver l'entreprise qui embauche sans passer d'offre d'emploi",
+      "url": "https://labonneboite.francetravail.fr/",
+      "type": "selNG"
+    },
+    {
+      "titre": "Rechercher un emploi avec l'Apec",
+      "url": "https://www.apec.fr/candidat.html?",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Rechercher un emploi de cadre à l'international",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi?lieux=102099",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Recherche d'un emploi dans le secteur agricole",
+      "url": "https://www.apecita.com/offres",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Consulter les offres d’emploi de la fonction publique",
+      "url": "https://choisirleservicepublic.gouv.fr/",
+      "type": "outilRechercheNG"
+    },
+    {
+      "titre": "Offres d'emploi, jobs et stages sur le site du CIDJ",
+      "url": "https://www.cidj.com/emploi-jobs-stages",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Rechercher une formation avec France Travail (anciennement Pôle emploi)",
+      "url": "https://candidat.francetravail.fr/formations/recherche;JSESSIONID_RECH_FORMATION=UNShRQNz-R4NwHEpzd4ejBiBD17xli95fqWB6-RaVmXYd_Kx5eIF!-87540300?range=0-9&tri=0",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "France Travail",
+    "Information jeunesse"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Vivre et travailler en Europe : informations par pays",
+      "url": "https://ec.europa.eu/eures/main.jsp?acro=lw&lang=fr&catId=490&parentId=0"
+    },
+    {
+      "titre": "Mobilité internationale",
+      "url": "https://www.francetravail.fr/international/mobilite-internationale.html"
+    },
+    {
+      "titre": "Information et orientation sur les formations et les métiers",
+      "url": "http://www.orientation-pour-tous.fr"
+    }
+  ],
+  "slug": "je-recherche-un-emploi",
+  "path": [
+    {
+      "slug": "comment-faire-si",
+      "titre": "Comment faire si"
+    }
+  ]
+}

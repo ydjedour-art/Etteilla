@@ -1,0 +1,33 @@
+{
+  "id": "F36498",
+  "type_publication": "Recherche guidée",
+  "titre": "[Covid - Vacciné ?]",
+  "theme": "Social - Santé",
+  "description": "[Covid - Vacciné ?]",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2023-01-19",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F36498",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Covid-19",
+    "[Covid - Vacciné ?]"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "covid-vaccine",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "covid-19",
+      "titre": "Covid-19"
+    }
+  ]
+}

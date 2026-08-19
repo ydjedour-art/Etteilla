@@ -1,0 +1,102 @@
+{
+  "id": "F2767",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Comment faire une donation au dernier vivant ?",
+  "theme": "Famille - Scolarité",
+  "description": "La donation au dernier vivant, aussi appelée donation entre époux, permet d'augmenter la part d'héritage de son époux.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2024-12-18",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2767",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Testament",
+    "Comment faire une donation au dernier vivant ?"
+  ],
+  "introduction": "Vous voulez augmenter la part d'héritage de votre époux ou épouse ? Pour cela, vous pouvez faire une donation au dernier vivant, aussi appelée donation entre époux. La part que vous pouvez donner à votre époux ou épouse diffère si vous avez eu des enfants ou non. Voici les règles à connaître pour faire une donation au dernier vivant.",
+  "chapitres": [
+    {
+      "titre": "Qu'est-ce qu'une donation au dernier vivant ?",
+      "contenu": [
+        "La donation au dernier vivant vous permet d'augmenter la part d'héritage de votre époux ou épouse.",
+        "Elle concerne uniquement les biens que vous laisserez à votre décès.",
+        "La part que vous décidez d'attribuer à votre époux ou épouse lui est donc transmise au moment de votre décès, contrairement à une donation simple."
+      ]
+    },
+    {
+      "titre": "Quelle part de son patrimoine peut-on donner à son époux ou épouse ?",
+      "contenu": [
+        "La part du patrimoine que vous pouvez transmettre à votre époux ou épouse diffère selon que vous avez eu des enfants ou non.",
+        "Présence d'enfant",
+        "En présence d'enfants communs (issus de votre couple), en principe, votre époux ou épouse hérite de la totalité de vos biens en usufruit ou du 1/4 de vos biens en pleine propriété.",
+        "En présence d'enfant non communs, votre époux ou épouse hérite du 1/4 de vos biens en pleine propriété.",
+        "La donation au dernier vivant vous permet de lui donner la part suivante de votre patrimoine :",
+        "• Soit 1/4 de votre succession en pleine propriété, et les 3/4 en usufruit",
+        "• Soit la totalité de votre succession en usufruit",
+        "• Soit la quotité disponible de votre succession en pleine propriété. La quotité disponible dépend du nombre d'enfants au jour de votre décès. S'il y a un enfant, elle correspond à la moitié de la succession. S'il y a 2 enfants, 1/3 de la succession. S'il y en a 3 ou plus, 1/4 de la succession.",
+        "La donation entre époux peut aussi concerner toute la succession en pleine propriété. En cas d'accord des enfants, votre époux reçoit tous les biens de la succession. En cas de désaccord, les enfants devront faire une action en réduction. Votre époux devra alors choisir entre la totalité de la succession en usufruit, ou le 1/4 en pleine propriété et les 3/4 en usufruit, ou la pleine propriété de la quotité disponible. Son choix déterminera le montant de l'indemnité de réduction due aux enfants.",
+        "[À savoir] Dans l'acte de donation, vous pouvez permettre à votre époux ou épouse de choisir la formule qu’il préfère ou, au contraire, limiter ses possibilités.",
+        "Absence d'enfant",
+        "En principe, votre époux ou épouse hérite de la moitié de la succession si vos 2 parents sont vivants ou des 3/4 de la succession si un seul de vos parents est vivant.",
+        "La donation au dernier vivant vous permet de lui donner la totalité de votre succession.",
+        "Toutefois, si votre père et/ou votre mère sont toujours vivants, ils peuvent utiliser leur droit de retour sur les biens qu'ils vous avaient donné avant votre décès."
+      ]
+    },
+    {
+      "titre": "Quand faire une donation au dernier vivant ?",
+      "contenu": [
+        "Vous pouvez faire une donation au dernier vivant pendant le mariage.",
+        "Vous pouvez aussi le faire avant le mariage, par contrat. Toutefois, elle sera sans effet si le mariage n'a pas lieu."
+      ]
+    },
+    {
+      "titre": "Quelles sont les démarches pour faire une donation au dernier vivant ?",
+      "contenu": [
+        "La donation au dernier vivant se fait par acte notarié. Vous devez donc vous adresser à un notaire.",
+        "Notaire",
+        "Le notaire fait inscrire votre donation au dernier vivant au fichier central des dispositions de dernières volontés (FCDDV), sauf si vous vous y opposez.",
+        "[À noter] La donation au dernier vivant peut être consentie de manière réciproque : chacun des époux accorde à l’autre une donation, dans deux actes notariés séparés."
+      ]
+    },
+    {
+      "titre": "Quel est le coût d'une donation au dernier vivant ?",
+      "contenu": [
+        "Vous devrez payer des frais de notaire.",
+        "Vous devez régler au notaire 135,84 € TTC pour l'établissement de l'acte de donation.",
+        "[À noter] L'inscription de la donation au fichier central des dispositions de dernières volontés (FCDDV) peut aussi vous être facturée."
+      ]
+    },
+    {
+      "titre": "Peut-on annuler une donation au dernier vivant ?",
+      "contenu": [
+        "Vous pouvez annuler à tout moment une donation au dernier vivant.",
+        "L'annulation peut être réalisée devant le notaire ou par testament.",
+        "La donation au dernier vivant est automatiquement annulée en cas de divorce, sauf si vous, qui l'avez consenti, décidez de la maintenir.",
+        "[À noter] vous pouvez annuler une donation au dernier vivant sans que votre époux ou épouse en soit informé(e)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : articles 1091 à 1099-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006136553"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Notaire",
+    "Chambre départementale des notaires"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "comment-faire-une-donation-au-dernier-vivant",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "testament",
+      "titre": "Testament"
+    }
+  ]
+}

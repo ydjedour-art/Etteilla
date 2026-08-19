@@ -1,0 +1,65 @@
+{
+  "id": "F33899",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Santé d'une personne sous tutelle ou curatelle : quelles sont les règles ?",
+  "theme": "Famille - Scolarité",
+  "description": "En principe, seule la personne protégée à accès à ses informations médicales.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-05-02",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33899",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Protection juridique (tutelle, curatelle...)",
+    "Santé d'une personne sous tutelle ou curatelle : quelles sont les règles ?"
+  ],
+  "introduction": "Vous souhaitez savoir si une personne mise sous tutelle ou curatelle peut avoir accès à ses informations médicales et si elle peut prendre une décision la concernant seule. Les règles varient selon qu'il s'agisse d'une tutelle ou d'un curatelle. Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code civil : article 457-1 à 463",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006165510/"
+    },
+    {
+      "titre": "Code de la santé publique : articles L1110-1 à L1110-13",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000006170991/"
+    },
+    {
+      "titre": "Code de la santé publique : articles R1111-1 à R1111-7",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000006196866/"
+    },
+    {
+      "titre": "Code de la santé publique : article L1111-7",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041721068"
+    },
+    {
+      "titre": "Code des relations entre le public et l'administration : article L311-6",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037269056"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Maison de justice et du droit"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Règles de communication des informations médicales",
+      "url": "https://www.cada.fr/administration/dossier-medical-personnel"
+    },
+    {
+      "titre": "Soins aux majeurs protégés",
+      "url": "https://www.conseil-national.medecin.fr/medecin/prise-charge/majeur-protege"
+    }
+  ],
+  "slug": "sante-d-une-personne-sous-tutelle-ou-curatelle-quelles-sont-les-regles",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "protection-juridique-tutelle-curatelle",
+      "titre": "Protection juridique (tutelle, curatelle...)"
+    }
+  ]
+}

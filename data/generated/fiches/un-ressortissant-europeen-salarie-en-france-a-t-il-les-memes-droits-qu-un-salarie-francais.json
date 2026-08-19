@@ -1,0 +1,41 @@
+{
+  "id": "F36444",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Un ressortissant européen salarié en France a-t-il les mêmes droits qu'un salarié français ?",
+  "theme": "Travail - Formation",
+  "description": "Un salarié ressortissant de l'Union européenne (UE) ou de l'Espace économique européen (EEE) a les mêmes obligations et les mêmes droits qu'un salarié français.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-03-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F36444",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Contrats de travail dans le secteur privé",
+    "Un ressortissant européen salarié en France a-t-il les mêmes droits qu'un salarié français ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Oui, s'il est embauché en France en tant que salarié, le ressortissant d'un pays de l'Union européenne (UE) ou de l'Espace économique européen (EEE) a les mêmes obligations et les mêmes droits qu'un salarié français.",
+        "Par exemple : droit aux congés payés, remboursement des frais de transport, obligation de loyauté)."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "un-ressortissant-europeen-salarie-en-france-a-t-il-les-memes-droits-qu-un-salarie-francais",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "contrats-de-travail-dans-le-secteur-prive",
+      "titre": "Contrats de travail dans le secteur privé"
+    }
+  ]
+}

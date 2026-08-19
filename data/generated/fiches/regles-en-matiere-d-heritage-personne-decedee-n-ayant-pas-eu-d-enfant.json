@@ -1,0 +1,61 @@
+{
+  "id": "F1632",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Règles en matière d'héritage : personne décédée n'ayant pas eu d'enfant",
+  "theme": "Famille - Scolarité",
+  "description": "Le règlement de la succession d'un défunt sans enfant dépend de l'existence d'un testament ou non.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-08-06",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1632",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Héritage : ordre et droits des héritiers",
+    "Règles en matière d'héritage : personne décédée n'ayant pas eu d'enfant"
+  ],
+  "introduction": "À qui les biens d'une personne qui n’avait pas d’enfant sont transmis lorsqu'elle décède ? Quand la personne décédée n'a pas fait de testament, le règlement de sa succession dépend de sa situation maritale. Quand la personne décédée a fait un testament, elle doit réserver une partie de son patrimoine à son époux ou épouse. Elle peut attribuer la part restante librement (à un héritier ou à un tiers). Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code civil : article 733",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006430946"
+    },
+    {
+      "titre": "Code civil : articles 734 à 740",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006430967"
+    },
+    {
+      "titre": "Code civil : articles 751 à 755",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165516/#LEGISCTA000006165516"
+    },
+    {
+      "titre": "Code civil : articles 756 à 758-6",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006165517"
+    },
+    {
+      "titre": "Code civil : articles 804 à 808",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006150536"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Notaire"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Portail des services en ligne des notaires de France",
+      "url": "https://notaires.fr/"
+    }
+  ],
+  "slug": "regles-en-matiere-d-heritage-personne-decedee-n-ayant-pas-eu-d-enfant",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "heritage-ordre-et-droits-des-heritiers",
+      "titre": "Héritage : ordre et droits des héritiers"
+    }
+  ]
+}

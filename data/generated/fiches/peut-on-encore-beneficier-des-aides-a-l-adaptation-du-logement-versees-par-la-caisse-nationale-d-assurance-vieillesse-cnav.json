@@ -1,0 +1,50 @@
+{
+  "id": "F1613",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Peut-on encore bénéficier des aides à l'adaptation du logement versées par la Caisse nationale d'assurance vieillesse (Cnav) ?",
+  "theme": "Logement",
+  "description": "Non, il n'est plus possible de bénéficier de ces aides.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-07-09",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1613",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Aides et prêts pour l'amélioration et la rénovation énergétique de l'habitat",
+    "Peut-on encore bénéficier des aides à l'adaptation du logement versées par la Caisse nationale d'assurance vieillesse (Cnav) ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Non. Ces aides sont remplacées par MaPrimeAdapt' ou le crédit d'impôt pour les travaux d'équipement pour personne en situation de handicap ou âgée en perte d'autonomie.",
+        "Certaines caisses de retraite peuvent néanmoins proposer des aides à l'adaptation du logement. Vous devez vous renseigner auprès de votre caisse de retraite.",
+        "Caisse régionale de retraite (Cnav, Carsat, CGSS ou CSS)"
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [
+    "Caisse régionale de retraite (Cnav, Carsat, CGSS ou CSS)",
+    "Assurance retraite - 39 60"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Portail national d'information pour les personnes âgées et leurs proches",
+      "url": "https://www.pour-les-personnes-agees.gouv.fr/"
+    }
+  ],
+  "slug": "peut-on-encore-beneficier-des-aides-a-l-adaptation-du-logement-versees-par-la-caisse-nationale-d-assurance-vieillesse-cnav",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "aides-et-prets-pour-l-amelioration-et-la-renovation-energetique-de-l-habitat",
+      "titre": "Aides et prêts pour l'amélioration et la rénovation énergétique de l'habitat"
+    }
+  ]
+}

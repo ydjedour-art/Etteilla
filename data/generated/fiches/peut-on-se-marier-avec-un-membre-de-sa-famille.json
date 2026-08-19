@@ -1,0 +1,107 @@
+{
+  "id": "F802",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Peut-on se marier avec un membre de sa famille ?",
+  "theme": "Famille - Scolarité",
+  "description": "Il est interdit de se marier avec un membre de sa famille proche, qu'il s'agisse d'une parenté (biologique ou adoptive) ou d'un lien d'alliance né d'un mariage.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-06-26",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F802",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Mariage",
+    "Peut-on se marier avec un membre de sa famille ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "Quelles sont les interdictions de mariage en raison d'un lien de parenté biologique ?",
+      "contenu": [
+        "Vous ne pouvez pas vous marier avec l'une des personnes suivantes :",
+        "• Votre père, votre mère, votre enfant, votre grand-père, votre grand-mère, votre petit-fils ou votre petite-fille",
+        "• Votre frère ou votre sœur",
+        "• Votre demi-frère ou votre demi-sœur",
+        "• Votre oncle, votre tante, votre nièce ou votre neveu."
+      ]
+    },
+    {
+      "titre": "Quelles sont les interdictions de mariage du fait d'une adoption ?",
+      "contenu": [
+        "La situation varie selon qu'il s'agit d'une adoption plénière ou d'une adoption simple :",
+        "Adoption plénière",
+        "Les interdictions sont les mêmes qu'en cas de lien de parenté biologique.",
+        "Vous ne pouvez pas vous marier avec l'une des personnes suivantes :",
+        "• Votre père, votre mère, votre enfant, votre grand-père, votre grand-mère, votre petit-fils ou votre petite-fille",
+        "• Votre frère ou votre sœur",
+        "• Votre demi-frère ou votre demi-sœur",
+        "• Votre oncle, votre tante, votre nièce ou votre neveu.",
+        "[À noter] Les mêmes interdictions s'appliquent pour votre famille d'origine.",
+        "Adoption simple",
+        "Vous ne pouvez pas vous marier avec l'une des personnes suivantes :",
+        "• Votre parent adoptant, votre enfant adopté",
+        "• Un autre enfant adopté de votre parent adoptant",
+        "• Un autre enfant de votre parent adoptant, un descendant de votre enfant adopté",
+        "• L'ex-époux (ou partenaire de Pacs) de votre enfant adopté, l'ex-époux (ou partenaire de Pacs) de votre parent adoptant.",
+        "En tant qu'enfant adopté simple, certains mariages vous sont aussi interdits dans votre famille d'origine, à laquelle vous continuez à appartenir.",
+        "Vous ne pouvez pas vous marier avec l'une des personnes suivantes :",
+        "• Votre père, votre mère, votre enfant, votre grand-père, votre grand-mère, votre petit-fils ou votre petite-fille",
+        "• Votre frère ou votre sœur",
+        "• Votre demi-frère ou votre demi-sœur",
+        "• Votre oncle, votre tante, votre nièce ou votre neveu."
+      ]
+    },
+    {
+      "titre": "Quelles sont les interdictions de mariage en raison d'un lien d'alliance ?",
+      "contenu": [
+        "Les interdictions dépendent de la situation :",
+        "Mariage",
+        "L'alliance est le lien qui résulte d'un mariage.",
+        "En vous mariant, vous devenez l'allié de tous ceux qui ont un lien de parenté avec votre épouse/époux.",
+        "Vous ne pouvez pas vous marier avec les personnes suivantes :",
+        "• Votre beau-père (père de votre épouse/époux), votre belle-mère (mère de votre épouse/époux)",
+        "• Votre gendre, votre belle-fille (votre bru).",
+        "Par ailleurs, dans une famille recomposée, vous ne pouvez pas vous marier avec les personnes suivantes :",
+        "• Votre beau-père (ex-mari de votre mère), votre belle-mère (ex-épouse de votre père)",
+        "• Votre beau-fils (fils de votre ex-épouse ou ex-époux), votre belle-fille (fille de votre ex-épouse ou ex-époux).",
+        "Ces interdictions persistent en cas de divorce ou de veuvage.",
+        "[À noter] Si la personne qui a créé l'alliance est décédée, une dérogation peut, dans certains cas, être accordée par le président de la République. En pratique, elle est exceptionnelle.",
+        "Pacs",
+        "Cas général",
+        "Le Pacs ne crée pas de lien d'alliance empêchant un mariage.",
+        "Adoption simple",
+        "Vous ne pouvez pas vous marier avec le partenaire de Pacs de votre parent adoptant, ou avec le partenaire de Pacs de votre enfant adopté.",
+        "Concubinage",
+        "Le concubinage ne crée pas de lien d'alliance empêchant un mariage."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : articles 143 à 164",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136117"
+    },
+    {
+      "titre": "Code civil : article 342-7",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006425767"
+    },
+    {
+      "titre": "Code civil : article 366",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006426255"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "peut-on-se-marier-avec-un-membre-de-sa-famille",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "mariage",
+      "titre": "Mariage"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "id": "F31151",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Impôt sur le revenu - Investissement locatif loi Pinel/Duflot (réduction d'impôt)",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Vous bénéficiez d'une réduction d'impôt (Duflot ou Pinel) si vous avez réalisé un investissement locatif.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-03-11",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31151",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Impôt sur le revenu : déductions, réductions et crédits d'impôt",
+    "Impôt sur le revenu - Investissement locatif loi Pinel/Duflot (réduction d'impôt)"
+  ],
+  "introduction": "Si vous avez réalisé un investissement locatif, vous pouvez bénéficier d'une réduction d'impôt. Le dispositif Pinel s'applique si l'investissement a été fait avant le 1er janvier 2025. Le dispositif Duflot s'applique s'il a été fait de 2013 à août 2014. Nous vous indiquons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code général des impôts : article 199 novovicies",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000042159380/"
+    },
+    {
+      "titre": "Code général des impôts, annexe 3 : article 2 duodecies à 2 vicies",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006191324/"
+    },
+    {
+      "titre": "Code général des impôts, annexe 3 : article 46 AZA octies à 46 AZA quaterdecies",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000023024720/"
+    },
+    {
+      "titre": "Code général des impôts, annexe 4 : articles 18-0 bis B à 18-0 bis D",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069576/LEGISCTA000022864342"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : article R304-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000023361776/#LEGISCTA000023361782"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : articles R111-20 à R111-20-6",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006189409/"
+    },
+    {
+      "titre": "Décret n°2013-517 du 19 juin 2013 relatif à la réduction des plafonds de loyer et à l'agrément des communes pour l'aide fiscale à l'investissement locatif",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000027587178/"
+    },
+    {
+      "titre": "Arrêté du 1er août 2014 relatif au zonage géographique des communes (dit A/B/C)",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000029337646/"
+    },
+    {
+      "titre": "Arrêté du 29 septembre 2009 relatif au contenu et aux conditions d'attribution du label \"haute performance énergétique rénovation\"",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000021089668/"
+    },
+    {
+      "titre": "Arrêté du 30 septembre 2014 sur le classement des communes par zone applicable à certaines aides au logement",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000029574683/"
+    },
+    {
+      "titre": "Arrêté du 8 mai 2007 relatif au contenu et aux conditions d'attribution du label \"haute performance énergétique\"",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000615939/"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-IR-RICI relatif aux réductions et crédits d'impôt",
+      "url": "http://bofip.impots.gouv.fr/bofip/5955-PGP"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-IR-RICI-360 relatif à la réduction d'impôt sur le revenu pour investissement locatif intermédiaire - Dispositifs Duflot et Pinel",
+      "url": "http://bofip.impots.gouv.fr/bofip/8425-PGP"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-BAREME-000017 relatif aux plafonds de loyer et de ressources 2026 pour l'investissement immobilier locatif",
+      "url": "https://bofip.impots.gouv.fr/bofip/10130-PGP.html"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Estimer le montant de son impôt sur les revenus de 2025 (déclaration de 2026)",
+      "url": "https://simulateur-ir-ifi.impots.gouv.fr/calcul_impot/2026/",
+      "type": "simulateurNG"
+    },
+    {
+      "titre": "Impôts : accéder à votre espace Finances publiques",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Déclarer vos revenus en ligne",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Déclaration 2026 des revenus 2025 (papier)",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/2042/declaration-des-revenus",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Déclaration 2026 des revenus 2025 - Réductions d'impôt et crédits d'impôt",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/2042/declaration-des-revenus",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Service d'information des impôts",
+    "Service en charge des impôts (trésorerie, service des impôts...)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Site des impôts",
+      "url": "https://www.impots.gouv.fr/portail/"
+    },
+    {
+      "titre": "Réduction d'impôt pour investissement locatif « Duflot »",
+      "url": "https://www.anil.org/votre-projet/vous-achetez-vous-construisez/investissement-locatif/reduction-dimpot-duflot/"
+    },
+    {
+      "titre": "Réduction d'impôt pour investissement locatif « Pinel »",
+      "url": "https://www.anil.org/votre-projet/vous-achetez-vous-construisez/investissement-locatif/reduction-dimpot-pinel/"
+    },
+    {
+      "titre": "Brochure pratique 2026 - Déclaration des revenus de 2025",
+      "url": "https://www.impots.gouv.fr/www2/fichiers/documentation/brochure/ir_2026/accueil.htm"
+    },
+    {
+      "titre": "Respecter la RE 2020 pour construire sa maison",
+      "url": "https://librairie.ademe.fr/urbanisme-et-batiment/5947-respecter-la-re-2020-pour-construire-sa-maison.html"
+    }
+  ],
+  "slug": "impot-sur-le-revenu-investissement-locatif-loi-pinel-duflot-reduction-d-impot",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "impot-sur-le-revenu-deductions-reductions-et-credits-d-impot",
+      "titre": "Impôt sur le revenu : déductions, réductions et crédits d'impôt"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "id": "F2958",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Garanties après la réception des travaux",
+  "theme": "Logement",
+  "description": "Après des travaux de construction, vous bénéficiez de la garantie de parfait achèvement (GPA), de la garantie de bon fonctionnement et de la garantie décennale.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2024-03-20",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2958",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Travaux",
+    "Garanties après la réception des travaux"
+  ],
+  "introduction": "Vous avez fait effectuer des travaux dans votre logement. Vous constatez des défauts ? Sachez que, même après la réception des travaux, vous pouvez faire jouer des garanties à l'encontre du constructeur de l'ouvrage. Ces garanties sont au nombre de 3 : garantie de parfait achèvement (GPA), garantie de bon fonctionnement et garantie décennale. Le point de départ commun de ces 3 garanties est la date de réception des travaux. Nous faisons un point sur leurs mises en œuvre.",
+  "chapitres": [
+    {
+      "titre": "Comment identifier le constructeur de l'ouvrage ?",
+      "contenu": [
+        "Le constructeur peut être :",
+        "• Architecte, Entrepreneur, Technicien ou Contrôleur technique",
+        "• Promoteur immobilier",
+        "• Vendeur d'immeuble à construire ou à rénover",
+        "• Constructeur de maisons individuelles",
+        "• Prestataire lié au maître d'ouvrage par un contrat de louage d'ouvrage",
+        "• Personne ou mandataire qui vend, après achèvement, un ouvrage qu'elle a construit ou fait construire",
+        "• Fabriquant d'un ouvrage, d'une partie d'ouvrage ou d'un élément d'équipement",
+        "Tout constructeur à qui est confié la construction d'un ouvrage neuf ou sur un bâtiment existant (bâtiment divers, logement, travaux de génie civil...) engage sa responsabilité. Elle s'applique sauf si le constructeur prouve que les dommages proviennent d'une cause exceptionnelle (force majeure, fait d'un tiers ou faute du maître d'ouvrage).",
+        "Le constructeur est responsable selon la garantie mise en œuvre."
+      ]
+    },
+    {
+      "titre": "Comment bénéficier de la garantie de parfait achèvement (GPA) ?",
+      "contenu": [
+        "Pendant l'année suivant la réception des travaux, vous bénéficiez d'une garantie de parfait achèvement (GPA). Elle impose à l'entrepreneur de réparer pendant cette période tous les désordres signalés, au procès-verbal de réception des travaux, ou lors d'une notification ultérieure.",
+        "Vous devez écrire à l'entrepreneur en lettre RAR pour lui demander d'effectuer les réparations dans un délai que vous lui fixez.",
+        "Si l'entreprise n'intervient pas, vous pouvez faire une tentative de médiation.",
+        "Si les réparations n'interviennent pas dans le délai fixé, vous pouvez saisir le tribunal judiciaire dans l'année couverte par la garantie de parfait achèvement.",
+        "Tribunal judiciaire ou tribunal de proximité",
+        "[Attention] L'usure normale ne permet pas de faire jouer la garantie de parfait achèvement."
+      ]
+    },
+    {
+      "titre": "Comment bénéficier de la garantie de bon fonctionnement ?",
+      "contenu": [
+        "La durée de la garantie de bon fonctionnement est de 2 ans suivant la réception des travaux. Elle peut être allongée si le contrat le prévoit.",
+        "Cette garantie impose au constructeur de réparer ou remplacer les éléments d'équipement défaillants et ne s'applique qu'aux désordres non apparents à la réception des travaux.",
+        "Il s'agit de tous les éléments d'équipement dissociables (qui peuvent être enlevés sans dégrader le bâti, par exemple, le ballon d'eau chaude).",
+        "Pour faire jouer cette garantie, vous devez sans attendre adresser une lettre RAR au constructeur concerné. Vous lui indiquez les défauts. Vous lui demandez d'intervenir à ses frais dans un délai que vous lui fixez.",
+        "Si l'entreprise n'intervient pas, vous pouvez faire une tentative de médiation.",
+        "Si les réparations n'interviennent pas dans le délai fixé, vous pouvez saisir le tribunal judiciaire.",
+        "Tribunal judiciaire ou tribunal de proximité"
+      ]
+    },
+    {
+      "titre": "Comment bénéficier de la garantie décennale ?",
+      "contenu": [
+        "Pendant les 10 ans après la réception des travaux, vous bénéficiez de la garantie décennale.",
+        "Elle impose au constructeur de réparer les dommages qui n'étaient pas décelables lors de la réception des travaux. Cette garantie assure les dommages qui affectent la solidité des éléments d'équipement indissociables les uns des autres. Il s'agit des dommages qui compromettent la solidité du bâti ou qui le rendent inhabitable ou impropre à l'usage auquel il est destiné.",
+        "L'assurance décennale des constructeurs couvre les dommages touchant les éléments suivants :",
+        "• Ouvrages de fondation et d'ossature",
+        "• Ouvrages de viabilité (réseaux, assainissement)",
+        "• Voirie (chemin d'accès)",
+        "• Ouvrage avec fondations (véranda, terrasse, piscine enterrée...)",
+        "• Éléments d'équipement indissociables du bâtiment (canalisation, plafond, plancher, chauffage central, huisseries, installation électrique encastrée...",
+        "Pour faire jouer la garantie décennale, vous devez adresser une une lettre RAR au constructeur concerné en lui décrivant les désordres.",
+        "Il doit les réparer à ses frais pendant les 10 ans couverts par la garantie.",
+        "Vous devez également signaler les désordres à votre assureur au titre de votre assurance construction dommages-ouvrage. Vous devrez lui envoyer une lettre RAR de mise en demeure pour obtenir une réparation de vos dommages.",
+        "[À noter] Les sous-traitants sont exclus du champ d'application de la garantie décennale, car ils n'ont pas de lien direct avec le maître d'ouvrage. Ils sont cependant responsables des obligations sur lesquelles ils se sont engagés envers le constructeur."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : article 1792",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006443502"
+    },
+    {
+      "titre": "Code civil : article 1792-6",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006443552"
+    },
+    {
+      "titre": "Code civil : article 1792-3",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006443534"
+    },
+    {
+      "titre": "Code civil : article 1792-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006443524/"
+    },
+    {
+      "titre": "Code civil : article 1792-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006443512"
+    },
+    {
+      "titre": "Code civil : article 1831-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006443996"
+    },
+    {
+      "titre": "Code civil : article 1646-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006441992"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : article L125-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041587814"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : article L262-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041586824"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : articles L231-1 à L231-13",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000006159020/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Info Banque - Assurance",
+    "Agence départementale pour l'information sur le logement (Adil)",
+    "0809 540 550 DGCCRF - RéponseConso"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Assurance construction",
+      "url": "https://www.abe-infoservice.fr/page-sommaire/assurance-construction"
+    }
+  ],
+  "slug": "garanties-apres-la-reception-des-travaux",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "travaux",
+      "titre": "Travaux"
+    }
+  ]
+}

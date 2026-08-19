@@ -1,0 +1,109 @@
+{
+  "id": "F2695",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Faut-il demander un nouveau permis de conduire en cas de changement de nom ou de prénom ?",
+  "theme": "Transports - Mobilité",
+  "description": "Il faut faire une demande de renouvellement de permis de conduire en cas de changement de nom de famille ou de changement de prénom.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-06-16",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2695",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Permis de conduire",
+    "Faut-il demander un nouveau permis de conduire en cas de changement de nom ou de prénom ?"
+  ],
+  "introduction": "Oui, si vous changez de nom de naissance ou de prénom, vous devez demander un nouveau permis de conduire. Les démarches à faire varient selon votre situation.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "À la suite d’un mariage",
+        "À la suite d’un mariage, vous conservez votre nom de naissance (nom de famille). Vous ne devez donc pas demander un nouveau permis de conduire même si vous utilisez comme nom d'usage le nom de la personne avec qui vous êtes marié(e).",
+        "Le nom indiqué sur un permis de conduire délivré depuis 2013 est en effet le nom de naissance. L'administration ne délivre donc pas de nouveau permis en cas de mariage",
+        "À la suite d’un divorce",
+        "Vous pouvez demander un nouveau permis de conduire si votre nom d'usage est indiqué sur votre permis et que vous souhaitez uniquement l'indication de votre nom de naissance (nom de famille).",
+        "La demande se fait en ligne sur le site de France Titres - ANTS :",
+        "Demander en ligne un nouveau permis de conduire en cas de changement d'état civil",
+        "Accessible avec FranceConnect ou avec vos identifiants ANTS. Si vous n'en avez pas, il vous est proposé de créer un compte pour avoir un espace personnel sur le site de l'ANTS.",
+        "Vous avez besoin des éléments suivants, au format numérique :",
+        "• Jugement de divorce ou convention de divorce enregistré par un notaire",
+        "• Code photo et signature numérique. Si vous n'avez pas accès à un service de photo et de signature numérique, il vous est proposé de remplir et d'envoyer par courrier un formulaire photo-signature (FPS) lors de la téléprocédure.",
+        "• Justificatif d'identité",
+        "• Justificatif de domicile.",
+        "La demande est gratuite.",
+        "Vous pouvez suivre en ligne la fabrication et l'envoi de votre permis de conduire :",
+        "Suivre l'avancement d'une demande de permis de conduire",
+        "Votre nouveau permis de conduire est envoyé à votre domicile.",
+        "Vous devez détruire l'ancien permis de conduire dès réception du nouveau.",
+        "À la suite d’un changement de nom",
+        "Vous devez demander un nouveau permis de conduire si vous changez d'état civil et que le nom de naissance (nom de famille) indiqué sur votre permis n'est plus le bon.",
+        "La demande se fait en ligne sur le site de France Titres - ANTS :",
+        "Demander en ligne un nouveau permis de conduire en cas de changement d'état civil",
+        "Accessible avec FranceConnect ou avec vos identifiants ANTS. Si vous n'en avez pas, il vous est proposé de créer un compte pour avoir un espace personnel sur le site de l'ANTS.",
+        "Vous avez besoin des éléments suivants, au format numérique :",
+        "• Justificatif de changement de nom",
+        "• Code photo et signature numérique. Si vous n'avez pas accès à un service de photo et de signature numérique, il vous est proposé de remplir et d'envoyer par courrier un formulaire photo-signature (FPS) lors de la téléprocédure.",
+        "• Justificatif d'identité",
+        "• Justificatif de domicile.",
+        "La demande est gratuite.",
+        "Vous pouvez suivre en ligne la fabrication et l'envoi de votre permis de conduire.",
+        "Suivre l'avancement d'une demande de permis de conduire",
+        "Votre nouveau permis de conduire est envoyé à votre domicile.",
+        "Vous devez détruire l'ancien permis de conduire dès réception du nouveau.",
+        "À la suite d’un changement de prénom",
+        "Vous devez demander un nouveau permis si vous changez d'état civil et que le prénom indiqué sur votre permis n'est plus le bon.",
+        "La demande se fait en ligne sur le site de France Titres - ANTS :",
+        "Demander en ligne un nouveau permis de conduire en cas de changement d'état civil",
+        "Accessible avec FranceConnect ou avec vos identifiants ANTS. Si vous n'en avez pas, il vous est proposé de créer un compte pour avoir un espace personnel sur le site de l'ANTS.",
+        "Vous avez besoin des éléments suivants, au format numérique :",
+        "• Justificatif de changement de prénom",
+        "• Code photo et signature numérique. Si vous n'avez pas accès à un service de photo et de signature numérique, il vous est proposé de remplir et d'envoyer par courrier un formulaire photo-signature (FPS) lors de la téléprocédure.",
+        "• Justificatif d'identité",
+        "• Justificatif de domicile.",
+        "La demande est gratuite.",
+        "Vous pouvez suivre en ligne la fabrication et l'envoi de votre permis de conduire :",
+        "Suivre l'avancement d'une demande de permis de conduire",
+        "Votre nouveau permis de conduire est envoyé à votre domicile.",
+        "Vous devez détruire l'ancien permis de conduire dès réception du nouveau."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la route : articles R233-1 à R233-3",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074228/LEGISCTA000006159569"
+    },
+    {
+      "titre": "Arrêté du 20 avril 2012 fixant les conditions d'établissement, de délivrance et de validité du permis de conduire",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000025803494/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demander en ligne un nouveau permis de conduire en cas de changement d'état civil",
+      "url": "https://permisdeconduire.ants.gouv.fr/demarches-en-ligne/-changement-d-etat-civil",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Suivre l'avancement d'une demande de permis de conduire",
+      "url": "https://moncompte.ants.gouv.fr/connexion",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "France Titres - Permis de conduire"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "faut-il-demander-un-nouveau-permis-de-conduire-en-cas-de-changement-de-nom-ou-de-prenom",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "permis-de-conduire",
+      "titre": "Permis de conduire"
+    }
+  ]
+}

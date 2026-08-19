@@ -1,0 +1,103 @@
+{
+  "id": "F12104",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Comment se renseigner sur une association ?",
+  "theme": "Associations, fondations et fonds de dotation",
+  "description": "Toute personne peut obtenir des informations sur une association déclarée, par internet, par courrier ou sur place.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-07-07",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F12104",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Associations, fondations et fonds de dotation",
+    "Dirigeants et responsables d'une association",
+    "Comment se renseigner sur une association ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Toute personne peut obtenir des informations sur une association déclarée, par internet, par courrier ou sur place."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Loi du 1er juillet 1901 relative au contrat d'association",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006069570/"
+    },
+    {
+      "titre": "Code des relations entre le public et l'administration : articles L311-9 à R311-15",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000031367725/"
+    },
+    {
+      "titre": "Loi n° 2000-321 du 12 avril 2000 relative aux droits des citoyens dans leurs relations avec les administrations : article 10",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000033219132/"
+    },
+    {
+      "titre": "Loi n°2008-776 du 4 août 2008 de modernisation de l'économie : article 140",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038610543"
+    },
+    {
+      "titre": "Décret du 16 août 1901 pris relatif au contrat d'association",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006069620/"
+    },
+    {
+      "titre": "Décret n°2009-158 du 11 février 2009 relatif aux fonds de dotation",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000020246872/"
+    },
+    {
+      "titre": "Décret n°2017-779 du 5 mai 2017 relatif à l'accès sous forme électronique aux données essentielles des conventions de subvention",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000034600552"
+    },
+    {
+      "titre": "Arrêté du 1er octobre 2001 relatif à la fixation du montant des frais de copie d'un document administratif",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000772503/"
+    },
+    {
+      "titre": "Circulaire du 26 juillet 2011 relative à la communicabilité des documents détenus par l'administration relatifs aux associations, fondations et fonds de dotation",
+      "url": "http://www.circulaires.gouv.fr/pdf/2011/09/cir_33791.pdf"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Consulter les annonces des associations et fondations",
+      "url": "https://www.journal-officiel.gouv.fr/pages/associations/",
+      "type": "Outil de recherche"
+    },
+    {
+      "titre": "Interroger la Miviludes",
+      "url": "https://contacts-demarches.interieur.gouv.fr/miviludes/obtenir-l-avis-de-la-miviludes/",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "Point ressource à la vie associative"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Répertoire national des associations (RNA)",
+      "url": "https://www.data.gouv.fr/fr/datasets/repertoire-national-des-associations/"
+    },
+    {
+      "titre": "Liste des associations reconnues d'utilité publique (Arup)",
+      "url": "https://www.data.gouv.fr/fr/datasets/associations-reconnues-d-utilite-publique/"
+    },
+    {
+      "titre": "Liste des fondations reconnues d'utilité publique",
+      "url": "https://www.data.gouv.fr/fr/datasets/fondations-reconnues-d-utilite-publique/"
+    }
+  ],
+  "slug": "comment-se-renseigner-sur-une-association",
+  "path": [
+    {
+      "slug": "associations-fondations-et-fonds-de-dotation",
+      "titre": "Associations, fondations et fonds de dotation"
+    },
+    {
+      "slug": "dirigeants-et-responsables-d-une-association",
+      "titre": "Dirigeants et responsables d'une association"
+    }
+  ]
+}

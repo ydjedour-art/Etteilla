@@ -1,0 +1,54 @@
+{
+  "id": "F2446",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "La carte d'invalidité est-elle toujours délivrée ?",
+  "theme": "Transports - Mobilité",
+  "description": "Non, cette carte est remplacée depuis le 1er janvier 2017 par la carte mobilité inclusion (CMI) mention Invalidité. Mais elle reste valable.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-08-06",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2446",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Cartes de transport",
+    "La carte d'invalidité est-elle toujours délivrée ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Non, cette carte est remplacée depuis le 1er janvier 2017 par la carte mobilité inclusion (CMI) mention Invalidité.",
+        "Toutefois, la carte d'invalidité reste valable jusqu'à sa date d'expiration et, au plus tard, jusqu'au 31 décembre 2026.",
+        "Si vous le souhaitez, vous pouvez demander une CMI mention Invalidité sans attendre cette date."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Décret n°2016-1849 du 23 décembre 2016 relatif à la carte mobilité inclusion (CMI)",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000033696820"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Maison départementale des personnes handicapées (MDPH)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "CMI Invalidité - Version \"facile à lire et à comprendre\" (Falc)",
+      "url": "https://www.cnsa.fr/sites/default/files/2024-03/FALC_cnsa_18-01_fiches-facilealire_cmi_invalidite.pdf"
+    }
+  ],
+  "slug": "la-carte-d-invalidite-est-elle-toujours-delivree",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "cartes-de-transport",
+      "titre": "Cartes de transport"
+    }
+  ]
+}

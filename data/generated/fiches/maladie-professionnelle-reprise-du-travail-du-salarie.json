@@ -1,0 +1,74 @@
+{
+  "id": "F32158",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Maladie professionnelle : reprise du travail du salarié",
+  "theme": "Travail - Formation",
+  "description": "La visite de reprise est obligatoire, quelle que soit la durée de l’arrêt pour maladie professionnelle.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2024-10-24",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F32158",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Maladie ou accident du travail dans le secteur privé",
+    "Maladie professionnelle : reprise du travail du salarié"
+  ],
+  "introduction": "Vous êtes salarié et vous allez reprendre votre travail après une maladie professionnelle ? Si votre arrêt est inférieur à 30 jours, une visite de reprise est obligatoire. Pour un arrêt de plus de 30 jours, en plus de la visite de reprise, vous pouvez bénéficier d'un rendez-vous de liaison et/ou demander une visite de pré-reprise pour anticiper d’éventuels aménagements de votre poste. Dans certains cas, votre médecin traitant peut également vous proposer une reprise de travail léger, qui est indemnisée sous conditions par la Sécurité sociale.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "[Attention] Cette fiche présente uniquement le cas d'un arrêt de travail qui a débuté à compter du 1er avril 2022."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code du travail : articles L1226-7 à L1226-9-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006195602/"
+    },
+    {
+      "titre": "Code du travail : article R4624-31",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045676892"
+    },
+    {
+      "titre": "Code du travail : article R4624-34",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033769125"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles L433-1 à L433-4",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006156130"
+    },
+    {
+      "titre": "Code de la sécurité sociale : article R433-15",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045370964"
+    },
+    {
+      "titre": "Code du travail : articles R4624-39 à R4624-41",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033769135/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Certificat médical accident du travail - maladie professionnelle (spécimen)",
+      "url": "https://www.ameli.fr/sites/default/files/formulaires/118/s6909.cnam_homol_avril_2018_spec_non_remp_sec.pdf",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Caisse primaire d'assurance maladie (CPAM)",
+    "Mutualité sociale agricole (MSA)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "maladie-professionnelle-reprise-du-travail-du-salarie",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "maladie-ou-accident-du-travail-dans-le-secteur-prive",
+      "titre": "Maladie ou accident du travail dans le secteur privé"
+    }
+  ]
+}

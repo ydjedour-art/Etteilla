@@ -1,0 +1,128 @@
+{
+  "id": "F1839",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Avoir un chien de catégorie : quelles sont les règles ?",
+  "theme": "Loisirs - Sports - Culture",
+  "description": "Si vous détenez un chien catégorisé, vous devez notamment obtenir une attestation d'aptitude à la détention et un permis de détention d'un tel chien.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-11-07",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1839",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Loisirs - Sports - Culture",
+    "Animal de compagnie",
+    "Avoir un chien de catégorie : quelles sont les règles ?"
+  ],
+  "introduction": "Certains chiens, considérés comme pouvant être dangereux, sont soumis à une réglementation spécifique. En France, ces chiens sont classés en 2 catégories : chien d'attaque et chien de garde et de défense. Si vous détenez un chien appartenant à l'une de ces catégories, vous êtes soumis à certaines obligations (permis de détention, évaluation comportementale de l'animal, conditions spécifiques d'accès de l'animal aux espaces publics, etc.).",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les chiens d'attaque, dits de 1re catégorie, sont des chiens issus de croisements assimilables par leurs caractéristiques morphologiques à des chiens des races suivantes :",
+        "• American Staffordshire terrier (communément appelés pit-bulls)",
+        "• Mastiff (communément appelés boerbulls)",
+        "• Tosa.",
+        "Les chiens de 1re catégorie n’ont pas de pedigree. Les éléments de reconnaissance de ces chiens de 1re catégorie sont définis par arrêté.",
+        "Les chiens de garde et de défense, dits de 2e catégorie, sont les chiens des races suivantes :",
+        "• American Staffordshire terrier",
+        "• Rottweiler",
+        "• Tosa.",
+        "Ces chiens de 2e catégorie ont un pedigree.",
+        "La catégorie des chiens de garde et de défense comprend aussi les chiens issus de croisements assimilables par leurs caractéristiques morphologiques aux chiens de race Rottweiler. Ces chiens n’ont pas de pedigree.",
+        "[Rappel] Les chiens de race sont les chiens inscrits au livre généalogique des origines françaises (LOF) tenu par la Société Centrale Canine ou sur un livre d'un autre pays, mais reconnu par la Société Centrale Canine.",
+        "Si les chiens catégorisés sont par défaut considérés comme dangereux, un chien dangereux n'est pas forcément un chien catégorisé. Un chien non catégorisé peut aussi être dangereux.",
+        "Seul un vétérinaire est compétent pour déterminer le type racial d'un animal et, dans le doute, il est recommandé aux personnes de se procurer une attestation vétérinaire qui pourra être présentée aux forces de l'ordre en cas de contrôle.",
+        "Il n'est plus possible d’acheter, de vendre ou de donner un chien de 1re catégorie.",
+        "Le fait d'acheter, de vendre ou de donner, d'importer ou d'introduire sur le territoire métropolitain, dans les Drom, à Saint-Barthélemy, à Saint-Martin ou à Saint-Pierre-et-Miquelon un chien de 1re catégorie est une infraction punie de 6 mois d'emprisonnement et de 15 000 € d'amende.",
+        "Les peines complémentaires suivantes peuvent aussi être prononcées :",
+        "• Confiscation du ou des chiens concernés",
+        "• Interdiction, pendant 5 ans maximum, d'exercer l'activité professionnelle qui a permis de préparer ou de commettre l'infraction",
+        "• Interdiction de détenir un chien d’attaque (de 1re catégorie) ou un chien de garde et de défense (de 2e catégorie) pendant 5 ans maximum.",
+        "Si vous détenez toutefois un chien de 1re catégorie ou si vous détenez un chien de 2e catégorie, vous êtes soumis à certaines obligations que nous vous présentons."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code rural et de la pêche maritime : articles L211-11 à L211-28",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006167705/"
+    },
+    {
+      "titre": "code rural et de la pêche maritime : article L215-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006582229/"
+    },
+    {
+      "titre": "Code rural et de la pêche maritime : article L215-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025954078/"
+    },
+    {
+      "titre": "Code rural et de la pêche maritime : article L215-2-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019065749/"
+    },
+    {
+      "titre": "Code rural et de la pêche maritime : articles D211-3-1 à D211-3-4",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006183221/"
+    },
+    {
+      "titre": "Code rural et de la pêche maritime : articles R211-5 à R211-7",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006183804/"
+    },
+    {
+      "titre": "Code rural et de la pêche maritime : article R215-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000021647463/"
+    },
+    {
+      "titre": "Arrêté du 27 avril 1999 établissant la liste des types de chiens susceptibles d'être dangereux",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000005627880/"
+    },
+    {
+      "titre": "Arrêté du 19 août 2013 relatif à la transmission au fichier national d'identification des carnivores domestiques des informations relatives à l'évaluation comportementale canine",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000027894956/"
+    },
+    {
+      "titre": "Circulaire du 17 février 2010 sur la réglementation relative aux chiens dangereux",
+      "url": "http://www.circulaires.gouv.fr/pdf/2010/03/cir_30596.pdf"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Dossier de demande de délivrance d’un permis provisoire de détention d’un chien catégorisé",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_13997.do",
+      "type": "formulaireNG"
+    },
+    {
+      "titre": "Dossier de demande de délivrance d’un permis de détention d’un chien catégorisé",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_13996.do",
+      "type": "formulaireNG"
+    }
+  ],
+  "contacts": [
+    "Vétérinaires agréés",
+    "Direction départementale de la protection des populations (DDPP) ou de l'emploi, du travail, des solidarités et de la protection des populations (DDETSPP)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Éléments de reconnaissance des chiens de 1re et 2e catégories",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000210847#LEGIARTI000006608538"
+    },
+    {
+      "titre": "Tout savoir sur les animaux de compagnie : conseils et réglementation",
+      "url": "https://agriculture.gouv.fr/conseils-et-reglementation-tout-savoir-sur-les-animaux-de-compagnie"
+    },
+    {
+      "titre": "Chiens de catégorie",
+      "url": "https://agriculture.gouv.fr/les-chiens-de-categorie-1-et-2-dits-chiens-dangereux"
+    }
+  ],
+  "slug": "avoir-un-chien-de-categorie-quelles-sont-les-regles",
+  "path": [
+    {
+      "slug": "loisirs-sports-culture",
+      "titre": "Loisirs - Sports - Culture"
+    },
+    {
+      "slug": "animal-de-compagnie",
+      "titre": "Animal de compagnie"
+    }
+  ]
+}

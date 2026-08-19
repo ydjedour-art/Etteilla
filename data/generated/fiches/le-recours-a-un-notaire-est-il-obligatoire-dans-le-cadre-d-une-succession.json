@@ -1,0 +1,68 @@
+{
+  "id": "F1295",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Le recours à un notaire est-il obligatoire dans le cadre d'une succession ?",
+  "theme": "Famille - Scolarité",
+  "description": "Une succession sans notaire est possible uniquement dans quelques cas précis (faible montant, sans bien immobilier, ni testament ni donation entre époux).",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-01-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1295",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Règlement d'une succession",
+    "Le recours à un notaire est-il obligatoire dans le cadre d'une succession ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Vous devez faire appel à un notaire si vous êtes dans l'un des cas suivants :",
+        "• La succession comprend un bien immobilier. Dans ce cas, vous devez faire établir l'attestation de propriété immobilière.",
+        "• Le montant de la succession est égal ou supérieur à 5 965 €. Dans ce cas , vous devez faire établir l'acte de notoriété prouvant que vous êtes héritier.",
+        "• Il existe un testament ou une donation entre époux.",
+        "Notaire"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : articles 730 à 730-5",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006165514"
+    },
+    {
+      "titre": "Code civil : articles 931 à 952",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006433777"
+    },
+    {
+      "titre": "Code civil : articles 1003 à 1009",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039368517"
+    },
+    {
+      "titre": "Décret n°55-22 du 4 janvier 1955 portant réforme de la publicité foncière",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006060731"
+    },
+    {
+      "titre": "Code monétaire et financier : articles L312-1-1 à L312-1-8",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072026/LEGISCTA000020861890/#LEGISCTA000020866609"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Chambre départementale des notaires",
+    "Notaire"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "le-recours-a-un-notaire-est-il-obligatoire-dans-le-cadre-d-une-succession",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "reglement-d-une-succession",
+      "titre": "Règlement d'une succession"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": "F17625",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Impôt sur le revenu : peut-on déduire les intérêts d'un crédit immobilier ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Les intérêts d'emprunt ne donnent pas droit à un avantage fiscal pour la résidence principale, mais peuvent être déductibles en cas d'investissement locatif.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-01-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F17625",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Impôt sur le revenu : déductions, réductions et crédits d'impôt",
+    "Impôt sur le revenu : peut-on déduire les intérêts d'un crédit immobilier ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les règles varient selon qu'il s'agit de votre résidence principale, d'une résidence secondaire ou d'un logement acheté pour être loué.",
+        "Résidence principale",
+        "Les intérêts d'emprunt pour l'achat ou la construction de l'habitation principale ne donnent plus droit à un avantage fiscal depuis 2011.",
+        "Résidence secondaire",
+        "Aucun avantage n'est accordé pour les intérêts liés à une résidence secondaire.",
+        "Logement acheté pour être loué",
+        "Dans le cadre d'un logement acheté pour être loué, les intérêts d'emprunt sont pris en compte.",
+        "Votre situation diffère selon le type de location :",
+        "Location non meublée",
+        "Votre situation dépend du montant de vos revenus fonciers, et donc du mode d'imposition.",
+        "Régime micro foncier",
+        "Les intérêts sont pris en compte dans le calcul de l'abattement forfaitaire de 30 %.",
+        "Régime réel",
+        "Si vous êtes soumis au régime réel d'imposition, les intérêts d'emprunt font partie des charges déductibles à déclarer.",
+        "Location meublée",
+        "Votre situation dépend du type de location que vous utilisez.",
+        "Logement meublé de longue durée",
+        "Votre situation dépend du montant de vos revenus locatifs, et donc du mode d'imposition.",
+        "Régime micro-BIC",
+        "Les intérêts sont pris en compte dans le calcul de l'abattement forfaitaire de 50 %.",
+        "Régime réel",
+        "Si vous êtes soumis au régime réel d'imposition, les intérêts d'emprunt font partie des charges déductibles à déclarer.",
+        "Meublé de tourisme non classé",
+        "Votre situation dépend du montant de vos revenus locatifs, et donc du mode d'imposition.",
+        "Régime micro-BIC",
+        "Les intérêts sont pris en compte dans le calcul de l'abattement forfaitaire de 30 %.",
+        "Régime réel",
+        "Si vous êtes soumis au régime réel d'imposition, les intérêts d'emprunt font partie des charges déductibles à déclarer.",
+        "Meublé de tourisme classé et chambre d'hôte",
+        "Votre situation dépend du montant de vos revenus locatifs, et donc du mode d'imposition.",
+        "Régime micro-BIC",
+        "Les intérêts sont pris en compte dans le calcul de l'abattement forfaitaire de 50 %.",
+        "Régime réel",
+        "Si vous êtes soumis au régime réel d'imposition, les intérêts d'emprunt font partie des charges déductibles à déclarer."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général des impôts : articles 28 à 32",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006197178/"
+    },
+    {
+      "titre": "Code général des impôts : article 50-0",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042159220/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Déclaration n°2044 des revenus fonciers",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/2044/declaration-des-revenus-fonciers",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Déclaration des bénéfices industriels et commerciaux (BIC)",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/2031-sd/impot-sur-le-revenu",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Service d'information des impôts",
+    "Service en charge des impôts (trésorerie, service des impôts...)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Brochure pratique 2026 - Déclaration des revenus de 2025",
+      "url": "https://www.impots.gouv.fr/www2/fichiers/documentation/brochure/ir_2026/accueil.htm"
+    }
+  ],
+  "slug": "impot-sur-le-revenu-peut-on-deduire-les-interets-d-un-credit-immobilier",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "impot-sur-le-revenu-deductions-reductions-et-credits-d-impot",
+      "titre": "Impôt sur le revenu : déductions, réductions et crédits d'impôt"
+    }
+  ]
+}

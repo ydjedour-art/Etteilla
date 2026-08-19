@@ -1,0 +1,149 @@
+{
+  "id": "F959",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Placement volontaire d'un enfant par ses parents",
+  "theme": "Famille - Scolarité",
+  "description": "Vous pouvez demander le placement de votre enfant en cas d'éloignement, maladie, hospitalisation, incarcération, difficultés éducatives ou financières.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-03-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F959",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Placement d'un enfant",
+    "Placement volontaire d'un enfant par ses parents"
+  ],
+  "introduction": "Vous avez un enfant et vous rencontrez des difficultés (problèmes financiers ou problème de santé) pour élever votre enfant ? Vous pouvez placer l'enfant hors de votre domicile familial, de manière temporaire ou prolongée. Nous vous présentons les informations à connaître et les démarches à suivre.",
+  "chapitres": [
+    {
+      "titre": "Dans quels cas un parent peut-il demander le placement d'un enfant ?",
+      "contenu": [
+        "Vous pouvez demander le placement de votre enfant uniquement dans l'une des situations suivantes :",
+        "• Éloignement (par exemple, vous devez vous absenter, pendant une longue période, pour prendre soin d'une personne gravement malade dans une autre région ou à l'étranger)",
+        "• Maladie",
+        "• Hospitalisation",
+        "• Prison",
+        "• Difficultés avec votre enfant (par exemple, l'élever dans des conditions satisfaisantes, gérer un budget)."
+      ]
+    },
+    {
+      "titre": "Comment demander le placement d'un enfant ?",
+      "contenu": [
+        "Si vous souhaitez confier votre enfant, vous devez vous rapprocher du CCAS (auprès de votre mairie) ou contacter directement les services du département (aide sociale à l'enfance - Ase) pour trouver avec eux l'alternative la plus adaptée pour votre enfant.",
+        "Vous devez rédiger un courrier et y joindre tous les documents qui justifient de votre situation familiale.",
+        "Mairie",
+        "Services du département",
+        "[À savoir] Un assistant de service social de secteur peut vous soutenir dans votre démarche. Son rôle est d'apporter une assistance et des conseils aux individus et aux familles rencontrant des difficultés sociales, économiques, psychologiques ou de santé. Renseignez-vous auprès de votre mairie."
+      ]
+    },
+    {
+      "titre": "Comment est prise la décision de placement d'un enfant ?",
+      "contenu": [
+        "La décision des services du département est prise en tenant compte des éléments suivants :",
+        "• Avis et intérêt de votre enfant",
+        "• Votre avis sur son lieu et son mode de placement.",
+        "Votre enfant est alors placé :",
+        "• Soit en famille d'accueil rémunérée,",
+        "• Soit en établissement spécialisé,",
+        "• Soit au domicile d'un tiers bénévole, notamment parmi les personnes qu'il connaît déjà.",
+        "[À savoir] Avec l'accord de son éducateur référent, votre enfant peut, s'il le souhaite, désigner une personne de confiance parmi son entourage. Cette personne pourra l'accompagner dans ses démarches et l'aider à préparer son autonomie.",
+        "Les services du département rédige un document appelé projet pour l'enfant (PPE).",
+        "Ce document contient des informations sur les points suivants :",
+        "• Nature et objectifs des interventions menées (pour vous, votre enfant et son entourage)",
+        "• Délai de mise en œuvre",
+        "• Durée",
+        "• Détermination du rôle des intervenants envers votre enfant et du vôtre",
+        "• Identification du référent de votre enfant au sein de l'Ase.",
+        "Le PPE prend en compte les relations personnelles entre les frères et sœurs pour éviter les séparations. Toutefois, si l'intérêt de l'enfant l'exige, une autre solution sera envisagée.",
+        "L'élaboration du PPE comprend une évaluation médicale et psychologique de votre enfant pour déterminer ses besoins de soins. Ceux-ci doivent être intégrés au document.",
+        "Le PPE vous est remis, ainsi qu'à votre enfant."
+      ]
+    },
+    {
+      "titre": "Les droits et obligations des parents sont-ils transférés lors du placement volontaire d'un enfant ?",
+      "contenu": [
+        "En principe, vous conservez vos droits et devoirs vis-à-vis de votre enfant. On parle d'autorité parentale.",
+        "La famille d'accueil, l'établissement ou le tiers bénévole à qui votre enfant a été confié accomplit uniquement les actes portant sur sa surveillance et son éducation.",
+        "Ils doivent obtenir votre accord, par exemple pour que votre enfant consulte un médecin, subisse une opération, fasse une sortie ou un voyage scolaire.",
+        "Toutefois, si vous avez davantage besoin d'être aidé ou soutenu dans l'instruction et l'éducation de votre enfant, vous pouvez demander au juge aux affaires familiales (Jaf) de transférer vos droits et vos devoirs vis-à-vis de votre enfant à une autre personne. Il peut s'agir d'un membre de la famille ou d'un organisme spécialisé (service de l'aide sociale à l'enfance).",
+        "Ainsi, pour déléguer tout ou partie de l'exercice de votre autorité parentale, vous devez vous rapprocher du tribunal judiciaire du domicile de l'enfant.",
+        "Tribunal judiciaire ou tribunal de proximité"
+      ]
+    },
+    {
+      "titre": "Combien de temps dure le placement de l'enfant ?",
+      "contenu": [
+        "Votre enfant est confié pour une durée maximale d'1 an.",
+        "Cependant, en cas de nécessité, cette durée peut être renouvelée."
+      ]
+    },
+    {
+      "titre": "La situation de l'enfant qui a été placé est-elle réexaminée périodiquement ?",
+      "contenu": [
+        "Oui. Le service de l'Ase vérifie chaque année si vous êtes toujours dans l'impossibilité d'assurer l'instruction et l'éducation de votre enfant.",
+        "Si tel est le cas, vous devez à nouveau donner votre accord pour que le placement de votre enfant soit renouvelé.",
+        "[À noter] Un an avant la majorité de l'enfant, un entretien est effectué pour faire le bilan de son parcours et envisager les conditions d'accompagnement vers son autonomie."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Loi n°2022-140 du 7 février 2022 relative à la protection des enfants",
+      "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000045133788"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : articles L221-1 à L221-9",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006157582"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : articles L222-1 à L222-7",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074069/LEGISCTA000006157583?etatTexte=VIGUEUR&etatTexte=VIGUEUR_DIFF#LEGISCTA000006157583"
+    },
+    {
+      "titre": "Code civil : articles 376 à 377-3",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006150093/"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : articles R223-1 à R223-11-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033167447"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : articles D223-12 à D223-17",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033167648"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : articles D221-16 à D221-24",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033225713"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : articles D221-24-2 à D221-24-4",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074069/LEGISCTA000048007809/#LEGISCTA000048007809"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles L543-1 à L543-2",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006156177"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Mairie",
+    "Services du département"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Qu'est-ce que la protection de l'enfance ?",
+      "url": "https://solidarites-sante.gouv.fr/affaires-sociales/familles-enfance/protection-de-l-enfance-10740/"
+    }
+  ],
+  "slug": "placement-volontaire-d-un-enfant-par-ses-parents",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "placement-d-un-enfant",
+      "titre": "Placement d'un enfant"
+    }
+  ]
+}

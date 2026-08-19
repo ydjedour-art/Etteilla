@@ -1,0 +1,50 @@
+{
+  "id": "F35905",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Avec quels documents un Français peut-il se rendre au Royaume-Uni ?",
+  "theme": "Étranger - Europe",
+  "description": "Pour entrer au Royaume-Uni, vous devez avoir votre passeport valide sauf si vous bénéficiez d'un statut de résident, et une autorisation de voyage électronique.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-04-02",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35905",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Voyager à l'étranger",
+    "Avec quels documents un Français peut-il se rendre au Royaume-Uni ?"
+  ],
+  "introduction": "Les conditions d'entrée au Royaume-Uni diffèrent selon que vous soyez majeur ou mineur, selon que vous déteniez un statut de résident ou non et selon que vous partez pour une durée de plus ou moins de 6 mois. Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [
+    {
+      "titre": "Faire une demande d'autorisation de voyage électronique (ETA) pour se rendre au Royaume-Uni",
+      "url": "https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "Consulat général de France à Londres"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Conditions d'entrée et de séjour au Royaume-Uni",
+      "url": "https://uk.ambafrance.org/Conditions-d-entree-et-de-sejour-29733"
+    },
+    {
+      "titre": "Informations utiles pour se rendre au Royaume-Uni",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/royaume-uni/#derniere"
+    }
+  ],
+  "slug": "avec-quels-documents-un-francais-peut-il-se-rendre-au-royaume-uni",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "voyager-a-l-etranger",
+      "titre": "Voyager à l'étranger"
+    }
+  ]
+}

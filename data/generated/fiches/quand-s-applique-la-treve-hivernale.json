@@ -1,0 +1,75 @@
+{
+  "id": "F34736",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quand s'applique la trêve hivernale ?",
+  "theme": "Logement",
+  "description": "La trêve hivernale a lieu du 1er novembre au 31 mars de l'année suivante. L'expulsion du locataire est alors reportée. Mais elle n'existe pas dans d'autres cas.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-12-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34736",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Bail d’habitation : obligations du locataire",
+    "Quand s'applique la trêve hivernale ?"
+  ],
+  "introduction": "La trêve hivernale s'applique du 1er novembre au 31 mars de l'année suivante. Durant cette période, l'expulsion du locataire de son logement ne peut pas avoir lieu, elle est reportée. Mais la trêve hivernale ne s'applique pas dans d'autres cas (squatteur occupant un logement, expulsion du domicile conjugal sur ordre du juge). Nous vous expliquons la règlementation.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "La situation diffère selon que le logement est habité par le locataire, ou qu'il est occupé par un squatteur, ou si une expulsion a été ordonnée par le juge aux affaires familiales :",
+        "Logement habité par le locataire",
+        "Aucun locataire ne peut être expulsé de son logement durant la période de trêve hivernale. Cette période va du 1er novembre au 31 mars (inclus) de l'année suivante.",
+        "Mais la trêve hivernale ne s'applique pas lorsqu'il existe une solution de relogement correspondant aux besoins du locataire (le nombre de pièces doit correspondre au nombre d'occupants).",
+        "Durant la trêve hivernale, un propriétaire a le droit d'engager une procédure d'expulsion en saisissant le juge des contentieux de la protection, y compris en référé (procédure d'urgence). Si le juge ordonne l'expulsion, alors elle sera effective dès la fin de la trêve hivernale.",
+        "[À savoir] Dans les départements d'outre-mer (Dom), une trêve cyclonique peut également s'appliquer. Les dates varient selon les départements, il convient de se renseigner auprès de la préfecture concernée.",
+        "Logement occupé par un squatteur",
+        "Un squatteur est une personne qui occupe un lieu (logement, garage, terrain...) après y être entrée illégalement.",
+        "Pour reprendre possession du logement, il faut porter plainte et demander l'évacuation du squatteur.",
+        "Lorsqu'un squatteur occupe un logement (résidence principale ou résidence secondaire), l'expulsion peut avoir lieu, quelle que soit la période de l'année. La trêve hivernale ne s'applique pas.",
+        "En cas de violences dans le couple (marié, pacsé, concubins) ou sur un enfant",
+        "Dans le cadre d'une ordonnance de protection, le juge aux affaires familiales peut décider que la personne violente doit être expulsée du domicile conjugal. L'expulsion peut avoir lieu, même au cours de la trêve hivernale.",
+        "En cas de procédure de divorce",
+        "Lors de l’audience d’orientation et sur mesures provisoires, le juge aux affaires familiales peut attribuer la jouissance du logement à l’un des époux et ordonner l’expulsion de l’autre époux. Celui qui conserve le logement peut charger un commissaire de justice d’un commandement de quitter les lieux (ou commandement d’avoir à libérer les lieux) et de l’expulsion de l’autre époux. L'expulsion peut avoir lieu, même au cours de la trêve hivernale.",
+        "Mais si le juge aux affaires familiales a attribué le logement à un des époux, sans ordonner l’expulsion de l’autre époux, celui qui conserve le logement doit saisir le juge du contentieux de la protection pour obtenir l’expulsion de celui qui refuse de quitter le logement malgré la décision du juge aux affaires familiales. L'expulsion peut avoir lieu, même au cours de la trêve hivernale."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code des procédures civiles d'exécution : articles L412-1 à L412-8",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000025024948/LEGISCTA000025026032"
+    },
+    {
+      "titre": "Code des procédures civiles d'exécution : articles L433-1 à L433-3",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025026079"
+    },
+    {
+      "titre": "Code civil : articles 515-9 à 515-13",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000022455910/#LEGISCTA000022469694"
+    },
+    {
+      "titre": "Réponse ministérielle du 23 juin 2020 sur l'expulsion de l'époux se maintenant dans le logement en dépit de l'ordonnance de non conciliation",
+      "url": "https://questions.assemblee-nationale.fr/q15/15-21786QE.htm"
+    },
+    {
+      "titre": "Réponse ministérielle du 2 juin 2020 sur les référés civils pour l’expulsion du conjoint du domicile familial",
+      "url": "https://questions.assemblee-nationale.fr/q15/15-21790QE.htm"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "quand-s-applique-la-treve-hivernale",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "bail-d-habitation-obligations-du-locataire",
+      "titre": "Bail d’habitation : obligations du locataire"
+    }
+  ]
+}

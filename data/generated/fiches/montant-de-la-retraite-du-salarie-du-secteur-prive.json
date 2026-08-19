@@ -1,0 +1,212 @@
+{
+  "id": "F21552",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Montant de la retraite du salarié du secteur privé",
+  "theme": "Travail - Formation",
+  "description": "Le montant de votre retraite dépend de votre durée d'assurance retraite et de la moyenne de vos salaires de vos 25 meilleurs années.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-01-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F21552",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Retraite d'un salarié du secteur privé",
+    "Montant de la retraite du salarié du secteur privé"
+  ],
+  "introduction": "Vous souhaitez connaître le montant de votre future retraite et savoir comment il est calculé ? Nous vous présentons les règles générales de calcul de la pension de retraite de l'Assurance retraite de la Sécurité sociale.",
+  "chapitres": [
+    {
+      "titre": "Comment est calculée le montant de la retraite de l'Assurance retraite ?",
+      "contenu": [
+        "Le montant de votre pension de retraite de l'Assurance retraite est calculé ainsi :",
+        "Revenu annuel moyen x Taux de la pension x (Votre durée d'assurance à l'Assurance retraite / Durée d'assurance pour obtenir une pension à taux plein)",
+        "Nous vous détaillons ces différents paramètres qui sont pris en compte pour calculer votre retraite.",
+        "Revenu annuel moyen",
+        "Votre revenu annuel moyen est la moyenne des salaires bruts sur lesquels vous avez cotisé à l'Assurance retraite pendant les 25 années les plus avantageuses de votre carrière.",
+        "Si vous avez travaillé moins de 25 ans, votre revenu annuel moyen est égal à la moyenne de vos salaires bruts pendant ces années de travail.",
+        "[À savoir] Vos revenus de l'année au cours de laquelle vous partez à la retraite ne sont pas pris en compte.",
+        "Tous les éléments de rémunération (salaire de base, primes, heures supplémentaires) et les indemnités journalières de maternité sont pris en compte pour le calcul du revenu annuel moyen.",
+        "Les montants en francs sont convertis en euros et arrondis au centime d'euro le plus proche.",
+        "Vos revenus annuels sont revalorisés en appliquant les coefficients de revalorisation en vigueur au moment de votre départ en retraite.",
+        "Avant revalorisation, les revenus perçus à partir de 2005 sont limités au plafond de sécurité sociale.",
+        "Durée d'assurance retraite",
+        "La durée d'assurance retraite est l'ensemble des trimestres retenus par les caisses de retraite.",
+        "La durée d'assurance retenue par l'Assurance retraite comprend notamment les périodes suivantes :",
+        "• Les périodes au cours desquelles vous avez cotisé à l'Assurance retraite (trimestres d'assurance). Le salaire permettant de valider 1 trimestre est revalorisé chaque année",
+        "• Les périodes d'interruption d'activité qui sont assimilées à des trimestres d'assurance (périodes de maladie, de longue maladie ou d'accident de travail, congé de maternité, périodes au cours desquelles vous avez perçu une pension d'invalidité, périodes de chômage, périodes de chômage partiel intervenues à partir du 1er mars 2020, périodes de service national)",
+        "• Les périodes de salariat pour lesquelles l'Assurance retraite ne dispose pas du justificatif de vos cotisations mais validées au vu des preuves que vous fournissez, généralement vos bulletins de salaire (périodes validées par présomption)",
+        "• Les trimestres d'assurance accordés gratuitement notamment pour enfant.",
+        "[Rappel] Une année ne peut comporter que 4 trimestres.",
+        "Votre durée d'assurance retraite figure sur votre relevé de carrière.",
+        "Vous pouvez consulter et télécharger votre relevé de carrière sur le site officiel Info-Retraite, dans votre compte retraiteen utilisant le service Ma carrière / Voir ma carrière :",
+        "Info Retraite - Mon compte retraite",
+        "Connexion via FranceConnect",
+        "Durée d'assurance retraite exigée pour obtenir une pension à taux plein",
+        "La durée d'assurance requise pour obtenir une pension à taux plein varie selon votre date de naissance :",
+        "Nombre de trimestres d'assurance exigé pour avoir droit à une retraite à taux plein",
+        "Vous êtes né :",
+        "Vous pouvez partir en retraite à partir de :",
+        "Nombre de trimestres exigé pour avoir le taux plein",
+        "Entre le 1er janvier 1958 et le 31 décembre 1960",
+        "62 ans",
+        "167 (41 ans 9 mois)",
+        "Entre le 1er janvier 1961 et le 31 aout 1961",
+        "62 ans",
+        "168 (42 ans)",
+        "Entre le 1er septembre 1961 et le 31 décembre 1961",
+        "62 ans et 3 mois",
+        "169 (42 ans 3 mois)",
+        "1962",
+        "62 ans et 6 mois",
+        "169 (42 ans 3 mois)",
+        "Entre le 1er janvier 1963 et le 31 mars 1965",
+        "62 ans et 9 mois",
+        "170 (42 ans 6 mois)",
+        "Entre le 1er avril 1965 et le 31 décembre 1965",
+        "63 ans",
+        "171 (42 ans 9 mois)",
+        "1966",
+        "63 ans et 3 mois",
+        "172 (43 ans)",
+        "1967",
+        "63 ans et 6 mois",
+        "172 (43 ans)",
+        "1968",
+        "63 ans et 9 mois",
+        "172 (43 ans)",
+        "À partir du 1er janvier 1969",
+        "64 ans",
+        "172 (43 ans)",
+        "Taux servant au calcul de la pension de retraite",
+        "Le taux appliqué à votre revenu annuel moyen est 50 % si vous avez droit à une retraite à taux plein. C'est notamment le cas si vous remplissez l'une des 2 conditions suivantes :",
+        "• Vous partez à la retraite avant 67 ans en ayant le nombre de trimestres exigé, tous régimes confondus, pour avoir droit à une retraite à taux plein",
+        "• Ou vous partez à la retraite à 67 ans, quel que soit votre nombre de trimestres, tous régimes confondus",
+        "En revanche, si vous partez à la retraite avant 67 ans sans avoir le nombre de trimestres exigé pour avoir droit à une retraite à taux plein, tous régimes confondus, le taux de 50 % est réduit de 0,625 % par trimestres manquant dans la limite de 20 trimestres.",
+        "Cette réduction s'appelle la décote.",
+        "[Exemple] Si vous êtes né en 1964, vous avez droit à une retraite à taux plein (calculée sur la base de 50 % de votre revenu annuel moyen) à partir de 62 ans et 9 mois si vous avez 170 trimestres ou à 67 ans quel que soit votre nombre de trimestres. • Vous partez à la retraite avant 67 ans avec 170 trimestres tous validés auprès de l'Assurance retraite. Si votre revenu annuel est de 38 400 € (3 200 x 12), votre retraite annuelle est de 38 400 € x 50 % x (170 / 170) = 19 200 €, soit une pension mensuelle brute de 1 600 € • Vous partez à la retraite avant 67 ans avec 170 trimestres dont 120 validés auprès de l'Assurance retraite et 50 validés auprès d'une autre caisse de retraite. Si votre revenu annuel est de 38 400 €, votre retraite annuelle est de 38 400 € x 50 % x (120 / 170) = 13 552,94 €, soit une pension mensuelle brute de 1 129,41 €. Les 50 trimestres validés auprès d’une autre caisse de retraite vous donne droit à une 2e pension de retraite calculée selon les règles applicables par la caisse de retraite concernée • Vous partez à la retraite à 67 ans avec 158 trimestres tous validés auprès de l'Assurance retraite. Si votre revenu annuel est de 38 400 €, votre retraite annuelle est de 38 400 € x 50 % x (158 / 170) = 17 844,71 €, soit une pension mensuelle brute de 1 487,06 € • Vous partez à la retraite à 67 ans avec 158 trimestres dont 120 validés auprès de l'Assurance retraite et 38 validés auprès d'une autre caisse de retraite. Si votre revenu annuel est de 38 400 €, votre retraite annuelle est de 38 400 € x 50 % x (120 / 170) = 13 552,94 €, soit une pension mensuelle brute de 1 129,41 €. Les 38 trimestres validés auprès d’une autre caisse de retraite vous donne droit à une 2e pension de retraite calculée selon les règles applicables par la caisse de retraite concernée • Vous partez à la retraite à 65 ans avec 158 trimestres tous validés auprès de l'Assurance retraite. Si votre revenu annuel est de 38 400 €, votre retraite annuelle est de 38 400 € x 45 % x (158 / 170) = 16 060,24 €, soit une pension mensuelle brute de 1 338,35 € • Vous partez à la retraite à 65 ans avec 158 trimestres dont 120 validés auprès de l'Assurance retraite et 38 validés auprès d'une autre caisse de retraite. Si votre revenu annuel est de 38 400 €, votre retraite annuelle est de 38 400 € x 45 % x (120 / 170) = 12 197,65 €, soit une pension mensuelle brute de 1 016,47 €. Les 38 trimestres validés auprès d’une autre caisse de retraite vous donne droit à une 2e pension de retraite calculée selon les règles applicables par la caisse de retraite concernée."
+      ]
+    },
+    {
+      "titre": "Y-a-t-il un montant minimum de retraite ?",
+      "contenu": [
+        "Dans certains cas, le montant de votre pension de retraite ne peut pas être inférieur à un montant minimum, appelé minimum contributif.",
+        "Quelles sont les conditions à remplir pour bénéficier du minimum contributif ?",
+        "Vous avez droit au minimum contributif si vous remplissez les conditions suivantes :",
+        "• Vous bénéficiez d'une retraite à taux plein de l'Assurance retraite",
+        "• Vous avez demandé toutes vos retraites à l'ensemble des régimes de base et complémentaires, français et étrangers, auprès desquels vous avez des droits",
+        "• Le montant total de ces retraites ne dépasse pas 1 410,89 €",
+        "Le minimum contributif vous est automatiquement accordé si vous remplissez ces conditions pour en bénéficier.",
+        "Quel est le montant du minimum contributif ?",
+        "Il y 3 cas de figure :",
+        "• 1er cas : vous partez à la retraite avant 67 ans en ayant le nombre de trimestres exigé pour avoir droit à une retraite à taux plein et tous ces trimestres sont cotisés, le montant de votre pension ne peut pas être inférieur à 10 847,22 € brut par an, soit 903,94 € brut par mois",
+        "• 2e cas : vous partez à la retraite avant 67 ans en ayant le nombre de trimestres exigé pour avoir droit à une retraite à taux plein mais tous ces trimestres ne sont pas cotisés.Si vous avez moins de 120 trimestres cotisés, le montant de votre pension ne peut pas être inférieur à 9 075,50 € brut par an, soit 756,29 € brut par moisSi vous avez plus de 120 trimestres cotisés, le montant de 756,29 € brut par mois est majoré en fonction de votre nombre de trimestres cotisés par rapport à votre nombre de trimestres total.Par exemple, si vous êtes né en 1964 et partez à la retraite avant 67 ans en ayant les 170 trimestres exigés pour avoir droit à une retraite à taux plein mais seulement 135 trimestres cotisés, le montant de votre pension ne peut pas être inférieur à 756,29 € + [(903,94 € - 756,29 €) x 135 / 170] = 873,54 € brut par mois",
+        "• 3e cas : vous partez à la retraite à 67 ans sans avoir le nombre de trimestres exigé pour avoir droit à une retraite à taux plein avant 67 ans, le montant de 756,29 € brut par mois est réduit en fonction de votre nombre de trimestres par rapport au nombre de trimestres exigé pour avoir droit à une retraite à taux plein avant 67 ansPar exemple, si vous êtes né en 1964 et partez à la retraite à 67 ans en ayant seulement 140 trimestres, le montant de votre pension ne peut pas être inférieur à 756,29 € x 140 / 170 = 622,83 € brut par mois",
+        "Le versement du minimum contributif ne peut pas avoir pour conséquence de porter le total de vos pensions de retraites au-delà de 1 410,89 € brut par mois.",
+        "En cas de dépassement, le minimum contributif est réduit de façon à ce que ce montant ne soit pas dépassé."
+      ]
+    },
+    {
+      "titre": "Y-a-t-il un montant maximum de retraite ?",
+      "contenu": [
+        "Le montant de votre pension de retraite versée par l'Assurance retraite ne peut pas dépasser 50 % du plafond de la Sécurité sociale applicable l'année de votre départ à la retraite.",
+        "Ainsi, si vous partez à la retraite en 2026, votre retraite ne peut pas dépasser 2 002,50 € brut par mois.",
+        "Toutefois, vous pouvez dépasser ce montant maximum si vous bénéficiez d'une surcote."
+      ]
+    },
+    {
+      "titre": "À quelles cotisations est soumise la retraite ?",
+      "contenu": [
+        "Votre pension de retraite est soumise, sauf exonération, aux cotisations suivantes :",
+        "• CSG et CRDS",
+        "• Contribution additionnelle de solidarité pour l'autonomie (Casa)"
+      ]
+    },
+    {
+      "titre": "Comment le montant de la retraite augmente-t-il ?",
+      "contenu": [
+        "Votre pension de retraite est revalorisée au 1er janvier de chaque année en fonction de la moyenne de l'évolution des prix à la consommation hors tabac."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la sécurité sociale : article L351-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023035688"
+    },
+    {
+      "titre": "Code de la sécurité sociale : article L351-10",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019959492/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : article D173-21-4",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034624407"
+    },
+    {
+      "titre": "Code de la sécurité sociale : article D351-2-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041968645/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : article R351-9",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028751530/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles R351-25 à R351-29-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006173400"
+    },
+    {
+      "titre": "Arrêté du 9 octobre 1986 relatif à la revalorisation de divers avantages de vieillesse, d'invalidité et d'accident du travail du régime général de la sécurité sociale",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006073887"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Estimer le montant de votre retraite",
+      "url": "https://www.info-retraite.fr/portail-services/sir",
+      "type": "Simulateur"
+    }
+  ],
+  "contacts": [
+    "Assurance retraite - 39 60"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Info-retraite",
+      "url": "http://www.info-retraite.fr"
+    },
+    {
+      "titre": "Assurance Retraite : mes droits, mes démarches, ma retraite",
+      "url": "https://www.lassuranceretraite.fr/portail-info/accueil"
+    },
+    {
+      "titre": "Quel sera le montant de ma retraite ?",
+      "url": "https://www.info-retraite.fr/portail-info/sites/PortailInformationnel/home/mes-droits-a-la-retraite/age-et-montant-de-ma-retraite/en-synthese-1/quel-sera-le-montant-de-ma-ret-1.html#:~:text=75%25%20du%20traitement%20indiciaire%20des,des%2025%20meilleures%20ann%C3%A9es%20salari%C3%A9es)"
+    },
+    {
+      "titre": "Retraite du régime général : coefficients de revalorisation des salaires",
+      "url": "https://legislation.lassuranceretraite.fr/#/bareme?file_leaf_ref=revalorisation_coefficient_revalorisation_salaire_cotisation_bar.aspx"
+    },
+    {
+      "titre": "Assurance vieillesse - Salaire plafond soumis à cotisations",
+      "url": "https://legislation.lassuranceretraite.fr/#/bareme?file_leaf_ref=salaire_plafond_soumis_cotisation_bar.aspx"
+    },
+    {
+      "titre": "Salaire validant un trimestre à l'Assurance retraite",
+      "url": "https://legislation.lassuranceretraite.fr/#/bareme?file_leaf_ref=salaire_validant_un_trimestre_montant_bar.aspx"
+    },
+    {
+      "titre": "Réglementation applicable à Mayotte : calcul et montant de la pension de retraite",
+      "url": "https://legislation.lassuranceretraite.fr/#/portail?menuId=0606b044-3264-4c19-ae58-7b1ae0a9f502"
+    }
+  ],
+  "slug": "montant-de-la-retraite-du-salarie-du-secteur-prive",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "retraite-d-un-salarie-du-secteur-prive",
+      "titre": "Retraite d'un salarié du secteur privé"
+    }
+  ]
+}

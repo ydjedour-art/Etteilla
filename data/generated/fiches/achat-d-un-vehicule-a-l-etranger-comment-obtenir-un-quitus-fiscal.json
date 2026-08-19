@@ -1,0 +1,70 @@
+{
+  "id": "F179",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Achat d'un véhicule à l'étranger : comment obtenir un quitus fiscal ?",
+  "theme": "Transports - Mobilité",
+  "description": "Ce certificat indique que le véhicule européen est en règle concernant la TVA pour l'obtention d'une carte grise française.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2024-11-22",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F179",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Carte grise (certificat d'immatriculation)",
+    "Achat d'un véhicule à l'étranger : comment obtenir un quitus fiscal ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Le quitus fiscal (ou certificat fiscal) indique que le véhicule est en situation régulière au regard de la taxe sur la valeur ajoutée (TVA).",
+        "Il permet d'obtenir une carte grise si vous avez acheté un véhicule neuf ou d'occasion dans un pays de l'Union européenne autre que la France.",
+        "La démarche diffère selon votre département.",
+        "[Attention] Vous n'avez pas besoin d'un quitus fiscal pour une remorque, un semi-remorque, un véhicule agricole ou forestier."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Arrêté du 12 septembre 2023 portant création de téléservices relatifs aux démarches administratives d'immatriculation des véhicules provenant d'un autre Etat de l'U.E",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000048211118"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-TVA-SECT-70-30-10 relatif à la TVA des opérations communautaires",
+      "url": "http://bofip.impots.gouv.fr/bofip/692-PGP"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demande de quitus fiscal",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/1993-part-d/demande-de-quitus-fiscal-1993-part-d-sd",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Agence nationale des titres sécurisés (ANTS) - Démarches d'immatriculation",
+    "Service des impôts - quitus fiscal"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Importation en France d'un véhicule",
+      "url": "https://www.douane.gouv.fr/fiche/importation-par-un-particulier-dun-vehicule-achete-letranger-generalites"
+    },
+    {
+      "titre": "Téléprocédure pour immatriculer un véhicule et demander un quitus fiscal",
+      "url": "https://www.impots.gouv.fr/sites/default/files/media/3_Documentation/fiches_focus/nid_26539_immatriculer_vehicule_demander_quitus_ue.pdf"
+    }
+  ],
+  "slug": "achat-d-un-vehicule-a-l-etranger-comment-obtenir-un-quitus-fiscal",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "carte-grise-certificat-d-immatriculation",
+      "titre": "Carte grise (certificat d'immatriculation)"
+    }
+  ]
+}

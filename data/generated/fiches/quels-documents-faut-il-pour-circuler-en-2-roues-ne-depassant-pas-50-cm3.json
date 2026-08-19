@@ -1,0 +1,74 @@
+{
+  "id": "F1113",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quels documents faut-il pour circuler en 2 roues ne dépassant pas 50 cm3 ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Vous devez avoir au moins 14 ans pour rouler avec un 2 roues dont la puissance ne dépasse pas 50 cm3 (scooter, cyclomoteur.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-02-26",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1113",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Assurance automobile (véhicule)",
+    "Quels documents faut-il pour circuler en 2 roues ne dépassant pas 50 cm3 ?"
+  ],
+  "introduction": "Pour rouler avec un 2 roues dont la puissance ne dépasse pas 50 cm3 (scooter, cyclomoteur...), il faut avoir au moins 14 ans. En cas de contrôle, vous devez présenter une pièce d'identité et les documents qui prouvent que l'engin est immatriculé et assuré. Si vous êtes né après 1987, vous devez en plus avoir le brevet de sécurité routière (BSR) ou le permis de conduire.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Vous êtes né avant le 1er janvier 1988",
+        "Pour circuler avec un 2 roues dont la puissance ne dépasse pas 50 cm3 (scooter, cyclomoteur...), vous devez avoir les 2 documents suivants :",
+        "• Document attestant de votre âge (carte d'identité, passeport)",
+        "• Carte grise du cyclomoteur (dorénavant appelée certificat d'immatriculation).",
+        "[À savoir] L'attestation et la vignette d’assurance ne sont plus exigées. Toutefois, l'assurance reste obligatoire et sera vérifiée directement via le fichier des véhicules assurés (FVA) en cas de contrôle. Un 2 roues motorisé, y compris s'il a moins de 50 cm³, doit être assuré au minimum en responsabilité civile.",
+        "Le fait de circuler avec un 2 roues motorisé non immatriculé sur la voie publique vous expose à une amende pouvant aller jusqu'à 750 €. En général, il s'agit d'une amende forfaitaire de 135 €.",
+        "Vous êtes né à compter du 1er janvier 1988",
+        "Pour circuler avec un 2 roues dont la puissance ne dépasse pas 50 cm3 (scooter, cyclomoteur...), vous devez avoir les 3 documents suivants :",
+        "• Document qui atteste que vous avez plus de 14 ans",
+        "• Carte grise (désormais appelée certificat d'immatriculation) du 2 roues",
+        "• BSR ou permis de conduire d'une autre catégorie",
+        "Ne pas présenter immédiatement les documents exigés aux forces de l'ordre est sanctionné par une amende pouvant aller jusqu'à 38 €.",
+        "Vous êtes invité à justifier dans un délai de 5 jours que vous avez les documents exigés.",
+        "Ne pas présenter ces documents dans le délai de 5 jours est sanctionné par une amende pouvant aller jusqu'à 750 €.",
+        "[À savoir] L'attestation et la vignette d’assurance ne sont plus exigées. Toutefois, l'assurance reste obligatoire et sera vérifiée directement via le fichier des véhicules assurés (FVA) en cas de contrôle. Un 2-roues motorisé, y compris s'il a moins de 50 cm³, doit être assuré au minimum en responsabilité civile.",
+        "Le fait de circuler avec un 2 roues motorisé non immatriculé sur la voie publique vous expose à une amende pouvant aller jusqu'à 750 €. En général, il s'agit d'une amende forfaitaire de 135 €."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la route : articles R211-1 à R211-2",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074228/LEGISCTA000006177145"
+    },
+    {
+      "titre": "Code de la route : articles R233-1 à R233-3",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074228/LEGISCTA000006159569"
+    },
+    {
+      "titre": "Code de la route : article R317-8",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042266062"
+    },
+    {
+      "titre": "Code des assurances : articles R211-21-1 à R211-21-6",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006187941"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Info Banque - Assurance"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "quels-documents-faut-il-pour-circuler-en-2-roues-ne-depassant-pas-50-cm3",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "assurance-automobile-vehicule",
+      "titre": "Assurance automobile (véhicule)"
+    }
+  ]
+}

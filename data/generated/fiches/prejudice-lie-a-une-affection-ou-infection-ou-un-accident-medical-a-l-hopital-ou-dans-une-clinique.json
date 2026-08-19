@@ -1,0 +1,78 @@
+{
+  "id": "F10342",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Préjudice lié à une affection ou infection ou un accident médical à l'hôpital ou dans une clinique",
+  "theme": "Social - Santé",
+  "description": "Une victime d'un préjudice dû à un dysfonctionnement d'un hôpital ou d'une clinique peut régler ce litige à l'amiable ou engager une procédure judiciaire.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-03-26",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F10342",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Préjudice médical",
+    "Préjudice lié à une affection ou infection ou un accident médical à l'hôpital ou dans une clinique"
+  ],
+  "introduction": "Vous êtes victime d'un préjudice en raison du dysfonctionnement d'un hôpital ou d'une clinique ? Vous avez la possibilité de régler ce litige à l'amiable ou d'engager une procédure judiciaire. Selon la nature de l'établissement (public ou privé), le juge administratif ou le juge civil sera compétent. En cas de faute grave, vous pouvez saisir le tribunal pénal. Nous vous exposons les démarches à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de la santé publique : article L1142-28",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000006185265/"
+    },
+    {
+      "titre": "Code des relations entre le public et l'administration : articles L231-4 à L231-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000031366350/LEGISCTA000031367617"
+    },
+    {
+      "titre": "Code de procédure pénale : article 8",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049531911"
+    },
+    {
+      "titre": "Code de procédure pénale : articles 749 à 762",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006138149"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Santé Info Droits",
+    "Maison de justice et du droit"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Site de l'Office national d'indemnisation des accidents médicaux (Oniam)",
+      "url": "http://www.oniam.fr/"
+    },
+    {
+      "titre": "Présentation des établissements privés de santé",
+      "url": "http://www.hopital.fr/Nos-Missions/L-hopital-au-sein-de-l-organisation-generale-de-la-sante/Les-etablissements-de-sante-prives"
+    },
+    {
+      "titre": "Présentation des établissements publics de santé",
+      "url": "http://www.hopital.fr/Nos-Missions/L-hopital-au-sein-de-l-organisation-generale-de-la-sante/Les-etablissements-publics-de-sante"
+    },
+    {
+      "titre": "Défenseur des droits (usagers) : votre santé, vos droits",
+      "url": "https://www.defenseurdesdroits.fr/fr/institution/competences/services-publics"
+    },
+    {
+      "titre": "Voies de recours pour porter une réclamation sur un soin ou une prise en charge",
+      "url": "https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/ou-s-adresser-pour-effectuer-une-reclamation"
+    },
+    {
+      "titre": "Les plaintes devant les ordres professionnels",
+      "url": "https://sante.gouv.fr/IMG/pdf/Fiche_24.pdf"
+    }
+  ],
+  "slug": "prejudice-lie-a-une-affection-ou-infection-ou-un-accident-medical-a-l-hopital-ou-dans-une-clinique",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "prejudice-medical",
+      "titre": "Préjudice médical"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "F37911",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Délais de réflexion et de rétractation : quelles différences pour le consommateur ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Le délai de réflexion est le temps pour prendre une décision après avoir reçu une offre ou un contrat sans pour autant avoir la possibilité de se rétracter.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-08-22",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F37911",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Information et protection du consommateur",
+    "Délais de réflexion et de rétractation : quelles différences pour le consommateur ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Le délai de réflexion est le temps qui vous est accordé, en tant que consommateur, pour prendre une décision après avoir reçu une offre ou un contrat, et avant la conclusion de celui-ci.",
+        "Cette période vous permet notamment de prendre connaissance de l'ensemble des informations mentionnées dans le contrat, de poser des questions complémentaires au professionnel, de comparer l'offre proposée avec une autre.",
+        "Le délai de réflexion varie selon le type de contrat.",
+        "Exemples :",
+        "• Si vous vous apprêtez à faire un acte de chirurgie esthétique et que vous avez demandé un devis, vous avez un délai minimum de 15 jours calendaires après la remise du devis pour vous engager ou pas. Ce délai ne pourra pas être moindre, et ce même si vous le demandez.",
+        "• Si vous allez souscrire un crédit immobilier, vous avez 10 jours calendaires à la réception de l'offre pour l'accepter ou la refuser.",
+        "Le délai de rétractation est le laps de temps pendant lequel vous pouvez annuler un contrat ou un achat sans avoir à fournir de justification. Cela signifie que le contrat a été formé ou l'achat passé.",
+        "Le délai varie selon la nature du contrat signé.",
+        "Exemples :",
+        "• Si vous venez de signer un crédit à la consommation., vous avez 14 jours calendaires révolus à compter du jour de l'acceptation pour changer d'avis et revenir sur votre engagement.",
+        "• Si vous avez signé un contrat avec une agence matrimoniale et vous voulez revenir sur votre décision, vous avez 7 jours calendaires pour vous rétracter à partir du moment où vous avez signé le contrat.",
+        "[À savoir] Pour les contrats conclus à distance, le consommateur doit être informé de l’existence du droit de rétractation et de ses conditions d’exercice.",
+        "Si le professionnel ne vous informe pas de votre droit de rétractation, le délai est prolongé de 12 mois à partir de la fin du délai initial. Si cette information vous est communiquée pendant cette période, le délai de rétractation reprend 14 jours à compter de la réception de l’information."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : articles 1113 à 1122",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032007103"
+    },
+    {
+      "titre": "Code de la consommation : article L221-18",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032226842/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "0809 540 550 DGCCRF - RéponseConso"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Les délais de réflexion ou de rétractation",
+      "url": "https://www.economie.gouv.fr/dgccrf/Publications/Vie-pratique/Fiches-pratiques/Delais-de-reflexion-ou-de-retractation"
+    }
+  ],
+  "slug": "delais-de-reflexion-et-de-retractation-quelles-differences-pour-le-consommateur",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "information-et-protection-du-consommateur",
+      "titre": "Information et protection du consommateur"
+    }
+  ]
+}

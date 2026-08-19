@@ -1,0 +1,70 @@
+{
+  "id": "F20343",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Droit à l'hébergement opposable (Daho)",
+  "theme": "Social - Santé",
+  "description": "Le droit à l’hébergement opposable (Daho) permet à toute personne sans solution adaptée, de contraindre l’État à lui proposer un hébergement.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-11-07",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F20343",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Hébergement social",
+    "Droit à l'hébergement opposable (Daho)"
+  ],
+  "introduction": "Vous êtes dans une situation de précarité ou d’urgence sociale (par exemple, menace d’expulsion, hébergement temporaire, logement insalubre, sans domicile) et à la suite d'une demande d'hébergement, aucun hébergement adapté à votre situation ne vous a été proposé ? Vous pouvez faire un recours appelé droit à l’hébergement opposable (Daho). Nous vous indiquons les informations à connaître selon que vous demandez un hébergement en Île-de-France ou ailleurs en France.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "[Attention] Le Daho est différent du droit au logement opposable (Dalo), qui concerne les demandes de logement durable pour les personnes mal logées ou sans logement."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la construction et de l'habitation : article L300-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006824680/"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : article L441-2-3",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045211734/"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : article L441-2-3-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044570004/"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : article L441-2-3-3",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044073193"
+    },
+    {
+      "titre": "Code de justice administrative : articles R778-1 à R778-9",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070933/LEGISCTA000019827283/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Recours amiable devant la commission départementale de médiation en vue de l’accueil dans une structure d’hébergement, un logement de transition, un logement-foyer ou une résidence hôtelière à vocation sociale - Droit à l'hébergement opposable (Daho)",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_15037.do",
+      "type": "formulaireNG"
+    }
+  ],
+  "contacts": [
+    "Mairie",
+    "Samu social - 115"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "droit-a-l-hebergement-opposable-daho",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "hebergement-social",
+      "titre": "Hébergement social"
+    }
+  ]
+}

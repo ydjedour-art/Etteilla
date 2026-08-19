@@ -1,0 +1,52 @@
+{
+  "id": "F16538",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Avec quels documents un Français peut-il se rendre en Suisse ?",
+  "theme": "Étranger - Europe",
+  "description": "Pour entrer en Suisse, vous devez avoir votre carte nationale d'identité ou votre passeport en cours de validité.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-04-04",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F16538",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Voyager à l'étranger",
+    "Avec quels documents un Français peut-il se rendre en Suisse ?"
+  ],
+  "introduction": "Les conditions d'entrée en Suisse sont différentes selon que vous partez pour plus ou moins de 3 mois. Si vous voyagez avec votre enfant ou s'il voyage seul, des documents supplémentaires seront demandés. Nous vous présentons les règles concernant un majeur et celles concernant un mineur.",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [
+    {
+      "titre": "Connaître les documents exigés pour voyager en Europe",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/DocumentsVoyageEurope",
+      "type": "Simulateur"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Foire aux questions : entrée en Suisse",
+      "url": "https://www.sem.admin.ch/sem/fr/home/themen/einreise/faq.html"
+    },
+    {
+      "titre": "Conditions d'entrée et de séjour en Suisse",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/suisse/dernieres-minutes-et-alertes"
+    },
+    {
+      "titre": "Étrangers en Suisse",
+      "url": "https://www.ch.ch/fr/etrangers-en-suisse/"
+    }
+  ],
+  "slug": "avec-quels-documents-un-francais-peut-il-se-rendre-en-suisse",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "voyager-a-l-etranger",
+      "titre": "Voyager à l'étranger"
+    }
+  ]
+}

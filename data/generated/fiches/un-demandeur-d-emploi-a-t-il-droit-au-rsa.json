@@ -1,0 +1,53 @@
+{
+  "id": "F20218",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Un demandeur d'emploi a-t-il droit au RSA ?",
+  "theme": "Social - Santé",
+  "description": "Oui, en étant au chômage, vous pouvez avoir droit au RSA sous conditions.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-04-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F20218",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Revenu de solidarité active (RSA)",
+    "Un demandeur d'emploi a-t-il droit au RSA ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Oui, si vous êtes au chômage, vous pouvez percevoir le RSA, mais à condition de remplir les conditions pour en bénéficier.",
+        "Le montant forfaitaire du RSA sera diminué du montant de l'allocation d'aide au retour à l'emploi (ARE).",
+        "Lors de votre demande de RSA, vous devez déclarer vos allocations chômage, c'est-à-dire les montants de l'ARE perçus et éventuellement vos autres revenus.",
+        "Si le montant de vos revenus est inférieur au montant forfaitaire du RSA, le RSA pourra représenter un complément aux allocations chômage.",
+        "[Exemple] Un demandeur d'emploi vivant seul sans enfant a pour unique revenu 250 € par mois d'ARE. Pour une personne seule, le montant du RSA est de 651,69 €. Le demandeur d'emploi peut donc bénéficier du RSA pour un montant mensuel de 401,69 € (651,69 €-250 €)."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [
+    {
+      "titre": "Estimer son droit au RSA (Caf)",
+      "url": "https://wwwd.caf.fr/wps/portal/caffr/aidesetdemarches/mesdemarches/faireunesimulation/lersa#/",
+      "type": "Simulateur"
+    }
+  ],
+  "contacts": [
+    "Caisse d'allocations familiales (Caf)",
+    "Mutualité sociale agricole (MSA)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "un-demandeur-d-emploi-a-t-il-droit-au-rsa",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "revenu-de-solidarite-active-rsa",
+      "titre": "Revenu de solidarité active (RSA)"
+    }
+  ]
+}

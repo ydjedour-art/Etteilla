@@ -1,0 +1,224 @@
+{
+  "id": "F36656",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Droits de donation - Don d'une somme d'argent",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Vous devez déclarer le don d'argent que vous recevez et payer des droits de donation. Des exonérations existent, notamment pour certains dons familiaux.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-01-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F36656",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Droits de succession et de donation",
+    "Droits de donation - Don d'une somme d'argent"
+  ],
+  "introduction": "Vous recevez un don en argent et vous voulez savoir s'il est imposé ? Vous devez déclarer le don et payer des droits de donation. Des exonérations existent, en particulier pour certains dons familiaux. Nous vous indiquons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Faut-il payer des droits fiscaux en cas de don d'une somme d'argent ?",
+      "contenu": [
+        "Les dons de sommes d'argent sont soumis au paiement de droits de donation, quel que soit leur montant.",
+        "[À savoir] C’est à la personne qui reçoit le don de le déclarer aux services fiscaux.",
+        "Toutefois, il existe des exceptions.",
+        "Si vous recevez une somme d'argent pour une occasion particulière (anniversaire, mariage, naissance, réussite à un examen, etc.), il s'agit d’un cadeau (on parle d’un présent d'usage).",
+        "Vous n'avez rien à déclarer si la somme offerte est raisonnable.",
+        "C’est le cas si elle est proportionnée aux revenus et au patrimoine de celui qui l'offre."
+      ]
+    },
+    {
+      "titre": "Comment sont calculés les droits fiscaux en cas de don d'une somme d'argent ?",
+      "contenu": [
+        "Le calcul des droits de donation se fait en 2 temps :",
+        "• Déduction d'un abattement",
+        "• Application d'un barème sur le montant restant après déduction de l'abattement.",
+        "Le montant de l'abattement dépend de votre lien de parenté avec le donateur.",
+        "Cet abattement peut être renouvelé après une période de 15 ans.",
+        "[Exemple] Une tante a effectué un don de 7 967 € à son neveu le 7 novembre 2015. Elle pourra lui faire un autre don à partir du 7 novembre 2030, pour lui permettre de profiter d'un nouvel abattement (pour un montant maximal de 7 967 €).",
+        "Si vous recevez un don de l'un de vos parents, vous bénéficiez d'un abattement de 100 000 €.",
+        "Pour un don de l'un de vos grands-parents, vous avez droit à un abattement de 31 865 €.",
+        "Si vous recevez un don de votre tante, vous bénéficiez d'un abattement de 7 967 €.",
+        "Pour le don d'un ami, vous n'avez droit à aucun abattement.",
+        "[À noter] Si vous êtes handicapé, vous bénéficiez d'un abattement spécifique supplémentaire de 159 325 €.",
+        "Les droits de donation sont calculés sur le montant restant après déduction de l'abattement. Le barème des droits dépend également de votre lien de parenté avec le donateur.",
+        "[Exemple] Vous bénéficiez d'une donation de 200 000 € de votre mère. Vous avez droit à un abattement de 100 000 €. Vous devez donc payer des droits de donation sur la somme de 100 000 € (200 000 € - 100 000 €). Les droits de donation sont calculés de la façon suivante : • Jusqu'à 8 072 € : 403,60 € (8 072 € x 5 %) • De 8 073 € à 12 109 € : 403,70 € (4 037 € x 10 %) • De 12 110 € à 15 932 € : 573,45 € (3 823 € x 15 %) • De 15 933 € à 100 000 € : 16 813,60 € (84 068 € x 20 %). Soit un total de 18 194 €.",
+        "Vous devez déclarer le don dont vous êtes bénéficiaire, y compris si ce don est exonéré de droits fiscaux."
+      ]
+    },
+    {
+      "titre": "Faut-il faire appel à un notaire pour un don de somme d'argent ?",
+      "contenu": [
+        "L'intervention d'un notaire n'est pas obligatoire pour un don de somme d'argent."
+      ]
+    },
+    {
+      "titre": "Quels sont les dons de sommes d'argent exonérés du paiement de droits fiscaux ?",
+      "contenu": [
+        "Certains dons de sommes d'argent ne sont pas soumis au paiement de droits de donation, sous de strictes conditions.",
+        "Ces dons de sommes d'argent sont exonérés, notamment en fonction de la personne qui en bénéficie.",
+        "Vous êtes exonéré si le don dont vous bénéficiez est fait dans l'une des situations suivantes :",
+        "Dons familiaux de sommes d'argent",
+        "Le donateur doit avoir moins de 80 ans au jour de la transmission.",
+        "Pour être bénéficiaire du don, vous devez être majeur (ou émancipé) et être l'une des personnes suivantes :",
+        "• Enfant du donateur",
+        "• Petit-enfant du donateur",
+        "• Arrière-petit-enfant du donateur",
+        "• Neveu ou nièce si le donateur n'a pas de descendants",
+        "• Petit-neveu ou petite-nièce en cas de décès de son parent.",
+        "Seuls les enfants des frères et sœurs du donateur sont considérés comme neveu ou nièce.",
+        "Vous pouvez recevoir jusqu'à 31 865 € sans avoir à payer de droits.",
+        "Ce plafond d'exonération s'applique aux donations effectuées par un même donateur à un même bénéficiaire.",
+        "L'exonération est renouvelable tous les 15 ans.",
+        "[Exemple] Une tante a effectué un don de 31 865 € à son neveu le 7 novembre 2015. Elle pourra de nouveau lui donner une somme d'argent sans droits à payer (dans la limite d'un don de 31 865 €) à partir du 7 novembre 2030.",
+        "Le don peut être effectué selon l'une des modalités suivantes :",
+        "• Acte notarié",
+        "• Écrit entre le donateur et le bénéficiaire (rédigé par le donateur)",
+        "• Don manuel (c'est-à-dire remise directe de l'argent, sans formalité particulière).",
+        "L'exonération s'applique uniquement aux dons de sommes d'argent effectués par l'un des moyens suivants :",
+        "• Chèque",
+        "• Virement",
+        "• Espèces.",
+        "En tant que bénéficiaire du don, vous devez impérativement déclarer le don dans un délai de 1 mois à partir de la date du don.",
+        "Vous devez déclarer le don que vous avez reçu depuis votre espace en ligne :",
+        "Impôts : accéder à votre espace Finances publiques",
+        "Connexion avec l’identifiant fiscal du contribuable ou via FranceConnect. Ensuite, double authentification avec réception d’un code à 6 chiffres par mail.",
+        "Le calcul des droits de donation éventuellement dus (quand le don n’est pas exonéré) est automatique.",
+        "[Complement] Vous pouvez utiliser la déclaration papier si vous êtes dans l’un des cas suivantes : • Votre résidence principale n'est pas équipée d'un accès à internet • Vous n’êtes pas en mesure d’effectuer une déclaration par voie électronique • Vous êtes dans l’une des situations spécifiques permettant une déclaration papier, notamment en cas de don exonéré de somme d’argent pour acquisition d’un logement ou travaux de rénovation énergétique. Vous devez déclarer le don via le formulaire de déclaration papier de don manuel et de don de sommes d'argent : Déclaration de don manuel et de don de sommes d'argent Vous devez adresser le formulaire en double exemplaire à votre service fiscal départemental chargé de l'enregistrement. Service fiscal en charge de l'enregistrement Le paiement des droits de donation s'effectue, si nécessaire (quand le don n’est pas exonéré), en même temps que la déclaration. [À noter] Votre déclaration ne sera pas accessible dans votre espace personnel sécurisé sur le site de l'administration fiscale.",
+        "Pour les actes notariés, c'est le notaire qui s'occupe des formalités d'enregistrement.",
+        "Dons familiaux de sommes d'argent pour acquérir un logement ou financer des travaux de rénovation énergétique",
+        "Vous pouvez bénéficier d'un don familial de somme d'argent exonéré, pour acquérir un logement ou effectuer des travaux de rénovation énergétique.",
+        "Le dispositif s'applique pour les sommes versées à partir du 15 février 2025.",
+        "Il est ouvert jusqu'au 31 décembre 2026.",
+        "Pour être bénéficiaire du don, vous devez être l'une des personnes suivantes :",
+        "• Enfant du donateur",
+        "• Petit-enfant du donateur",
+        "• Arrière-petit-enfant du donateur",
+        "• Neveu ou nièce si le donateur n'a pas de descendants.",
+        "Seuls les enfants des frères et sœurs du donateur sont considérés comme neveu ou nièce.",
+        "Aucune condition d’âge n’est imposée pour le donateur.",
+        "Les dons sont doublement limités aux montants suivants :",
+        "• 100 000 € pour un même donateur à un même donataire",
+        "• 300 000 € pour un donataire.",
+        "[Exemple] Vous pouvez recevoir un don exonéré de 100 000 € de votre père et un don exonéré de 100 000 € de votre mère.",
+        "Vous devez déclarer le don via le formulaire de déclaration papier de don manuel et de don de sommes d'argent :",
+        "Déclaration de don manuel et de don de sommes d'argent",
+        "Vous devez adresser le formulaire en double exemplaire à votre service fiscal départemental chargé de l'enregistrement.",
+        "Service fiscal en charge de l'enregistrement",
+        "Le paiement des droits de donation s'effectue, si nécessaire (quand le don n’est pas exonéré), en même temps que la déclaration.",
+        "[À noter] Votre déclaration ne sera pas accessible dans votre espace personnel sécurisé sur le site de l'administration fiscale.",
+        "Vous devez utiliser l'argent reçu, au plus tard le dernier jour du 6e mois suivant le versement, selon de strictes conditions.",
+        "Vous pouvez utiliser l'argent reçu pour l'un des objectifs suivants :",
+        "• Acquisition d’un logement neuf",
+        "• Acquisition d’un logement en l’état futur d’achèvement",
+        "[À noter] Le projet de construction d’une maison individuelle, en dehors d’une vente en l'état futur d’achèvement (Vefa), ne permet pas de bénéficier de l’exonération.",
+        "Vous pouvez aussi utiliser l'argent reçu pour des travaux et dépenses en faveur de la rénovation énergétique de votre résidence principale, dont vous êtes propriétaire.",
+        "[Attention] Si vous faites des travaux de rénovation énergétique, ceux-ci doivent donner droit à MaPrimeRénov'.",
+        "Selon votre situation, le logement doit également remplir pendant 5 ans l'une des obligations suivantes :",
+        "• Rester votre résidence principale, en particulier si vous faites des travaux de rénovation énergétique dans votre logement",
+        "• Etre loué en tant que résidence principale, si vous acquérez le logement pour le louer.",
+        "Vous ne pouvez pas louer le logement à un membre de votre foyer fiscal.",
+        "Selon votre situation, la période de 5 ans commence à compter de la date suivante :",
+        "• Acquisition du logement",
+        "• Achèvement du logement",
+        "• Achèvement des travaux de rénovation énergétique.",
+        "Si l'obligation n'est pas remplie pendant 5 ans, l'exonération de droits de donation est remise en cause.",
+        "Vous devez conserver tous les justificatifs nécessaires.",
+        "[Attention] L'exonération ne s'applique pas pour les dépenses qui vous ont permis de bénéficier du crédit d'impôt pour emploi à domicile, d'une déduction de charges pour l'impôt sur le revenu (par exemple sur des revenus locatifs) ou de MaPrimeRénov'.",
+        "Dons aux victimes d'actes de terrorisme",
+        "L'exonération concerne toute personne victime d'un acte de terrorisme, ou ses proches en cas de décès de celle-ci.",
+        "Elle est exonérée de droits de donation sur les dons reçus en numéraire, y compris par une collecte en ligne.",
+        "Les proches de la victime sont les personnes suivantes :",
+        "• Personne qui vivait en couple avec elle",
+        "• Personnes à sa charge (enfant mineur ou infirme, personne invalide)",
+        "• Descendants",
+        "• Ascendants.",
+        "L'exonération s'applique aux dons reçus dans l'année qui suit l'acte de terrorisme ou le décès de la victime.",
+        "Toutefois, aucun délai n'est exigé en cas de don versé par une fondation, une association reconnue d'utilité publique ou un organisme d'intérêt général.",
+        "Vous devez déclarer le don à l’administration fiscale.",
+        "Dons aux forces de l'ordre blessées en opération ou dans le cadre de leur mission",
+        "L'exonération concerne les militaires, policiers, gendarmes, sapeurs-pompiers ou agents des douanes blessés en opération ou dans le cadre de leur mission.",
+        "Ils sont exonérés de droits de donation sur les dons reçus en numéraire, y compris par une collecte en ligne.",
+        "En cas de décès, leurs proches bénéficient de l'exonération dans les mêmes conditions.",
+        "L'exonération s'applique aussi aux proches des militaires \"morts pour la France\" ou \"morts pour le service de la nation\".",
+        "Les proches du défunt sont les personnes suivantes :",
+        "• Personne qui vivait en couple avec lui",
+        "• Personnes à sa charge (enfant mineur ou infirme, personne invalide)",
+        "• Descendants",
+        "• Ascendants.",
+        "L'exonération s'applique aux dons reçus dans l'année suivant la blessure, ou dans les autres situations, le décès.",
+        "Toutefois, aucun délai n'est exigé en cas de don versé par une fondation, une association reconnue d'utilité publique ou un organisme d'intérêt général.",
+        "Vous devez déclarer le don à l’administration fiscale."
+      ]
+    },
+    {
+      "titre": "Peut-on cumuler l'exonération pour don familial de somme d'argent avec l'abattement accordé du fait du lien de parenté avec le donateur ?",
+      "contenu": [
+        "Vous pouvez cumuler l'exonération des dons familiaux de sommes d'argent avec l'abattement dont vous pouvez bénéficier du fait de votre lien de parenté avec le donateur.",
+        "[Exemple] Si vous êtes majeur, vous pouvez recevoir de votre parent âgé de moins de 80 ans jusqu'à 131 865 € sans payer de droits fiscaux, soit le cumul des dons suivants : • Don familial en argent de 31 865 € • Don de biens (argent, bijou, bien immobilier, etc.) pour 100 000 €.",
+        "[Exemple] Si vous êtes majeur, vous pouvez recevoir d'un grand-parent âgé de moins de 80 ans jusqu'à 63 730 € sans payer de droits fiscaux, soit le cumul des dons suivants : • Don familial en argent de 31 865 € • Don de biens (argent, bijou, bien immobilier, etc.) pour 31 865 €.",
+        "Pour vous assurer des modalités et des conséquences de ces dons (par exemple, si le donateur a plusieurs enfants), vous pouvez consulter un notaire.",
+        "Son intervention est obligatoire dans certaines situations, notamment en cas de donation d'un bien immobilier.",
+        "Notaire"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général des impôts : articles 790 à 791 ter",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006199108/"
+    },
+    {
+      "titre": "Loi n° 2025-127 du 14 février 2025 de finances pour 2025",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000051168007/"
+    },
+    {
+      "titre": "Décret n° 2023-1325 du 29 décembre 2023 relatif aux modalités de déclaration en matière d'enregistrement et à leurs conséquences sur la compétence du service national de l'enregistrement en matière de réclamation",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000048727818/"
+    },
+    {
+      "titre": "Décret n° 2025-1082 du 17 novembre 2025 relatif à l'obligation de souscription et de paiement par voie dématérialisée des déclarations de dons manuels et de sommes d'argent",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000052587554/"
+    },
+    {
+      "titre": "BOFIP-Impôts n° BOI-ENR-DMTG-20 relatif au régime fiscal des donations",
+      "url": "https://bofip.impots.gouv.fr/bofip/2691-PGP"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-ENR-DMTG-20-20-20 relatif aux exonérations de droits de donation",
+      "url": "http://bofip.impots.gouv.fr/bofip/3362-PGP"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Déclaration de don manuel et de don de sommes d'argent",
+      "url": "https://www.impots.gouv.fr/portail/node/9032",
+      "type": "formulaireNG"
+    }
+  ],
+  "contacts": [
+    "Service d'information des impôts",
+    "Notaire",
+    "Service en charge des impôts (trésorerie, service des impôts...)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Je fais une donation ou je reçois un don",
+      "url": "https://www.impots.gouv.fr/particulier/je-fais-une-donation"
+    },
+    {
+      "titre": "Que puis-je donner à mes enfants, petits-enfants sans payer de droits ?",
+      "url": "https://www.impots.gouv.fr/portail/particulier/questions/que-puis-je-donner-mes-enfants-petits-enfants-sans-avoir-payer-de-droits"
+    }
+  ],
+  "slug": "droits-de-donation-don-d-une-somme-d-argent",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "droits-de-succession-et-de-donation",
+      "titre": "Droits de succession et de donation"
+    }
+  ]
+}

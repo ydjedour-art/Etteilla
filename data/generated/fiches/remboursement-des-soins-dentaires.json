@@ -1,0 +1,277 @@
+{
+  "id": "F33956",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Remboursement des soins dentaires",
+  "theme": "Social - Santé",
+  "description": "La consultation chez le dentiste et les soins dentaires sont pris en charge par l'Assurance maladie sous certaines conditions.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-01-30",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33956",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Remboursement des soins par la Sécurité sociale",
+    "Remboursement des soins dentaires"
+  ],
+  "introduction": "Vous souhaitez connaître la part du montant de vos consultations et soins dentaires qui vous sera remboursée ? La consultation et les soins dentaires chez le chirurgien-dentiste sont prises en charge par l'Assurance maladie à hauteur de 60 %. Les prothèses et les traitements d'orthodontie sont remboursés, mais sont régis par des tarifs particuliers. Nous vous exposons les principaux montants à connaître.",
+  "chapitres": [
+    {
+      "titre": "Quel remboursement pour une consultation chez un chirurgien-dentiste ?",
+      "contenu": [
+        "Le remboursement pour une consultation chez un chirurgien-dentiste ou chez un médecin habilité aux soins dentaires varie selon que la consultation a lieu ou non en Alsace-Moselle. En effet, en Alsace-Moselle, le régime local d'Assurance maladie assure un complément à la prise en charge par le régime général des frais de santé.",
+        "Cas général",
+        "Les consultations, les soins dentaires et actes prothétiques réalisés par un chirurgien-dentiste sont pris en charge par l'Assurance maladie et remboursées à 60 % sur la base du tarif conventionnel (Assurance maladie).",
+        "Les mêmes actes réalisés par un médecin habilité à faire des soins dentaires (stomatologiste, chirugien oral, chirurgien maxillo-facial) sont pris en charge par l’Assurance maladie à 70 % sur la base du tarif de responsabilité.",
+        "Chez un médecin une participation forfaitaire de 2 €s’applique. Cette participation reste à votre charge à chaque consultation ou acte médical.",
+        "Le médecin conventionné de secteur 1 applique le tarif fixé par convention avec l'Assurance maladie, alors que le médecin conventionné de secteur 2 pratique des honoraires libres.",
+        "Tarifs et remboursements des consultations chez un chirurgien-dentiste",
+        "Praticien consulté",
+        "Tarif",
+        "Taux de remboursement",
+        "Montant remboursé par l’Assurance maladie",
+        "Chirurgien-dentiste",
+        "Cas général",
+        "23 €",
+        "60 %",
+        "13,80 €",
+        "Spécialisé en ODF",
+        "23 €",
+        "60 %",
+        "13,80 €",
+        "Médecin habilité aux soins dentaires",
+        "Secteur 1",
+        "31,5 €",
+        "70 %",
+        "20,05 €",
+        "Secteur 2",
+        "Honoraires",
+        "70 %",
+        "14,10 €",
+        "Alsace-Moselle",
+        "Le régime local d'Assurance maladie d'Alsace et Moselle assure un complément à la prise en charge par le régime général des frais de santé.",
+        "Ainsi, les honoraires des médecins sont remboursés à 90 % (au lieu de 70 % sans le régime local), de même que les honoraires des chirurgiens-dentistes (au lieu de 60 %).",
+        "[À noter] Les frais des actes dentaires s’ils sont en rapport avec une affection de longue durée (ALD) sont pris en charge à 100 %. L'aide médicale de l'État (AME) donne droit à la prise en charge à 100 % de vos soins médicaux et hospitaliers dans la limite des tarifs de la sécurité sociale."
+      ]
+    },
+    {
+      "titre": "Quel remboursement pour les soins dentaires ?",
+      "contenu": [
+        "Les soins dentaires comprennent :",
+        "• Les soins conservateurs (détartrage, traitement d'une carie, dévitalisation...)",
+        "• Et les soins chirurgicaux, de type extraction.",
+        "Ils sont remboursés à 60 % sur la base du tarif conventionnel (Assurance maladie).",
+        "Ces tarifs sont différents lorsqu'ils sont réalisés sur des personnes de plus de 26 ans ou de 1 an à 26 ans.",
+        "En règle générale, vous n’aurez pas à payer la participation forfaitaire de 2 €.",
+        "Mais vous devez la payer si les soins sont réalisés par un médecin (stomatologiste, chirurgien oral).",
+        "Les tarifs des soins dentaires ne sont pas les mêmes selon l’âge de la personne :",
+        "Plus de 26 ans",
+        "Exemples de tarifs et remboursements de soins dentaires chez un chirugien-dentiste pour les plus de 26 ans",
+        "Soin dentaire",
+        "Tarif conventionnel",
+        "Taux de remboursement",
+        "Montant remboursé par l’Assurance maladie",
+        "Détartrage",
+        "28,92 €",
+        "60 %",
+        "17,35 €",
+        "Traitement d'une carie une face",
+        "30,74 €",
+        "60 %",
+        "18,44 €",
+        "Traitement d'une carie deux faces",
+        "52,00 €",
+        "60 %",
+        "31,20 €",
+        "Dévitalisation d'une incisive ou d'une canine",
+        "41,60 €",
+        "60 %",
+        "24,96 €",
+        "Extraction d'une dent de lait",
+        "25,00 €",
+        "60 %",
+        "15,00 €",
+        "Extraction d'une dent permanente",
+        "39,00 €",
+        "60 %",
+        "23,40 €",
+        "1 à 26 ans",
+        "Exemples de tarifs et remboursements de soins dentaires réalisés chez les enfants et jeunes de 1 à 26 ans",
+        "Soin dentaire",
+        "Tarif conventionnel",
+        "Taux de remboursement",
+        "Montant remboursé",
+        "Détartrage",
+        "28,92 €",
+        "60 %",
+        "17,35 €",
+        "Traitement d'une carie une face",
+        "39,61 €",
+        "60 %",
+        "23,77 €",
+        "Traitement d'une carie deux faces",
+        "67,60 €",
+        "60 %",
+        "40,56 €",
+        "Dévitalisation d'une incisive ou d'une canine",
+        "54,08 €",
+        "60 %",
+        "32,45 €",
+        "Dévitalisation d'une prémolaire",
+        "82,47 €",
+        "60 %",
+        "49,48 €",
+        "Dévitalisation d'une molaire",
+        "135,20 €",
+        "60 %",
+        "81,12 €",
+        "[À savoir] Lorsque le traitement d’une carie ou la dévitalisation sont réalisés sur une dent permanente d’un enfant de moins de 13 ans, le tarif est majoré de 15,70 %."
+      ]
+    },
+    {
+      "titre": "Quels remboursements pour les prothèses dentaires ?",
+      "contenu": [
+        "Conditions de remboursement",
+        "Les prothèses dentaires sont remboursées à 60 % sur la base de tarifs dits de responsabilité de la Sécurité sociale, très souvent inférieurs à leur coût réel.",
+        "Le chirurgien-dentiste ou le médecin stomatologiste doit vous en informer préalablement au moyen d'un devis écrit que vous signerez, éventuellement, pour acceptation.",
+        "Ce devis doit comporter, notamment, les éléments suivants :",
+        "• Description précise et détaillée du traitement envisagé et/ou des matériaux utilisés",
+        "• Proposition si elle existe d’une alternative en reste à charge zéro ou maîtrisé",
+        "• Origine de fabrication de la prothèse (UE ou hors UE, y compris les sous-traitants)",
+        "• Montant des honoraires correspondant au traitement",
+        "• Montant remboursé par l'Assurance maladie.",
+        "Les soins dentaires réalisés par un stomatologiste sont soumis à la participation forfaitaire de 2 €.",
+        "Tarifs et remboursements",
+        "Les niveaux de remboursements des soins sont différents selon le panier d’actes prothétiques dans lesquels ils s’inscrivent. Il existe 3 paniers prothétiques :",
+        "• Le panier « 100 % Santé » comprend des couronnes, des bridges et des dentiers (prothèses dentaires) intégralement remboursables par l’assurance maladie obligatoire et l’assurance maladie complémentaire, sans reste à charge pour vous",
+        "• Le panier aux tarifs maîtrisés comprend des couronnes, des bridges et des dentiers (prothèses dentaires) dont les prix sont plafonnés. Dans ce cas, il peut y avoir un reste en fonction des conditions de remboursement prévues par son contrat d’assurance complémentaire",
+        "• Le panier aux tarifs libres pour les autres actes, le reste à charge peut être plus important. Vous devez vous informer sur les conditions de remboursement prévues par son contrat d’assurance complémentaire.",
+        "Le site de l’Assurance maladie fait le point sur tarif des prothèses dentaires et sur leur prise en charge par l’Assurance maladie."
+      ]
+    },
+    {
+      "titre": "Quel remboursement pour l'orthodontie ?",
+      "contenu": [
+        "Conditions de prise en charge",
+        "Les traitements d'orthodontie ou traitements ODF (souvent appelés bagues) sont pris en charge par l'Assurance maladie sous réserve :",
+        "• D'obtenir l'accord préalable de votre caisse d'Assurance maladie, après demande effectuée par le praticien",
+        "• De commencer le traitement avant le 16e anniversaire.",
+        "Le chirurgien-dentiste ou le médecin stomatologiste doit vous en informer préalablement du traitement envisagé, des moyens utilisés et de la durée de traitement. Pour cela, il vous soumet un devis écrit que vous signerez, éventuellement, pour acceptation.",
+        "Ce devis est à soumettre à votre complémentaire pour connaître le montant pris en charge.",
+        "Ce devis doit comporter, notamment, les éléments suivants :",
+        "• Description précise et détaillée de l’appareillage utilisé (y compris des matériaux utilisés), de la durée de traitement",
+        "• Montant des honoraires correspondant au traitement global, exprimé en semestre de traitement, le praticien pratique de l’entente direct, il n’a pas d’honoraire limite de facturation",
+        "• Montant remboursé par l'Assurance maladie.",
+        "[À savoir] Exceptionnellement, l'enfant de plus de 16 ans peut bénéficier d'une prise en charge par l'Assurance maladie pour un semestre de traitement, avant une intervention chirurgicale portant sur les maxillaires. Ce semestre n'est pas renouvelable.",
+        "Demande d'accord préalable",
+        "Vous remplissez d'abord, avec votre chirurgien-dentiste ou votre stomatologiste, un formulaire spécifique en fonction des soins prescrits.",
+        "Vous devez, ensuite, envoyer ce formulaire à votre CPAM.",
+        "Tarifs et remboursement des traitements d'orthodontie",
+        "Exemples de tarifs et remboursement des traitements d'orthodontie",
+        "Traitement",
+        "Tarif",
+        "Base de remboursement",
+        "Taux de remboursement par l’Assurance maladie",
+        "Montant remboursé par l’Assurance maladie",
+        "Traitement par semestre (6 maximum)",
+        "Honoraires",
+        "libres",
+        "193,50 €",
+        "100 % du tarif conventionnel (Assurance maladie)",
+        "193,5 €",
+        "Séance de surveillance (2 maximum par semestre)",
+        "Honoraires",
+        "libres",
+        "10,75 €",
+        "60 %du tarif conventionnel (Assurance maladie)",
+        "6,45 €",
+        "Contention 1re année",
+        "Honoraires",
+        "libres",
+        "161,25 €",
+        "100 %",
+        "161,25 €",
+        "Contention 2e année",
+        "Honoraires",
+        "libres",
+        "107,50 €",
+        "60 % du tarif conventionnel (Assurance maladie",
+        "64,50 €",
+        "[À savoir] Le traitement d'orthodontie est soumis à la participation forfaitaire de 2 € s'il est réalisé par un stomatologiste."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la sécurité sociale : article L162-12",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006185857/"
+    },
+    {
+      "titre": "Arrêté du 12 octobre 2023 fixant le taux de la participation des assurés sociaux pour les honoraires des chirurgiens-dentistes",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000048205647"
+    },
+    {
+      "titre": "Arrêté du 12 octobre 2023 fixant la liste des actes relevant des soins dentaires susceptibles d'être réalisés principalement par des médecins",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000048205656"
+    },
+    {
+      "titre": "Arrêté du 14 juin 2006 portant approbation de la convention nationale des chirurgiens-dentistes destinée à régir les rapports entre les chirurgiens-dentistes et les caisses d'assurance maladie",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000427320"
+    },
+    {
+      "titre": "Avenant n°3 à la convention nationale organisant les rapports entre les chirurgiens-dentistes et l'assurance maladie signé le 31 juillet 2013",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000028253150"
+    },
+    {
+      "titre": "Arrêté du 20 juin 2024 portant approbation de la convention nationale organisant les rapports entre les médecins libéraux et l’assurance maladie",
+      "url": "https://www.legifrance.gouv.fr/download/pdf?id=gUcQY-SsH5mgsfckIXs63JUNJ-PzvDi6Xc_2Adw0K7g"
+    },
+    {
+      "titre": "Arrêté du 29 mars 2017 portant approbation du règlement arbitral organisant les rapports entre les chirurgiens-dentistes libéraux et l'assurance maladie",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000034316294"
+    },
+    {
+      "titre": "Arrêté du 30 mai 2006 relatif aux soins dentaires prothétiques ou d'orthopédie dento-faciale pris en charge par la protection complémentaire en matière de santé",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000790572"
+    },
+    {
+      "titre": "Arrêté du 23 février 2024 relatif aux conditions de prise en charge au titre de la protection complémentaire en matière de santé pour les soins dentaires prothétiques ou d'orthopédie dento-faciale",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000049190970"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Traitement d'orthopédie dento-faciale - Demande d'entente préalable chirurgien-dentiste",
+      "url": "https://www.ameli.fr/sites/default/files/formualires/226/s3150.pdf",
+      "type": "formulaireNG"
+    },
+    {
+      "titre": "Traitements d'orthopédie dento-maxillo-faciale - Demande d'entente préalable - Médecin",
+      "url": "https://www.ameli.fr/sites/default/files/formualires/227/s3155.pdf",
+      "type": "formulaireNG"
+    }
+  ],
+  "contacts": [
+    "Santé Info Droits"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Consultations et soins dentaires : vos remboursements",
+      "url": "https://www.ameli.fr/assure/remboursements/rembourse/soins-protheses-dentaires-optique-audition/consultations-soins-protheses-dentaires/consultations-soins-dentaires"
+    },
+    {
+      "titre": "Exemples de remboursements de prothèses dentaires",
+      "url": "https://www.ameli.fr/assure/remboursements/rembourse/soins-protheses-dentaires-optique-audition/consultations-soins-protheses-dentaires/protheses-dentaires"
+    }
+  ],
+  "slug": "remboursement-des-soins-dentaires",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "remboursement-des-soins-par-la-securite-sociale",
+      "titre": "Remboursement des soins par la Sécurité sociale"
+    }
+  ]
+}

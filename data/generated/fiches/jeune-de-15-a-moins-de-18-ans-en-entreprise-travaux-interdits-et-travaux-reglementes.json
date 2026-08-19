@@ -1,0 +1,88 @@
+{
+  "id": "F2344",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Jeune de 15 à moins de 18 ans en entreprise : travaux interdits et travaux réglementés",
+  "theme": "Travail - Formation",
+  "description": "Pour les besoins de sa formation professionnelle, un jeune âgé de 15 à moins de 18 ans peut sur dérogation, effectuer certains travaux dangereux et réglementés.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2344",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Conditions de travail dans le secteur privé",
+    "Jeune de 15 à moins de 18 ans en entreprise : travaux interdits et travaux réglementés"
+  ],
+  "introduction": "Un jeune âgé de 15 ans à moins de 18 ans ne peut pas être affecté à certains travaux dits interdits en raison de leur caractère dangereux. Dans certains cas, les jeunes travailleurs et les jeunes en formation professionnelle peuvent toutefois être affectés à certains de ces travaux, alors qualifiés de « réglementés » par dérogation temporaire ou permanente. Quels sont les travaux interdits et les travaux réglementés ? Nous faisons un point sur la réglementation.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code du travail : articles L3164-2 à L3164-5",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000036262892"
+    },
+    {
+      "titre": "Code du travail : article L4153-8",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000006903187"
+    },
+    {
+      "titre": "Code du travail : article L4153-9",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000006903188"
+    },
+    {
+      "titre": "Code du travail : articles L4733-1 à L4733-6",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000032373807/"
+    },
+    {
+      "titre": "Code du travail : articles R4153-38 à R4153-45",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000028057774"
+    },
+    {
+      "titre": "Code du travail : articles R4153-49 à R4153-52",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000028057952"
+    },
+    {
+      "titre": "Code du travail : article R4313-78",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019761008"
+    },
+    {
+      "titre": "Code du travail : articles R4733-2 à R4733-4",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000038319566/"
+    },
+    {
+      "titre": "Code du travail : articles D4153-15 à D4153-37",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000037000998"
+    },
+    {
+      "titre": "Décret n°2015-1583 du 3 décembre 2015 relatif à la procédure de dérogation permettant aux jeunes en formation professionnelle dans la fonction publique d'État d'effectuer des travaux « réglementés »",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000031566730/"
+    },
+    {
+      "titre": "Décret n°2016-1074 du 3 août 2016 relatif à la protection des travailleurs contre les risques dus aux champs électromagnétiques",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000032974358"
+    },
+    {
+      "titre": "Instruction interministérielle du 7 septembre 2016 relative à la mise en œuvre des dérogations aux travaux interdits pour les jeunes âgés de 15 ans au moins et de moins de 18 ans",
+      "url": "https://www.legifrance.gouv.fr/download/pdf/circ?id=41316"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Déclaration de dérogation aux travaux interdits en vue d’accueillir des jeunes mineurs âgés d’au moins 15 ans en formation professionnelle",
+      "url": "https://travail-emploi.gouv.fr/sites/travail-emploi/files/files-spip/pdf/declarationderogation.pdf",
+      "type": "lettreTypeNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "jeune-de-15-a-moins-de-18-ans-en-entreprise-travaux-interdits-et-travaux-reglementes",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "conditions-de-travail-dans-le-secteur-prive",
+      "titre": "Conditions de travail dans le secteur privé"
+    }
+  ]
+}

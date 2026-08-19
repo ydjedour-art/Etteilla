@@ -1,0 +1,101 @@
+{
+  "id": "F2062",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Indemnité de départ volontaire dans la fonction publique territoriale (FPT)",
+  "theme": "Travail - Formation",
+  "description": "Une indemnité de départ volontaire peut être versée à l'agent territorial qui choisit de démissionner en raison de la restructuration de son emploi.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-03-06",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2062",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Quitter la fonction publique",
+    "Indemnité de départ volontaire dans la fonction publique territoriale (FPT)"
+  ],
+  "introduction": "Vous êtes agent territorial et votre poste fait l'objet d'une restructuration lors d'une réorganisation du service ? Vous pouvez bénéficier, sous certaines conditions, d'une indemnité de départ volontaire si vous décidez en conséquence de démissionner. Nous vous présentons les conditions d'attribution de cette indemnité.",
+  "chapitres": [
+    {
+      "titre": "Dans quel cas l'indemnité de départ volontaire peut-elle être attribuée à un agent territorial ?",
+      "contenu": [
+        "Vous pouvez bénéficier d'une indemnité de départ volontaire si les 2 conditions suivantes sont remplies :",
+        "• Votre poste fait l'objet d'une restructuration lors d'une réorganisation du service et vous choisissez en conséquence de démissionner",
+        "• Une délibération a prévu l'attribution d'une indemnité de départ volontaire dans votre collectivité.",
+        "La délibération est prise après avis du comité social.",
+        "La délibération fixe les services, les cadres d'emplois et les grades concernés par la restructuration de service et pour lesquels l'indemnité de départ volontaire peut être attribuée.",
+        "Elle fixe également les conditions d'attribution et le montant de l'indemnité de départ.",
+        "En l'absence de délibération, vous ne pouvez pas bénéficier de l'indemnité de départ volontaire."
+      ]
+    },
+    {
+      "titre": "Qui peut bénéficier de l'indemnité de départ volontaire ?",
+      "contenu": [
+        "Vous pouvez prétendre à l'indemnité de départ volontaire si vous remplissez les 2 conditions suivantes :",
+        "• Vous êtes fonctionnaire ou agent contractuel en CDI",
+        "• Vous êtes à plus de 5 ans de l'âge minimum de départ à la retraite à la date d'envoi de votre demande de démission (le cachet de la poste faisant foi)."
+      ]
+    },
+    {
+      "titre": "Comment faire la demande d'indemnité de départ volontaire d’un agent territorial ?",
+      "contenu": [
+        "Les démarches à suivre pour présenter votre démission et demander l'indemnité de départ volontaire sont fixées par chaque collectivité dans le cadre de la délibération.",
+        "Votre collectivité doit préciser quelle forme doit prendre la demande d'indemnité et dans quel délai elle doit être formulée.",
+        "Avant d'accepter votre démission, votre collectivité employeur doit vérifier que vous remplissez les conditions pour bénéficier de l'indemnité de départ volontaire.",
+        "Si vous ne remplissez pas les conditions pour bénéficier de l'indemnité, votre collectivité employeur doit vous informer que vous ne pourrez pas bénéficier de l'indemnité de départ si vous maintenez votre démission."
+      ]
+    },
+    {
+      "titre": "Quel est le montant de l'indemnité de départ volontaire d’un agent territorial ?",
+      "contenu": [
+        "Le montant de l'indemnité de départ volontaire est déterminé au cas par cas, dans le cadre fixé par la délibération, et peut varier selon votre ancienneté dans l'administration.",
+        "Le montant de l'indemnité ne peut pas dépasser un montant maximum égal à 2 fois votre rémunération brute annuelle perçue au cours de l'année civile précédant votre démission.",
+        "La rémunération brute prise en compte comprend :",
+        "• Votre traitement indiciaire brut",
+        "• Vos primes et indemnités",
+        "• L'indemnité de résidence et le supplément familial de traitement (SFT), si vous bénéficiez de ces 2 compléments de rémunération.",
+        "L'indemnité est versée en une seule fois dès lors que la démission est devenue effective.",
+        "Elle est soumise aux cotisations suivantes :",
+        "• Retraite additionnelle (RAFP), CSG, et CRDS si vous êtes fonctionnaire",
+        "• Retraites (de base et complémentaire), CSG, CRDS si vous êtes contractuel.",
+        "L'indemnité est imposable."
+      ]
+    },
+    {
+      "titre": "Quelles sont les obligations de l'agent bénéficiaire de l'indemnité de départ volontaire ?",
+      "contenu": [
+        "Vous ne devez pas être à nouveau recruté en tant que fonctionnaire stagiaire ou agent contractuel dans la fonction publique (d'État, territoriale ou hospitalière) dans les 5 ans suivant votre démission.",
+        "Sinon, vous devez rembourser votre indemnité de départ volontaire, dans les 3 ans maximum suivant votre recrutement, à la collectivité territoriale qui vous l'a versée."
+      ]
+    },
+    {
+      "titre": "Quels sont les droits au chômage de l'agent territorial qui démissionne en raison de la restructuration de son poste ?",
+      "contenu": [
+        "Vous pouvez percevoir des allocations chômage si vous remplissez les conditions pour en bénéficier."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Loi n°2019-828 du 6 août 2019 de transformation de la fonction publique : article 72",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044460265"
+    },
+    {
+      "titre": "Décret n°2009-1594 du 18 décembre 2009 instituant une indemnité de départ volontaire dans la FPT",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000021496065"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "indemnite-de-depart-volontaire-dans-la-fonction-publique-territoriale-fpt",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "quitter-la-fonction-publique",
+      "titre": "Quitter la fonction publique"
+    }
+  ]
+}

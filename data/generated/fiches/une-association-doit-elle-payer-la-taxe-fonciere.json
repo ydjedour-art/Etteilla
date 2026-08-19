@@ -1,0 +1,67 @@
+{
+  "id": "F34103",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Une association doit-elle payer la taxe foncière ?",
+  "theme": "Associations, fondations et fonds de dotation",
+  "description": "Oui, une association doit régler les taxes foncières sur les propriétés bâties et non bâties. Mais il existe quelques exceptions.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-04-04",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34103",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Associations, fondations et fonds de dotation",
+    "Activités commerciales d'une association",
+    "Une association doit-elle payer la taxe foncière ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Oui, en principe, une association, propriétaire de biens immobiliers situés en France, doit payer la taxe foncière sur les propriétés bâties et non bâties.",
+        "Toutefois, les organismes et les biens suivants en sont exonérés :",
+        "• Association, union d'associations cultuelles ou diocésaines, propriétaire d'édifices affectés à l'exercice du culte. Mais cette exonération ne s’applique pas aux bâtiments utilisés à des fins autres que cultuelles (par exemple, un usage commercial).",
+        "• Association de mutilés de guerre ou du travail reconnues d'utilité publique lorsque leurs bâtiments sont affectés à l'hospitalisation de leurs membres. Les jardins attenant aux bâtiments affectés à l’hospitalisation des membres des associations de mutilés de guerre ou du travail peuvent également bénéficier d’une exonération de la taxe foncière.",
+        "• Association de sauveteurs reconnue d'utilité publique qui possède des hangars servant à l'abri de ses canots de sauvetage",
+        "• Bâtiments ruraux utilisés pour des activités agricoles (étables, granges, silos,...), sous réserve qu’ils répondent aux conditions prévues par la loi.",
+        "Lorsqu’un bien est acquis ou légué, le notaire transmet à l’administration fiscale les documents nécessaires pour mettre à jour la situation cadastrale et déterminer les éventuelles exonérations applicable.",
+        "Toutefois, si le responsable de l'association reçoit un avis de taxe et qu'elle n'a pas été exonéré, il sera nécessaire d'envoyer les justificatifs (attestation de reconnaissance d’utilité publique s'il est applicable, acte notarié précisant l’affectation du bien, toute autre document démontrant que l’usage du bien correspond aux critères d’exonération) aux impôts."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général des impôts : articles 1380 à 1381",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006191781/"
+    },
+    {
+      "titre": "Code général des impôts : articles 1382 à 1382G",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006191782/"
+    },
+    {
+      "titre": "Code général des impôts : article 1393",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028419445/"
+    },
+    {
+      "titre": "Bofip impôts n°BOI-IF-TFB-10-50-30-20120912 relatif aux exonérations de taxe foncière en raison de l'affectation du bien",
+      "url": "http://bofip.impots.gouv.fr/bofip/413-PGP.html?identifiant=BOI-IF-TFB-10-50-30-20120912"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Service d'information des impôts",
+    "Notaire"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "une-association-doit-elle-payer-la-taxe-fonciere",
+  "path": [
+    {
+      "slug": "associations-fondations-et-fonds-de-dotation",
+      "titre": "Associations, fondations et fonds de dotation"
+    },
+    {
+      "slug": "activites-commerciales-d-une-association",
+      "titre": "Activités commerciales d'une association"
+    }
+  ]
+}

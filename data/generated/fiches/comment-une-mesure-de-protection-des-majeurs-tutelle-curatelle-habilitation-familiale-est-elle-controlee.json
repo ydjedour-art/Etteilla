@@ -1,0 +1,78 @@
+{
+  "id": "F10507",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Comment une mesure de protection des majeurs (tutelle, curatelle, habilitation familiale) est-elle contrôlée ?",
+  "theme": "Famille - Scolarité",
+  "description": "Les proches peuvent signaler tout abus éventuel au juge des tutelles. Un subrogé tuteur ou curateur peut être désigné.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-01-30",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F10507",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Protection juridique (tutelle, curatelle...)",
+    "Comment une mesure de protection des majeurs (tutelle, curatelle, habilitation familiale) est-elle contrôlée ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Pour s’assurer que la mesure de protection prononcée par un juge des tutelles soit exercée dans l’intérêt du majeur protégé, plusieurs mesures peuvent être mises en place.",
+        "Dans toutes les situations, il est possible pour un proche ou pour le majeur protégé de signaler tout manquement au juge des tutelles.",
+        "Désignation d’un subrogé tuteur ou d’un subrogé curateur",
+        "Dans une tutelle ou une curatelle, afin de faire exercer un contrôle sur la mesure, les proches du majeur protégé peuvent demander la désignation d’un subrogé tuteur ou un subrogé curateur. Cette demande peut être effectuée lors de la demande initiale de mesure de protection ou plus tard, lorsque la mesure de protection est déjà en place.",
+        "Parmi ses missions, le subrogé doit surveiller les actes passés par le tuteur ou le curateur.",
+        "Il doit immédiatement informer le juge des tutelles s’il constate des fautes commises par le tuteur ou le curateur.",
+        "[À savoir] La personne chargée de la mesure de protection (proche ou mandataire judiciaire) n’a pas à rendre compte de sa gestion à la famille du majeur protégé, y compris aux parents ou enfants.",
+        "Contrôle des comptes de gestion",
+        "Dans une tutelle ou une curatelle renforcée, la personne en charge de la mesure de protection est soumise à un contrôle.",
+        "Chaque année, le tuteur ou le curateur doit déposer un compte annuel de gestion. Ce document doit reprendre les opérations réalisées sur le patrimoine du majeur protégé (finances, immobilier ...) ainsi que l’état de ses dettes.",
+        "[À savoir] Le juge peut, exceptionnellement, dispenser le tuteur ou le curateur d’établir un compte annuel de gestion.",
+        "Une fois établi, le compte annuel de gestion est contrôlé. Le contrôle consiste à vérifier si la personne en charge de la mesure de protection a accomplit sa mission sans erreur ou détournement.",
+        "Contrôle du juge des tutelles et du procureur",
+        "Le juge des tutelles et le procureur de la République exercent une surveillance générale des mesures de protection prononcées sur leur territoire.",
+        "Ils peuvent visiter ou faire visiter les personnes placées sous mesure de protection.",
+        "Les personnes chargées de la protection sont obligées de se rendre aux convocations du juge ou du procureur et de leur communiquer toute information qu'ils exigent.",
+        "Quand une mesure de protection arrive à la fin de la période pour laquelle elle a été prononcée, le juge des tutelles est amené à se prononcer sur le renouvellement de la mesure. À cette occasion, il peut contrôler que le tuteur, le curateur ou la personne habilitée (dans une habilitation familiale) agit dans l’intérêt de la personne protégée.",
+        "À tout moment, un tiers ou le majeur protégé lui même, peut faire un signalement au juge des tutelles quand il constate que la personne chargée de la protection n’agit pas dans l’intérêt de la personne protégée.",
+        "Le signalement peut être effectué par un courrier rédigé sur papier libre et adressé au juge des tutelles chargé de la mesure de protection. Il s’agit généralement du juge du tribunal judiciaire ou de proximité du lieu de résidence du majeur protégé.",
+        "Tribunal judiciaire ou tribunal de proximité",
+        "Si le juge constate qu’il existe des manquements, il peut dessaisir la personne chargée de la mesure de protection.",
+        "[À savoir] La personne en charge de la mesure de protection engage sa responsabilité si elle commet des fautes dans sa gestion."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : article 454",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006181867/"
+    },
+    {
+      "titre": "Code civil : article 510 à 514",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006136534/"
+    },
+    {
+      "titre": "Code civil : article 416",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006427402/"
+    },
+    {
+      "titre": "Code civil : article 417",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006427404/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "comment-une-mesure-de-protection-des-majeurs-tutelle-curatelle-habilitation-familiale-est-elle-controlee",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "protection-juridique-tutelle-curatelle",
+      "titre": "Protection juridique (tutelle, curatelle...)"
+    }
+  ]
+}

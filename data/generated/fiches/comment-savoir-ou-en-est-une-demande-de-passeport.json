@@ -1,0 +1,43 @@
+{
+  "id": "F34757",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Comment savoir où en est une demande de passeport ?",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Si vous avez indiqué un numéro de téléphone portable sur votre demande, vous recevrez un SMS quand le passeport sera arrivé.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-08-05",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34757",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Passeport",
+    "Comment savoir où en est une demande de passeport ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Le passeport n'est pas fabriqué sur place. Il ne peut donc pas être délivré immédiatement.",
+        "Les délais de fabrication dépendent du lieu et de la période de la demande. Par exemple, à l'approche des vacances d'été, les délais peuvent être plus longs.",
+        "Si vous avez indiqué un numéro de téléphone portable lors de votre demande, vous recevrez un SMS quand le passeport sera disponible.",
+        "Vous pouvez aussi suivre l'état d'avancement de votre demande sur le site de l'ANTS :"
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "comment-savoir-ou-en-est-une-demande-de-passeport",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "passeport",
+      "titre": "Passeport"
+    }
+  ]
+}

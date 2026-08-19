@@ -1,0 +1,96 @@
+{
+  "id": "F1870",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Passage de l'école au collège (du CM2 à la 6e)",
+  "theme": "Famille - Scolarité",
+  "description": "Après le CM2 et l'accord du conseil des maîtres, l'élève est inscrit dans son collège de secteur, ou un autre s'il a une dérogation (carte scolaire).",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-10-20",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1870",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "École primaire (maternelle et élémentaire)",
+    "Passage de l'école au collège (du CM2 à la 6e)"
+  ],
+  "introduction": "Votre enfant est au CM2 et vous vous posez des questions sur son passage en 6e ? À la fin de la classe de CM2, le conseil des maîtres se prononce sur la poursuite de la scolarité de votre enfant : passage en 6e au collège ou, exceptionnellement, redoublement. Voici les informations à connaître sur le passage de l'école au collège.",
+  "chapitres": [
+    {
+      "titre": "Dossier d'inscription en 6e à remplir",
+      "contenu": [
+        "Vous devez remplir le dossier d'inscription en 6e de votre enfant.",
+        "Ce document lui est remis en CM2, avant les vacances de printemps, par son enseignant ou le directeur d'école.",
+        "Vous devez notamment y indiquer vos choix sur les sujets suivants :",
+        "• Régime de l'élève (externat, demi-pension, internat)",
+        "• 1re langue étrangère parmi un choix de langues enseignées en 6e",
+        "• Options facultatives (par exemple : langue ou culture régionale)",
+        "Si le collège le propose, vous devez également préciser si vous voulez que votre enfant intègre une classe de 6e aménagée. Il s'agit d'une classe proposant une 2nde langue vivante anticipée, une section sportive scolaire ou des horaires aménagés.",
+        "Le dossier complété doit être remis à l'enseignant.",
+        "Ensuite, l'enseignant le fera parvenir au Dasen.",
+        "[À savoir] Un élève en situation de handicap peut également être orienté par la CDAPH."
+      ]
+    },
+    {
+      "titre": "Décision du conseil des maîtres",
+      "contenu": [
+        "À la fin du 3e trimestre, le conseil des maîtres se réunit.",
+        "Le conseil est composé du directeur d'école et des enseignants de la classe.",
+        "Il prend l'une des décisions d'orientation suivantes :",
+        "• Passage de votre enfant au collège",
+        "• Redoublement. Il peut être prononcé lorsqu'un dispositif d'accompagnement pédagogique n'a pas permis de mettre fin aux difficultés importantes d'apprentissage d'un élève.",
+        "L'élève de CM1, pour lequel un saut de classe a été décidé, est également concerné.",
+        "Le directeur de l'école vous notifie la décision sur le livret scolaire de votre enfant."
+      ]
+    },
+    {
+      "titre": "Possibilité de contester la décision du conseil des maîtres",
+      "contenu": [
+        "Si vous êtes en désaccord avec la décision du conseil, vous avez 15 jours calendaires (à partir de la réception de la décision) pour faire appel.",
+        "Pour cela, vous devez déposer une demande écrite, par l'intermédiaire du directeur d'école, devant la commission départementale d'appel.",
+        "Cette commission est présidée par le Dasen. Elle comprend des inspecteurs responsables des circonscriptions du 1er degré, des directeurs d'école, des enseignants du 1er degré et des parents d'élèves. Elle doit aussi être composée d'au moins un psychologue scolaire, un médecin de l'Éducation nationale, un principal de collège et un professeur du 2nd degré enseignant en collège.",
+        "Vous pouvez demander à être entendus par cette commission.",
+        "La commission peut décider du passage de votre enfant dans la classe supérieure ou le saut de classe.",
+        "En cas de désaccord avec la décision de la commission d'appel, vous pouvez saisir le médiateur de l’Éducation nationale."
+      ]
+    },
+    {
+      "titre": "Démarches d'inscription",
+      "contenu": [
+        "Les démarches diffèrent selon que votre enfant passe en 6e ou redouble.",
+        "Passage en 6e",
+        "Vous recevez une notification d'affectation dans le collège de secteur. Vous devez alors effectuer les démarches d'inscription au collège.",
+        "Redoublement",
+        "Votre enfant est réinscrit dans l'école qu'il fréquentait.",
+        "Le redoublement est accompagné de mesures pédagogiques spécifiques pour l'élève (par exemple, un programme personnalisé de réussite éducative)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'éducation : articles D321-1 à D321-17",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006166878"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Direction des services départementaux de l'Éducation nationale",
+    "Établissement scolaire"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "La liaison entre l'école et le collège",
+      "url": "https://www.education.gouv.fr/la-liaison-entre-l-ecole-et-le-college-11318"
+    }
+  ],
+  "slug": "passage-de-l-ecole-au-college-du-cm2-a-la-6e",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "ecole-primaire-maternelle-et-elementaire",
+      "titre": "École primaire (maternelle et élémentaire)"
+    }
+  ]
+}

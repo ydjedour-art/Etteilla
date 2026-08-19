@@ -1,0 +1,86 @@
+{
+  "id": "F35134",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Congé du salarié pour le mariage de son enfant",
+  "theme": "Travail - Formation",
+  "description": "Le salarié bénéficie d'un jour de congé rémunéré à l'occasion du mariage de son enfant.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-03-27",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35134",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Congés dans le secteur privé",
+    "Congé du salarié pour le mariage de son enfant"
+  ],
+  "introduction": "Le salarié a droit à un congé à l'occasion du mariage de son enfant. Nous vous présentons la réglementation en vigueur.",
+  "chapitres": [
+    {
+      "titre": "Le salarié peut-il bénéficier du congé pour le mariage de son enfant ?",
+      "contenu": [
+        "Tout salarié peut bénéficier d'un congé à l'occasion du mariage de son enfant. Il n'y a pas de condition d'ancienneté."
+      ]
+    },
+    {
+      "titre": "Quelle est la durée du congé du salarié pour le mariage de son enfant ?",
+      "contenu": [
+        "La durée du congé est de 1 jour ouvrable. Mais des dispositions conventionnelles peuvent prévoir une durée plus élevée.",
+        "La convention collective applicable est celle dont relève l'activité principale de l'entreprise.",
+        "Un simulateur permet de connaître le nombre de jours de congés pour événements familiaux prévu par la convention collective :",
+        "Connaître le nombre de congés pour événements familiaux prévu par la convention collective",
+        "La durée du congé pour le mariage de son enfant ne peut pas être déduite du nombre de jours de congés payés annuels du salarié.",
+        "[Attention] Si le salarié est déjà en congé lors du mariage de son enfant, il ne peut pas bénéficier du congé."
+      ]
+    },
+    {
+      "titre": "Quand le salarié peut-il prendre le congé pour le mariage de son enfant ?",
+      "contenu": [
+        "Le salarié peut prendre son jour de congé le jour du mariage de son enfant, mais pas nécessairement.",
+        "Le jour de congé doit être pris dans la période où l'événement se produit.",
+        "Le code du travail ne prévoit aucune disposition à ce sujet.",
+        "Il est donc conseillé de faire cette déclaration d’absence auprès de son employeur dans les meilleurs délais.",
+        "[Exemple] Si le mariage de l'enfant du salarié a lieu un samedi, le salarié peut prendre le congé le lundi suivant."
+      ]
+    },
+    {
+      "titre": "Comment le salarié peut-il prendre un congé pour le mariage de son enfant",
+      "contenu": [
+        "Lors de son retour dans l'entreprise, le salarié doit remettre à son employeur une copie de l'acte de mariage de son enfant."
+      ]
+    },
+    {
+      "titre": "Le congé du salarié pour le mariage de son enfant est-il rémunéré ?",
+      "contenu": [
+        "Oui, le jour de congé est payé normalement, comme s'il avait été travaillé."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code du travail : articles L3142-1 à L3142-3",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033002888"
+    },
+    {
+      "titre": "Code du travail : article L3142-4",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033002890"
+    },
+    {
+      "titre": "Code du travail : article L3142-5",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033002892"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "conge-du-salarie-pour-le-mariage-de-son-enfant",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "conges-dans-le-secteur-prive",
+      "titre": "Congés dans le secteur privé"
+    }
+  ]
+}

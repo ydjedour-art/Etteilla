@@ -1,0 +1,52 @@
+{
+  "id": "F35498",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Que se passe-t-il en cas de non paiement de la complémentaire santé solidaire (C2S) ?",
+  "theme": "Social - Santé",
+  "description": "En cas de non-paiement de sa part de C2S, le bénéficiaire ne bénéficie plus du remboursement de la part complémentaire.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-03-05",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35498",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Complémentaire santé (mutuelle) et complémentaire santé solidaire",
+    "Que se passe-t-il en cas de non paiement de la complémentaire santé solidaire (C2S) ?"
+  ],
+  "introduction": "Si vous avez de faibles ressources , la complémentaire santé solidaire (C2S) vous aide pour vos dépenses de santé. Elle complète les remboursements de la Sécurité sociale. Elle est gratuite ou payante selon votre niveau de revenus. Si elle est payante, vous devez régler votre part de C2S (1 € par jour et par personne maximum). Si vous ne payez pas tout ou partie de ce règlement correspondant à 2 mensualités de suite, votre droit sera suspendu dans un délai de 30 jours.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "À la fin de ce délai de 30 jours, la suspension est prononcée en cas de :",
+        "• Non-paiement de la totalité de la somme dûe",
+        "• Ou d'absence d'accord entre vous et l'organisme gestionnaire sur les règles de paiement.",
+        "Toutefois, vous disposez d'un nouveau délai de 30 jours pour payer.",
+        "Au-delà de ces 30 jours, vous ne bénéficiez plus du remboursement de la part complémentaire. Cela signifie que vos dépenses de santé sont remboursées uniquement par la Sécurité sociale.",
+        "[À noter] Si vous faites une demande de renouvellement du droit à la C2S ou de nouvelles admissions, vous devez avoir réglé les sommes demandées. Si ce n'est pas le cas, on ne peut pas vous attribuer la C2S pendant 2 ans. Cependant, ces règles ne s'appliquent pas si vous avez bénéficié : • D'une aide pour le paiement de vos participations • D'une remise ou d'une réduction même partielle de votre dette • D'un échéancier de paiement."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la sécurité sociale : articles R861-30 à R861-36",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000038677001/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "France Services / Maison de services au public"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "que-se-passe-t-il-en-cas-de-non-paiement-de-la-complementaire-sante-solidaire-c2s",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "complementaire-sante-mutuelle-et-complementaire-sante-solidaire",
+      "titre": "Complémentaire santé (mutuelle) et complémentaire santé solidaire"
+    }
+  ]
+}

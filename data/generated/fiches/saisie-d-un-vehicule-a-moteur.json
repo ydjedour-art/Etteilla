@@ -1,0 +1,173 @@
+{
+  "id": "F1752",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Saisie d'un véhicule à moteur",
+  "theme": "Justice",
+  "description": "Un créancier peut forcer un débiteur à payer sa dette. Un commissaire de justice est chargé de saisir le véhicule. Le débiteur peut parfois contester la saisie.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-08-17",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1752",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Saisies et recouvrements",
+    "Saisie d'un véhicule à moteur"
+  ],
+  "introduction": "Une personne vous doit de l'argent ? Dans ce cas, vous êtes le créancier et la personne qui vous doit de l'argent est le débiteur. En tant que créancier, vous pouvez forcer le débiteur à payer sa dette en chargeant un commissaire de justice de saisir son véhicule (voiture, moto, scooter, quad...). Si vous êtes le débiteur, vous n'êtes averti de la saisie qu'au moment où elle a lieu. Vous pouvez par la suite contester cette saisie, mais dans certains cas seulement. Nous vous expliquons.",
+  "chapitres": [
+    {
+      "titre": "Quelle personne peut faire l’objet d’une saisie de véhicule ?",
+      "contenu": [
+        "Tout véhicule terrestre à moteur immatriculé (voiture, moto, scooter, quad, remorque...) peut être saisi.",
+        "Mais si le débiteur exerce personnellement son activité professionnelle avec le véhicule, la saisie n'est pas possible. C'est le cas, par exemple, s'il est chauffeur de taxi ou VRP."
+      ]
+    },
+    {
+      "titre": "Comment faire saisir un véhicule ?",
+      "contenu": [
+        "Le créancier doit charger un commissaire de justice de faire la saisie du véhicule.",
+        "Pour cela, le créancier doit avoir un titre exécutoire représentant une créance impayée.",
+        "Le commissaire de justice peut saisir le véhicule :",
+        "• Par déclaration à l'autorité administrative (par exemple, la préfecture). Dans ce cas, le débiteur ne peut plus vendre son véhicule.",
+        "• Par immobilisation. Dans ce cas, le débiteur ne peut plus utiliser son véhicule. Le véhicule peut par la suite être vendu pour rembourser le créancier.",
+        "Le commissaire de justice peut engager ces 2 saisies indépendamment l'une de l'autre. L'une après l'autre, ou en même temps."
+      ]
+    },
+    {
+      "titre": "Comment se déroule la saisie par déclaration d'un véhicule ?",
+      "contenu": [
+        "Cette saisie se déroule en 2 étapes :",
+        "1. Le commissaire de justice fait une déclaration à la préfecture. Cette déclaration vaut saisie du véhicule.",
+        "La déclaration doit obligatoirement indiquer les informations suivantes :",
+        "• Nom et adresse du débiteur",
+        "• Numéro d'immatriculation et marque du véhicule saisi",
+        "• Titre exécutoire du créancier.",
+        "2. Le commissaire de justice doit signifier la saisie au débiteur dans les 8 jours qui suivent la déclaration, c'est-à-dire qu'il doit envoyer au débiteur un acte de signification et une copie de la déclaration.",
+        "L'acte de signification doit indiquer les informations suivantes :",
+        "• Décompte distinct des sommes réclamées (montant de la dette, des frais et des intérêts dus)",
+        "• Possibilité de contester la saisie devant le juge de l'exécution du lieu où habite le débiteur (en caractères très apparents)",
+        "• Reproduction des dispositions de l'article R223-4 du code des procédures civiles d'exécution.",
+        "[À savoir] La déclaration expire au bout de 2 ans à partir de sa signification, sauf si elle est renouvelée entre-temps."
+      ]
+    },
+    {
+      "titre": "Peut-on utiliser un véhicule saisi par déclaration ?",
+      "contenu": [
+        "Dans le cas d’une saisie par déclaration, le débiteur peut continuer à utiliser le véhicule saisi, mais il ne peut pas le vendre.",
+        "Pour pouvoir vendre le véhicule, le débiteur doit attendre que la saisie du véhicule soit levée.",
+        "En effet, le certificat d'immatriculation (anciennement carte grise) ne peut être délivré à un nouveau propriétaire qu’en cas de mainlevée donnée par le créancier ou ordonnée par le juge de l'exécution.",
+        "La saisie du véhicule est levée après que le débiteur a payé sa dette au créancier."
+      ]
+    },
+    {
+      "titre": "Comment contester la saisie par déclaration d'un véhicule ?",
+      "contenu": [
+        "Le débiteur peut contester la saisie par déclaration, notamment pour au moins un des motifs suivants :",
+        "• Le véhicule n'appartient pas au débiteur",
+        "• Le débiteur utilise personnellement le véhicule pour son activité professionnelle",
+        "• L'acte de signification n'est pas valable.",
+        "Le débiteur doit présenter cette contestation par assignation devant le juge de l'exécution du tribunal dont dépend son domicile.",
+        "Le jour même où le juge rend sa décision, une copie de sa décision est envoyée par lettre simple au débiteur, au créancier et au commissaire de justice.",
+        "Le débiteur et le créancier sont également informés de la décision du juge par lettre recommandée avec accusé de réception.",
+        "Le débiteur ou le créancier peut faire appel de la décision du juge."
+      ]
+    },
+    {
+      "titre": "Comment se déroule la saisie par immobilisation d'un véhicule ?",
+      "contenu": [
+        "Muni d'un titre exécutoire, le commissaire de justice peut saisir un véhicule en l'immobilisant, quel que soit le lieu où celui-ci se trouve.",
+        "Selon que le débiteur est ou non présent lors de la saisie, celle-ci se déroule différemment :",
+        "Débiteur présent",
+        "En général, le véhicule saisi est immobilisé à l'aide d'un sabot. Le numéro de téléphone du commissaire de justice doit être indiqué de manière très apparente sur le sabot.",
+        "Le véhicule peut aussi être déplacé et mis en dépôt.",
+        "L'immobilisation ne doit en aucun cas détériorer le véhicule.",
+        "[À savoir] Le véhicule peut être immobilisé lors d'une saisie-vente, faite dans les locaux que le débiteur occupe, ou dans ceux de la personne qui détient le véhicule pour le compte du débiteur.",
+        "Le commissaire de justice rédige alors un procès-verbal d'immobilisation et le remet au débiteur.",
+        "[Complement] Le procès-verbal d'immobilisation doit obligatoirement contenir les informations suivantes : • Titre exécutoire autorisant la saisie • Date et heure de la saisie • Lieu de l'immobilisation (ou lieu où le véhicule a été transporté pour être mis en dépôt) • Description du véhicule (numéro d'immatriculation, marque, couleur et, éventuellement, contenu apparent et détériorations visibles) • Indication que le débiteur est ou non présent lors de la saisie.",
+        "Dans les 8 jours qui suivent l'immobilisation, le commissaire de justice doit notifier au débiteur un commandement de payer.",
+        "[Complement] Le commandement de payer doit obligatoirement contenir les informations suivantes : • Copie du procès-verbal d'immobilisation • Décompte distinct des sommes réclamées (dettes, frais, intérêts dus) et du taux des intérêts • Avertissement que si le débiteur ne paie pas et que s'il ne pas le véhicule saisi dans un délai d'un mois, ce véhicule sera vendu aux enchères publiques • Indication que le débiteur peut contester l'immobilisation devant le juge de l'exécution de son domicile ou du lieu d'immobilisation du véhicule • Reproduction des dispositions des articles R221-30 à R221-32 du code des procédures civiles d'exécution.",
+        "Débiteur absent",
+        "En général, le véhicule est immobilisé à l'aide d'un sabot. Le numéro de téléphone du commissaire de justice doit être indiqué de manière très apparente sur le sabot.",
+        "Le véhicule peut aussi être déplacé et mis en dépôt.",
+        "L'immobilisation ne doit en aucun cas détériorer le véhicule.",
+        "[À savoir] Le véhicule peut être immobilisé lors d'une saisie-vente, faite dans les locaux que le débiteur occupe, ou dans ceux d'une personne qui détient le véhicule pour son compte.",
+        "Le commissaire de justice rédige alors un procès-verbal d'immobilisation.",
+        "[Complement] Le procès-verbal d'immobilisation doit obligatoirement contenir les informations suivantes : • Titre exécutoire autorisant la saisie • Date et heure de la saisie • Lieu de l'immobilisation (ou lieu où le véhicule a été transporté pour être mis en dépôt) • Description du véhicule (numéro d'immatriculation, marque, couleur et, éventuellement, contenu apparent et détériorations visibles) • Indication que le débiteur est ou non présent lors de la saisie.",
+        "Le jour même de la saisie, le commissaire de justice doit informer le débiteur de l'immobilisation, par lettre simple envoyée ou déposée à son adresse.",
+        "[Complement] Cette lettre doit mentionner les éléments suivants : • Titre exécutoire autorisant la saisie • Lieu de l'immobilisation, ou le lieu où le véhicule a été transporté pour être mis en dépôt • Avertissement que l'immobilisation vaut saisie • Avertissement que si le véhicule a été immobilisé sur la voie publique, il peut être transporté dans les 48 heures dans un autre lieu (avec mention de ce lieu). • La mention, en caractères très apparents, que, pour obtenir une éventuelle mainlevée de l'immobilisation, le débiteur peut soit s'adresser au commissaire de justice (avec indication de son nom, adresse et numéro de téléphone) • Mention, en caractères très apparents, que le débiteur peut contester l'immobilisation devant le juge de l'exécution du tribunal du lieu d'immobilisation du véhicule (avec indication du siège du tribunal et de l'adresse du greffe).",
+        "Dans les 8 jours qui suivent l'immobilisation, le commissaire de justice doit notifier au débiteur un commandement de payer.",
+        "[Complement] Le commandement de payer doit obligatoirement contenir les informations suivantes : • Copie du procès-verbal d'immobilisation • Décompte distinct des sommes réclamées (dettes, frais, intérêts dus) et du taux des intérêts • Avertissement que si le débiteur ne paie pas et que s'il ne pas le véhicule saisi dans un délai d'un mois, ce véhicule sera vendu aux enchères publiques • Indication que le débiteur peut contester l'immobilisation devant le juge de l'exécution de son domicile ou du lieu d'immobilisation du véhicule • Reproduction des dispositions des articles R221-30 à R221-32 du code des procédures civiles d'exécution."
+      ]
+    },
+    {
+      "titre": "Peut-on utiliser un véhicule saisie par immobilisation ?",
+      "contenu": [
+        "Dans le cas d’une saisie par immobilisation, le débiteur ne peut plus utiliser le véhicule saisi.",
+        "La saisie du véhicule est levée après que le débiteur a payé sa dette au créancier.",
+        "Si le débiteur ne paie pas sa dette malgré le commandement de payer, il a 1 mois pour vendre le véhicule saisi. Ce délai court à partir de la saisie (date d'immobilisation du véhicule).",
+        "Le commissaire de justice informe le créancier des conditions de la vente, car la vente ne peut avoir lieu qu'avec l'accord du créancier.",
+        "Passé le délai d'un mois, le véhicule saisi peut être vendu aux enchères publiques."
+      ]
+    },
+    {
+      "titre": "Comment contester la saisie par immobilisation d'un véhicule ?",
+      "contenu": [
+        "Le débiteur peut contester la saisie par immobilisation du véhicule, notamment pour au moins 1 des motifs suivants :",
+        "• Le véhicule n'appartient pas au débiteur",
+        "• Le débiteur utilise personnellement le véhicule saisi pour son activité professionnelle",
+        "• Le procès-verbal de saisie par immobilisation du véhicule n'est pas valable.",
+        "Le débiteur doit présenter cette contestation par assignation devant le juge de l'exécution du tribunal de son domicile ou du lieu d'immobilisation du véhicule.",
+        "Le jour-même où le juge rend sa décision, une copie de sa décision est envoyée par lettre simple au débiteur, au créancier, et au commissaire de justice.",
+        "Le débiteur et le créancier sont également informés de la décision du juge par lettre recommandée avec accusé de réception.",
+        "Le débiteur ou le créancier peut faire appel de la décision du juge."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code des procédures civiles d'exécution : article L223-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025025880/"
+    },
+    {
+      "titre": "Code des procédures civiles d'exécution : articles R223-1 à R223-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000025024948/LEGISCTA000025938791/"
+    },
+    {
+      "titre": "Code des procédures civiles d'exécution : article L223-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025025884/"
+    },
+    {
+      "titre": "Code des procédures civiles d'exécution : articles R223-6 à R223-13",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000025024948/LEGISCTA000025938804/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Maison de justice et du droit"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "La saisie des véhicules",
+      "url": "https://www.inc-conso.fr/content/la-saisie-des-vehicules"
+    },
+    {
+      "titre": "Article R223-4 du code des procédures civiles d'exécution",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025938799"
+    },
+    {
+      "titre": "Articles R221-30 à R221-32 du code des procédures civiles d'exécution",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000025024948/LEGISCTA000025938643/"
+    }
+  ],
+  "slug": "saisie-d-un-vehicule-a-moteur",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "saisies-et-recouvrements",
+      "titre": "Saisies et recouvrements"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "F31255",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Évaluation professionnelle dans la fonction publique hospitalière (FPH)",
+  "theme": "Travail - Formation",
+  "description": "Les agents publics hospitaliers bénéficient chaque année d'un entretien portant sur le bilan de l'année écoulée et les objectifs pour l‘année suivante.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-05-20",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31255",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Carrière dans la fonction publique",
+    "Évaluation professionnelle dans la fonction publique hospitalière (FPH)"
+  ],
+  "introduction": "Vous êtes agent hospitalier et vous souhaitez savoir comment se déroule votre évaluation annuelle ? Nous vous présentons les règles applicables selon que vous êtes fonctionnaire ou contractuel.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code général de la fonction publique : articles L521-1 à L521-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044422999/"
+    },
+    {
+      "titre": "Décret n°91-155 du 6 février 1991 relatif aux agents contractuels de la FPH",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000343794"
+    },
+    {
+      "titre": "Décret n°2020-719 du 12 juin 2020 relatif aux conditions générales de l'appréciation de la valeur professionnelle des fonctionnaires de la fonction publique hospitalière",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000041991080/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Centre national de gestion des praticiens et personnels hospitaliers de direction",
+      "url": "http://www.cng.sante.fr"
+    }
+  ],
+  "slug": "evaluation-professionnelle-dans-la-fonction-publique-hospitaliere-fph",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "carriere-dans-la-fonction-publique",
+      "titre": "Carrière dans la fonction publique"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "F32294",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Faut-il immatriculer un vélo électrique ?",
+  "theme": "Transports - Mobilité",
+  "description": "Un vélo électrique doit être immatriculé lorsque la puissance du moteur dépasse 250 watts et que sa vitesse dépasse 25 km/h.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2024-06-25",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F32294",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Carte grise (certificat d'immatriculation)",
+    "Faut-il immatriculer un vélo électrique ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "En résumé :",
+        "Un vélo à assistance électrique (VAE) est un vélo à pédalage assisté, équipé d'un moteur électrique.",
+        "Cette assistance existe uniquement lorsque le cycliste pédale. Elle se coupe au-dessus de 25 km/h et le moteur est d'une puissance inférieure ou égale à 250 watts.",
+        "Le VAE est considéré comme un vélo classique et n'a pas à être immatriculé. Mais lorsque la puissance du moteur est supérieure à 250 watts ou que la vitesse maximale assistée est de 45 km/h, le vélo est considéré comme un « cyclomoteur ». Vous devez donc l'immatriculer.",
+        "En détails :",
+        "L'obligation d'immatriculer un vélo électrique diffère selon la puissance du moteur et de sa vitesse maximale. Attention : il ne faut pas confondre la puissance du moteur avec la puissance de la batterie.",
+        "Puissance moteur maximale de 250 watts et assistance électrique jusqu'à la vitesse maximale de 25 km/h",
+        "Ce vélo avec assistance électrique appartient à la catégorie des cycles. Vous n'avez pas besoin de le faire immatriculer pour l'utiliser.",
+        "[Attention] Les vélos dont l'assistance électrique est active au-delà de 25 km/h sont des vélos débridés. Ils ne sont pas autorisés à circuler sur la voie publique.",
+        "Puissance moteur comprise entre 251 et 1 000 watts avec un cyclo pédalage entre 5 et 25 km/h",
+        "Ce vélo électrique appartient à la classe des cyclomoteurs (classe L1e-a / carrosserie : vélo moteur).",
+        "Si vous achetez un vélo électrique de cette classe, vous devez l'immatriculer.",
+        "La procédure d'immatriculation varie selon que le vélo est neuf ou d’occasion.",
+        "Assistance électrique jusqu'à la vitesse maximale de 45 km/h",
+        "Ce vélo électrique appartient à la classe des cyclomoteurs (classe L1e-b / carrosserie : cyclomoteurs à 2 roues).",
+        "Si vous achetez un vélo électrique de cette classe, vous devez l'immatriculer.",
+        "La procédure d'immatriculation varie selon que le vélo est neuf ou d’occasion."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Règlement (UE) N° 168/2013 du Parlement européen et du Conseil du 15 janvier 2013",
+      "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:060:0052:0128:FR:PDF"
+    },
+    {
+      "titre": "Code de la route : article L317-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039784406"
+    },
+    {
+      "titre": "Code de la route : article R311-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045025478"
+    },
+    {
+      "titre": "Code de la route : article R317-8",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042266062"
+    },
+    {
+      "titre": "Décret n° 2016-364 du 29 mars 2016 fixant les exigences de sécurité concernant les bicyclettes",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000032304239"
+    },
+    {
+      "titre": "Arrêté du 9 février 2009 relatif aux modalités d'immatriculation des véhicules (annexe V)",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044084724"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "faut-il-immatriculer-un-velo-electrique",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "carte-grise-certificat-d-immatriculation",
+      "titre": "Carte grise (certificat d'immatriculation)"
+    }
+  ]
+}

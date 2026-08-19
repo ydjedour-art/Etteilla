@@ -1,0 +1,136 @@
+{
+  "id": "F1385",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Adoption d'un mineur par une personne seule",
+  "theme": "Famille - Scolarité",
+  "description": "L'adoption de l'enfant par une personne seule est prononcée par le tribunal à la demande de l'adoptant si elle est de l’intérêt de l’enfant.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-05-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1385",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Adoption",
+    "Adoption d'un mineur par une personne seule"
+  ],
+  "introduction": "Vous voulez adopter seul un enfant ? Vous pouvez l'adopter que vous soyez célibataire, marié ou en couple, sous certaines conditions. L'enfant de plus de 13 ans doit consentir à son adoption. La procédure se déroule devant le tribunal judiciaire. C'est l'adoptant qui doit faire la demande d'adoption. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "L'adoption crée un lien de filiation entre l’adoptant et l'adopté. L'adoption peut être simple ou plénière.",
+        "Dans le cas de l'adoption simple, les liens avec la famille d'origine sont maintenus.",
+        "Dans le cas de l'adoption plénière, il y a une rupture totale des liens de l'adopté avec sa famille d'origine."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : articles 343 à 343-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006150070/"
+    },
+    {
+      "titre": "Code civil : articles 344 à 345-2",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006150071/"
+    },
+    {
+      "titre": "Code civil : articles 346 à 347",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006150072/"
+    },
+    {
+      "titre": "Code civil : articles 348 à 350",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000046369344/"
+    },
+    {
+      "titre": "Code civil : articles 351 à 352-2",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006150074/"
+    },
+    {
+      "titre": "Code civil : article 353",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006150076/"
+    },
+    {
+      "titre": "Code civil : articles 353-1 à 354",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000046369853/"
+    },
+    {
+      "titre": "Code de procédure civile : article 1165",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006412111"
+    },
+    {
+      "titre": "Code de procédure civile : articles 1166 à 1176",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070716/LEGISCTA000006149749/"
+    },
+    {
+      "titre": "Code de procédure civile : articles 1177 à 1178",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070716/LEGISCTA000006149750/"
+    },
+    {
+      "titre": "Code général des impôts : article 1635bis Q",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024418051"
+    },
+    {
+      "titre": "Code civil : article 355",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000046369877"
+    },
+    {
+      "titre": "Code civil : articles 356 à 359",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000046369879/"
+    },
+    {
+      "titre": "Code civil : articles 360 à 369-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000046369881/"
+    },
+    {
+      "titre": "Code civil : articles 20 à 20-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006149914"
+    },
+    {
+      "titre": "Code civil : article 21",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006165433/"
+    },
+    {
+      "titre": "Code civil : articles 21-12 à 21-14",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165458/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Requête en adoption simple d'un mineur par une personne à titre individuel",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_15737.do",
+      "type": "formulaireNG"
+    },
+    {
+      "titre": "Requête en adoption plénière d'un enfant par une personne à titre individuel",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_15742.do",
+      "type": "formulaireNG"
+    },
+    {
+      "titre": "Acheter un timbre fiscal électronique pour engager une procédure judiciaire civile",
+      "url": "https://timbres.impots.gouv.fr/",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Site de l'Agence française de l'adoption (Afa)",
+      "url": "http://www.agence-adoption.fr"
+    },
+    {
+      "titre": "Fiches pays Adoption",
+      "url": "http://www.diplomatie.gouv.fr/fr/adopter-a-l-etranger/comment-adopter-a-l-etranger/les-fiches-pays-de-l-adoption/fiches-pays-adoption/"
+    }
+  ],
+  "slug": "adoption-d-un-mineur-par-une-personne-seule",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "adoption",
+      "titre": "Adoption"
+    }
+  ]
+}

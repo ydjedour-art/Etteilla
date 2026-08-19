@@ -1,0 +1,132 @@
+{
+  "id": "F823",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Déduction, réduction d'impôt, crédit d'impôt : quelles différences ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Plusieurs dispositifs diminuent le montant de l'impôt sur le revenu à payer : déduction, réduction d'impôt et crédit d'impôt.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-04-15",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F823",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Impôt sur le revenu : déductions, réductions et crédits d'impôt",
+    "Déduction, réduction d'impôt, crédit d'impôt : quelles différences ?"
+  ],
+  "introduction": "Déduction, réduction d'impôt et crédit d'impôt sont des avantages fiscaux. Ils diminuent le montant de l'impôt sur le revenu que vous avez à payer. Nous vous expliquons les différences entre ces 3 dispositifs.",
+  "chapitres": [
+    {
+      "titre": "Qu'est-ce qu'une déduction fiscale ?",
+      "contenu": [
+        "Une déduction est un avantage fiscal.",
+        "C'est une somme qui est retirée de votre revenu imposable.",
+        "[Exemple] Vous avez un revenu de 10 000 € et une déduction fiscale de 1 000 €. Vous serez imposable uniquement sur 9 000 €.",
+        "La déduction peut être effectuée sur l'un des revenus suivants :",
+        "• Votre revenu brut global (par exemple, déduction de la pension alimentaire versée aux enfants)",
+        "• Un de vos revenus catégoriels (par exemple, déduction des frais professionnels de vos traitements et salaires).",
+        "Vous déclarez vos dépenses ouvrant droit à déduction dans votre déclaration de revenus.",
+        "Les services fiscaux peuvent vous demander de justifier de vos dépenses."
+      ]
+    },
+    {
+      "titre": "Qu'est-ce qu'une réduction d'impôt ?",
+      "contenu": [
+        "Une réduction d'impôt est un avantage fiscal.",
+        "C'est une somme déduite du montant de votre impôt.",
+        "C'est, par exemple, le cas pour les dispositifs suivants :",
+        "• Réduction d'impôt pour dons à des organismes d'intérêt général",
+        "• Réduction d'impôt pour frais d'accueil en établissement pour personnes dépendantes.",
+        "Elle s'applique uniquement si vous avez un impôt à payer.",
+        "[Exemple] Vous avez fait un don à une association qui vous donne droit à une réduction d’impôt de 700 €. Si votre impôt est de 1 500 €, vous ne paierez que 800 €.",
+        "Si vous ne payez pas d'impôt sur le revenu, vous ne pouvez pas bénéficier de la réduction d'impôt.",
+        "Si vous en payez peu, vous pouvez bénéficier uniquement d'une partie de la réduction d'impôt.",
+        "[Exemple] Si vous avez droit à une réduction d’impôt de 700 €, mais que vous devez 500 € d’impôt. Le surplus de 200 € est « perdu ».",
+        "Vous déclarez vos dépenses ouvrant droit à réduction d'impôt dans votre déclaration de revenus.",
+        "Les services fiscaux peuvent vous demander de justifier de vos dépenses."
+      ]
+    },
+    {
+      "titre": "Qu'est-ce qu'un crédit d'impôt ?",
+      "contenu": [
+        "Un crédit d'impôt est aussi un avantage fiscal ;",
+        "C'est également une somme soustraite du montant de votre impôt.",
+        "C'est, par exemple, le cas pour les dispositifs suivants :",
+        "• Crédit d'impôt pour frais de garde d'enfants hors du domicile",
+        "• Crédit d'impôt pour emploi d'un salarié à domicile",
+        "• Crédit d'impôt pour travaux d'adaptation du logement à la perte d'autonomie liée à l'âge ou au handicap.",
+        "Contrairement à la réduction d'impôt, le crédit d'impôt vous est remboursé en tout ou partie dans les cas suivants :",
+        "• Son montant dépasse celui de votre impôt",
+        "• Vous n'êtes pas imposable.",
+        "[Exemple] Vous avez droit à un crédit d’impôt de 700 € pour vos frais de garde d'enfants et vous devez seulement 500 € d’impôt. Les services fiscaux vous remboursent le surplus de 200 €.",
+        "Si vous n'êtes pas imposable, les services fiscaux vous remboursent la totalité de votre crédit d'impôt.",
+        "[Exemple] Vous avez droit à un crédit d’impôt de 700 € pour vos frais de garde d'enfants et vous ne payez pas d’impôt sur le revenu. Les services fiscaux vous remboursent 700 €.",
+        "[À savoir] Les sommes inférieures à 8 € ne sont pas remboursées.",
+        "Vous déclarez vos dépenses ouvrant droit à crédit d'impôt dans votre déclaration de revenus.",
+        "Les services fiscaux peuvent vous demander de justifier de vos dépenses.",
+        "S’il existe des indices sérieux pouvant remettre en cause la réalité de vos dépenses, les services fiscaux peuvent exiger ces justificatifs dans un délai de 30 jours.",
+        "En l'absence de réponse de votre part ou en l'absence de justificatifs probants, votre impôt sera calculé sans tenir compte de ces dépenses, et donc sans le crédit d'impôt concerné.",
+        "Dans ce cas, il vous appartiendra de déposer une réclamation."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général des impôts : article 1965 L",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006133946/"
+    },
+    {
+      "titre": "Loi n° 2025-127 du 14 février 2025 de finances pour 2025",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000051168007/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Impôts : accéder à votre espace Finances publiques",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Déclarer vos revenus en ligne",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Déclaration 2026 des revenus 2025 (papier)",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/2042/declaration-des-revenus",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Estimer le montant de son impôt sur les revenus de 2025 (déclaration de 2026)",
+      "url": "https://simulateur-ir-ifi.impots.gouv.fr/calcul_impot/2026/",
+      "type": "simulateurNG"
+    }
+  ],
+  "contacts": [
+    "Service d'information des impôts"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Quelle est la différence entre une réduction d'impôt et un crédit d'impôt ?",
+      "url": "https://www.impots.gouv.fr/particulier/questions/quelle-est-la-difference-entre-une-reduction-et-un-credit-dimpot"
+    },
+    {
+      "titre": "J'ai déclaré des réductions et crédits d'impôt, suis-je concerné par le versement de l'avance de 60 % en janvier ?",
+      "url": "https://www.impots.gouv.fr/particulier/questions/jai-declare-des-reductions-et-credits-dimpot-suis-je-concerne-par-le"
+    },
+    {
+      "titre": "Brochure pratique 2026 - Déclaration des revenus de 2025",
+      "url": "https://www.impots.gouv.fr/www2/fichiers/documentation/brochure/ir_2026/accueil.htm"
+    }
+  ],
+  "slug": "deduction-reduction-d-impot-credit-d-impot-quelles-differences",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "impot-sur-le-revenu-deductions-reductions-et-credits-d-impot",
+      "titre": "Impôt sur le revenu : déductions, réductions et crédits d'impôt"
+    }
+  ]
+}

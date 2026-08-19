@@ -1,0 +1,59 @@
+{
+  "id": "F31021",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Comment se renseigner sur une fondation ou un fonds de dotation ?",
+  "theme": "Associations, fondations et fonds de dotation",
+  "description": "Toute personne peut obtenir certaines informations sur une fondation ou un fonds de dotation.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-11-24",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31021",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Associations, fondations et fonds de dotation",
+    "Associations reconnues d'utilité publique et fondations",
+    "Comment se renseigner sur une fondation ou un fonds de dotation ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Toute personne peut se renseigner soit par internet, soit sur place.",
+        "[Attention] Ces informations ne concernent pas les associations dont le siège est en Alsace-Moselle."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [
+    {
+      "titre": "Consulter les annonces des associations et fondations",
+      "url": "https://www.journal-officiel.gouv.fr/pages/associations/",
+      "type": "Outil de recherche"
+    }
+  ],
+  "contacts": [
+    "Greffe des associations",
+    "Greffe des associations - Paris"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Liste des fondations reconnues d'utilité publique",
+      "url": "https://www.data.gouv.fr/fr/datasets/fondations-reconnues-d-utilite-publique/"
+    },
+    {
+      "titre": "Liste des fondations d'entreprise",
+      "url": "https://www.data.gouv.fr/fr/datasets/fondations-d-entreprises/"
+    }
+  ],
+  "slug": "comment-se-renseigner-sur-une-fondation-ou-un-fonds-de-dotation",
+  "path": [
+    {
+      "slug": "associations-fondations-et-fonds-de-dotation",
+      "titre": "Associations, fondations et fonds de dotation"
+    },
+    {
+      "slug": "associations-reconnues-d-utilite-publique-et-fondations",
+      "titre": "Associations reconnues d'utilité publique et fondations"
+    }
+  ]
+}

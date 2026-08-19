@@ -1,0 +1,46 @@
+{
+  "id": "F31528",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Un agent public contractuel peut-il changer d'employeur ?",
+  "theme": "Travail - Formation",
+  "description": "Vous êtes contractuel dans la fonction publique et vous envisagez de changer d'emploi ? Nous vous présentons vos possibilités de mobilité selon que vous êtes en CDI ou en CDD.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2024-01-18",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31528",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Mobilité dans la fonction publique",
+    "Un agent public contractuel peut-il changer d'employeur ?"
+  ],
+  "introduction": "Vous êtes contractuel dans la fonction publique et vous envisagez de changer d'emploi ? Nous vous présentons vos possibilités de mobilité selon que vous êtes en CDI ou en CDD.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Décret n°86-83 du 17 janvier 1986 relatif aux agents contractuels de la FPE",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000699956/"
+    },
+    {
+      "titre": "Décret n°88-145 du 15 février 1988 relatif aux agents non titulaires de la FPT",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000871608"
+    },
+    {
+      "titre": "Décret n°91-155 du 6 février 1991 relatif aux agents contractuels de la FPH",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000343794"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "un-agent-public-contractuel-peut-il-changer-d-employeur",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "mobilite-dans-la-fonction-publique",
+      "titre": "Mobilité dans la fonction publique"
+    }
+  ]
+}

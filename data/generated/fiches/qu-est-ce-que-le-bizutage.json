@@ -1,0 +1,93 @@
+{
+  "id": "F2275",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Qu'est-ce que le bizutage ?",
+  "theme": "Famille - Scolarité",
+  "description": "Le bizutage est un délit puni de 6 mois d'emprisonnement et de 7 500 euros d'amende, que la victime soit consentante ou non.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2024-12-17",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2275",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Inscription dans l'enseignement supérieur",
+    "Qu'est-ce que le bizutage ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "Comment reconnaître une situation de bizutage ?",
+      "contenu": [
+        "Si une personne vous amène à subir ou à commettre des actes humiliants ou dégradants, vous êtes alors victime de bizutage.",
+        "C'est le cas, par exemple, si une personne vous fait consommer de l'alcool de façon excessive même si vous êtes consentant.",
+        "Les faits doivent avoir lieu pendant une manifestation ou une réunion liée au milieu scolaire, sportif ou socio-éducatif.",
+        "Vous pouvez donc être victime ou coupable de bizutage si vous êtes élèves ou étudiants des écoles et des établissements du premier, du second degré, de l'enseignement supérieur et de l'enseignement spécialisé.",
+        "Vous êtes aussi concerné si vous participez à une activité d'enseignement, sportive ou socio-éducative dans un organisme public ou privé.",
+        "Les personnes morales (club sportif par exemple) peuvent également voir leur responsabilité engagée."
+      ]
+    },
+    {
+      "titre": "Comment agir face à une situation de bizutage ?",
+      "contenu": [
+        "La situation diffère selon que vous êtes victime ou témoin de bizutage.",
+        "Victime",
+        "Poursuite judiciaire",
+        "Vous devez porter plainte au commissariat ou à la gendarmerie de votre choix.",
+        "Vous pouvez aussi vous constituer partie civile.",
+        "Si vous êtes mineur, vous devez vous faire accompagner par votre représentant légal (parent, tuteur, administrateur ad hoc...) pour déposer plainte et vous constituer partie civile.",
+        "[À savoir] Vous avez 6 ans, après les faits, pour déposer plainte.",
+        "Poursuite disciplinaire",
+        "Vous devez également informer sans délai l'autorité administrative de l'établissement.",
+        "Les responsables de l'établissement devront saisir le procureur de la République et engager des poursuites disciplinaires contre les auteurs et les personnels qui ont contribué au bizutage.",
+        "Accompagnement de la victime",
+        "Vous pouvez prévenir une personne de votre établissement. Vous pouvez, par exemple, alerter un professeur, un surveillant.",
+        "Vous pouvez aussi en parler à vos parents ou à une personne de votre famille.",
+        "Vous pouvez également vous rapprocher d'une association spécialisée dans l'aide aux victimes de bizutage. Vous y obtiendrez des conseils et du soutien pour faire face à la situation.",
+        "Vous pouvez notamment contacter le comité national contre le bizutage.",
+        "Témoin",
+        "Vous devez prévenir une personne de votre établissement. Vous pouvez, par exemple, alerter le chef d'établissement, un professeur, un surveillant.",
+        "Vous pouvez aussi vous rapprocher d'une association spécialisée dans l'aide aux victimes de bizutage. Vous y obtiendrez des conseils et du soutien pour faire face à la situation.",
+        "Vous pouvez notamment contacter le comité national contre le bizutage."
+      ]
+    },
+    {
+      "titre": "Quelles sanctions pénales risque l'auteur de bizutage ?",
+      "contenu": [
+        "Le bizutage est un délit. Il est puni de 6 mois d'emprisonnement et de 7 500 € d'amende. Ces peines sont doublées si la victime est une personne vulnérable.",
+        "[À savoir] les actes de violences, de menaces ou d'atteintes sexuelles sont des infractions différentes du bizutage. Elles sont punies par des peines d'amende ou d'emprisonnement allant jusqu'à 10 ans.",
+        "La personne morale reconnue coupable risque une amende de 37 500 € et la fermeture des locaux qui ont servi au bizutage."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code pénal : articles 225-16-1 à 225-16-3",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006165305"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "116 006 - Numéro d'aide aux victimes"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Organiser un évènement festif : prévention des risques",
+      "url": "https://www.etudiant.gouv.fr/fr/soirees-etudiantes-1684"
+    },
+    {
+      "titre": "Intégration des nouveaux étudiants : risques de dérives",
+      "url": "https://www.enseignementsup-recherche.gouv.fr/fr/les-evenements-festifs-et-d-integration-etudiants-87019"
+    }
+  ],
+  "slug": "qu-est-ce-que-le-bizutage",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "inscription-dans-l-enseignement-superieur",
+      "titre": "Inscription dans l'enseignement supérieur"
+    }
+  ]
+}

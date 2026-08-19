@@ -1,0 +1,107 @@
+{
+  "id": "F1358",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Voyage à l'étranger : pour quel pays un Français doit-il demander un visa ?",
+  "theme": "Étranger - Europe",
+  "description": "Le visa est un document attestant que vous êtes autorisé à vous rendre dans un pays étranger. Pour voyager en Europe ou en Suisse, aucun visa n'est exigé.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-11-19",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1358",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Voyager à l'étranger",
+    "Voyage à l'étranger : pour quel pays un Français doit-il demander un visa ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Pour voyager en Europe, dans l'Espace économique européen (EEE) et en Suisse, aucun visa n'est exigé (que vous soyez majeur ou mineur).",
+        "Par contre, pour voyager dans la plupart des autres pays étrangers, vous avez besoin d'un visa de court séjour (que vous soyez majeur ou mineur). Et vous devez présenter un passeport en cours de validité.",
+        "[Attention] Certains pays exigent que votre passeport soit encore valide plusieurs mois après la date prévue de retour en France.",
+        "Le visa est un document qui atteste que vous êtes autorisé à vous rendre dans un pays étranger pour un temps déterminé.",
+        "Il est délivré par les autorités compétentes du pays.",
+        "Il peut être soit gratuit, soit payant.",
+        "La durée de validité du visa est indiquée sur le visa lui-même. Elle varie selon la législation du pays d'accueil et la durée demandée. En général, la durée va de quelques jours à 3 mois.",
+        "Pour savoir si votre pays de destination exige un visa, vous pouvez consulter la fiche du pays concerné du site du ministère des affaires étrangères :",
+        "• Afrique du Sud",
+        "• Arabie Saoudite",
+        "• Argentine",
+        "• Australie",
+        "• Bangladesh",
+        "• Bénin",
+        "• Birmanie",
+        "• Brésil",
+        "• Burkina Faso",
+        "• Cambodge",
+        "• Canada",
+        "• Chili",
+        "• Chine",
+        "• Colombie",
+        "• Corée du Sud",
+        "• Costa Rica",
+        "• Côte d’Ivoire",
+        "• Cuba",
+        "• Égypte",
+        "• États-Unis",
+        "• Gabon",
+        "• Guinée",
+        "• Indonésie",
+        "• Israël",
+        "• Japon",
+        "• Lettonie",
+        "• Maroc",
+        "• Maurice",
+        "• Mexique",
+        "• Moldavie",
+        "• Nouvelle-Zélande",
+        "• Ouzbékistan",
+        "• Philippines",
+        "• Royaume-Uni",
+        "• Sénégal",
+        "• Singapour",
+        "• Sri Lanka",
+        "• Thaïlande",
+        "• Togo",
+        "• Tunisie",
+        "• Turquie",
+        "• Uruguay",
+        "• Venezuela",
+        "Si vous partez dans un autre pays, vous devez vous renseigner auprès du consulat ou de l'ambassade du pays concerné en France.",
+        "Ambassade ou consulat étranger en France"
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [
+    {
+      "titre": "Calculer la durée maximale autorisée de courts séjours dans les pays Schengen",
+      "url": "https://ec.europa.eu/assets/home/visa-calculator/calculator.htm?lang=fr",
+      "type": "Simulateur"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Conseils aux voyageurs",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs"
+    },
+    {
+      "titre": "Visa vacances-travail",
+      "url": "https://www.diplomatie.gouv.fr/fr/services-aux-francaises-et-aux-francais/preparer-son-expatriation/programme-vacances-travail-pvt"
+    }
+  ],
+  "slug": "voyage-a-l-etranger-pour-quel-pays-un-francais-doit-il-demander-un-visa",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "voyager-a-l-etranger",
+      "titre": "Voyager à l'étranger"
+    }
+  ]
+}

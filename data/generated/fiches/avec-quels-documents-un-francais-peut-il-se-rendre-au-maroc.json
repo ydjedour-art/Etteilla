@@ -1,0 +1,55 @@
+{
+  "id": "F14873",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Avec quels documents un Français peut-il se rendre au Maroc ?",
+  "theme": "Étranger - Europe",
+  "description": "En tant que Français, pour tout séjour au Maroc, inférieur à 90 jours, vous n'avez pas besoin de visa. Cependant, un passeport valide est obligatoire.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2024-12-03",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F14873",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Voyager à l'étranger",
+    "Avec quels documents un Français peut-il se rendre au Maroc ?"
+  ],
+  "introduction": "Vous souhaitez séjourner au Maroc pour les vacances ou pour un voyage d'affaires et vous voulez connaître les documents nécessaires pour entrer dans le pays ? Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les conditions d'entrée au Maroc sont différentes si vous êtes français ou si vous avez la double nationalité franco-marocaine.",
+        "Si vous voyagez avec votre enfant ou s'il voyage seul, des documents supplémentaires vous seront demandés.",
+        "De plus, des règles sont à suivre si vous vous rendez au Maroc avec un véhicule."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [
+    {
+      "titre": "Ariane : pour être alerté en cas de crise lors d'un voyage à l'étranger",
+      "url": "https://fildariane.diplomatie.gouv.fr/fildariane-internet/accueil",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "Ambassade ou consulat du Maroc en France"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Conditions d'entrée et de séjour au Maroc",
+      "url": "http://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays/maroc/#entree"
+    }
+  ],
+  "slug": "avec-quels-documents-un-francais-peut-il-se-rendre-au-maroc",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "voyager-a-l-etranger",
+      "titre": "Voyager à l'étranger"
+    }
+  ]
+}

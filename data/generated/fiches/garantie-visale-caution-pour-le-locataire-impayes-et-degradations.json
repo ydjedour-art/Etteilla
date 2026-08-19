@@ -1,0 +1,101 @@
+{
+  "id": "F33453",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Garantie Visale : caution pour le locataire (impayés et dégradations)",
+  "theme": "Logement",
+  "description": "Un locataire peut avoir comme caution Action Logement, sous certains conditions. Pour cela, le locataire doit demander la garantie Visale à Action Logement.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-01-23",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33453",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Aide pour le dépôt de garantie ou la caution d'un logement en location",
+    "Garantie Visale : caution pour le locataire (impayés et dégradations)"
+  ],
+  "introduction": "Qu'est-ce que la garantie Visale ? C'est une caution locative gratuite, qu'Action Logement accorde pour certains logements mis en location en métropole, dans les Drom ou à Saint-Martin (Com). Pour cela, le locataire doit obtenir le visa d'Action Logement et le bailleur doit accepter l'acte de cautionnement. En cas de dégradations locatives ou de loyers impayés, Action logement verse d'abord au bailleur le montant dû, et se fait ensuite rembourser par le locataire. Nous vous expliquons.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les règles sont différentes selon la localisation du logement à louer :"
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [
+    {
+      "titre": "Connaître le loyer maximum admis pour obtenir la garantie Visale",
+      "url": "https://fo.visale.fr/?_gl=1*u1tyb0*_up*MQ..*_ga*ODg4MTg2OTMuMTc2ODQwMDM2MA..*_ga_LRSSBLK7HS*czE3Njg0MDAzNTYkbzEkZzAkdDE3Njg0MDAzNzQkajQyJGwwJGg5MDU5NTE3NTM.#/fr/public/simulateur",
+      "type": "Simulateur"
+    },
+    {
+      "titre": "Tester son éligibilité à la garantie Visale (locataire ou bailleur)",
+      "url": "https://site.actionlogement.fr/eligibilite-visale/",
+      "type": "Simulateur"
+    },
+    {
+      "titre": "Locataire : accéder à son espace personnel sur Visale.fr",
+      "url": "https://fo.visale.fr/?#/fr/login/locataire",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Bailleur : accéder à son espace personnel sur Visale.fr",
+      "url": "https://fo.visale.fr/?#/fr/login/bailleur",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "Action Logement",
+    "SOS loyers impayés"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "FAQ Visale pour le locataire",
+      "url": "https://www.visale.fr/vos-questions/faq-locataires/"
+    },
+    {
+      "titre": "FAQ Visale pour le bailleur",
+      "url": "https://www.visale.fr/vos-questions/faq-bailleurs/"
+    },
+    {
+      "titre": "Garantie Visale : ma demande de visa",
+      "url": "https://www.visale.fr/vos-questions/faq-locataires/ma-demande-de-visa/?_gl=1*hoamhj*_up*MQ..*_ga*OTk5OTI2MDUuMTc2ODMyMDMxOA..*_ga_LRSSBLK7HS*czE3NjgzMjAzMTckbzEkZzAkdDE3NjgzMjAzNTIkajI1JGwwJGgxMDcwNDAxOTcw"
+    },
+    {
+      "titre": "Demande de garantie Visale : justificatifs du locataire",
+      "url": "https://www.visale.fr/wp-content/uploads/2024/08/justificatifs-de-certification-novembre-2025.pdf?_gl=1*w56d29*_up*MQ..*_ga*ODI1MjQyNzYuMTc2ODMyMDM5Mw..*_ga_LRSSBLK7HS*czE3NjgzMjAzOTIkbzEkZzAkdDE3NjgzMjA0MTUkajM3JGwwJGg5NTQzMTczNjA."
+    },
+    {
+      "titre": "Demande de garantie Visale : justificatifs du locataire travailleur indépendant",
+      "url": "https://www.visale.fr/wp-content/uploads/2024/06/justificatifs-trav-independants-prof-liberale.pdf"
+    },
+    {
+      "titre": "Garantie Visale : délais de déclaration du bailleur",
+      "url": "https://www.visale.fr/wp-content/uploads/2022/02/Fiche-Delais-de-Declaration-Bailleur.pdf?_gl=1*ihog2*_up*MQ..*_ga*MTIyNDE0NTU4Ni4xNzY4MzIwODE3*_ga_LRSSBLK7HS*czE3NjgzMjA4MTckbzEkZzAkdDE3NjgzMjE2NTUkajYkbDAkaDEzMTk5OTI5MTU."
+    },
+    {
+      "titre": "Garantie Visale : guide du bailleur",
+      "url": "https://www.visale.fr/wp-content/uploads/2025/03/Guide-Visale-bailleurs.pdf?_gl=1*79xg59*_up*MQ..*_ga*MTM5MjM5MzkzMi4xNzY4MzIxNzYw*_ga_LRSSBLK7HS*czE3NjgzMjE3NjAkbzEkZzAkdDE3NjgzMjE4MTgkajIkbDAkaDM4NjQ1MDM1MQ.."
+    },
+    {
+      "titre": "Location intergénérationnelle solidaire : le réseau Cohabilis",
+      "url": "https://www.cohabilis.org/"
+    },
+    {
+      "titre": "Réponse ministérielle du 5 février 2026 sur l’âge du demandeur de la garantie Visale",
+      "url": "https://www.senat.fr/basile/visio.do?id=qSEQ241000572"
+    }
+  ],
+  "slug": "garantie-visale-caution-pour-le-locataire-impayes-et-degradations",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "aide-pour-le-depot-de-garantie-ou-la-caution-d-un-logement-en-location",
+      "titre": "Aide pour le dépôt de garantie ou la caution d'un logement en location"
+    }
+  ]
+}

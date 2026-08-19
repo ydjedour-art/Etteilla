@@ -1,0 +1,93 @@
+{
+  "id": "F37925",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Faut-il une autorisation d'urbanisme pour construire un balcon ?",
+  "theme": "Logement",
+  "description": "Une autorisation d'urbanisme est nécessaire pour construire un balcon, car cela crée de l'emprise au sol et/ou modifie l'aspect extérieur du bâtiment.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2024-09-06",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F37925",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Autorisations d'urbanisme",
+    "Faut-il une autorisation d'urbanisme pour construire un balcon ?"
+  ],
+  "introduction": "Oui, une autorisation d'urbanisme est nécessaire pour construire un balcon.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "En fonction de la surface de votre balcon et de la zone où se situe votre projet (zone urbaine d'un plan local d'urbanisme PLU ou sites protégés), vous avez une déclaration préalable de travaux (DP) ou un permis de construire (PC) à déposer. Pour savoir dans quelle zone est votre construction, adressez vous à votre mairie :",
+        "Mairie"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'urbanisme : articles L421-1 à L421-9",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006158675/"
+    },
+    {
+      "titre": "Code de l'urbanisme : article R421-11",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034355402"
+    },
+    {
+      "titre": "Code de l'urbanisme : article R*421-14",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031764577"
+    },
+    {
+      "titre": "Code de l'urbanisme : article R*421-17",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034355355"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Assistance pour votre demande d'autorisation d'urbanisme",
+      "url": "https://demarches.service-public.gouv.fr/mademarche/DAUA/demarche",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Bureau accueil et service à l'usager (Basu) de Paris : guichet électronique unique",
+      "url": "https://teleservices.paris.fr/demarchesurbanisme/jsp/site/Portal.jsp?page=accueil",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Déclaration préalable constructions et travaux non soumis à permis de construire",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_16702.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Demande de permis de construire pour une maison individuelle et/ou ses annexes (PCMI)",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_13406.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Demande de permis de construire (autre que portant sur une maison individuelle ou ses annexes)",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_13409.do",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Mairie",
+    "Paris : Bureau accueil et service à l'usager (Basu)",
+    "Conseil d'architecture, d'urbanisme et d'environnement (CAUE)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Abécédaire du particulier : balcon",
+      "url": "https://www.caue93.fr/conseil-architectural-gratuit/abecedaire-du-particulier/balcon"
+    }
+  ],
+  "slug": "faut-il-une-autorisation-d-urbanisme-pour-construire-un-balcon",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "autorisations-d-urbanisme",
+      "titre": "Autorisations d'urbanisme"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "F1709",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Peut-on obtenir un passeport gratuitement ?",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Vous pouvez obtenir un passeport gratuitement si vous répondez à certaines conditions (personne indigente, modification ou erreur sur le passeport).",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-04-10",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1709",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Passeport",
+    "Peut-on obtenir un passeport gratuitement ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Oui, dans quelques cas, vous pouvez obtenir ou remplacer un passeport sans avoir à fournir de timbre fiscal.",
+        "Modification du passeport",
+        "Changement de nom ou prénom",
+        "Si vous avez changé de nom de famille, de nom d'usage ou de prénom, vous pouvez demander un nouveau passeport.",
+        "Les formalités sont les mêmes que pour un renouvellement de passeport pour un mineur ou de passeport pour un majeur, mais vous n'avez pas à joindre un timbre fiscal.",
+        "Il faudra fournir la preuve du changement de nom, de prénom ou de nom d'usage.",
+        "[Attention] La limite de validité du nouveau passeport sera identique à l'ancien.",
+        "Erreur matérielle",
+        "Si l'administration a commis une erreur dans la fabrication du passeport, vous pouvez demander un nouveau passeport.",
+        "Les formalités sont les mêmes que pour un renouvellement de passeport pour un mineur ou de passeport pour un majeur, mais vous n'avez pas à joindre un timbre fiscal.",
+        "[Attention] La limite de validité du nouveau passeport sera identique à l'ancien.",
+        "Passeport totalement rempli",
+        "Si votre passeport ne comporte plus de pages vierges pour les visas, vous pouvez demander un nouveau passeport.",
+        "Les formalités sont les mêmes que pour un renouvellement de passeport pour un mineur ou de passeport pour un majeur, mais vous n'avez pas à joindre un timbre fiscal.",
+        "[Attention] La limite de validité du nouveau passeport sera identique à l'ancien.",
+        "Demandeur indigent",
+        "Une personne indigente peut demander gratuitement un premier passeport ou le renouvellement d'un ancien passeport.",
+        "La notion d'indigence se fait au cas par cas par les services préfectoraux. Il peut s'agir par exemple des seuils de pauvreté de l'Insee ou la perception des minimas sociaux."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général des impôts : articles 953 à 955",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006179981/"
+    },
+    {
+      "titre": "Décret n°2005-1726 du 30 décembre 2005 relatif au passeport : article 5 - Pièces à fournir pour une première demande",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000033333825"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Mairie délivrant des passeports"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "peut-on-obtenir-un-passeport-gratuitement",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "passeport",
+      "titre": "Passeport"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "id": "F34982",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Plan d'épargne retraite (PER)",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Le plan d'épargne retraite (PER) est un produit créé par la loi Pacte. Il sert à économiser pour obtenir à la retraite un capital ou une rente.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-06-18",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34982",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Épargne salariale, participation et intéressement",
+    "Plan d'épargne retraite (PER)"
+  ],
+  "introduction": "Le PER est un produit d'épargne retraite disponible depuis le 1er octobre 2019. Il remplace progressivement les autres plans d'épargne retraite. Le PER se décline sous 3 formes : un PER individuel et deux PER d'entreprise. Le PER individuel succède au Perp et au contrat Madelin. Le PER d'entreprise collectif (aussi appelé Pereco ou Perecol) succède au Perco. Le PER d'entreprise obligatoire succède au contrat article 83. Vous pouvez transférer l'épargne des anciens plans déjà ouverts sur votre nouveau PER.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code monétaire et financier : article L224-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038507575"
+    },
+    {
+      "titre": "Code monétaire et financier : articles L224-2 à L224-3",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000038507582"
+    },
+    {
+      "titre": "Code monétaire et financier : articles L224-4 à L224-6",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000038507607"
+    },
+    {
+      "titre": "Code monétaire et financier : article L224-7",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000038507650"
+    },
+    {
+      "titre": "Code monétaire et financier : articles L224-9 à L224-12",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000038818243"
+    },
+    {
+      "titre": "Code monétaire et financier : articles L224-13 à L224-16",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000038818293"
+    },
+    {
+      "titre": "Code monétaire et financier : articles L224-17 à L224-19",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000038818314"
+    },
+    {
+      "titre": "Code monétaire et financier : article L224-20",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000038818328"
+    },
+    {
+      "titre": "Code monétaire et financier : articles L224-21 à L224-22",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000038818334"
+    },
+    {
+      "titre": "Code monétaire et financier : article L224-23",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000038818381"
+    },
+    {
+      "titre": "Code monétaire et financier : article L224-24",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000038818387"
+    },
+    {
+      "titre": "Code monétaire et financier : article L224-25",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000038818510"
+    },
+    {
+      "titre": "Code monétaire et financier : article L224-26",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000038818516"
+    },
+    {
+      "titre": "Code monétaire et financier : articles L224-13 à L224-16",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000038818622"
+    },
+    {
+      "titre": "Code monétaire et financier : articles L224-28 à L224-30",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000038818630"
+    },
+    {
+      "titre": "Code monétaire et financier : articles L224-31 à L224-32",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000038818633"
+    },
+    {
+      "titre": "Code monétaire et financier : articles L224-13 à L224-16",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000038818777"
+    },
+    {
+      "titre": "Code monétaire et financier : articles L224-35 à L224-39",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000038818789"
+    },
+    {
+      "titre": "Code monétaire et financier : article L 224-40",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000038818819"
+    },
+    {
+      "titre": "Code général des impôts : article 163 quatervicies",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038836248/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Épargner dans un PERP",
+      "url": "https://www.inc-conso.fr/content/epargner-dans-un-plan-depargne-retraite-populaire-perp"
+    },
+    {
+      "titre": "PER assurance et contrats de retraite supplémentaire",
+      "url": "https://www.abe-infoservice.fr/page-sommaire/assurance-et-contrats-de-retraite-supplementaire"
+    },
+    {
+      "titre": "Brochure pratique 2026 - Déclaration des revenus de 2025",
+      "url": "https://www.impots.gouv.fr/www2/fichiers/documentation/brochure/ir_2026/accueil.htm"
+    }
+  ],
+  "slug": "plan-d-epargne-retraite-per",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "epargne-salariale-participation-et-interessement",
+      "titre": "Épargne salariale, participation et intéressement"
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "id": "F2424",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Paiement par carte bancaire",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Le montant des achats par carte est plafonné et un commerçant peut refuser le paiement par carte bancaire ou accepter certaines cartes seulement.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-08-04",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2424",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Moyens de paiement",
+    "Paiement par carte bancaire"
+  ],
+  "introduction": "Vous voulez régler vos achats par carte bancaire ? Vous pouvez le faire à distance (par internet, téléphone et correspondance) ou chez un commerçant qui l'autorise. Utilisation de la carte, plafond, contestation d'un paiement : voici les informations à connaître sur le paiement par carte bancaire.",
+  "chapitres": [
+    {
+      "titre": "Le montant des achats par carte bancaire est-il limité ?",
+      "contenu": [
+        "Oui, le montant de vos achats par carte est plafonné.",
+        "Ce montant maximum est fixé entre vous et votre banque. Il est indiqué dans votre convention de compte.",
+        "Le plus souvent, les plafonds s'étalent sur une période de 7 ou de 30 jours pour les retraits et pour les paiements.",
+        "Vous pouvez demander à votre banque d'augmenter, de manière provisoire, le plafond de paiement. Pour cela, vous pouvez utiliser un modèle de document :",
+        "Demander le relèvement exceptionnel du plafond de paiement de sa carte bancaire"
+      ]
+    },
+    {
+      "titre": "À quel moment le paiement par carte bancaire est-il débité sur le compte ?",
+      "contenu": [
+        "Selon le type de carte bancaire, le solde de votre compte peut être débité immédiatement ou en différé.",
+        "Carte à débit immédiat",
+        "Le solde de votre compte est débité immédiatement après votre paiement par carte bancaire.",
+        "[À noter] Si vous avez une carte de paiement à autorisation systématique, le solde du compte est vérifié à chaque opération. Le paiement par carte bancaire est autorisée uniquement si le solde du compte est suffisant.",
+        "Carte à débit différé",
+        "Votre compte est débité de l’ensemble des paiements réglés par carte bancaire à une date fixe mensuelle. Selon les banques, la date du débit du compte est fixée aux derniers ou aux premiers jours du mois."
+      ]
+    },
+    {
+      "titre": "Un commerçant peut-il refuser le paiement par carte bancaire ?",
+      "contenu": [
+        "Oui, un commerçant peut refuser le paiement par carte bancaire ou accepter certaines cartes seulement.",
+        "Le commerçant peut vous demander de présenter une pièce d'identité.",
+        "Il peut également exiger un montant minimum d'achat pour accepter le paiement par carte bancaire.",
+        "Ces exigences doivent être affichées dans son magasin.",
+        "Si un commerçant refuse illégalement un paiement par carte, vous pouvez le signaler auprès de la Direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF).",
+        "Direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF)",
+        "Si vous souhaitez signaler une difficulté rencontrée avec un commerçant",
+        "Sur internet",
+        "Vous pouvez utiliser le site Signal Conso.",
+        "La DGCCRF et le commerçant concerné seront informés de votre démarche.",
+        "Par téléphone",
+        "0809 540 550",
+        "Numéro non surtaxé",
+        "Heures d'ouverture :",
+        "• Lundi et mardi : de 8h30 à 12h30 et de 13h15 à 17h15",
+        "• Mercredi : de 13h15 à 17h15",
+        "• Jeudi : de 8h30 à 12h30",
+        "• Vendredi : de 8h30 à 16h",
+        "Par courrier",
+        "DGCCRF - RéponseConso - BP 60 - 34935 Montpellier Cedex 9"
+      ]
+    },
+    {
+      "titre": "Comment payer par carte bancaire chez un commerçant ?",
+      "contenu": [
+        "Pour payer, vous devez d'abord insérer votre carte dans un boîtier spécial appelé terminal de paiement électronique (TPE). Vous devez ensuite composer votre code confidentiel.",
+        "En cas d'achat supérieur à 1 500 €, le commerçant vous demande de signer le ticket de caisse ou la facturette.",
+        "L'autorisation préalable de votre banque peut être nécessaire pour valider l'ordre de paiement.",
+        "Vous pouvez aussi faire un paiement sans contact.",
+        "Le paiement sans contact vous permet de réaliser un achat en approchant votre carte bancaire à moins de 4 centimètres d'un boîtier spécial appelé terminal de paiement électronique (TPE).",
+        "L'ordre de paiement est donc donné sans composition de code secret, sans signature et sans présentation de pièce d'identité.",
+        "Pour des raisons de sécurité, le montant maximum d'un paiement sans contact est limité à 50 € par opération.",
+        "Votre banque fixe un plafond au montant cumulé des achats \"sans contact\" autorisés (par jour, par semaine ou par mois).",
+        "Le nombre maximum de transactions consécutives autorisées est également limité.",
+        "Lorsqu'un plafond est dépassé, vous devez utiliser un autre moyen de paiement ou payer en insérant votre carte bancaire dans le TPE."
+      ]
+    },
+    {
+      "titre": "Comment payer par carte bancaire à distance ?",
+      "contenu": [
+        "Achat par téléphone ou par internet",
+        "Pour faire votre achat, vous devez indiquer les informations suivantes :",
+        "• Numéro à 16 chiffres de la carte",
+        "• Date d'échéance de la carte",
+        "• Numéro de sécurité (3 derniers chiffres figurant au dos de votre carte ou 4 chiffres figurant devant).",
+        "Selon l'offre de carte bancaire choisie, il peut être possible de payer sur des sites étrangers en monnaie étrangère.",
+        "Vous devez être vigilant. La page où s'effectue le paiement doit avoir une adresse commençant par https://. Une telle adresse garantit que la connexion est sécurisée.",
+        "En cas de paiement sur un site frauduleux, il est possible de faire opposition.",
+        "Les banques peuvent également délivrer des cartes destinées uniquement aux paiements par internet. Elles utilisent d'autres donnés que la carte bancaire classique.",
+        "[À savoir] Pour sécuriser le paiement, vous devez vous authentifier. Pour cela, une notification vous est généralement envoyée sur l’application mobile de votre banque. Cette notification vous invite à saisir soit un code secret, soit une empreinte biométrique. Si vous n'avez pas de smartphone, nous vous invitons à vous rapprocher de votre conseiller bancaire pour trouver une solution.",
+        "Achat par correspondance",
+        "En cas d'achat par correspondance, vous donnez l'ordre de paiement en renvoyant un bon de commande avec votre signature.",
+        "Vous devez également indiquer le numéro à 16 chiffres de la carte et sa date d'échéance."
+      ]
+    },
+    {
+      "titre": "Comment payer par carte bancaire à l'étranger ?",
+      "contenu": [
+        "La carte bancaire peut être utilisée pour payer à l'étranger. Pour cela, vous devez avoir une carte internationale.",
+        "Dans les pays suivants, les frais bancaires prélevés pour les paiements par carte bancaire sont identiques à ceux payés en France :",
+        "• Allemagne",
+        "• Autriche",
+        "• Belgique",
+        "• Chypre (sauf au nord de l'île, sur le territoire sous occupation militaire turque)",
+        "• Espagne",
+        "• Estonie",
+        "• Finlande",
+        "• Grèce",
+        "• Irlande",
+        "• Italie (sauf dans l'enclave de Campione en Suisse)",
+        "• Lettonie",
+        "• Lituanie",
+        "• Luxembourg",
+        "• Malte,",
+        "• Pays-Bas (sauf dans les îles correspondant aux anciennes Antilles néerlandaises)",
+        "• Portugal",
+        "• Slovaquie",
+        "• Slovénie.",
+        "Les frais des paiements transfrontaliers sont les mêmes que pour les paiements nationaux.",
+        "Dans tous les autres pays, une opération de change est réalisée et une commission est appliquée. Le taux de change et la commission doivent être indiqués sur votre relevé de compte. Le taux de change pris en compte est celui du jour de l'échange d'information entre les établissements bancaires.",
+        "[Attention] Les plafonds de la carte peuvent être différents à l'étranger. Il est préférable de vous renseigner auprès de votre banque avant votre départ."
+      ]
+    },
+    {
+      "titre": "Comment contester un paiement par carte bancaire ?",
+      "contenu": [
+        "En consultant vos comptes, si vous constatez qu'un paiement suspect a été réalisé avec votre carte bancaire, vous devez d'abord faire opposition sur votre carte au plus vite.",
+        "Il est également conseillé de déclarer la fraude aux forces de l'ordre (police ou gendarmerie).",
+        "Vous devez ensuite contacter votre banque pour vous faire rembourser la somme concernée."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : articles 1358 à 1362",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032035939/"
+    },
+    {
+      "titre": "Code monétaire et financier : articles L133-6 à L133-8",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000020861629/"
+    },
+    {
+      "titre": "Code monétaire et financier : articles L133-15 à L133-17",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000020861605"
+    },
+    {
+      "titre": "Décret n°80-533 du 15 juillet 1980 pris pour l'application de l'article 1341 du code civil",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006063274/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demander le relèvement exceptionnel du plafond de paiement de sa carte bancaire",
+      "url": "https://www.inc-conso.fr/content/vous-demandez-le-relevement-exceptionnel-du-plafond-de-paiement-de-votre-carte-bancaire",
+      "type": "lettreTypeNG"
+    }
+  ],
+  "contacts": [
+    "Info Banque - Assurance"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Authentification forte",
+      "url": "https://www.abe-infoservice.fr/banque/moyens-de-paiement/quest-ce-que-lauthentification-forte"
+    },
+    {
+      "titre": "Paiement et retrait par carte bancaire",
+      "url": "https://www.inc-conso.fr/content/la-carte-bancaire"
+    },
+    {
+      "titre": "La carte bancaire",
+      "url": "https://www.inc-conso.fr/content/la-carte-bancaire"
+    },
+    {
+      "titre": "Utilisation d'une carte bancaire",
+      "url": "https://www.abe-infoservice.fr/banque/moyens-de-paiement/carte-bancaire/que-faut-il-savoir-sur-la-carte-bancaire"
+    },
+    {
+      "titre": "La fraude à la carte bancaire : quelles précautions prendre et comment réagir ?",
+      "url": "https://www.abe-infoservice.fr/banque/moyens-de-paiement/carte-bancaire/la-fraude-la-carte-bancaire-quelles-precautions-prendre-et-comment-reagir"
+    }
+  ],
+  "slug": "paiement-par-carte-bancaire",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "moyens-de-paiement",
+      "titre": "Moyens de paiement"
+    }
+  ]
+}

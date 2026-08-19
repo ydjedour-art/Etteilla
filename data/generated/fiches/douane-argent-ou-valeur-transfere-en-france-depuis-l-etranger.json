@@ -1,0 +1,33 @@
+{
+  "id": "F36501",
+  "type_publication": "Recherche guidée",
+  "titre": "[Douane : argent ou valeur transféré en France depuis l'étranger]",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "[Douane : argent ou valeur transféré en France depuis l'étranger]",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2022-07-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F36501",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Douane",
+    "[Douane : argent ou valeur transféré en France depuis l'étranger]"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "douane-argent-ou-valeur-transfere-en-france-depuis-l-etranger",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "douane",
+      "titre": "Douane"
+    }
+  ]
+}

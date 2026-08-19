@@ -1,0 +1,78 @@
+{
+  "id": "F34210",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Peut-on mettre en location un logement dans une zone d'habitat dégradé ou indigne ?",
+  "theme": "Logement",
+  "description": "Oui, mais le propriétaire doit soit faire une déclaration, soit obtenir une autorisation préalable de mise en location.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2024-11-05",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34210",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Bail d’habitation : obligations du propriétaire (bailleur)",
+    "Peut-on mettre en location un logement dans une zone d'habitat dégradé ou indigne ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Oui, mais il faut un permis de louer, c'est-à-dire qu'il faut soit faire une déclaration de mise en location, soit obtenir une autorisation préalable à la mise en location, auprès du maire ou du président de l'EPCI est compétent en matière d'habitat.",
+        "Le maire, ou le président de de l'EPCI compétent en matière d'habitat, peut définir des zones d'habitat dégradé sur son territoire. Pour savoir si un logement est situé dans une de ces zones, vous devez vous renseigner auprès de la mairie ou de l'EPCI compétent en matière d'habitat :",
+        "Mairie",
+        "[À savoir] Les logements conventionnés Anah et les logements sociaux sont soumis à d'autres règles."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la construction et de l'habitation : articles L634-1 à L634-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000028781457/"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : articles R634-1 à R634-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000033660999/"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : articles L635-1 à L635-11",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000028781374/"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : articles R635-1 à R635-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000033661009/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Déclaration de mise en location de logement",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_15651.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Demande d'autorisation préalable de mise en location de logement",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_15652.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Demande de transfert d'autorisation préalable de mise en location de logement",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_15663.do",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "peut-on-mettre-en-location-un-logement-dans-une-zone-d-habitat-degrade-ou-indigne",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "bail-d-habitation-obligations-du-proprietaire-bailleur",
+      "titre": "Bail d’habitation : obligations du propriétaire (bailleur)"
+    }
+  ]
+}

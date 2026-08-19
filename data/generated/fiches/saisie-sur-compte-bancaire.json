@@ -1,0 +1,64 @@
+{
+  "id": "F1850",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Saisie sur compte bancaire",
+  "theme": "Justice",
+  "description": "En cas de dette impayée, un commissaire de justice peut faire une saisie sur un compte bancaire, sous certaines conditions.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1850",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Saisies et recouvrements",
+    "Saisie sur compte bancaire"
+  ],
+  "introduction": "Si vous devez de l'argent, vous êtes débiteur. Un commissaire de justice (anciennement huissier de justice et commissaire-priseur judiciaire) peut faire une saisie sur votre compte bancaire (ou plusieurs de vos comptes) pour rembourser en partie ou en totalité votre créancier. Cette saisie est appelée saisie-attribution. Nous vous expliquons.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code des procédures civiles d'exécution : articles L211-1 à L211-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000025024948/LEGISCTA000025025802/"
+    },
+    {
+      "titre": "Code des procédures civiles d'exécution : articles R211-1 à R211-3",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000025024948/LEGISCTA000025938468/"
+    },
+    {
+      "titre": "Code des procédures civiles de l'exécution : articles R211-6 à R211-9",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000025024948/LEGISCTA000025938483/"
+    },
+    {
+      "titre": "Code des procédures civiles de l'exécution : articles R211-10 à R211-13",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000025024948/LEGISCTA000025938493/"
+    },
+    {
+      "titre": "Code des procédures civiles d'exécution : articles R211-18 à R211-23",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000025024948/LEGISCTA000025938515/#LEGISCTA000025938515"
+    },
+    {
+      "titre": "Code des procédures civiles de l'exécution : articles L162-1 à L162-2",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000025024948/LEGISCTA000025025791/"
+    },
+    {
+      "titre": "Code des procédures civiles de l'exécution : articles R162-1 à R162-9",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000025024948/LEGISCTA000025938440"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Maison de justice et du droit"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "saisie-sur-compte-bancaire",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "saisies-et-recouvrements",
+      "titre": "Saisies et recouvrements"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "id": "F32303",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Peut-on voyager avec une carte d'identité de plus de 10 ans ?",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "En 2014, la durée de validité de la carte d'identité d'une personne majeure est passée de 10 à 15 ans si la carte était encore valide au 1er janvier 2014.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-03-28",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F32303",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Carte d'identité",
+    "Peut-on voyager avec une carte d'identité de plus de 10 ans ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "En 2014, la durée de validité de la carte d'identité d'une personne majeure est passée de 10 à 15 ans.",
+        "Concrètement, votre carte d'identité est prolongée automatiquement et reste valable 5 ans supplémentaires si vous remplissez les 2 conditions suivantes :",
+        "• Vous étiez majeur au moment de sa délivrance",
+        "• La carte était encore valide le 1er janvier 2014.",
+        "Nous vous présentons les règles en fonction de l'année de délivrance de la carte d'identité :",
+        "Condition de prolongation automatique",
+        "Date de délivrance",
+        "Date de validité",
+        "Condition liée à l'âge",
+        "Date inscrite sur la carte",
+        "Nouvelle date",
+        "2006",
+        "2016",
+        "2021",
+        "Être né en 1988 ou avant et être majeur lors de la délivrance de la carte",
+        "2007",
+        "2017",
+        "2022",
+        "Être né en 1989 ou avant et être majeur lors de la délivrance de la carte",
+        "2008",
+        "2018",
+        "2023",
+        "Être né en 1990 ou avant et être majeur lors de la délivrance de la carte",
+        "2009",
+        "2019",
+        "2024",
+        "Être né en 1991 ou avant et être majeur lors de la délivrance de la carte",
+        "2010",
+        "2020",
+        "2025",
+        "Être né en 1992 ou avant et être majeur lors de la délivrance de la carte",
+        "2011",
+        "2021",
+        "2026",
+        "Être né en 1993 ou avant et être majeur lors de la délivrance de la carte",
+        "2012",
+        "2022",
+        "2027",
+        "Être né en 1994 ou avant et être majeur lors de la délivrance de la carte",
+        "2013",
+        "2023",
+        "2028",
+        "Être né en 1995 ou avant et être majeur lors de la délivrance de la carte",
+        "Pour voyager à l'étranger, vous devez vérifier sur le site Conseils aux voyageurs (rubrique Entrée/Séjour) quel est le document d’identité exigé par le pays où vous vous rendez.",
+        "Si vous avez un passeport valide, il est préférable de l'utiliser.",
+        "Si vous n'avez pas de passeport, et que vous vous rendez dans un pays qui accepte la carte d'identité, vous pouvez demander son renouvellement anticipé en produisant un justificatif du voyage à venir.",
+        "Si le pays accepte que la date inscrite sur votre carte d'identité ne corresponde pas à sa date réelle d'expiration, vous pouvez présenter une fiche d'information traduite aux autorités étrangères.",
+        "[À savoir] Nous vous présentons la démarche à suivre pour le renouvellement d'une carte d'identité pour un majeur et celle à suivre pour un mineur."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Décret n°2013-1188 du 18 décembre 2013 : article 10 - Extension de la durée de la validité de la carte d'identité",
+      "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000028347112"
+    },
+    {
+      "titre": "Réponse ministérielle du 3 décembre 2019 relative au prolongement automatique de la carte d'identité",
+      "url": "http://questions.assemblee-nationale.fr/q15/15-11107QE.htm"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Connaître les documents exigés pour voyager en Europe",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/DocumentsVoyageEurope",
+      "type": "Simulateur"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Pays qui acceptent ou refusent une carte d'identité de plus de 10 ans",
+      "url": "https://www.diplomatie.gouv.fr/fr/services-aux-francais/documents-officiels-a-l-etranger/article/duree-de-validite-de-la-carte-nationale-d-identite-et-sejour-a-l-etranger"
+    },
+    {
+      "titre": "Fiches d'information (par pays) - Durée de validité de la carte d'identité",
+      "url": "https://www.interieur.gouv.fr/Archives/Archives-des-actualites/2014-Actualites/Duree-de-validite-de-la-CNI"
+    },
+    {
+      "titre": "Conseils aux voyageurs",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs"
+    }
+  ],
+  "slug": "peut-on-voyager-avec-une-carte-d-identite-de-plus-de-10-ans",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "carte-d-identite",
+      "titre": "Carte d'identité"
+    }
+  ]
+}

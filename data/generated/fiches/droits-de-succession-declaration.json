@@ -1,0 +1,247 @@
+{
+  "id": "F80",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Droits de succession - Déclaration",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Vous devez effectuer une déclaration de succession si vous héritez. Elle est à envoyer aux services fiscaux qui calculent si vous devez payer un impôt.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-01-29",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F80",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Droits de succession et de donation",
+    "Droits de succession - Déclaration"
+  ],
+  "introduction": "Si vous recevez un héritage, vous devez faire une déclaration de succession. Elle est à envoyer aux services fiscaux. Ils calculent si vous devez payer des impôts sur la succession. Vous pouvez être dispensé de déclaration dans certains cas. Nous vous indiquons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Qui doit faire une déclaration de succession ?",
+      "contenu": [
+        "Vous devez effectuer une déclaration de succession si vous héritez.",
+        "Toutefois, cette obligation diffère selon les éléments suivants :",
+        "• Montant de la succession",
+        "• Lien de parenté avec le défunt.",
+        "Si vous êtes plusieurs héritiers, vous êtes solidaires pour le paiement des droits de succession. Il suffit que l'un de vous fasse la déclaration.",
+        "[À noter] Les héritiers exonérés de droits de succession ne sont pas solidaires du paiement des droits. Mais ils ne sont pas dispensés de déclaration de succession.",
+        "Si vous êtes légataire ou donataire, vous n'êtes pas solidaire, ni avec les autres légataires (ou donataires), ni avec les héritiers.",
+        "En tant que légataire (ou donataire), vous devez remplir une déclaration.",
+        "[À savoir] Vous pouvez établir une déclaration unique pour la totalité de la succession. Elle doit être signée par toutes les personnes concernées."
+      ]
+    },
+    {
+      "titre": "Qui est dispensé de déclaration de succession ?",
+      "contenu": [
+        "Vous n'avez pas de déclaration à déposer si vous refusez la succession.",
+        "Par ailleurs, vous n'avez pas de déclaration de succession à déposer dans les situations suivantes, sous certaines conditions :",
+        "Vous êtes l'enfant ou le petit-enfant du défunt",
+        "Vous n'avez pas à faire de déclaration de succession si vous remplissez les 2 conditions suivantes :",
+        "• L'actif brut successoral est inférieur à 50 000 €",
+        "• Vous avez bénéficié uniquement de dons manuels ou de donations qui ont été déclarés ou enregistrés.",
+        "Vous n'avez pas de droits de succession à payer si vous n'avez pas de déclaration à déposer.",
+        "Pour prouver que vous êtes héritier, vous devez utiliser l'un des moyens suivants :",
+        "• Attestation signée par tous les héritiers si l'actif brut successoral est inférieur à 5 965 €",
+        "• Acte de notoriété si l'actif brut successoral dépasse 5 965 €.",
+        "Vous êtes le père ou la mère du défunt",
+        "Vous n'avez pas à faire de déclaration de succession si vous remplissez les 2 conditions suivantes :",
+        "• L'actif brut successoral est inférieur à 50 000 €",
+        "• Vous avez bénéficié uniquement de dons manuels ou de donations qui ont été déclarés ou enregistrés.",
+        "Vous n'avez pas de droits de succession à payer si vous n'avez pas de déclaration à déposer.",
+        "Pour prouver que vous êtes héritier, vous devez utiliser l'un des moyens suivants :",
+        "• Attestation signée par tous les héritiers si l'actif brut successoral est inférieur à 5 965 €",
+        "• Acte de notoriété si l'actif brut successoral dépasse 5 965 €.",
+        "Vous êtes l'épouse ou l'époux du défunt",
+        "Vous n'avez pas à faire de déclaration de succession si vous remplissez les 2 conditions suivantes :",
+        "• L'actif brut successoral est inférieur à 50 000 €",
+        "• Vous avez bénéficié uniquement de dons manuels ou de donations qui ont été déclarés ou enregistrés.",
+        "Vous n'avez pas de droits de succession à payer si vous n'avez pas de déclaration à déposer.",
+        "Pour prouver que vous êtes héritier, vous devez utiliser l'un des moyens suivants :",
+        "• Attestation signée par tous les héritiers si l'actif brut successoral est inférieur à 5 965 €",
+        "• Acte de notoriété si l'actif brut successoral dépasse 5 965 €.",
+        "Vous êtes le partenaire de Pacs du défunt",
+        "Vous n'avez pas à faire de déclaration de succession si vous remplissez les 2 conditions suivantes :",
+        "• L'actif brut successoral est inférieur à 50 000 €",
+        "• Vous avez bénéficié uniquement de dons manuels ou de donations qui ont été déclarés ou enregistrés.",
+        "Vous n'avez pas de droits de succession à payer si vous n'avez pas de déclaration à déposer.",
+        "[À savoir] Pour que votre partenaire puisse bénéficier de tout ou partie de votre succession, vous devez rédiger un testament.",
+        "Pour prouver que vous êtes héritier, vous devez utiliser l'un des moyens suivants :",
+        "• Attestation signée par tous les héritiers si l'actif brut successoral est inférieur à 5 965 €",
+        "• Acte de notoriété si l'actif brut successoral dépasse 5 965 €.",
+        "Vous êtes un autre bénéficiaire",
+        "Vous êtes dispensé de déclaration de succession si l'actif brut successoral est inférieur à 3 000 €.",
+        "Vous n'avez pas de droits de succession à payer si vous n'avez pas de déclaration à déposer.",
+        "Pour prouver que vous êtes héritier, vous devez présenter une attestation signée par tous les héritiers.",
+        "[À noter] Vous êtes aussi dispensé de déclaration si le défunt a été victime d'un acte de terrorisme (qu'il soit décédé de ce fait, ou de ses conséquences directes dans un délai de 3 ans)."
+      ]
+    },
+    {
+      "titre": "Comment faire la déclaration de succession ?",
+      "contenu": [
+        "Informations à fournir",
+        "La déclaration de succession doit notamment comporter les éléments suivants :",
+        "• Identité du ou des déclarants",
+        "• Renseignements relatifs au défunt (nom, prénoms, date et lieu de naissance, nationalité, domicile, date et le lieu du décès)",
+        "• Renseignements relatifs aux héritiers, donataires, légataires, selon la situation (identité, lien de parenté, part dans la succession, etc.)",
+        "• Détail des éventuelles dispositions testamentaires",
+        "• Dispositions d'un éventuel contrat de mariage",
+        "• Donations consenties par le défunt avant le décès",
+        "• Liste et estimation détaillée des biens de la succession, qu'ils soient imposables ou exonérés (actif)",
+        "• Liste des bijoux, pierreries, objets d'art ou de collection faisant l'objet d'un contrat d'assurance contre le vol ou l'incendie en cours au jour du décès",
+        "• Liste et montant des dettes du défunt (passif).",
+        "Formulaires",
+        "Vous devez effectuer la déclaration en utilisant les formulaires suivants :",
+        "Déclaration de succession",
+        "En général, le formulaire de déclaration de succession suffit.",
+        "Des formulaires complémentaires sont prévus dans des cas précis.",
+        "Vous pouvez consulter les notices détaillées.",
+        "Vous devez remplir chaque formulaire en 2 exemplaires (un original et une photocopie) et les signer.",
+        "Rôle du notaire",
+        "Vous pouvez demander à un notaire de remplir votre déclaration de succession.",
+        "Toutefois, vous restez responsable vis-à-vis de l'administration fiscale.",
+        "Le recours à un notaire est obligatoire pour régler certaines successions, en particulier dans les situations suivantes :",
+        "• Présence d'un bien immobilier",
+        "• Testament",
+        "• Donation au dernier vivant",
+        "• Donation antérieure",
+        "• Contrat de mariage",
+        "• Besoin d'un acte de notoriété."
+      ]
+    },
+    {
+      "titre": "Quand faut-il déposer la déclaration de succession ?",
+      "contenu": [
+        "Le délai dépend du lieu où la personne est décédée :",
+        "France métropolitaine",
+        "La déclaration doit être déposée dans les 6 mois, à compter du jour du décès.",
+        "Si le dernier jour est un dimanche ou un jour férié, le délai est prorogé au premier jour ouvrable suivant.",
+        "Les services fiscaux tolèrent jusqu’au dernier jour du mois.",
+        "[Exemple] Le décès est intervenu le 14 janvier 2025. La déclaration doit être déposée le 15 juillet 2025 au plus tard. Les services fiscaux tolèrent jusqu’au 31 juillet 2024.",
+        "Outre-mer",
+        "Le délai dépend du département d'outre-mer concerné :",
+        "Guadeloupe, Guyane, Martinique",
+        "La déclaration doit être déposée dans un délai qui dépend du lieu du décès.",
+        "Le délai est le suivant :",
+        "• 6 mois à compter du jour du décès si la personne est décédée dans le département où elle était domiciliée",
+        "• 1 an à compter du jour du décès dans les autres cas.",
+        "Renseignez-vous auprès du service des impôts.",
+        "Service fiscal en charge de l'enregistrement",
+        "Réunion",
+        "La déclaration doit être déposée dans un délai qui dépend du lieu du décès.",
+        "Le délai est le suivant :",
+        "• 6 mois à compter du jour du décès si la personne est décédée à la Réunion",
+        "• 1 an à compter du jour du décès si la personne est décédée à Madagascar, à l'île Maurice, en Europe ou en Afrique",
+        "• 2 ans à compter du jour du décès si la personne est décédée hors de la Réunion et ailleurs qu'à Madagascar, à l'île Maurice, en Europe ou en Afrique.",
+        "Renseignez-vous auprès du service des impôts.",
+        "Service fiscal en charge de l'enregistrement",
+        "Mayotte",
+        "La déclaration doit être déposée dans un délai qui dépend du lieu du décès.",
+        "Le délai est le suivant :",
+        "• 6 mois à compter du jour du décès si la personne est décédée à la Réunion",
+        "• 1 an à compter du jour du décès si la personne est décédée à Madagascar, aux Comores, en Europe ou en Afrique",
+        "• 2 ans à compter du jour du décès si la personne est décédée hors de la Réunion et ailleurs qu'à Madagascar, aux Comores, en Europe ou en Afrique.",
+        "Renseignez-vous auprès du service des impôts.",
+        "Service fiscal en charge de l'enregistrement",
+        "À l'étranger",
+        "La déclaration doit être déposée dans les 12 mois, à compter du jour du décès.",
+        "[Exemple] Le décès est intervenu le 14 janvier 2025. La déclaration doit être déposée le 14 janvier 2026 au plus tard. Les services fiscaux tolèrent jusqu’au 31 janvier 2026.",
+        "Vous devez régler les droits de succession en même temps que le dépôt de la déclaration."
+      ]
+    },
+    {
+      "titre": "Où faut-il déposer la déclaration de succession ?",
+      "contenu": [
+        "Le lieu dépend de l'endroit où la personne décédée résidait :",
+        "Le défunt résidait en France",
+        "Vous devez déposer la déclaration de succession au centre des finances publiques (pôle enregistrement) du domicile du défunt.",
+        "Service fiscal en charge de l'enregistrement",
+        "Le défunt résidait à l'étranger",
+        "Vous devez adresser la déclaration au service des impôts des particuliers non résidents.",
+        "Service des impôts des particuliers non résidents",
+        "Par téléphone",
+        "+33 (0) 1 72 95 20 42",
+        "Du lundi au vendredi de 9h à 16h",
+        "Par messagerie",
+        "Via votre messagerie sécurisée sur votre compte personnel",
+        "Par courrier",
+        "10 rue du Centre",
+        "TSA 10010",
+        "93465 Noisy-Le-Grand Cedex"
+      ]
+    },
+    {
+      "titre": "Quelles sont les conséquences en cas de dépôt tardif de la déclaration de succession ?",
+      "contenu": [
+        "Si vous déposez la déclaration en retard, vous risquez de devoir payer des pénalités.",
+        "L'administration fiscale applique les pénalités suivantes :",
+        "• Intérêt de retard de 0,20 % par mois (soit 2,4 % par an)",
+        "• Majoration (de 10 % à 80 %, selon la situation).",
+        "[À noter] En cas de déclaration hors délai, une majoration de 10 % est appliquée à partir du 13e mois, que la déclaration de succession soit à effectuer dans les 6 mois (décès en France), ou dans l’année (décès à l’étranger)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général des impôts : articles 641 à 645",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006199079/"
+    },
+    {
+      "titre": "Code général des impôts : article 656",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006199538/"
+    },
+    {
+      "titre": "Code général des impôts : articles 800 à 802",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006197329/"
+    },
+    {
+      "titre": "Décret n° 2023-1325 du 29 décembre 2023 relatif aux modalités de déclaration en matière d'enregistrement et à leurs conséquences sur la compétence du service national de l'enregistrement en matière de réclamation",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000048727818/"
+    },
+    {
+      "titre": "Bofip-impôts n°BOI-ENR-DMTG-10-60 relatif aux obligations déclaratives des bénéficiaires d'une succession",
+      "url": "http://bofip.impots.gouv.fr/bofip/3355-PGP.html"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Déclaration de succession",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/2705-sd/declaration-de-succession",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Droits de mutation à titre gratuit (successions et donations)",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/2740-sd/droits-de-mutation-titre-gratuit-successions-et-donations",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Service en charge des impôts (trésorerie, service des impôts...)",
+    "Service des impôts des particuliers non résidents",
+    "Service d'information des impôts",
+    "Notaire"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Déclarer une succession",
+      "url": "https://www.impots.gouv.fr/particulier/declarer-une-succesion"
+    },
+    {
+      "titre": "Comment calculer les droits de succession ?",
+      "url": "https://www.impots.gouv.fr/particulier/questions/comment-dois-je-calculer-les-droits-de-succession"
+    },
+    {
+      "titre": "Comment payer les droits de succession ?",
+      "url": "https://www.impots.gouv.fr/particulier/questions/comment-puis-je-payer-les-droits-de-succession"
+    }
+  ],
+  "slug": "droits-de-succession-declaration",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "droits-de-succession-et-de-donation",
+      "titre": "Droits de succession et de donation"
+    }
+  ]
+}

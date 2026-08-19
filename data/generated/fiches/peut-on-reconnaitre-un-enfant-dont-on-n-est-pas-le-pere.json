@@ -1,0 +1,77 @@
+{
+  "id": "F10428",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Peut-on reconnaître un enfant dont on n'est pas le père ?",
+  "theme": "Famille - Scolarité",
+  "description": "Vous pouvez reconnaître un enfant sans avoir à prouver de lien biologique entre vous et cet enfant. Cette filiation paternelle peut être contestée.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-08-05",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F10428",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Naissance et filiation",
+    "Peut-on reconnaître un enfant dont on n'est pas le père ?"
+  ],
+  "introduction": "Vous pouvez reconnaître un enfant sans avoir à prouver de lien biologique entre cet enfant et vous. Cette filiation pourra être contestée. Toutefois, si la reconnaissance est frauduleuse, des sanctions pénales sont encourues. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "La reconnaissance de l'enfant est un acte volontaire et personnel.",
+        "Vous pouvez reconnaître un enfant sans avoir à prouver de lien biologique entre cet enfant et vous.",
+        "En déclarant être le père de l’enfant, vous vous engagez à en assumer toutes les conséquences, notamment l’entretien et l’éducation de l’enfant.",
+        "L'officier d'état civil n'effectue pas de vérification.",
+        "Il doit toutefois alerter le procureur de la République s'il détecte une fraude.",
+        "Le procureur de la République peut faire opposition à la reconnaissance s’il estime que la fraude est avérée.",
+        "[À savoir] Si la reconnaissance contredit une filiation déjà établie, l’officier de l’état civil établit l’acte, mais ne peut pas le mentionner en marge de l’acte de naissance de l’enfant. Il doit alerter le procureur de la République. Pour modifier la filiation de l’enfant, une contestation de paternité sera nécessaire.",
+        "Contestation devant le juge",
+        "La filiation paternelle établie par la reconnaissance peut être contestée devant le juge (par la mère, par exemple).",
+        "La paternité peut être contestée en rapportant la preuve que vous n'êtes pas le père (par exemple en demandant au juge d'ordonner un test de paternité).",
+        "La reconnaissance est alors annulée.",
+        "Vous pouvez être condamné à verser des dommages et intérêts à l'enfant, pour réparer le préjudice volontairement causé.",
+        "Sanctions pénales en cas de fraude",
+        "Si vous reconnaissez un enfant qui n'est pas le vôtre pour frauder la loi, le procureur de la République peut contester devant le juge pénal cette filiation établie illégalement.",
+        "Votre déclaration peut être contestée par le procureur de la République dans les cas suivants :",
+        "• Déclaration invraisemblable (compte tenu de l'âge de celui qui reconnaît l'enfant par exemple)",
+        "• Déclaration frauduleuse (par exemple pour obtenir un titre de séjour ou la nationalité française, percevoir des aides sociales, ou outrepasser les règles de l’adoption)",
+        "Les sanctions pénales encourues dépendent de l'infraction retenue.",
+        "Par exemple, reconnaître un enfant aux seules fins d'obtenir un titre de séjour ou la nationalité française est puni de 5 ans d'emprisonnement et 15 000 € d'amende."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : articles 332 à 337",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006150526/"
+    },
+    {
+      "titre": "Code civil : articles 1240 à 1244",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032021488/"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles L823-11 à L823-17",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042773814/"
+    },
+    {
+      "titre": "Circulaire du 28 octobre 2011 portant sur divers actes de l'état civil relatifs à la naissance et à la filiation",
+      "url": "https://www.legifrance.gouv.fr/circulaire/id/34124"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Permanence juridique"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "peut-on-reconnaitre-un-enfant-dont-on-n-est-pas-le-pere",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "naissance-et-filiation",
+      "titre": "Naissance et filiation"
+    }
+  ]
+}

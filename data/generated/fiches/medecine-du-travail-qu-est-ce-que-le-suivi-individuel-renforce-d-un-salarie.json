@@ -1,0 +1,114 @@
+{
+  "id": "F34062",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Médecine du travail : qu'est-ce que le suivi individuel renforcé d'un salarié ?",
+  "theme": "Travail - Formation",
+  "description": "Les salariés bénéficient d'un suivi individuel renforcé de leur état de santé quand ils sont exposés à un risque particulier pour leur santé.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-11-28",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34062",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Conditions de travail dans le secteur privé",
+    "Médecine du travail : qu'est-ce que le suivi individuel renforcé d'un salarié ?"
+  ],
+  "introduction": "Un salarié exposé à des risques particuliers pour sa santé ou sa sécurité, pour celles de ses collègues ou des tiers, bénéficie d'un suivi individuel renforcé (SIR) de son état de santé. Quelles sont les conditions de ce suivi ? Nous faisons le point sur la réglementation.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les conditions du suivi individuel renforcé différent selon que le salarié est un travailleur saisonnier, un intérimaire ou non. Les travailleurs agricoles sont également concernés par ces dispositions."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code du travail : article L4624-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033024916/"
+    },
+    {
+      "titre": "Code du travail : article L4624-2-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036759925"
+    },
+    {
+      "titre": "Code du travail : article R4153-40",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033769318/"
+    },
+    {
+      "titre": "Code du travail : article R4412-60",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030680423/"
+    },
+    {
+      "titre": "Code du travail : article R4412-160",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033769350/"
+    },
+    {
+      "titre": "Code du travail : article R4624-21",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033769033/"
+    },
+    {
+      "titre": "Code du travail : article R4624-22",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033769092"
+    },
+    {
+      "titre": "Code du travail : article R4624-23",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036483826/"
+    },
+    {
+      "titre": "Code du travail : articles R4624-24 à R4624-27",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033739671/"
+    },
+    {
+      "titre": "Code du travail : article R4624-28",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033769094/"
+    },
+    {
+      "titre": "Code du travail : articles R4624-28-1 à R4624-28-3",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000043927863/"
+    },
+    {
+      "titre": "Code du travail : article R4624-34",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033769125"
+    },
+    {
+      "titre": "Code du travail : articles R4625-12 à R4625-14",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033746657"
+    },
+    {
+      "titre": "Code rural et de la pêche maritime : article R717-16",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036484235/"
+    },
+    {
+      "titre": "Code rural et de la pêche maritime : article R717-16-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035474835/"
+    },
+    {
+      "titre": "Arrêté du 26 octobre 2020 fixant la liste des substances, mélanges et procédés cancérogènes au sens du code du travail",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000042483502/"
+    },
+    {
+      "titre": "Arrêté du 6 mai 2013 relatif aux travaux agricoles nécessitant une surveillance médicale renforcée",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000027399929/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Risques liés au travail",
+      "url": "http://www.inrs.fr/risques.html"
+    }
+  ],
+  "slug": "medecine-du-travail-qu-est-ce-que-le-suivi-individuel-renforce-d-un-salarie",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "conditions-de-travail-dans-le-secteur-prive",
+      "titre": "Conditions de travail dans le secteur privé"
+    }
+  ]
+}

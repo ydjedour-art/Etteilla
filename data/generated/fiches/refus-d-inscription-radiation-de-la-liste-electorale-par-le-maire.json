@@ -1,0 +1,33 @@
+{
+  "id": "F36496",
+  "type_publication": "Recherche guidée",
+  "titre": "[Refus d'inscription, radiation de la liste électorale par le maire]",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "[Refus d'inscription, radiation de la liste électorale par le maire]",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2022-07-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F36496",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Élections",
+    "[Refus d'inscription, radiation de la liste électorale par le maire]"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "refus-d-inscription-radiation-de-la-liste-electorale-par-le-maire",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "elections",
+      "titre": "Élections"
+    }
+  ]
+}

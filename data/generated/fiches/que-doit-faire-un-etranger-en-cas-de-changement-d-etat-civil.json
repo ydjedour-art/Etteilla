@@ -1,0 +1,68 @@
+{
+  "id": "F35808",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Que doit faire un étranger en cas de changement d'état civil ?",
+  "theme": "Étranger - Europe",
+  "description": "En cas de mariage, divorce, changement de prénom ou de nom, vous pouvez demander un duplicata de votre carte de séjour.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2021-09-27",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35808",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Titres, cartes de séjour et documents de circulation pour étranger en France",
+    "Que doit faire un étranger en cas de changement d'état civil ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "En cas de changement d'état civil (mariage, divorce, changement de prénom ou nom), vous pouvez demander un duplicata de votre carte de séjour. Vous pouvez ainsi ajouter votre nom d'époux(se) ou le retirer, ou faire modifier vos nom et prénom(s).",
+        "Cette démarche n'est pas obligatoire.",
+        "Comment faire la démarche ?",
+        "Vous devez faire votre demande de duplicata en ligne.",
+        "Faire une demande sur internet pour un titre de séjour, un changement de situation, un titre de voyage, une demande de naturalisation - ANEF",
+        "Vous devrez fournir les documents suivants :",
+        "• Titre de séjour",
+        "• Passeport (pages sur l'état civil, les dates de validité et les cachets d'entrée)",
+        "• Acte de naissance (copie intégrale ou extrait avec filiation)",
+        "• Si vous vous êtes marié(e) : acte de mariage",
+        "• Si vous avez divorcé : jugement de divorce",
+        "• Si vous avez changé de nom ou prénom(s) : document attestant du changement",
+        "• Justificatif de domicile datant de moins de 3 mois",
+        "• 3 photos",
+        "• Justificatif de paiement de la taxe et/ou du droit de timbre (demandé lors de la remise de la carte)",
+        "La démarche est-elle payante ?",
+        "• Si vous êtes un ressortissant de l'UE, de l'EEE ou de la Confédération suisse ou membre de sa famille, la carte est gratuite.",
+        "• Si vous êtes dans une autre situation, vous devez payer 50 € par timbres fiscaux."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles L436-1 à L436-13",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042772036/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Faire une demande sur internet pour un titre de séjour, un changement de situation, un titre de voyage, une demande de naturalisation - ANEF",
+      "url": "https://administration-etrangers-en-france.interieur.gouv.fr/particuliers/#/",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "que-doit-faire-un-etranger-en-cas-de-changement-d-etat-civil",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "titres-cartes-de-sejour-et-documents-de-circulation-pour-etranger-en-france",
+      "titre": "Titres, cartes de séjour et documents de circulation pour étranger en France"
+    }
+  ]
+}

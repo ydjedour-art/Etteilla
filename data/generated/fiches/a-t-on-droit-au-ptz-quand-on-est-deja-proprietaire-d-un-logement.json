@@ -1,0 +1,58 @@
+{
+  "id": "F1529",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "A-t-on droit au PTZ quand on est déjà propriétaire d'un logement ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Tout dépend du logement. Si c'est la résidence principale, le PTZ est possible dans certains cas seulement. S'il c'est un autre logement, un PTZ est possible.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-02-06",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1529",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Crédit immobilier",
+    "A-t-on droit au PTZ quand on est déjà propriétaire d'un logement ?"
+  ],
+  "introduction": "Tout dépend de la nature du logement. Si vous êtes propriétaire de votre résidence principale, vous pouvez obtenir un PTZ dans certains cas seulement (usufruitier ou nu-propriétaire de ce logement, handicap ou invalidité, logement détruit par une catastrophe naturelle...). Si vous possédez un autre logement, sans être propriétaire de votre résidence principale, vous pouvez obtenir un PTZ. Nous vous expliquons.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de la construction et de l'habitation : articles L31-10-2 à L31-10-4",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000023356571/"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : article D31-10-2 à D31-10-4",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000023361850/#LEGISCTA00002336185038973566#LEGIARTI000038973566"
+    },
+    {
+      "titre": "Arrêté du 30 décembre 2010 sur les conditions d'application de dispositions concernant les prêts ne portant pas intérêt consentis pour financer la primo-accession à la propriété",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000023332971/"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : articles D317-1 à D317-25",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000006160536/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Calculer le montant du prêt à taux zéro (PTZ)",
+      "url": "https://www.anil.org/outils/outils-de-calcul/votre-pret-a-taux-zero/",
+      "type": "Simulateur"
+    }
+  ],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "a-t-on-droit-au-ptz-quand-on-est-deja-proprietaire-d-un-logement",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "credit-immobilier",
+      "titre": "Crédit immobilier"
+    }
+  ]
+}

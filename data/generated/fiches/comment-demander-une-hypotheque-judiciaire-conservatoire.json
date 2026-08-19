@@ -1,0 +1,107 @@
+{
+  "id": "F785",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Comment demander une hypothèque judiciaire conservatoire ?",
+  "theme": "Justice",
+  "description": "L'hypothèque judiciaire permet à un créancier d'obtenir la garantie d'être remboursé par son débiteur. Elle doit être autorisée par un juge.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-05-21",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F785",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Saisies et recouvrements",
+    "Comment demander une hypothèque judiciaire conservatoire ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "Demander l'autorisation du tribunal",
+      "contenu": [
+        "L'autorisation du tribunal n'est pas nécessaire si vous avez un titre exécutoire, ou une décision de justice qui n'a pas encore force exécutoire, ou une lettre de change acceptée, ou un billet à ordre, ou un chèque, de charges de copropriété impayées, ou de loyer resté impayé.",
+        "Si vous n'avez pas de titre exécutoire, vous devez demander au tribunal de vous autoriser à inscrire une hypothèque conservatoire sur le bien immobilier (maison, appartement, terrain...) appartenant à votre débiteur.",
+        "Pour que votre demande soit recevable, vous devez avoir la preuve que le débiteur vous doit effectivement de l'argent et qu'il existe un risque que le débiteur tente de ne pas verser la somme due.",
+        "Le tribunal concerné dépend de la nature de votre créance :",
+        "Créance liée à un contrat avec un particulier",
+        "Créance inférieure ou égale à 10 000 €",
+        "Pour une créance inférieure ou égale à 10 000 €, vous devez présenter une requête au juge de l'exécution du tribunal où habite le débiteur.",
+        "Compte tenu de la complexité de la procédure (obligation de respecter certains délais), il est recommandé de faire appel à un avocat.",
+        "Le juge rend sa décision sans que le débiteur soit convoqué, et sans débats.",
+        "S'il estime que votre demande est fondée, le juge vous autorise à inscrire une hypothèque provisoire (aussi appelée hypothèque conservatoire) sur un ou plusieurs biens du débiteur. La décision du juge, appelée ordonnance, indique le montant de la créance et les biens concernés.",
+        "Créance supérieure à 10 000 €",
+        "Pour une créance supérieure à 10 000 €, vous devez obligatoirement charger un avocat de présenter une requête au juge de l'exécution du tribunal où habite le débiteur.",
+        "Le juge rend sa décision sans que le débiteur soit convoqué, et sans débats.",
+        "S'il estime que votre demande est fondée, le juge vous autorise à inscrire une hypothèque conservatoire sur un ou plusieurs biens du débiteur. La décision du juge, appelée ordonnance, indique le montant de la créance et les biens concernés.",
+        "Créance liée à un contrat avec un professionnel",
+        "Vous devez présenter une requête au président du tribunal de commerce du lieu où habite le débiteur.",
+        "Greffe du tribunal de commerce",
+        "[À savoir] Compte tenu de la complexité de cette procédure (notamment les délais à respecter), il est recommandé de faire appel à un avocat.",
+        "Si le président du tribunal estime que votre demande est fondée, il vous autorise à inscrire une hypothèque provisoire (aussi appelée hypothèque conservatoire) sur un ou plusieurs biens du débiteur. La décision du juge, appelée ordonnance, indique le montant de la créance et les biens concernés."
+      ]
+    },
+    {
+      "titre": "Faire l'inscription provisoire d'hypothèque",
+      "contenu": [
+        "Lorsque le juge a autorisé l'inscription d'une hypothèque provisoire, vous devez faire les 2 démarches suivantes :",
+        "• Charger un avocat d'inscrire l'hypothèque provisoire au service de publicité foncière. L'inscription doit être faite dans les 3 mois qui suivent la décision du juge. Elle est valable pendant 3 ans, renouvelable.",
+        "• Charger un commissaire de justice (anciennement huissier de justice et commissaire-priseur judiciaire) d'informer le débiteur de l'inscription provisoire d'hypothèque. Le commissaire de justice doit informer le débiteur dans les 8 jours qui suivent l'inscription provisoire d'hypothèque.",
+        "Une fois ces démarches faites, si le débiteur vend le bien hypothéqué, le montant de la somme qui vous est due sera prélevée sur le prix de vente du bien. Ce montant sera conservé par le notaire avant de vous être remis. Pour que le montant vous soit remis, vous devez pouvoir justifier d'avoir fait l'inscription définitive d'hypothèque dans le délai prévu."
+      ]
+    },
+    {
+      "titre": "Faire l'inscription définitive d'hypothèque",
+      "contenu": [
+        "La suite de la procédure varie selon que vous avez ou non un titre exécutoire :",
+        "Vous avez un titre exécutoire",
+        "L'inscription provisoire d'hypothèque faite, vous avez 2 mois pour faire l'inscription définitive d'hypothèque. Vous devez charger un avocat de faire cette démarche auprès du service de publicité foncière.",
+        "[À savoir] Si le montant de la créance est important, et que le débiteur ne vous rembourse pas à la date prévue, vous pouvez engager une procédure de saisie immobilière.",
+        "Vous n'en avez pas",
+        "Après l'inscription provisoire de l'hypothèque, vous avez 1 mois pour agir en justice afin d'obtenir un titre exécutoire.",
+        "À partir de l'obtention du titre exécutoire, vous avez 2 mois pour faire l'inscription définitive d'hypothèque. Vous devez charger un avocat de faire cette démarche auprès du service de publicité foncière.",
+        "[À savoir] Si le montant de la somme due est important, et que le débiteur ne vous rembourse pas à la date prévue, vous pouvez engagez une procédure de saisie immobilière."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : article 2408",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165679/"
+    },
+    {
+      "titre": "Code des procédures civiles d'exécution : articles L511-1 à L511-4",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000025024948/LEGISCTA000025026102/"
+    },
+    {
+      "titre": "Code des procédures civiles d'exécution : articles R511-1 à R511-8",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000025024948/LEGISCTA000025939389/"
+    },
+    {
+      "titre": "Code des procédures civiles d'exécution : articles 532-1 à 532-4",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000025024948/LEGISCTA000025939522/"
+    },
+    {
+      "titre": "Code des procédures civiles d'exécution : articles 532-5 à 532-9",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000025024948/LEGISCTA000025939532/"
+    },
+    {
+      "titre": "Code des procédures civiles d'exécution : articles 533-1 à 533-6",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000025024948/LEGISCTA000025939544/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Point-justice"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "comment-demander-une-hypotheque-judiciaire-conservatoire",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "saisies-et-recouvrements",
+      "titre": "Saisies et recouvrements"
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "id": "F34906",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Piercing : quelles sont les règles ?",
+  "theme": "Social - Santé",
+  "description": "Pour un piercing, le mineur doit avoir l'accord de ses parents. Le professionnel est formé, déclare son activité à l'ARS et informe son client des risques.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-11-26",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34906",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Prévention - Vaccinations",
+    "Piercing : quelles sont les règles ?"
+  ],
+  "introduction": "Le piercing consiste à perforer un point précis de la peau pour y poser un bijou qui, généralement, se visse ou se clippe. Cette pratique est réglementée pour éviter les risques sur la santé. Il est conseillé d’en discuter préalablement avec le professionnel et votre médecin traitant. Si vous êtes mineur, l'accord du parent ou tuteur est nécessaire. Le professionnel du perçage corporel doit être formé, déclarer son activité à l'Agence régionale de santé (ARS) et informer son client des risques.",
+  "chapitres": [
+    {
+      "titre": "À quel âge peut-on se faire poser un piercing ?",
+      "contenu": [
+        "Il est possible de se faire poser un piercing quelque soit son âge.",
+        "Cependant, si vous êtes mineur, il faut l'accord écrit de votre parent ou de votre tuteur.",
+        "[À savoir] Le professionnel doit être en mesure, pendant 3 ans, de présenter la preuve de ce consentement aux autorités de contrôle."
+      ]
+    },
+    {
+      "titre": "Quelles règles doit respecter le professionnel qui pose un piercing ?",
+      "contenu": [
+        "Le professionnel qui réalise le piercing doit respecter les règles suivantes :",
+        "• Avoir suivi une formation initiale avec une formation pratique",
+        "• Déclarer son activité auprès du directeur général de l'ARS",
+        "• Vous informer avant la réalisation du piercing des risques auxquels vous vous exposez et des précautions à respecter après cette réalisation. Cette information est affichée de manière visible dans le local où ces techniques sont pratiquées. Elle vous est remise par écrit.",
+        "[À savoir] Si vous êtes mineur, cette information est aussi communiquée à votre parent ou tuteur avant qu'il ne donne son accord.",
+        "Le contenu de l'information que le professionnel doit vous délivrer oralement comporte :",
+        "• Le caractère éventuellement douloureux des actes",
+        "• Les risques d'infections",
+        "• Les risques allergiques notamment liés aux bijoux de piercing",
+        "• Les recherches de contre-indications au geste liées au terrain ou aux traitements en cours",
+        "• Le temps de cicatrisation adapté à la technique qui a été mise en œuvre et les risques cicatriciels",
+        "• Les précautions à respecter après la réalisation des techniques, notamment pour permettre une cicatrisation rapide.",
+        "[À noter] Ces risques et précautions sont détaillés par le ministère de la santé.",
+        "Si vous ne parlez pas français, ces informations doivent être délivrées dans votre langue ou, sinon, dans une langue que vous comprenez.",
+        "[À noter] L’hygiène du perçage corporel du pavillon de l’oreille et de l’aile du nez par la technique du pistolet perce-oreille connaît des particularités. Un résumé de ces règles a été élaboré par le ministère de la santé. Ce professionnel doit se déclarer à l'ARS et si vous êtes mineur, il faut l'accord du parent ou du tuteur."
+      ]
+    },
+    {
+      "titre": "Dans quelles conditions doit se réaliser la pose d'un piercing ?",
+      "contenu": [
+        "Le professionnel doit réaliser le piercing dans une salle dédiée exclusivement à cette opération.",
+        "Cette salle doit être nettoyée par décontamination tous les jours. Entre chaque client, toutes les surfaces utilisées sont nettoyées et désinfectées.",
+        "Le professionnel retire ses bijoux avant la désinfection des mains. Il porte des gants stériles. Ils sont changés entre 2 clients.",
+        "Il en est de même, pour un même client, après tout geste septique en cours d'acte et en cas de perçages successifs sur des zones corporelles différentes.",
+        "Il doit préparer la zone à percer en utilisant un antiseptique.",
+        "À chaque séance, pour chaque client, les dispositifs, notamment piquants et coupants, pénétrant la barrière cutanéo-muqueuse sont stériles et à usage unique. Les autres matériels (ciseaux, pinces...) sont stérilisables.",
+        "La table de travail doit être désinfectée, puis équipée d'un champ stérile.",
+        "Un protocole de stérilisation du matériel doit être respecté."
+      ]
+    },
+    {
+      "titre": "Que faire en cas de complication après la pose d'un piercing ?",
+      "contenu": [
+        "Le plus souvent, la pose d'un piercing est sans danger.",
+        "Après la pose d'un piercing, il est préconisé notamment de suivre les recommandations données par le professionnel du piercing et d'adopter une bonne hygiène de vie (exemple : se laver les mains avec du savon avant chaque soin).",
+        "Des complications infectieuses (par exemple : bactérie) ou non (par exemple : douleur) selon la zone percée peuvent toutefois apparaître. La consultation d'un médecin est recommandée (exemples : si l’infection persiste, s’étend autour du piercing ou si une fièvre apparaît)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la santé publique : articles R1311-1 à R1311-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000018150108/"
+    },
+    {
+      "titre": "Code de la santé publique : article R1311-11",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018150775"
+    },
+    {
+      "titre": "Arrêté du 11 mars 2009 relatif aux bonnes pratiques d'hygiène et de salubrité",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000020414235"
+    },
+    {
+      "titre": "Arrêté du 3 décembre 2008 relatif à l'information préalable à la mise en œuvre des techniques de tatouage par effraction cutanée, de maquillage permanent et de perçage corporel",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000019917687/"
+    },
+    {
+      "titre": "Arrêté du 5 mars 2024 relatif à la formation des personnes mettant en œuvre les techniques de tatouage par effraction cutanée, y compris la technique du maquillage permanent, et de perçage corporel",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000049268085/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Actes de tatouages : se faire tatouer en toute sécurité : ce qu’il faut savoir !",
+      "url": "https://www.centre-val-de-loire.ars.sante.fr/les-actes-de-tatouages-se-faire-tatouer-en-toute-securite-ce-quil-faut-savoir"
+    },
+    {
+      "titre": "Tatouage et piercing",
+      "url": "https://sante.gouv.fr/soins-et-maladies/qualite-des-soins-et-pratiques/securite/securite-des-pratiques-esthetiques/article/tatouage-et-piercing"
+    },
+    {
+      "titre": "FAQ - Tatouage par effraction cutanée et perçage corporel",
+      "url": "https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/reglementation-de-securite-sanitaire-dans-les-etablissements-de-sante/securite-des-pratiques-esthetiques/article/faq-tatouage-par-effraction-cutanee-et-percage-corporel"
+    },
+    {
+      "titre": "Piercing : risques, soins, à qui s'adresser et consultation médicale",
+      "url": "https://www.ameli.fr/assure/sante/themes/piercing"
+    },
+    {
+      "titre": "Quels sont les risques du piercing ?",
+      "url": "https://www.ameli.fr/assure/sante/themes/piercing/les-risques-du-piercing#:~:text=Les%20autres%20complications%20peuvent%20%C3%AAtre,hypertrophique%20ou%20ch%C3%A9lo%C3%AFde%20%3F%20%C2%BB)"
+    },
+    {
+      "titre": "Perçage corporel du pavillon de l’oreille et de l’aile du nez (hygiène)",
+      "url": "https://sante.gouv.fr/IMG/pdf/Tatouage_par_effraction_cutanee_et_percage_-_Mise_en_oeuvre_du_percage_corporel_du_pavillon_de_l_oreille.pdf"
+    },
+    {
+      "titre": "Quels soins devez-vous apporter à votre piercing et quand consulter un médecin ?",
+      "url": "https://www.ameli.fr/assure/sante/themes/piercing/quels-soins-piercing-quand-consulter-medecin"
+    }
+  ],
+  "slug": "piercing-quelles-sont-les-regles",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "prevention-vaccinations",
+      "titre": "Prévention - Vaccinations"
+    }
+  ]
+}

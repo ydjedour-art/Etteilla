@@ -1,0 +1,93 @@
+{
+  "id": "F18954",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quelles garanties en cas d'achat d'un produit ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Lors de l'achat d'un produit à un vendeur professionnel, vous bénéficiez des garanties légales (conformité, vices cachés) et parfois d'une garantie commerciale.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-07-16",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F18954",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Garanties",
+    "Quelles garanties en cas d'achat d'un produit ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Lorsque vous achetez un produit, le vendeur professionnel doit vous accorder les 2 garanties suivantes :",
+        "• Garantie de conformité",
+        "• Garantie contre les vices cachés.",
+        "Le vendeur professionnel peut également vous accorder, gratuitement ou moyennant le paiement d'une somme, une garantie commerciale ou contractuelle.",
+        "En revanche, lorsque vous achetez un produit à un vendeur particulier, celui-ci vous accorde uniquement la garantie légale des vices cachés.",
+        "Il est vivement recommandé de conserver vos preuves d’achat (facture, ticket de caisse, bon de commande,...). Elles seront indispensables pour faire valoir vos droits."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : articles 1602 à 1649",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136381/#LEGISCTA000006136381"
+    },
+    {
+      "titre": "Code de la consommation : articles L217-3 à L217-20",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069565/LEGISCTA000032221271"
+    },
+    {
+      "titre": "Code de la consommation : article L241-5",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142730/"
+    },
+    {
+      "titre": "Code de la consommation : articles L217-1 à L217-2",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032226951"
+    },
+    {
+      "titre": "Code de la consommation : articles L111-1 à L111-8",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032227354/"
+    },
+    {
+      "titre": "Code de la consommation : articles L211-1 à L211-4",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032227017/"
+    },
+    {
+      "titre": "Code civil : articles 1641 à 1649",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006165624/"
+    },
+    {
+      "titre": "Code de la consommation : articles R111-1 à D111-19",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069565/LEGISCTA000032807114/2022-04-27/"
+    },
+    {
+      "titre": "Code de la consommation : articles L221-5 à L221-7",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032226878/"
+    },
+    {
+      "titre": "Code de la consommation : articles D211-1 à R217-12",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGISCTA000032807188"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "0809 540 550 DGCCRF - RéponseConso"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Les garanties légales : de conformité et contre les vices cachés",
+      "url": "https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/les-garanties-legales-de-conformite-et-contre-les-vices-caches"
+    }
+  ],
+  "slug": "quelles-garanties-en-cas-d-achat-d-un-produit",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "garanties",
+      "titre": "Garanties"
+    }
+  ]
+}

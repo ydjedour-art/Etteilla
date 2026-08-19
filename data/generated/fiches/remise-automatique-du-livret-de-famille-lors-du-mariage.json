@@ -1,0 +1,61 @@
+{
+  "id": "F1345",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Remise automatique du livret de famille lors du mariage",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Un livret de famille est délivré automatiquement si le mariage a lieu en France et ce quelle que soit la nationalité des époux.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-06-17",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1345",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Livret de famille",
+    "Remise automatique du livret de famille lors du mariage"
+  ],
+  "introduction": "Vous allez vous marier et souhaitez connaître les règles de délivrance du livret de famille ? Elles diffèrent selon que le mariage a lieu en France ou à l'étranger. Nous vous présentons les informations à retenir.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Décret n°74-449 du 15 mai 1974 relatif au livret de famille et à l'information des futurs époux sur le droit de la famille",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000328986/"
+    },
+    {
+      "titre": "Décret n°2002-1556 du 23 décembre 2002 (article annexe)",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039346091"
+    },
+    {
+      "titre": "Arrêté du 1er juin 2006 fixant le modèle de livret de famille",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006053798/"
+    },
+    {
+      "titre": "Circulaire de présentation de l’ordonnance n° 759-2005 du 4 juillet 2005 portant réforme de la filiation",
+      "url": "https://www.justice.gouv.fr/sites/default/files/2025-02/circulaire_filiation_2006.pdf"
+    },
+    {
+      "titre": "Circulaire du 19 juin 2009 relative à l'état civil des enfants décédés avant la déclaration de naissance, mort-nés ou nés sans vie et à la prise en charge des corps",
+      "url": "https://www.legifrance.gouv.fr/circulaire/id/29111"
+    },
+    {
+      "titre": "Circulaire du 23 juillet 2014 relative à l'état civil",
+      "url": "https://www.legifrance.gouv.fr/circulaire/id/38565"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Mairie",
+    "Ambassade ou consulat français à l'étranger"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "remise-automatique-du-livret-de-famille-lors-du-mariage",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "livret-de-famille",
+      "titre": "Livret de famille"
+    }
+  ]
+}

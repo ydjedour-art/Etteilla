@@ -1,0 +1,33 @@
+{
+  "id": "F35805",
+  "type_publication": "Recherche guidée",
+  "titre": "Couple : dissoudre un Pacs",
+  "theme": "Famille - Scolarité",
+  "description": "Couple : dissoudre un Pacs",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2025-08-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35805",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Pacte civil de solidarité (Pacs)",
+    "Couple : dissoudre un Pacs"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "couple-dissoudre-un-pacs",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "pacte-civil-de-solidarite-pacs",
+      "titre": "Pacte civil de solidarité (Pacs)"
+    }
+  ]
+}

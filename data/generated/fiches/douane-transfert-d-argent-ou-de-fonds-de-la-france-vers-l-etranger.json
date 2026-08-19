@@ -1,0 +1,129 @@
+{
+  "id": "F794",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Douane : transfert d'argent ou de fonds de la France vers l'étranger",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Tout transfert d'argent ou de fonds égal ou supérieur à 10 000 €, effectué de la France vers l'étranger, doit faire l'objet d'une déclaration douanière.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2024-12-11",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F794",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Douane",
+    "Douane : transfert d'argent ou de fonds de la France vers l'étranger"
+  ],
+  "introduction": "Vous devez effectuer une déclaration auprès des douanes si vous voyagez hors de France avec une somme égale ou supérieure à 10 000 € (ou l'équivalent en devise). Cette obligation concerne un transport physique d'argent liquide, chèques, titres et autres valeurs. Si vous transférez 50 000 € ou plus, vous devez fournir un justificatif de la provenance des fonds. Comment faire ? Nous vous expliquons la démarche.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les règles diffèrent selon les éléments suivants :",
+        "• Votre destination : un pays membre de l'Union européenne (UE) ou un pays étranger (c'est-à-dire hors UE)",
+        "• Votre provenance : depuis la France ou depuis une collectivité d'outre-mer."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Règlement (UE) 2018/1672 du Parlement européen et du Conseil du 23 octobre 2018 relatif aux contrôles de l'argent liquide entrant dans l'Union ou sortant de l'Union et abrogeant le règlement 1889/2005",
+      "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=celex%3A32018R1672"
+    },
+    {
+      "titre": "Synthèse du Règlement (UE) 2018/1672 relatif aux contrôles de l'argent liquide entrant dans l'Union ou sortant de l'Union",
+      "url": "https://eur-lex.europa.eu/legal-content/fr/LSU/?uri=CELEX%3A32018R1672#keyterm_E0001"
+    },
+    {
+      "titre": "Code des douanes : articles 464 à 465",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071570/LEGISCTA000006099281/#LEGISCTA000043616405"
+    },
+    {
+      "titre": "Code monétaire et financier : articles L152-1 à L152-6",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072026/LEGISCTA000006153987/#LEGIARTI000042623754"
+    },
+    {
+      "titre": "Code monétaire et financier : articles R152-6 à R152-10",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006170956/"
+    },
+    {
+      "titre": "Arrêté du 7 novembre 2012 sur la déclaration de transferts de capitaux vers ou depuis l'étranger",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000026872265/"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-CF-INF-20-10-10 relatif aux infractions et pénalités particulières aux impôts directs et taxes assimilées",
+      "url": "https://bofip.impots.gouv.fr/bofip/4342-PGP.html/identifiant=BOI-CF-INF-20-10-10-20170308"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Déclaration d'argent liquide (de capitaux) à la douane (Dalia)",
+      "url": "https://www.douane.gouv.fr/service-en-ligne/declaration-de-capitaux-dalia",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Déclaration de transport d'argent liquide entre la France (métropole, DOM et Saint Martin) et l'Union européenne",
+      "url": "https://www.douane.gouv.fr/sites/default/files/2021-06/02/4.%20%20D%C3%A9claration%20d%27argent%20liquide%20-%20Fr.pdf",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Formulaire complémentaire - Déclaration de transport d'argent liquide entre la France (métropole, DOM et Saint Martin) et l'Union européenne",
+      "url": "https://www.douane.gouv.fr/sites/default/files/2021-06/02/4bis%20D%C3%A9claration%20d%27argent%20liquide%20FR-Feuillet%20suppl%C3%A9mentaire.pdf",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Déclaration de transport d'argent liquide entre la France (métropole, DOM et Saint Martin) et l'étranger",
+      "url": "https://www.douane.gouv.fr/sites/default/files/2021-06/03/declaration-argent-liquide-UE.pdf",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Formulaire complémentaire - Déclaration de transport d'argent liquide entre la France (métropole, DOM et Saint Martin) et l'étranger",
+      "url": "https://www.douane.gouv.fr/sites/default/files/2021-06/02/1bis%20D%C3%A9claration%20d%27argent%20liquide%20UE-Feuillet%20suppl%C3%A9mentaire%20_0.pdf",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Déclaration de transport d'argent liquide entre les collectivités d'outre-mer et l'étranger",
+      "url": "https://www.douane.gouv.fr/sites/default/files/2021-06/02/5.%20D%C3%A9claration%20d%27argent%20liquide%20-%20COM_0.pdf",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Formulaire complémentaire - Déclaration de transport d'argent liquide entre les collectivités d'outre mer et l'étranger",
+      "url": "https://www.douane.gouv.fr/sites/default/files/2021-06/02/5bis%20D%C3%A9claration%20d%27argent%20liquide-COM-%20feuillet%20suppl%C3%A9mentaire.pdf",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Carte géolocalisée interactive des services douaniers français ouverts au public",
+      "url": "https://www.douane.gouv.fr/carte-interactive-des-services-douaniers-ouverts-au-public",
+      "type": "Outil de recherche"
+    }
+  ],
+  "contacts": [
+    "Infos Douane Service",
+    "Services douaniers en France et en Europe",
+    "Direction générale des douanes et des droits indirects (DGDDI) - Lutte contre la fraude"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Pays de l'Union européenne",
+      "url": "https://european-union.europa.eu/principles-countries-history/eu-countries_fr"
+    },
+    {
+      "titre": "Obligation déclarative des sommes, titres et valeurs",
+      "url": "http://www.douane.gouv.fr/articles/a10796-obligation-declarative-des-sommes-titres-et-valeurs"
+    },
+    {
+      "titre": "Obligation de divulgation pour les envois d’argent liquide non accompagné",
+      "url": "https://www.douane.gouv.fr/fiche/lobligation-de-divulgation-pour-les-envois-dargent-liquide"
+    }
+  ],
+  "slug": "douane-transfert-d-argent-ou-de-fonds-de-la-france-vers-l-etranger",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "douane",
+      "titre": "Douane"
+    }
+  ]
+}

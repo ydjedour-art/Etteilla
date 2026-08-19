@@ -1,0 +1,130 @@
+{
+  "id": "F32880",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Renouvellement d'une demande de logement social",
+  "theme": "Logement",
+  "description": "Une demande de logement social doit être renouvelée chaque année, sinon, elle est annulée.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2024-11-08",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F32880",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Accéder à un logement social",
+    "Renouvellement d'une demande de logement social"
+  ],
+  "introduction": "Faut-il renouveler une demande de logement social ? Oui, une demande de logement social doit être renouvelée chaque année. Sinon, elle est annulée. Il est possible de renouveler sa demande en ligne ou à l'aide d'un formulaire à déposer sur place. Nous vous expliquons.",
+  "chapitres": [
+    {
+      "titre": "Quand renouveler sa demande de logement social ?",
+      "contenu": [
+        "Si vous avez fait une demande de logement social et qu'aucun logement ne vous a été attribué, vous devez renouveler votre demande chaque année. Vous devez faire votre renouvellement entre le 10e et le 12e mois à compter de sa date de création de votre demande ou de son dernier renouvellement.",
+        "Un rappel vous est envoyé au moins 1 mois avant l'expiration de la date anniversaire de votre demande pour vous informer de la nécessité de renouveler votre demande et du délai pour faire le renouvellement.",
+        "Selon la façon dont vous avez fait votre demande de logement social, ce rappel vous est envoyé soit par mail, soit par courrier :",
+        "Demande en ligne",
+        "Le rappel vous est envoyé :",
+        "• Soit par mail",
+        "• Soit par mail et par courrier postal (lettre simple) si vous avez indiqué vouloir un courrier postal.",
+        "[Attention] Les courriers et SMS ne sont pas envoyés à l'étranger.",
+        "Autre cas",
+        "Le rappel vous est envoyé :",
+        "• Soit par courrier postal (lettre simple), si vous n'avez pas indiqué d'adresse électronique",
+        "• Soit par mail, si vous avez indiqué votre adresse électronique.",
+        "[Attention] Les courriers et SMS ne sont pas envoyés à l'étranger."
+      ]
+    },
+    {
+      "titre": "Comment renouveler sa demande de logement social ?",
+      "contenu": [
+        "Le renouvellement peut se faire en ligne ou au guichet :",
+        "En ligne",
+        "Vous pouvez utiliser ce site internet :",
+        "Demande de logement social en ligne (et renouvellement de demande)",
+        "Vous devez vous identifier avec France Connect ou vous connecter à votre compte créé sur Ma demande de logement social.fr.",
+        "Vous devez modifier le montant de vos revenus annuels.",
+        "Vous devez fournir les documents suivants :",
+        "• Scan de votre pièce d'identité (carte d'identité recto verso ou passeport)",
+        "• Si vous êtes étranger, titre de séjour attestant de la régularité du séjour en France.",
+        "Si votre situation a changé (adresse, situation familiale, personnes à charge, état de santé...), indiquez-le et fournissez le justificatif scanné. Par exemple : jugement d'expulsion, lettre de préavis (congé) du propriétaire du logement que vous habitez, arrêté préfectoral d'interdiction d'habiter, certificat de grossesse, carte d'invalidité, jugement de divorce ou de non-conciliation.",
+        "Une fois votre renouvellement fait, vous pouvez télécharger une attestation de renouvellement à partir de votre compte personnel.",
+        "Un mail de confirmation vous est par la suite envoyé. Il est recommandé de le conserver.",
+        "Au guichet",
+        "Vous devez utiliser ce formulaire :",
+        "Demande de logement social",
+        "Notice explicative de demande de logement social",
+        "Annexe au formulaire de demande de logement social",
+        "Vous devez indiquer le numéro unique d'enregistrement de votre demande et cocher la case \"Renouvellement d'une demande en cours\".",
+        "Vous devez indiquer le montant de vos revenus annuels.",
+        "Si votre situation a changé (adresse, situation familiale, personnes à charge, état de santé...), vous devez l'indiquer et fournir la copie du justificatif. Par exemple : jugement d'expulsion, lettre de préavis (congé) du propriétaire du logement que vous louez, arrêté préfectoral d'interdiction d'habiter, certificat de grossesse, carte d'invalidité, jugement de divorce ou de non-conciliation.",
+        "Vous devez fournir les documents suivants :",
+        "• Copie de votre pièce d'identité (carte d'identité recto verso ou passeport)",
+        "• Si vous êtes étranger, copie d'un titre de séjour attestant de la régularité du séjour en France.",
+        "Vous pouvez déposer votre demande auprès d'un des guichets suivants :",
+        "• Bailleur social ou service de l’État (éventuellement la mairie). Il existe une liste des guichets où déposer sa demande de logement social.",
+        "• Agence d'Action logement, si vous êtes salarié d'une entreprise du secteur privé (autre qu'agricole) de plus de 10 salariés et cotisant à la participation des employeurs à l'effort de construction (1% logement). Pour le savoir, il faut se renseigner auprès de votre employeur.",
+        "• Service social de votre administration, si vous êtes fonctionnaire.",
+        "• Service intégré d'accueil et d'orientation (SIAO), si vous êtes hébergé dans une structure d'accompagnement.",
+        "Une attestation de renouvellement vous est remise dans un délai d'un mois par courrier."
+      ]
+    },
+    {
+      "titre": "Que se passe-t-il si la demande de logement social n'est pas renouvelée à temps ?",
+      "contenu": [
+        "Une demande de logement social non renouvelée est automatiquement annulée.",
+        "Si votre demande a été annulée, mais que vous souhaitez obtenir un logement social, vous devez recommencer toute la procédure de demande. Un nouveau numéro unique d'enregistrement vous sera attribué.",
+        "Si vous étiez dans l'incapacité de renouveler votre demande, vous pouvez contester la radiation de votre demande. Pour cela, vous devez vous rendre dans un guichet enregistreur."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la construction et de l'habitation : articles R441-1 à R441-12",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000006177650/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demande de logement social en ligne (et renouvellement de demande)",
+      "url": "https://www.demande-logement-social.gouv.fr",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Demande de logement social",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_14069.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Connaître les guichets pour une demande de logement social",
+      "url": "https://www.demande-logement-social.gouv.fr/guichetsParCommune.afficher",
+      "type": "Outil de recherche"
+    },
+    {
+      "titre": "Trouver une agence d'Action logement",
+      "url": "https://www.actionlogement.fr/implantations",
+      "type": "Outil de recherche"
+    },
+    {
+      "titre": "Bienvéo : logements sociaux disponibles à la location",
+      "url": "https://www.bienveo.fr/",
+      "type": "Outil de recherche"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Ma demande de logement social",
+      "url": "https://www.demande-logement-social.gouv.fr/index"
+    }
+  ],
+  "slug": "renouvellement-d-une-demande-de-logement-social",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "acceder-a-un-logement-social",
+      "titre": "Accéder à un logement social"
+    }
+  ]
+}

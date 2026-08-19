@@ -1,0 +1,58 @@
+{
+  "id": "F39032",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Maternité ou adoption : le salarié peut-il démissionner pour élever un enfant ?",
+  "theme": "Travail - Formation",
+  "description": "La démission du salarié à la fin du congé de maternité ou d'adoption, permet d'être dispensé de préavis, sous certaines conditions.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-05-16",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F39032",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Rupture du contrat de travail dans le secteur privé",
+    "Maternité ou adoption : le salarié peut-il démissionner pour élever un enfant ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Oui, le salarié peut démissionner pour élever son enfant après le congé de maternité ou d'adoption. Dans ce cas, le salarié est dispensé d'effectuer le préavis.",
+        "Le salarié informe l'employeur au moins 15 jours à l'avance de sa volonté de démissionner pour élever un enfant par lettre RAR ou remise en mains propres contre décharge.",
+        "Il peut démissionner :",
+        "• Soit à la fin du congé de maternité,",
+        "• Soit dans les 2 mois suivant la naissance de l'enfant ou l'arrivée de l'enfant au foyer.",
+        "Le salarié n'a pas à verser une indemnité de rupture du contrat de travail à l'employeur en raison du préavis non effectué.",
+        "Après la démission, le salarié peut bénéficier d'une priorité de réembauche dans l'entreprise pendant 1 an pour des emplois correspondants à ses qualifications.",
+        "La demande de priorité de réembauche doit être adressée à l'employeur, dans l'année suivant la rupture du contrat de travail, par lettre recommandée avec AR ou remise en mains propres contre décharge.",
+        "En cas de réemploi, le salarié bénéficie de tous les avantages qu'il avait acquis avant son départ.",
+        "[À noter] Si le salarié démissionne après la naissance ou l'adoption de l'enfant pour travailler dans une autre entreprise, il doit effectuer le préavis dans les conditions habituelles de la démission."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code du travail : articles L1225-66 à L1225-68",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000006900954"
+    },
+    {
+      "titre": "Code du travail : articles R1225-18 et R1225-19",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000018537780"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "maternite-ou-adoption-le-salarie-peut-il-demissionner-pour-elever-un-enfant",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "rupture-du-contrat-de-travail-dans-le-secteur-prive",
+      "titre": "Rupture du contrat de travail dans le secteur privé"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "F1785",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Le tribunal d'instance et le tribunal de grande instance existent-ils encore ?",
+  "theme": "Justice",
+  "description": "Depuis 2020, les tribunaux de grande instance (TGI) et les tribunaux d'instance (TI) sont remplacés par les tribunaux judiciaires et les tribunaux de proximité.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-08-14",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1785",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Affaire civile",
+    "Le tribunal d'instance et le tribunal de grande instance existent-ils encore ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Depuis 2020, les tribunaux de grande instance sont remplacés par les tribunaux judiciaires.",
+        "Dans une même ville, les tribunaux de grande instance et les tribunaux d’instance ont été fusionnés sous l’appellation de tribunaux judiciaires.",
+        "Les tribunaux d'instance situés dans des villes sans tribunal de grande instance sont désormais appelés des tribunaux de proximité. Ce sont des chambres détachées des tribunaux judiciaires.",
+        "[Attention] Le tribunal de proximité ne doit pas être confondu avec le juge de proximité. Le juge de proximité n'existe plus depuis 2017."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'organisation judiciaire : article L211-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038314081"
+    },
+    {
+      "titre": "Code de l'organisation judiciaire : article L212-8",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000038274512/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "le-tribunal-d-instance-et-le-tribunal-de-grande-instance-existent-ils-encore",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "affaire-civile",
+      "titre": "Affaire civile"
+    }
+  ]
+}

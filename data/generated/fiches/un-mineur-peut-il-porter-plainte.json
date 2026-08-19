@@ -1,0 +1,84 @@
+{
+  "id": "F1567",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Un mineur peut-il porter plainte ?",
+  "theme": "Justice",
+  "description": "Oui, un mineur, qui a été victime d'une infraction, peut déposer plainte seul ou accompagné.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-10-22",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1567",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Affaire pénale",
+    "Un mineur peut-il porter plainte ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Oui, si vous êtes mineur et que vous êtes victime d'une infraction (vol ou racket, violences, agressions sexuelles...), vous pouvez porter plainte.",
+        "Vous pouvez faire cette démarche seul ou en étant accompagné.",
+        "Si vous le souhaitez, vous pouvez être accompagné par vos parents, par la personne majeure de votre choix ou par un représentant d'une association d'aide aux victimes.",
+        "[À savoir] Vos parents peuvent également porter plainte en votre nom (même sans votre accord).",
+        "La plainte permet de signaler à la justice les faits dont vous avez été victime.",
+        "Vous pouvez déposer plainte en vous rendant dans un commissariat de police ou dans une gendarmerie. Vous pouvez également déposer plainte par courrier.",
+        "[À noter] Si vos parents sont impliqués dans l'infraction (par exemple en cas de maltraitance), un administrateur ad hoc est désigné par la justice. Cet administrateur est chargé de défendre vos intérêts en justice et de se constituer partie civile en votre nom."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de procédure pénale : article 15-3",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311441"
+    },
+    {
+      "titre": "Code de procédure pénale : article 40",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933/"
+    },
+    {
+      "titre": "Code de procédure pénale : article 706-53",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037289502"
+    },
+    {
+      "titre": "Code de procédure pénale : article 2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024496925"
+    },
+    {
+      "titre": "Code de procédure pénale : article 706-50",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027811160/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Porter plainte auprès du procureur de la République",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/Porter_plainte",
+      "type": "lettreTypeNG"
+    }
+  ],
+  "contacts": [
+    "Enfance en danger - 119"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Guide sur la prise en charge des mineurs victimes d'infractions pénales",
+      "url": "https://www.justice.gouv.fr/documentation/ressources/guide-prise-charge-mineurs-victimes-dinfractions-penales"
+    },
+    {
+      "titre": "Parcours victimes (violences physiques, sexuelles ou psychologiques)",
+      "url": "https://parcours-victimes.fr"
+    }
+  ],
+  "slug": "un-mineur-peut-il-porter-plainte",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "affaire-penale",
+      "titre": "Affaire pénale"
+    }
+  ]
+}

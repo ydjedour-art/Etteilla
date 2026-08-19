@@ -1,0 +1,69 @@
+{
+  "id": "F31688",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Allocation de sécurisation professionnelle (ASP)",
+  "theme": "Travail - Formation",
+  "description": "L'allocation de sécurisation professionnelle (ASP) est versée, sous conditions, au bénéficiaire d'un contrat de sécurisation professionnelle (CSP).",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-03-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31688",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Licenciement économique",
+    "Allocation de sécurisation professionnelle (ASP)"
+  ],
+  "introduction": "En cas de licenciement pour motif économique, lorsque le salarié accepte le contrat de sécurisation professionnelle (CSP), France Travail (anciennement Pôle emploi) lui verse une aide financière appelée allocation de sécurisation professionnelle (ASP). Nous faisons un point sur la réglementation.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "[Attention] Les règles diffèrent selon l'ancienneté du salarié au moment de la rupture. L'ancienneté se calcule : • Soit à la date de présentation de la lettre de notification du licenciement, lorsqu'elle est notifiée avant la fin de délai de réflexion de 21 jours laissé au salarié pour accepter ou refuser le CSP • Soit au dernier jour du délai de réflexion de 21 jours, lorsque la lettre de licenciement n'a pas encore été notifiée."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code du travail : articles L1233-65 à L1233-70",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000006195618"
+    },
+    {
+      "titre": "Arrêté du 16 avril 2015 relatif à l'agrément de la convention du 26 janvier 2015 relative au contrat de sécurisation professionnelle (CSP)",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000030513552"
+    },
+    {
+      "titre": "Arrêté du 6 octobre 2011 relatif à l'agrément de la convention du 19 juillet 2011 relative au contrat de sécurisation professionnelle",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000024691298/"
+    },
+    {
+      "titre": "Circulaire Unedic n°2022-04 du 28 février 2022",
+      "url": "https://www.unedic.org/sites/default/files/2022-03/PRE-CIRC-Circulaire_n_2022-04_du_28_fevrier_2022.pdf"
+    },
+    {
+      "titre": "Circulaire Unedic n°2011-36 du 9 décembre 2011",
+      "url": "https://www.unedic.org/ged/documents/circulars/pdf/ci201136.pdf"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Guide des simulateurs d'allocations et aides de France Travail (anciennement Pôle emploi)",
+      "url": "https://candidat.francetravail.fr/portail-simulateurs/",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "France Travail"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "allocation-de-securisation-professionnelle-asp",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "licenciement-economique",
+      "titre": "Licenciement économique"
+    }
+  ]
+}

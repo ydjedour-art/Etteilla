@@ -1,0 +1,66 @@
+{
+  "id": "F948",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Contrat de mariage",
+  "theme": "Famille - Scolarité",
+  "description": "Pour choisir ou changer son régime matrimonial, on signe un contrat de mariage avec un notaire. Sans contrat, c’est le régime de la communauté légale.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-01-27",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F948",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Mariage",
+    "Contrat de mariage"
+  ],
+  "introduction": "Vous allez vous marier et vous voulez choisir votre régime matrimonial ? Si vous vous mariez sans contrat, vous êtes soumis au régime de la communauté légale. Vous devez signer un contrat de mariage si vous voulez opter pour un autre régime. Si vous souhaitez changer de régime, vous devez aussi établir un contrat. Dans les 2 cas, le recours à un notaire est obligatoire. Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code civil : articles 1387 à 1399-6",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006136353/"
+    },
+    {
+      "titre": "Code civil : article 1497",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006440330"
+    },
+    {
+      "titre": "Code civil : article 1526",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006165621/"
+    },
+    {
+      "titre": "Code civil : articles 1536 à 1543",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136375/#LEGISCTA000006136375"
+    },
+    {
+      "titre": "Code civil : articles 1569 à 1581",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006136376/"
+    },
+    {
+      "titre": "Code du commerce : articles A444-81 à A444-84-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032132134/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Point-justice",
+    "Notaire"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Couples en Europe",
+      "url": "https://www.coupleseurope.eu/fr/"
+    }
+  ],
+  "slug": "contrat-de-mariage",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "mariage",
+      "titre": "Mariage"
+    }
+  ]
+}

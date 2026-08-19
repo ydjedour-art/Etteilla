@@ -1,0 +1,91 @@
+{
+  "id": "F820",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Les parents sont-ils responsables des dettes de leur enfant majeur ?",
+  "theme": "Famille - Scolarité",
+  "description": "Les parents peuvent uniquement être responsables s'ils ont conclu un contrat visant à garantir un engagement de leurs enfants.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-10-20",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F820",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Autorité parentale",
+    "Les parents sont-ils responsables des dettes de leur enfant majeur ?"
+  ],
+  "introduction": "Votre enfant a contracté une dette en tant que jeune majeur. Devez-vous rembourser cette dette ? Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les parents sont-ils responsables des dettes des enfants ?",
+        "Service Public (DILA)",
+        "Conversation par SMS",
+        "*Tu as remboursé ton prêt étudiant pour l'école de commerce ?",
+        "*J'ai du mal...",
+        "*Mais comment tu vas faire ??",
+        "*Mes parents vont sûrement le rembourser",
+        "*Ils sont d'accord ?",
+        "*Je ne leur ai pas demandé mais ils sont obligés de payer mes dettes",
+        "Idée reçue ?",
+        "Les parents doivent-ils rembourser les dettes de leur enfant majeur ?",
+        "Non, les parents ne sont pas responsables des dettes de leur enfant majeur. L'âge de la majorité est fixé à 18 ans. L'enfant devenu majeur est alors responsable des dettes qu'il contracte. Il doit seul assumer ses engagements. Il peut, à ce titre, être condamné par jugement à rembourser ses dettes. Il existe cependant une exception. Lorsque les parents se portent caution de leur enfant majeur, tel est le cas par exemple pour la location d'un appartement ou pour un emprunt, ils peuvent être poursuivis en tant que caution pour rembourser les dettes de leur enfant, même majeur. En dehors de cette exception, à compter de sa majorité, le jeune adulte doit bien réfléchir à la portée de ses engagements.",
+        "Les parents ne sont plus responsables de leur enfant à compter de sa majorité.",
+        "À 18 ans, l'enfant peut exercer ses droits (voter, faire des actes juridiques, conclure des contrats...) et devient responsable de ses actes.",
+        "En cas de dette",
+        "L’enfant majeur qui contracte des dettes (dette de loyers, échéances de crédit non réglées ...) doit en assumer le remboursement.",
+        "En revanche, quand les parents se portent caution lors de la conclusion d’un contrat (caution d’un bail d’habitation, caution d’un crédit...), ils doivent rembourser les impayés en cas de non paiement par l’enfant majeur.",
+        "Les parents qui ont payé la dette en tant que caution peuvent saisir le tribunal pour demander le remboursement de la somme par leur enfant.",
+        "De la même façon, dans l’hypothèse où leur enfant décède, les parents peuvent être amenés à rembourser les dettes de cet enfant. C’est le cas si les parents sont les héritiers de leur enfant et s’ils acceptent la succession.",
+        "[À savoir] Bien que les parents ne soient pas responsables des dettes de leur enfant majeur, ils peuvent être amenés à aider leur enfant au titre de l’obligation alimentaire. Le majeur qui justifie de ne pas pouvoir subvenir à ses besoins peut saisir le Jaf d'une demande de pension alimentaire.",
+        "En cas d’infraction",
+        "Les parents n'ont aucune responsabilité pénale quand leur enfant commet une infraction. C'est la raison pour laquelle c’est à l’enfant de régler ses amendes.",
+        "De la même façon, l’enfant majeur doit assurer la réparation des dommages qu'il cause à d'éventuelles victimes (dommages et intérêts, réparations, restitutions).",
+        "En revanche, si l’enfant majeur est jugé pour des infractions commises lorsqu'il était mineur, ses parents restent civilement responsables. En cas de condamnation à des dommages et intérêts, la partie civile peut demander le paiement de la somme aussi bien aux parents qu’à l’enfant majeur.",
+        "[À savoir] Les parents ne sont pas automatiquement responsables des dommages causés par leur enfant émancipé."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : article 414",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006427400"
+    },
+    {
+      "titre": "Code civil : articles 203 à 211",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136127"
+    },
+    {
+      "titre": "Code civil : article 785",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006431541"
+    },
+    {
+      "titre": "Code civil : articles 1240 à 1244",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032021488/"
+    },
+    {
+      "titre": "Code pénal : article 121-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417201"
+    },
+    {
+      "titre": "Code civil : articles 2288 à 2320",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136563/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Point-justice"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "les-parents-sont-ils-responsables-des-dettes-de-leur-enfant-majeur",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "autorite-parentale",
+      "titre": "Autorité parentale"
+    }
+  ]
+}

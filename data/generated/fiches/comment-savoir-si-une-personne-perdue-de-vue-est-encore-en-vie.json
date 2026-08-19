@@ -1,0 +1,131 @@
+{
+  "id": "F31715",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Comment savoir si une personne perdue de vue est encore en vie ?",
+  "theme": "Famille - Scolarité",
+  "description": "Pour savoir si une personne disparue est toujours vivante, il faut contacter la mairie de sa commune de naissance ou de résidence.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-05-20",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31715",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Déclaration de décès, obsèques et sépulture",
+    "Comment savoir si une personne perdue de vue est encore en vie ?"
+  ],
+  "introduction": "Pour savoir si une personne disparue est toujours vivante, vous pouvez contacter la mairie de sa commune de naissance ou de résidence. Nous vous indiquons la démarche à effectuer en fonction de votre situation.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "La démarche dépend des informations dont vous disposez concernant la personne décédée :",
+        "Vous connaissez sa date et son lieu de naissance",
+        "Vous pouvez demander un extrait d'acte de naissance sans filiation de la personne disparue pour savoir si elle est toujours vivante.",
+        "Vous n'êtes pas obligé d'avoir un lien de parenté avec elle.",
+        "Si la personne est décédée, l'information figure en mention marginale de l'acte.",
+        "La démarche dépend du lieu de naissance de la personne concernée :",
+        "La personne est née en France",
+        "Vous pouvez demander un extrait d'acte de naissance (sans filiation) par l'un des moyens suivants :",
+        "En ligne",
+        "Vous pouvez utiliser un service en ligne :",
+        "Demande d'acte de naissance : copie intégrale ou extrait (naissance en France) - Service gratuit",
+        "Connexion avec France Connect",
+        "Par courrier",
+        "Vous devez envoyer un courrier à la mairie de naissance en indiquant les éléments suivants :",
+        "• Nom de la personne concernée",
+        "• Prénom(s)",
+        "• Date de naissance.",
+        "Mairie",
+        "Sur place",
+        "Vous devez vous adresser à la mairie de naissance de la personne concernée.",
+        "Mairie",
+        "Pour une demande d'extrait sans filiation, aucun document n'est exigé.",
+        "La personne est française et née à l'étranger",
+        "Vous pouvez demander un extrait d'acte de naissance par l'un des moyens suivants :",
+        "En ligne",
+        "Vous pouvez utiliser un service en ligne :",
+        "Demande d'acte de naissance : copie intégrale ou extrait (naissance à l'étranger) - Service gratuit",
+        "Connexion avec France Connect ou un compte Service Public",
+        "Par courrier",
+        "Vous devez envoyer un courrier au Service central d'état civil en indiquant les éléments suivants :",
+        "• Nom de la personne concernée",
+        "• Prénom(s)",
+        "• Date de naissance.",
+        "Service central d'état civil (Scec)",
+        "Attention : le Service central d'état civil n'accueille pas de public.",
+        "État civil (naissance, un mariage ou un décès) d'un Français à l'étranger",
+        "Uniquement par courrier à l'adresse suivante :",
+        "Service central d'état civil",
+        "11, rue de la Maison Blanche",
+        "44941 Nantes Cedex 09",
+        "Vous pouvez faire une demande d'acte d'état civil via un téléservice.",
+        "Pour toute information complémentaire, vous pouvez :",
+        "• Consulter le site diplomatie.gouv.fr",
+        "• Utiliser le formulaire en ligne suivant : https://etat-civil.diplomatie.gouv.fr/rece-informationusager-ui/",
+        "Vous connaissez son dernier domicile",
+        "Vous pouvez vous adresser à la mairie de la commune du dernier domicile de la personne concernée.",
+        "Si la personne est décédée, une copie de son acte de décès peut vous être remise.",
+        "Vous n'avez pas de justificatif à apporter.",
+        "Sur internet",
+        "Vous pouvez utiliser un service en ligne :",
+        "Demande d'acte de décès (survenu en France) - Service gratuit",
+        "Connexion via France Connect",
+        "Par courrier",
+        "Vous pouvez adresser votre demande par courrier à la mairie du dernier domicile de la personne concernée.",
+        "Mairie",
+        "Précisez les informations suivantes :",
+        "• Nom et prénoms du défunt",
+        "• Date du décès",
+        "• Vos coordonnées.",
+        "Sur place",
+        "Vous devez vous adresser à la mairie du dernier domicile de la personne concernée.",
+        "Mairie",
+        "[À savoir] Il n'est plus possible de déposer une demande de recherche dans l'intérêt des familles."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Décret n°2017-890 du 6 mai 2017 relatif à l'état civil",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000034708016/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demande d'acte de naissance : copie intégrale ou extrait (naissance à l'étranger) - Service gratuit",
+      "url": "https://demarches.service-public.gouv.fr/mademarche/delivrance_demat/demarche?action=NAISSANCE",
+      "type": "selNG"
+    },
+    {
+      "titre": "Demande d'acte de naissance : copie intégrale ou extrait (naissance à l'étranger) - Service gratuit",
+      "url": "https://demarches.service-public.gouv.fr/mademarche/delivrance_demat/demarche?action=NAISSANCE",
+      "type": "selNG"
+    },
+    {
+      "titre": "Demande d'acte de décès (survenu en France) - Service gratuit",
+      "url": "https://demarches.service-public.gouv.fr/mademarche/EtatCivil/demarche?action=DECES",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "Mairie",
+    "Service central d'état civil (Scec)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Fichiers des personnes décédées depuis 1970",
+      "url": "https://www.insee.fr/fr/information/4190491"
+    }
+  ],
+  "slug": "comment-savoir-si-une-personne-perdue-de-vue-est-encore-en-vie",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "declaration-de-deces-obseques-et-sepulture",
+      "titre": "Déclaration de décès, obsèques et sépulture"
+    }
+  ]
+}

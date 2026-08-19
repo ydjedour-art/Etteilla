@@ -1,0 +1,68 @@
+{
+  "id": "F16235",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Peut-on transmettre un bien à deux bénéficiaires successifs ?",
+  "theme": "Famille - Scolarité",
+  "description": "Pour transmettre un bien mobilier ou immobilier à 2 bénéficiaires successifs, vous devez désigner les 2 bénéficiaires dans l'acte de donation ou le testament.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-01-21",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F16235",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Testament",
+    "Peut-on transmettre un bien à deux bénéficiaires successifs ?"
+  ],
+  "introduction": "Oui, vous pouvez transmettre un bien mobilier ou immobilier à deux bénéficiaires successifs. La transmission du bien peut être faite par donation ou legs. Vous devez désigner les 2 bénéficiaires du bien dans l'acte de donation ou le testament. Au décès du 1er bénéficiaire, le bien est transmis au 2nd bénéficiaire. La transmission peut être graduelle ou résiduelle.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Transmission graduelle",
+        "Dans le cas d'une donation ou d'un legs graduel, l'acte de donation ou le testament oblige le 1er bénéficiaire à conserver les biens transmis. Au moment de son décès, il transmet les biens à un 2nd bénéficiaire que vous avez préalablement désigné dans l'acte.",
+        "[Exemple] Pour maintenir des bijoux dans la famille, une mère les lègue à sa fille. Celle-ci devra les conserver et les remettre à ses propres enfants.",
+        "Transmission résiduelle",
+        "Dans le cas d'une donation ou d'un legs résiduel, l'acte de donation ou le testament n'impose pas au 1er bénéficiaire de conserver les biens.",
+        "Il doit simplement transmettre ce qu'il en reste à un 2nd bénéficiaire que vous avez préalablement désigné dans l'acte.",
+        "[Exemple] Pour garantir un logement à son fils en situation de handicap, un père lui donne un appartement. Le père désigne sa petite-fille comme second bénéficiaire. Le fils en situation de handicap ne peut plus entretenir l'appartement et décide de le vendre. À son décès, la petite-fille n'obtiendra pas la donation de l'appartement.",
+        "Les bénéficiaires d'une donation ou d'un legs graduel ou résiduel n'ont pas obligatoirement de lien de parenté avec le donateur ou le testateur.",
+        "Vous pouvez transmettre tout type de biens (biens immobiliers, meubles, portefeuille de valeurs mobilières, etc.).",
+        "Chaque bien donné ou légué doit être identifié.",
+        "Si vous voulez faire un legs graduel ou résiduel, vous devez l'indiquer dans votre testament.",
+        "Si vous voulez faire une donation graduelle ou résiduelle, vous devez faire appel à un notaire.",
+        "Notaire",
+        "[À savoir] Les droits de mutation dus par le second bénéficiaire dépendent de son lien de parenté avec le défunt. Les droits payés au moment de la première transmission sont pris en compte pour calculer le montant dû."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : articles 1048 à 1056",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006434876"
+    },
+    {
+      "titre": "Code civil : articles 1057 à 1061",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006150554"
+    },
+    {
+      "titre": "Code civil : articles 931 à 952",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006433777"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Notaire"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "peut-on-transmettre-un-bien-a-deux-beneficiaires-successifs",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "testament",
+      "titre": "Testament"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "id": "F2039",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "École de la 2e chance (E2C)",
+  "theme": "Famille - Scolarité",
+  "description": "L'école de la 2e chance accueille le jeune qui a eu une scolarité difficile. Elle lui permet de suivre une formation qualifiante pour trouver du travail.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-06-12",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2039",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Parcours éducatifs alternatifs",
+    "École de la 2e chance (E2C)"
+  ],
+  "introduction": "Vous avez entre 16 et 25 ans, êtes sorti du système scolaire et sans emploi ? L'école de la 2e chance vous propose une formation rémunérée pour vous insérer dans la vie active. Voici les informations à savoir sur ce dispositif.",
+  "chapitres": [
+    {
+      "titre": "Qu'est-ce que l'école de la 2e chance ?",
+      "contenu": [
+        "L'école de la 2e chance a pour objectif de lutter contre le décrochage scolaire. Elle vous aide à accéder à une formation qualifiante et à intégrer le marché du travail.",
+        "Vous participez à l'élaboration de votre projet de formation et d'insertion sociale et professionnelle.",
+        "La formation comprend une remise à niveau des savoirs de base (mathématiques, français, informatique).",
+        "Vous suivez également des stages en entreprise et des apprentissages individualisés. Ces stages vous permettent de découvrir des métiers et de construire un projet professionnel.",
+        "Une charte des écoles de la 2e chance précise les moyens pédagogiques utilisés par le dispositif."
+      ]
+    },
+    {
+      "titre": "Qui peut intégrer une école de la 2e chance ?",
+      "contenu": [
+        "Pour intégrer une école de la 2e chance, vous devez remplir les 3 critères suivants :",
+        "• Avoir entre 16 et 25 ans. L’âge maximum est étendu à 30 ans si vous obtenu la reconnaissance de la qualité de travailleur handicapé (RQTH).",
+        "• Avoir quitté le système scolaire depuis au moins 1 an, avec ou sans diplôme",
+        "• Être sans emploi.",
+        "Vous pouvez intégrer une école de la 2e chance quelle que soit votre nationalité."
+      ]
+    },
+    {
+      "titre": "Comment s'inscrire dans une école de la 2e chance ?",
+      "contenu": [
+        "L'inscription se fait tout au long de l'année.",
+        "Vous devez choisir une école parmi celles du réseau labellisé des écoles de la 2e chance. Contactez-la pour participer à une réunion d'information collective et à un entretien individuel.",
+        "Écoles de la 2e chance",
+        "L'entretien de sélection permet d'évaluer votre motivation.",
+        "Si l'entretien est positif, votre inscription est finalisée.",
+        "La formation se déroule dans les locaux de l'école de la 2e chance et sur les sites des entreprises partenaires.",
+        "[À noter] Vous pouvez aussi vous inscrire en vous adressant à une mission locale ou à votre conseiller France Travail.",
+        "Mission locale",
+        "France Travail"
+      ]
+    },
+    {
+      "titre": "Comment se déroule le parcours de formation dans une école de la 2e chance ?",
+      "contenu": [
+        "Le parcours est variable en fonction de vos besoins.",
+        "Dans tous les cas, il se déroule en 5 temps :",
+        "• Évaluation et plan de formation avec une période d'intégration progressive",
+        "• Découverte de métiers, stages en entreprises et consolidation des savoirs de base",
+        "• Confirmation du projet professionnel avec l'acquisition de gestes professionnels",
+        "• Préparation à l'emploi et à la formation",
+        "• Suivi et accompagnement jusqu'à 1 an après la sortie de l'E2C.",
+        "[À savoir] Vous passez 40 % du temps de formation dans des entreprises partenaires pour pouvoir découvrir des métiers et choisir une orientation."
+      ]
+    },
+    {
+      "titre": "Quelle est la durée du parcours de formation dans une école de la 2e chance ?",
+      "contenu": [
+        "Le parcours de formation dure, en général, de 4 à 18 mois. Cela dépend du temps nécessaire à l'acquisition des savoirs et des compétences suffisants pour s'insérer dans la vie active."
+      ]
+    },
+    {
+      "titre": "Quel est le coût de la formation dans une école de la 2e chance ?",
+      "contenu": [
+        "Les enseignements et la formation sont gratuits.",
+        "[À savoir] Les problèmes de transport, d'hébergement et de restauration doivent être évoqués au moment de l'inscription pour que l'école puisse trouver des solutions (en sollicitant la mission locale, par exemple)."
+      ]
+    },
+    {
+      "titre": "Quel est le montant de la rémunération pendant la formation dans une école de la 2e chance ?",
+      "contenu": [
+        "Vous recevez, en moyenne, 500 € par mois si vous avez plus de 18 ans.",
+        "Si vous avez entre 16 et 18 ans, la rémunération moyenne est de 200 € par mois.",
+        "Le montant est variable selon votre situation. La protection sociale (maladie, maternité, accident du travail) est incluse dans votre rémunération.",
+        "Cette rémunération est financée par la région."
+      ]
+    },
+    {
+      "titre": "Quels débouchés à la fin du parcours de formation dans une école de la 2e chance ?",
+      "contenu": [
+        "À la fin du parcours, une attestation des compétences acquises est délivrée.",
+        "Votre expérience dans une école de la 2e chance peut vous permettre de trouver un contrat d'aide à l'insertion, un contrat d'apprentissage, un contrat de professionnalisation ou une formation qualifiante.",
+        "Vous pouvez aussi trouver un CDD ou un CDI."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'éducation : articles L214-12 à L214-16-2",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000028698934/2015-01-01"
+    },
+    {
+      "titre": "Code de l'éducation : articles D214-9 à D214-12",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000017730221"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Numéro À chacun sa solution",
+    "Réseau des écoles de la 2e chance",
+    "Mission locale",
+    "France Travail"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Charte des principes fondamentaux du réseau des écoles de la 2e chance",
+      "url": "https://www.e2c-puydedome.fr/wp-content/uploads/2018/04/Charte-du-reseau-E2C.pdf"
+    },
+    {
+      "titre": "Obligation de formation et lutte contre le décrochage scolaire",
+      "url": "https://www.onisep.fr/orientation/decrochage-les-etablissements-ou-reprendre-des-etudes"
+    }
+  ],
+  "slug": "ecole-de-la-2e-chance-e2c",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "parcours-educatifs-alternatifs",
+      "titre": "Parcours éducatifs alternatifs"
+    }
+  ]
+}

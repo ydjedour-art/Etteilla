@@ -1,0 +1,71 @@
+{
+  "id": "F32965",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Décès de la mère pendant le congé maternité : quelles conséquences sur le versement des indemnités journalières (IJ) ?",
+  "theme": "Travail - Formation",
+  "description": "Si la mère décède pendant le congé de maternité, la personne qui vivait en couple avec la mère perçoit le reliquat d'indemnités journalières.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-06-08",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F32965",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Congés dans le secteur privé",
+    "Décès de la mère pendant le congé maternité : quelles conséquences sur le versement des indemnités journalières (IJ) ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Si la mère décède pendant son congé de maternité (quelle que soit la cause du décès), les indemnités journalières (IJ) pour maternité qui n'ont pas encore été versées par la CPAM (ou la MSA si la mère dépendait du régime agricole) peuvent être versées à la personne qui vivait en couple avec la mère.",
+        "Il peut s’agir :",
+        "• Soit du père de l'enfant",
+        "• Soit du conjoint ou du concubin qui vit en couple avec la mère",
+        "• Soit, en cas de reconnaissance conjointe anticipée, de la mère qui n'a pas accouché pour un couple de femmes (mariées, pacsées ou en union libre).",
+        "Pour percevoir les indemnités, le père ou la personne qui vivait en couple avec la mère décédée doit cesser tout travail salarié pendant toute la période d'indemnisation dont aurait bénéficié la mère.",
+        "S’il est salarié ou si elle est salariée, le père ou la personne qui vivait en couple avec la mère décédée doit :",
+        "• avertir son employeur du motif de son absence. Il doit également préciser à l'employeur la date prévue de sa reprise de travail.",
+        "• adresser sa demande de transfert des indemnités à la CPAM ou à la MSA en remplissant un formulaire :",
+        "Demande d'indemnisation du congé de maternité restant dû à la suite du décès de la mère d'un nouveau-né",
+        "Il faut joindre les documents permettant de justifier de sa situation.",
+        "Caisse primaire d'assurance maladie (CPAM)",
+        "Mutualité sociale agricole (MSA)",
+        "Les indemnités sont versées pendant une durée au maximum égale à la durée d'indemnisation du congé maternité en cours.",
+        "Le salarié bénéficie de la protection contre le licenciement prévue en cas de congé de maternité."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la sécurité sociale : articles L331-3 à L331-7",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006172598"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles D331-3 à D331-8",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000030819618"
+    },
+    {
+      "titre": "Code rural et de la pêche maritime : articles R732-17 à D732-29-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071367/LEGISCTA000006183672/"
+    },
+    {
+      "titre": "Code du travail : article L1225-28",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029962521"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "deces-de-la-mere-pendant-le-conge-maternite-quelles-consequences-sur-le-versement-des-indemnites-journalieres-ij",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "conges-dans-le-secteur-prive",
+      "titre": "Congés dans le secteur privé"
+    }
+  ]
+}

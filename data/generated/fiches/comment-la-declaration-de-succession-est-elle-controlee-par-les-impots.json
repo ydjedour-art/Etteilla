@@ -1,0 +1,95 @@
+{
+  "id": "F418",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Comment la déclaration de succession est-elle contrôlée par les impôts ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Les impôts disposent d'un délai pour contrôler et contester votre déclaration de succession.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-06-26",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F418",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Droits de succession et de donation",
+    "Comment la déclaration de succession est-elle contrôlée par les impôts ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les services des impôts peuvent contrôler votre déclaration de succession et réclamer un supplément d'impôt. Vous pouvez vous-même demander un contrôle de la déclaration et bénéficier d'un délai plus court. Nous vous présentons les informations à connaître."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Livre des procédures fiscales : articles L10 à L11 A",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006163088/"
+    },
+    {
+      "titre": "Livre des procédures fiscales : article L17",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006197480/"
+    },
+    {
+      "titre": "Livre des procédures fiscales : articles L19 à L21",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000024533910/"
+    },
+    {
+      "titre": "Livre des procédures fiscales : article L21 B",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000022916635/"
+    },
+    {
+      "titre": "Livre des procédures fiscales : articles L55 à L61B",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006180034/"
+    },
+    {
+      "titre": "Livre des procédures fiscales : article L180",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006180133/"
+    },
+    {
+      "titre": "Livre des procédures fiscales : articles L181 à L183",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006180066/"
+    },
+    {
+      "titre": "Livre des procédures fiscales : articles L186 à L188 C",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006163105/"
+    },
+    {
+      "titre": "Arrêté du 28 janvier 2021 portant création du service national de l'enregistrement",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000043099925/"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-CF-PGR-10 relatif à la prescription du délai de reprise en matière d'enregistrement",
+      "url": "http://bofip.impots.gouv.fr/bofip/1388-PGP"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demander le contrôle d'une déclaration de succession",
+      "url": "https://bofip.impots.gouv.fr/bofip/2405-PGP",
+      "type": "lettreTypeNG"
+    }
+  ],
+  "contacts": [
+    "Notaire",
+    "Service en charge des impôts (trésorerie, service des impôts...)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Site des impôts",
+      "url": "https://www.impots.gouv.fr/portail/"
+    }
+  ],
+  "slug": "comment-la-declaration-de-succession-est-elle-controlee-par-les-impots",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "droits-de-succession-et-de-donation",
+      "titre": "Droits de succession et de donation"
+    }
+  ]
+}

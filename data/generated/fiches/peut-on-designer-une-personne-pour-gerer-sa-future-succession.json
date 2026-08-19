@@ -1,0 +1,54 @@
+{
+  "id": "F16271",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Peut-on désigner une personne pour gérer sa future succession ?",
+  "theme": "Famille - Scolarité",
+  "description": "Vous pouvez désigner un exécuteur testamentaire ou, à certaines conditions, mandataire à effet posthume pour gérer votre future succession.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-11-17",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F16271",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Testament",
+    "Peut-on désigner une personne pour gérer sa future succession ?"
+  ],
+  "introduction": "Oui, de votre vivant, vous pouvez désigner une personne pour gérer votre future succession. Vous pouvez nommer un exécuteur testamentaire pour faire respecter vos volontés. Vous pouvez, à certaines conditions, confier à un mandataire à effet posthume la mission de gérer vos biens pour le compte de vos héritiers. C’est le cas par exemple si un de vos héritiers est une personne vulnérable ou lorsque la gestion de votre patrimoine nécessite des compétences particulières. Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code civil : articles 1025 à 1034",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006434756"
+    },
+    {
+      "titre": "Code civil : articles 812 à 812-1-4",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006165525"
+    },
+    {
+      "titre": "Code civil : articles 812-2 à 812-3",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006165526"
+    },
+    {
+      "titre": "Code civil : articles 812-4 à 812-7",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006165527"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Tribunal judiciaire ou tribunal de proximité",
+    "Notaire",
+    "Chambre départementale des notaires"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "peut-on-designer-une-personne-pour-gerer-sa-future-succession",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "testament",
+      "titre": "Testament"
+    }
+  ]
+}

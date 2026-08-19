@@ -1,0 +1,187 @@
+{
+  "id": "F163",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Médecin traitant et parcours de soins coordonnés",
+  "theme": "Social - Santé",
+  "description": "En consultant votre médecin traitant, vous rentrez dans le parcours de soins. Vous êtes ainsi mieux remboursé.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-05-15",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F163",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Remboursement des soins par la Sécurité sociale",
+    "Médecin traitant et parcours de soins coordonnés"
+  ],
+  "introduction": "Quel est le rôle du médecin traitant dans le parcours de soins coordonnés ? Il consiste à se voir confier la coordination des soins pour votre suivi médical. C'est vous qui choisissez votre médecin traitant. Il est votre premier interlocuteur pour votre santé. Il vous oriente vers un spécialiste en cas de besoin. En consultant votre médecin traitant, vous rentrez dans le parcours de soins. Vous êtes ainsi mieux remboursé. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Peut-on choisir librement son médecin traitant ?",
+      "contenu": [
+        "Oui, vous pouvez choisir librement votre médecin traitant. Cependant, il doit donner son accord pour remplir ce rôle.",
+        "Pour les enfants de moins de 16 ans, l'un au moins des 2 parents (ou la personne ayant l'autorité parentale) choisit le médecin traitant.",
+        "Si vous n’avez pas réussi à trouver un médecin traitant, vous pouvez contacter une organisation coordonnée territoriale. En cas de difficulté (exemple : il n'existe pas d'organisation coordonnée territoriale dans votre territoire), vous pouvez contacter votre CPAM.",
+        "Caisse primaire d'assurance maladie (CPAM)"
+      ]
+    },
+    {
+      "titre": "Qui peut être médecin traitant ?",
+      "contenu": [
+        "Le médecin traitant peut être :",
+        "• Généraliste",
+        "• Spécialiste",
+        "• Conventionné secteur 1 (pas de dépassement d'honoraires)",
+        "• Conventionné secteur 2 (dépassement d'honoraires possible).",
+        "[À noter] Il est possible de savoir de quel secteur relève son médecin en allant sur l'annuaire d'Ameli : Annuaire santé - Site Ameli",
+        "Le médecin traitant peut exercer :",
+        "• Seul",
+        "• Au sein d'un cabinet de groupe",
+        "• Dans un centre de santé",
+        "• Au sein d'un hôpital.",
+        "Il peut être situé à l'endroit qui vous convient le mieux : près de votre domicile, près de votre travail ...",
+        "[À noter] Vous ne pouvez pas désigner un médecin remplaçant comme médecin traitant."
+      ]
+    },
+    {
+      "titre": "Dans quelles situations faut-il déclarer un médecin traitant ?",
+      "contenu": [
+        "Vous devez déclarer un médecin traitant à l'Assurance maladie si vous êtes dans l'une des situations suivantes :",
+        "• Vous n’avez pas encore de médecin traitant",
+        "• Vous en changez",
+        "• Votre médecin traitant cesse son activité."
+      ]
+    },
+    {
+      "titre": "Comment déclarer son médecin traitant ?",
+      "contenu": [
+        "2 possibilités s'offrent à vous pour déclarer votre médecin traitant.",
+        "En ligne par le médecin",
+        "Le médecin peut vous proposer d'effectuer la déclaration par internet.",
+        "Il aura besoin de votre carte Vitale.",
+        "Par courrier",
+        "Vous devez remplir un formulaire de déclaration avec le médecin que vous avez choisi, par exemple lors d'une consultation.",
+        "En effet, vous et le médecin devez signer ce formulaire.",
+        "Une fois le formulaire rempli, vous pouvez :",
+        "• Le remettre à votre caisse d'Assurance maladie",
+        "• Ou l'envoyer à votre caisse par courrier.",
+        "Déclarer son médecin traitant",
+        "[À savoir] La notice du formulaire vous explique comment renseigner les rubriques.",
+        "Caisse primaire d'assurance maladie (CPAM)",
+        "Mutualité sociale agricole (MSA)",
+        "Votre déclaration reste valide tant que vous et votre médecin êtes d'accord pour continuer cette relation patient/médecin traitant."
+      ]
+    },
+    {
+      "titre": "Comment changer de médecin traitant ?",
+      "contenu": [
+        "Vous êtes libre de changer de médecin traitant quand vous le souhaitez et sans justificatif.",
+        "Pour déclarer votre nouveau médecin traitant, la démarche est la même que pour la désignation.",
+        "Votre nouvelle déclaration annule la précédente.",
+        "Vous n'êtes pas obligé d'informer votre précédent médecin traitant. Cependant, cette information peut faciliter son organisation."
+      ]
+    },
+    {
+      "titre": "Quelles sont les missions du médecin traitant ?",
+      "contenu": [
+        "Les principales missions du médecin traitant sont les suivantes :",
+        "• Assurer un 1er niveau de recours aux soins et coordonner le suivi médical",
+        "• Vous orienter dans le parcours de soins coordonnés",
+        "• Connaître et gérer votre dossier médical",
+        "• Établir un protocole de soins pour une affection de longue durée",
+        "• Assurer une prévention personnalisée (vaccination, conseils santé en fonction de votre style de vie...).",
+        "[À savoir] Le médecin traitant peut accéder aux données intégrées par les professionnels de santé dans Mon espace santé si vous l'avez ouvert."
+      ]
+    },
+    {
+      "titre": "En quoi consiste le parcours de soins coordonnés ?",
+      "contenu": [
+        "Le parcours de soins coordonnés consiste à consulter en priorité votre médecin traitant pour votre suivi médical.",
+        "Si vous consultez un médecin que vous n'avez pas déclaré comme médecin traitant, vous êtes moins bien remboursé.",
+        "Cependant, vous serez remboursé normalement notamment si vous êtes dans l'une des situations suivantes :",
+        "• Vous avez moins de 16 ans",
+        "• Vous êtes loin de chez vous",
+        "• Vous consultez en urgence."
+      ]
+    },
+    {
+      "titre": "Quelles consultations rentrent dans le parcours de soins coordonnés ?",
+      "contenu": [
+        "En plus de la consultation chez votre médecin traitant, d'autres consultations rentrent dans le parcours de soins et sont donc remboursées normalement.",
+        "En effet, vous êtes dans le parcours de soins coordonnés si vous consultez notamment l'un des médecins suivants :",
+        "• Remplaçant de votre médecin traitant",
+        "• Autre médecin, dit médecin correspondant, à la demande de votre médecin traitant",
+        "• Gynécologue, ophtalmologue, psychiatre, stomatologue (à la condition d'avoir déclaré un médecin traitant)",
+        "• IVG",
+        "• Chirurgiens-dentistes",
+        "• Sages-femmes",
+        "• Fournisseurs d'appareillages (exemple : opticien)",
+        "• Actes de dépistage organisés dans le cadre de la campagne nationale contre le cancer du sein.",
+        "Vous êtes donc remboursé normalement même si vous les consultez sans passer par votre médecin traitant."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la sécurité sociale : articles L162-5 à L162-5-4",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000006186122/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles L162-24-1 à L162-30-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000006186124"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles D162-1-6 à D162-1-8",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006185483"
+    },
+    {
+      "titre": "Arrêté du 20 juin 2024 portant approbation de la convention nationale organisant les rapports entre les médecins libéraux et l’assurance maladie",
+      "url": "https://www.legifrance.gouv.fr/download/pdf?id=gUcQY-SsH5mgsfckIXs63JUNJ-PzvDi6Xc_2Adw0K7g"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Déclarer son médecin traitant",
+      "url": "https://www.ameli.fr/sites/default/files/formualires/132/s3704_0.pdf",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Ameli en ligne",
+      "url": "https://assure.ameli.fr/PortailAS/appmanager/PortailAS/assure?_somtc=true&_pageID=P1_NAISSANCE_ENFANT&utm_source=ameli.fr&utm_medium=lien_redirection&utm_campaign=NAISSANCE_ENFANT#idPopupWARecueilConsentement",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "Caisse primaire d'assurance maladie (CPAM)",
+    "Mutualité sociale agricole (MSA)",
+    "Santé Info Droits"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Le parcours de soins coordonnés",
+      "url": "https://www.ameli.fr/assure/remboursements/etre-bien-rembourse/medecin-traitant-parcours-soins-coordonnes"
+    },
+    {
+      "titre": "Choisir et déclarer votre médecin traitant",
+      "url": "https://www.ameli.fr/assure/droits-demarches/principes/choisir-et-declarer-votre-medecin-traitant"
+    },
+    {
+      "titre": "Annuaire santé - Site Ameli",
+      "url": "https://annuairesante.ameli.fr/"
+    },
+    {
+      "titre": "L'organisation coordonnée territoriale peut aider à avoir un médecin traitant",
+      "url": "https://www.ameli.fr/assure/droits-demarches/difficultes-acces-droits-soins/organisations-coordonnees-territoriales#backToTop"
+    }
+  ],
+  "slug": "medecin-traitant-et-parcours-de-soins-coordonnes",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "remboursement-des-soins-par-la-securite-sociale",
+      "titre": "Remboursement des soins par la Sécurité sociale"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "F18362",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Obligation de quitter le territoire français (OQTF)",
+  "theme": "Étranger - Europe",
+  "description": "Un étranger en situation irrégulière ou à qui un titre de séjour est refusé peut faire l'objet d'une obligation de quitter le territoire français.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2024-11-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F18362",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Éloignement d'un étranger (expulsion, OQTF...)",
+    "Obligation de quitter le territoire français (OQTF)"
+  ],
+  "introduction": "La décision d'éloignement ou d'obligation de quitter le territoire français est prise par le préfet, notamment en cas de refus de délivrance de titre de séjour ou de séjour irrégulier en France. Si vous êtes concerné, la décision vous oblige à quitter la France par vos propres moyens dans un délai de 30 jours. Dans des situations limitées, elle peut aussi vous obliger à quitter la France sans délai. Un recours est possible. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "La réglementation varie selon que vous êtes obligé de quitter le territoire français dans un délai de 30 jours ou sans délai.",
+        "[À noter] Certaines dispositions spécifiques à l'outre-mer ne sont pas traitées dans cette fiche."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles L611-1 à L611-3",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042772748/#LEGISCTA000042775580"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles L651-1 et suivants",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042772966/"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles L720-1 à L722-12",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042773048/#LEGISCTA000042775271"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : L900-1 à L931-4",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000049077897/"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : article R611-3",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042802426/"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles R613-1 à R613-7",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042802440/#LEGISCTA000042805818"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles 614-1 et suivants",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042772814/"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles R721-4 à R721-7",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042802706/#LEGISCTA000042805552"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : R900-1 à R931-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000049975158/"
+    },
+    {
+      "titre": "Circulaire du 14 juillet 2024 relative à la simplification des règles du contentieux relatif à l'entrée, au séjour et à l'éloignement des étrangers",
+      "url": "https://media.interieur.gouv.fr/bomi/BOMI2024-7-2/textes/I00_20240714_IOMV2419202J.pdf"
+    },
+    {
+      "titre": "Instruction relative à l'expulsion et l'éloignement des étrangers délinquants",
+      "url": "https://www.legifrance.gouv.fr/download/pdf/circ?id=45518"
+    },
+    {
+      "titre": "Réponse ministérielle sur la validité de l'OQTF",
+      "url": "https://www.senat.fr/questions/base/2022/qSEQ220700896.html"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Préfecture"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "obligation-de-quitter-le-territoire-francais-oqtf",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "eloignement-d-un-etranger-expulsion-oqtf",
+      "titre": "Éloignement d'un étranger (expulsion, OQTF...)"
+    }
+  ]
+}

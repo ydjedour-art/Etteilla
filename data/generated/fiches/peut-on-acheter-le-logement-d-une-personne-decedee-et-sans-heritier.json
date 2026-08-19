@@ -1,0 +1,78 @@
+{
+  "id": "F34850",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Peut-on acheter le logement d'une personne décédée et sans héritier ?",
+  "theme": "Famille - Scolarité",
+  "description": "L'achat du bien immobilier est possible uniquement auprès du service du Domaine.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2024-10-28",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34850",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Règlement d'une succession",
+    "Peut-on acheter le logement d'une personne décédée et sans héritier ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Oui, vous pouvez acheter le logement d'une personne décédée et sans héritier uniquement auprès du service du Domaine. Ce service peut vendre les biens immobiliers appartenant aux successions vacantes.",
+        "Pour consulter les biens disponibles et la procédure d'achat, rendez-vous sur le site des ventes du Domaine.",
+        "Acheter un bien immobilier vendu par le Domaine"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : articles 809 à 809-3",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006165521"
+    },
+    {
+      "titre": "Code civil : articles 810 à 810-6",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006165522"
+    },
+    {
+      "titre": "Code civil : articles 810-7 à 810-12",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006165523"
+    },
+    {
+      "titre": "Code de procédure civile : articles 1343 à 1349",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006181710"
+    },
+    {
+      "titre": "Code de procédure civile : article 1354",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006165249"
+    },
+    {
+      "titre": "Code général de la propriété des personnes publiques : article R3211-5",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024885640"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Acheter un bien immobilier vendu par le Domaine",
+      "url": "https://encheres-domaine.gouv.fr/hermes/liste_biens_immobiliers_1.html",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "La vente des biens issus des successions vacantes",
+      "url": "https://www.impots.gouv.fr/particulier/la-vente-des-biens-issus-des-successions-vacantes"
+    }
+  ],
+  "slug": "peut-on-acheter-le-logement-d-une-personne-decedee-et-sans-heritier",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "reglement-d-une-succession",
+      "titre": "Règlement d'une succession"
+    }
+  ]
+}

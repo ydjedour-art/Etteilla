@@ -1,0 +1,54 @@
+{
+  "id": "F14748",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Micro-logement : doit-on payer une taxe en cas de loyer élevé ?",
+  "theme": "Logement",
+  "description": "Non, la taxe annuelle due par certains propriétaires de logements mis en location dans les grandes agglomérations n'existe plus.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-01-06",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F14748",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Bail d’habitation : loyer",
+    "Micro-logement : doit-on payer une taxe en cas de loyer élevé ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Non, cette taxe n'existe plus.",
+        "Jusqu'en 2019, le propriétaire d'un logement ayant une surface habitable inférieure ou égale à 14 m² devait payer une taxe annuelle. Elle s'appliquait dans certains cas seulement, selon le montant du loyer et la localisation du logement."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Bofip-impôts n°BOI-RFPI-CTRL-10 relatif à la taxe sur les loyers élevés des logements de petite surface (\"Taxe Apparu\")",
+      "url": "http://bofip.impots.gouv.fr/bofip/9396-PGP.html"
+    },
+    {
+      "titre": "Code général des impôts : article 234",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000006162541/"
+    },
+    {
+      "titre": "Décret n°2011-2060 du 30 décembre 2011 relatif à la taxe sur les loyers élevés des logements de petite surface",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000025059888/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "micro-logement-doit-on-payer-une-taxe-en-cas-de-loyer-eleve",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "bail-d-habitation-loyer",
+      "titre": "Bail d’habitation : loyer"
+    }
+  ]
+}

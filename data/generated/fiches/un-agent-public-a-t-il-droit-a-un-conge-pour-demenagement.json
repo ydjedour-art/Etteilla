@@ -1,0 +1,43 @@
+{
+  "id": "F34539",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Un agent public a-t-il droit à un congé pour déménagement ?",
+  "theme": "Travail - Formation",
+  "description": "Les employeurs publics peuvent accorder une autorisation d'absence aux fonctionnaires et aux contractuels en cas de déménagement.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-10-09",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34539",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Congés dans la fonction publique",
+    "Un agent public a-t-il droit à un congé pour déménagement ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Aucun texte ne prévoit la possibilité pour un agent public de s'absenter sur ses heures de travail lors du déménagement de sa résidence principale.",
+        "Toutefois, certains employeurs publics peuvent accorder une autorisation d'absence pour déménagement.",
+        "Chaque administration fixe ses propres règles en la matière.",
+        "Si vous déménagez, renseignez-vous auprès de votre direction des ressources humaines pour savoir si des autorisations d’absence peuvent vous être accordées à cette occasion."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "un-agent-public-a-t-il-droit-a-un-conge-pour-demenagement",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "conges-dans-la-fonction-publique",
+      "titre": "Congés dans la fonction publique"
+    }
+  ]
+}

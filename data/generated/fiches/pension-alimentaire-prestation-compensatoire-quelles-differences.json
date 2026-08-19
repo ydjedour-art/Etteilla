@@ -1,0 +1,103 @@
+{
+  "id": "F2236",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Pension alimentaire, prestation compensatoire : quelles différences ?",
+  "theme": "Famille - Scolarité",
+  "description": "La pension alimentaire repose sur l’obligation alimentaire. La prestation compensatoire compense la baisse de niveau de vie à la suite d'un divorce.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-03-11",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2236",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Séparation des parents",
+    "Pension alimentaire, prestation compensatoire : quelles différences ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Différences entre pension alimentaire et prestation compensatoire",
+        "Pension alimentaire",
+        "Prestation compensatoire",
+        "Dans quels cas est-elle versée ?",
+        "Un lien de famille doit exister entre celui qui paye la pension alimentaire et celui qui la reçoit.",
+        "Celui qui la reçoit n'est pas en capacité de subvenir à ses besoins.",
+        "La prestation compensatoire peut être réclamée par un époux, uniquement en cas de divorce (divorce par consentement mutuel ou divorce judiciaire).",
+        "Elle permet de compenser le changement important de niveau de vie que le divorce peut créer pour un des époux.",
+        "Les concubins et les partenaires de Pacs qui se séparent ne peuvent pas la demander.",
+        "Qui doit la payer à qui ?",
+        "• Les parents à l'enfant mineur ou majeur",
+        "• Les enfants à leur père et mère",
+        "• Les gendres et brus à leur beau-père ou belle-mère",
+        "• Dans le cadre du mariage : un époux à l'autre époux en cas de séparation de corps ou de fait",
+        "L'ex-époux à son ex-époux qui, du fait du divorce, subit une baisse de son niveau de vie",
+        "Comment est-elle déterminée ?",
+        "La pension alimentaire est proportionnelle aux ressources de celui qui la verse (le débiteur) et aux besoins de celui qui la reçoit (le créancier).",
+        "La prestation compensatoire est fixée en fonction de la différence de niveau de vie actuel et futur des époux.",
+        "Plusieurs éléments sont pris en considération (durée du mariage, âge et état de santé des époux, qualification et situation professionnelles, revenus de chaque époux...).",
+        "Comment est-elle payée ?",
+        "Elle prend la forme d'une aide financière versée tous les mois, sous forme de rente.",
+        "Elle peut également consister en une aide en nature (obligation d'héberger, de nourrir et d'entretenir...).",
+        "La prestation compensatoire est versée sous la forme d'un capital ou d'une rente.",
+        "Elle peut aussi être versée sous d'autres formes comme l'attribution de la propriété d'un bien, un droit d'habitation ou d'usufruit par exemple.",
+        "Peut-elle être revalorisée ?",
+        "Son montant est revalorisé chaque année en fonction d'une formule de calcul indiquée dans la décision de justice ou la convention parentale.",
+        "Son montant peut être revalorisé chaque année en fonction d'une formule de calcul indiquée dans la décision de justice ou dans la convention de divorce.",
+        "Peut-elle être révisée ?",
+        "Son montant peut être modifié en cas de changement de situation (évolution des revenus ou des charges du débiteur ou du créancier, des besoins du créancier...).",
+        "Le montant de la rente peut être modifié en cas de changement important des ressources ou des besoins de l'un ou l'autre des ex-époux.",
+        "Les modalités de paiement du capital peuvent être révisées en cas de changement important dans la situation du débiteur.",
+        "Que se passe-t-il en cas de décès du débiteur ?",
+        "La pension alimentaire cesse d'être payée.",
+        "Le paiement de la prestation compensatoire est transmis aux héritiers."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : articles 373-2 à 373-2-5",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006165499"
+    },
+    {
+      "titre": "Code civil : articles 371 à 371-6",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006136194/"
+    },
+    {
+      "titre": "Code civil : articles 270 à 281",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006165474"
+    },
+    {
+      "titre": "Code civil : articles 212 à 226",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136137/#LEGISCTA000006136137"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Requête en obligation alimentaire - Saisine du juge aux affaires familiales",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_15454.do",
+      "type": "formulaireNG"
+    },
+    {
+      "titre": "Demande au juge aux affaires familiales (autorité parentale, droit de visite, pension alimentaire...)",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/11530",
+      "type": "formulaireNG"
+    }
+  ],
+  "contacts": [
+    "Permanence juridique"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "pension-alimentaire-prestation-compensatoire-quelles-differences",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "separation-des-parents",
+      "titre": "Séparation des parents"
+    }
+  ]
+}

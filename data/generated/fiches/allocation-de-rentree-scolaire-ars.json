@@ -1,0 +1,81 @@
+{
+  "id": "F1878",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Allocation de rentrée scolaire (ARS)",
+  "theme": "Famille - Scolarité",
+  "description": "Si vous avez au moins un enfant scolarisé âgé de 6 à 18 ans, vous pouvez, sous conditions de ressources, avoir droit à l'allocation de rentrée scolaire (ARS).",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-08-04",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1878",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Aides financières pour la scolarité",
+    "Allocation de rentrée scolaire (ARS)"
+  ],
+  "introduction": "Vous avez au moins un enfant scolarisé âgé de 6 à 18 ans ? Vous pouvez, sous conditions de ressources, avoir droit à l'allocation de rentrée scolaire (ARS). Cette allocation permet de vous aider à financer les dépenses de la rentrée scolaire. Son montant dépend de l'âge de votre enfant et de son niveau de scolarisation. Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de la sécurité sociale : articles L543-1 à L543-2",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006156177"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles D543-1 et D543-2",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006155875"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles R543-1 à D543-7",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006156692"
+    },
+    {
+      "titre": "Instruction interministérielle n° DSS/2B/2025/177 du 18 décembre 2025 relative à la revalorisation, au 1er janvier 2026, des plafonds de ressources d’attribution de certaines prestations familiales",
+      "url": "https://bulletins-officiels.social.gouv.fr/sites/textes-officiels/files/2025-12/SFHS2535630J_0.pdf"
+    },
+    {
+      "titre": "LOI n° 2022-1158 du 16 août 2022 portant mesures d'urgence pour la protection du pouvoir d'achat",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000046186723"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Allocations et prestations familiales - Déclaration de situation (Caf)",
+      "url": "https://connect.caf.fr/connexionappli/dist/?forceReload=20211220&contexteAppel=caffr&urlredirect=%2Fwps%2Fmyportal%2Fcaffr%2Fmoncompte%2Fmonprofil#/login",
+      "type": "selNG"
+    },
+    {
+      "titre": "Caisse d'allocations familiales (Caf) en ligne",
+      "url": "https://connect.caf.fr/connexionappli/dist/?forceReload=20211220&contexteAppel=caffr&urlredirect=%2Fwps%2Fmyportal%2Fcaffr#/login",
+      "type": "selNG"
+    },
+    {
+      "titre": "Calculez votre droit à l'allocation de rentrée scolaire (ARS)",
+      "url": "http://simulation.msa.fr/pw1simars/Enfant/MonDebut.do?reqCode=execute",
+      "type": "Simulateur"
+    }
+  ],
+  "contacts": [
+    "Caisse d'allocations familiales (Caf)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "L'allocation de rentrée scolaire (ARS)",
+      "url": "https://www.caf.fr/allocataires/aides-et-demarches/droits-et-prestations/vie-personnelle/l-allocation-de-rentree-scolaire-ars"
+    },
+    {
+      "titre": "Enfant confié au service de l'aide à l'enfance : comment récupérer vos ARS ?",
+      "url": "https://consignations.caissedesdepots.fr/particulier/recuperer-votre-argent-consigne/recuperez-vos-allocations-de-rentree-scolaire-ars"
+    }
+  ],
+  "slug": "allocation-de-rentree-scolaire-ars",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "aides-financieres-pour-la-scolarite",
+      "titre": "Aides financières pour la scolarité"
+    }
+  ]
+}

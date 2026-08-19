@@ -1,0 +1,92 @@
+{
+  "id": "F1386",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Faire opposition à une décision de justice civile ou pénale",
+  "theme": "Justice",
+  "description": "L'opposition permet de contester une décision rendue par défaut, en l'absence de la partie.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-11-20",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1386",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Contestation d'un jugement",
+    "Faire opposition à une décision de justice civile ou pénale"
+  ],
+  "introduction": "Vous venez de recevoir une décision de justice pour laquelle vous avez été jugée en votre absence. Vous n’avez pas eu connaissance de la date de l'audience. Vous vous demandez si vous pouvez faire rejuger votre affaire. Dans certaines circonstances, vous pouvez faire opposition. L’opposition est une voie de rétractation qui permet de faire juger par le même tribunal une affaire déjà jugée. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "L'opposition vous permet de contester une décision civile ou pénale (jugement, ordonnance, arrêt...) rendue en votre absence lorsque vous n'avez pas eu connaissance de la date de l'audience."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de procédure civile : articles 471 à 479",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070716/LEGISCTA000006165203/#LEGISCTA000006165203"
+    },
+    {
+      "titre": "Code de procédure civile : articles 528 à 537",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006135894/"
+    },
+    {
+      "titre": "Code de procédure civile : articles 538 à 541",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070716/LEGISCTA000006135895/"
+    },
+    {
+      "titre": "Code de procédure civile : articles 571 à 578",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006149678/"
+    },
+    {
+      "titre": "Code de procédure civile : article 673",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411058/"
+    },
+    {
+      "titre": "Code de procédure civile : article 622",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410979"
+    },
+    {
+      "titre": "Code de procédure civile : articles 640 à 647-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006135898/"
+    },
+    {
+      "titre": "Code de procédure pénale : articles 487 à 488",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006182910/"
+    },
+    {
+      "titre": "Code de procédure pénale : articles 489 à 493-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006182911/"
+    },
+    {
+      "titre": "Code de procédure pénale : articles 494 à 494-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006182912/"
+    },
+    {
+      "titre": "Code de procédure pénale : articles 544 à 545",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000006151907/#LEGISCTA000006151907"
+    },
+    {
+      "titre": "Code de procédure pénale : articles 550 à 566",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006138096/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Maison de justice et du droit",
+    "Avocat"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "faire-opposition-a-une-decision-de-justice-civile-ou-penale",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "contestation-d-un-jugement",
+      "titre": "Contestation d'un jugement"
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "id": "F34835",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Fichier automatisé des empreintes digitales (Faed)",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Le Faed est une base de données d'empreintes digitales. Il sert à identifier et rechercher les auteurs d'infraction et les personnes disparues.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-01-30",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34835",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Fichiers judiciaires et de police judiciaire",
+    "Fichier automatisé des empreintes digitales (Faed)"
+  ],
+  "introduction": "Qu’est-ce que le Faed ? Il s’agit d’un fichier de police qui répertorie les empreintes digitales (doigts) et palmaires (paume de la main) de personnes disparues et/ou recherchées. Il facilite notamment l'identification des auteurs de crimes ou de délits. Seuls les fonctionnaires et militaires habilités peuvent accéder à ce fichier. La personne dont les données sont enregistrées au Faed peut demander leur communication, leur rectification et leur effacement. Voici les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "À quoi sert le Faed ?",
+      "contenu": [
+        "Le Faed sert à faciliter les actions suivantes :",
+        "• Recherche et identification des auteurs de crimes et de délits",
+        "• Poursuite, instruction et jugement des affaires liées à un crime et/ou à un délit",
+        "• Identification des personnes détenues dans un établissement pénitentiaire",
+        "• Recherche de personnes disparues dans des circonstances inquiétantes ou suspectes",
+        "• Recherche et découverte d'une personne victime d'une infraction ou d'une catastrophe naturelle",
+        "• Recherche et identification d'une personne dont la mort est supposée",
+        "• Identification de personnes décédées ou découvertes grièvement blessées dont l'identité est inconnue",
+        "• Identification d'une personne retenue après une interpellation ayant eu lieu lors d’un contrôle d'identité ou d’un contrôle du titre de séjour.",
+        "Concrètement, ce fichier permet de comparer des empreintes retrouvées sur une personne, sur le lieu d’une infraction ou d’une disparition avec celles qui y sont enregistrées. Par exemple, une empreinte relevée sur une vitre fracturée est comparée au Faed pour déterminer si elle correspond à un individu déjà connu de la police."
+      ]
+    },
+    {
+      "titre": "Qui peut être enregistré au Faed ?",
+      "contenu": [
+        "Seules certaines personnes peuvent être inscrites au Faed. En cas de doute sur une éventuelle inscription dans ce fichier, la personne qui pense y figurer peut faire une demande au service national de police scientifique.",
+        "Quelles personnes peuvent être inscrites au Faed ?",
+        "Les personnes dont les informations peuvent être enregistrées au Faed sont les suivantes :",
+        "• Personne mise en cause dans le cadre d'une enquête ou d'une instruction pour un crime ou un délit",
+        "• Personne concernée par une enquête ou une instruction au cours de laquelle la police recherche les causes d'un décès ou d'une disparition",
+        "• Personne concernée par une enquête ou une instruction qui suit la découverte d'une personne grièvement blessée",
+        "• Personne détenue dans un établissement pénitentiaire",
+        "• Personne victime ou dont on suppose qu'elle est victime d'un enlèvement ou d'une séquestration",
+        "• Personne dont la disparition est inexpliquée.",
+        "[Attention] Il est impossible de s'opposer à l'enregistrement de données sur le Faed.",
+        "Comment obtenir des informations sur une éventuelle inscription au Faed ?",
+        "Pour avoir des informations sur une éventuelle inscription au Faed ou pour obtenir les données collectées, la personne concernée peut faire une demande écrite au service national de police scientifique.",
+        "Cette demande doit être accompagnée d'une pièce d'identité (carte d'identité, passeport, etc.).",
+        "La demande est gratuite.",
+        "Service national de police scientifique"
+      ]
+    },
+    {
+      "titre": "Quelles autorités peuvent accéder au Faed ?",
+      "contenu": [
+        "Seuls les fonctionnaires et militaires autorisés et affectés dans les services suivants ont accès au Faed :",
+        "• Services de police scientifique de la police nationale",
+        "• Service central de renseignement criminel de la gendarmerie nationale",
+        "• Unités de recherche de la gendarmerie nationale",
+        "• Services des douanes et services fiscaux habilités",
+        "• Service en charge du casier judiciaire national.",
+        "Le Faed peut également être consulté par les personnes suivantes :",
+        "• Agent d'un organisme de coopération internationale concernant la police judiciaire (par exemple, Interpol)",
+        "• Agent d'un service de police ou de justice d'un État étranger."
+      ]
+    },
+    {
+      "titre": "Quelles sont les données enregistrées au Faed ?",
+      "contenu": [
+        "Les principales données enregistrées au Faed sont les empreintes digitales et palmaires (doigts et paumes de la main).",
+        "Ces données peuvent être accompagnées de plusieurs renseignements, notamment :",
+        "• Sexe de la personne",
+        "• Nom, prénoms, date et lieu de naissance, nationalité et filiation si la personne est identifiée",
+        "• Dans certains cas, immatriculation, marque et type de véhicule sur lequel les empreintes ont été prélevées",
+        "• Date des faits, nature de l'affaire et référence au cadre dans lequel a eu lieu la collecte",
+        "• Service ayant procédé ou fait procéder à la collecte et à l'enregistrement des données au Faed",
+        "• Date, lieu et endroit au sein duquel a eu lieu la collecte",
+        "• Date d'enregistrement des données dans le fichier."
+      ]
+    },
+    {
+      "titre": "Comment demander la rectification des données enregistrées au Faed ?",
+      "contenu": [
+        "Si la personne inscrite au Faed constate que les données qui la concernent sont inexactes, elle peut demander une rectification auprès du chef du service national de police scientifique.",
+        "Service national de police scientifique",
+        "[À noter] Cette demande doit être accompagnée de la copie recto/verso d’une pièce d'identité (carte d'identité, passeport, etc.).",
+        "En cas de rejet de la demande ou en l'absence de réponse dans un délai de 2 mois, la personne inscrite au Faed peut saisir la Cnil. Pour cela, elle doit lui adresser une demande écrite par courrier postal.",
+        "Cette demande doit préciser les éléments suivants :",
+        "• Nom du fichier concerné ou des fichiers concernés (Taj, FAED, FPR, etc.)",
+        "• Adresse postale.",
+        "Par ailleurs, elle doit être accompagnée des documents suivants :",
+        "• Copie recto/verso d’une pièce d’identité (carte nationale d’identité, passeport, etc.)",
+        "• Demande transmise au chef du service national de police scientifique",
+        "• Décision du chef du service national de police scientifique (s’il a répondu à la demande)",
+        "• Tout document permettant de justifier le recours."
+      ]
+    },
+    {
+      "titre": "Combien de temps sont conservées les données sur le Faed ?",
+      "contenu": [
+        "Quels sont les délais de conservation des données enregistrées au Faed ?",
+        "Les délais de conservations dépendent de la cause pour laquelle l'enregistrement a eu lieu.",
+        "Durée de conservation des données au Faed",
+        "Causes de l’enregistrement au Faed",
+        "Durée de conservation",
+        "Empreintes d’origine inconnue collectées dans le cadre d’une enquête ou d’une instruction pour délit",
+        "15 ans",
+        "Empreintes d’origine inconnue collectées dans le cadre d’une enquête ou d’une instruction pour un délit grave (exemple : infractions liées à la prostitution) ou pour un crime",
+        "25 ans",
+        "Empreintes d’un majeur suspecté d’avoir commis un délit",
+        "15 ans",
+        "Empreintes d’un majeur suspecté d’avoir commis un crime",
+        "40 ans",
+        "Empreintes d’un majeur détenu dans un établissement pénitentiaire",
+        "15 ans",
+        "Empreintes d’un mineur suspecté d’avoir commis un délit ou un crime",
+        "10 ans",
+        "Empreintes d’un mineur suspecté d’avoir commis un crime",
+        "25 ans (sauf si le procureur de la République s’y oppose)",
+        "Empreintes d’un mineur détenu dans un établissement pénitentiaire",
+        "10 ans",
+        "Empreintes collectées dans le cadre d’une enquête propre aux causes d'un décès ou d'une disparition",
+        "25 ans",
+        "Empreintes collectées sur un cadavre non identifié ou sur une personne découverte grièvement blessées",
+        "25 ans",
+        "Empreintes d’une éventuellement victime d’enlèvement ou de séquestration",
+        "25 ans",
+        "Les données peuvent-elles être automatiquement effacées du Faed ?",
+        "Les données enregistrées au Faed peuvent être effacées de ce fichier avant la fin du délai normal de conservation. C’est notamment le cas lorsque :",
+        "• La personne disparue et/ou recherchée a été identifiée",
+        "• La personne décédée ou grièvement blessée a été identifiée",
+        "• La personne suspectée d’avoir commis un délit ou un crime a bénéficié d’une relaxe ou d’un acquittement.",
+        "Les données sont supprimées du Faed dès réception de l’avis informant le SNPS, des circonstances qui justifient cet effacement."
+      ]
+    },
+    {
+      "titre": "Peut-on demander l'effacement des données sauvegardées sur le Faed ?",
+      "contenu": [
+        "La personne dont les données sont enregistrées au Faed peut demander qu’elles soient supprimées de ce fichier avant la fin de la durée de conservation. Si sa demande ne reçoit pas de réponse ou qu’elle est rejetée, elle peut former un recours.",
+        "Comment demander l’effacement des données enregistrées au Faed ?",
+        "Pour demander l’effacement des données enregistrées au Faed, la personne concernée doit remplir un formulaire :",
+        "Demande d'effacement d'un signalement au Fichier automatisé des empreintes digitales (FAED) adressée au procureur de la République",
+        "Ce formulaire doit être accompagné d’une copie recto/verso d’une pièce d’identité (carte nationale d’identité, passeport, etc.).",
+        "La demande doit être adressée au greffe du procureur de la République en charge de la procédure pour laquelle l’enregistrement a eu lieu. Elle peut également être transmise au greffe du procureur de la République du domicile de la personne concernée.",
+        "Tribunal judiciaire ou tribunal de proximité",
+        "[Attention] La demande doit obligatoirement être envoyée par lettre recommandée avec accusé de réception (LRAR).",
+        "Le procureur de la République a 2 mois à compter de la demande pour apporter une réponse à la personne concernée. Cette réponse est transmise par LRAR.",
+        "Que faire en cas de rejet d’une demande d’effacement des données du Faed ?",
+        "En cas de rejet de sa demande d’effacement, la personne inscrite au Faed peut faire un recours auprès du président de la chambre de l’instruction. Il en est de même en l’absence de réponse du procureur de la République.",
+        "Le recours doit être fait dans un délai de 10 jours suivant :",
+        "• La fin du délai de 2 mois",
+        "• Ou la réception de la décision du procureur de la République.",
+        "Pour former ce recours, la personne enregistrée au Faed doit remplir un formulaire :",
+        "Demande d'effacement d'un signalement au fichier automatisé des empreintes digitales adressée au président de la chambre de l'instruction",
+        "Le formulaire doit être accompagné des documents suivants :",
+        "• Copie recto/verso d’une pièce d’identité (carte nationale d’identité, passeport, etc.)",
+        "• Copie de la demande adressée au procureur de la République",
+        "• Copie de la décision de refus rendue par le procureur de la République (s’il a répondu à la demande).",
+        "L’ensemble de ces éléments doit être transmis au greffe de la chambre de l’instruction du lieu dans lequel a été menée la procédure ayant donné lieu à l’enregistrement des empreintes. La transmission se fait par courrier RAR.",
+        "Cour d'appel",
+        "La décision est prise dans un délai de 3 mois à partir de la date de réception du recours.",
+        "La personne dont les données sont enregistrées au Faed est informée de la décision par courrier RAR."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de procédure pénale : articles R40-38-1 à R40-38-11",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000031563973/#LEGISCTA000031563980"
+    },
+    {
+      "titre": "Directive (UE) 2016/680 \"Police-Justice\" : traitement des données personnelles en matière d'infractions pénales",
+      "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32016L0680"
+    },
+    {
+      "titre": "Loi n°78-17 du 6 janvier 1978 : articles 87 à 128",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGISCTA000037817613"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demande d'effacement d'un signalement au Fichier automatisé des empreintes digitales (FAED) adressée au procureur de la République",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_16191.do",
+      "type": "formulaireNG"
+    },
+    {
+      "titre": "Demande d'effacement d'un signalement au fichier automatisé des empreintes digitales adressée au président de la chambre de l'instruction",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_16192.do",
+      "type": "formulaireNG"
+    }
+  ],
+  "contacts": [
+    "Service national de police scientifique",
+    "Commission nationale de l'informatique et des libertés (Cnil)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "fichier-automatise-des-empreintes-digitales-faed",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "fichiers-judiciaires-et-de-police-judiciaire",
+      "titre": "Fichiers judiciaires et de police judiciaire"
+    }
+  ]
+}

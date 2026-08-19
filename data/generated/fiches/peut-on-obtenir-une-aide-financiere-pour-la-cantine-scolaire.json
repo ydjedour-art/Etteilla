@@ -1,0 +1,55 @@
+{
+  "id": "F19294",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Peut-on obtenir une aide financière pour la cantine scolaire ?",
+  "theme": "Famille - Scolarité",
+  "description": "Les aides sont accordées sous conditions. Elles varient selon le niveau de scolarisation de l'enfant : primaire, collège ou lycée.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-10-20",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F19294",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Aides financières pour la scolarité",
+    "Peut-on obtenir une aide financière pour la cantine scolaire ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Oui, vous pouvez, sous certaines conditions, obtenir des aides pour payer la cantine de votre enfant. Les possibilités sont différentes selon le niveau de scolarisation de votre enfant : primaire (maternelle et élémentaire) ou collège ou lycée."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'éducation : articles R531-52 à R531-53",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000020743087"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Établissement scolaire",
+    "Mairie",
+    "Services du département",
+    "Conseil régional"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Restauration scolaire et universitaire : quelles aides pouvez-vous obtenir ?",
+      "url": "https://www.economie.gouv.fr/particuliers/aides-restauration-scolaire"
+    }
+  ],
+  "slug": "peut-on-obtenir-une-aide-financiere-pour-la-cantine-scolaire",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "aides-financieres-pour-la-scolarite",
+      "titre": "Aides financières pour la scolarité"
+    }
+  ]
+}

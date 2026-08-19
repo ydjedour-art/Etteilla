@@ -1,0 +1,71 @@
+{
+  "id": "F17611",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Faut-il informer son assurance en cas de retrait du permis de conduire ?",
+  "theme": "Transports - Mobilité",
+  "description": "Il faut informer son assurance en cas de retrait de permis de conduire (invalidation, annulation, suspension administrative ou suspension judiciaire).",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-06-10",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F17611",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Permis de conduire",
+    "Faut-il informer son assurance en cas de retrait du permis de conduire ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Oui, vous devez informer votre assurance en cas de retrait du permis de conduire (invalidation ou annulation), y compris si le retrait est provisoire (suspension administrative ou suspension judiciaire).",
+        "Vous devez informer votre assurance par lettre recommandée avec AR dans un délai de 15 jours à partir de la notification du retrait de permis de conduire.",
+        "Vous pouvez utiliser un modèle pour écrire à l'assureur :",
+        "Déclarer une modification de risque à son assureur"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code des assurances : articles L113-1 à L113-17",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006157200"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Déclarer une modification de risque à son assureur",
+      "url": "https://www.inc-conso.fr/content/vous-declarez-une-modification-de-risque-votre-assureur",
+      "type": "Modèle de document"
+    },
+    {
+      "titre": "Consulter et télécharger les informations du permis de conduire : solde de points, relevé intégral, attestation de droit à conduire sécurisée...",
+      "url": "https://mespoints.permisdeconduire.gouv.fr",
+      "type": "selNG"
+    },
+    {
+      "titre": "Faire un recours en ligne concernant le permis de conduire",
+      "url": "https://recours.permisdeconduire.gouv.fr/",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "Info Banque - Assurance"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Site de la sécurité routière",
+      "url": "http://www.securite-routiere.gouv.fr"
+    }
+  ],
+  "slug": "faut-il-informer-son-assurance-en-cas-de-retrait-du-permis-de-conduire",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "permis-de-conduire",
+      "titre": "Permis de conduire"
+    }
+  ]
+}

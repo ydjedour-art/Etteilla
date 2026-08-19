@@ -1,0 +1,33 @@
+{
+  "id": "F35841",
+  "type_publication": "Recherche guidée",
+  "titre": "Comment obtenir la copie d'un diplôme ?",
+  "theme": "Famille - Scolarité",
+  "description": "Comment obtenir la copie d'un diplôme ?",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2026-08-14",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35841",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Diplômes",
+    "Comment obtenir la copie d'un diplôme ?"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "comment-obtenir-la-copie-d-un-diplome-f35841",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "diplomes",
+      "titre": "Diplômes"
+    }
+  ]
+}

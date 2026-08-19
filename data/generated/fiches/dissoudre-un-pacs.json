@@ -1,0 +1,69 @@
+{
+  "id": "F1620",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Dissoudre un Pacs",
+  "theme": "Famille - Scolarité",
+  "description": "Le Pacs est dissout en cas de séparation, de mariage ou de décès. En cas de séparation, l'initiative peut venir de l'un des partenaires ou des 2.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-08-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1620",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Pacte civil de solidarité (Pacs)",
+    "Dissoudre un Pacs"
+  ],
+  "introduction": "Vous souhaitez mettre fin à votre Pacs ? En cas de séparation, le Pacs que vous avez signé peut être dissout à l'initiative de l'un des partenaires ou des 2. La dissolution est automatique en cas de mariage ou de décès. Nous vous indiquons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code civil : articles 515-1 à 515-7-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006136536/"
+    },
+    {
+      "titre": "Décret n°2006-1806 du 23 décembre 2006 relatif à la déclaration, la modification, la dissolution et la publicité du Pacs",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006055164"
+    },
+    {
+      "titre": "Décret n°2012-966 du 20 août 2012 sur l'enregistrement de la déclaration, modification et dissolution du Pacs reçu par notaire",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000026304871"
+    },
+    {
+      "titre": "Circulaire du 10 mai 2017 relative au transfert des Pacs aux officiers d'état civil",
+      "url": "http://www.textes.justice.gouv.fr/art_pix/JUSC1711700C.pdf"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Déclaration conjointe de dissolution d'un Pacs",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_15789.do",
+      "type": "formulaireNG"
+    }
+  ],
+  "contacts": [
+    "Mairie",
+    "Permanence juridique",
+    "Ambassade ou consulat français à l'étranger",
+    "Notaire",
+    "Tribunal judiciaire ou tribunal de proximité",
+    "Commissaire de justice (anciennement huissier de justice et commissaire-priseur judiciaire)",
+    "Service central d'état civil - Répertoire civil"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Couples en Europe",
+      "url": "https://www.coupleseurope.eu/fr/"
+    }
+  ],
+  "slug": "dissoudre-un-pacs",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "pacte-civil-de-solidarite-pacs",
+      "titre": "Pacte civil de solidarité (Pacs)"
+    }
+  ]
+}

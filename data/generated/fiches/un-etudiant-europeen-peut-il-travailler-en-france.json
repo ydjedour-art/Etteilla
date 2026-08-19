@@ -1,0 +1,50 @@
+{
+  "id": "F13519",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Un étudiant européen peut-il travailler en France ?",
+  "theme": "Étranger - Europe",
+  "description": "Un étudiant européen peut travailler pendant ses études en France, dans la limite de 964 heures par an.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2022-09-09",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F13519",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Entrée d'un étranger en France",
+    "Un étudiant européen peut-il travailler en France ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Oui, si vous êtes étudiant européen, vous pouvez exercer une activité salariée pendant vos études. Vous n'êtes pas obligé d'avoir un titre de séjour ou une autorisation de travail.",
+        "Vous devez occuper votre emploi à titre accessoire (c'est-à-dire en complément de vos études).",
+        "Vous pouvez travailler 964 heures maximum par an, soit 60 % de la durée totale du temps de travail annuel légal.",
+        "Si vous dépassez ce quota, vous n'êtes plus reconnu étudiant, vous changez de catégorie de motif de séjour. Vous relèverez alors de la catégorie des travailleurs.",
+        "Vous devrez déposer votre demande de carte de séjour d'un travailleur citoyen UE/EEE/Suisse sur internet avant la fin de votre titre de séjour étudiant.",
+        "Faire une demande sur internet pour un titre de séjour, un changement de situation, un titre de voyage, une demande de naturalisation - ANEF"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Circulaire du 10 septembre 2010 sur le droit de séjour des citoyens européens et suisses et les membres de leur famille",
+      "url": "https://www.legifrance.gouv.fr/download/pdf/circ?id=32884"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "un-etudiant-europeen-peut-il-travailler-en-france",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "entree-d-un-etranger-en-france",
+      "titre": "Entrée d'un étranger en France"
+    }
+  ]
+}

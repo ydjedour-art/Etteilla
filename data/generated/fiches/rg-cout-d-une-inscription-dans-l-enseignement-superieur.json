@@ -1,0 +1,33 @@
+{
+  "id": "F36520",
+  "type_publication": "Recherche guidée",
+  "titre": "[RG - Coût d'une inscription dans l'enseignement supérieur]",
+  "theme": "Famille - Scolarité",
+  "description": "[RG - Coût d'une inscription dans l'enseignement supérieur]",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2022-07-15",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F36520",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Inscription dans l'enseignement supérieur",
+    "[RG - Coût d'une inscription dans l'enseignement supérieur]"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "rg-cout-d-une-inscription-dans-l-enseignement-superieur",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "inscription-dans-l-enseignement-superieur",
+      "titre": "Inscription dans l'enseignement supérieur"
+    }
+  ]
+}

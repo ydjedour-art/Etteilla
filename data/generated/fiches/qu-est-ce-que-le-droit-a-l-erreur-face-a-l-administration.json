@@ -1,0 +1,82 @@
+{
+  "id": "F34677",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Qu'est-ce que le droit à l'erreur face à l'administration ?",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Le droit à l'erreur garantit aux particuliers de pouvoir régulariser, sous conditions, une erreur commise pour la 1ère fois et de bonne foi.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-08-05",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34677",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Obligations de l'administration vis-à-vis des usagers",
+    "Qu'est-ce que le droit à l'erreur face à l'administration ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "Quelles administrations sont concernées par le droit à l'erreur ?",
+      "contenu": [
+        "Toutes les administrations sont concernées. Par exemple : Caf, France Travail (anciennement Pôle emploi), Assurance maladie, Urssaf, Impôts."
+      ]
+    },
+    {
+      "titre": "Quelles sont les conditions pour bénéficier du droit à l'erreur face à l'administration ?",
+      "contenu": [
+        "Vous devez respecter les 3 conditions suivantes :",
+        "• Vous ignoriez une règle ou vous faites l'erreur pour la 1ère fois",
+        "• Vous régularisez votre situation de votre propre initiative ou à la demande de l'administration dans le délai indiqué",
+        "• Vous êtes de bonne foi. C'est à l'administration de prouver votre mauvaise foi ou que vous fraudez."
+      ]
+    },
+    {
+      "titre": "Peut-on bénéficier du droit à l'erreur face à l'administration quelle que soit l'erreur commise ?",
+      "contenu": [
+        "Non, le droit à l’erreur ne s’applique pas quelle que soit l’erreur commise. Par exemple, il ne s'applique pas dans les cas suivants :",
+        "• Erreur grossière ou témoignant d'une négligence grave (par exemple, une fausse déclaration)",
+        "• Erreur ne pouvant pas être régularisée (par exemple, absence ou retard de déclaration)",
+        "• Sanction prévue par le droit de l'Union européenne",
+        "• Sanction prononcée en cas de méconnaissance de règles préservant directement la santé publique, l'environnement, la sécurité des personnes ou des biens",
+        "• Sanction prévue par un contrat",
+        "• Sanction prononcée par une autorité de régulation à l'égard des professionnels soumis à son contrôle",
+        "• Obligation liée à une convention internationale qui peut s'y opposer (par exemple, en matière de droit du travail)."
+      ]
+    },
+    {
+      "titre": "En pratique, comment faire pour bénéficier du droit à l'erreur face à l'administration ?",
+      "contenu": [
+        "Vous devez contacter de votre propre initiative l'administration concernée pour régulariser votre situation.",
+        "L’administration peut également vous inviter à régulariser votre situation dans un délai qu'elle fixe.",
+        "[Exemple] Vous avez oublié de déclarer à France Travail que vous avez repris une activité professionnelle. Dans ce cas, vous devez contacter de votre propre initiative France Travail pour actualiser votre situation. Cela évitera le versement à tort d'allocations que vous devrez rembourser par la suite."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code des relations entre le public et l'administration : articles L123-1 à L123-2",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000037309217/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Maison de justice et du droit"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Le droit à l'erreur pour les impôts",
+      "url": "https://www.impots.gouv.fr/portail/particulier/je-minforme-sur-le-droit-lerreur"
+    }
+  ],
+  "slug": "qu-est-ce-que-le-droit-a-l-erreur-face-a-l-administration",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "obligations-de-l-administration-vis-a-vis-des-usagers",
+      "titre": "Obligations de l'administration vis-à-vis des usagers"
+    }
+  ]
+}

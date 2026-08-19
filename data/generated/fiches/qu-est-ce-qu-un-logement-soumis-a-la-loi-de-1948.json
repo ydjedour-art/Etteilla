@@ -1,0 +1,268 @@
+{
+  "id": "F1219",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Qu'est-ce qu'un logement soumis à la loi de 1948 ?",
+  "theme": "Logement",
+  "description": "C'est un logement construit avant le 1er septembre 1948 dans certaines communes de plus de 10 000 habitants ou à proximité de ces communes.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-08-03",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1219",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Location immobilière : bail d’habitation (contrat de location)",
+    "Qu'est-ce qu'un logement soumis à la loi de 1948 ?"
+  ],
+  "introduction": "Pour être soumis à la loi de 1948, un logement doit être construit avant le 1er septembre 1948 dans certaines communes de plus de 10 000 habitants ou à proximité de ces communes. Le locataire doit aussi être entré dans les lieux avant le 23 décembre 1986. Nous vous expliquons.",
+  "chapitres": [
+    {
+      "titre": "Quelles sont les spécificités du bail d’un logement soumis à la loi de 1948 ?",
+      "contenu": [
+        "Le bail n'est pas obligatoirement écrit. La location peut donc être verbale.",
+        "Le contenu du bail n'est pas réglementé.",
+        "Il n'existe pas de durée minimale pour le bail. Tout dépend de la durée convenue entre le propriétaire et le locataire lors de la signature du bail. Le bail à durée indéterminée est autorisé."
+      ]
+    },
+    {
+      "titre": "Que détermine la catégorie d’un logement soumis à la loi de 1948 ?",
+      "contenu": [
+        "Chaque logement soumis à la loi de 1948 est classé dans une catégorie, selon ses équipements et son confort.",
+        "La catégorie du logement détermine le montant maximum de loyer que le propriétaire peut exiger de son locataire.",
+        "Le classement se fait par logement et non par immeuble. En effet, dans un même immeuble, il peut y avoir des logements de qualités diverses notamment selon leur situation dans celui-ci (niveau, accès...).",
+        "[À noter] Les logements de catégorie I, considérés comme étant de qualité exceptionnelle, ne sont plus soumis à la loi de 1948."
+      ]
+    },
+    {
+      "titre": "Peut-on augmenter en cours de bail le loyer d’un logement soumis à la loi de 1948 ?",
+      "contenu": [
+        "Le propriétaire peut augmenter le loyer une fois par an (on parle de révision annuelle), ou après avoir réalisé des travaux modificatifs :",
+        "Révision annuelle",
+        "Les règles sont différentes selon que le logement est ou non dans l'agglomération parisienne (Paris, Hauts-de-Seine, Seine-Saint-Denis, Val-de-Marne, certaines communes en Seine-et-Marne, Yvelines, Essonne, Val-d'Oise).",
+        "Agglomération parisienne",
+        "Le loyer peut être augmenté au 1er juillet de chaque année.",
+        "Le taux d'augmentation applicable est de :",
+        "• 0,78 % à partir du 1er juillet 2026",
+        "• 1,40 % du 1er juillet 2025 au 30 juin 2026",
+        "[À savoir] Il est interdit d'augmenter le loyer d'un logement classé en catégorie IV.",
+        "Mais après cette augmentation, le loyer ne peut pas dépasser un montant maximum.",
+        "Pour connaître ce montant maximum, il faut multiplier la surface corrigée du logement par le prix de base au m2.",
+        "Le prix de base au m2 à utiliser dépend de la catégorie du logement :",
+        "Prix de base au m2 pour un logement régi par la loi de 1948 (agglomération parisienne)",
+        "Prix de base au m² de surface corrigée",
+        "Catégorie du logement",
+        "Pour chacun des 10 premiers m²",
+        "Pour chaque autre m²",
+        "II A",
+        "14,11 €",
+        "8,37 €",
+        "II B",
+        "9,70 €",
+        "5,20 €",
+        "II C",
+        "7,44 €",
+        "3,93 €",
+        "III A",
+        "4,49 €",
+        "2,38 €",
+        "III B",
+        "2,66 €",
+        "1,38 €",
+        "IV",
+        "0,26 €",
+        "0,12 €",
+        "[Exemple] Pour un logement de type II C, avec une surface corrigée de 43 m2 : (7,44 € x 10) + (3,93 € x 33) = 204,09 € L'augmentation annuelle ne doit pas avoir pour effet de rendre le loyer supérieur à 204,09 €.",
+        "Autre commune",
+        "Le loyer peut être augmenté au 1er juillet de chaque année.",
+        "Le taux d'augmentation applicable est de :",
+        "• 0,78 % à partir du 1er juillet 2026",
+        "• 1,40 % du 1er juillet 2025 au 30 juin 2026",
+        "[À savoir] Il est interdit d'augmenter le loyer d'un logement classé en catégorie IV.",
+        "Mais après cette augmentation, le loyer ne peut pas dépasser un montant maximum.",
+        "Pour connaître ce montant maximum, il faut multiplier la surface corrigée du logement par le prix de base au m2.",
+        "Le prix de base au m2 à utiliser dépend de la catégorie du logement :",
+        "Prix de base au m2 d'un logement régi par la loi de 1948 (hors agglomération parisienne)",
+        "Catégorie du logement",
+        "Prix de base au m² de surface corrigée",
+        "Pour chacun des 10 premiers m²",
+        "Pour chaque autre m²",
+        "II A",
+        "11,52 €",
+        "6,87 €",
+        "II B",
+        "7,94 €",
+        "4,32 €",
+        "II C",
+        "6,06 €",
+        "3,26 €",
+        "III A",
+        "3,68 €",
+        "2,06 €",
+        "III B",
+        "2,19 €",
+        "1,15 €",
+        "IV",
+        "0,26 €",
+        "0,12 €",
+        "[Exemple] Pour un logement de type II C avec une surface corrigée de 43 m2 : (6,06 € x 10) + (3,26 € x 33) = 168,18 € L'augmentation annuelle ne doit pas avoir pour effet de rendre le loyer supérieur à 168,18 €.",
+        "Travaux modificatifs",
+        "Les règles sont différentes selon que le logement est ou non dans l'agglomération parisienne (Paris, Hauts-de-Seine, Seine-Saint-Denis, Val-de-Marne, certaines communes en Seine-et-Marne, Yvelines, Essonne, Val-d'Oise).",
+        "Agglomération parisienne",
+        "Le loyer peut être augmenté au 1er juillet de chaque année.",
+        "Le taux d'augmentation applicable est de :",
+        "• 0,78 % à partir du 1er juillet 2026",
+        "• 1,40 % du 1er juillet 2025 au 30 juin 2026",
+        "[À savoir] Il est interdit d'augmenter le loyer d'un logement classé en catégorie IV.",
+        "Mais après cette augmentation, le loyer ne peut pas dépasser un montant maximum.",
+        "Pour connaître ce montant maximum, il faut multiplier la surface corrigée du logement par le prix de base au m2.",
+        "Le prix de base au m2 à utiliser dépend de la catégorie du logement :",
+        "Prix de base au m2 pour un logement régi par la loi de 1948 (agglomération parisienne)",
+        "Prix de base au m² de surface corrigée",
+        "Catégorie du logement",
+        "Pour chacun des 10 premiers m²",
+        "Pour chaque autre m²",
+        "II A",
+        "14,11 €",
+        "8,37 €",
+        "II B",
+        "9,70 €",
+        "5,20 €",
+        "II C",
+        "7,44 €",
+        "3,93 €",
+        "III A",
+        "4,49 €",
+        "2,38 €",
+        "III B",
+        "2,66 €",
+        "1,38 €",
+        "IV",
+        "0,26 €",
+        "0,12 €",
+        "[Exemple] Pour un logement de type II C, avec une surface corrigée de 43 m2 : (7,44 € x 10) + (3,93 € x 33) = 204,09 € L'augmentation annuelle ne doit pas avoir pour effet de rendre le loyer supérieur à 204,09 €.",
+        "Autre commune",
+        "Le loyer peut être augmenté au 1er juillet de chaque année.",
+        "Le taux d'augmentation applicable est de :",
+        "• 0,78 % à partir du 1er juillet 2026",
+        "• 1,40 % du 1er juillet 2025 au 30 juin 2026",
+        "[À savoir] Il est interdit d'augmenter le loyer d'un logement classé en catégorie IV.",
+        "Mais après cette augmentation, le loyer ne peut pas dépasser un montant maximum.",
+        "Pour connaître ce montant maximum, il faut multiplier la surface corrigée du logement par le prix de base au m2.",
+        "Le prix de base au m2 à utiliser dépend de la catégorie du logement :",
+        "Prix de base au m2 d'un logement régi par la loi de 1948 (hors agglomération parisienne)",
+        "Catégorie du logement",
+        "Prix de base au m² de surface corrigée",
+        "Pour chacun des 10 premiers m²",
+        "Pour chaque autre m²",
+        "II A",
+        "11,52 €",
+        "6,87 €",
+        "II B",
+        "7,94 €",
+        "4,32 €",
+        "II C",
+        "6,06 €",
+        "3,26 €",
+        "III A",
+        "3,68 €",
+        "2,06 €",
+        "III B",
+        "2,19 €",
+        "1,15 €",
+        "IV",
+        "0,26 €",
+        "0,12 €",
+        "[Exemple] Pour un logement de type II C avec une surface corrigée de 43 m2 : (6,06 € x 10) + (3,26 € x 33) = 168,18 € L'augmentation annuelle ne doit pas avoir pour effet de rendre le loyer supérieur à 168,18 €."
+      ]
+    },
+    {
+      "titre": "Comment mettre fin au bail d’un logement soumis à la loi de 1948 ?",
+      "contenu": [
+        "Tout dépend de la personne qui veut mettre fin au bail :",
+        "En tant que propriétaire",
+        "Il existe 2 possibilités :",
+        "À l'échéance du bail",
+        "Le propriétaire qui veut reprendre le logement peut le faire à l'échéance du bail, à la condition de donner préalablement son congé (préavis) au locataire.",
+        "[À savoir] Si à l'échéance du bail le propriétaire n'a pas donné son préavis, le locataire a un droit au maintien dans les lieux. Le locataire peut rester dans le logement sans limitation de durée et sans que le propriétaire n'ait à rédiger un nouveau bail.",
+        "À tout moment",
+        "Le propriétaire peut faire sortir le logement des règles de la loi de 1948, lorsque le locataire a des revenus supérieurs à un montant minium et que le logement est de catégorie II B ou II C.",
+        "En tant que locataire",
+        "Le locataire qui veut quitter définitivement le logement peut le faire à tout moment, à la condition de donner préalablement son congé (préavis) au propriétaire."
+      ]
+    },
+    {
+      "titre": "Que devient le bail du logement soumis à la loi de 1948 au décès du locataire ?",
+      "contenu": [
+        "Tout dépend de la situation :",
+        "Le logement est habité",
+        "Le bail est résilié automatiquement.",
+        "Le droit au maintien dans les lieux sans limitation de durée est transféré aux personnes suivantes :",
+        "• Soit l'époux ou le partenaire de Pacs du locataire",
+        "• Soit, jusqu'à leur majorité, les enfants mineurs qui vivent effectivement avec le locataire depuis plus d'un an",
+        "• Soit l’ascendant qui vit effectivement avec le locataire depuis plus d'un an",
+        "• Soit la personne handicapée qui vit effectivement avec le locataire depuis plus d'un an, à la condition qu'elle reçoit l'une de ces 3 aides (pension de grand invalide de guerre, ou rente d'invalide du travail correspondant à une incapacité au moins égale à 80 %, ou allocation versée à toute personne ayant au moins 80 % d'incapacité permanente).",
+        "Si plusieurs personnes réclament le transfert du droit au maintien dans les lieux, c'est le juge qui décidera en tenant compte des intérêts de chacun.",
+        "Le juge compétent est le juge des contentieux de la protection du tribunal dont dépend le logement.",
+        "Le logement devient vacant",
+        "Le bail est résilié automatiquement.",
+        "Le logement étant devenu vacant, il ne peut pas être reloué avec les règles de la loi de 1948."
+      ]
+    },
+    {
+      "titre": "Que devient le bail du logement soumis à la loi de 1948 en cas d’abandon par le locataire ?",
+      "contenu": [
+        "Tout dépend de la situation :",
+        "Le logement est habité",
+        "Le bail est résilié automatiquement.",
+        "Le droit au maintien dans les lieux sans limitation de durée est transféré aux personnes suivantes :",
+        "• Soit l'époux ou le partenaire de Pacs du locataire",
+        "• Soit, jusqu'à leur majorité, les enfants mineurs qui vivent effectivement avec le locataire depuis plus d'un an",
+        "• Soit l’ascendant qui vit effectivement avec le locataire depuis plus d'un an",
+        "• Soit la personne handicapée qui vit effectivement avec le locataire depuis plus d'un an, à la condition qu'elle reçoit l'une de ces 3 aides (pension de grand invalide de guerre, ou rente d'invalide du travail correspondant à une incapacité au moins égale à 80 %, ou allocation versée à toute personne ayant au moins 80 % d'incapacité permanente).",
+        "Si plusieurs personnes réclament le transfert du droit au maintien dans les lieux, c'est le juge qui décidera en tenant compte des intérêts de chacun.",
+        "Le juge compétent est le juge des contentieux de la protection du tribunal dont dépend le logement.",
+        "Le logement devient vacant",
+        "Le bail est résilié automatiquement.",
+        "Le logement étant devenu vacant, il ne peut pas être reloué avec les règles de la loi de 1948."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Loi n°48-1360 du 1er septembre 1948 sur les rapports locatifs",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006068038/"
+    },
+    {
+      "titre": "Décret n° 48-1881 du 10 décembre 1948 (annexe)",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039112629"
+    },
+    {
+      "titre": "Décret n°48-1881 du 10 décembre 1948 déterminant les prix de base au mètre carré des locaux d'habitation ou à usage professionnel",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000872408/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Catégories des logements soumis à la loi de 1948",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006483192"
+    },
+    {
+      "titre": "Communes concernées en Île-de-France",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039112629"
+    }
+  ],
+  "slug": "qu-est-ce-qu-un-logement-soumis-a-la-loi-de-1948",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "location-immobiliere-bail-d-habitation-contrat-de-location",
+      "titre": "Location immobilière : bail d’habitation (contrat de location)"
+    }
+  ]
+}

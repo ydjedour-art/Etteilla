@@ -1,0 +1,47 @@
+{
+  "id": "F20841",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Comment recourir au médiateur de la Caf ou de la MSA ?",
+  "theme": "Famille - Scolarité",
+  "description": "Le médiateur administratif de la Caf ou de la MSA peut être saisi quand la réponse à une réclamation d'un usager n'est pas satisfaisante.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-04-10",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F20841",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Allocations destinées aux familles",
+    "Comment recourir au médiateur de la Caf ou de la MSA ?"
+  ],
+  "introduction": "Le médiateur de la Caf (si vous dépendez du régime général) ou de la MSA (si vous dépendez du régime agricole) peut être saisi quand vous estimez que la réponse à une réclamation n'est pas satisfaisante.",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [
+    {
+      "titre": "Caisse d'allocations familiales (Caf) en ligne",
+      "url": "https://connect.caf.fr/connexionappli/dist/?forceReload=20211220&contexteAppel=caffr&urlredirect=%2Fwps%2Fmyportal%2Fcaffr#/login",
+      "type": "selNG"
+    },
+    {
+      "titre": "Saisir le médiateur de la MSA par internet",
+      "url": "https://saisinemediateur.msa.fr/mediateur/ria/#/accueil",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "Caisse d'allocations familiales (Caf)",
+    "Médiateur de la MSA"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "comment-recourir-au-mediateur-de-la-caf-ou-de-la-msa",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "allocations-destinees-aux-familles",
+      "titre": "Allocations destinées aux familles"
+    }
+  ]
+}

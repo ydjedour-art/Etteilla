@@ -1,0 +1,48 @@
+{
+  "id": "F1137",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Licenciement pour faute simple, grave ou lourde : quelles conséquences pour le salarié ?",
+  "theme": "Travail - Formation",
+  "description": "Un salarié peut être licencié pour faute simple, grave ou lourde. Les conséquences du licenciement sont différentes selon le motif du licenciement.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-11-21",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1137",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Licenciement d'un salarié du secteur privé pour motif personnel",
+    "Licenciement pour faute simple, grave ou lourde : quelles conséquences pour le salarié ?"
+  ],
+  "introduction": "Un salarié peut être licencié pour faute simple, faute grave ou faute lourde à la fin d'une procédure disciplinaire. Les conséquences du licenciement sur les droits du salarié sont différentes en fonction du motif de licenciement retenu par l'employeur. Nous faisons le point sur les types de fautes et les conséquences sur les indemnités de licenciement et de préavis.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code du travail : articles L1234-1 à L1234-8",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000006901118/"
+    },
+    {
+      "titre": "Code du travail : article L1234-9",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035644154"
+    },
+    {
+      "titre": "Code du travail : article L3141-28",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033020681"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "France Travail pour demandeurs d'emploi - 3949"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "licenciement-pour-faute-simple-grave-ou-lourde-quelles-consequences-pour-le-salarie",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "licenciement-d-un-salarie-du-secteur-prive-pour-motif-personnel",
+      "titre": "Licenciement d'un salarié du secteur privé pour motif personnel"
+    }
+  ]
+}

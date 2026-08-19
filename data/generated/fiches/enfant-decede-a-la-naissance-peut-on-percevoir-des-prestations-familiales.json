@@ -1,0 +1,85 @@
+{
+  "id": "F32519",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Enfant décédé à la naissance : peut-on percevoir des prestations familiales ?",
+  "theme": "Famille - Scolarité",
+  "description": "Dans certains cas, les parents peuvent recevoir la prime à la naissance malgré le décès de l'enfant avant la déclaration de naissance à l'état civil.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-04-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F32519",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Allocations destinées aux familles",
+    "Enfant décédé à la naissance : peut-on percevoir des prestations familiales ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Caf",
+        "Les parents peuvent percevoir la prime à la naissance dans l'une des situations suivantes :",
+        "• L'accouchement (ou l'interruption de la grossesse) intervient à une date postérieure ou égale au 1er jour du mois civil suivant le 5e mois de grossesse (soit à compter du 6e mois de grossesse), que l'enfant soit né sans vie (mort-né) ou vivant et viable",
+        "• L'accouchement (ou l'interruption de la grossesse) intervient avant cette date pour un enfant né vivant et viable (ayant un acte de naissance et un acte de décès).",
+        "Selon le cas, il faut fournir à la caisse soit un acte de naissance, soit un justificatif de grossesse.",
+        "[À savoir] La prime à la naissance est versée sous condition de ressources.",
+        "Les parents peuvent aussi percevoir l'allocation forfaitaire versée en cas de décès d'un enfant.",
+        "Elle est attribuée si le décès intervient à compter de la 20e semaine de grossesse.",
+        "L'allocation forfaitaire est de 2 319,32 € ou 1 159,68 €, selon les revenus des parents.",
+        "[À noter] Si vous êtes en possession d'un acte de naissance sans vie, vous devez transmettre ce document à la caisse.",
+        "Caisse d'allocations familiales (Caf)",
+        "MSA",
+        "Les parents peuvent percevoir la prime à la naissance dans l'une des situations suivantes :",
+        "• L'accouchement (ou l'interruption de la grossesse) intervient à une date postérieure ou égale au 1er jour du mois civil suivant le 5e mois de grossesse (soit à compter du 6e mois de grossesse), que l'enfant soit né sans vie (mort-né) ou vivant et viable",
+        "• L'accouchement (ou l'interruption de la grossesse) intervient avant cette date pour un enfant né vivant et viable (ayant un acte de naissance et un acte de décès).",
+        "Selon le cas, il faut fournir à la caisse soit un acte de naissance, soit un justificatif de grossesse.",
+        "[À savoir] La prime à la naissance est versée sous condition de ressources.",
+        "Les parents peuvent aussi percevoir l'allocation forfaitaire versée en cas de décès d'un enfant.",
+        "Elle est attribuée si le décès intervient à compter de la 20e semaine de grossesse.",
+        "L'allocation forfaitaire est de 2 319,32 € ou 1 159,68 €, selon les revenus des parents.",
+        "[À noter] Si vous êtes en possession d'un acte de naissance sans vie, vous devez transmettre ce document à la caisse.",
+        "Mutualité sociale agricole (MSA)"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la sécurité sociale : articles R531-1 à R531-6",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000006156804"
+    },
+    {
+      "titre": "Code civil : article 79-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000039366886"
+    },
+    {
+      "titre": "LOI n° 2020-692 du 8 juin 2020 visant à améliorer les droits des travailleurs et l'accompagnement des familles après le décès d'un enfant",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFARTI000041975981"
+    },
+    {
+      "titre": "Décret n° 2020-1688 du 23 décembre 2020 relatif à la mise en place d'une allocation forfaitaire versée en cas de décès d'un enfant",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042739385"
+    },
+    {
+      "titre": "Circulaire du 19 juin 2009 relative à l'état civil des enfants décédés avant la déclaration de naissance, mort-nés ou nés sans vie et à la prise en charge des corps",
+      "url": "https://www.legifrance.gouv.fr/circulaire/id/29111"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Caisse d'allocations familiales (Caf)",
+    "Mutualité sociale agricole (MSA)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "enfant-decede-a-la-naissance-peut-on-percevoir-des-prestations-familiales",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "allocations-destinees-aux-familles",
+      "titre": "Allocations destinées aux familles"
+    }
+  ]
+}

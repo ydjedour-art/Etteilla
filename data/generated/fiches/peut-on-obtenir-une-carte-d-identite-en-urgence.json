@@ -1,0 +1,41 @@
+{
+  "id": "F16872",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Peut-on obtenir une carte d'identité en urgence ?",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Non. Il n'est pas possible d'obtenir une carte d'identité en urgence. Seul un passeport peut être délivré en urgence sous certaines conditions.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-08-05",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F16872",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Carte d'identité",
+    "Peut-on obtenir une carte d'identité en urgence ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Non. Il n'est pas possible d'obtenir une carte d'identité en urgence.",
+        "Seul un passeport peut être délivré en urgence (motif d'ordre médical ou humanitaire ou pour des raisons professionnelles) et sous certaines conditions."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "peut-on-obtenir-une-carte-d-identite-en-urgence",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "carte-d-identite",
+      "titre": "Carte d'identité"
+    }
+  ]
+}

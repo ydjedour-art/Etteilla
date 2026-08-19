@@ -1,0 +1,114 @@
+{
+  "id": "F1153",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Carte d'identité d'un mineur : renouvellement en cas de perte",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Pour refaire une carte d'identité perdue d’un mineur, il faut se rendre dans une mairie équipée. la déclaration de perte se fait en même temps que la demande.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-06-19",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1153",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Carte d'identité",
+    "Carte d'identité d'un mineur : renouvellement en cas de perte"
+  ],
+  "introduction": "La carte d’identité de votre enfant mineur a été perdue et vous souhaitez la renouveler immédiatement ? La déclaration de perte se fait en même temps que le dépôt du dossier. La procédure varie selon que la demande est faite en France ou à l’étranger et selon l’âge du mineur. Nous vous présentons les étapes de la démarche.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "[À savoir] Si le renouvellement de la carte d’identité n’est pas demandé immédiatement, il est nécessaire d’en déclarer la perte auprès des autorités de police ou de gendarmerie. Si la perte a eu lieu à l’étranger, la déclaration de perte est à faire auprès des autorités de police locales et à l’ambassade ou au consulat de France."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général des impôts : article 1628 bis",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000020515766"
+    },
+    {
+      "titre": "Code général des impôts : article 1043 A - Montant en Guyane",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006305785"
+    },
+    {
+      "titre": "Décret n°55-1397 du 22 octobre 1955 relatif à la carte d'identité : article 4 - Pièces à fournir pour une première demande",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000034729485"
+    },
+    {
+      "titre": "Décret n°55-1397 du 22 octobre 1955 relatif à la carte d'identité : article 4-1 - Pièces à fournir pour un renouvellement",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000033333776"
+    },
+    {
+      "titre": "Décret n°55-1397 du 22 octobre 1955 relatif à la carte nationale d'identité : article 4-4 - Représentant légal",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000033333782"
+    },
+    {
+      "titre": "Décret n°55-1397 du 22 octobre 1955 relatif à la carte d'identité : article 5 - Retrait de la carte",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000033333772"
+    },
+    {
+      "titre": "Circulaire du 19 janvier 2004 relative à l'enregistrement des déclarations de perte des documents d'identité",
+      "url": "https://www.legifrance.gouv.fr/download/pdf/circ?id=29313"
+    },
+    {
+      "titre": "Réponse ministérielle du 28 novembre 2019 relative au format de la carte d'identité",
+      "url": "http://www.senat.fr/questions/base/2018/qSEQ180706028.html"
+    },
+    {
+      "titre": "Arrêté du 11 mai 2021 portant application du décret n°2021-279 portant diverses dispositions relatives à la carte nationale d'identité et au traitement de données à caractère personnel (TES)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043496313"
+    },
+    {
+      "titre": "Arrêté du 20 avril 2016 autorisant la création d'un système de téléservices destinés à la prédemande et à la demande de titres officiels",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000032445878/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Déclaration de perte de carte d'identité ou de passeport",
+      "url": "https://www.service-public.fr/simulateur/calcul/14011",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Pré-demande pour un renouvellement de carte d'identité",
+      "url": "https://passeport.ants.gouv.fr/demarches-en-ligne/effectuer-le-renouvellement-de-votre-carte-didentite",
+      "type": "selNG"
+    },
+    {
+      "titre": "Achat en ligne du timbre fiscal - Carte d'identité",
+      "url": "https://timbres.impots.gouv.fr",
+      "type": "selNG"
+    },
+    {
+      "titre": "Suivez votre demande de carte d'identité",
+      "url": "https://moncompte.ants.gouv.fr/suivi_cni_passeport",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Rechercher un rendez-vous pour une demande de carte d'identité",
+      "url": "https://rendezvouspasseport.ants.gouv.fr/",
+      "type": "outilRechercheNG"
+    }
+  ],
+  "contacts": [
+    "France Services / Maison de services au public"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Consuls honoraires habilités à remettre les cartes d'identité et les passeports",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052295016"
+    }
+  ],
+  "slug": "carte-d-identite-d-un-mineur-renouvellement-en-cas-de-perte",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "carte-d-identite",
+      "titre": "Carte d'identité"
+    }
+  ]
+}

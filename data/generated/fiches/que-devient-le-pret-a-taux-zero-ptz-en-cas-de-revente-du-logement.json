@@ -1,0 +1,60 @@
+{
+  "id": "F22110",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Que devient le prêt à taux zéro (PTZ) en cas de revente du logement ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Pour revendre le bien acheté avec un prêt à taux zéro (PTZ), il faut en rembourser le montant du capital restant dû.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-03-06",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F22110",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Crédit immobilier",
+    "Que devient le prêt à taux zéro (PTZ) en cas de revente du logement ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Pour pouvoir vendre (ou faire une donation) du logement acheté avec un PTZ :",
+        "• Vous devez rembourser intégralement le capital du PTZ restant dû, au plus tard lors de l'inscription de la vente (ou de la donation) du logement aux services de la publicité foncière",
+        "• Vous devez aussi déclarer la vente (ou la donation) du logement à la banque qui vous a accordé le PTZ, dès la signature devant notaire.",
+        "Si vous décidez de vendre le bien acheté à l'aide d'un PTZ pour acheter ou construire une nouvelle résidence principale, vous pouvez obtenir le transfert de votre PTZ. Mais les conditions dépendent de la date à laquelle a lieu le transfert :",
+        "Moins de 6 ans après le versement du PTZ",
+        "Le transfert ne concerne que le capital restant dû. Vous continuez à rembourser le PTZ de la même manière qu'auparavant, et vous pouvez utiliser les fonds pour acheter ou construire votre nouvelle résidence principale. Mais votre nouvelle résidence principale doit respecter les conditions d'attribution du PTZ en vigueur à la date du transfert.",
+        "[Attention] La banque peut refuser ce transfert, notamment si elle estime que vos capacités de remboursement sont insuffisantes.",
+        "Plus de 6 ans après le versement du PTZ",
+        "Le transfert ne concerne que le capital restant dû. Vous continuez à rembourser le PTZ de la même manière qu'auparavant et vous pouvez utiliser les fonds pour acheter ou construire votre nouvelle résidence principale.",
+        "[Attention] La banque peut refuser ce transfert, notamment si elle estime que vos capacités de remboursement sont insuffisantes."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la construction et de l'habitation : article L31-10-6",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031781922/"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : articles D31-10-6 à D31-10-7",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000023361866/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "que-devient-le-pret-a-taux-zero-ptz-en-cas-de-revente-du-logement",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "credit-immobilier",
+      "titre": "Crédit immobilier"
+    }
+  ]
+}

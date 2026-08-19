@@ -1,0 +1,57 @@
+{
+  "id": "F1325",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Prime de Noël : comment en bénéficier ?",
+  "theme": "Social - Santé",
+  "description": "La prime de Noël est une aide exceptionnelle forfaitaire versée en fin d'année civile à certains bénéficiaires de minima sociaux.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-12-15",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1325",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Revenu de solidarité active (RSA)",
+    "Prime de Noël : comment en bénéficier ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "La prime de Noël est une aide exceptionnelle forfaitaire versée aux personnes qui perçoivent certains minima sociaux.",
+        "La prime est versée en une seule fois par foyer.",
+        "En 2025, la prime est versée le 16 décembre 2025 :",
+        "• Pour les personnes bénéficiaires du revenu de solidarité active (RSA), de l'allocation de solidarité spécifique (ASS) ou de l'allocation équivalent retraite (AER) au mois de novembre 2025.",
+        "• Pour les personnes bénéficiaires de ces aides et dont le droit a débuté en décembre 2025."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Décret n° 2025-1212 du 12 décembre 2025 portant attribution d'une aide exceptionnelle de fin d'année aux bénéficiaires du RSA, de l'ASS et de l'AER",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053021069"
+    },
+    {
+      "titre": "Décret n° 2025-1213 du 12 décembre 2025 portant attribution d'une aide exceptionnelle de fin d'année aux bénéficiaires du RSA, de l'ASS et de l'AER à Mayotte",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053021109"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Caisse d'allocations familiales (Caf)",
+    "Mutualité sociale agricole (MSA)",
+    "France Travail"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "prime-de-noel-comment-en-beneficier",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "revenu-de-solidarite-active-rsa",
+      "titre": "Revenu de solidarité active (RSA)"
+    }
+  ]
+}

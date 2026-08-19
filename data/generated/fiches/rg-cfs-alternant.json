@@ -1,0 +1,27 @@
+{
+  "id": "F39125",
+  "type_publication": "Recherche guidée",
+  "titre": "RG - CFS Alternant",
+  "theme": "",
+  "description": "RG - CFS Alternant",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2025-05-28",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F39125",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "RG - CFS Alternant"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "rg-cfs-alternant",
+  "path": [
+    {
+      "slug": "rg-cfs-alternant",
+      "titre": "RG - CFS Alternant"
+    }
+  ]
+}

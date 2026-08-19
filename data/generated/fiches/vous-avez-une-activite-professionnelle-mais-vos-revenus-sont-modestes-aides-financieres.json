@@ -1,0 +1,48 @@
+{
+  "id": "F38578",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Vous avez une activité professionnelle, mais vos revenus sont modestes : aides financières",
+  "theme": "Social - Santé",
+  "description": "Si vous exercez une activité professionnelle et que vos ressources sont modestes, vous pouvez peut-être avoir droit à la prime d'activité.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-30",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F38578",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Aides financières",
+    "Vous avez une activité professionnelle, mais vos revenus sont modestes : aides financières"
+  ],
+  "introduction": "Si vous exercez une activité professionnelle (salariée ou indépendante) et que vos ressources sont modestes, vous pouvez peut-être avoir droit à la prime d'activité.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "La prime a pour objectif de soutenir l’activité d’une personne en complétant ses revenus professionnels.",
+        "La prime est versée chaque mois.",
+        "Un simulateur vous permet d'estimer vos droits à la prime :",
+        "Vérifier vos droits à la prime d'activité",
+        "Accédez à nos fiches pratiques :",
+        "• Prime d'activité pour un salarié ou un fonctionnaire",
+        "• Prime d'activité pour un étudiant, stagiaire, apprenti",
+        "• Prime d'activité pour une personne en congé parental, sabbatique, sans solde ou en disponibilité",
+        "• Prime d'activité pour un travailleur non salarié"
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "vous-avez-une-activite-professionnelle-mais-vos-revenus-sont-modestes-aides-financieres",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "aides-financieres",
+      "titre": "Aides financières"
+    }
+  ]
+}

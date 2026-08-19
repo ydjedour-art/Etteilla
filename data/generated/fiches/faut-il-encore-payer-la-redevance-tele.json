@@ -1,0 +1,40 @@
+{
+  "id": "F88",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Faut-il encore payer la redevance télé ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "La redevance télé (contribution à l'audiovisuel public) est supprimée pour tous les contribuables depuis 2022.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-11-20",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F88",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Impôts locaux",
+    "Faut-il encore payer la redevance télé ?"
+  ],
+  "introduction": "Non. La redevance télé (contribution à l'audiovisuel public) est supprimée pour tous les contribuables depuis l'année 2022.",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [
+    "Service d'information des impôts"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Site des impôts",
+      "url": "https://www.impots.gouv.fr/portail/"
+    }
+  ],
+  "slug": "faut-il-encore-payer-la-redevance-tele",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "impots-locaux",
+      "titre": "Impôts locaux"
+    }
+  ]
+}

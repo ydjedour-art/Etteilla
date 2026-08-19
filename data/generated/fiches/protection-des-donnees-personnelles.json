@@ -1,0 +1,261 @@
+{
+  "id": "F2024",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Protection des données personnelles",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "La personne dont les données personnelles sont traitées bénéficie de droits pour les protéger",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-05-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2024",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Protection des données personnelles et de l'image",
+    "Protection des données personnelles"
+  ],
+  "introduction": "Une entreprise, une administration, un réseau social ou une intelligence artificielle souhaite traiter vos données personnelles ? Dans certains cas, vous pouvez vous y opposez ou y consentir, puis retirer votre consentement. Vous pouvez aussi accéder aux données collectées, les récupérer, demander leur rectification et leur effacement. En cas de difficultés, vous pouvez adresser une réclamation à la Cnil. Voici les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "A-t-on le droit de s’opposer à la collecte de ses données personnelles ?",
+      "contenu": [
+        "Dans certaines situations, vous pouvez vous opposer à ce qu'une donnée personnelle fasse l’objet d’un traitement. C’est ce qu’on appelle le droit d’opposition..",
+        "Le droit d’opposition est ouvert lorsque le traitement des données est fondé sur l’un des motifs suivants :",
+        "• Exécution d'une mission d'intérêt public, relevant de l'exercice de l'autorité publique (par exemple, conservation de données dans le but de lutter contre la fraude fiscale)",
+        "• Intérêt légitime du responsable du traitement (par exemple, enregistrements vidéo d’un magasin pour prévenir les vols)",
+        "Il peut également être exercé lorsque le traitement poursuit l’un des buts suivants :",
+        "• Prospection commerciale, associative ou politique (par exemple, vous pouvez refuser d’apparaître dans un fichier pour éviter de recevoir des offres promotionnelles ou des courriels de campagne électorale)",
+        "• Recherche scientifique, historique ou statistique (par exemple, collecte de données pour une étude statistique sur le pouvoir d’achat d’une population).",
+        "Les conditions pour exercer votre droit d’opposition sont facilitées pour les cas de prospection.",
+        "Prospection commerciale, associative ou politique",
+        "Pour exercer gratuitement votre droit d’opposition, vous devez adresser une demande au responsable du traitement concerné. Pour obtenir ses coordonnées, vous pouvez consulter le site internet de l’organisme qui a collecté vos données.",
+        "La demande peut se faire par courriel, par un formulaire en ligne proposé par le responsable du traitement ou par courrier postal.",
+        "Vous pouvez utiliser un modèle de courrier :",
+        "S’opposer au traitement de ses données personnelles - Prospection",
+        "[Attention] Conservez une copie de votre démarche pour pouvoir faire une réclamation si nécessaire.",
+        "À partir du moment où le responsable du traitement a reçu votre demande, il ne peut plus utiliser vos données à des fins de prospection.",
+        "En l'absence de réponse, vous pouvez faire une réclamation auprès de la Cnil :",
+        "Adresser une plainte en ligne à la Cnil",
+        "[À savoir] Plusieurs dispositifs sont également à votre disposition pour vous protéger contre le démarchage téléphonique abusif, les spams vocaux ou par SMS.",
+        "Autres cas",
+        "Vous pouvez exercer gratuitement votre droit d’opposition à condition de justifier de raisons légitimes propres à votre situation particulière. Ainsi, dans votre demande, précisez les données concernées et expliquez pourquoi vous vous opposez à leur traitement.",
+        "Votre demande doit être adressée au responsable du traitement concerné. Pour obtenir ses coordonnées, vous pouvez consulter le site internet de l’organisme qui a collecté vos données.",
+        "La demande peut se faire depuis un formulaire en ligne, par mail ou par courrier postal.",
+        "Des modèles de courrier sont disponibles sur le site de la Cnil :",
+        "S’opposer au traitement de ses données personnelles",
+        "[À savoir] En cas de doute sur votre identité, l'organisme peut vous demander des documents permettant de la prouver. Cela permet d’éviter toute usurpation d’identité.",
+        "Conservez une copie de votre démarche pour pouvoir faire une réclamation si nécessaire.",
+        "Lorsque le responsable du traitement reçoit votre demande, il a 1 mois pour vous répondre.",
+        "S’il a besoin d'un délai supplémentaire, il doit vous en informer dans le mois suivant la réception de votre demande. Au total, le délai de réponse ne peut pas dépasser 3 mois.",
+        "[À noter] Pendant ce délai, vous pouvez demander que vos données ne soient plus utilisées. Il s'agit du droit à la limitation du traitement.",
+        "Si la demande est acceptée, le responsable du traitement concerné ne peut plus utiliser vos données. Néanmoins, il les conserve.",
+        "Si votre demande est rejetée, le responsable du traitement doit vous expliquer les raisons de ce refus.",
+        "En l'absence de réponse ou si la réponse ne vous satisfait pas, vous pouvez faire une réclamation auprès de la Cnil.",
+        "Adresser une plainte en ligne à la Cnil"
+      ]
+    },
+    {
+      "titre": "Peut-on retirer son consentement après une collecte de données personnelles ?",
+      "contenu": [
+        "Lorsque le traitement de vos données nécessite votre consentement (par exemple, traitement à des fins de prospection commerciale, traitement de données dites sensibles (sauf exceptions), traitement qui utilisent des cookies non obligatoires), vous devez donner votre accord par une déclaration ou par tout autre acte positif clair (par exemple : une case à cocher).",
+        "Vous pouvez retirer votre consentement à tout moment, par le biais d’un dispositif simple et similaire à celui utilisé pour recueillir son accord.",
+        "Si vous retirez votre consentement, vos données ne peuvent plus faire l’objet d’un traitement : vos données sont supprimées du support sur lequel elles se trouvaient et ne peuvent plus être utilisées.",
+        "[Exemple] Une agence immobilière publie un post sur les réseaux sociaux invitant les personnes intéressées à remplir un formulaire d’inscription pour recevoir les adresses des biens et les horaires de visite. En remplissant ce formulaire, vous fournissez certaines données personnelles. Avant d’envoyer ce document, vous cochez une case selon laquelle vous acceptez que vos données soient utilisées pour vous envoyer des offres immobilières. 1 an plus tard, vous supprimez votre consentement en décochant la case du formulaire préalablement remplie, car vous ne souhaitez plus recevoir d’offres de la part de cette agence. À partir de ce moment, l’agence immobilière doit supprimer vos données de sa base de données."
+      ]
+    },
+    {
+      "titre": "Peut-on accéder aux données personnelles collectées ?",
+      "contenu": [
+        "Vous pouvez savoir si vos données font l’objet d’un traitement, et si elles le sont, en obtenir une copie en langage clair.",
+        "Pour accéder aux données personnelles collectées, vous devez vous adresser au responsable du traitement qui détient ces informations. Pour obtenir ses coordonnées, vous devez consulter le site internet de l’organisme qui a collecté vos données.",
+        "En principe, la demande est gratuite. Toutefois, le responsable du traitement peut vous demander de régler des frais si vous sollicitez une copie supplémentaire des documents contenant vos données personnelles.",
+        "La demande peut se faire depuis un formulaire en ligne, par mail ou par courrier postal.",
+        "Des modèles de courrier sont disponibles sur le site de la Cnil :",
+        "Exercer son droit d’accès aux données personnelles",
+        "[Attention] Conservez une copie de votre demande dans le cas où vous souhaiteriez faire un recours contre la décision du responsable du traitement.",
+        "Le responsable du traitement doit vous répondre dans les plus brefs délais et, au plus tard, dans un délai d’1 mois à compter de la réception de votre demande.",
+        "Ce délai peut être porté à 3 mois si votre demande est complexe ou en raison du nombre de demandes.",
+        "[À noter] En cas de doute sur votre identité, l’organisme peut vous demander des informations pour la confirmer. Par exemple, pour éviter une usurpation d’identité.",
+        "Lorsqu’il vous transmet une copie de vos données, le responsable du traitement doit aussi vous donner d’autres informations (exemple : finalité du traitement, durée de conservation des données, droit de rectification ou d’effacement, etc.).",
+        "Si vous lui avez transmis votre demande par mail, le responsable du traitement doit vous répondre par mail, sauf si vous souhaitez obtenir une réponse par un autre moyen (exemple : par courrier postal).",
+        "[À savoir] Si votre demande n’est pas fondée ou si vous faites plusieurs demandes de manière répétitive, le responsable du traitement peut refuser de vous communiquer vos données. Par ailleurs, vous ne pouvez pas obtenir des données concernant d’autres personnes.",
+        "En l'absence de réponse ou en cas de réponse insatisfaisante, vous pouvez adresser une plainte à la Cnil.",
+        "Adresser une plainte en ligne à la Cnil"
+      ]
+    },
+    {
+      "titre": "Peut-on récupérer les données personnelles fournies à un organisme ?",
+      "contenu": [
+        "Vous pouvez demander à récupérer les données que vous avez fournies à une entité (entreprise, réseau social, etc.), pour un usage personnel ou pour les transmettre à un organisme de votre choix. C’est ce qu’on appelle le droit à la portabilité.",
+        "Le droit à la portabilité concerne 2 types de données :",
+        "• Celles que l’entité a récupéré avec votre consentement ou sur la base d’un contrat (par exemple, vos coordonnées)",
+        "• Celles qui ont été générées après une action de votre part (historique d’achats, données enregistrées par une montre connectée, etc.).",
+        "[Exemple] Vous souscrivez un contrat auprès d’un fournisseur de streaming musical. Pendant plusieurs mois, vous écoutez des titres différents et faites des playlists. Puis, vous décidez de changer de fournisseur. Dans ce cas, vous pouvez demander au 1er fournisseur de vous transmettre ces données (playlists, historique d’écoute, etc.) afin de les conserver et/ou de les transmettre au fournisseur avec lequel vous avez conclu un nouveau contrat.",
+        "[À noter] L'exercice du droit à la portabilité ne doit pas porter atteinte aux droits et libertés d'autres personnes.",
+        "Pour exercer votre droit à la portabilité, consultez le site internet de l'organisme qui a collecté vos données. En principe, les démarches à accomplir y sont précisées (par exemple, après vous être authentifié sur votre compte client, vous avez accès à un bouton pour télécharger vos données).",
+        "En cas de difficultés, contactez la personne qualifiée pour vous aider à exercer votre droit à la portabilité. Ses coordonnées sont normalement inscrites sur le site internet de l’organisme concerné.",
+        "[À savoir] Peu importe le procédé utilisé, cette démarche est toujours gratuite.",
+        "Le responsable du traitement doit vous répondre dans les meilleurs délais et, au plus tard, dans un délai d’1 mois à compter de la réception de votre demande.",
+        "S’il a besoin d'un délai supplémentaire, il doit vous en informer dans le mois suivant la réception de votre demande. Au total, le délai de réponse ne peut pas dépasser 3 mois.",
+        "Si votre demande est acceptée, vous pouvez directement télécharger vos données ou les obtenir sur un fichier informatique transmis par l’organisme.",
+        "En l'absence de réponse ou en cas de réponse insatisfaisante, vous pouvez faire une réclamation auprès de la Cnil.",
+        "Adresser une plainte en ligne à la Cnil"
+      ]
+    },
+    {
+      "titre": "Comment demander la rectification des données personnelles collectées ?",
+      "contenu": [
+        "Si vous estimez que les données collectées sont inexactes ou incomplètes (exemple : une erreur sur l’orthographe de votre nom de famille ou la mise à jour de votre numéro de téléphone), vous pouvez demander qu’elles soient corrigées ou mises à jour. C’est ce qu’on appelle le droit de rectification.",
+        "Vous pouvez solliciter la rectification de vos données de manière gratuite.",
+        "La demande peut se faire depuis un formulaire en ligne proposé par le responsable du traitement, par courriel ou par courrier postal. Pour obtenir ses coordonnées, vous devez consulter le site internet de l’organisme qui a potentiellement collecté vos données.",
+        "Votre demande doit préciser les données que vous souhaitez faire rectifier. Si vos données sont incomplètes, vous devez fournir un document permettant d’ajouter les informations manquantes.",
+        "Des modèles de courrier sont disponibles sur le site de la Cnil :",
+        "Demander la rectification de ses données personnelles",
+        "Conservez une copie de votre démarche pour pouvoir faire une réclamation si nécessaire.",
+        "Le responsable du traitement doit vous répondre dans les meilleurs délais et, au plus tard, dans un délai d’1 mois à compter de la réception de votre demande.",
+        "[À savoir] En cas de doute sur votre identité, l'organisme peut vous demander des informations pour la confirmer. Par exemple, pour éviter une usurpation d'identité.",
+        "S’il a besoin d'un délai supplémentaire, il doit vous en informer dans le mois suivant la réception de votre demande. Au total, le délai de réponse ne peut pas dépasser 3 mois.",
+        "Pendant ce délai, vous pouvez demander que vos données ne soient plus utilisées par l'organisme. Il s'agit du droit à la limitation du traitement.",
+        "En l'absence de réponse ou en cas de réponse insatisfaisante, vous pouvez faire une réclamation auprès de la Cnil :",
+        "Adresser une plainte en ligne à la Cnil",
+        "Une fois vos données rectifiées, le responsable du traitement informe tous les organismes auxquels vos données ont déjà été communiquées, que ces informations ont été rectifiées."
+      ]
+    },
+    {
+      "titre": "Peut-on demander l’effacement des données personnelles collectées ?",
+      "contenu": [
+        "Dans certaines circonstances, vous pouvez demander à ce que vos données personnelles soient effacées. On parle du droit à l’oubli.",
+        "Les demandes peuvent être diverses : suppression d’un compte sur un site ou une plateforme, suppression d’un contenu faisant apparaître des données nominatives, une photo ou une vidéo, etc.",
+        "À quelles conditions peut-on demander l’effacement de ses données ?",
+        "Pour demander l’effacement de vos données personnelles, vous devez être dans l'une des situations suivantes :",
+        "• Vos données ne sont plus nécessaires au vu des raisons pour lesquelles elles ont été collectées et traitées",
+        "• Vous retirez votre consentement à l'utilisation de vos données et il n'existe pas d'autre fondement juridique à leur traitement (exécution d’un contrat, sauvegarde des intérêts vitaux, etc.)",
+        "• Vous vous opposez au traitement de vos données et ce traitement ne répond pas à un motif légitime impérieux (par exemple, traitement de données pour suivre l’évolution d’une maladie)",
+        "• Vous vous opposez à ce que vos données soient utilisées pour réaliser de la prospection commerciale, associative ou politique",
+        "• Vos données ont été traitées de manière illégale. Par exemple, traitement de vos données dites « sensibles » en dehors des cas où cela est autorisé",
+        "• Vos données doivent être effacées pour respecter une obligation légale",
+        "• Vos données ont été collectées par un service en ligne lorsque vous étiez mineur.",
+        "Comment obtenir l’effacement de ses données personnelles ?",
+        "Votre demande doit être adressée au responsable du traitement concerné. Pour obtenir ses coordonnées, vous pouvez consulter le site internet de l’organisme qui a collecté vos données.",
+        "La demande peut se faire depuis un formulaire en ligne, par courriel ou par courrier postal.",
+        "Des modèles de courrier sont disponibles sur le site de la Cnil :",
+        "Demander l’effacement des données personnelles",
+        "[Attention] Soyez le plus précis possible en indiquant précisément les données qui doivent être supprimées. Par ailleurs, conservez une copie de votre démarche pour pouvoir faire une réclamation si nécessaire.",
+        "Le responsable du traitement doit vous répondre dans les meilleurs délais et, au plus tard, dans un délai d’1 mois à compter de la réception de votre demande.",
+        "Si l'organisme a besoin d'un délai supplémentaire, il doit vous en informer dans le mois suivant la réception de votre demande. Au total, le délai de réponse ne peut pas dépasser 3 mois.",
+        "L'organisme peut refuser votre demande dans certains cas limités. Par exemple, si l'effacement empêche l'exercice du droit à la liberté d'expression et d'information.",
+        "Dans les autres cas, votre demande doit être acceptée. En cas d’acceptation, la suppression du contenu peut être effectuée de 3 façons :",
+        "• Vos données personnelles sont totalement supprimées",
+        "• Le contenu dans lequel figure vos données est rendu inaccessible au public. Il peut rester stocké dans un fichier dans un but d’archivage",
+        "• Vos données personnelles sont anonymisées de sorte que vous n’êtes plus identifiable.",
+        "[À noter] Si vos données personnelles ont été rendues publiques par un organisme et qu'il doit les effacer, il doit informer les autres organismes qui traitent vos données de votre demande d'effacement.",
+        "En l'absence de réponse ou en cas de réponse insatisfaisante, vous pouvez faire une réclamation auprès de la Cnil :",
+        "Adresser une plainte en ligne à la Cnil"
+      ]
+    },
+    {
+      "titre": "Qu’est-ce que le droit au déréférencement des données personnelles ?",
+      "contenu": [
+        "Le droit au déréférencement vous permet de demander à un moteur de recherche de supprimer les résultats associés à une recherche depuis vos noms et prénoms (exemple : un ancien CV).",
+        "[Attention] Si l’information n’est plus accessible depuis le moteur de recherche, elle reste visible sur le site internet source.",
+        "Pour faire une demande de déréférencement, vous devez contacter le responsable du moteur de recherche par courrier ou par le biais d’un formulaire dédié (la plupart des moteurs de recherche proposent un formulaire en ligne). Quel que soit le procédé utilisé, cette démarche est gratuite.",
+        "Dans votre demande, précisez l'adresse web (URL) du résultat à supprimer et expliquez pourquoi vous souhaitez sa suppression.",
+        "Conservez une copie de votre démarche pour pouvoir faire une réclamation si nécessaire.",
+        "Le responsable du moteur de recherche doit vous répondre dans les meilleurs délais et, au plus tard, dans un délai d’1 mois suivant la réception de votre demande.",
+        "S’il a besoin d'un délai supplémentaire, il doit vous en informer dans le mois suivant la réception de votre demande. Au total, le délai de réponse ne peut pas dépasser 3 mois.",
+        "[À noter] En cas de doute raisonnable sur votre identité, le moteur de recherche peut vous demander des informations pour la confirmer.",
+        "Le déréférencement n’est pas automatique : le moteur de recherche analyse votre demande pour savoir s’il peut, ou non, y répondre favorablement.",
+        "Le moteur de recherche peut refuser votre demande s’il prouve que l'information concernée doit être communiquée au public (exemple : une information qui concerne une personne ayant un rôle dans la vie publique).",
+        "En l'absence de réponse ou si la réponse ne vous satisfait pas, vous pouvez faire une réclamation auprès de la Cnil :",
+        "Adresser une plainte en ligne à la Cnil"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Règlement (UE) 2016/679 du 27 avril 2016 - protection des personnes à l'égard du traitement des données personnelles (RGPD)",
+      "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=CELEX:32016R0679"
+    },
+    {
+      "titre": "Loi n°78-17 du 6 janvier 1978 - Informatique et libertés",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000886460/"
+    },
+    {
+      "titre": "Code pénal : articles 226-16 à 226-24",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006165313"
+    },
+    {
+      "titre": "Décret n°2019-536 du 29 mai 2019 pris pour l'application de la loi de 1978 relative à l'informatique, aux fichiers et aux libertés",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000038528420/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Exercer son droit d’accès aux données personnelles",
+      "url": "https://www.cnil.fr/fr/modele/courrier/exercer-son-droit-dacces",
+      "type": "lettreTypeNG"
+    },
+    {
+      "titre": "S’opposer au traitement de ses données personnelles",
+      "url": "https://www.cnil.fr/fr/modele/courrier/sopposer-au-traitement-de-donnees",
+      "type": "lettreTypeNG"
+    },
+    {
+      "titre": "S’opposer au traitement de ses données personnelles - Prospection",
+      "url": "https://www.cnil.fr/fr/modele/courrier/sopposer-la-prospection-commerciale-par-telephone-sms-mail-courriers",
+      "type": "lettreTypeNG"
+    },
+    {
+      "titre": "Demander la rectification de ses données personnelles",
+      "url": "https://www.cnil.fr/fr/modele/courrier/rectifier-des-donnees-inexactes",
+      "type": "lettreTypeNG"
+    },
+    {
+      "titre": "Demander l’effacement des données personnelles",
+      "url": "https://www.cnil.fr/fr/modele/courrier/supprimer-des-donnees-personnelles",
+      "type": "lettreTypeNG"
+    },
+    {
+      "titre": "Adresser une plainte en ligne à la Cnil",
+      "url": "https://www.cnil.fr/fr/plaintes",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Utilisation des données personnelles par l’intelligence artificielle",
+      "url": "https://www.cnil.fr/fr/ia-comment-sopposer-la-reutilisation-de-ses-donnees-personnelles-entrainement-agent-conversationnel"
+    },
+    {
+      "titre": "Les droits pour maîtriser vos données personnelles",
+      "url": "https://www.cnil.fr/fr/les-droits-pour-maitriser-vos-donnees-personnelles"
+    },
+    {
+      "titre": "Trouver les coordonnées d'un organisme pour exercer vos droits",
+      "url": "https://www.cnil.fr/fr/retrouver-les-coordonnees-dun-organisme-pour-exercer-vos-droits"
+    },
+    {
+      "titre": "Droit à la limitation du traitement : geler l'utilisation de vos données",
+      "url": "https://www.cnil.fr/fr/le-droit-la-limitation-du-traitement-geler-lutilisation-de-vos-donnees"
+    },
+    {
+      "titre": "Vos droits face au profilage ou à une décision automatisée",
+      "url": "https://www.cnil.fr/fr/vos-droits-lintervention-humaine-face-votre-profilage-ou-une-decision-automatisee"
+    },
+    {
+      "titre": "Comment et quand saisir la Cnil ?",
+      "url": "https://www.cnil.fr/fr/vous-souhaitez-contacter-la-cnil"
+    }
+  ],
+  "slug": "protection-des-donnees-personnelles",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "protection-des-donnees-personnelles-et-de-l-image",
+      "titre": "Protection des données personnelles et de l'image"
+    }
+  ]
+}

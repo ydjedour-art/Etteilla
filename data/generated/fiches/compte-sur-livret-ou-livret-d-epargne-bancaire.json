@@ -1,0 +1,170 @@
+{
+  "id": "F34394",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Compte sur livret ou livret d'épargne bancaire",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Les livrets d'épargne bancaire sont des produits d'épargne commercialisés librement par les banques contrairement aux livrets d'épargne réglementée.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-01-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34394",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Livrets, plans et comptes d'épargne",
+    "Compte sur livret ou livret d'épargne bancaire"
+  ],
+  "introduction": "Vous souhaitez mettre de l'argent de côté à votre rythme pour constituer une épargne disponible ? Vous pouvez ouvrir un compte sur livret ou un livret d'épargne bancaire. En effet, ce type de compte offre une grande souplesse en ce qui concerne le montant et la périodicité des versements. Nous vous présentons les règles applicables.",
+  "chapitres": [
+    {
+      "titre": "Qu'appelle-t-on livret d'épargne bancaire ?",
+      "contenu": [
+        "Le livret d'épargne (appelé aussi compte sur livret) est un compte qui sert à garder l'argent que vous mettez de côté pour faire des économies.",
+        "Il est donc différent du compte courant ou compte chèque, qui sert à gérer vos opérations de la vie courante : réception du salaire, paiement des factures, paiement des achats dans les magasins etc.",
+        "On parle de livrets d'épargne bancaire ou comptes sur livret bancaire, car ce sont les banques qui les commercialisent qui fixent librement leurs conditions de fonctionnement.",
+        "Les livrets d'épargne bancaire ont des caractéristiques qui peuvent varier d'une banque à l'autre, contrairement aux livrets d'épargne réglementée (livret A, livret jeune, LDDS, LEP) dont les caractéristiques sont fixées par les pouvoirs publics."
+      ]
+    },
+    {
+      "titre": "Qui peut ouvrir un livret d'épargne bancaire ?",
+      "contenu": [
+        "Tout le monde peut ouvrir un livret d'épargne bancaire. Il n'y a pas condition d’âge ou de nationalité ou de résidence."
+      ]
+    },
+    {
+      "titre": "Comment ouvrir un livret d'épargne bancaire ?",
+      "contenu": [
+        "Pour ouvrir un compte d'épargne, vous devez signer un contrat avec une banque, une caisse d'épargne ou un organisme financier. Les banques en ligne proposent aussi des comptes ou des livrets d'épargne.",
+        "Le contrat doit prévoir notamment les point suivants :",
+        "• Règles de dépôt et de retrait (montant minimum de dépôt, date valeur des dépôts et des retraits)",
+        "• Rémunération de l'épargne (taux d'intérêt en fonction de la durée, critères de calcul et de paiement des intérêts,...)."
+      ]
+    },
+    {
+      "titre": "Est-il possible d'ouvrir plusieurs livrets d'épargne bancaires ?",
+      "contenu": [
+        "Oui, vous pouvez ouvrir plusieurs livrets d'épargne bancaires dans plusieurs banques différentes."
+      ]
+    },
+    {
+      "titre": "Comment verser de l'argent sur un livret d'épargne bancaire ?",
+      "contenu": [
+        "Vous pouvez faire des versements au guichet ou sur l'automate si la banque vous a donné une carte bancaire pour le livret d'épargne.",
+        "Le montant montant minimum de chaque versement doit être de 10 €.",
+        "Vous pouvez également faire des virements à partir de votre compte courant."
+      ]
+    },
+    {
+      "titre": "Comment retirer de l'argent sur un livret d'épargne bancaire ?",
+      "contenu": [
+        "Vous pouvez faire des retraits au guichet ou sur l'automate si la banque vous a donné une carte de retrait pour le livret d'épargne.",
+        "Le montant montant minimum de chaque retrait doit être de 10 €.",
+        "Vous pouvez également faire des virements du livret d'épargne vers votre compte courant.",
+        "[À noter] Le solde du livret d'épargne ne peut pas être inférieur à 10 €."
+      ]
+    },
+    {
+      "titre": "Quel est le plafond du livret d'épargne bancaire ?",
+      "contenu": [
+        "Contrairement aux livrets réglementés, la loi ne prévoit pas de plafond de dépôt ou de montant maximum à ne pas dépasser pour les livrets d'épargne bancaires.",
+        "Mais la banque peut prévoir un plafond dans le contrat."
+      ]
+    },
+    {
+      "titre": "Comment est rémunéré l'argent placé sur le livret d'épargne bancaire ?",
+      "contenu": [
+        "L'argent placé sur le livret d'épargne produit des intérêts. Ils sont calculés en fonction de la durée pendant laquelle les sommes sont restées sur le compte et du taux prévu lors de la souscription.",
+        "Le taux d'intérêt du livret d'épargne bancaire est fixé librement par la banque. Il peut varier en fonction des offres commerciales.",
+        "Chaque banque vous informe du taux d'intérêt de son livret via la publicité ou au moment de la souscription.",
+        "Le taux d'intérêt proposé à l'ouverture du compte peut être modifié plus tard par la banque.",
+        "Les banques proposent parfois un taux d'intérêt élevé sur un livret appelé « super livret », mais seulement sur une courte période.",
+        "Pour pouvoir produire des intérêts, les sommes déposées doivent rester sur le compte pendant au moins une quinzaine entière.",
+        "En effet, les intérêts sont calculés par quinzaine, comme pour le livret A.",
+        "Les intérêts de la première quinzaine du mois sont calculés le 16 du mois, et les intérêts de la deuxième quinzaine du mois sont calculés le 1er du mois suivant.",
+        "La date de la valeur prise en compte pour le calcul des intérêts varie suivant la date de l'opération (dépôt ou retrait) :",
+        "Date de la valeur prise en compte pour le calcul des intérêts selon la date de l'opération",
+        "Opération",
+        "Jusqu'au 15 du mois courant",
+        "À partir du 16 du mois courant",
+        "Dépôt",
+        "16 du même mois",
+        "1er jour du mois suivant",
+        "Retrait",
+        "Dernier jour du mois précédent",
+        "15 du mois",
+        "Au 31 décembre de chaque année, les intérêts cumulés sur l'année s'ajoutent au capital.",
+        "[À savoir] Le taux d'intérêt annoncé par la banque est qualifié de taux brut, car il ne prend pas en compte l'impact de l'impôt sur le montant des intérêts que vous percevrez."
+      ]
+    },
+    {
+      "titre": "Les intérêts du livret d'épargne bancaire sont-ils imposables ?",
+      "contenu": [
+        "Le livret d'épargne bancaire ne bénéficie pas des avantages fiscaux réservés aux livrets d'épargne réglementés (livret A, livret jeune, livret d'épargne populaire etc.).",
+        "Si vous percevez des intérêts sur votre livret d'épargne bancaire, ils seront soumis à l'impôt sur le revenu (dans la catégorie des revenus de capitaux mobiliers) et aux prélèvements sociaux."
+      ]
+    },
+    {
+      "titre": "Peut-il y avoir une saisie sur le livret d'épargne bancaire ?",
+      "contenu": [
+        "Une saisie peut être réalisée sur votre livret d'épargne bancaire par l'administration ou par un créancier qui a obtenu une décision de justice reconnaissant votre dette à son égard."
+      ]
+    },
+    {
+      "titre": "Est-il possible de transférer le livret d'épargne bancaire dans une autre banque ?",
+      "contenu": [
+        "Non, il n'est pas possible de transférer le compte sur livret que vous avez ouvert dans une banque vers une autre banque.",
+        "Mais vous pouvez clôturer le compte sur livret, puis récupérer votre épargne et la déposer sur un nouveau compte sur livret ouvert dans une autre banque."
+      ]
+    },
+    {
+      "titre": "Comment se fait la clôture du livret d'épargne bancaire ?",
+      "contenu": [
+        "Pour clôturer votre livret d'épargne bancaire, vous devez en faire la demande à votre banque en respectant les conditions indiquées dans le contrat que vous avez signé à l'ouverture.",
+        "La clôture est gratuite.",
+        "La banque doit vous restituer l'épargne accumulée sur le compte sans prélever des frais."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code monétaire et financier : article L312-1-7",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731544"
+    },
+    {
+      "titre": "Code monétaire et financier : article L312-2",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000027643303"
+    },
+    {
+      "titre": "Code civil : articles 1927 à 1946",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006150317"
+    },
+    {
+      "titre": "Code général des impôts : articles 124 à 125-00 A",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000006197211/"
+    },
+    {
+      "titre": "Bofip-impôts n°BOI-RPPM-RCM-10-10-40 relatif au régime fiscal des revenus des créances, dépôts, cautionnements et comptes courants",
+      "url": "http://bofip.impots.gouv.fr/bofip/858-PGP"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Info Banque - Assurance"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Le site de la finance pour tous",
+      "url": "http://www.lafinancepourtous.com"
+    }
+  ],
+  "slug": "compte-sur-livret-ou-livret-d-epargne-bancaire",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "livrets-plans-et-comptes-d-epargne",
+      "titre": "Livrets, plans et comptes d'épargne"
+    }
+  ]
+}

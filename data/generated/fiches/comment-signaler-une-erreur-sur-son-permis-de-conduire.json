@@ -1,0 +1,51 @@
+{
+  "id": "F173",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Comment signaler une erreur sur son permis de conduire ?",
+  "theme": "Transports - Mobilité",
+  "description": "Il faut demander un nouveau permis de conduire si le permis reçu contient une erreur.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-06-17",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F173",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Permis de conduire",
+    "Comment signaler une erreur sur son permis de conduire ?"
+  ],
+  "introduction": "La démarche pour signaler et faire rectifier une erreur varie selon qu’il s’agit du permis de conduire français ou du permis de conduire international.",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [
+    {
+      "titre": "Signaler une erreur sur un permis de conduire reçu il y a moins de 6 mois",
+      "url": "https://permisdeconduire.ants.gouv.fr/demarches-en-ligne/signaler-une-erreur-sur-votre-permis",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Demander un permis de conduire en cas de détérioration, de fin de validité ou en remplacement d’un permis pliant 3 volets",
+      "url": "https://permisdeconduire.ants.gouv.fr/demarches-en-ligne/deterioration-remplacement-du-permis-pliant-3-volets-ou-fin-de-validite",
+      "type": "selNG"
+    },
+    {
+      "titre": "Consulter et télécharger les informations du permis de conduire : solde de points, relevé intégral, attestation de droit à conduire sécurisée...",
+      "url": "https://mespoints.permisdeconduire.gouv.fr",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "France Titres - Permis de conduire"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "comment-signaler-une-erreur-sur-son-permis-de-conduire",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "permis-de-conduire",
+      "titre": "Permis de conduire"
+    }
+  ]
+}

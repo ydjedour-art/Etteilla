@@ -1,0 +1,73 @@
+{
+  "id": "F31493",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Faut-il protéger le nom d'une association ?",
+  "theme": "Associations, fondations et fonds de dotation",
+  "description": "En principe, la protection du nom d'une association n'est pas nécessaire y compris lorsque le nom est original (protection automatique).",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-08-20",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31493",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Associations, fondations et fonds de dotation",
+    "Création d'une association",
+    "Faut-il protéger le nom d'une association ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Il n'est pas obligatoire de protéger le nom ou le sigle d'une association, car il est protégé automatiquement par un droit d'usage pour l'activité déclarée en préfecture.",
+        "Ce droit d’usage protège l’association contre l’utilisation non autorisée de son nom par d’autres structures exerçant une activité similaire.",
+        "Cependant, cette protection reste limitée : elle ne couvre pas tout le territoire et n’a pas la même force qu’une marque déposée.",
+        "Une association peut utiliser un nom qui n'est pas protégé ou original (à la condition de ne pas créer de risque de confusion avec le nom d'une autre personne physique ou morale).",
+        "Il est fortement conseillé de vérifier que le nom choisi ne soit pas utilisé par une autre association.",
+        "L'association, qui dispose d'un nom original, bénéficie d'un droit de propriété exclusif sur ce nom.",
+        "Cependant, si l'association a une activité économique et que son nom est celui sous lequel elle commercialise ses produits ou services, elle peut le protéger en les faisant enregistrer comme marque protégée auprès de l' Inpi. Cette demande s'effectue via un téléservice.",
+        "Le dépôt d'une marque est payant. Son coût dépend du nombre de classes sélectionnées pour couvrir les produits et les services.",
+        "Une fois la demande déposée, un délai de 2 mois permet à d’autres personnes de s’opposer à l’enregistrement si elles estiment que la marque leur porte atteinte."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [
+    {
+      "titre": "Dépôt de marque en ligne",
+      "url": "https://www.inpi.fr/fr/services-et-prestations/depot-de-marque-en-ligne",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "INPI Direct par téléphone ou formulaire de contact"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Qu'est-ce qu'une classe ?",
+      "url": "https://www.inpi.fr/faq/qu-est-ce-qu-une-classe"
+    },
+    {
+      "titre": "Les étapes-clés du dépôt de marque",
+      "url": "https://www.inpi.fr/fr/proteger-vos-creations/proteger-votre-marque/les-etapes-cles-du-depot-de-marque"
+    },
+    {
+      "titre": "Le déposant et le coût d’une marque",
+      "url": "https://www.inpi.fr/realiser-demarches/propriete-intellectuelle/deposant-et-cout-dune-marque?utm_source=chatgpt.com"
+    },
+    {
+      "titre": "Comment protéger quoi ?",
+      "url": "http://commentprotegerquoi.inpi.fr/"
+    }
+  ],
+  "slug": "faut-il-proteger-le-nom-d-une-association",
+  "path": [
+    {
+      "slug": "associations-fondations-et-fonds-de-dotation",
+      "titre": "Associations, fondations et fonds de dotation"
+    },
+    {
+      "slug": "creation-d-une-association",
+      "titre": "Création d'une association"
+    }
+  ]
+}

@@ -1,0 +1,365 @@
+{
+  "id": "F35011",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Impôt sur le revenu - Investissement locatif dans l'ancien « loi Denormandie » (réduction d'impôt)",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Vous bénéficiez d'une réduction d'impôt (Denormandie) si vous avez réalisé un investissement locatif dans l'ancien.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-03-11",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35011",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Impôt sur le revenu : déductions, réductions et crédits d'impôt",
+    "Impôt sur le revenu - Investissement locatif dans l'ancien « loi Denormandie » (réduction d'impôt)"
+  ],
+  "introduction": "Le dispositif Denormandie permet de bénéficier d'une réduction d'impôt si vous réalisez un investissement locatif dans un quartier ancien dégradé. Ce logement doit notamment être situé dans certaines communes. L'investissement est ouvert jusqu'au 31 décembre 2027. Nous vous indiquons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Quelles sont les conditions liées à l'investissement immobilier locatif dans l'ancien « loi Denormandie » ?",
+      "contenu": [
+        "Types d'acquisitions",
+        "La réduction d'impôt concerne les logements suivants :",
+        "• Logement ancien faisant l'objet de travaux d'amélioration",
+        "• Local transformé en usage d'habitation.",
+        "Les travaux doivent représenter au moins 25 % du coût total de l'opération.",
+        "Période de l'investissement",
+        "La réduction d'impôt concerne les opérations réalisées entre le 28 mars 2019 et le 31 décembre 2027.",
+        "Localisation du logement",
+        "Le logement doit être situé soit dans l'une des communes concernées par le dispositif Denormandie, soit dans une copropriété en grave difficulté.",
+        "Le logement peut bénéficier de la réduction d'impôt s'il est situé dans l'une des communes suivantes :",
+        "• Communes dont le besoin de réhabilitation de l'habitat est important",
+        "• Communes en zone labellisée Cœur de ville",
+        "• Communes ayant passé une convention d'opération de revitalisation de territoire (ORT).",
+        "Pour savoir si une ville relève de ce dispositif, vous pouvez utiliser ce simulateur :",
+        "Vérifier si votre ville relève du dispositif \"Denormandie\"",
+        "La réduction d'impôt s'applique aussi aux logements situés dans une copropriété en grave difficulté.",
+        "La copropriété en difficulté doit être dans l'une situations suivantes :",
+        "• Placée sous administration provisoire",
+        "• Incluse dans le périmètre d'une opération de requalification des copropriétés dégradées (ORCOD), que cette opération soit locale ou déclarée d'intérêt national (ORCOD-IN).",
+        "Nature des travaux à réaliser",
+        "Vous devez procéder à un des travaux suivants dans le logement :",
+        "• Travaux améliorant la performance énergétique du logement de 20 % au moins (30 % au moins pour les logements individuels)",
+        "• Au moins 2 types de travaux parmi le changement de chaudière, l'isolation des combles, l'isolation des murs, le changement de production d'eau chaude, l'isolation des fenêtres",
+        "• Création de surface habitable nouvelle (par exemple, balcon, terrasse ou garage).",
+        "[À noter] Pour les travaux d'amélioration de la performance énergétique du logement, le recours à un professionnel certifié Reconnu garant pour l'environnement (RGE) est recommandé.",
+        "Trouver un professionnel RGE ou un architecte",
+        "Les travaux doivent être terminés, au plus tard, le 31 décembre de la 2e année suivant l'acquisition.",
+        "[Exemple] Vous faites l’acquisition d’un logement en février 2026. Les travaux doivent être terminés au plus tard le 31 décembre 2028."
+      ]
+    },
+    {
+      "titre": "Quelles sont les conditions pour le choix du locataire pour l'investissement immobilier locatif dans l'ancien « loi Denormandie » ?",
+      "contenu": [
+        "Le locataire ne doit pas appartenir à votre foyer fiscal.",
+        "Son revenu fiscal de référence ne doit pas dépasser les plafonds suivants :",
+        "Métropole",
+        "Ressources annuelles maximum (revenu fiscal de référence de 2024) selon la zone géographique - Bail conclu en 2026 - Métropole",
+        "Composition du foyer fiscal",
+        "Zone A bis",
+        "Zone A",
+        "Zone B1",
+        "Zone B2",
+        "Zone C",
+        "Personne seule",
+        "44 344 €",
+        "44 344 €",
+        "36 144 €",
+        "32 530 €",
+        "32 530 €",
+        "Couple",
+        "66 276 €",
+        "66 276 €",
+        "48 268 €",
+        "43 439 €",
+        "43 439 €",
+        "+ 1 personne à charge",
+        "86 878 €",
+        "79 666 €",
+        "58 043 €",
+        "52 239 €",
+        "52 239 €",
+        "+ 2 personnes à charge",
+        "103 727 €",
+        "95 427 €",
+        "70 073 €",
+        "63 066 €",
+        "63 066 €",
+        "+ 3 personnes à charge",
+        "123 415 €",
+        "112 968 €",
+        "82 432 €",
+        "74 189 €",
+        "74 189 €",
+        "+ 4 personnes à charge",
+        "138 874 €",
+        "127 122 €",
+        "92 900 €",
+        "83 611 €",
+        "83 611 €",
+        "Majoration par personne à charge supplémentaire",
+        "+ 15 471 €",
+        "+ 14 164 €",
+        "+ 10 364 €",
+        "+ 9 325 €",
+        "+ 9 325 €",
+        "Outre-mer",
+        "Ressources annuelles maximum (revenu fiscal de référence de 2024) selon la zone géographique - Bail conclu en 2026 - Outre-mer",
+        "Composition du foyer fiscal",
+        "Département d'outre-mer (Dom)",
+        "Saint-Martin",
+        "Saint-Pierre-et-Miquelon",
+        "Polynésie Française",
+        "Nouvelle-Calédonie",
+        "Iles Wallis et Futuna",
+        "Personne seule",
+        "33 105 €",
+        "33 105 €",
+        "35 049 €",
+        "Couple",
+        "44 211 €",
+        "44 211 €",
+        "46 803 €",
+        "+ 1 personne à charge",
+        "53 165 €",
+        "53 165 €",
+        "56 283 €",
+        "+ 2 personnes à charge",
+        "64 182 €",
+        "64 182 €",
+        "67 947 €",
+        "+ 3 personnes à charge",
+        "75 500 €",
+        "75 500 €",
+        "79 929 €",
+        "+ 4 personnes à charge",
+        "85 087 €",
+        "85 087 €",
+        "90 079 €",
+        "Majoration par personne à charge supplémentaire",
+        "+ 9 499 €",
+        "+ 9 499 €",
+        "+ 10 055 €",
+        "Vous pouvez vérifier la zone dans laquelle se trouve votre investissement avec un simulateur :",
+        "Connaître la zone de sa commune : A, Abis, B1, B2 ou C"
+      ]
+    },
+    {
+      "titre": "Comment le logement doit-il être loué pour l'investissement immobilier locatif dans l'ancien « loi Denormandie » ?",
+      "contenu": [
+        "Le logement doit être loué nu (non meublé) comme habitation principale.",
+        "Il doit être loué au plus tard 1 an après l'achèvement de l'immeuble ou après son acquisition.",
+        "La durée de l'engagement de location doit être de 6, 9 ou 12 ans.",
+        "Le loyer mensuel ne doit pas dépasser, charges non comprises, les plafonds suivants :",
+        "Métropole",
+        "Plafonds de loyer mensuel, par m², charges non comprises, pour les baux conclus en métropole",
+        "Localisation du logement",
+        "Plafonds mensuels de loyer au m²",
+        "2025",
+        "2026",
+        "Zone A bis",
+        "19,55 €",
+        "19,71 €",
+        "Zone A",
+        "14,49 €",
+        "14,64 €",
+        "Zone B1",
+        "11,68 €",
+        "11,80 €",
+        "Zones B2 et C (sur agrément)",
+        "10,15 €",
+        "10,26 €",
+        "Outre-mer",
+        "Plafonds de loyer mensuel, par m², charges non comprises, pour les baux conclus en métropole",
+        "Localisation du logement",
+        "Plafonds mensuels de loyer au m²",
+        "2025",
+        "2026",
+        "Guadeloupe",
+        "12,02 €",
+        "12,21 €",
+        "La Réunion",
+        "12,02 €",
+        "12,21 €",
+        "Mayotte",
+        "12,02 €",
+        "12,21 €",
+        "Guyane",
+        "12,02 €",
+        "12,21 €",
+        "Martinique",
+        "12,02 €",
+        "12,21 €",
+        "Saint-Martin",
+        "12,02 €",
+        "12,21 €",
+        "Saint-Pierre et Miquelon",
+        "12,02 €",
+        "12,21 €",
+        "Polynésie Française",
+        "14,28 €",
+        "14,46 €",
+        "Nouvelle-Calédonie",
+        "14,28 €",
+        "14,46 €",
+        "Îles Wallis et Futuna",
+        "14,28 €",
+        "14,46 €",
+        "Les plafonds de loyer varient en fonction de la surface du logement (en multipliant le plafond au m2 par le nombre de m2 du logement).",
+        "Les plafonds peuvent être réduits pour tenir compte des particularités des marchés locatifs locaux."
+      ]
+    },
+    {
+      "titre": "Quel est le montant de la réduction d'impôt pour l'investissement immobilier locatif dans l'ancien « loi Denormandie » ?",
+      "contenu": [
+        "Plafond",
+        "La réduction d'impôt est calculée en prenant en compte les éléments suivants :",
+        "• Coût d'acquisition du logement plafonné à 300 000 €",
+        "• Plafond de 5 500 € par m² de surface habitable.",
+        "Vous devez aussi tenir compte du plafonnement global des avantages fiscaux.",
+        "Taux de la réduction d'impôt",
+        "Le taux varie en fonction de la durée de l'engagement de location.",
+        "Taux de la réduction d'impôt Denormandie selon la durée de l'engagement de location",
+        "Durée d'engagement de location",
+        "Réduction d'impôt",
+        "6 ans",
+        "12 % du prix du bien",
+        "9 ans",
+        "18 % du prix du bien",
+        "12 ans",
+        "21 % du prix du bien",
+        "[À savoir] Les règles sont différentes en outre-mer."
+      ]
+    },
+    {
+      "titre": "Comment déclarer pour bénéficier de la réduction d'impôt pour l'investissement immobilier locatif dans l'ancien « loi Denormandie » ?",
+      "contenu": [
+        "Pour remplir votre déclaration de revenus, vous pouvez consulter les documents suivants :",
+        "• Notice explicative",
+        "• Brochure sur la déclaration des revenus (indication des documents à fournir ou à conserver)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général des impôts : article 199 novovicies",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000042159380/"
+    },
+    {
+      "titre": "Code général des impôts, annexe 3 : article 2 duodecies à 2 vicies",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006191324/"
+    },
+    {
+      "titre": "Code général des impôts, annexe 3 : article 46 AZA octies à 46 AZA quaterdecies",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000023024720/"
+    },
+    {
+      "titre": "Décret n°2013-517 du 19 juin 2013 relatif à la réduction des plafonds de loyer et à l'agrément des communes pour l'aide fiscale à l'investissement locatif",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000027587178/"
+    },
+    {
+      "titre": "Décret n°2020-426 du 10 avril 2020 relatif aux conditions d'application de la réduction d'impôt sur le revenu au titre de l'investissement locatif",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000041798408/"
+    },
+    {
+      "titre": "Arrêté du 26 mars 2019 relatif à la liste des communes ouvrant droit à la réduction d'impôt Denormandie",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000038273001/"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-IR-RICI relatif aux réductions et crédits d'impôt",
+      "url": "http://bofip.impots.gouv.fr/bofip/5955-PGP"
+    },
+    {
+      "titre": "Bofip-Impôts BOI-IR-RICI-365-20-20 relatif au dispositif Denormandie ancien",
+      "url": "http://bofip.impots.gouv.fr/bofip/11939-PGP.html"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-BAREME-000017 relatif aux plafonds de loyer et de ressources 2026 pour l'investissement immobilier locatif",
+      "url": "https://bofip.impots.gouv.fr/bofip/10130-PGP.html"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Vérifier si votre ville relève du dispositif \"Denormandie\"",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/Zone-Denormandie",
+      "type": "Simulateur"
+    },
+    {
+      "titre": "Connaître la zone de sa commune : A, Abis, B1, B2 ou C",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/zonage-abc",
+      "type": "Simulateur"
+    },
+    {
+      "titre": "Estimer le montant de son impôt sur les revenus de 2025 (déclaration de 2026)",
+      "url": "https://simulateur-ir-ifi.impots.gouv.fr/calcul_impot/2026/",
+      "type": "simulateurNG"
+    },
+    {
+      "titre": "Impôts : accéder à votre espace Finances publiques",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Déclarer vos revenus en ligne",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Déclaration 2026 des revenus 2025 (papier)",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/2042/declaration-des-revenus",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Déclaration 2026 des revenus 2025 - Réductions d'impôt et crédits d'impôt",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/2042/declaration-des-revenus",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Estimer ses droits aux aides à la rénovation énergétique (y compris dispositif Denormandie)",
+      "url": "https://mesaides.france-renov.gouv.fr/",
+      "type": "simulateurNG"
+    },
+    {
+      "titre": "Savoir si un logement à rénover est éligible au dispositif Denormandie",
+      "url": "https://mesaidesreno.beta.gouv.fr/simulation",
+      "type": "Simulateur"
+    }
+  ],
+  "contacts": [
+    "Service d'information des impôts",
+    "Service en charge des impôts (trésorerie, service des impôts...)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Opération de revitalisation du territoire (ORT)",
+      "url": "https://www.cohesion-territoires.gouv.fr/operation-de-revitalisation-de-territoire-ort"
+    },
+    {
+      "titre": "Site des impôts",
+      "url": "https://www.impots.gouv.fr/portail/"
+    },
+    {
+      "titre": "Brochure pratique 2026 - Déclaration des revenus de 2025",
+      "url": "https://www.impots.gouv.fr/www2/fichiers/documentation/brochure/ir_2026/accueil.htm"
+    },
+    {
+      "titre": "Respecter la RE 2020 pour construire sa maison",
+      "url": "https://librairie.ademe.fr/urbanisme-et-batiment/5947-respecter-la-re-2020-pour-construire-sa-maison.html"
+    },
+    {
+      "titre": "Communes ouvrant droit à la réduction d'impôt Denormandie",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000038273001/#LEGISCTA000038281074"
+    }
+  ],
+  "slug": "impot-sur-le-revenu-investissement-locatif-dans-l-ancien-loi-denormandie-reduction-d-impot",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "impot-sur-le-revenu-deductions-reductions-et-credits-d-impot",
+      "titre": "Impôt sur le revenu : déductions, réductions et crédits d'impôt"
+    }
+  ]
+}

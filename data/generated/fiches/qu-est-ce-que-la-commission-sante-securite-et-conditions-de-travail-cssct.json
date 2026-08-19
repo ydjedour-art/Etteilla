@@ -1,0 +1,38 @@
+{
+  "id": "F2355",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Qu'est-ce que la commission santé, sécurité et conditions de travail (CSSCT) ?",
+  "theme": "Travail - Formation",
+  "description": "Une commission santé, sécurité et conditions de travail (CSSCT) est obligatoirement créée au sein du CSE dans les entreprises d'au moins 300 salariés.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-03-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2355",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Représentation du personnel dans l'entreprise",
+    "Qu'est-ce que la commission santé, sécurité et conditions de travail (CSSCT) ?"
+  ],
+  "introduction": "La commission santé, sécurité et conditions de travail (CSSCT) est une commission créée au sein du comité social et économique (CSE). Les règles de sa mise en place sont différentes selon l'effectif de l'entreprise ou son exposition à des risques particuliers (installations nucléaires, site Seveso seuil haut par exemple). Nous faisons un point sur la réglementation.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code du travail : articles L2315-36 à L2315-44",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000035626451"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "qu-est-ce-que-la-commission-sante-securite-et-conditions-de-travail-cssct",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "representation-du-personnel-dans-l-entreprise",
+      "titre": "Représentation du personnel dans l'entreprise"
+    }
+  ]
+}

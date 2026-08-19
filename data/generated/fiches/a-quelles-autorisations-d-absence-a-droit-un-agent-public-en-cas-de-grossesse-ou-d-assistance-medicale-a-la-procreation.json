@@ -1,0 +1,42 @@
+{
+  "id": "F34536",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "À quelles autorisations d’absence a droit un agent public en cas de grossesse ou d’assistance médicale à la procréation ?",
+  "theme": "Travail - Formation",
+  "description": "Des autorisations d'absence liées à la grossesse peuvent être accordées à la femme, fonctionnaire ou contractuelle.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-07-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34536",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Conditions de travail dans la fonction publique",
+    "À quelles autorisations d’absence a droit un agent public en cas de grossesse ou d’assistance médicale à la procréation ?"
+  ],
+  "introduction": "Une fonctionnaire ou une contractuelle peut bénéficier d'autorisations d'absence au cours de sa grossesse pour différents motifs. Un agent public peut également bénéficier d’autorisations d'absence en cas d’assistance médicale à la procréation (AMP), anciennement appelée procréation médicalement assistée (PMA). Nous vous présentons les règles concernant ces différentes autorisations d’absence.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code général de la fonction publique : article L622-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044424976/"
+    },
+    {
+      "titre": "Code du travail : article L1225-16",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051829294"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "a-quelles-autorisations-d-absence-a-droit-un-agent-public-en-cas-de-grossesse-ou-d-assistance-medicale-a-la-procreation",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "conditions-de-travail-dans-la-fonction-publique",
+      "titre": "Conditions de travail dans la fonction publique"
+    }
+  ]
+}

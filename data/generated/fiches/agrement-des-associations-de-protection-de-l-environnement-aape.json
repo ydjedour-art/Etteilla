@@ -1,0 +1,91 @@
+{
+  "id": "F638",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Agrément des associations de protection de l'environnement (AAPE)",
+  "theme": "Associations, fondations et fonds de dotation",
+  "description": "Une association de protection de l'environnement peut être agréée sous certaines conditions. Elle dispose alors de prérogatives particulières.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-06-09",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F638",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Associations, fondations et fonds de dotation",
+    "Associations reconnues représentatives",
+    "Agrément des associations de protection de l'environnement (AAPE)"
+  ],
+  "introduction": "L'agrément des associations de protection de l'environnement (AAPE) permet de reconnaître officiellement les associations qui agissent dans l'intérêt général pour la défense de l'environnement. Cet agrément leur permet de participer aux débats publics ou de défendre leurs causes en justice. Nous vous présentons les informations à connaître pour comprendre les conditions d’obtention, la procédure et les effets de cet agrément.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de l'environnement : articles L141-1 et L141-3",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006159217"
+    },
+    {
+      "titre": "Code de l'environnement : articles L142-1 à L142-4",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000019280519"
+    },
+    {
+      "titre": "Code de l'environnement articles : R141-1 à R141-26",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006159340"
+    },
+    {
+      "titre": "Code de l'environnement : articles R142-1 à R142-9",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000034668271"
+    },
+    {
+      "titre": "Décret n°2011-833 du 12 juillet 2011 fixant la liste des instances consultatives ayant vocation à examiner les politiques d'environnement et de développement durable",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000024358021"
+    },
+    {
+      "titre": "Arrêté du 12 juillet 2011 relatif à la composition du dossier de demande et de renouvellement d'agrément au titre de la protection de l'environnement et à la liste des documents à fournir annuellement",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000024358061"
+    },
+    {
+      "titre": "Arrêté du 31 mai 2021 portant publication de la liste des associations agréées au titre de la protection de l'environnement dans le cadre national",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000044033365"
+    },
+    {
+      "titre": "Circulaire du 14 mai 2012 relative à l'agrément des associations au titre de la protection de l'environnement",
+      "url": "https://www.legifrance.gouv.fr/download/pdf/circ?id=35310"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Signaler une menace ou une atteinte à la santé publique ou à l'environnement",
+      "url": "https://www.alerte-sante-environnement-deontologie.fr/",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Direction régionale de l'environnement, de l'aménagement et du logement (Dreal) - Unité territoriale"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Agrément des associations de protection de l'environnement",
+      "url": "https://www.ecologie.gouv.fr/participation-des-associations-au-dialogue-environnemental-agrement-et-habilitation-sieger-dans"
+    },
+    {
+      "titre": "Associations de protection de l'environnement agréées dans le cadre national",
+      "url": "https://www.ecologique-solidaire.gouv.fr/sites/default/files/Associations%20agr%C3%A9%C3%A9es%20au%20titre%20de%20l%27article%20L_141-1%20du%20code%20de%20l%27environnement.pdf"
+    },
+    {
+      "titre": "Le cadre de la participation du public au titre du code de l'environnement",
+      "url": "https://www.ecologique-solidaire.gouv.fr/cadre-participation-du-public-au-titre-du-code-lenvironnement"
+    },
+    {
+      "titre": "Quels sont les droits et les devoirs du citoyen européen ?",
+      "url": "https://www.vie-publique.fr/fiches/20321-quels-sont-les-droits-et-les-devoirs-du-citoyen-europeen"
+    }
+  ],
+  "slug": "agrement-des-associations-de-protection-de-l-environnement-aape",
+  "path": [
+    {
+      "slug": "associations-fondations-et-fonds-de-dotation",
+      "titre": "Associations, fondations et fonds de dotation"
+    },
+    {
+      "slug": "associations-reconnues-representatives",
+      "titre": "Associations reconnues représentatives"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "id": "F248",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Personne âgée : aide financière pour payer le portage des repas",
+  "theme": "Social - Santé",
+  "description": "Une personne âgée peut obtenir une aide financière pour payer le portage des repas, à condition de respecter des conditions d'âge et de ressources.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-01-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F248",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Allocations et aides aux personnes âgées",
+    "Personne âgée : aide financière pour payer le portage des repas"
+  ],
+  "introduction": "Votre état de santé ne vous permet plus de faire vos repas (préparation des plats) ? Vous pouvez bénéficier d'une aide financière pour payer le portage des repas, c'est-à-dire pour recevoir chez vous des plateaux-repas chauds et prêts à consommer. Pour obtenir cette aide financière, il faut remplir des conditions d'âge et de ressources. Nous vous expliquons.",
+  "chapitres": [
+    {
+      "titre": "Qu'est-ce que le portage de repas à domicile ?",
+      "contenu": [
+        "Vous pouvez bénéficier d'un service de portage de repas à domicile.",
+        "Dans ce cas, vous choisissez vos menus à partir d'une proposition communiquée par le service, ainsi que le nombre de repas souhaités.",
+        "Ces repas peuvent être adaptés à vos besoins en cas de régime particulier (régime sans sel, par exemple).",
+        "Les repas sont ensuite livrés sous forme de plateaux-repas. La plupart du temps, le plateau-repas est à réchauffer.",
+        "Les plateaux repas du week-end sont généralement livrés le vendredi."
+      ]
+    },
+    {
+      "titre": "Sous quelles conditions peut-on recevoir une aide financière au portage de repas ?",
+      "contenu": [
+        "Vous devez respecter des conditions de perte d'autonomie, de ressources et d'âge.",
+        "Condition de perte d'autonomie",
+        "Cette prise en charge est possible si votre état de santé ne vous permet pas de faire vous-même la cuisine, ni vos courses.",
+        "[Attention] Si vous remplissez les conditions pour recevoir l'allocation personnalisée d'autonomie (Apa) à domicile, les frais de portage de repas peuvent être pris en charge par l'Apa. Cette possibilité dépend du département dans lequel vous habitez.",
+        "Condition de ressources",
+        "Les règles sont différentes selon que vous vivez seul ou en couple :",
+        "Vous vivez seul",
+        "Le portage des repas est financé, en partie ou intégralement, par votre département, si vos ressources par mois sont inférieures à 1 043,59 €.",
+        "[À savoir] Si vous ne respectez pas cette condition, mais que vous être retraité, vous pouvez faire une demande à votre caisse de retraite (si elle propose une prise en charge des repas).",
+        "Vous vivez en couple",
+        "Le portage des repas est financé, en partie ou intégralement, par votre département, si vos ressources par mois sont inférieures à 1 620,18 €.",
+        "[À savoir] Si vous ne respectez pas cette condition, mais que vous être retraité, vous pouvez faire une demande à votre caisse de retraite (si elle propose une prise en charge des repas).",
+        "Condition d'âge",
+        "Vous avez droit à l'aide sociale financée par votre département :",
+        "Cas général",
+        "À partir de 65 ans.",
+        "[À savoir] Si vous ne respectez pas cette condition, mais que vous être retraité, vous pouvez faire une demande à votre caisse de retraite (si elle propose une prise en charge des repas).",
+        "Vous êtes reconnu inapte au travail",
+        "À partir de 60 ans.",
+        "[À savoir] Si vous ne respectez pas cette condition, mais que vous être retraité, vous pouvez faire une demande à votre caisse de retraite (si elle propose une prise en charge des repas)."
+      ]
+    },
+    {
+      "titre": "Comment demander une aide financière au portage de repas ?",
+      "contenu": [
+        "Pour bénéficier de la prise en charge des repas mise en place par votre département, vous devez en faire la demande auprès de votre mairie (CCAS).",
+        "Cas général",
+        "Mairie",
+        "À Paris",
+        "Paris - Centre d'action sociale de la ville de Paris (CASVP)"
+      ]
+    },
+    {
+      "titre": "Comment est fixé le montant de l'aide financière au portage de repas ?",
+      "contenu": [
+        "Le montant de l'aide financière est fixé par l'organisme qui finance cette prise en charge.",
+        "[À noter] Une participation financière peut vous être demandée, compte tenu de vos ressources et du prix du repas."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'action sociale et des familles : article L113-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031727295/"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : article R231-3",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028251901/2022-03-22/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Point d'information local dédié aux personnes âgées"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Portail national d'information pour les personnes âgées et leurs proches",
+      "url": "https://www.pour-les-personnes-agees.gouv.fr/"
+    },
+    {
+      "titre": "Pour bien vieillir.fr",
+      "url": "http://www.pourbienvieillir.fr/"
+    }
+  ],
+  "slug": "personne-agee-aide-financiere-pour-payer-le-portage-des-repas",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "allocations-et-aides-aux-personnes-agees",
+      "titre": "Allocations et aides aux personnes âgées"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "F19083",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Assurance habitation : résiliation du contrat",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Vous souhaitez résilier votre contrat d'assurance habitation sans avoir à payer de pénalités ? C'est possible si vous demandez la résiliation à l'échéance annuelle ou pour un motif prévu par le contrat ou par la loi. Votre assureur a aussi le droit de résilier le contrat dans certaines conditions.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2023-07-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F19083",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Assurance habitation",
+    "Assurance habitation : résiliation du contrat"
+  ],
+  "introduction": "Vous souhaitez résilier votre contrat d'assurance habitation sans avoir à payer de pénalités ? C'est possible si vous demandez la résiliation à l'échéance annuelle ou pour un motif prévu par le contrat ou par la loi. Votre assureur a aussi le droit de résilier le contrat dans certaines conditions.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les règles de résiliation s'appliquent quelle que soit votre nationalité et quelle que soit la durée de votre séjour en France."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code des assurances : articles L113-1 à L113-17",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006157200"
+    },
+    {
+      "titre": "Code des assurances : articles R113-1 à R113-14",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006158221"
+    },
+    {
+      "titre": "Code de la consommation : articles L215-1 à L215-5",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000034072591"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Résilier son contrat d'assurance en cours",
+      "url": "https://www.inc-conso.fr/content/assurance/vous-resiliez-votre-contrat-son-echeance-apres-avoir-ete-informee-dans-les-delais-de-votre",
+      "type": "Modèle de document"
+    },
+    {
+      "titre": "Résilier son contrat d'assurance à son échéance",
+      "url": "https://www.inc-conso.fr/content/vous-resiliez-votre-contrat-son-echeance-apres-avoir-ete-informee-dans-les-delais-de-votre",
+      "type": "Modèle de document"
+    },
+    {
+      "titre": "Résilier un contrat d'assurance habitation si vous déménagez",
+      "url": "https://www.inc-conso.fr/content/assurance/vous-resiliez-votre-contrat-multirisque-habitation-avant-son-echeance-pour-cause-de",
+      "type": "Modèle de document"
+    }
+  ],
+  "contacts": [
+    "Info Banque - Assurance"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "La résiliation du contrat d'assurance",
+      "url": "https://www.inc-conso.fr/content/la-resiliation-du-contrat-dassurance"
+    },
+    {
+      "titre": "Assurance multirisque habitation",
+      "url": "https://www.abe-infoservice.fr/assurance/assurance-multirisque-habitation"
+    },
+    {
+      "titre": "L'assurance multirisques habitation",
+      "url": "https://www.inc-conso.fr/content/lassurance-multirisques-habitation"
+    }
+  ],
+  "slug": "assurance-habitation-resiliation-du-contrat",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "assurance-habitation",
+      "titre": "Assurance habitation"
+    }
+  ]
+}

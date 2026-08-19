@@ -1,0 +1,49 @@
+{
+  "id": "F1895",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "La durée du stage du fonctionnaire est-elle prolongée en cas d'absence ?",
+  "theme": "Travail - Formation",
+  "description": "Les congés, autres que les congés annuels, accordés à un fonctionnaire stagiaire peuvent avoir des effets sur la durée de son stage.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-06-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1895",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Carrière dans la fonction publique",
+    "La durée du stage du fonctionnaire est-elle prolongée en cas d'absence ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les congés, autres que les congés annuels, accordés à un fonctionnaire stagiaire peuvent prolonger, dans des conditons variables, la durée de son stage. Nous vous présentons ces conditions de prolongation selon votre fonction publique d'appartenance (État - FPE, territoriale - FPT, hospitalière - FPH)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général de la fonction publique : articles R327-55 à R327-64",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000051962422/"
+    },
+    {
+      "titre": "Code général de la fonction publique : article R327-70",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051962468/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "la-duree-du-stage-du-fonctionnaire-est-elle-prolongee-en-cas-d-absence",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "carriere-dans-la-fonction-publique",
+      "titre": "Carrière dans la fonction publique"
+    }
+  ]
+}

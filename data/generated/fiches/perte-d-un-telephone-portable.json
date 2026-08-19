@@ -1,0 +1,97 @@
+{
+  "id": "F19066",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Perte d'un téléphone portable",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "En cas de perte de votre téléphone mobile ou smartphone, vous devez tout de suite joindre votre opérateur pour faire suspendre votre ligne.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-09-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F19066",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Communications électroniques (téléphone, internet, télévision)",
+    "Perte d'un téléphone portable"
+  ],
+  "introduction": "En cas de perte de votre téléphone mobile ou smartphone, vous devez tout de suite joindre votre opérateur pour faire suspendre votre ligne. Vous n'avez pas à faire de dépôt de plainte au commissariat ou en gendarmerie. Vous pouvez faire remplacer votre appareil si vous avez une assurance. Nous vous présentons les informations à connaitre.",
+  "chapitres": [
+    {
+      "titre": "Localiser et verrouiller votre téléphone",
+      "contenu": [
+        "Pour protéger vos données confidentielles à la suite de la perte de votre téléphone, vous pouvez tenter de localiser et de verrouiller votre appareil à distance.",
+        "Pour ce faire, vous pouvez utiliser une application de localisation ou les outils intégrés comme \"Localiser mon iPhone\" ou \"Localiser mon appareil Android\".",
+        "[À savoir] La plupart des téléphones récents permettent d'effacer à distance les données contenues (photos, SMS...) et de désactiver l'accès aux mails et autres applications."
+      ]
+    },
+    {
+      "titre": "Changer vos mots de passe",
+      "contenu": [
+        "Si votre téléphone contient des applications tels que votre boîte mail, votre compte bancaire, vos réseaux sociaux, il est recommandé de changer rapidement vos mots de passe dans chacun d'eux.",
+        "En effet, vos mots de passe sont stockés dans la mémoire de ces applications. Un voleur peut facilement les trouver et utiliser vos applications et données confidentielles."
+      ]
+    },
+    {
+      "titre": "Faire suspendre votre ligne",
+      "contenu": [
+        "Joindre votre opérateur",
+        "Vous devez signaler au plus vite la perte de votre téléphone à votre opérateur pour faire suspendre votre ligne.",
+        "Suspendre votre ligne signifie désactiver votre carte SIM. Personne ne pourra émettre d'appels à votre place.",
+        "Vous devez faire cette déclaration soit sur le site internet de votre opérateur (à partir de votre espace client), soit en appelant le numéro de téléphone d'urgence de votre opérateur.",
+        "Avant cette déclaration, les communications passées par un utilisateur frauduleux vous seront facturées.",
+        "Si vous retrouvez votre téléphone, votre ligne (carte SIM) pourra être réactivée.",
+        "Numéro IMEI",
+        "Lorsque vous appelez votre opérateur pour faire suspendre votre ligne, il doit vous communiquer le numéro IMEI (15 chiffres) de votre téléphone. Il s'agit de son identifiant.",
+        "Ce numéro permet également d'identifier votre téléphone si la police ou la gendarmerie le retrouve.",
+        "Si vous êtes assuré pour le vol de votre téléphone mobile, vous devez communiquer le numéro à votre assurance.",
+        "[À savoir] Vous pouvez trouver votre IMEI dans votre espace client sur le site internet de votre opérateur (dans les paramètres de votre compte)."
+      ]
+    },
+    {
+      "titre": "Rechercher votre téléphone",
+      "contenu": [
+        "Si vous avez perdu votre téléphone dans un établissement ou dans un transport public (train, métro, bus...), vous devez contacter au plus vite l'organisme ou la société concernés.",
+        "Si votre recherche n'aboutit pas, vous pouvez vous adresser au service des objets trouvés de votre mairie.",
+        "Mairie",
+        "Les téléphones récents ont un système de géolocalisation qui permet de voir où est votre téléphone via une application ou le site internet de la marque du téléphone. La fonction \"localisation\" de votre téléphone doit être activée."
+      ]
+    },
+    {
+      "titre": "Joindre votre assureur",
+      "contenu": [
+        "Si vous possédez une assurance pour la perte de votre téléphone, vous pourrez l'utiliser pour le remplacer.",
+        "Il peut s'agir d'une assurance prise auprès de votre opérateur ou de celle liée à votre carte bancaire ou d'une assurance voyage.",
+        "Vous devez contacter votre assureur rapidement après la perte.",
+        "[À noter] Le vol ou la perte d’un téléphone ne constitue pas un motif légitime de résiliation de votre contrat mobile, en cas de durée minimale d’engagement non atteinte.",
+        "Le remplacement dépend du contrat d'assurance signé. Par exemple, l'assurance peut fonctionner en cas de vol et non en cas de perte. Il faut vous renseigner après de votre opérateur.",
+        "L'opérateur peut vous interroger et vous demander plus de détails avant de vous dédommager.",
+        "[Attention] Faire une fausse déclaration (comme prétexter une agression violente alors qu'il s'agit d'un pickpocket) pour obtenir le remplacement de votre téléphone est un cas d'escroquerie. De plus, le dépôt d'une fausse plainte devant la police ou la gendarmerie est un délit punissable de 6 mois de prison et 7 500 € d'amende."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code des postes et des communications électroniques : article L34-3",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023713267/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Signaler un objet perdu ou trouvé à Paris ou en petite couronne (92, 93 et 94)",
+      "url": "https://objetstrouvesprefecturedepolice.franceobjetstrouves.fr/",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "perte-d-un-telephone-portable",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "communications-electroniques-telephone-internet-television",
+      "titre": "Communications électroniques (téléphone, internet, télévision)"
+    }
+  ]
+}

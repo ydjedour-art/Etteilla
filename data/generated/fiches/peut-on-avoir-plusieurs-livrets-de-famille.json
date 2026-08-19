@@ -1,0 +1,51 @@
+{
+  "id": "F39789",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Peut-on avoir plusieurs livrets de famille ?",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Oui, il est possible d’avoir plusieurs livrets de famille lorsque des enfants sont nés de différentes unions.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-08-04",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F39789",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Livret de famille",
+    "Peut-on avoir plusieurs livrets de famille ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Oui, il est possible d’avoir plusieurs livrets de famille lorsque des enfants sont nés de différentes unions.",
+        "Lorsqu'un livret de famille est établi au nom de 2 parents, seuls les enfants communs à ces derniers peuvent y être inscrits.",
+        "Si l’un des parents a un enfant avec une autre personne, cet enfant sera inscrit sur un autre livret de famille.",
+        "Ainsi, il n’est pas possible de faire figurer sur un même livret de famille des demi-frères et demi-sœurs nés d’unions différentes.",
+        "[Exemple] Vous donnez naissance à un fils en 2024 et le reconnaissez. Par la suite, vous rencontrez votre conjoint, qui ne souhaite pas reconnaître cet enfant. En 2026, vous donnez naissance à une fille. Vous et votre conjoint l'avez reconnue avant sa naissance. La naissance de votre fils vous a permis d'obtenir un premier livret de famille. En revanche, votre fille ne peut pas y être inscrite, puisqu'elle n'est pas l'enfant commun des 2 parents mentionnés sur ce livret. Un second livret de famille vous est donc délivré. Celui-ci mentionne votre fille ainsi que ses 2 parents, à savoir vous et votre conjoint."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Arrêté du 1er juin 2006 fixant le modèle de livret de famille",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006053798/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Mairie"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "peut-on-avoir-plusieurs-livrets-de-famille",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "livret-de-famille",
+      "titre": "Livret de famille"
+    }
+  ]
+}

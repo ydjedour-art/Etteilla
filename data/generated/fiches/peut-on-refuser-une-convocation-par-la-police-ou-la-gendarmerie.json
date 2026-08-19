@@ -1,0 +1,101 @@
+{
+  "id": "F2807",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Peut-on refuser une convocation par la police ou la gendarmerie ?",
+  "theme": "Justice",
+  "description": "Si vous recevez une convocation par la police ou la gendarmerie, vous devez vous y rendre obligatoirement.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-06-11",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2807",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Affaire pénale",
+    "Peut-on refuser une convocation par la police ou la gendarmerie ?"
+  ],
+  "introduction": "Non, vous ne pouvez pas la refuser. Si vous recevez une convocation par la police ou la gendarmerie, vous devez vous y rendre obligatoirement.",
+  "chapitres": [
+    {
+      "titre": "Quels sont les motifs d'une convocation par la police ou la gendarmerie ?",
+      "contenu": [
+        "Vous pouvez être convoqué par la police ou la gendarmerie pour les motifs suivants :",
+        "• Témoigner sur des faits auxquels vous avez pu assister",
+        "• Témoigner et donner des renseignements sur une personne dans une enquête pénale en cours",
+        "• Être auditionné en tant que victime pour décrire les circonstances d’une infraction, être confrontée au suspect, compléter votre déposition",
+        "• Être entendu en tant que suspect (appelé aussi prévenu ou mis en cause) pour une infraction que vous auriez commise ou suite à une plainte déposée contre vous",
+        "• Remettre un document (par exemple, votre permis de conduire en cas de suspension suite à une décision judiciaire)",
+        "• Vous remettre des documents judiciaires (convocation devant un juge pénal, notification d'une décision pénale)."
+      ]
+    },
+    {
+      "titre": "Comment est transmise la convocation de la police ou de la gendarmerie ?",
+      "contenu": [
+        "Vous pouvez être convoqué par courrier envoyé par la voie postale, remis en main propre à votre domicile ou sur votre lieu de travail ou par téléphone.",
+        "Le lieu, la date et l'horaire de convocation vous sont indiqués.",
+        "Les auditions ont le plus souvent lieu au commissariat de police ou à la brigade de gendarmerie.",
+        "[À savoir] Si la convocation concerne un mineur, ses représentants légaux doivent être avertis. Si la convocation concerne un majeur placé sous tutelle ou sous curatelle, soupçonné d’avoir commis un crime ou un délit puni d’une peine d’emprisonnement, le curateur ou le tuteur doit être averti. L’information doit lui être donnée par tout moyen par la police ou la gendarmerie."
+      ]
+    },
+    {
+      "titre": "À quoi sert la convocation de la police ou de la gendarmerie ?",
+      "contenu": [
+        "La convocation permet de vous interroger dans le cadre d’une enquête.",
+        "Le suspect (prévenu ou mis en cause) est interrogé en audition libre ou sous le régime de la garde à vue.",
+        "La victime est interrogée en simple audition comme le témoin."
+      ]
+    },
+    {
+      "titre": "Que se passe-t-il quand on ne se rend pas à la convocation de la police ou de la gendarmerie ?",
+      "contenu": [
+        "Si vous ne pouvez pas vous rendre à la convocation pour un motif légitime (hospitalisation, déplacement professionnel...), vous devez en aviser les services de police ou de gendarmerie. Ils peuvent accepter de reporter la convocation ou le refuser.",
+        "Si vous ne vous rendez pas à la convocation, l’officier de police judiciaire peut vous contraindre à comparaître par la force publique. Il doit obtenir l’autorisation du procureur de la République. La police ou la gendarmerie peut venir vous chercher à votre domicile ou sur votre lieu de travail.",
+        "Si une personne soupçonnée d’avoir commis un crime ou un délit puni d’au moins 3 ans d’emprisonnement ne se rend pas à la convocation, le procureur de la République peut délivrer un mandat de recherche. Ce mandat de recherche permet aux enquêteurs de s’introduire de force dans le domicile où se trouve le suspect entre 6 h et 21 heures."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de procédure pénale : articles 53 à 74-2",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006151876/"
+    },
+    {
+      "titre": "Code de procédure pénale : articles 53 à 74-2",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006151876/"
+    },
+    {
+      "titre": "Code de procédure pénale : articles 75 à 78",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006151877/"
+    },
+    {
+      "titre": "Code de procédure pénale : articles 122 à 136",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006167426/"
+    },
+    {
+      "titre": "Code de procédure pénale : article 706-112 à 706-118",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000006138140/#LEGISCTA000006138140"
+    },
+    {
+      "titre": "Décision du Conseil constitutionel n°2012-257 QPC du 18 juin 2012 relative aux enquêtes préliminaires",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000026037866"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Maison de justice et du droit",
+    "Commissariat",
+    "Brigade de gendarmerie",
+    "Avocat"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "peut-on-refuser-une-convocation-par-la-police-ou-la-gendarmerie",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "affaire-penale",
+      "titre": "Affaire pénale"
+    }
+  ]
+}

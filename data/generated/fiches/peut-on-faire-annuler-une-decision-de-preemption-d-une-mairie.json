@@ -1,0 +1,65 @@
+{
+  "id": "F33663",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Peut-on faire annuler une décision de préemption d'une mairie ?",
+  "theme": "Logement",
+  "description": "Oui, la décision de préempter peut faire l'objet d'une demande d'annulation sous certaines conditions.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-12-05",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33663",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Droit de préemption urbain (DPU)",
+    "Peut-on faire annuler une décision de préemption d'une mairie ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Oui, la décision de préempter peut faire l'objet d'une demande d'annulation dans un délai de 2 mois à partir de sa notification.",
+        "Le propriétaire ou l’acquéreur évincé peut saisir le tribunal administratif d’un recours pour excès de pouvoir.",
+        "Plusieurs motifs d’annulation sont possibles :",
+        "• Absence ou insuffisance de motivation, c’est-à-dire que la décision n’explique pas ou peu pour quel projet d’intérêt général la préemption est exercée",
+        "• Absence de projet réel. La décision de préempter ne peut pas intervenir pour un projet hypothétique ou non défini.",
+        "• Absence d’intérêt général suffisant",
+        "• Erreur manifeste d’appréciation. C’est le cas si la décision paraît disproportionnée ou incohérent au regard du but poursuivi.",
+        "• Détournement de pouvoir. La préemption est illégale si elle sert un but autre que celui prévu par la loi (par exemple, favoriser un promoteur privé, régler un différend personnel, bloquer la vente).",
+        "Si la décision est annulée avant la vente du bien (appartement, maison, terrain etc.), le propriétaire peut vendre à l’acquéreur qu’il veut.",
+        "Si la décision est annulée après la vente du bien, la mairie doit proposer en priorité la revente du bien à l’acquéreur et, s’il refuse, au propriétaire initial."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'urbanisme : articles R213-4 à D213-13-4",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006188209"
+    },
+    {
+      "titre": "Code de l'urbanisme : article L210-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045211258"
+    },
+    {
+      "titre": "Code de l’urbanisme : article L 213-11-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028786311/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Mairie",
+    "Agence départementale pour l'information sur le logement (Adil)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "peut-on-faire-annuler-une-decision-de-preemption-d-une-mairie",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "droit-de-preemption-urbain-dpu",
+      "titre": "Droit de préemption urbain (DPU)"
+    }
+  ]
+}

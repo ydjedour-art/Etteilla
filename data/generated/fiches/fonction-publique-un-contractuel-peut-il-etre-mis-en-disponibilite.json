@@ -1,0 +1,56 @@
+{
+  "id": "F539",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Fonction publique : un contractuel peut-il être mis en disponibilité ?",
+  "theme": "Travail - Formation",
+  "description": "Non, seul un fonctionnaire titulaire peut être mis en disponibilité. Toutefois, un contractuel peut bénéficier de congés pour des motifs identiques.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-06-29",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F539",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Mobilité dans la fonction publique",
+    "Fonction publique : un contractuel peut-il être mis en disponibilité ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Non, seul un fonctionnaire titulaire peut être placé en disponibilité.",
+        "Toutefois, si vous êtes contractuel, vous pouvez bénéficier de congés non rémunérés pour des motifs identiques aux motifs pour lesquels un fonctionnaire peut bénéficier d’une disponibilité.",
+        "Dans certains cas, le congé ne peut pas être refusé par l’administration (on dit qu'il est accordé de droit). Dans d'autres cas, le congé est accordé sous réserve des nécessités de service.",
+        "Les règles varient selon que votre fonction publique d’appartenance (État - FPE, territoriale - FPT, hospitalière - FPH)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Décret n°86-83 du 17 janvier 1986 relatif aux agents contractuels de la FPE",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000699956/"
+    },
+    {
+      "titre": "Décret n°88-145 du 15 février 1988 relatif aux agents non titulaires de la FPT",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000871608"
+    },
+    {
+      "titre": "Décret n°91-155 du 6 février 1991 relatif aux agents contractuels de la FPH",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000343794"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "fonction-publique-un-contractuel-peut-il-etre-mis-en-disponibilite",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "mobilite-dans-la-fonction-publique",
+      "titre": "Mobilité dans la fonction publique"
+    }
+  ]
+}

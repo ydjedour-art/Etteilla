@@ -1,0 +1,116 @@
+{
+  "id": "F18683",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Échec à l'examen du permis de conduire : peut-on contester les résultats ?",
+  "theme": "Transports - Mobilité",
+  "description": "Après un échec au permis de conduire, le candidat peut contester les résultats en faisant un recours administratif.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-04-24",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F18683",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Permis de conduire",
+    "Échec à l'examen du permis de conduire : peut-on contester les résultats ?"
+  ],
+  "introduction": "Après un échec au permis de conduire, le candidat peut contester les résultats en faisant un recours.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Quel type de recours ?",
+        "Vous pouvez faire un recours administratif, c'est-à-dire un recours gracieux et/ou un recours hiérarchique.",
+        "Vous n'êtes pas obligé de faire un recours gracieux avant un recours hiérarchique.",
+        "Si vous faites un recours gracieux, vous pouvez faire un recours hiérarchique sans attendre d'avoir la réponse au recours gracieux.",
+        "Dans quel délai faire le recours administratif ?",
+        "Vous devez faire votre recours administratif dans le délai de 2 mois à partir de la notification du résultat de votre examen du permis de conduire.",
+        "En pratique, le délai court à partir de la date de consultation en ligne du résultat de votre examen.",
+        "[Exemple] Vous consultez en ligne le résultat de votre examen le 23 février 2026. Vous avez jusqu'au 22 avril 2026 à minuit pour faire votre recours administratif. Si le délai prend fin un samedi, un dimanche, un jour férié ou un jour chômé, le délai est prolongé jusqu'au 1er jour ouvrable suivant.",
+        "À qui adresser le recours administratif ?",
+        "Cela dépend du type de recours.",
+        "Recours gracieux",
+        "Le recours gracieux est à adresser au préfet du lieu où vous avez passé votre permis (à la préfecture de police de Paris si vous avez habitez à Paris).",
+        "Préfecture",
+        "Préfecture",
+        "Recours hiérarchique",
+        "Cas général",
+        "Le recours hiérarchique est à adresser au ministre de l'intérieur.",
+        "Ministère de l'intérieur - Bureau national des droits à conduire",
+        "Par courrier",
+        "Ministère de l’intérieur",
+        "Bureau national des droits à conduire",
+        "Place Beauvau",
+        "75800 Paris Cedex 08",
+        "Vous passez le permis pour obtenir un titre professionnel",
+        "Selon l’établissement dans lequel vous êtes inscrit, le recours hiérarchique est à adresser au ministre chargé du travail ou au ministre chargé de l'éducation.",
+        "Ministère chargé du travail",
+        "Ministère de l'éducation nationale",
+        "Comment faire le recours administratif ?",
+        "Vous pouvez faire votre recours sur papier libre.",
+        "Vous devez motiver votre recours, c'est-à-dire expliquer pourquoi vous contestez les résultats du permis de conduire.",
+        "Joignez à votre lettre une copie des résultats contestés et tous les documents que vous jugez utiles.",
+        "Envoyez votre recours de préférence en recommandé avec AR pour avoir une preuve de l'envoi.",
+        "Conservez une copie des documents envoyés.",
+        "Conservez également les justificatifs de l'envoi et de sa bonne réception par l'administration.",
+        "Le recours est gratuit."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la route : articles R221-1-1 à D221-3",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074228/LEGISCTA000032465034"
+    },
+    {
+      "titre": "Code des relations entre le public et l'administration : articles L410-1 à L412-8",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000031367821"
+    },
+    {
+      "titre": "Arrêté du 26 avril 2013 relatif à la notification des résultats des examens du permis de conduire",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000027399390"
+    },
+    {
+      "titre": "Arrêté du 23 avril 2012 relatif à l'examen du permis de conduire des catégories BE, C1, C1E, C, CE, D1, D1E, D et DE",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000025823079/"
+    },
+    {
+      "titre": "Arrêté du 23 avril 2012 fixant les modalités pratiques de l'examen du permis de conduire des catégories A1 et A2",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000025803553"
+    },
+    {
+      "titre": "Arrêté du 20 avril 2012 fixant les conditions d'établissement, de délivrance et de validité du permis de conduire",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000025803494/"
+    },
+    {
+      "titre": "Arrêté du 19 février 2010 relatif à l'épreuve pratique de l'examen du permis de conduire B et B1",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000021897924"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Consulter en ligne le résultat de votre examen du permis de conduire",
+      "url": "https://www.securite-routiere.gouv.fr/resultats-du-permis-de-conduire#3",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "Maison de justice et du droit"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Site de la sécurité routière",
+      "url": "http://www.securite-routiere.gouv.fr"
+    }
+  ],
+  "slug": "echec-a-l-examen-du-permis-de-conduire-peut-on-contester-les-resultats",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "permis-de-conduire",
+      "titre": "Permis de conduire"
+    }
+  ]
+}

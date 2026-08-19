@@ -1,0 +1,73 @@
+{
+  "id": "F1801",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Comment savoir si un nom d'association est déjà utilisé ?",
+  "theme": "Associations, fondations et fonds de dotation",
+  "description": "Le nom ou le sigle de l'association choisi, les fondateurs doivent vérifier auprès de certaines bases de données qu'il n'est pas déjà utilisé.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-05-27",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1801",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Associations, fondations et fonds de dotation",
+    "Création d'une association",
+    "Comment savoir si un nom d'association est déjà utilisé ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Vous pouvez rechercher sur le service de consultation des annonces officielles des associations si le nom ou le sigle choisi existe déjà :",
+        "Consulter les annonces des associations et fondations",
+        "Pour éviter le risque de confusion avec le nom d'une société ou d'un autre organisme, vous pouvez également rechercher les entreprises immatriculées au Registre national des entreprises (RNE) :",
+        "Rechercher un justificatif d'immatriculation d'une entreprise",
+        "Vous pouvez également consulter le répertoire des entreprises et établissements (Sirene) :",
+        "Rechercher une entreprise au répertoire Sirene",
+        "Vous devez également consulter la base de données des marques de l'Inpi, car il est interdit d'utiliser un nom ou un sigle déjà enregistré comme marque auprès d'elle :",
+        "Base de données des marques"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la propriété intellectuelle : articles L713-1 à L713-6",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000039381607/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Consulter les annonces des associations et fondations",
+      "url": "https://www.journal-officiel.gouv.fr/pages/associations/",
+      "type": "Outil de recherche"
+    },
+    {
+      "titre": "Rechercher un justificatif d'immatriculation d'une entreprise",
+      "url": "https://data.inpi.fr/",
+      "type": "Téléservice personnalisé sur SP"
+    },
+    {
+      "titre": "Rechercher une entreprise au répertoire Sirene",
+      "url": "https://avis-situation-sirene.insee.fr/",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Base de données des marques",
+      "url": "http://bases-marques.inpi.fr/",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "comment-savoir-si-un-nom-d-association-est-deja-utilise",
+  "path": [
+    {
+      "slug": "associations-fondations-et-fonds-de-dotation",
+      "titre": "Associations, fondations et fonds de dotation"
+    },
+    {
+      "slug": "creation-d-une-association",
+      "titre": "Création d'une association"
+    }
+  ]
+}

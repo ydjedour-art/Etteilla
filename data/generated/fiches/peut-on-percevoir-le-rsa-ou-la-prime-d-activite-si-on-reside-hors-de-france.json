@@ -1,0 +1,61 @@
+{
+  "id": "F994",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Peut-on percevoir le RSA ou la prime d'activité si on réside hors de France ?",
+  "theme": "Social - Santé",
+  "description": "Pour percevoir le RSA ou la prime d'activité hors de France, vous devez résider hors de France moins de 3 mois par année civile.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2024-08-02",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F994",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Revenu de solidarité active (RSA)",
+    "Peut-on percevoir le RSA ou la prime d'activité si on réside hors de France ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Si vous habitez à l'étranger, vous pouvez percevoir le RSA ou la la prime d'activité à condition d'avoir résidé hors de France moins de 3 mois par année civile.",
+        "Toutefois, si vous avez séjourné plus de 3 mois à l'étranger, vous pouvez percevoir le RSA ou la prime d'activité mais seulement pour les mois complets de présence en France.",
+        "Vous devez déclarer votre résidence comme étant stable et régulière.",
+        "Vous pouvez percevoir le RSA ou à la prime d'activité si vous êtes sans domicile fixe et vivez de façon permanente en France. Vous devez alors vous faire domicilier auprès d'un CCAS ou d'un organisme agréé."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'action sociale et des familles : articles R262-4-2 et R262-5",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020526206"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Estimer son droit au RSA (Caf)",
+      "url": "https://wwwd.caf.fr/wps/portal/caffr/aidesetdemarches/mesdemarches/faireunesimulation/lersa#/",
+      "type": "Simulateur"
+    },
+    {
+      "titre": "Demander la prime d'activité",
+      "url": "https://www.msa.fr/lfp/prime-d-activite",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "France Travail"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "peut-on-percevoir-le-rsa-ou-la-prime-d-activite-si-on-reside-hors-de-france",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "revenu-de-solidarite-active-rsa",
+      "titre": "Revenu de solidarité active (RSA)"
+    }
+  ]
+}

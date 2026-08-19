@@ -1,0 +1,33 @@
+{
+  "id": "F36492",
+  "type_publication": "Recherche guidée",
+  "titre": "[Amende pour abandon de déchets dans la rue]",
+  "theme": "Logement",
+  "description": "[Amende pour abandon de déchets dans la rue]",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2022-07-12",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F36492",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Déchets",
+    "[Amende pour abandon de déchets dans la rue]"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "amende-pour-abandon-de-dechets-dans-la-rue",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "dechets",
+      "titre": "Déchets"
+    }
+  ]
+}

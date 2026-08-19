@@ -1,0 +1,184 @@
+{
+  "id": "F10486",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Achat à distance : moyens de paiement, date de paiement et contestation",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Vous pouvez payer votre commande d'un bien ou d'une prestation de service conclue à distance quelqu'en soit sa nature, par espèce, carte bancaire, virement...",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-07-31",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F10486",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Achat à distance",
+    "Achat à distance : moyens de paiement, date de paiement et contestation"
+  ],
+  "introduction": "Vous allez effectuer des achats sur internet, par correspondance, par téléachat, par téléphone auprès d'un professionnel. Vous vous interrogez sur les solutions de paiement dont vous disposez pour régler votre commande ? Selon les vendeurs, le paiement peut être encaissé immédiatement au moment de l'achat, à la réception du produit ou bien lors de la fourniture de la prestation de service. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Quelles informations doivent être portées à la connaissance du consommateur avant qu'il utilise un moyen de paiement pour un achat à distance ?",
+      "contenu": [
+        "Les sites de commerce en ligne doivent indiquer clairement et lisiblement, au plus tard au début du processus de commande, les moyens de paiement acceptés (et les éventuelles restrictions de livraison).",
+        "Lors de votre commande, le vendeur professionnel doit veiller à ce que vous reconnaissiez explicitement votre obligation de paiement. Pour ce faire, la fonction utilisée pour que vous validiez votre commande doit comporter de manière claire et lisible la mention : commande avec obligation de paiement ou une formule similaire dénuée d’ambiguïté, indiquant que la passation d'une commande oblige à son paiement.",
+        "[À savoir] Le professionnel ne peut pas vous facturer de frais supplémentaires liés à l'utilisation d'un moyen de paiement.",
+        "Les conditions générales de vente doivent préciser les conditions et délais de paiement."
+      ]
+    },
+    {
+      "titre": "Quels sont les moyens de paiement possibles pour un achat à distance ?",
+      "contenu": [
+        "Vous pouvez payer votre commande d'un bien ou d'une prestation de service conclue à distance quelle qu'en soit sa nature (c'est-à-dire par téléphone, par correspondance, par téléachat, sur internet) par l'une des manières suivantes :",
+        "• Carte bancaire",
+        "• E-carte bleue (Payweb)",
+        "• Virement ou prélèvement bancaire",
+        "• Portefeuille électronique (PayPal, Paylib...)",
+        "• Carte prépayée",
+        "• Chèque (toutefois, il est rarement accepté pour un achat en ligne).",
+        "Carte bancaire",
+        "En cas d'achat en ligne, vous pouvez régler par carte bancaire au moment de l'exécution de la prestation ou à la livraison de votre colis.",
+        "Votre paiement peut aussi avoir lieu immédiatement par carte bancaire, au moment de votre commande. Vous devez alors indiquer le numéro de votre carte bancaire, sa fin de validité et les 3 derniers chiffres figurant au dos de votre carte (cryptogramme visuel).",
+        "Vous devez vérifier que ces informations sont bien transmises de façon sécurisée. S'il s'agit d'un achat en ligne, l'URL de la page doit commencer par https:// et le symbole d'un cadenas fermé doit apparaître dans la barre de recherche.",
+        "[Attention] Votre code confidentiel à 4 chiffres ne peut pas vous être demandé. Vous ne devez jamais le donner. Il ne sert qu'aux paiements en magasin.",
+        "Le paiement par carte bancaire est irrévocable sauf en cas d'utilisation frauduleuse (c'est-à-dire si une autre personne a passé une commande avec votre carte bleue).",
+        "De plus, les paiements en ligne font l'objet d'une authentification forte. Il s'agit d'une sécurité supplémentaire qui oblige à confirmer auprès de votre banque que vous êtes bien à l'origine d'un achat réalisé sur internet. Pour ce faire, vous devez avoir en votre possession un téléphone portable.",
+        "E-carte bleue (payweb)",
+        "C'est un service payant, proposé par votre banque, qui vous permet d'acheter un produit en ligne sans avoir à divulguer votre numéro de carte bancaire. Vous recevez, au moment du paiement, un numéro de carte à usage unique.",
+        "Virement ou prélèvement bancaire",
+        "Vous pouvez régler vos achats par virement bancaire (achat en 1 fois), par prélèvement bancaire (paiement d'un abonnement par exemple), ou à crédit, après avoir souscrit un crédit affecté.",
+        "Portefeuille électronique (PayPal, Paylib...)",
+        "Certains sites proposent le portefeuille électronique comme moyen de paiement pour payer en ligne des achats effectués sur internet.",
+        "Il peut être proposé sous des noms différents (par exemple, PayPal, Paylib).",
+        "Il n'y a pas besoin de rentrer ses informations bancaires à chaque paiement. Les achats s'effectuent par la saisie d'un identifiant de connexion ou d'une adresse de courrier électronique et d'un mot de passe, parfois associé à un code secret.",
+        "Vous devez créer auprès d'un organisme tiers (banque, opérateur télécom...) un compte avec un identifiant (mail ou numéro de téléphone) et un mot de passe.",
+        "Lors de votre inscription, vous enregistrez vos informations personnelles et vos données de paiement (c'est-à-dire le numéro à 16 chiffres de votre carte bancaire, sa date de validité et le cryptogramme à 3 chiffres). Les données sont stockées.",
+        "L'ouverture d'un tel compte est gratuite.",
+        "Cartes prépayées",
+        "Une fois créditée d'une somme d'argent, la carte prépayée peut être utilisée comme moyen de paiement jusqu'à épuisement de la somme rechargée. Il peut s'agir par exemple de cartes cadeaux ou de cartes de paiement. Elles peuvent être rechargeables ou non.",
+        "Chèque",
+        "Vous pouvez parfois régler par chèque au moment de la commande. En principe, ces informations vous sont communiquées dans les conditions générales de vente (CGV) par le professionnel."
+      ]
+    },
+    {
+      "titre": "Quelle est la date effective du paiement lors d'un achat à distance ?",
+      "contenu": [
+        "La loi autorise le professionnel à encaisser votre paiement dès la conclusion de la commande.",
+        "Certains professionnels proposent à leurs clients d'effectuer le paiement à la livraison du produit ou lors de la fourniture de la prestation.",
+        "Vous pouvez obtenir des informations sur la date du paiement dans les conditions générales de vente (CGV). Ces dernières doivent vous être indiquées de façon claire et visible notamment sur le site du vendeur."
+      ]
+    },
+    {
+      "titre": "Est-il possible de payer en plusieurs fois un achat à distance ?",
+      "contenu": [
+        "Certains professionnels proposent 2 options supplémentaires :",
+        "• un paiement en plusieurs fois (sans frais ou avec intérêts),",
+        "• un paiement différé (débité après la livraison ou à une date ultérieure précisée par le vendeur).",
+        "Ces options doivent toujours être annoncées clairement avant la validation de la commande et figurer dans les conditions générales de vente (CGV).",
+        "[À savoir] Si un paiement en plusieurs fois comporte des frais ou des intérêts, cela devient un crédit à la consommation. Dans ce cas, le vendeur doit respecter les obligations suivantes : • Information claire sur le coût total et le taux d’intérêt • Vérification de votre capacité de remboursement • Droit de rétractation spécifique après la signature."
+      ]
+    },
+    {
+      "titre": "Est-il possible d’annuler un paiement avant l’expédition d’un achat effectué à distance ?",
+      "contenu": [
+        "En principe, non, car dès que la commande est validée, vous êtes engagé à payer. L’annulation avant expédition n’est possible que si le vendeur l’accepte.",
+        "En revanche, vous disposez d’un droit de rétractation de 14 jours à compter de la réception du produit. Cela vous permet d’annuler la commande et d’obtenir un remboursement, sans avoir à justifier votre décision.",
+        "[Attention] Ce droit ne s’applique pas, par exemple pour les biens personnalisés ou fabriqués selon vos spécifications et les services exécutés en totalité avant la fin du délai de rétractation, avec votre accord préalable."
+      ]
+    },
+    {
+      "titre": "Est-il possible de contester une opération de paiement effectué pour un achat à distance ?",
+      "contenu": [
+        "Auprès de votre banque",
+        "Vous pouvez contester une opération de paiement auprès de votre banque dans des délais qui diffèrent selon que :",
+        "• vous avez ou non autorisé l'opération",
+        "• et, si vous ne l'avez pas autorisé, que la banque du bénéficiaire (le vendeur) est située ou non dans l'Union européenne (UE) ou dans l'Espace économique européen (EEE). Pour savoir où se situe la banque du bénéficiaire, vous pouvez vérifier les coordonnées bancaires (IBAN, BIC) mentionnées sur la confirmation de paiement ou la facture. En cas de doute, votre banque peut vous aider à identifier si l’établissement est situé dans l’UE/EEE ou à l’extérieur.",
+        "Vous n'avez pas autorisé l'opération",
+        "Banque du vendeur située dans l'UE ou EEE",
+        "Vous pouvez demander à votre banque (par téléphone ou par mail) le remboursement de votre achat au plus tard dans un délai de 13 mois à partir de la date où votre compte a été débité.",
+        "Banque du vendeur située en dehors de l'UE ou EEE",
+        "Vous pouvez demander à votre banque le remboursement de votre achat au plus tard dans un délai de 70 jours (éventuellement prolongés par contrat sans dépasser 120 jours) à partir de la date où votre compte a été débité.",
+        "Vous avez autorisé l'opération, mais elle est mal exécutée ou inexécutée (par exemple, vous avez été débité d'une somme inférieure ou supérieure à celle prévue)",
+        "Si vous vous apercevez de la mauvaise exécution ou de l'inexécution de l'opération de paiement à la lecture de votre relevé de compte, vous pouvez contacter votre banque pour demander le remboursement de votre achat. Cette demande peut être faite par téléphone, mail ou courrier, en précisant le paiement concerné et la nature de l’erreur.",
+        "Vous disposez, pour ce faire, d'un délai de 8 semaines à partir de la date où votre compte bancaire a été débité.",
+        "La banque doit vous rembourser ou justifier son refus dans les 10 jours ouvrables de la réception de votre demande.",
+        "Autre recours",
+        "Si la réponse de votre banque n’est pas satisfaisante ou si vous n’obtenez pas de remboursement, d'autres recours vous sont ouverts. Vous avez notamment la possibilité :",
+        "• de faire appel au service client,",
+        "• de recourir au médiateur de la consommation,",
+        "• de saisir la justice."
+      ]
+    },
+    {
+      "titre": "Quel est le délai pour être remboursé après opposition ou contestation du paiement ?",
+      "contenu": [
+        "Votre banque doit vous rembourser immédiatement, au plus tard dans les 10 jours ouvrés suivant votre demande, sauf soupçon de fraude de votre part."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la consommation : articles L221-11 à L221-15",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032226862/"
+    },
+    {
+      "titre": "Code monétaire et financier : articles L112-11 à L112-13",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000020861876/"
+    },
+    {
+      "titre": "Code monétaire et financier : article L133-1-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037294430"
+    },
+    {
+      "titre": "Code monétaire et financier : article L133-24",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035430562/"
+    },
+    {
+      "titre": "Code monétaire et financier : article L133-17",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035430495/"
+    },
+    {
+      "titre": "Code monétaire et financier : article L133-18",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000020861595/"
+    },
+    {
+      "titre": "Directive (UE) 2015/2366 du Parlement européen et du Conseil du 25 novembre 2015 concernant les services de paiement dans le marché intérieur",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000031878407/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "0809 540 550 DGCCRF - RéponseConso"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Acheter sur internet en 10 questions-réponses",
+      "url": "https://www.inc-conso.fr/content/acheter-sur-internet-en-10-questions-reponses"
+    },
+    {
+      "titre": "Moyens de paiement - video",
+      "url": "https://sites.banque-france.fr/fileadmin/user_upload/banque_de_france/moyens_paiement/"
+    },
+    {
+      "titre": "Achats en ligne par carte bancaire : quelles données personnelles fournir ?",
+      "url": "https://www.cnil.fr/sites/default/files/atoms/files/_commerce-donnees_perso_achats_en_ligne.pdf"
+    },
+    {
+      "titre": "Le portefeuille électronique ou numérique",
+      "url": "https://www.inc-conso.fr/content/le-portefeuille-electronique-ou-numerique"
+    },
+    {
+      "titre": "Quels sont les moyens de paiement alternatifs ?",
+      "url": "https://www.economie.gouv.fr/particuliers/moyens-paiement-alternatifs"
+    }
+  ],
+  "slug": "achat-a-distance-moyens-de-paiement-date-de-paiement-et-contestation",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "achat-a-distance",
+      "titre": "Achat à distance"
+    }
+  ]
+}

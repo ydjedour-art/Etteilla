@@ -1,0 +1,97 @@
+{
+  "id": "F21051",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Logement social : supplément de loyer de solidarité (surloyer)",
+  "theme": "Logement",
+  "description": "Un surloyer est réclamé quand les revenus des habitants du logement social dépassent d'au moins 20% les revenus maximums à respecter pour son attribution.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-01-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F21051",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Bail d’habitation : loyer",
+    "Logement social : supplément de loyer de solidarité (surloyer)"
+  ],
+  "introduction": "Un supplément de loyer de solidarité (SLS) appelé surloyer peut être réclamé au locataire lorsque le total des revenus des personnes qui habitent le logement dépassent d'au moins 20 % un montant spécifique. Ce montant spécifique varie selon que le logement se situe en Île-de-France, en province ou outre-mer. Nous vous expliquons.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de la construction et de l'habitation : articles L441-3 à L441-15",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006176322/"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : articles R441-19 à R441-28",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000006189384/"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : articles R441-29 et R441-30",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006189385/"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : article R441-31",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006189386/"
+    },
+    {
+      "titre": "Arrêté du 29 juillet 1987 relatif aux plafonds de ressources des bénéficiaires de la législation sur les HLM et des nouvelles aides de l'État",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000294318/"
+    },
+    {
+      "titre": "Circulaire du 21 décembre 2018 de présentation des dispositions d'application immédiate de la loi n°2018-1021 (loi Elan)",
+      "url": "https://www.legifrance.gouv.fr/download/pdf/circ?id=44240"
+    },
+    {
+      "titre": "Réponse ministérielle du 13 mai 2014 sur la prise en compte de la présence d'une personne handicapée pour le calcul du supplément de loyer de solidarité (SLS)",
+      "url": "http://questions.assemblee-nationale.fr/q14/14-22822QE.htm"
+    },
+    {
+      "titre": "Loi n°95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000005617704/"
+    },
+    {
+      "titre": "Arrêté du 3 octobre 2017 relatif aux zones géographiques relatives au supplément de loyer de solidarité",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000035938965/"
+    },
+    {
+      "titre": "Réponse ministérielle du 7 février 2019 sur le loyer d'un immeuble acquis par une société d'habitations à loyer modéré (HLM)",
+      "url": "http://www.senat.fr/questions/base/2019/qSEQ190208708.html"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Enquête annuelle sur l'application du supplément de loyer de solidarité (SLS)",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_14606.do",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Liste des communes classées en zone France ruralités revitalisation (ZFRR)",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000049746820/"
+    },
+    {
+      "titre": "Quartiers prioritaires (QP)",
+      "url": "https://sig.ville.gouv.fr/Atlas/QP/"
+    },
+    {
+      "titre": "Votre adresse est-elle un quartier prioritaire de la politique de la ville ?",
+      "url": "https://sig.ville.gouv.fr/"
+    },
+    {
+      "titre": "Logements sociaux PLAI, PLUS, PLS, PLI, quelles différences ?",
+      "url": "https://www.actionlogement.fr/guides/trouver-un-logement/logements-plai-pli-plus-plus"
+    }
+  ],
+  "slug": "logement-social-supplement-de-loyer-de-solidarite-surloyer",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "bail-d-habitation-loyer",
+      "titre": "Bail d’habitation : loyer"
+    }
+  ]
+}

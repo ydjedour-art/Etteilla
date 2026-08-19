@@ -1,0 +1,63 @@
+{
+  "id": "F3040",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Compte personnel de formation (CPF) dans la fonction publique territoriale (FPT)",
+  "theme": "Travail - Formation",
+  "description": "Les agents de la fonction publique territoriale bénéficient d'un crédit annuel d'heures de formation professionnelle, appelé compte personnel de formation.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-08-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F3040",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Formation professionnelle dans la fonction publique",
+    "Compte personnel de formation (CPF) dans la fonction publique territoriale (FPT)"
+  ],
+  "introduction": "Les agents titulaires ou contractuels de la fonction publique territoriale bénéficient d'un crédit annuel d'heures de formation professionnelle, appelé compte personnel de formation (CPF). Ces heures sont mobilisables à leur initiative. Elles permettent d'accomplir des formations visant l'acquisition d'un diplôme ou le développement de compétences dans le cadre d'un projet d'évolution professionnelle (mobilité, promotion, reconversion professionnelle). Nous vous exposons les règles à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code général de la fonction publique : article L115-4",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044427923/"
+    },
+    {
+      "titre": "Code général de la fonction publique : articles L422-8 à L422-19",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044422326/"
+    },
+    {
+      "titre": "Code général de la fonction publique : articles R422-82 à R422-107",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000054076681/2026-08-01"
+    },
+    {
+      "titre": "Circulaire du 10 mai 2017 relative aux modalités de mise en œuvre du compte personnel d'activité dans la fonction publique",
+      "url": "https://www.legifrance.gouv.fr/download/file/pdf/cir_42191/CIRC"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Mon compte formation",
+      "url": "https://www.moncompteformation.gouv.fr/espace-prive/html/#/",
+      "type": "selNG"
+    },
+    {
+      "titre": "Consultation du répertoire national des certifications professionnelles (RNCP)",
+      "url": "https://www.francecompetences.fr/recherche-resultats/",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "Centre national de la fonction publique territoriale (CNFPT)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "compte-personnel-de-formation-cpf-dans-la-fonction-publique-territoriale-fpt",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "formation-professionnelle-dans-la-fonction-publique",
+      "titre": "Formation professionnelle dans la fonction publique"
+    }
+  ]
+}

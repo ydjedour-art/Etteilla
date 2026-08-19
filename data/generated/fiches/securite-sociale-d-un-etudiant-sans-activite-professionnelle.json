@@ -1,0 +1,45 @@
+{
+  "id": "F675",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Sécurité sociale d'un étudiant sans activité professionnelle",
+  "theme": "Social - Santé",
+  "description": "La démarche pour un étudiant varie selon qu'il ait déjà ou non un numéro de sécurité sociale français.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-08-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F675",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Affiliation à la sécurité sociale (assurance maladie)",
+    "Sécurité sociale d'un étudiant sans activité professionnelle"
+  ],
+  "introduction": "Vous devenez étudiant et vous n’avez pas d’activité professionnelle ? Pensez à vérifier votre situation liée à la protection sociale pour être vite et bien remboursé. La démarche à accomplir varie selon que vous avez déjà ou non un numéro de Sécurité sociale. Nous vous exposons les règles à connaître.",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [
+    "Caisse primaire d'assurance maladie (CPAM)",
+    "Centre des liaisons européennes et internationales de sécurité sociale (Cleiss)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Étudiant : votre prise en charge",
+      "url": "https://www.ameli.fr/assure/droits-demarches/etudes-stages/etudiant/etudiant"
+    },
+    {
+      "titre": "Vous venez étudier en France : votre protection sociale",
+      "url": "https://www.cleiss.fr/particuliers/venir/etudes/index.html"
+    }
+  ],
+  "slug": "securite-sociale-d-un-etudiant-sans-activite-professionnelle",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "affiliation-a-la-securite-sociale-assurance-maladie",
+      "titre": "Affiliation à la sécurité sociale (assurance maladie)"
+    }
+  ]
+}

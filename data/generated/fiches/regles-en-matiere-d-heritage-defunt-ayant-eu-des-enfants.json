@@ -1,0 +1,65 @@
+{
+  "id": "F1270",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Règles en matière d'héritage : défunt ayant eu des enfants",
+  "theme": "Famille - Scolarité",
+  "description": "Le règlement de la succession d'un défunt ayant des enfants dépend de l'existence d'un testament ou non.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2024-12-19",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1270",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Héritage : ordre et droits des héritiers",
+    "Règles en matière d'héritage : défunt ayant eu des enfants"
+  ],
+  "introduction": "À qui les biens d'une personne qui avait des enfants sont transmis lorsqu'elle décède ? Quand le défunt n'a pas fait de testament, ses biens vont à ses descendants, et à son époux s'il était marié. Quand le défunt a fait un testament, il doit réserver une partie de son patrimoine à ses descendants. Il peut attribuer la part restante librement (au profit d'un héritier ou d'un tiers). Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code civil : article 733",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006430946"
+    },
+    {
+      "titre": "Code civil : articles 734 à 740",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006430967"
+    },
+    {
+      "titre": "Code civil : articles 751 à 755",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165516/#LEGISCTA000006165516"
+    },
+    {
+      "titre": "Code civil : articles 756 à 758-6",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006165517"
+    },
+    {
+      "titre": "Code civil : articles 804 à 808",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006150536"
+    },
+    {
+      "titre": "Code général des impôts : articles 779 à 787 C",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006199106/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Notaire"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Portail des services en ligne des notaires de France",
+      "url": "https://notaires.fr/"
+    }
+  ],
+  "slug": "regles-en-matiere-d-heritage-defunt-ayant-eu-des-enfants",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "heritage-ordre-et-droits-des-heritiers",
+      "titre": "Héritage : ordre et droits des héritiers"
+    }
+  ]
+}

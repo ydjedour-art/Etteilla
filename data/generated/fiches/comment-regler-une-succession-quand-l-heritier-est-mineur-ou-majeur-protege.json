@@ -1,0 +1,116 @@
+{
+  "id": "F905",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Comment régler une succession quand l'héritier est mineur ou majeur protégé ?",
+  "theme": "Famille - Scolarité",
+  "description": "L'autorisation du juge peut être demandée lorsque l'héritier est mineur ou majeur protégé (tutelle, curatelle, habilitation familiale).",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-02-06",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F905",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Règlement d'une succession",
+    "Comment régler une succession quand l'héritier est mineur ou majeur protégé ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Si vous êtes le représentant d'un mineur (parent ou tuteur) ou d'un majeur protégé (tuteur, curateur, personne habilitée) qui hérite, vous devez régler la succession au nom de la personne que vous représentez.",
+        "Vous avez le choix entre 3 solutions. C'est ce qu'on appelle l'option successorale. Vous pouvez, sous conditions, au nom du mineur ou du majeur protégé, choisir l'une des options suivantes :",
+        "• Accepter purement et simplement la succession",
+        "• Accepter la succession à concurrence de l'actif net",
+        "• Renoncer à la succession.",
+        "Chaque option a des conséquences différentes pour le paiement des éventuelles dettes du défunt."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : articles 382 à 386",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000031322686"
+    },
+    {
+      "titre": "Code civil : articles 387 à 387-6",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000031322937"
+    },
+    {
+      "titre": "Code civil : articles 505 à 508",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006165512"
+    },
+    {
+      "titre": "Décret n°2008-1484 du 22 décembre 2008 sur les actes de gestion du patrimoine des personnes placées en curatelle ou en tutelle",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000020017088"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Déclaration d'acceptation d'une succession à concurrence de l'actif net",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/15455",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Requête en acceptation de la succession au nom d'un enfant mineur",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_15813.do",
+      "type": "formulaireNG"
+    },
+    {
+      "titre": "Requête en renonciation à la succession au nom d'un enfant mineur",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_15811.do",
+      "type": "formulaireNG"
+    },
+    {
+      "titre": "Déclaration de renonciation à une succession au nom d'un enfant mineur",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_15832.do",
+      "type": "formulaireNG"
+    },
+    {
+      "titre": "Requête en acceptation de la succession au nom d'un majeur placé sous protection juridique (habilitation familiale ou tutelle)",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_15911.do",
+      "type": "formulaireNG"
+    },
+    {
+      "titre": "Requête en renonciation à la succession au nom d'un majeur placé sous tutelle",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_15812.do",
+      "type": "formulaireNG"
+    },
+    {
+      "titre": "Déclaration de renonciation au nom d'un majeur placé sous tutelle",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_15831.do",
+      "type": "formulaireNG"
+    },
+    {
+      "titre": "Déclaration de renonciation à la succession par un majeur placé sous curatelle",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_15830.do",
+      "type": "formulaireNG"
+    },
+    {
+      "titre": "Requête en renonciation à succession au nom d'un majeur placé sous habilitation familiale",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_15866.do",
+      "type": "formulaireNG"
+    },
+    {
+      "titre": "Déclaration de renonciation à la succession au nom d'un majeur placé sous habilitation familiale",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_15829.do",
+      "type": "formulaireNG"
+    }
+  ],
+  "contacts": [
+    "Notaire",
+    "Tribunal judiciaire ou tribunal de proximité"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "comment-regler-une-succession-quand-l-heritier-est-mineur-ou-majeur-protege",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "reglement-d-une-succession",
+      "titre": "Règlement d'une succession"
+    }
+  ]
+}

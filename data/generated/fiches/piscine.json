@@ -1,0 +1,33 @@
+{
+  "id": "F35108",
+  "type_publication": "Recherche guidée",
+  "titre": "Piscine",
+  "theme": "Logement",
+  "description": "Piscine",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2020-01-10",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35108",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Vie pratique en logement individuel (maison)",
+    "Piscine"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "piscine",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "vie-pratique-en-logement-individuel-maison",
+      "titre": "Vie pratique en logement individuel (maison)"
+    }
+  ]
+}

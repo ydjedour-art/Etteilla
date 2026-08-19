@@ -1,0 +1,44 @@
+{
+  "id": "F2224",
+  "type_publication": "Fiche avec liens externes",
+  "titre": "Juridictions de recours de l'ordre judiciaire : cour d'appel et Cour de cassation",
+  "theme": "Justice",
+  "description": "Une personne insatisfaite d'un premier jugement peut faire appel. Si elle estime que le droit n'a pas été respecté, elle peut saisir la Cour de cassation.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-12-10",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2224",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Juridictions",
+    "Juridictions de recours de l'ordre judiciaire : cour d'appel et Cour de cassation"
+  ],
+  "introduction": "Vous êtes insatisfait d'une décision de justice rendue par une juridiction de première instance ? Vous pouvez saisir la cour d'appel pour qu'elle réexamine entièrement votre dossier et qu'elle rende une nouvelle décision. On dit alors que vous interjetez appel. Si vous estimez qu'un tribunal ou qu'une cour d'appel a mal interprété un texte de loi, vous pouvez saisir la Cour de cassation. Il s'agit donc d'un pourvoi en cassation.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de l'organisation judiciaire : annexe tableau IV-II",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039027483"
+    },
+    {
+      "titre": "Code de l'organisation judiciaire : articles L411-1 à L411-4",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006151784/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Maison de justice et du droit"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "juridictions-de-recours-de-l-ordre-judiciaire-cour-d-appel-et-cour-de-cassation",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "juridictions",
+      "titre": "Juridictions"
+    }
+  ]
+}

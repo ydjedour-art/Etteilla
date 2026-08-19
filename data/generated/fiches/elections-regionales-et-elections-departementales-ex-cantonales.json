@@ -1,0 +1,129 @@
+{
+  "id": "F1958",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Élections régionales et élections départementales (ex-cantonales)",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Les conseillers régionaux sont élus lors des élections régionales, les conseillers départementaux sont élus lors des élections départementales.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2024-10-23",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1958",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Élections",
+    "Élections régionales et élections départementales (ex-cantonales)"
+  ],
+  "introduction": "Vous voulez savoir comment se déroulent les élections régionales ou les élections départementales ? Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "[À savoir] Les prochaines élections régionales et élections départementales sont prévues en mars 2028. La date précise des élections doit être communiquée aux électeurs au moins 6 semaines avant le jour des élections."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code électoral : article L336",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027469056"
+    },
+    {
+      "titre": "Code électoral : articles L338 à L338-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006148519/"
+    },
+    {
+      "titre": "Code électoral : L357",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032964987"
+    },
+    {
+      "titre": "Code électoral : articles L191 à L192",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000027573170/"
+    },
+    {
+      "titre": "Code électoral : article L193",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027433729"
+    },
+    {
+      "titre": "Code électoral : article L220",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032964994"
+    },
+    {
+      "titre": "Décret n° 2021-118 du 4 février 2021 portant diverses mesures institutionnelles relatives à la création de la Collectivité européenne d'Alsace",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000043096536"
+    },
+    {
+      "titre": "Loi n° 2021-191 du 22 février 2021 portant report, de mars à juin 2021, de l'élection des conseils départementaux, des conseils régionaux et des assemblées de Corse, de Guyane et de Martinique",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000043168354/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Vérifier votre inscription électorale et votre bureau de vote",
+      "url": "https://situation.elections.interieur.gouv.fr/",
+      "type": "selNG"
+    },
+    {
+      "titre": "Ma commune dépend-elle de la Métropole de Lyon ou du département du Rhône ?",
+      "url": "https://www.grandlyon.com/metropole/metropoledelyonoudepartementdurhone.html",
+      "type": "Outil de recherche"
+    },
+    {
+      "titre": "Déclaration de candidature aux élections départementales - Formulaire à remplir par chaque membre du binôme de candidats",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/15244",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Déclaration de candidature aux élections départementales - Formulaire à remplir par chaque remplaçant",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/15245",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Déclaration de candidature aux élections régionales - Formulaire à remplir par chaque candidat de la liste",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/15407",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Déclaration de candidature aux élections régionales - Formulaire à remplir par le candidat tête de liste ou son mandataire",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/15408",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Résultats des élections",
+      "url": "https://www.archives-resultats-elections.interieur.gouv.fr/"
+    },
+    {
+      "titre": "Le canton",
+      "url": "https://www.insee.fr/fr/metadonnees/definition/c1566"
+    },
+    {
+      "titre": "Le département",
+      "url": "https://www.collectivites-locales.gouv.fr/institutions/departement"
+    },
+    {
+      "titre": "Candidats aux élections : mémento pratique",
+      "url": "https://mobile.interieur.gouv.fr/Archives/Archives-elections/Etre-candidat"
+    },
+    {
+      "titre": "La carte des régions",
+      "url": "https://www.vie-publique.fr/carte/270580-decoupage-administratif-de-la-france-les-regions"
+    },
+    {
+      "titre": "La région",
+      "url": "https://www.collectivites-locales.gouv.fr/institutions/region"
+    }
+  ],
+  "slug": "elections-regionales-et-elections-departementales-ex-cantonales",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "elections",
+      "titre": "Élections"
+    }
+  ]
+}

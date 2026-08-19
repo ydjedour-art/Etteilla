@@ -1,0 +1,57 @@
+{
+  "id": "F32761",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Qu'est-ce que l'accompagnement personnalisé de l'élève au collège ou au lycée ?",
+  "theme": "Famille - Scolarité",
+  "description": "L'accompagnement personnalisé permet à un enfant de s'adapter à sa formation et de construire ses choix d'orientation.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-10-08",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F32761",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Collège et lycée",
+    "Qu'est-ce que l'accompagnement personnalisé de l'élève au collège ou au lycée ?"
+  ],
+  "introduction": "L'accompagnement personnalisé permet à votre enfant de s'adapter à sa formation et de construire ses choix d'orientation. Il est mis en place tout au long de la scolarité au collège et au lycée. Objectifs, actions, nombre d'heures : voici les informations à connaître sur l'accompagnement personnalisé.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Circulaire n°2010-013 du 29 janvier 2010 relative à l'accompagnement personnalisé au lycée d'enseignement général et technologique",
+      "url": "http://www.education.gouv.fr/cid50471/mene1002847c.html"
+    },
+    {
+      "titre": "Circulaire n°2011-118 du 27 juillet 2011 relative à l'accompagnement personnalisé en classe de sixième",
+      "url": "http://www.education.gouv.fr/pid25535/bulletin_officiel.html?cid_bo=57154"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Établissement scolaire"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Les dispositifs d'accompagnement pour les lycéens",
+      "url": "https://www.education.gouv.fr/reussir-au-lycee/les-dispositifs-d-accompagnement-pour-les-lyceens-4610"
+    },
+    {
+      "titre": "Accompagnement personnalisé en lycée professionnel",
+      "url": "https://eduscol.education.fr/658/l-accompagnement-personnalise-au-lycee-professionnel"
+    },
+    {
+      "titre": "L’accompagnement des collégiens",
+      "url": "https://www.education.gouv.fr/l-accompagnement-des-collegiens-8732"
+    }
+  ],
+  "slug": "qu-est-ce-que-l-accompagnement-personnalise-de-l-eleve-au-college-ou-au-lycee",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "college-et-lycee",
+      "titre": "Collège et lycée"
+    }
+  ]
+}

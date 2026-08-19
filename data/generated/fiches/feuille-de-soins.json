@@ -1,0 +1,89 @@
+{
+  "id": "F11616",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Feuille de soins",
+  "theme": "Social - Santé",
+  "description": "Une feuille de soins peut être un formulaire électronique (carte Vitale) ou une feuille papier. Elle est indispensable pour être remboursé.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-08-07",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F11616",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Remboursement des soins par la Sécurité sociale",
+    "Feuille de soins"
+  ],
+  "introduction": "La feuille de soins prouve la réalité des dépenses médicales. Elle peut être en version électronique (carte Vitale) ou papier. La feuille de soins est indispensable pour être remboursé. La procédure de remboursement diffère selon qu'il s'agit d'une version électronique ou papier. Nous vous exposons les règles à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "[À noter] L'Assurance maladie rembourse partiellement vos dépenses de santé. Il faut donc penser à installer la télétransmission avec votre mutuelle."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la sécurité sociale : article L161-33",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043498632"
+    },
+    {
+      "titre": "Code de la sécurité sociale : article L332-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031686666"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles R161-39 à R161-49",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000006186377"
+    },
+    {
+      "titre": "Arrêté du 10 février 2004 fixant la liste des produits et prestations pour lesquels la signature de la feuille de soins par l'assuré ou le bénéficiaire n'est pas exigée",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000796602/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Ameli en ligne",
+      "url": "https://assure.ameli.fr/PortailAS/appmanager/PortailAS/assure?_somtc=true&_pageID=P1_NAISSANCE_ENFANT&utm_source=ameli.fr&utm_medium=lien_redirection&utm_campaign=NAISSANCE_ENFANT#idPopupWARecueilConsentement",
+      "type": "selNG"
+    },
+    {
+      "titre": "Feuille de soins - Médecin (spécimen)",
+      "url": "https://www.ameli.fr/sites/default/files/formualires/193/s3110_0.pdf",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Feuille de soins - Pharmacien (spécimen)",
+      "url": "https://www.ameli.fr/sites/default/files/formualires/194/s3115_0.pdf",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Feuille de soins - Sage-femme (spécimen)",
+      "url": "https://www.ameli.fr/sites/default/files/formualires/195/s3127.pdf",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Santé Info Droits"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Feuille de soins papier",
+      "url": "https://www.ameli.fr/assure/remboursements/etre-bien-rembourse/feuille-soins-papier"
+    },
+    {
+      "titre": "À qui envoyer sa feuille de soins ?",
+      "url": "https://www.ameli.fr/assure/adresses-et-contacts/l-envoi-d-un-document/envoyer-une-feuille-de-soins"
+    }
+  ],
+  "slug": "feuille-de-soins",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "remboursement-des-soins-par-la-securite-sociale",
+      "titre": "Remboursement des soins par la Sécurité sociale"
+    }
+  ]
+}

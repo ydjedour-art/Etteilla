@@ -1,0 +1,54 @@
+{
+  "id": "F2128",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Héritage : qu'est-ce que la règle de la représentation ?",
+  "theme": "Famille - Scolarité",
+  "description": "La règle de la représentation permet aux descendants d'une personne décédée d'hériter à sa place.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-06-11",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2128",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Héritage : ordre et droits des héritiers",
+    "Héritage : qu'est-ce que la règle de la représentation ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "La règle de la représentation permet à certains membres de la famille d'une personne décédée d'hériter à sa place :",
+        "• Enfants du défunt et leurs propres descendants",
+        "• Frères et sœurs du défunt et leurs propres descendants.",
+        "On dit qu'ils viennent par représentation.",
+        "[À noter] Pour chacune des deux lignes d'héritiers, le descendant le plus proche exclut toujours le plus éloigné.",
+        "[Exemple] Jean a 2 enfants : Michel et Sophie. Sophie a 2 enfants : Caroline et Bruno. Sophie décède avant son père Jean. Pour la succession de Jean, Caroline et Bruno vont représenter leur mère Sophie. Ils héritent de sa part, c'est-à-dire la moitié de la succession, l'autre moitié revenant à leur oncle Michel.",
+        "La représentation n'a pas lieu en faveur des ascendants.",
+        "[À savoir] Le mécanisme de la représentation s'applique aussi lorsqu'un héritier renonce à la succession et en cas d'indignité successorale."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : articles 751 à 755",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165516/#LEGISCTA000006165516"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Notaire"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "heritage-qu-est-ce-que-la-regle-de-la-representation",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "heritage-ordre-et-droits-des-heritiers",
+      "titre": "Héritage : ordre et droits des héritiers"
+    }
+  ]
+}

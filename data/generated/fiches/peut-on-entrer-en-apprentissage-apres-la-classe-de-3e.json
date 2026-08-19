@@ -1,0 +1,100 @@
+{
+  "id": "F32709",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Peut-on entrer en apprentissage après la classe de 3e ?",
+  "theme": "Famille - Scolarité",
+  "description": "Si vous êtes en troisième, vous pouvez décider de poursuivre votre formation en apprentissage après le collège.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-02-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F32709",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Collège et lycée",
+    "Peut-on entrer en apprentissage après la classe de 3e ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Oui. Si vous êtes en 3e, vous pouvez décider de poursuivre votre formation en apprentissage après le collège. Vous pouvez choisir de signer un contrat d'apprentissage en préparant l'un des diplômes suivants :",
+        "• Certificat d'aptitude professionnelle (CAP) en 2 ans",
+        "• Bac professionnel (bac pro) en 3 ans.",
+        "Pour cela, vous devez avoir au moins 16 ans au 31 décembre de l'année civile où vous terminez votre année de 3e.",
+        "[Exemple] Vous avez 15 ans en juillet 2026, à la fin de votre année de 3e.. Vous allez avoir 16 ans en novembre 2026. Dans ce cas, vous pouvez entrer en apprentissage dès la rentrée scolaire de septembre 2026.",
+        "Vous devez d'abord trouver un employeur (privé ou public) avec qui vous signez un contrat d'apprentissage.",
+        "Vous devez ensuite être accepté dans un centre de formation d'apprentis (CFA).",
+        "Pendant votre apprentissage, vous alternez des périodes dans les locaux de votre employeur et des périodes de formation en CFA.",
+        "Le diplôme préparé en apprentissage est identique à celui préparé par la voie scolaire classique. Vous étudiez les mêmes programmes, passez l'examen dans les mêmes conditions et obtenez le même niveau de qualification.",
+        "[À savoir] Si vous avez moins de moins de 18 ans, vous pouvez, sous conditions, bénéficier de l'allocation de rentrée scolaire (ARS)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'éducation : articles L331-7 et L331-8",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006182413"
+    },
+    {
+      "titre": "Code de l'éducation : articles D337-1 à D337-4",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006182528"
+    },
+    {
+      "titre": "Code de l'éducation : articles D337-26 à D337-28",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006182532"
+    },
+    {
+      "titre": "Code de l'éducation : articles D337-51 à D337-54",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006526850"
+    },
+    {
+      "titre": "Code de l'éducation : articles D337-55 à D337-66",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006182538"
+    },
+    {
+      "titre": "Code de l'éducation : articles D337-95 à D337-98",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006182541"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Futur Pro : explorer les formations professionnelles accessibles après le collège",
+      "url": "https://futurpro.inserjeunes.beta.gouv.fr/?mtm_campaign=servicepublicdila",
+      "type": "outilRechercheNG"
+    }
+  ],
+  "contacts": [
+    "Centre d'information et d'orientation (CIO)",
+    "Conseil régional"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Rechercher une formation en alternance",
+      "url": "https://www.alternance.emploi.gouv.fr/portail_alternance/jcms/gc_5454/bourse-a-l-emploi-recherche"
+    },
+    {
+      "titre": "Présentation des classes en lycée général",
+      "url": "https://www.education.gouv.fr/la-voie-generale-au-lycee-9749"
+    },
+    {
+      "titre": "Le baccalauréat professionnel",
+      "url": "http://eduscol.education.fr/cid47640/le-baccalaureat-professionnel.html"
+    },
+    {
+      "titre": "Se former par l'apprentissage",
+      "url": "https://www.education.gouv.fr/se-former-par-l-apprentissage-2216"
+    }
+  ],
+  "slug": "peut-on-entrer-en-apprentissage-apres-la-classe-de-3e",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "college-et-lycee",
+      "titre": "Collège et lycée"
+    }
+  ]
+}

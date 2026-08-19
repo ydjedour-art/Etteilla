@@ -1,0 +1,59 @@
+{
+  "id": "F10720",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Un enfant qui déménage dans une nouvelle commune doit-il changer d'école ?",
+  "theme": "Famille - Scolarité",
+  "description": "Un enfant qui déménage dans une nouvelle commune en cours d'année scolaire peut terminer sa scolarité dans la même école.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-01-07",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F10720",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "École primaire (maternelle et élémentaire)",
+    "Un enfant qui déménage dans une nouvelle commune doit-il changer d'école ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Si votre enfant est inscrit à l'école maternelle ou à l'école élémentaire et que vous allez déménager, il peut terminer sa scolarité dans la même école.",
+        "Par exemple, si votre enfant a commencé son année scolaire en petite section de maternelle et que vous déménagez en cours d'année, il pourra rester dans le même établissement jusqu'à la fin de la grande section de maternelle. Il devra changer d'école pour sa rentrée en CP (début de la scolarité élémentaire).",
+        "Si votre enfant a commencé son année scolaire en CP et que vous déménagez en cours d'année, il pourra rester dans le même établissement jusqu'à la fin de son CM2."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'éducation : articles L212-1 à L212-9",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006182379"
+    },
+    {
+      "titre": "Code de l'éducation : articles L131-1 à L131-13",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006166564"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Mairie",
+    "Direction des services départementaux de l'Éducation nationale"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Les parents à l'école",
+      "url": "https://www.education.gouv.fr/les-parents-l-ecole-9899"
+    }
+  ],
+  "slug": "un-enfant-qui-demenage-dans-une-nouvelle-commune-doit-il-changer-d-ecole",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "ecole-primaire-maternelle-et-elementaire",
+      "titre": "École primaire (maternelle et élémentaire)"
+    }
+  ]
+}

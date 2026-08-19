@@ -1,0 +1,69 @@
+{
+  "id": "F1254",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Une salariée peut-elle interrompre son congé parental d’éducation pour prendre un congé de maternité ?",
+  "theme": "Travail - Formation",
+  "description": "La salariée peut interrompre son congé parental pour prendre un congé de maternité.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-03-06",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1254",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Congés dans le secteur privé",
+    "Une salariée peut-elle interrompre son congé parental d’éducation pour prendre un congé de maternité ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Oui, la salariée enceinte durant son congé parental d'éducation à temps plein ou à temps partiel peut interrompre son congé parental de manière anticipée pour prendre un congé de maternité.",
+        "La salariée peut interrompre son congé parental de manière anticipée pour bénéficier d'un nouveau congé de maternité.",
+        "L'employeur ne peut pas s'y opposer.",
+        "La salariée doit adresser une lettre avec RAR à son employeur au moins 1 mois avant la date à laquelle elle souhaite débuter son congé de maternité.",
+        "La lettre précise les dates présumées de début et de fin du congé de maternité.",
+        "La déclaration doit être accompagnée d'un certificat établi par le médecin ou la sage-femme qui suit la grossesse de la salariée.",
+        "Ce certificat atteste de l'état de grossesse de la salariée et précise la date présumée de l'accouchement.",
+        "La salariée doit effectuer sa déclaration de grossesse auprès de la CPAM ou de la MSA (si elle dépend du régime agricole) et de la Caf au cours des 14 premières semaines de sa grossesse.",
+        "La déclaration doit être accompagnée d'un certificat établi par le médecin ou la sage-femme qui suit la grossesse de la salariée.",
+        "Ce certificat atteste de l'état de grossesse de la salariée et précise la date présumée de l'accouchement.",
+        "La salariée perçoit alors des indemnités journalières (IJ) de maternité durant la durée du congé de maternité, prénatal (avant l'accouchement) et postnatal (après l'accouchement).",
+        "Un simulateur permet d'obtenir une estimation du montant des IJ :",
+        "Calculer les indemnités journalières maternité ou paternité et d’accueil de l’enfant"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la sécurité sociale : article L161-9",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031686642"
+    },
+    {
+      "titre": "Code de la sécurité sociale : article D161-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031813447"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Calculer les indemnités journalières maternité ou paternité et d’accueil de l’enfant",
+      "url": "http://www.ameli.fr/simulateur",
+      "type": "simulateurNG"
+    }
+  ],
+  "contacts": [
+    "Assurance maladie - 3646"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "une-salariee-peut-elle-interrompre-son-conge-parental-d-education-pour-prendre-un-conge-de-maternite",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "conges-dans-le-secteur-prive",
+      "titre": "Congés dans le secteur privé"
+    }
+  ]
+}

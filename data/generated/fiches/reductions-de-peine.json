@@ -1,0 +1,69 @@
+{
+  "id": "F34157",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Réductions de peine",
+  "theme": "Justice",
+  "description": "Toute personne condamnée peut bénéficier d'une réduction de peine si elle répond à certaines conditions.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-10",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34157",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Condamnations et peines",
+    "Réductions de peine"
+  ],
+  "introduction": "Vous avez été condamné à une peine privative de liberté pour avoir commis une infraction ? Quelle que soit la date à laquelle votre condamnation est devenue définitive, vous pouvez bénéficier de réductions de peine. Ainsi, la durée de la peine que vous effectuerez réellement sera réduite par rapport à celle prononcée par le juge pénal. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Le mécanisme des réductions de peine auquel vous pouvez bénéficier dépend de la date à laquelle vous avez été écroué : après le 1er janvier 2023 ou avant le 1er janvier 2023. Quelle que soit la date de mise sous écrou, aucune réduction de peine ne peut vous être accordée si vous avez été condamné à la réclusion criminelle à perpétuité.",
+        "Date de mise sous écrou :"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de procédure pénale : articles 721 à 721-3",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006167533"
+    },
+    {
+      "titre": "Code de procédure pénale : articles D116-4 à D116-8 (nouveaux)",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000006193088/#LEGISCTA000046342450"
+    },
+    {
+      "titre": "Circulaire du 3 novembre 2022",
+      "url": "https://www.justice.gouv.fr/documentation/bulletin-officiel/circulaire-du-3-novembre-2022-relative-aux-dispositions-procedurales-concernant"
+    },
+    {
+      "titre": "Code de procédure pénale : article 721 (ancien)",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044569654"
+    },
+    {
+      "titre": "Code de procédure pénale : article 721-1 (ancien)",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029370709/2015-01-01/"
+    },
+    {
+      "titre": "Code de procédure pénale : article D116-2 (ancien)",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006515459/2005-01-01/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Avocat",
+    "Service pénitentiaire d'insertion et de probation (Spip)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "reductions-de-peine",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "condamnations-et-peines",
+      "titre": "Condamnations et peines"
+    }
+  ]
+}

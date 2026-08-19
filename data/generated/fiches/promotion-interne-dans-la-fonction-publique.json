@@ -1,0 +1,50 @@
+{
+  "id": "F17757",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Promotion interne dans la fonction publique",
+  "theme": "Travail - Formation",
+  "description": "La promotion interne est le passage d'un corps ou d'un cadre d'emplois à un autre corps ou cadre d'emplois au sein de la même fonction publique.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2024-10-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F17757",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Carrière dans la fonction publique",
+    "Promotion interne dans la fonction publique"
+  ],
+  "introduction": "La promotion interne permet d'accéder à des fonctions et à un emploi d'un niveau supérieur et à une échelle de rémunération plus élevée. Elle consiste dans le passage d'un corps ou d'un cadre d'emplois à un autre corps ou cadre d'emplois au sein de la même fonction publique. Elle a lieu au choix ou après examen professionnel. Les règles diffèrent selon que votre fonction publique d'appartenance État - FPE, territoriale - FPT ou hospitalière FPH).",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code général de la fonction publique : articles L523-1 à L523-7",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044423105/"
+    },
+    {
+      "titre": "Décret n°2019-1265 du 29 novembre 2019 relatif aux lignes directrices de gestion",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000039434533/"
+    },
+    {
+      "titre": "Décret n° 2024-759 du 7 juillet 2024 fixant les conditions de recours à la visioconférence pour l'organisation des voies d'accès à la fonction publique",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000049895142/"
+    },
+    {
+      "titre": "Arrêté du 8 juillet 2024 fixant les conditions et les modalités de recours à la visioconférence pour l'organisation des voies d'accès à la fonction publique",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000049950683"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "promotion-interne-dans-la-fonction-publique",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "carriere-dans-la-fonction-publique",
+      "titre": "Carrière dans la fonction publique"
+    }
+  ]
+}

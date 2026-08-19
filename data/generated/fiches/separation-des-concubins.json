@@ -1,0 +1,46 @@
+{
+  "id": "F18766",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Séparation des concubins",
+  "theme": "Famille - Scolarité",
+  "description": "Un couple vivant en union libre peut se séparer librement. La loi ne protège pas les concubins et ne règle pas leurs droits en cas de séparation.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-11-14",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F18766",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Union libre",
+    "Séparation des concubins"
+  ],
+  "introduction": "Vous vivez en union libre et vous voulez vous séparer, d'un commun accord ou de votre seule initiative ? Vous pouvez vous séparer librement et vous mettre d'accord sur les toutes les conséquences de votre séparation. En cas de désaccord, en particulier si vous avez des enfants communs, il est possible de vous tourner vers un médiateur ou, en cas d'échec, vers le juge. Nous vous indiquons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de l'organisation judiciaire : articles L213-3 à L213-4",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006182779/"
+    },
+    {
+      "titre": "Code civil : articles 373-2 à 373-2-5",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006165499"
+    },
+    {
+      "titre": "Code civil : articles 1303 à 1303-4",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000032023810/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "separation-des-concubins",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "union-libre",
+      "titre": "Union libre"
+    }
+  ]
+}

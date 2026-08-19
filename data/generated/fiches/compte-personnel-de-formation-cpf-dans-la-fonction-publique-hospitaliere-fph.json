@@ -1,0 +1,61 @@
+{
+  "id": "F3080",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Compte personnel de formation (CPF) dans la fonction publique hospitalière (FPH)",
+  "theme": "Travail - Formation",
+  "description": "Les agents de la fonction publique hospitalière (FPH) bénéficient d'un crédit annuel d'heures de formation professionnelle, appelé compte personnel de formation (CPF). Ces heures sont mobilisables à leur initiative. Elles permettent d'accomplir des formations visant l'acquisition d'un diplôme ou le développement de compétences dans le cadre d'un projet d'évolution professionnelle (mobilité, promotion, reconversion professionnelle).",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-08-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F3080",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Formation professionnelle dans la fonction publique",
+    "Compte personnel de formation (CPF) dans la fonction publique hospitalière (FPH)"
+  ],
+  "introduction": "Les agents de la fonction publique hospitalière (FPH) bénéficient d'un crédit annuel d'heures de formation professionnelle, appelé compte personnel de formation (CPF). Ces heures sont mobilisables à leur initiative. Elles permettent d'accomplir des formations visant l'acquisition d'un diplôme ou le développement de compétences dans le cadre d'un projet d'évolution professionnelle (mobilité, promotion, reconversion professionnelle).",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code général de la fonction publique : article L115-4",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044427923/"
+    },
+    {
+      "titre": "Code général de la fonction publique : articles L422-8 à L422-19",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044422326/"
+    },
+    {
+      "titre": "Code général de la fonction publique : articles R422-82 à R422-107",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000054076681/2026-08-01"
+    },
+    {
+      "titre": "Note d'information du 16 février 2018 relative à la mise en œuvre du compte personnel de formation dans la fonction publique hospitalière",
+      "url": "http://circulaires.legifrance.gouv.fr/pdf/2018/02/cir_43085.pdf"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Mon compte formation",
+      "url": "https://www.moncompteformation.gouv.fr/espace-prive/html/#/",
+      "type": "selNG"
+    },
+    {
+      "titre": "Consultation du répertoire national des certifications professionnelles (RNCP)",
+      "url": "https://www.francecompetences.fr/recherche-resultats/",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "compte-personnel-de-formation-cpf-dans-la-fonction-publique-hospitaliere-fph",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "formation-professionnelle-dans-la-fonction-publique",
+      "titre": "Formation professionnelle dans la fonction publique"
+    }
+  ]
+}

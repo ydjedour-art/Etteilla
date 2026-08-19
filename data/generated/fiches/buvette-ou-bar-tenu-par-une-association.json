@@ -1,0 +1,81 @@
+{
+  "id": "F24345",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Buvette ou bar tenu par une association",
+  "theme": "Associations, fondations et fonds de dotation",
+  "description": "Une association peut, sous certaines conditions, exploiter de manière permanente un bar ou ouvrir de manière temporaire une buvette.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2024-05-16",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F24345",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Associations, fondations et fonds de dotation",
+    "Activités commerciales d'une association",
+    "Buvette ou bar tenu par une association"
+  ],
+  "introduction": "Vous dirigez une association et vous souhaitez tenir un bar ou une buvette ? Vous pouvez exploiter de manière permanente un bar si vous respectez la réglementation des débits de boissons. Vous pouvez ouvrir de manière temporaire une buvette dans certaines circonstances uniquement. Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de la santé publique : article L3321-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006171197"
+    },
+    {
+      "titre": "Code de la santé publique : articles L3332-1 à L3332-17",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006171201"
+    },
+    {
+      "titre": "Code de la santé publique : articles L3334-1 à L3334-2",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006171203"
+    },
+    {
+      "titre": "Code de la santé publique : articles L3335-1 à L3335-11",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000006171204/"
+    },
+    {
+      "titre": "Code de la santé publique : articles D3335-16 à D3335-18",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000039650348"
+    },
+    {
+      "titre": "Code du sport : articles L332-1 à L332-21",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006151577"
+    },
+    {
+      "titre": "Code général des impôts : article 1655",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006163038"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demande d'ouverture d'une buvette associative temporaire à l'occasion d'une foire, d'une vente ou d'une fête publique",
+      "url": "",
+      "type": "Modèle de document"
+    },
+    {
+      "titre": "Demande d'ouverture d'une buvette associative temporaire dans une foire ou une exposition",
+      "url": "",
+      "type": "Modèle de document"
+    },
+    {
+      "titre": "Demande d'autorisation d'ouverture de débit de boissons temporaire (à Paris exclusivement)",
+      "url": "https://www.demarches-simplifiees.fr/commencer/pp-dtpp-demande-d-autorisation-de-tenue-de-debits-",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "Point ressource à la vie associative",
+    "Mairie"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "buvette-ou-bar-tenu-par-une-association",
+  "path": [
+    {
+      "slug": "associations-fondations-et-fonds-de-dotation",
+      "titre": "Associations, fondations et fonds de dotation"
+    },
+    {
+      "slug": "activites-commerciales-d-une-association",
+      "titre": "Activités commerciales d'une association"
+    }
+  ]
+}

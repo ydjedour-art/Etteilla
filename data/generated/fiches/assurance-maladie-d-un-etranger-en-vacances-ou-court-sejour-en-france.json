@@ -1,0 +1,58 @@
+{
+  "id": "F17760",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Assurance maladie d'un étranger en vacances (ou court séjour) en France",
+  "theme": "Social - Santé",
+  "description": "Un ressortissant assuré de l'EEE et en vacances en France doit détenir une carte européenne d'assurance maladie (CEAM).",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-03-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F17760",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Assurance maladie d'un étranger en France",
+    "Assurance maladie d'un étranger en vacances (ou court séjour) en France"
+  ],
+  "introduction": "Vous êtes étranger, vous venez en vacances en France (ou pour un court séjour) et vous souhaitez savoir si vous pouvez bénéficier de soins médicaux imprévus et nécessaires et être remboursé de vos dépenses de santé en France ? Les règles diffèrent selon que vous êtes ressortissant de l’Espace économique européen, de la Suisse, du Royaume-Uni ou d’un autre pays.",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [
+    {
+      "titre": "Soumettre une plainte à Solvit",
+      "url": "https://ec.europa.eu/solvit/index_fr.htm",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "Centre des liaisons européennes et internationales de sécurité sociale (Cleiss)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Vous préparez vos vacances en France : quelle sera votre couverture maladie ?",
+      "url": "https://www.cleiss.fr/particuliers/venir/vacances/index.html"
+    },
+    {
+      "titre": "Vacances à l’étranger : votre prise en charge",
+      "url": "https://www.ameli.fr/assure/droits-demarches/europe-international/protection-sociale-etranger/vacances-etranger"
+    },
+    {
+      "titre": "Ce qui est remboursé",
+      "url": "https://www.ameli.fr/assure/remboursements/rembourse"
+    },
+    {
+      "titre": "Annuaire santé - Site Ameli",
+      "url": "https://annuairesante.ameli.fr/"
+    }
+  ],
+  "slug": "assurance-maladie-d-un-etranger-en-vacances-ou-court-sejour-en-france",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "assurance-maladie-d-un-etranger-en-france",
+      "titre": "Assurance maladie d'un étranger en France"
+    }
+  ]
+}

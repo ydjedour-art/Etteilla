@@ -1,0 +1,126 @@
+{
+  "id": "F1441",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Qu'est-ce qu'un programme personnalisé de réussite éducative (PPRE) ?",
+  "theme": "Famille - Scolarité",
+  "description": "Le PPRE est un plan d'actions individualisées. Il peut être mis en place quand un enfant rencontre des difficultés risquant de le gêner dans sa scolarité.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-06-19",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1441",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "École primaire (maternelle et élémentaire)",
+    "Qu'est-ce qu'un programme personnalisé de réussite éducative (PPRE) ?"
+  ],
+  "introduction": "Le programme personnalisé de réussite éducative (PPRE) est un plan d'actions pouvant être mis en place quand votre enfant rencontre des difficultés d'apprentissage dans sa scolarité. L'objectif du PPRE est d'accompagner votre enfant individuellement pour l'aider à maîtriser le niveau suffisant du socle de connaissances et de compétences. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Quel est l'objectif d'un programme personnalisé de réussite éducative (PPRE) ?",
+      "contenu": [
+        "Le PPRE est un plan d'actions individualisées. Il est mis en place quand l'équipe éducative détecte chez votre enfant des difficultés risquant de le gêner dans sa scolarité.",
+        "Le plan prévoit des actions pour aider votre enfant à acquérir des connaissances et des compétences précises.",
+        "Le plan prévoit également un mode d'évaluation des progrès de votre enfant.",
+        "Le PPRE se concentre essentiellement sur le français et les mathématiques. Si votre enfant est au collège, le PPRE peut également concerner la 1re langue vivante.",
+        "L'objectif du PPRE est de permettre à votre enfant de maîtriser le niveau suffisant du socle commun de connaissances et de compétences."
+      ]
+    },
+    {
+      "titre": "À quel moment un programme personnalisé de réussite éducative (PPRE) peut-il être mis en place ?",
+      "contenu": [
+        "Le PPRE peut être mis en place à tout moment de l'année scolaire, en fonction des besoins de votre enfant.",
+        "À l'école primaire, les évaluations de CE1 et de CM2 permettent notamment de détecter les difficultés d'un élève. Les échanges d'informations entre les enseignants au moment des conseils des maîtres et de cycle permettent aussi de repérer ces difficultés.",
+        "Au collège, les difficultés d'un élève sont notamment détectées lors des conseils de classe.",
+        "Le PPRE est automatiquement mis en place si votre enfant redouble."
+      ]
+    },
+    {
+      "titre": "Comment un programme personnalisé de réussite éducative (PPRE) est-il élaboré ?",
+      "contenu": [
+        "Le PPRE est élaboré par écrit par l'équipe pédagogique (professeur principal, directeur ou chef de l’établissement et éventuellement les autres enseignants).",
+        "Le document doit notamment préciser les informations suivantes :",
+        "• Identité et classe de l'élève",
+        "• Compétences à travailler",
+        "• Objectif à atteindre",
+        "• Membres de la communauté éducative impliqués",
+        "• Période de mise en œuvre du PPRE",
+        "• Participation de personnes extérieures, notamment si un suivi médical est mis en place (orthophoniste, psychologue)",
+        "• Mise en place de partenariats (soutien scolaire en lien avec la municipalité ou les associations, dispositifs de réussite éducative).",
+        "L'équipe pédagogique doit vous (ou au représentant légal de l'enfant) présenter le PPRE rédigé.",
+        "Votre enfant doit être aussi associé à cette présentation.",
+        "[À savoir] Votre accord n'est pas nécessaire pour mettre en place le PPRE. Toutefois, en tant que parent, votre adhésion au plan d'actions facilite sa réussite."
+      ]
+    },
+    {
+      "titre": "Quelle est la durée d'un programme personnalisé de réussite éducative (PPRE) ?",
+      "contenu": [
+        "Le PPRE est prévu pour une durée déterminée. Elle dépend des difficultés scolaires de votre enfant."
+      ]
+    },
+    {
+      "titre": "Quelles décisions sont prises à la fin d'un programme personnalisé de réussite éducative (PPRE) ?",
+      "contenu": [
+        "À la fin du PPRE, l'équipe pédagogique dresse un bilan et vous le présente.",
+        "Selon les progrès de votre enfant, le PPRE peut être interrompu ou prolongé.",
+        "En cas de prolongation du PPRE, l'équipe pédagogique peut décider de revoir ses objectifs et de mettre en place de nouvelles actions."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'éducation : articles L311-1 à L311-7",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006166598"
+    },
+    {
+      "titre": "Code de l'éducation : articles D311-11 à D311-13-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071191/LEGISCTA000029781073/#LEGISCTA000029781076"
+    },
+    {
+      "titre": "Code de l'éducation : articles D321-3",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029783115"
+    },
+    {
+      "titre": "Code de l'éducation : articles D321-6",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036626955"
+    },
+    {
+      "titre": "Code de l'éducation : articles D331-62 à D331-64",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000029781614"
+    },
+    {
+      "titre": "Circulaire n°2011-118 du 27 juillet 2011 relative à l'accompagnement personnalisé en classe de 6e",
+      "url": "http://www.education.gouv.fr/pid25535/bulletin_officiel.html?cid_bo=57154"
+    },
+    {
+      "titre": "Circulaire n°2011-126 du 26 août 2011 relative à la continuité pédagogique",
+      "url": "http://www.education.gouv.fr/pid25535/bulletin_officiel.html?cid_bo=57155"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Répondre aux besoins éducatifs particuliers des élèves",
+      "url": "https://cache.media.education.gouv.fr/file/12_Decembre/37/3/DP-Ecole-inclusive-livret-repondre-aux-besoins_373373.pdf"
+    },
+    {
+      "titre": "Les Programmes Personnalisés de Réussite Éducative : objectifs et organisation",
+      "url": "http://eduscol.education.fr/cid50680/les-programmes-personnalises-de-reussite-educative-ppre.html"
+    },
+    {
+      "titre": "Le conseil d'école et les autres instances de l'école",
+      "url": "http://eduscol.education.fr/cid77759/le-conseil-d-ecole.html"
+    }
+  ],
+  "slug": "qu-est-ce-qu-un-programme-personnalise-de-reussite-educative-ppre",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "ecole-primaire-maternelle-et-elementaire",
+      "titre": "École primaire (maternelle et élémentaire)"
+    }
+  ]
+}

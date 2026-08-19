@@ -1,0 +1,151 @@
+{
+  "id": "F1510",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Peut-on demander la révision d'une décision du juge administratif ?",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Vous pouvez demander la révision d’une décision du juge administratif en cas de pièces fausses, dissimulées par l’autre partie ou d’erreur de procédure du juge.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-01-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1510",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Agir en justice contre l'administration",
+    "Peut-on demander la révision d'une décision du juge administratif ?"
+  ],
+  "introduction": "Vous découvrez, après qu’une décision du juge administratif soit passée en force de chose jugée, l’existence d’éléments pouvant avoir faussé l’appréciation de la juridiction, des pièces dissimulées ou une erreur de procédure ? Vous pouvez demander la révision de cette décision dans certains cas. Nous vous présentons les informations à connaître pour faire un recours en révision.",
+  "chapitres": [
+    {
+      "titre": "Qu'est-ce que le recours en révision ?",
+      "contenu": [
+        "Le recours en révision permet de demander à une juridiction de rejuger une affaire qu’elle a déjà jugée et qui est passée en force de chose jugée."
+      ]
+    },
+    {
+      "titre": "Qui peut exercer un recours en révision contre une décision du juge administratif ?",
+      "contenu": [
+        "Pour demander la révision d’une décision, vous devez avoir été partie ou représenté lors du procès qui a abouti à l'adoption de la décision."
+      ]
+    },
+    {
+      "titre": "Quelles décisions rendues par le juge administratif peuvent faire l’objet d’un recours en révision ?",
+      "contenu": [
+        "Le recours en révision peut être fait contre les décisions rendues par le Conseil d'État, la Cour des comptes et la Cour de discipline budgétaire et financière.",
+        "Le recours en révision peut aussi être fait contre les décisions rendues par les juridictions administratives si elles sont passées en force de chose. Pour cela, votre recours en révision doit répondre à l’une des 2 hypothèses suivantes :",
+        "• Décision prise sur des pièces fausses",
+        "• Absence de production, par la partie perdante, d’une pièce décisive retenue par son adversaire.",
+        "[Attention] Le recours en révision ne peut pas être fait contre une décision du tribunal administratif ou une décision de la cour administrative d’appel."
+      ]
+    },
+    {
+      "titre": "Pour quels motifs peut-on demander la révision d'une décision du juge administratif ?",
+      "contenu": [
+        "Les motifs varient selon la juridiction qui a pris la décision :",
+        "Conseil d'État",
+        "Vous pouvez faire un recours en révision si vous êtes dans l’un des 3 cas suivants :",
+        "• La décision a été fondée sur des pièces fausses",
+        "• Un document décisif qui aurait permis à la partie condamnée de prouver son bon droit a été retrouvé après avoir été retenu par la partie adverse",
+        "• Le Conseil d’État a commis une erreur de procédure (composition de la formation de jugement, tenue de l'audience, forme et prononcé du jugement).",
+        "Cour des comptes",
+        "Vous pouvez faire un recours en révision si vous êtes dans l’un des 2 cas suivants :",
+        "• Un fait nouveau est survenu",
+        "• Un document décisif qui aurait permis à la partie condamnée de prouver son bon droit a été retrouvé après avoir été retenu par la partie adverse.",
+        "Cour de discipline budgétaire et financière",
+        "Vous pouvez faire un recours en révision si vous êtes dans l’un des 2 cas suivants :",
+        "• Un fait nouveau est survenu",
+        "• Un document décisif qui aurait permis à la partie condamnée de prouver son bon droit a été retrouvé après avoir été retenu par la partie adverse.",
+        "Autres juridictions administratives (sauf tribunal administratif et cour administrative d’appel)",
+        "Vous pouvez présenter un recours si vous êtes dans l’un des 2 cas suivants :",
+        "• La décision a été fondée sur des pièces fausses",
+        "• Un document décisif qui aurait permis à la partie condamnée de prouver son bon droit a été retrouvé après avoir été retenu par la partie adverse.",
+        "[Attention] Lorsqu'il a été statué sur un premier recours en révision contre une décision contradictoire, un second recours contre la même décision est irrecevable."
+      ]
+    },
+    {
+      "titre": "Quel est le délai pour faire un recours en révision contre une décision du juge administratif ?",
+      "contenu": [
+        "Le délai varie en fonction de la juridiction contre laquelle vous faites un recours en révision :",
+        "Conseil d’État",
+        "Le délai varie selon le motif du recours en révision :",
+        "Décision fondée sur des pièces fausses",
+        "Vous devez faire le recours dans un délai de 2 mois à partir du jour où vous avez connaissance du motif de révision que vous invoquez.",
+        "Document décisif qui aurait permis à la partie condamnée de prouver son bon droit a été retrouvé après avoir été retenu par la partie adverse",
+        "Vous devez faire le recours dans un délai de 2 mois à partir du jour où vous avez connaissance du motif de révision que vous invoquez.",
+        "Erreur de procédure",
+        "Vous devez faire le recours dans un délai de 2 mois à compter de la date de notification de la décision.",
+        "Cour des comptes",
+        "Vous devez faire le recours dans un délai de 2 mois à partir du jour où vous avez connaissance du motif de révision que vous invoquez.",
+        "Cour de discipline budgétaire et financière",
+        "Vous devez faire le recours dans un délai de 2 mois à partir du jour où vous avez connaissance du motif de révision que vous invoquez.",
+        "Autres juridictions administratives (sauf tribunal administratif et cour administrative d’appel)",
+        "Vous devez faire le recours dans un délai de 2 mois à partir du jour où vous avez connaissance du motif de révision que vous invoquez."
+      ]
+    },
+    {
+      "titre": "Faut-il prendre un avocat pour faire un recours en révision contre une décision du juge administratif ?",
+      "contenu": [
+        "La situation varie selon la juridiction contre laquelle vous faites un recours en révision :",
+        "Conseil d’État",
+        "Oui, vous devez prendre un avocat au Conseil d’État pour faire un recours en révision même même si la décision contestée a été rendue sur un recours qui en était dispensé.",
+        "Avocat au Conseil d'État ou à la Cour de cassation",
+        "Cour des comptes",
+        "Non, vous n’êtes pas obligé de prendre un avocat.",
+        "Cour de discipline budgétaire et financière",
+        "Non, vous n’êtes pas obligé de prendre un avocat.",
+        "Autres juridictions administratives (sauf tribunal administratif et cour administrative d’appel)",
+        "Non, vous n’êtes pas obligé de prendre un avocat."
+      ]
+    },
+    {
+      "titre": "Devant quelle juridiction le recours en révision contre une décision du juge administratif doit-il être présenté ?",
+      "contenu": [
+        "Le recours en révision doit être adressé à la juridiction qui a pris la décision."
+      ]
+    },
+    {
+      "titre": "Que se passe-t-il si le recours en révision contre une décision du juge administratif est accepté ?",
+      "contenu": [
+        "Si la juridiction accepte votre demande de révision, elle rejuge l'affaire.",
+        "Dans ce cas, la décision qui fait l'objet du recours en révision est déclarée nulle et elle ne peut pas être exécutée.",
+        "[À noter] La juridiction peut reprendre la même décision ou prendre une décision différente au vu des nouveaux éléments."
+      ]
+    },
+    {
+      "titre": "Que se passe-t-il si le recours en révision contre une décision du juge administratif est rejeté ?",
+      "contenu": [
+        "Si la juridiction rejette votre demande de révision, la décision que vous avez attaquée sera exécutée.",
+        "De plus, vous ne pouvez pas introduire un nouveau recours en révision."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de justice administrative : articles R834-1 à R834-4",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006150504"
+    },
+    {
+      "titre": "Code de procédure civile : articles 593 à 603",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070716/LEGISCTA000006149680/#LEGISCTA000006149680"
+    },
+    {
+      "titre": "Code des juridictions financières : article R142-4-6",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046784695"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Maison de justice et du droit"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "peut-on-demander-la-revision-d-une-decision-du-juge-administratif",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "agir-en-justice-contre-l-administration",
+      "titre": "Agir en justice contre l'administration"
+    }
+  ]
+}

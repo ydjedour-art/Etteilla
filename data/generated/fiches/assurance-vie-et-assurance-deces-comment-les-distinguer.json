@@ -1,0 +1,55 @@
+{
+  "id": "F35395",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Assurance-vie et assurance décès : comment les distinguer ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "L'assurance-vie est un produit d'épargne et l'assurance décès est un contrat de prévoyance.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-05-07",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35395",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Assurance vie",
+    "Assurance-vie et assurance décès : comment les distinguer ?"
+  ],
+  "introduction": "Le contrat d'assurance-vie et le contrat d'assurance décès n'ont pas la même nature et ont des objectifs différents. Ils peuvent cependant tous les 2 aboutir au versement d'une somme à des bénéficiaires désignés.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "L'assurance-vie est un produit d'épargne qui permet au souscripteur de constituer progressivement un capital. La fiscalité applicable en fait aussi un outil de transmission pour préparer sa succession.",
+        "Le souscripteur peut effectuer un versement unique ou des versements périodiques (appelés primes) en fonction de ses capacités d'épargne. Les fonds versés sont investis sur des supports financiers (en euros ou en unités de compte) qui peuvent produire des revenus (intérêts) et augmentent le capital.",
+        "Après le décès du souscripteur, le capital augmenté des intérêts éventuels, sera transmis aux bénéficiaires qu'il aura désignés.",
+        "Dans la plupart des contrats, le souscripteur peut aussi profiter lui-même de l'épargne constituée. Il peut récupérer tout ou partie du capital en cas de besoin : soit à la date d'échéance prévue au contrat, soit de manière anticipée en faisant des « rachats ».",
+        "L'assurance décès est un contrat de prévoyance pour protéger ses proches en cas de décès.",
+        "En contrepartie des primes versées par le souscripteur, et après son décès, les bénéficiaires désignés recevront un capital dont le montant est fixe. L'objectif est de leur permettre de faire face aux dépenses courantes à la suite du décès : loyers, frais de scolarité...",
+        "Le niveau des primes versées dépend du niveau du capital garanti. Lors de la conclusion du contat, l'assureur s'engage à verser un capital déterminé si le décès survient (par exemple un capital correspondant à 2 ans de salaires).",
+        "[À savoir] Il faut distinguer aussi l'assurance décès de l'assurance obsèques. L'assurance obsèques est limitée à la prise en charge des démarches et des frais liés aux funérailles.",
+        "[Exemple] Vous êtes en couple et vous avez un enfant de 12 ans au collège. Par précaution, vous décidez de souscrire : • Un contrat d'assurance-vie : avec un versement mensuel de 50 € pour mettre de l'argent de coté pour financer plus tard les études de votre enfant. • Un contrat d'assurance décès : avec un versement mensuel de 10 € pour assurer le versement d'un capital fixe de 30 000 € à votre conjoint en cas de décès prématuré. Si vous décédez 2 ans après avoir souscrit ces contrats, votre conjoint que vous avez désigné bénéficiaire des 2 contrats va recevoir : • Le capital constitué sur le contrat d’assurance vie, qui devrait s'élever autour de 1 350 € (ensemble des mensualités versées pendant 2 ans + les intérêts gagnés …) • Le capital prévu au contrat d'assurance décès d'un montant de 30 000 €."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [
+    "Info Banque - Assurance"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Que faut-il savoir sur l’assurance prévoyance ?",
+      "url": "https://www.abe-infoservice.fr/fr/assurance/assurance-prevoyance/que-faut-il-savoir-sur-lassurance-prevoyance"
+    }
+  ],
+  "slug": "assurance-vie-et-assurance-deces-comment-les-distinguer",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "assurance-vie",
+      "titre": "Assurance vie"
+    }
+  ]
+}

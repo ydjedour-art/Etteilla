@@ -1,0 +1,60 @@
+{
+  "id": "F1971",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Un étudiant a-t-il droit au RSA ?",
+  "theme": "Social - Santé",
+  "description": "Non, l'attribution du RSA ne concerne pas tous les étudiants. Seul un étudiant jeune actif ou parent isolé peut y prétendre, sous conditions.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2024-07-22",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1971",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Revenu de solidarité active (RSA)",
+    "Un étudiant a-t-il droit au RSA ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Non, vous ne pouvez pas percevoir le RSA si vous êtes étudiant.",
+        "Toutefois, vous pouvez demander à percevoir le RSA si vous êtes dans l'un des 2 cas suivants :",
+        "• Soit vous êtes jeune actif et vous avez entre 18 et 25 ans. Vous devez avoir exercé une activité professionnelle pendant au moins 2 ans à temps plein (soit au moins 3 214 heures de travail) au cours des 3 ans précédant la date de votre demande.",
+        "• Soit vous êtes parent isolé, c'est-à-dire que vous vivez seul(e) avec un ou plusieurs enfants à charge.",
+        "Vous devez également résider en France de manière stable et effective, au moins 9 mois par année civile.",
+        "Vos ressources ne doivent pas dépasser un plafond qui dépend de la composition de votre foyer.",
+        "[À savoir] si vous exercez une activité professionnelle, vous pouvez bénéficier de la prime d'activité sous certaines conditions.",
+        "Un simulateur vous permet de savoir si vous avez droit au RSA et d'estimer son montant.",
+        "Estimer son droit au RSA (Caf)",
+        "[À noter] Le montant du RSA sera moins important si vous bénéficiez déjà de l'allocation chômage d'aide au retour à l'emploi (ARE)."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [
+    {
+      "titre": "Estimer son droit au RSA (Caf)",
+      "url": "https://wwwd.caf.fr/wps/portal/caffr/aidesetdemarches/mesdemarches/faireunesimulation/lersa#/",
+      "type": "Simulateur"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Revenu de solidarité active (RSA)",
+      "url": "https://solidarites-sante.gouv.fr/affaires-sociales/lutte-contre-l-exclusion/droits-et-aides/article/le-revenu-de-solidarite-active-rsa"
+    }
+  ],
+  "slug": "un-etudiant-a-t-il-droit-au-rsa",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "revenu-de-solidarite-active-rsa",
+      "titre": "Revenu de solidarité active (RSA)"
+    }
+  ]
+}

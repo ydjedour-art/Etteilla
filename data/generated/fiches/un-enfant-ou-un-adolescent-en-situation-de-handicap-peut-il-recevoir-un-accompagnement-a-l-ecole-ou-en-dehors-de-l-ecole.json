@@ -1,0 +1,94 @@
+{
+  "id": "F31448",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Un enfant ou un adolescent en situation de handicap peut-il recevoir un accompagnement à l’école ou en dehors de l’école ?",
+  "theme": "Famille - Scolarité",
+  "description": "Oui, grâce à l'aide d'un accompagnant des élèves en situation de handicap (AESH) et/ou d'un service d'éducation spéciale et de soins à domicile (Sessad).",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-04-23",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31448",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "École et handicap",
+    "Un enfant ou un adolescent en situation de handicap peut-il recevoir un accompagnement à l’école ou en dehors de l’école ?"
+  ],
+  "introduction": "Oui, grâce à l'aide d'un accompagnant des élèves en situation de handicap (AESH) et/ou d'un service d'éducation spéciale et de soins à domicile (Sessad).",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Votre enfant peut obtenir un accompagnement pendant ou en dehors de l'école s'il a besoin de soins et/ou d'un soutien scolaire. Cet accompagnement peut être proposé par les dispositifs suivants :",
+        "• Accompagnant des élèves en situation de handicap (AESH)",
+        "• Service d'éducation spéciale et de soins à domicile (Sessad).",
+        "L'AESH est une personne qui intervient dans la classe de votre enfant en concertation avec l'enseignant. L’AESH aide votre enfant à participer notamment à la vie collective de l'école (par exemple, aide à la prise de note, aide pour favoriser les échanges avec d'autres élèves, aide à la manipulation de matériels, ...). L’AESH dépend de l'école de votre enfant.",
+        "Le Sessad, quant à lui, est composé d'une équipe pluridisciplinaire (pédopsychiatre, psychomotricien, orthophoniste, kinésithérapeute, ergothérapeute, ...). Il accompagne le développement global des capacités de votre enfant (par exemple, le langage, la motricité ou l’autonomie) dans ses différents lieux de vie et d’activité (domicile, crèche, école, centre de loisirs ou de vacances…). Le Sessad ne dépend pas de l'école de votre enfant, même s’il peut intervenir en lien avec celle‑ci et y être associé lorsque cela est nécessaire.",
+        "Votre enfant peut avoir accès aux 2 dispositifs, que ce soit à l’école, au collège ou au lycée.",
+        "Pour pouvoir bénéficier d'un accompagnement pour votre enfant, vous devez en faire la demande auprès de la maison départementale pour les personnes handicapées (MDPH).",
+        "La demande peut être faite en ligne par le biais d'un téléservice, si la MDPH de votre lieu de résidence le propose :",
+        "Demande de prestations MDPH (AAH, PCH, admission en Ésat, hébergement...) et renouvellement",
+        "Ce service en ligne permet de faire une demande ou renouvellement de prestations Handicap auprès de la MDPH .",
+        "Vous pouvez aussi faire votre demande par courrier par le biais d'un formulaire :",
+        "Demande ou renouvellement de prestations Handicap (AEEH, AAH, PCH, CMI, hébergement, Ésat...)",
+        "Certificat médical à joindre à une demande à la maison départementale des personnes handicapées (MDPH)",
+        "À joindre à toute demande. Il doit dater d'au maximum 1 an.",
+        "Guide d'utilisation du certificat médical destiné à la MDPH",
+        "Compte rendu type pour un bilan auditif à joindre au certificat médical (volet1)",
+        "Compte rendu type pour un bilan ophtalmologique à joindre au certificat médical (volet 2)",
+        "Vous devez joindre les documents justificatifs mentionnés à l'occasion de votre demande en ligne ou sur le formulaire.",
+        "Les documents doivent être envoyés (ou scannés si vous faites votre demande en ligne) à la MDPH de votre lieu de résidence.",
+        "Maison départementale des personnes handicapées (MDPH)",
+        "C'est la commission des droits pour l'autonomie des personnes handicapées (CDAPH) de la MDPH qui décide, selon les besoins de votre enfant, vers quel type d'accompagnement il doit être orienté.",
+        "Sa décision est rendue dans un délai de 4 mois.",
+        "L’absence de réponse de la CDAPH pendant plus de 4 mois vaut décision implicite de rejet.",
+        "La décision de refus de la CDAPH peut faire l’objet d’un recours administratif préalable obligatoire (Rapo) auprès de la MDPH. Ce recours doit être exercé avant tout recours devant le tribunal.",
+        "Le Rapo doit être déposé dans un délai de 2 mois à partir de la réception de la décision contestée. Cette décision doit être jointe à votre recours.",
+        "L’absence de réponse de la MDPH pendant plus de 2 mois vaut décision implicite de rejet.",
+        "À partir de cette décision, explicite ou implicite, vous avez 2 mois pour faire un recours devant le tribunal judiciaire du lieu de votre résidence.",
+        "[À noter] Les missions de l'AESH et du Sessad sont précisées dans le projet personnalisé de scolarisation (PPS) de votre enfant."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'éducation : articles L351-1 à L351-4",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006166743"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demande ou renouvellement de prestations Handicap (AEEH, AAH, PCH, CMI, hébergement, Ésat...)",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_15692.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Demande ou renouvellement de prestations Handicap (AAH, PCH, CMI, hébergement ...)",
+      "url": "https://mdphenligne.cnsa.fr/",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "Maison départementale des personnes handicapées (MDPH)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "La reconnaissance de la qualité de travailleur handicapé (RQTH)",
+      "url": "https://www.monparcourshandicap.gouv.fr/aides/la-reconnaissance-de-la-qualite-de-travailleur-handicape-rqth"
+    },
+    {
+      "titre": "Brochure \"Mieux connaître les handicaps, adapter son comportement\"",
+      "url": "https://cache.media.education.gouv.fr/file/Handicapes/90/7/Brochure_mieux_connaitre_et_comportements_216907.pdf"
+    }
+  ],
+  "slug": "un-enfant-ou-un-adolescent-en-situation-de-handicap-peut-il-recevoir-un-accompagnement-a-l-ecole-ou-en-dehors-de-l-ecole",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "ecole-et-handicap",
+      "titre": "École et handicap"
+    }
+  ]
+}

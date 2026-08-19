@@ -1,0 +1,122 @@
+{
+  "id": "F1124",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Assurance des associations",
+  "theme": "Associations, fondations et fonds de dotation",
+  "description": "Une association est exposée à divers risques du fait de l'exercice même de son activité, du fait de ses biens mobiliers ou immobiliers.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-03-16",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1124",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Associations, fondations et fonds de dotation",
+    "Assurance et responsabilité d'une association",
+    "Assurance des associations"
+  ],
+  "introduction": "Une association peut être exposée à différents risques liés à ses activités, à ses membres ou à ses biens. Dans certains cas, la loi impose la souscription d’une assurance. Dans d’autres situations, l’assurance reste facultative, mais est fortement recommandée. Quelles assurances les responsables d'une association doit-elle souscrire et quels risques doivent-elles couvrir ? Nous vous donnons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Une association doit-elle obligatoirement être assurée ?",
+      "contenu": [
+        "Toutes les associations ne sont pas obligées de souscrire une assurance.",
+        "Cependant, certaines activités exercées par une association imposent la souscription d’une assurance, notamment lorsque l’association organise des activités sportives, accueille des mineurs ou exerce certaines activités réglementées.",
+        "Même lorsque l’assurance n’est pas obligatoire, il est recommandé d’en souscrire une afin de couvrir la responsabilité de l’association en cas de dommages causés à des tiers ou subis par ses membres."
+      ]
+    },
+    {
+      "titre": "Qu’est-ce qu’une assurance responsabilité civile pour une association ?",
+      "contenu": [
+        "L'assurance responsabilité civile sert à indemniser les dommage causés ou subis par les salariés, les bénévoles, les adhérents et les dirigeants de l'association.",
+        "Elle peut également garantir les préjudices (dommages) causés à des participants, spectateurs ou usagers de l'association.",
+        "Si un membre de l'association blesse un autre membre, la garantie responsabilité civile intervient si le contrat prévoit qu'ils sont considérés comme n'ayant pas de lien entre eux.",
+        "La loi impose aux associations suivantes de souscrire une assurance responsabilité civile :",
+        "• Associations et fédérations sportives, les associations organisatrices de manifestations sportives, les associations exploitant des établissements d'activités physiques et sportives",
+        "• Associations communales de chasse agréées",
+        "• Associations ayant pour objet l'organisation ou la vente de voyages ou de séjours individuels ou collectifs",
+        "• Associations gestionnaires d'établissements d'accueil d'enfants de moins de 6 ans (crèches, halte-garderies, etc.)",
+        "• Associations organisant l'accueil de mineurs ou exploitant des lieux d'hébergement de mineurs",
+        "• Associations gestionnaires d'établissements d'accueil d'enfants ou d'adolescents présentant des déficiences intellectuelles",
+        "• Associations exerçant une activité de prévention, de diagnostic ou de soins."
+      ]
+    },
+    {
+      "titre": "Quelle assurance faut-il souscrire pour les véhicules d’une association ?",
+      "contenu": [
+        "Une association propriétaire de véhicules doit souscrire une assurance responsabilité civile (assurance obligatoire au tiers) pour couvrir les dommages lors de la circulation du véhicule.",
+        "L'association peut choisir une garantie plus étendue.",
+        "[Attention] Lorsqu'un bénévole utilise sa voiture personnelle, dans le cadre de son activité associative, c'est à lui d'assurer son véhicule.",
+        "L’association peut toutefois vérifier que le contrat d’assurance du bénévole couvre l’utilisation du véhicule dans le cadre d’activités bénévoles."
+      ]
+    },
+    {
+      "titre": "Quelle assurance faut-il souscrire pour les locaux d’une association ?",
+      "contenu": [
+        "Une association locataire doit souscrire une garantie des risques locatifs pour couvrir les dommages causés à l'immeuble en cas d'incendie, de dégât des eaux ou d'explosion.",
+        "La souscription n'est pas obligatoire si l'association est propriétaire de son local. La souscription est toutefois vivement conseillée.",
+        "L'association peut choisir une garantie plus étendue pour couvrir notamment les dommages causés aux voisins ou à des tiers, et les dommages causés à ses biens.",
+        "[Attention] lorsque le local de l'association est le logement d'un membre, celui-ci doit avertir son assureur de cette situation."
+      ]
+    },
+    {
+      "titre": "Qu’est-ce qu’une assurance protection juridique pour une association ?",
+      "contenu": [
+        "Une association a la possibilité de souscrire une assurance de protection juridique. Il s'agit d'un contrat qui lui permet de bénéficier d'une assistance juridique, et de la prise en charge des frais liés à la défense de ses intérêts en cas de litige.",
+        "Cette assurance couvre généralement :",
+        "• les honoraires d'avocat,",
+        "• les frais d'expertise,",
+        "• les frais de procédure,",
+        "• et parfois même les frais de justice."
+      ]
+    },
+    {
+      "titre": "Les bénévoles sont-ils couverts par l’assurance de l’association ?",
+      "contenu": [
+        "Les bénévoles peuvent être couverts par l’assurance responsabilité civile de l’association pour les dommages qu’ils causent à des tiers dans le cadre de leurs activités associatives.",
+        "Cependant, cette assurance ne couvre pas toujours les dommages corporels subis par les bénévoles eux-mêmes. L’association peut alors souscrire une assurance individuelle accident afin de mieux protéger ses bénévoles."
+      ]
+    },
+    {
+      "titre": "Les responsables d’une association doivent-ils avoir une assurance pour organiser un évènement associatif ?",
+      "contenu": [
+        "Lorsqu’une association organise une manifestation (fête, spectacle, compétition sportive, etc.), il est recommandé de vérifier que son contrat d’assurance couvre les risques liés à cet événement.",
+        "Dans certains cas, les collectivités territoriales ou les gestionnaires de salles peuvent exiger la présentation d’une attestation d’assurance responsabilité civile avant d’autoriser l’organisation de la manifestation."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : articles 1240 à 1244",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032021488/"
+    },
+    {
+      "titre": "Code des assurances : articles L211-1 à L211-2",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006174242"
+    },
+    {
+      "titre": "Code des assurances : articles L127-1 à L127-8",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006157261"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Point ressource à la vie associative",
+    "Info Banque - Assurance"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "L’assurance et la protection sociale des bénévoles",
+      "url": "http://www.associations.gouv.fr/le-benevole-victime-d-un-dommage.html"
+    }
+  ],
+  "slug": "assurance-des-associations",
+  "path": [
+    {
+      "slug": "associations-fondations-et-fonds-de-dotation",
+      "titre": "Associations, fondations et fonds de dotation"
+    },
+    {
+      "slug": "assurance-et-responsabilite-d-une-association",
+      "titre": "Assurance et responsabilité d'une association"
+    }
+  ]
+}

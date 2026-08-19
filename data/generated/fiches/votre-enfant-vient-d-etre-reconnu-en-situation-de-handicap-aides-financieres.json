@@ -1,0 +1,48 @@
+{
+  "id": "F38537",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Votre enfant vient d'être reconnu en situation de handicap : aides financières",
+  "theme": "Social - Santé",
+  "description": "Si votre enfant vient d'être reconnu en situation de handicap, des aides financières peuvent vous être accordées sous conditions.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-30",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F38537",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Aides financières",
+    "Votre enfant vient d'être reconnu en situation de handicap : aides financières"
+  ],
+  "introduction": "Si votre enfant vient d'être reconnu en situation de handicap, des aides financières peuvent vous être accordées sous conditions.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "AEEH et aides associées",
+        "En tant que parent d'un enfant en situation de handicap, vous pouvez percevoir l'allocation d'éducation de l'enfant handicapé (AEEH) pour vous aider à payer les dépenses liées au handicap de votre enfant. Cette aide peut être complétée par l'une des aides suivantes :",
+        "• Complément AEEH ou complément de la prestation de compensation du handicap (PCH) si votre enfant présente un certain taux d'incapacité",
+        "• Allocation journalière de présence parentale (AJPP) si la gravité du handicap de votre enfant vous contraint à réduire ou suspendre votre activité professionnelle.",
+        "Aides pour le transport",
+        "Vous pouvez avoir une carte mobilité inclusion (CMI) pour vous aider dans vos déplacements avec votre enfant.",
+        "Si votre enfant ne peut pas utiliser les transports en commun pour se rendre à son établissement scolaire, il peut bénéficier d'autres modes de transport dont les frais peuvent être pris en charge.",
+        "Impôt sur le revenu",
+        "Si vous avez la carte mobilité inclusion portant la mention \"invalidité\" pour votre enfant, vous avez droit à une demi-part supplémentaire de quotient familial."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "votre-enfant-vient-d-etre-reconnu-en-situation-de-handicap-aides-financieres",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "aides-financieres",
+      "titre": "Aides financières"
+    }
+  ]
+}

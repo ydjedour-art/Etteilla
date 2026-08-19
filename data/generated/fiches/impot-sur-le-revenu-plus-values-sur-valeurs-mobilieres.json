@@ -1,0 +1,183 @@
+{
+  "id": "F21618",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Impôt sur le revenu - Plus-values sur valeurs mobilières",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Vous êtes imposable sur les plus-values mobilières que vous réalisez dans le cadre de la gestion de votre patrimoine privé.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-15",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F21618",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Impôt sur le revenu : déclaration et revenus à déclarer",
+    "Impôt sur le revenu - Plus-values sur valeurs mobilières"
+  ],
+  "introduction": "Votre domicile fiscal est en France et vous avez réalisé un gain en vendant une valeur mobilière (une action ou une obligation par exemple) ? Vous devez payer un impôt sur cette plus-value, l'année qui suit la vente. Nous vous indiquons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Quelles sont les opérations concernées par les plus-values sur valeurs mobilières ?",
+      "contenu": [
+        "Si vous avez réalisé une plus-value en vendant un titre (action ou obligation par exemple) que vous possédez, vous êtes imposable sur le gain réalisé.",
+        "Certaines plus-values sont exonérées, sous conditions, notamment dans les cas suivants :",
+        "• Plan d'épargne en actions (PEA)",
+        "• Épargne salariale (PEE, Perco par exemple)."
+      ]
+    },
+    {
+      "titre": "Comment calculer la plus-value sur valeurs mobilières ?",
+      "contenu": [
+        "La plus-value imposable est le gain que vous réalisez en vendant un titre financier (on parle de cession à titre onéreux).",
+        "C'est la différence entre les montants suivants :",
+        "• Prix d'achat du titre",
+        "• Prix de vente du titre.",
+        "Si vous réalisez une perte, on parle de moins-value.",
+        "[Exemple] En 2025, vous avez vendu des titres \"A\" qui vous ont permis d'obtenir un gain de 3 000 €, et des titres \"B\" qui vous ont causé une perte de 4 000 €. Vous subissez donc une moins-value de 1 000 € (3 000 € - 4 000 €).",
+        "La moins-value peut être déduite d'une plus-value de même nature, sous certaines conditions.",
+        "[Complement] Vous ne pouvez pas déduire vos moins-values sur valeurs mobilières de votre revenu global. Si vous avez subi des moins-values, vous pouvez les déduire des plus-values de même nature réalisées au cours de l'année d'imposition. Vous devez déduire la totalité des moins-values de l'année, dans la limite des plus-values que vous avez réalisées pour la même année. Si vous n'avez pas réalisé de plus-value ou s'il vous reste un excédent de moins-value, vous pourrez le déduire des plus-values que vous réaliserez au cours des 10 années suivantes. [À noter] Vous devez déduire de vos plus-values en priorité les moins-values de l'année d'imposition, puis les moins-values reportables, en commençant par les années les plus anciennes. [Exemple] En 2025, vous avez subi une moins-value de 1 000 €. Cette moins-value peut être déduite de vos gains de 2025. Si vous n'avez eu aucun gain en 2025, cette moins-value pourra être déduite de vos gains de 2026. Si vous ne réalisez aucun gain en 2026, cette moins-value pourra être déduite de vos gains de 2027.",
+        "En général, l'établissement financier qui gère vos titres calcule vos plus-values et moins-values mobilières.",
+        "Il vous remet le récapitulatif de votre situation pour remplir votre déclaration de revenus."
+      ]
+    },
+    {
+      "titre": "Quel est l'impôt à payer sur la plus-value mobilière ?",
+      "contenu": [
+        "La plus-value réalisée est soumise au prélèvement forfaitaire unique au taux de 31,4 % (12,8 % d'impôt sur le revenu et 18,6 % de prélèvements sociaux).",
+        "Cependant, vous pouvez choisir le barème progressif de l'impôt sur le revenu.",
+        "La plus-value imposable doit alors être ajoutée à vos autres revenus lors de votre déclaration de revenus.",
+        "Le montant global est ensuite soumis au barème progressif.",
+        "Vous devrez également payer les 18,6 % de prélèvements sociaux.",
+        "[À noter] Pour vos revenus de 2026 (à déclarer en 2027) et ceux des années suivantes, vous pourrez renoncer à votre option pour le barème progressif (dans le délai de réclamation ou en cours de contrôle), si celle-ci vous est finalement défavorable.",
+        "Si vous optez pour l'application du barème progressif et que vous avez acquis les titres avant le 1er janvier 2018, vous pouvez bénéficier d'un abattement pour durée de détention.",
+        "Dans ce cas, votre plus-value imposable à l'impôt sur le revenu sera diminuée de la valeur de l'abattement.",
+        "Par contre, les prélèvements sociaux s'appliqueront sur la totalité de la plus-value, abattement inclus."
+      ]
+    },
+    {
+      "titre": "Comment déclarer vos plus-values mobilières ?",
+      "contenu": [
+        "Vous devez déclarer vos gains avec les revenus de l'année où vous avez effectué la vente du titre.",
+        "En général, l'établissement financier qui détient vos titres vous remet le récapitulatif de votre situation pour remplir votre déclaration de revenus.",
+        "Vous pouvez vous reporter aux justificatifs remis par les établissements financiers (formulaire 2561 TER) :",
+        "Déclaration récapitulative des opérations sur valeurs mobilières et revenus de capitaux mobiliers",
+        "La déclaration des revenus par internet est obligatoire si votre résidence principale est équipée d'un accès à internet et que vous êtes en mesure de faire votre déclaration en ligne.",
+        "La déclaration 2026 des revenus de 2025 est terminée.",
+        "La déclaration 2027 des revenus de 2026 débutera en avril 2027.",
+        "[Complement] La déclaration 2026 des revenus de 2025 est terminée. La déclaration 2027 des revenus de 2026 débutera en avril 2027."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général des impôts : articles 150-0 A à 150-0 F",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006197215/"
+    },
+    {
+      "titre": "Code général des impôts : article 200 A",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006179579/"
+    },
+    {
+      "titre": "Loi n° 2025-1403 du 30 décembre 2025 de financement de la sécurité sociale pour 2026",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000053226384/"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-RPPM-PVBMI relatif aux plus-values sur biens meubles corporels",
+      "url": "http://bofip.impots.gouv.fr/bofip/6957-PGP"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-RPPM-PVBMI-20-10 relatif au calcul de la plus-value mobilière",
+      "url": "http://bofip.impots.gouv.fr/bofip/4212-PGP"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Impôts : accéder à votre espace Finances publiques",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Estimer le montant de son impôt sur les revenus de 2025 (déclaration de 2026)",
+      "url": "https://simulateur-ir-ifi.impots.gouv.fr/calcul_impot/2026/",
+      "type": "simulateurNG"
+    },
+    {
+      "titre": "Déclarer vos revenus en ligne",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Déclaration 2026 des revenus 2025 (papier)",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/2042/declaration-des-revenus",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Déclaration complémentaire 2026 des revenus 2025",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/2042/declaration-des-revenus",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Déclaration récapitulative des opérations sur valeurs mobilières et revenus de capitaux mobiliers",
+      "url": "https://www.impots.gouv.fr/portail/node/9010",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Déclaration des plus ou moins-values réalisées (non-résidents)",
+      "url": "https://www.impots.gouv.fr/portail/node/8936",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Déclaration des plus ou moins-values",
+      "url": "https://www.impots.gouv.fr/portail/node/9145",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Déclaration des plus ou moins-values réalisées",
+      "url": "https://www.impots.gouv.fr/formulaire/2074/declaration-des-plus-ou-moins-values-realisee",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Déclaration des plus ou moins-values de cessions d'actifs numériques",
+      "url": "https://www.impots.gouv.fr/formulaire/2086/declaration-des-plus-ou-moins-values-de-cessions-dactifs-numeriques",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Déclaration des plus-values en report d'imposition",
+      "url": "https://www.impots.gouv.fr/formulaire/2074-i/declaration-des-plus-values-en-report-dimposition",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Service d'information des impôts",
+    "Service en charge des impôts (trésorerie, service des impôts...)",
+    "Info Banque - Assurance"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Site des impôts",
+      "url": "https://www.impots.gouv.fr/portail/"
+    },
+    {
+      "titre": "Brochure pratique 2026 - Déclaration des revenus de 2025",
+      "url": "https://www.impots.gouv.fr/www2/fichiers/documentation/brochure/ir_2026/accueil.htm"
+    },
+    {
+      "titre": "Les cessions mobilières",
+      "url": "https://www.impots.gouv.fr/portail/particulier/les-cessions-mobilieres"
+    },
+    {
+      "titre": "Revenus de capitaux mobiliers et plus-values mobilières",
+      "url": "https://www.impots.gouv.fr/portail/particulier/revenus-de-capitaux-mobiliers"
+    }
+  ],
+  "slug": "impot-sur-le-revenu-plus-values-sur-valeurs-mobilieres",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "impot-sur-le-revenu-declaration-et-revenus-a-declarer",
+      "titre": "Impôt sur le revenu : déclaration et revenus à déclarer"
+    }
+  ]
+}

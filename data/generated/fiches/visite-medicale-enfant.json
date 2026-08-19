@@ -1,0 +1,33 @@
+{
+  "id": "F35490",
+  "type_publication": "Recherche guidée",
+  "titre": "Visite médicale Enfant",
+  "theme": "Social - Santé",
+  "description": "Visite médicale Enfant",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2020-11-09",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35490",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Santé de l'enfant",
+    "Visite médicale Enfant"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "visite-medicale-enfant",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "sante-de-l-enfant",
+      "titre": "Santé de l'enfant"
+    }
+  ]
+}

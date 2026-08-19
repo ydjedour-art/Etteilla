@@ -1,0 +1,128 @@
+{
+  "id": "F35336",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quelle autorisation déposer pour faire un changement de destination ou d’usage d’un bâtiment ?",
+  "theme": "Logement, Secteurs d'activité",
+  "description": "Une DP ou un PC est nécessaire pour changer la destination d’un bâtiment, une autorisation de changement d’usage pour en changer l’usage.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-04-24",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35336",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Autorisations d'urbanisme",
+    "Quelle autorisation déposer pour faire un changement de destination ou d’usage d’un bâtiment ?"
+  ],
+  "introduction": "Pour faire un changement de destination, vous devez déposer en mairie une demande d’autorisation d’urbanisme différente (déclaration préalable ou permis de construire) selon que vous modifiez la façade et/ou la structure porteuse du bâtiment. Pour faire un changement d’usage, vous devez déposer en mairie une demande d’autorisation administrative obligatoire seulement dans certaines communes. Nous vous présentons la réglementation.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "La démarche est différente selon que vous faites un changement de destination ou un changement d’usage."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l’urbanisme : article L152-6-5",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051747888/"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : articles L631-7 à L631-10",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000019286917/"
+    },
+    {
+      "titre": "Code de l'urbanisme : articles R151-27 à R151-29",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000031720595/"
+    },
+    {
+      "titre": "Code de l'urbanisme : article R*421-14",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031764577"
+    },
+    {
+      "titre": "Code de l'urbanisme : article R*421-17",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034355355"
+    },
+    {
+      "titre": "Code de l'urbanisme : articles R*423-17 à R423-37-3",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006158835/"
+    },
+    {
+      "titre": "Code de l'urbanisme : article R*424-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031764682"
+    },
+    {
+      "titre": "Code de l’urbanisme : articles R*424-2 à R*424-4",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074075/LEGISCTA000006175976/#LEGISCTA000006175976"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Méthode de calcul de la surface de plancher",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/getAnnexe.do?cerfaAnnexe=2&cerfaFormulaire=16700",
+      "type": "Simulateur"
+    },
+    {
+      "titre": "Assistance pour votre demande d'autorisation d'urbanisme",
+      "url": "https://demarches.service-public.gouv.fr/mademarche/DAUA/demarche",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Bureau accueil et service à l'usager (Basu) de Paris : guichet électronique unique",
+      "url": "https://teleservices.paris.fr/demarchesurbanisme/jsp/site/Portal.jsp?page=accueil",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Déclaration préalable constructions et travaux non soumis à permis de construire",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_16702.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Demande de permis de construire (autre que portant sur une maison individuelle ou ses annexes)",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_13409.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Estimer le montant des taxes d'urbanisme (taxe d’aménagement et taxe d’archéologie préventive)",
+      "url": "https://www.impots.gouv.fr/simulateur-des-taxes-urbanisme",
+      "type": "Simulateur"
+    },
+    {
+      "titre": "Déclaration en mairie des meublés de tourisme",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_14004_04.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Impôts : accéder à votre espace Finances publiques",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Déclaration modèle IL - Changement de consistance ou d'affectation des propriétés bâties et non bâties",
+      "url": "https://www.impots.gouv.fr/formulaire/6704/declaration-modele-il",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Mairie",
+    "Paris : Bureau accueil et service à l'usager (Basu)",
+    "Centre départemental des impôts fonciers (CDIF)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Guide « Evolution de la réglementation applicable aux destinations de constructions dans les PLU(i) »",
+      "url": "https://www.planif-territoires.logement.gouv.fr/juillet-2024-guide-evolution-de-la-reglementation-a176.html"
+    }
+  ],
+  "slug": "quelle-autorisation-deposer-pour-faire-un-changement-de-destination-ou-d-usage-d-un-batiment",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "autorisations-d-urbanisme",
+      "titre": "Autorisations d'urbanisme"
+    }
+  ]
+}

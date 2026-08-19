@@ -1,0 +1,75 @@
+{
+  "id": "F33463",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quels sont les diagnostics immobiliers qu’un bailleur doit fournir au locataire ?",
+  "theme": "Logement",
+  "description": "Le bailleur a l'obligation de fournir des diagnostics immobiliers au futur locataire pour l'informer sur certains aspects du logement.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-02-20",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33463",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Diagnostic immobilier",
+    "Quels sont les diagnostics immobiliers qu’un bailleur doit fournir au locataire ?"
+  ],
+  "introduction": "Le bailleur a l'obligation de fournir des diagnostics immobiliers au futur locataire pour l'informer sur certains aspects du logement qu'il projette de louer. Les diagnostics immobiliers à fournir varient selon qu'il s'agit de la location d'un appartement ou d’une maison.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Appartement (vide ou meublé)",
+        "Le bailleur doit remettre au futur locataire les diagnostics immobiliers suivants :",
+        "• Diagnostic de performance énergétique (DPE). Ce diagnostic n’est toutefois pas exigé si le logement est destiné à être occupé moins de 4 mois par an ou s’il se trouve dans un bâtiment classé ou inscrit comme monument historique.",
+        "• Constat de risque d'exposition au plomb (Crep) si le logement a été construit avant le 1er janvier 1949",
+        "• État de l'installation intérieure de l'électricité si l'installation électrique du logement a plus de 15 ans",
+        "• État de l'installation intérieure du gaz si l'installation de gaz du logement a plus de 15 ans",
+        "• État des risques (naturels, miniers, technologiques, sismiques, radon...) si le logement est situé dans une zone ou périmètre à risques",
+        "• Diagnostic bruit si le logement est situé dans une zone d'exposition au bruit des aéroports.",
+        "Les diagnostics sont regroupés dans un dossier appelé dossier de diagnostic technique (DDT).",
+        "Le bailleur doit annexer ce dossier au bail au moment de la signature du bail et en cas de renouvellement. Il est transmis par voie dématérialisée (courrier électronique par exemple) sauf si le bailleur ou le futur locataire s'y oppose.",
+        "[À savoir] Le diagnostic amiante fait partie du DDT, mais il n’a pas à être annexé au bail. Le bailleur doit simplement le tenir à la disposition du locataire, sur demande.",
+        "Les diagnostics doivent être réalisés par un diagnostiqueur certifié avant la mise en location. En revanche, le diagnostic bruit des aéroports et l’état des risques (naturels, miniers...) peuvent être établis directement par le bailleur. Il est recommandé de disposer de l’ensemble des diagnostics avant la publication de l'annonce de mise en location du logement.",
+        "Maison (vide ou meublée)",
+        "Le bailleur doit remettre au futur locataire les diagnostics immobiliers suivants :",
+        "• Diagnostic de performance énergétique (DPE). Ce diagnostic n’est toutefois pas exigé si la maison est destinée à être occupée moins de 4 mois par an ou s’il s’agit d’une maison indépendante (individuelle) avec une surface de plancher inférieure à 50 m² ou si la maison est classée ou inscrite comme monument historique.",
+        "• Constat de risque d'exposition au plomb (Crep) si la maison a été construite avant le 1er janvier 1949",
+        "• État de l'installation intérieure de l'électricité si l'installation électrique de la maison a plus de 15 ans",
+        "• État de l'installation intérieure du gaz si l'installation de gaz de la maison a plus de 15 ans",
+        "• État des risques (naturels, miniers, technologiques, sismiques, radon...) si la maison est située dans une zone ou périmètre à risques",
+        "• Diagnostic bruit si la maison est située dans une zone d'exposition au bruit des aéroports.",
+        "Les diagnostics sont regroupés dans un dossier appelé dossier de diagnostic technique (DDT).",
+        "Le bailleur doit annexer ce dossier au bail au moment de la signature du bail et en cas de renouvellement. Il est transmis par voie dématérialisée (courrier électronique par exemple) sauf si le bailleur ou le futur locataire s'y oppose.",
+        "[À savoir] Le diagnostic amiante fait partie du DDT, mais il n’a pas à être annexé au bail. Le bailleur doit simplement le tenir à la disposition du locataire, sur demande.",
+        "Les diagnostics doivent être réalisés par un diagnostiqueur certifié avant la mise en location. En revanche, le diagnostic bruit des aéroports et l’état des risques (naturels, miniers...) peuvent être établis directement par le bailleur. Il est recommandé de disposer de l’ensemble des diagnostics avant la publication de l'annonce de mise en location du logement."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 3-3",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043978254"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Mémo sur les diagnostics immobiliers en cas de vente ou de location",
+      "url": "https://www.inc-conso.fr/content/les-diagnostics-immobiliers-en-cas-de-vente-location-immobilieres-ou-dans-une-copropriete-le"
+    }
+  ],
+  "slug": "quels-sont-les-diagnostics-immobiliers-qu-un-bailleur-doit-fournir-au-locataire",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "diagnostic-immobilier",
+      "titre": "Diagnostic immobilier"
+    }
+  ]
+}

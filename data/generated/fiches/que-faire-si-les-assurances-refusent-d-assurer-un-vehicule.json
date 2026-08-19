@@ -1,0 +1,99 @@
+{
+  "id": "F2660",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Que faire si les assurances refusent d'assurer un véhicule ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Si l'assureur refuse de vous assurer, vous pouvez avoir recours au Bureau central de la tarification (BCT).",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-03-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2660",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Assurance automobile (véhicule)",
+    "Que faire si les assurances refusent d'assurer un véhicule ?"
+  ],
+  "introduction": "Si aucune compagnie d'assurance ne veut assurer votre véhicule, vous pouvez saisir le Bureau central de tarification (BCT). Cet organisme peut contraindre une compagnie à vous assurer pour la garantie obligatoire de responsabilité civile. Dans ce cas, c'est le BCT qui fixe lui-même le tarif du contrat. L'assureur peut refuser de vous proposer d'autres garanties en dehors de l'assurance obligatoire.",
+  "chapitres": [
+    {
+      "titre": "Demander à l'assureur 2 exemplaires de la proposition d'assurance",
+      "contenu": [
+        "Après le refus de votre demande d'assurance, vous devez demander à l'assureur 2 exemplaires de l'imprimé dénommé proposition d'assurance.",
+        "Votre assureur ne peut pas refuser de vous remettre ce document."
+      ]
+    },
+    {
+      "titre": "Adresser un exemplaire au siège social de l'assureur",
+      "contenu": [
+        "Vous devez ensuite adresser au siège social de l'assureur un exemplaire complété, en recommandé avec accusé de réception. Conservez l'autre exemplaire comme preuve.",
+        "Il faut joindre au courrier un relevé d'information de l'ancienne compagnie d'assurance et une photocopie de votre carte grise (désormais appelée certificat d'immatriculation) et de votre permis de conduire.",
+        "Vous devez également demander à l'entreprise de vous fournir un devis pour cette assurance obligatoire, avec le montant de la prime et les majorations appliquées.",
+        "La société d'assurance est dans l'obligation de vous délivrer le devis."
+      ]
+    },
+    {
+      "titre": "En cas de refus de l'assureur ou en cas d'absence de réponse : écrire au BCT",
+      "contenu": [
+        "Si la société refuse de vous assurer pour la garantie obligatoire responsabilité civile ou si elle ne vous répond pas dans les 15 jours à compter de la réception de votre demande, vous pouvez saisir le BCT.",
+        "Il faut envoyer au BTC un courrier par lettre recommandée avec accusé de réception ou par envoi recommandé électronique.",
+        "Vous pouvez utiliser le modèle de lettre suivant :",
+        "Saisir le Bureau central de tarification (BCT) en cas de refus d'assurance de son véhicule",
+        "Le courrier doit être accompagné des documents suivants :",
+        "• 2ème exemplaire complété du document proposition d'assurance",
+        "• Accusé de réception par l'assurance du courrier que vous lui avez envoyé",
+        "• Devis fourni par la compagnie d'assurance et sa lettre de refus de vous assurer (si ces documents vous ont été envoyés)",
+        "• Photocopie de la carte grise et de votre permis de conduire",
+        "• Relevé d'information de l'ancienne compagnie d'assurance",
+        "• Dernier avis d'échéance de votre contrat",
+        "• En cas de condamnation pour conduite sous l'emprise de substances interdites, copie de la décision judiciaire.",
+        "Le BTC intervient uniquement pour la garantie obligatoire de responsabilité civile.",
+        "Les autres garanties (vol, incendie, bris de glace, tous risques) sont laissées à l'appréciation de l'assureur.",
+        "Le BCT fixe le montant de la cotisation et vous en informe. Le BCT informe également l'assureur.",
+        "La décision est prise dans un délai d'environ 2 mois.",
+        "Vous devez répondre au BCT pour lui signaler votre accord, par lettre recommandée avec accusé de réception.",
+        "Vous devrez alors payer la cotisation à la société d'assurance qui va assurer votre voiture."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code des assurances : articles L211-1 à L211-2",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006174242"
+    },
+    {
+      "titre": "Code des assurances : articles L212-1 à L212-3",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006157492"
+    },
+    {
+      "titre": "Code des assurances : articles R250-1 à R250-6",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006143142"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Saisir le Bureau central de tarification (BCT) en cas de refus d'assurance de son véhicule",
+      "url": "https://www.inc-conso.fr/content/refuse-dassurer-votre-voiture",
+      "type": "Modèle de document"
+    }
+  ],
+  "contacts": [
+    "Info Banque - Assurance"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "On refuse d'assurer votre véhicule",
+      "url": "https://www.inc-conso.fr/content/refuse-dassurer-votre-vehicule"
+    }
+  ],
+  "slug": "que-faire-si-les-assurances-refusent-d-assurer-un-vehicule",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "assurance-automobile-vehicule",
+      "titre": "Assurance automobile (véhicule)"
+    }
+  ]
+}

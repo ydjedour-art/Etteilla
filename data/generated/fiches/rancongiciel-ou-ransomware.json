@@ -1,0 +1,175 @@
+{
+  "id": "F34129",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Rançongiciel ou ransomware",
+  "theme": "Justice",
+  "description": "Le rançongiciel consiste à demander une somme d'argent en échange du déblocage d'un appareil électronique ou de la restauration de fichiers dématérialisés",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2024-10-16",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34129",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Arnaques sur internet (THESEE, Pharos ...)",
+    "Rançongiciel ou ransomware"
+  ],
+  "introduction": "Votre appareil électronique (ordinateur, tablette ou téléphone portable) est bloqué et affiche un message exigeant de l'argent pour un retour à la normale ? Vous êtes probablement victime d'un rançongiciel (ou ransomware). Il s'agit d'une infraction qui peut être dénoncée aux autorités compétentes par un signalement ou par le dépôt d'une plainte. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Qu'est-ce que le rançongiciel ?",
+      "contenu": [
+        "Qu'est-ce que le rançongiciel ?",
+        "Le rançongiciel est une forme d'extorsion.",
+        "Il s'agit, pour un individu, d'implanter un logiciel malveillant qui chiffre tout ou partie d'un système informatique (exemple : ordinateur, téléphone, tablette, serveur) ou de vos fichiers et qui exige le paiement d'une somme d'argent en échange d'une clé de déchiffrement, vous permettant de pouvoir y accéder de nouveau."
+      ]
+    },
+    {
+      "titre": "Quels sont les premiers réflexes à avoir face à un rançongiciel ?",
+      "contenu": [
+        "Quels sont les premiers réflexes à avoir face à un rançongiciel ?",
+        "Éviter que le logiciel malveillant ne se propage",
+        "Si vous êtes victime d'un rançongiciel, vous devez déconnecter l'appareil d'internet pour éviter que le virus ne se propage à d'autres équipements (par exemple : un téléphone relié à un ordinateur).",
+        "Par la suite, vous pouvez rechercher si une solution de déchiffrement est disponible pour le type de rançongiciel que vous subissez.",
+        "Cette démarche peut être faite en ligne depuis la plateforme suivante :",
+        "Rançongiciel - Télécharger une solution de déchiffrement",
+        "Si vous ne trouvez pas de solution de déchiffrement sur cette plateforme, ne payez pas la rançon. En effet, le paiement n'assure pas un nouvel accès à vos fichiers ou à l'appareil infecté. Au contraire, il est possible qu'une nouvelle somme d'argent vous soit demandée.",
+        "[À noter] Si l'appareil infecté appartient à l'entreprise/l'administration au sein de laquelle vous travaillez, il est conseillé de prévenir le service informatique afin qu'il intervienne au plus vite.",
+        "Collecter des preuves du rançongiciel",
+        "Si vous êtes victime d'un rançongiciel, vous devez collecter un maximum de preuves permettant d'établir cette infraction et d'en déterminer l'auteur.",
+        "Il peut s'agir :",
+        "• Du message vous indiquant que vous avez été piraté",
+        "• De la demande de rançon",
+        "• De fichiers chiffrés auxquels vous ne pouvez plus accéder.",
+        "Si vous ne parvenez pas à collecter de preuves, vous pouvez faire appel à un informaticien.",
+        "Vous pouvez également demander de l'aide aux professionnels du site cybermalveillance.gouv.fr :",
+        "Assistance pour les victimes de cybermalveillance - 17Cyber"
+      ]
+    },
+    {
+      "titre": "Comment signaler un rançongiciel aux autorités compétentes ?",
+      "contenu": [
+        "Si vous êtes victime ou témoin d'un rançongiciel, vous pouvez le signaler aux enquêteurs de THESEE.",
+        "Les responsables d'un traitement de données personnelles (exemple : chef d'entreprise) doivent également signaler cette infraction à la Cnil lorsqu'il existe un risque de violation de la vie privée d'une ou plusieurs personnes.",
+        "Signalement par un particulier",
+        "Toute personne (majeure ou mineure) peut signaler un rançongiciel par le biais de THESEE :",
+        "Signaler un rançongiciel ou ransomware (THESEE)",
+        "Le signalement par le biais de ce téléservice peut être utilisé par tout particulier (majeur ou mineur), quelle que soit sa nationalité.",
+        "Vous n'êtes pas obligé de donner votre identité. Vous devez uniquement indiquer une adresse mail.",
+        "Le signalement n'est pas une plainte. Il consiste uniquement à informer les services d'enquête de l'infraction commise et à leur apporter des éléments pour qu'ils identifient l'auteur des faits.",
+        "Si vous signalez un rançongiciel, vous ne serez pas tenu informé des suites données à votre signalement.",
+        "Signalement par le responsable d'un traitement de données personnelles",
+        "Notification à la Cnil",
+        "Si le rançongiciel porte sur un traitement de données personnelles et qu'il existe un risque pour la vie privée d'une ou plusieurs personnes, vous devez le notifier à la Cnil.",
+        "[Exemple] Un logiciel malveillant attaque les fichiers d'une entreprise. L'un d'entre eux concerne la gestion des ressources humaines. Dans ce cas, il est nécessaire d'alerter la Cnil, car il existe un risque au regard de la vie privée des salariés figurant dans ce fichier.",
+        "Ce signalement doit être effectué depuis le site de la Cnil dans un délai de 72 heures à compter de la violation du traitement :",
+        "Notification à la Cnil - Violation d'un traitement de données personnelles",
+        "Par la suite, vous pouvez apporter des informations supplémentaires en effectuant une notification complémentaire.",
+        "Signalement aux enquêteurs de THESEE",
+        "En tant que responsable d'un traitement de données personnelles, vous pouvez également faire un signalement sur THESEE :",
+        "Signaler un rançongiciel ou ransomware (THESEE)",
+        "Le signalement par le biais de ce téléservice peut être utilisé par tout particulier (majeur ou mineur), quelle que soit sa nationalité.",
+        "Vous n'êtes pas obligé de donner votre identité. Vous devez uniquement indiquer une adresse mail.",
+        "Le signalement n'est pas une plainte. Il consiste uniquement à informer les services d'enquête de l'infraction commise et à leur apporter des éléments pour qu'ils identifient l'auteur des faits.",
+        "Si vous signalez un rançongiciel, vous ne serez pas tenu informé des suites données à votre signalement."
+      ]
+    },
+    {
+      "titre": "Est-il possible de déposer plainte contre l'auteur d'un rançongiciel ?",
+      "contenu": [
+        "Si vous êtes victime d'un rançongiciel, vous pouvez déposer plainte contre l'auteur du logiciel malveillant ou du virus. Si vous ne connaissez pas son identité, vous pouvez porter plainte contre X.",
+        "Les plaintes sur THESEE sont recevables uniquement si une demande d'argent a été effectuée. Il n'est pas nécessaire qu'un versement et/ou qu'un encaissement ait eu lieu.",
+        "Si vous ne pouvez pas accéder à THESEE, vous pouvez porter plainte en vous déplaçant au commissariat ou à la gendarmerie de votre choix ou en écrivant au procureur de la République.",
+        "Dans tous les cas, la plainte doit être déposée dans un délai de 6 ans à compter de la commission des faits.",
+        "Sur THESEE",
+        "En tant que victime d'un rançongiciel, vous pouvez porter plainte depuis ce téléservice :",
+        "Porter plainte pour un rançongiciel ou ransomware (THESEE)",
+        "Les enquêteurs de THESEE vous donneront des renseignements sur les suites données à votre plainte, les aides dont vous pouvez bénéficier (exemple : assistance d'un avocat) et les moyens d'obtenir une indemnisation.",
+        "[Attention] Les mineurs ne peuvent pas porter plainte sur THESEE.",
+        "Sur place",
+        "Pour déposer plainte, vous devez vous rendre au commissariat de police ou à la gendarmerie de votre choix.",
+        "Commissariat",
+        "Brigade de gendarmerie",
+        "Les services de police ou de gendarmerie sont obligés d'enregistrer votre plainte si vous êtes victime d'une infraction.",
+        "La plainte est ensuite transmise au procureur de la République pour qu'il décide de la suite (enquête, classement sans suite, etc.).",
+        "L'enquête de police peut aboutir à la condamnation de l'auteur par le tribunal correctionnel.",
+        "Si vous vous constituez partie civile, vous pouvez obtenir des dommages et intérêts.",
+        "[À savoir] Si vous êtes mineur, vous pouvez vous rendre seul au commissariat ou à la gendarmerie et signaler les faits. Cependant, vous n'avez pas le droit de vous constituer partie civile en vue d'obtenir des dommages et intérêts. Vos parents doivent le faire en votre nom.",
+        "Par courrier",
+        "Vous devez écrire directement au procureur de la République siégeant au tribunal judiciaire du lieu de l'infraction ou du domicile de l'auteur de l'infraction.",
+        "La lettre doit préciser les informations suivantes :",
+        "• Votre état civil complet (nom, prénoms, date de naissance, etc.) et vos coordonnées complètes (adresse et numéro de téléphone)",
+        "• Récit détaillé des faits, date et lieu de l'infraction",
+        "• Nom de l'auteur supposé si vous le connaissez (sinon, il convient de déposer plainte contre X)",
+        "• Noms et adresses des éventuels témoins de cette infraction",
+        "• Description et estimation provisoire ou définitive du préjudice",
+        "• Documents de preuve",
+        "Vous pouvez utiliser le modèle de courrier suivant :",
+        "Porter plainte auprès du procureur de la République",
+        "Votre plainte peut être transmise par lettre recommandée avec accusé de réception, par lettre simple ou par lettre suivie.",
+        "Dans tous les cas, un récépissé vous est remis dès que les services du procureur de la République ont enregistré votre plainte.",
+        "Tribunal judiciaire ou tribunal de proximité",
+        "Par la suite, une enquête est menée et peut aboutir à la condamnation de l'auteur des faits par le tribunal correctionnel.",
+        "Si vous vous constituez partie civile, vous pouvez obtenir des dommages et intérêts.",
+        "[À noter] Si vous avez déposé déjà déposé plainte dans un commissariat de police, une brigade de gendarmerie ou auprès du procureur de la République, vous pouvez également signaler le rançongiciel sur THESEE."
+      ]
+    },
+    {
+      "titre": "Quelles sont les peines encourues par l'auteur d'un rançongiciel ?",
+      "contenu": [
+        "L'auteur d'un rançongiciel encourt une peine de :",
+        "• 7 ans de prison",
+        "• 100 000 € d'amende."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code pénal : articles 312-1 à 312-9",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006165327/"
+    },
+    {
+      "titre": "Arrêté du 26 juin 2020 sur la création du traitement harmonisé des enquêtes et des signalements pour les e-escroqueries (THESEE)",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000042056637/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Rançongiciel - Télécharger une solution de déchiffrement",
+      "url": "https://www.nomoreransom.org/crypto-sheriff.php?lang=fr",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Assistance pour les victimes de cybermalveillance - 17Cyber",
+      "url": "https://17cyber.gouv.fr/",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Signaler un rançongiciel ou ransomware (THESEE)",
+      "url": "https://demarches.service-public.gouv.fr/mademarche/arnaqueInternet/demarche?action=SIGNALEMENT&type=R",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Porter plainte pour un rançongiciel ou ransomware (THESEE)",
+      "url": "https://demarches.service-public.gouv.fr/mademarche/arnaqueInternet/demarche?action=PLAINTE&type=R",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Plainte en ligne",
+      "url": "https://www.masecurite.interieur.gouv.fr/fr/demarches-en-ligne/plainte-en-ligne",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "rancongiciel-ou-ransomware",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "arnaques-sur-internet-thesee-pharos",
+      "titre": "Arnaques sur internet (THESEE, Pharos ...)"
+    }
+  ]
+}

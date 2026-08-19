@@ -1,0 +1,115 @@
+{
+  "id": "F16947",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Qu'est-ce qu'un enfant à charge pour les prestations familiales ?",
+  "theme": "Famille - Scolarité",
+  "description": "Pour ouvrir droit aux prestations familiales, un enfant doit être à la charge effective et permanente de l'allocataire",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-06-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F16947",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Allocations destinées aux familles",
+    "Qu'est-ce qu'un enfant à charge pour les prestations familiales ?"
+  ],
+  "introduction": "Pour ouvrir droit aux prestations familiales, un enfant doit être à la charge effective et permanente de l'allocataire (parent, tuteur, etc.). S'il travaille, sa rémunération ne doit pas dépasser 55 % du Smic. D'autres conditions (âge à ne pas dépasser, autonomie de l’enfant) doivent être remplies. Nous vous exposons les règles à connaître.",
+  "chapitres": [
+    {
+      "titre": "Situation familiale avec l'enfant à charge",
+      "contenu": [
+        "Il n'est pas nécessaire qu'il y ait un lien de filiation entre la personne qui élève l'enfant et celui-ci.",
+        "Il peut ainsi s'agir d'un enfant recueilli (frère, nièce ou neveu...).",
+        "Pour que l'enfant soit considéré à charge, l'allocataire doit en assurer la charge effective et permanente. AInsi, il doit :",
+        "• Assurer financièrement son entretien (nourriture, logement, habillement)",
+        "• Et assumer à son égard la responsabilité affective et éducative.",
+        "L'enfant doit vivre de façon permanente en France. Les séjours à l'étranger ne doivent pas, en principe, dépasser 3 mois au cours d'une année civile."
+      ]
+    },
+    {
+      "titre": "Âge limite de l'enfant à charge",
+      "contenu": [
+        "Un enfant est considéré à charge :",
+        "• Dès la grossesse pour la prime à la naissance ou le revenu de solidarité active (RSA)",
+        "• Jusqu'à ses 3 ans",
+        "• De 3 ans à 15 ans s'il remplit l'obligation scolaire.",
+        "L'enfant est considéré à charge jusqu'à ses 20 ans (21 ans pour l'attribution du complément familial et des allocations logement) si sa rémunération mensuelle nette n'excède pas un certain montant."
+      ]
+    },
+    {
+      "titre": "Rémunération de l'enfant à charge",
+      "contenu": [
+        "Les règles diffèrent selon le statut de l'enfant.",
+        "L'enfant poursuit ses études",
+        "Si l'enfant est scolarisé ou étudiant et travaille, sa rémunération nette ne doit pas dépasser 55 % du Smic (pour 169 heures) pour qu'il continue à être considéré comme à charge.",
+        "Les salaires sont pris en compte sur une période de 6 mois (du 1er octobre au 31 mars et du 1er avril au 30 septembre). Le total est ensuite divisé par 6.",
+        "Le Smic pris en compte dépend de la période concernée :",
+        "Rémunération maximum pour un enfant à charge",
+        "Période concernée",
+        "Smic pris en compte",
+        "Rémunération maximum",
+        "Entre octobre 2025 à mars 2026",
+        "Smic en vigueur au 1er octobre 2025",
+        "1104,25 €",
+        "Entre avril 2025 et septembre 2025",
+        "Smic en vigueur au 1er avril 2024",
+        "1082,87 €",
+        "Entre octobre 2024 et mars 2025",
+        "Smic en vigueur au 1er octobre 2024",
+        "1082,87 €",
+        "[Attention] Le montant du SMIC ayant été modifié en 2025, la rémunération maximum par enfant à charge varie en 2026.",
+        "[Exemple] Pour le jeune qui a perçu 1 219 € net en juillet et en août, la moyenne mensuelle pour la période du 1er avril au 30 septembre est de 2 438 € divisé par 6, soit 403,33 €. Ce montant étant inférieur au plafond, les prestations familiales sont donc maintenues intégralement pour toute la période.",
+        "Si la moyenne dépasse le plafond, le jeune ne compte plus pour le calcul des prestations uniquement pour les mois où le plafond mensuel a été dépassé.",
+        "[À savoir] Si le jeune travaille pendant les vacances et ne reprend pas ses études ensuite, le plafond est apprécié chaque mois dès le 1er mois d’activité et non par période de 6 mois.",
+        "Il est apprenti, stagiaire ou salarié",
+        "Si l'enfant travaille, est stagiaire ou apprenti, ses revenus nets mensuels ne doivent pas dépasser 1 144,21 € (55 % du Smic pour 169 heures).",
+        "Si sa rémunération dépasse le plafond un ou plusieurs mois, le droit aux prestations est supprimé pour ce ou ces mois."
+      ]
+    },
+    {
+      "titre": "Autonomie de l'enfant",
+      "contenu": [
+        "Un enfant cesse d'être à charge s'il devient lui-même allocataire d'une prestation familiale.",
+        "C'est le cas du jeune qui perçoit l'aide personnalisée au logement (APL).",
+        "Cependant, un enfant autonome pour les prestations familiales ne l'est pas forcément pour les impôts.",
+        "[Exemple] Un étudiant de 19 ans sans ressources personnelles loue un logement et perçoit l'APL. • Pour les allocations familiales : il n'est plus à la charge de ses parents, même s'il ne gagne pas sa vie et n'a pas dépassé l'âge limite • Pour l'impôt sur le revenu : il peut être déclaré à charge de ses parents."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la sécurité sociale : articles L512-1 à L512-6",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000006156161/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : article L513-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006156162"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles R512-1 à R512-2",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006156677"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Caisse d'allocations familiales (Caf)",
+    "Mutualité sociale agricole (MSA)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Tout comprendre sur les enfants à charge",
+      "url": "https://www.caf.fr/allocataires/aides-et-demarches/thematique-libre/les-enfants-charge"
+    }
+  ],
+  "slug": "qu-est-ce-qu-un-enfant-a-charge-pour-les-prestations-familiales",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "allocations-destinees-aux-familles",
+      "titre": "Allocations destinées aux familles"
+    }
+  ]
+}

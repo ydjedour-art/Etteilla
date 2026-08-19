@@ -1,0 +1,132 @@
+{
+  "id": "F34727",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Comment obtenir ou retrouver le numéro Siret d'une association ?",
+  "theme": "Associations, fondations et fonds de dotation",
+  "description": "Le numéro Siret n'est pas automatique. La démarche pour obtenir son immatriculation au répertoire Siren varie selon le motif pour lequel elle est demandée.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-08-14",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34727",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Associations, fondations et fonds de dotation",
+    "Création d'une association",
+    "Comment obtenir ou retrouver le numéro Siret d'une association ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "Comment obtenir le numéro Siret d'une association ?",
+      "contenu": [
+        "Une association doit demander son immatriculation au répertoire national des entreprises et des établissements, appelé également répertoire Sirene, lorsqu'elle remplit au moins l'une des conditions suivantes :",
+        "• Elle souhaite demander des subventions publiques",
+        "• Elle envisage d'employer des salariés",
+        "• Elle exerce des activités qui conduisent au paiement de la TVA ou de l'impôt sur les sociétés.",
+        "L'association se voit attribuer un numéro Siren (numéro de 9 chiffres).",
+        "Le numéro Siren identifie l'association en tant que personne morale.",
+        "Lorsqu'elle comporte des établissements, chaque établissement se voit également attribuer un numéro Siret (numéro de 14 chiffres).",
+        "Le numéro Siret identifie chacun des établissements de l'association. Il est composé du numéro Siren suivi d'un numéro interne de classement (NIC).",
+        "La démarche pour obtenir son immatriculation varie selon le motif pour lequel elle est demandée :",
+        "L'association va demander des subventions publiques",
+        "Cas général",
+        "L'inscription s'effectue uniquement en ligne.",
+        "Inscription d'une association au répertoire Sirene",
+        "La demande doit être accompagnée du cerfa M0 Asso n°15909, de la copie de l'extrait paru au JOAFE et d’une copie des statuts.",
+        "L'association reçoit un certificat d'inscription à conserver. Il n'est pas délivré de duplicata en cas de perte.",
+        "Ensuite, l'association doit déclarer au Pôle Sirene Association de l'Insee toute modification portant sur son nom, son objet, ses activités, l'adresse de son siège ou ses établissements (ouverture, fermeture, déménagement). L'Insee procède, si nécessaire, à la modification du ou des numéros de Siret. Un formulaire spécifique concernant la demande et une copie du document officiel qui atteste de la modification doivent être joints à la déclaration.",
+        "Insee Grand Est - Pôle Sirene Associations",
+        "Insee Grand Est - SNTDA - Pôle Sirene Associations",
+        "5 rue Henry Maret",
+        "CS 90403",
+        "57008 Metz Cedex 01",
+        "(ensemble des départements métropolitains et d'outre-mer)",
+        "Par téléphone",
+        "09 72 72 60 00",
+        "Par mail",
+        "Pour toute demande, correspondance ou pour toute question : sirene-asso@insee-contact.fr",
+        "Alsace-Moselle",
+        "L'inscription s'effectue auprès du Pôle Sirene Association de l'Insee de préférence par mail (pour un traitement plus rapide) ou par courrier postal.",
+        "Insee Grand Est - Pôle Sirene Associations",
+        "Insee Grand Est - SNTDA - Pôle Sirene Associations",
+        "5 rue Henry Maret",
+        "CS 90403",
+        "57008 Metz Cedex 01",
+        "(ensemble des départements métropolitains et d'outre-mer)",
+        "Par téléphone",
+        "09 72 72 60 00",
+        "Par mail",
+        "Pour toute demande, correspondance ou pour toute question : sirene-asso@insee-contact.fr",
+        "La demande doit être accompagnée du cerfa M0 Asso n°15909, de la copie du récépissé d'inscription au registre des associations et d’une copie des statuts.",
+        "L'association reçoit un certificat d'inscription à conserver. Il n'est pas délivré de duplicata en cas de perte.",
+        "Ensuite, l'association doit déclarer au Pôle Sirene Association de l'Insee toute modification portant sur son nom, son objet, ses activités, l'adresse de son siège ou ses établissements (ouverture, fermeture, déménagement). L'Insee procède, si nécessaire, à la modification du ou des numéros de Siret. Un formulaire spécifique concernant la demande et une copie du document officiel qui atteste de la modification doivent être joints à la déclaration.",
+        "L'association va employer du personnel",
+        "L'inscription est à faire sur le site https://www.cfe.urssaf.fr (ou par mail ou courrier postal à Urssaf dont dépend le siège de l'association).",
+        "Association employeur : demande de numéros Siren et Siret et déclaration de modification de situation",
+        "Urssaf",
+        "La demande doit être accompagnée du cerfa M0 Asso n°15909, de la copie du récépissé de la dernière déclaration délivré par la préfecture, ou sinon d'une copie du dernier extrait paru au JOAFE.",
+        "L'Urssaf transmet la demande à l'Insee qui procède à l'inscription au répertoire et à l'attribution du numéro d'identification. L'association reçoit un certificat d'inscription à conserver. Il n'est pas délivré de duplicata en cas de perte.",
+        "Ensuite, l'association doit déclarer, de la même façon, toute modification à l'Urssaf portant sur son nom, son objet, ses activités, l'adresse de son siège ou ses établissements (ouverture, fermeture, déménagement). L'Insee procède, si nécessaire, à la modification du ou des numéros de Siret. Un formulaire spécifique concernant la demande et une copie du document officiel qui atteste de la modification doivent être joints à la déclaration.",
+        "L'association exerce des activités qui entraînent le paiement de la TVA ou de l'impôt sur les sociétés",
+        "Cas général",
+        "L'inscription est à faire par mail ou courrier postal au service des impôts des entreprises (SIE) de la DGFIP dont dépend le siège de l'association.",
+        "Service des impôts des entreprises (SIE)",
+        "La demande doit être accompagnée du cerfa M0 Asso n°15909, de la copie du récépissé de la dernière déclaration délivré par la préfecture, ou sinon d'une copie du dernier extrait paru au JOAFE.",
+        "La demande est transmise par le SIE à l'Insee qui procède à l'inscription au répertoire et à l'attribution du numéro d'identification. L'association reçoit un certificat d'inscription à conserver. Il n'est pas délivré de duplicata en cas de perte.",
+        "Ensuite, l'association doit déclarer, de la même façon, au SIE, toute modification portant sur son nom, son objet, ses activités, l'adresse de son siège ou ses établissements (ouverture, fermeture, déménagement). L'Insee procède, si nécessaire, à la modification du ou des numéros de Siret. Un formulaire spécifique concernant sa demande et une copie du document officiel qui atteste de la modification doivent être joints à la déclaration.",
+        "Alsace-Moselle",
+        "L'inscription est à demander, par mail ou courrier postal, au service des impôts des entreprises (SIE) de la DGFIP dont dépend le siège de l'association.",
+        "Déclaration relative à une association (M0 ASSO)",
+        "Notice - Déclaration relative à une association",
+        "Notice annexe - RGPD",
+        "Service des impôts des entreprises (SIE)",
+        "La demande doit être accompagnée du cerfa M0 Asso n°15909, de la copie du récépissé d'inscription au registre des associations et d'une copie des statuts.",
+        "Le SIE transmet la demande à l'Insee qui procède à l'inscription au répertoire et à l'attribution du numéro d'identification. L'association reçoit un certificat d'inscription à conserver. Il n'est pas délivré de duplicata en cas de perte.",
+        "Ensuite, l'association doit déclarer, de la même façon, au SIE, toute modification portant sur son nom, son objet, ses activités, l'adresse de son siège ou ses établissements (ouverture, fermeture, déménagement). L'Insee procède, si nécessaire, à la modification du ou des numéros de Siret. Un formulaire spécifique concernant sa demande et une copie du document officiel qui atteste de la modification doivent être joints à la déclaration.",
+        "Depuis le 15 septembre 2022, l'Insee ne délivre plus de certificat d'immatriculation au répertoire Sirene.",
+        "Une fois l'immatriculation réalisée, l'association peut télécharger gratuitement un avis de situation au répertoire Sirene, qui reprend notamment son numéro Siren et son ou ses numéros Siret.",
+        "Le numéro Siren et le ou les numéros Siret d'une association immatriculée peuvent être consultés gratuitement sur l'Annuaire des entreprises. Ils sont également consultables dans le répertoire Sirene de l'Insee.",
+        "Si l'association est immatriculée, vous pouvez également télécharger gratuitement un avis de situation au répertoire Sirene. L’avis permet de justifier de son immatriculation et mentionne notamment son numéro Siren et son ou ses numéros Siret.",
+        "Rechercher un justificatif d'immatriculation d'une entreprise"
+      ]
+    },
+    {
+      "titre": "Comment retrouver le numéro Siret d'une association ?",
+      "contenu": [
+        "Pour retrouver le numéro Siret d'une association, vous pouvez utiliser le téléservice suivant :",
+        "Annuaire des entreprises : rechercher toutes les informations d'une entreprise",
+        "Vous pouvez également trouver le numéro Siret sur le site sirene.fr en faisant une recherche sur votre raison sociale, nom/prénom ou adresse :",
+        "Rechercher une entreprise au répertoire Sirene"
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [
+    {
+      "titre": "Annuaire des entreprises : rechercher toutes les informations d'une entreprise",
+      "url": "https://annuaire-entreprises.data.gouv.fr/",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Rechercher une entreprise au répertoire Sirene",
+      "url": "https://avis-situation-sirene.insee.fr/",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Urssaf",
+    "Service des impôts des entreprises (SIE)",
+    "Insee Grand Est - Pôle Sirene Associations"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "comment-obtenir-ou-retrouver-le-numero-siret-d-une-association",
+  "path": [
+    {
+      "slug": "associations-fondations-et-fonds-de-dotation",
+      "titre": "Associations, fondations et fonds de dotation"
+    },
+    {
+      "slug": "creation-d-une-association",
+      "titre": "Création d'une association"
+    }
+  ]
+}

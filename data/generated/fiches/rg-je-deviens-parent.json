@@ -1,0 +1,27 @@
+{
+  "id": "F39260",
+  "type_publication": "Recherche guidée",
+  "titre": "RG Je deviens parent",
+  "theme": "",
+  "description": "RG Je deviens parent",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2025-12-12",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F39260",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "RG Je deviens parent"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "rg-je-deviens-parent",
+  "path": [
+    {
+      "slug": "rg-je-deviens-parent",
+      "titre": "RG Je deviens parent"
+    }
+  ]
+}

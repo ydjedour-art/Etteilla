@@ -1,0 +1,110 @@
+{
+  "id": "F1700",
+  "type_publication": "Fiche Comment faire si conditionné",
+  "titre": "Je souhaite travailler dans l'administration",
+  "theme": "",
+  "description": "L'administration propose des emplois accessibles en tant que fonctionnaire (par concours ou sans) ou en tant que contractuel, selon votre nationalité.",
+  "type_fiche": "Comment faire si...",
+  "date_modif": "2025-03-17",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1700",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Comment faire si",
+    "Je souhaite travailler dans l'administration"
+  ],
+  "introduction": "Vous envisagez de travailler dans le secteur public ? L'administration propose une grande variété d'emplois, accessibles sous le statut de fonctionnaire, par concours ou sans concours ou sous le statut de contractuel selon votre nationalité (Français, originaire d'un pays de l'Espace économique européen (EEE), de Suisse, de Monaco ou de la Principauté d'Andorre ou d'un autre pays). Si vous vous trouvez dans certaines situations (en situation de handicap, chômage de longue durée, etc.), des dispositifs particuliers d'accès à la fonction publique vous sont ouverts.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Une multiplicité d'employeurs",
+        "Le secteur de l'emploi public comprend la fonction publique d'État (FPE), la fonction publique territoriale (FPT) et la fonction publique hospitalière (FPH).",
+        "La fonction publique d'État comprend l’ensemble des ministères composés de services centraux (situés à Paris) et de services déconcentrés, dirigés en majorité par les préfets, organisés à l'échelon régional (directions régionales) et à l'échelon départemental (directions départementales).",
+        "La FPE comprend également les agences, les établissements publics nationaux et les services à compétence nationale.",
+        "La fonction publique territoriale regroupe les communes, départements et régions et les établissements publics qui leur sont attachés :",
+        "• Caisses des écoles",
+        "• Centre communaux d'action sociale (CCAS)",
+        "• Offices publics de l'habitat (OPH)",
+        "• Etablissements publics de coopération intercommunale (EPCI) : communautés de communes, communautés d'agglomération, communautés urbaines, métropoles, syndicats intercommunaux",
+        "• Centres départementaux de gestion de la fonction publique territoriale (CDGFPT)",
+        "• Centre national de la fonction publique territoriale (CNFPT).",
+        "La fonction publique hospitalière regroupe l'ensemble des établissements public de santé, sociaux et médico-sociaux :",
+        "• Centres hospitaliers régionaux et universitaires et centres hospitaliers",
+        "• Établissements publics ou à caractère public relevant des services départementaux de l’aide sociale à l’enfance",
+        "• Etablissements publics prenant en charge des mineurs ou adultes handicapés ou présentant des difficultés d’adaptation ou atteints de pathologies chroniques",
+        "• Etablissements publics prenant en charge des personnes ou des familles en difficulté ou en situation de détresse ou des demandeurs d’asile",
+        "• Maisons de retraites publiques dont les personnels ne relèvent pas de la fonction publique territoriale.",
+        "Une multiplicité d'emplois",
+        "Le service public propose plus de 1 000 métiers.",
+        "Le répertoire des métiers, commun aux 3 fonctions publiques (RMFP), décrit l'ensemble des métiers du secteur public.",
+        "Ils sont répartis sur 29 filières professionnelles.",
+        "Les métiers sont classés par corps ou cadre d’emplois en 3 catégories hiérarchiques en fonction du niveau de formation, de responsabilisation et des missions.",
+        "Conditions générales d'accès à la fonction publique",
+        "Quelle que soit la fonction publique dans laquelle vous envisagez de travailler, quel que soit l'emploi que vous visez, quelle que soit votre nationalité et quel que soit le statut sous lequel vous serez embauché (fonctionnaire ou contractuel), vous devez remplir certaines conditions générales : niveau de diplôme selon l'emploi visé, droits civiques (droit de vote, absence de condamnation), service militaire, aptitude physique."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [
+    {
+      "titre": "Consulter les offres d’emploi de la fonction publique",
+      "url": "https://choisirleservicepublic.gouv.fr/",
+      "type": "outilRechercheNG"
+    },
+    {
+      "titre": "Rechercher une offre d'emploi sur France Travail",
+      "url": "https://candidat.francetravail.fr/offres/emploi",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "État, territoriale, hospitalière : une fonction publique plurielle",
+      "url": "https://www.fonction-publique.gouv.fr/devenir-agent-public/choisir-le-service-public/etat-territoriale-hospitaliere-une-fonction-publique-plurielle"
+    },
+    {
+      "titre": "Que sont les agences de l'État ?",
+      "url": "https://www.vie-publique.fr/fiches/20249-que-sont-les-agences-de-letat"
+    },
+    {
+      "titre": "Qu'est-ce qu'un établissement public ?",
+      "url": "https://www.vie-publique.fr/fiches/20246-quest-ce-quun-etablissement-public"
+    },
+    {
+      "titre": "Que sont les services à compétence nationale ?",
+      "url": "https://www.vie-publique.fr/fiches/20245-les-services-competence-nationale"
+    },
+    {
+      "titre": "Répertoire des métiers de la fonction publique",
+      "url": "https://www.fonction-publique.gouv.fr/files/files/actualites/rmfp-v1-complet.pdf"
+    },
+    {
+      "titre": "Fonction publique",
+      "url": "https://www.francetravail.fr/actualites/le-dossier/fonction-publique.html"
+    },
+    {
+      "titre": "Les recrutements Pacte en cours",
+      "url": "https://www.fonction-publique.gouv.fr/devenir-agent-public/les-recrutements-pacte-en-cours"
+    },
+    {
+      "titre": "Les recrutements Pacte en cours",
+      "url": "https://www.fonction-publique.gouv.fr/devenir-agent-public/les-recrutements-pacte-en-cours"
+    },
+    {
+      "titre": "Avis de recrutement dans la fonction publique pour les personnes en situation de handicap",
+      "url": "https://www.fonction-publique.gouv.fr/devenir-agent-public/les-avis-de-recrutement-pour-les-personnes-en-situation-de-handicap"
+    },
+    {
+      "titre": "Le dispositif dérogatoire de solidarité nationale (emplois réservés)",
+      "url": "https://www.defense.gouv.fr/defense-mobilite/candidats/offre-service/travailler-public/dispositif-derogatoire-solidarite-nationale-emplois-reserves"
+    }
+  ],
+  "slug": "je-souhaite-travailler-dans-l-administration",
+  "path": [
+    {
+      "slug": "comment-faire-si",
+      "titre": "Comment faire si"
+    }
+  ]
+}

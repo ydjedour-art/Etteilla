@@ -1,0 +1,105 @@
+{
+  "id": "F36775",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Faut-il une autorisation d'urbanisme pour aménager des combles ?",
+  "theme": "Logement",
+  "description": "Pour aménager les combles, la demande d'autorisation change si l'espace sous la toiture est considéré comme aménageable ou non aménageable.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-12-05",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F36775",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Autorisations d'urbanisme",
+    "Faut-il une autorisation d'urbanisme pour aménager des combles ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "L'autorisation d'urbanisme est différente si les combles de la construction constituent déjà de la surface de plancher ou si des travaux sont nécessaires pour créer ou ajouter de la surface de plancher.",
+        "[Attention] Pour toute modification de l’aspect extérieur de votre bâtiment (par exemple, pose d’une fenêtre de toit), vous devez déposer une déclaration préalable (DP) quelque soit la surface de votre projet.",
+        "Combles avec surface de plancher déjà existante",
+        "Les combles de la construction présentent les caractéristiques suivantes :",
+        "• Hauteur sous plafond de plus d'1,80 m",
+        "• Plancher (ou dalle) résistant à la charge d'une activité humaine (habitation, professionnelle, artisanale, industrielle, commerciale)",
+        "• Charpente qui n'encombre pas l'espace.",
+        "Dans ce cas, il n'y a pas d'autorisation à demander, car la surface de plancher existe déjà.",
+        "Cependant, si le logement se trouve dans le périmètre de protection d'un plan de sauvegarde et de mise en valeur, une DP doit être déposée. Pour savoir si le logement se situe dans ce type de périmètre, il faut contacter l'UDAP.",
+        "Unité départementale de l'architecture et du patrimoine (UDAP)",
+        "Combles avec surface de plancher à créer",
+        "Les combles de la construction présentent les caractéristiques suivantes :",
+        "• Plancher (ou dalle) qui ne résiste pas à la charge d'une activité humaine (habitation, professionnelle, artisanale, industrielle, commerciale)",
+        "• Charpente qui encombre l'espace.",
+        "La surface existante est considérée comme non aménageable et ne constitue pas de surface de plancher. Si ces caractéristiques sont modifiées, il y a transformation de la surface existante en surface de plancher. Dans ce cas, une DP doit être déposée en mairie pour toute création d’une surface de plancher de plus de 5 m².",
+        "Le moyen de constituer le dossier de DP diffère selon que le projet se situe à Paris ou dans une autre commune :",
+        "Cas général",
+        "Le dossier de DP doit être déposé en mairie :",
+        "• Par voie dématérialisée selon les dispositions prises par votre commune (renseignez-vous sur le site de la mairie ou sur place)",
+        "• Par lettre",
+        "• En main propre",
+        "Sur internet",
+        "Le dossier de demande de DP peut être rempli sur internet.",
+        "Il faut se renseigner auprès de la mairie ou sur son site internet pour savoir si elle met à disposition un téléservice pour remplir le dossier.",
+        "Mairie",
+        "Assistance pour votre demande d'autorisation d'urbanisme",
+        "Formulaire",
+        "Vous pouvez remplir votre demande de DP au moyen d'un formulaire :",
+        "Déclaration préalable constructions et travaux non soumis à permis de construire",
+        "Notice - Permis de construire, d'aménager, de démolir, déclaration préalable",
+        "Fiche d’aide pour le calcul de la surface de plancher",
+        "Fiche complémentaire/autres demandeurs pour un même projet",
+        "Annexe aux formulaires de demande d'autorisation d'urbanisme : Références cadastrales complémentaires",
+        "À Paris",
+        "Le dossier doit être déposé au Basu uniquement par voie dématérialisée :",
+        "Bureau accueil et service à l'usager (Basu) de Paris : guichet électronique unique",
+        "Guichet électronique unique pour toutes vos démarches d'urbanisme à Paris : préparer votre dossier, suivre vos demandes et déclarer vos chantiers.",
+        "[À savoir] Votre projet peut avoir une incidence sur vos impôts fonciers. Pour plus de renseignements, vous pouvez contacter votre centre départemental des impôts fonciers. Centre départemental des impôts fonciers (CDIF)"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'urbanisme : article R*421-17",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034355355"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Méthode de calcul de la surface de plancher",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/getAnnexe.do?cerfaAnnexe=2&cerfaFormulaire=16700",
+      "type": "Simulateur"
+    },
+    {
+      "titre": "Assistance pour votre demande d'autorisation d'urbanisme",
+      "url": "https://demarches.service-public.gouv.fr/mademarche/DAUA/demarche",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Déclaration préalable constructions et travaux non soumis à permis de construire",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_16702.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Attestations de prise en compte de la réglementation environnementale RE 2020 et thermique RT 2012",
+      "url": "https://re-batiment2020.cstb.fr/attestations/login",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "Mairie"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "faut-il-une-autorisation-d-urbanisme-pour-amenager-des-combles",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "autorisations-d-urbanisme",
+      "titre": "Autorisations d'urbanisme"
+    }
+  ]
+}

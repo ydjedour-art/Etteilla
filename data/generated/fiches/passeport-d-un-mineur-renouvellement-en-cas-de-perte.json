@@ -1,0 +1,96 @@
+{
+  "id": "F21244",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Passeport d'un mineur : renouvellement en cas de perte",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Pour refaire une passeport perdu d’un mineur, il faut se rendre dans une mairie équipée. la déclaration de perte se fait en même temps que la demande.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-09-29",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F21244",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Passeport",
+    "Passeport d'un mineur : renouvellement en cas de perte"
+  ],
+  "introduction": "Le passeport de votre enfant mineur a été perdu et vous souhaitez le renouveler immédiatement ? La déclaration de perte se fait en même temps que le dépôt du dossier. La procédure varie selon que la demande est faite en France ou à l’étranger et selon l’âge du mineur. Nous vous présentons les étapes de la démarche.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "[À savoir] Si le renouvellement du passeport n’est pas demandé immédiatement, il est nécessaire d’en déclarer la perte auprès des autorités de police ou de gendarmerie. Si la perte a eu lieu à l’étranger, il est nécessaire de s’adresser aux autorités de police locales et à l’ambassade ou au consulat de France."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Décret n°2005-1726 du 30 décembre 2005 relatif au passeport : article 5-1 - Pièces à fournir pour un renouvellement",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000033333841"
+    },
+    {
+      "titre": "Code général des impôts : articles 953 à 955",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006179981/"
+    },
+    {
+      "titre": "Décret n°2005-1726 du 30 décembre 2005 relatif au passeport : article 6-1 - Empreintes et photo",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000033333857"
+    },
+    {
+      "titre": "Arrêté du 5 février 2009 relatif aux photos d'identité produites pour une demande de passeport",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000020246797/"
+    },
+    {
+      "titre": "Circulaire du 19 janvier 2004 relative à l'enregistrement des déclarations de perte des documents d'identité",
+      "url": "https://www.legifrance.gouv.fr/download/pdf/circ?id=29313"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Déclaration de perte de carte d'identité ou de passeport",
+      "url": "https://www.service-public.fr/simulateur/calcul/14011",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Rechercher un rendez-vous pour une demande de passeport",
+      "url": "https://rendezvouspasseport.ants.gouv.fr/",
+      "type": "Outil de recherche"
+    },
+    {
+      "titre": "Pré-demande pour un renouvellement de passeport",
+      "url": "https://passeport.ants.gouv.fr/demarches-en-ligne/effectuer-le-renouvellement-de-votre-passeport",
+      "type": "selNG"
+    },
+    {
+      "titre": "Achat en ligne du timbre fiscal - Passeport",
+      "url": "https://timbres.impots.gouv.fr",
+      "type": "selNG"
+    },
+    {
+      "titre": "Suivre l'état d'avancement d'une demande de passeport",
+      "url": "https://moncompte.ants.gouv.fr/suivi_cni_passeport",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Vérifier si l'état civil de votre ville de naissance est dématérialisé",
+      "url": "https://passeport.ants.gouv.fr/services/villes-adherentes-a-la-dematerialisation"
+    },
+    {
+      "titre": "Consuls honoraires habilités à remettre les cartes d'identité et les passeports",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052295016"
+    }
+  ],
+  "slug": "passeport-d-un-mineur-renouvellement-en-cas-de-perte",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "passeport",
+      "titre": "Passeport"
+    }
+  ]
+}

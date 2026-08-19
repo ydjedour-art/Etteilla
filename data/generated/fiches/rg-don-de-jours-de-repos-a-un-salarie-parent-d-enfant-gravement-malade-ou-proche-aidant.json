@@ -1,0 +1,33 @@
+{
+  "id": "F36523",
+  "type_publication": "Recherche guidée",
+  "titre": "[RG - Don de jours de repos à un salarié parent d'enfant gravement malade ou proche aidant]",
+  "theme": "Travail - Formation",
+  "description": "[RG - Don de jours de repos à un salarié parent d'enfant gravement malade ou proche aidant]",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2022-07-15",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F36523",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Congés dans le secteur privé",
+    "[RG - Don de jours de repos à un salarié parent d'enfant gravement malade ou proche aidant]"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "rg-don-de-jours-de-repos-a-un-salarie-parent-d-enfant-gravement-malade-ou-proche-aidant",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "conges-dans-le-secteur-prive",
+      "titre": "Congés dans le secteur privé"
+    }
+  ]
+}

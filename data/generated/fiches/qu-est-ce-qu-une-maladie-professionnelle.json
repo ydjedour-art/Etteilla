@@ -1,0 +1,89 @@
+{
+  "id": "F31880",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Qu'est-ce qu'une maladie professionnelle ?",
+  "theme": "Travail - Formation",
+  "description": "Une maladie peut être considérée comme d'origine professionnelle lorsqu'elle est contractée en lien avec le travail du salarié.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-05-06",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31880",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Maladie ou accident du travail dans le secteur privé",
+    "Qu'est-ce qu'une maladie professionnelle ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Une maladie est dite professionnelle lorsqu’elle est contractée en lien avec le travail habituel du salarié. Elle peut être reconnue comme telle qu’elle figure ou non au tableau des maladies professionnelles.",
+        "La maladie figure dans le tableau",
+        "Les maladies inscrites dans le tableau des maladies professionnelles sont présumées avoir été contractées dans le cadre du travail du salarié.",
+        "Le tableau précise les éléments suivants :",
+        "• Maladies concernées",
+        "• Délai de prise en charge (et, dans certains cas, délais d'exposition)",
+        "• Liste indicative des principaux travaux pouvant provoquer ces maladies.",
+        "Toutefois, si une ou plusieurs conditions tenant au délai de prise en charge, à la durée d'exposition ou à la liste indicative des travaux ne sont pas remplies, la reconnaissance de la maladie professionnelle reste possible.",
+        "Dans ce cas, la CPAM (ou la MSA si le salarié dépend du régime agricole) peut reconnaître l'origine professionnelle de la maladie si cette dernière est causée directement par son travail habituel.",
+        "Pour obtenir la prise en charge, il est nécessaire de respecter la procédure de reconnaissance spécifique.",
+        "Une fois la reconnaissance effectuée, le salarié peut avoir droit aux indemnités suivantes :",
+        "• En cas d'arrêt de travail, indemnités versées par la Sécurité sociale et indemnité complémentaire versées par l'employeur",
+        "• En cas d'incapacité permanente de travail, indemnisation spécifique, et indemnisation complémentaire en cas de faute importante de l'employeur",
+        "Autres maladies ne figurant pas dans le tableau",
+        "Une maladie non inscrite dans le tableau des maladies professionnelles n'est pas présumée avoir été contractée dans le cadre de votre travail.",
+        "Cependant, si les 2 conditions suivantes sont réunies, une maladie non inscrite dans le tableau peut être reconnue d'origine professionnelle :",
+        "• La maladie est essentiellement et directement causée par votre travail habituel",
+        "• Elle entraîne soit le décès, soit une incapacité permanente d'au moins 25 %.",
+        "Pour obtenir la prise en charge, il est nécessaire de respecter la procédure de reconnaissance spécifique.",
+        "Une fois la reconnaissance effectuée, vous pouvez avoir droit aux indemnités suivantes :",
+        "• En cas d'arrêt de travail, indemnités versées par la Sécurité sociale et indemnité complémentaire versées par l'employeur",
+        "• En cas d'incapacité permanente de travail, indemnisation spécifique et indemnisation complémentaire en cas de faute importante de l'employeur.",
+        "Une fois la reconnaissance effectuée, le salarié peut avoir droit aux indemnités suivantes :",
+        "• En cas d'arrêt de travail, indemnités versées par la Sécurité sociale et indemnité complémentaire versées par l'employeur",
+        "• En cas d'incapacité permanente de travail (IPP), indemnisation spécifique et indemnisation complémentaire en cas de faute importante de l'employeur."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la sécurité sociale : articles L461-1 à L461-8",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006141639/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles R461-1 à R461-10",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006141914/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : annexe II - Tableaux des maladies professionnelles",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006126943/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Caisse primaire d'assurance maladie (CPAM)",
+    "Mutualité sociale agricole (MSA)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Site des maladies professionnelles",
+      "url": "https://maladies-professionnelles.cramif.fr"
+    },
+    {
+      "titre": "Maladies professionnelles provoquées par l'amiante",
+      "url": "https://www.ameli.fr/assure/sante/themes/maladies-amiante/maladies-dues-amiante"
+    }
+  ],
+  "slug": "qu-est-ce-qu-une-maladie-professionnelle",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "maladie-ou-accident-du-travail-dans-le-secteur-prive",
+      "titre": "Maladie ou accident du travail dans le secteur privé"
+    }
+  ]
+}

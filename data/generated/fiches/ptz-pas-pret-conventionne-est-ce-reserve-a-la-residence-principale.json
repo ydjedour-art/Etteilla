@@ -1,0 +1,58 @@
+{
+  "id": "F1269",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "PTZ, PAS, prêt conventionné : est-ce réservé à la résidence principale ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "PTZ, prêt coventionné, PAS servent uniquement à financer une résidence principale, immédiatement ou après votre départ à la retraite.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-08-22",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1269",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Crédit immobilier",
+    "PTZ, PAS, prêt conventionné : est-ce réservé à la résidence principale ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Oui. Le prêt à taux zéro (PTZ), le prêt conventionné (PC) et le prêt d'accession sociale (PAS) sont réservés à l'achat, la construction ou la réalisation de travaux dans votre résidence principale.",
+        "Pour que le logement soit considéré comme votre résidence principale, vous devez l'occuper au moins 8 mois par an.",
+        "Mais il peut tout de même être considéré comme votre résidence principale lorsque vous l’occupez moins de 8 mois par an pour au moins l’un des motifs suivants :",
+        "• Cas de force majeure",
+        "• Raison de santé",
+        "• Obligation liée à votre activité professionnelle qui implique des déplacements réguliers",
+        "• Nécessité absolue de service liée à votre statut ou votre contrat de travail, ou à celui d’au moins 1 des autres personnes devant habiter le logement",
+        "• Eloignement avec votre lieu d’activité ou celui d’au moins 1 des autres personnes devant habiter le logement, durant au maximum 3 ans",
+        "• Logement mis en location dans l'attente de votre prochain départ à la retraite.",
+        "Le logement concerné par le PTZ, le PC ou le PAS doit être votre résidence principale :",
+        "• Soit au plus tard 1 an après son achat ou la fin des travaux",
+        "• Soit à partir de votre départ à la retraite, qui doit intervenir au plus tard 6 ans après son achat ou la fin des travaux. Jusqu'à votre départ à la retraite, vous pouvez mettre le logement en location sous certaines conditions."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la construction et de l'habitation : articles D31-10-6 à D31-10-7",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000023361866/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "ptz-pas-pret-conventionne-est-ce-reserve-a-la-residence-principale",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "credit-immobilier",
+      "titre": "Crédit immobilier"
+    }
+  ]
+}

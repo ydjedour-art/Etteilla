@@ -1,0 +1,63 @@
+{
+  "id": "F1557",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "La tarification sociale de l'eau est-elle toujours en vigueur ?",
+  "theme": "Logement",
+  "description": "Non. L'expérimentation a pris fin le 15 avril 2021. Toutefois, les communes volontaires peuvent proposer une tarification sociale de l'eau.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-01-28",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1557",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Aides au paiement des factures : eau, téléphone, électricité, gaz",
+    "La tarification sociale de l'eau est-elle toujours en vigueur ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Chaque commune décide si elle met en place une tarification sociale de l'eau. Il s'agit d'aider les personnes aux revenus modestes à payer leur facture d'eau. La forme de l'aide peut varier selon la commune ayant mis en place la tarification sociale.",
+        "Pour obtenir ces informations, renseignez-vous directement auprès de votre CCAS. Vous pouvez obtenir ses coordonnées auprès de votre mairie.",
+        "Mairie",
+        "[À savoir] En cas de facture d'eau impayée, le fonds de solidarité pour le logement (FSL) peut vous accorder une aide financière."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Loi n°2013-312 du 15 avril 2013 visant à préparer la transition vers un système énergétique sobre et portant diverses dispositions sur la tarification de l'eau : article 28",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000037993469"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Mairie"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "La politique sociale de l'eau",
+      "url": "https://www.ecologie.gouv.fr/favoriser-lacces-leau-tous-politique-sociale-leau"
+    },
+    {
+      "titre": "Dossier pratique pour mieux comprendre ses factures d'eau",
+      "url": "https://www.inc-conso.fr/content/les-factures-deau"
+    },
+    {
+      "titre": "Le service d'eau",
+      "url": "https://www.inc-conso.fr/content/le-service-de-leau"
+    }
+  ],
+  "slug": "la-tarification-sociale-de-l-eau-est-elle-toujours-en-vigueur",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "aides-au-paiement-des-factures-eau-telephone-electricite-gaz",
+      "titre": "Aides au paiement des factures : eau, téléphone, électricité, gaz"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "F36506",
+  "type_publication": "Recherche guidée",
+  "titre": "[RG - Détention provisoire]",
+  "theme": "Justice",
+  "description": "[RG - Détention provisoire]",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2023-09-22",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F36506",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Affaire pénale",
+    "[RG - Détention provisoire]"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "rg-detention-provisoire",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "affaire-penale",
+      "titre": "Affaire pénale"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "F133",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Licenciement d'un salarié en arrêt maladie dans le secteur privé",
+  "theme": "Travail - Formation, Ressources humaines",
+  "description": "Un salarié ne peut pas être licencié parce qu'il est malade. Cependant, certaines situations spécifiques le permettent.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-10-20",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F133",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Licenciement d'un salarié du secteur privé pour motif personnel",
+    "Licenciement d'un salarié en arrêt maladie dans le secteur privé"
+  ],
+  "introduction": "Un salarié ne peut pas être licencié parce qu'il est malade. C'est une discrimination liée à l'état de santé. Cependant, le licenciement reste possible dans certaines situations spécifiques. Notamment lorsque son absence perturbe le fonctionnement de l'entreprise, en cas de difficultés économiques, pour motif disciplinaire et pour inaptitude. Nous faisons un point sur la réglementation.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code du travail : articles L1226-2 à L1226-4-3",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000006195599/"
+    },
+    {
+      "titre": "Code du travail : articles L1226-10 à L1226-12",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006195603"
+    },
+    {
+      "titre": "Code du travail : article L1132-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042026716"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Trouver sa convention collective",
+      "url": "https://code.travail.gouv.fr/outils/convention-collective?src_url=https://service-public.gouv.fr/particuliers/vosdroits/F78",
+      "type": "outilRechercheNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "licenciement-d-un-salarie-en-arret-maladie-dans-le-secteur-prive",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "licenciement-d-un-salarie-du-secteur-prive-pour-motif-personnel",
+      "titre": "Licenciement d'un salarié du secteur privé pour motif personnel"
+    }
+  ]
+}

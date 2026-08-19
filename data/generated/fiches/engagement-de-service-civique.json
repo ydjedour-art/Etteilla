@@ -1,0 +1,112 @@
+{
+  "id": "F13278",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Engagement de service civique",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Le service civique est un engagement volontaire au service de l'intérêt général en France ou à l'étranger. Le jeune doit être âgé de 16 à 30 ans.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-07-17",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F13278",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Volontariats",
+    "Engagement de service civique"
+  ],
+  "introduction": "Solidarité, culture, environnement..., le service civique vous permet d'exercer une mission d'intérêt général de 6 mois à 1 an dans un organisme public ou privé. Vous devez être âgé de 16 à 30 ans. Vous touchez une indemnité. Nous vous indiquons les informations à connaître selon que vous êtes majeur ou mineur.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code du service national : article L120-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033971509"
+    },
+    {
+      "titre": "Code du service national : articles L120-4 à L120-6",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071335/LEGISCTA000021956526"
+    },
+    {
+      "titre": "Code du service national : articles L120-7 à L120-17",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071335/LEGISCTA000021956534"
+    },
+    {
+      "titre": "Code du service national : articles L120-18 à L120-24",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071335/LEGISCTA000021956558"
+    },
+    {
+      "titre": "Code du service national : articles L120-25 à L120-29",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071335/LEGISCTA000021956574"
+    },
+    {
+      "titre": "Code du service national : articles R121-10 à D121-21",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071335/LEGISCTA000022207262"
+    },
+    {
+      "titre": "Code du service national : articles R121-22 à R121-32",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071335/LEGISCTA000022207288"
+    },
+    {
+      "titre": "Code de la sécurité sociale : article D412-98-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000006185580"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles R321-2 à R321-6",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000006156607/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles L321-1 à L321-3",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000006156083/"
+    },
+    {
+      "titre": "Code du service national : articles R121-47 à R121-50",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071335/LEGISCTA000022207362"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : article L421-35",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042771646/"
+    },
+    {
+      "titre": "Arrêté du 13 septembre 2010 relatif aux critères de versement de la majoration de l'indemnité d'engagement de service civique",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000022839493/"
+    },
+    {
+      "titre": "Réponse ministérielle du 19 novembre 2019 relative à la garantie jeunes et au service civique",
+      "url": "http://questions.assemblee-nationale.fr/q15/15-21784QE.htm"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Candidater en ligne à une mission de service civique",
+      "url": "https://www.service-civique.gouv.fr/",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "Référents du service civique",
+    "Information jeunesse"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Trouver ma mission de Service Civique",
+      "url": "https://api.api-engagement.beta.gouv.fr/r/campaign/6675884b66e44f4f2fdb0004"
+    },
+    {
+      "titre": "Je suis volontaire ou en service civique : quels impacts sur mes droits à l’assurance chômage ?",
+      "url": "https://www.francetravail.fr/candidat/mes-droits-aux-aides-et-allocati/a-chaque-situation-son-allocatio/quelle-est-ma-situation-personne/titre-de-l-article-temporaire.html?at_medium=CMP&at_campaign=dircom&at_cmp_indicateur1=partage_contenu_contribue&at_cmp_indicateur2=lien_court"
+    },
+    {
+      "titre": "Service civique à l'étranger : votre prise en charge maladie",
+      "url": "https://www.ameli.fr/hauts-de-seine/assure/droits-demarches/europe-international/protection-sociale-etranger/service-civique-l-etranger-votre-prise-en-charge"
+    }
+  ],
+  "slug": "engagement-de-service-civique",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "volontariats",
+      "titre": "Volontariats"
+    }
+  ]
+}

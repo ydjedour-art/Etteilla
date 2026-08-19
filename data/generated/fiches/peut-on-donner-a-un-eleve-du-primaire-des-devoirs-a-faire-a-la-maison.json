@@ -1,0 +1,51 @@
+{
+  "id": "F21842",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Peut-on donner à un élève du primaire des devoirs à faire à la maison ?",
+  "theme": "Famille - Scolarité",
+  "description": "Un enseignant peut donner un travail oral ou des leçons à apprendre, mais pas de travaux écrits.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-03-25",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F21842",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "École primaire (maternelle et élémentaire)",
+    "Peut-on donner à un élève du primaire des devoirs à faire à la maison ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Oui.",
+        "Toutefois, un enseignant ne peut pas donner à ses élèves un travail écrit à faire en dehors de la classe. Les devoirs à faire à la maison peuvent être un travail oral (lecture ou recherche par exemple) ou des leçons à apprendre."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Loi n° 2013-595 du 8 juillet 2013 d'orientation et de programmation pour la refondation de l'école de la République",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000027677984/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Les parents à l'école",
+      "url": "https://www.education.gouv.fr/les-parents-l-ecole-9899"
+    }
+  ],
+  "slug": "peut-on-donner-a-un-eleve-du-primaire-des-devoirs-a-faire-a-la-maison",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "ecole-primaire-maternelle-et-elementaire",
+      "titre": "École primaire (maternelle et élémentaire)"
+    }
+  ]
+}

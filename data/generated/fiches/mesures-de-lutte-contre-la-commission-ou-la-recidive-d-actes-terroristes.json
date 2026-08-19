@@ -1,0 +1,49 @@
+{
+  "id": "F38982",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Mesures de lutte contre la commission ou la récidive d’actes terroristes",
+  "theme": "Justice",
+  "description": "La mesure de prévention de la récidive terroriste vise à surveiller les auteurs d'actes terroristes pour éviter la récidive de telles infractions.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-08-07",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F38982",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Condamnations et peines",
+    "Mesures de lutte contre la commission ou la récidive d’actes terroristes"
+  ],
+  "introduction": "Quelles mesures permettent de lutter contre la commission ou la récidive d’un acte terroriste ? Deux mesures judiciaires de lutte anti-terrorisme permettent la prise en charge d’un condamné après sa sortie de prison. La 1ère s’applique aux auteurs d’actes terroristes dont la situation laisse penser qu’ils vont récidiver. La 2nde concerne les condamnés à une peine d’au moins 10 ans de prison, qui semblent s’être radicalisés et qui, de ce fait, peuvent commettre un acte terroriste. Nous vous les présentons.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de procédure pénale : articles 706-25-16 à 706-25-22",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000043881664/#LEGISCTA000043881681"
+    },
+    {
+      "titre": "Code de procédure pénale : article R50-70 à R50-85",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000045353872/#LEGISCTA000045353872"
+    },
+    {
+      "titre": "Code de procédure pénale : article 706-25-26",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000054501659/2029-01-01/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Avocat",
+    "Service pénitentiaire d'insertion et de probation (Spip)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "mesures-de-lutte-contre-la-commission-ou-la-recidive-d-actes-terroristes",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "condamnations-et-peines",
+      "titre": "Condamnations et peines"
+    }
+  ]
+}

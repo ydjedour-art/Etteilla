@@ -1,0 +1,83 @@
+{
+  "id": "F1480",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Carte grise : hériter d'un véhicule immatriculé en France",
+  "theme": "Transports - Mobilité",
+  "description": "Vous héritez d'un véhicule immatriculé en France après le décès d'un proche, vous devez l'immatriculer pour l'utiliser sauf si vous voulez le vendre.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-01-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1480",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Carte grise (certificat d'immatriculation)",
+    "Carte grise : hériter d'un véhicule immatriculé en France"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de la route : articles R322-1 à R322-14",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074228/LEGISCTA000006177098"
+    },
+    {
+      "titre": "Arrêté du 9 février 2009 relatif aux démarches d'immatriculation des véhicules",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000020237165"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Calculer le coût du certificat d'immatriculation",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/cout-certificat-immatriculation",
+      "type": "Simulateur"
+    },
+    {
+      "titre": "Attestation sur l'honneur",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/AttestationHonneur",
+      "type": "Modèle de document"
+    },
+    {
+      "titre": "Demande de certificat d'immatriculation d'un véhicule",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/13750",
+      "type": "formulaireNG"
+    },
+    {
+      "titre": "Certificat de cession d'un véhicule d'occasion",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/15776",
+      "type": "formulaireNG"
+    },
+    {
+      "titre": "Suivre la demande de certificat d’immatriculation",
+      "url": "https://moncompte.ants.gouv.fr/connexion",
+      "type": "selNG"
+    },
+    {
+      "titre": "Déclaration de perte ou vol d’un certificat d’immatriculation (appelé auparavant carte grise)",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/13753",
+      "type": "formulaireNG"
+    },
+    {
+      "titre": "Demander une carte grise d'un véhicule faisant l'objet d'un héritage",
+      "url": "https://immatriculation.ants.gouv.fr/demarches-en-ligne/signaler-un-changement-sur-votre-situation-personnelle",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Points numériques",
+      "url": "https://immatriculation.ants.gouv.fr/services-et-formulaires/carte-des-points-numeriques"
+    }
+  ],
+  "slug": "carte-grise-heriter-d-un-vehicule-immatricule-en-france",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "carte-grise-certificat-d-immatriculation",
+      "titre": "Carte grise (certificat d'immatriculation)"
+    }
+  ]
+}

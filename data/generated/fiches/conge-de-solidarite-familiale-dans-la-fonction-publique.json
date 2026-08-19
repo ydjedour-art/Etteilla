@@ -1,0 +1,82 @@
+{
+  "id": "F17949",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Congé de solidarité familiale dans la fonction publique",
+  "theme": "Travail - Formation",
+  "description": "Le congé de solidarité familiale permet de réduire ou de cesser son activité professionnelle pour accompagner un proche en fin de vie.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F17949",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Congés dans la fonction publique",
+    "Congé de solidarité familiale dans la fonction publique"
+  ],
+  "introduction": "Le congé de solidarité familiale vous permet de réduire ou de cesser votre activité professionnelle pour accompagner un proche en fin de vie. Nous vous détaillons les conditions d'attribution de ce congé selon votre fonction publique d’appartenance (État - FPE, territoriale - FPT, hospitalière - FPH) et selon que vous êtes fonctionnaire ou contractuel.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code général de la fonction publique : articles L633-1 à L633-4",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044423665/"
+    },
+    {
+      "titre": "Code général de la fonction publique : article R327-31",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051962345/"
+    },
+    {
+      "titre": "Décret n°86-83 du 17 janvier 1986 relatif aux agents contractuels de la FPE",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000699956/"
+    },
+    {
+      "titre": "Décret n°88-145 du 15 février 1988 relatif aux agents non titulaires de la FPT",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000871608"
+    },
+    {
+      "titre": "Décret n°91-155 du 6 février 1991 relatif aux agents contractuels de la FPH",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000343794"
+    },
+    {
+      "titre": "Décret n°2013-67 du 18 janvier 2013 relatif au congé de solidarité familiale et à l'allocation d'accompagnement des personnes en fin de vie pour les fonctionnaires relevant des articles L3 à L5 du code général de la fonction publique",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000026955168/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles L168-1 à L168-7",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000021925624"
+    },
+    {
+      "titre": "Code de la sécurité sociale : article L161-9-3",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033022447"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demander un congé de solidarité familiale dans la fonction publique",
+      "url": "",
+      "type": "lettreTypeNG"
+    },
+    {
+      "titre": "Demande d'allocation journalière d'accompagnement à domicile d'une personne en fin de vie",
+      "url": "http://www.ameli.fr/fileadmin/user_upload/formulaires/S3708.pdf",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Boîte à outils Parentalité au travail",
+      "url": "https://kiosque.bercy.gouv.fr/alyas/userfiles/files/Boite-a-outil-parentalite.pdf"
+    }
+  ],
+  "slug": "conge-de-solidarite-familiale-dans-la-fonction-publique",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "conges-dans-la-fonction-publique",
+      "titre": "Congés dans la fonction publique"
+    }
+  ]
+}

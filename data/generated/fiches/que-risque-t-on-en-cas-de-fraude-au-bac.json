@@ -1,0 +1,53 @@
+{
+  "id": "F22211",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Que risque-t-on en cas de fraude au bac ?",
+  "theme": "Famille - Scolarité",
+  "description": "Tricher au bac est considéré comme une fraude et peut entraîner des sanctions disciplinaires ainsi que des sanctions pénales.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-03-03",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F22211",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Diplômes",
+    "Que risque-t-on en cas de fraude au bac ?"
+  ],
+  "introduction": "Si vous trichez pendant une évaluation ponctuelle (contrôle continu) ou une épreuve terminale du bac, vous commettez une fraude. Vous risquez des sanctions disciplinaires et pénales.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de l'éducation : articles D334-25 à R334-35",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071191/LEGISCTA000025818132/#LEGISCTA000025821826"
+    },
+    {
+      "titre": "Loi du 23 décembre 1901 réprimant les fraudes dans les examens et concours publics",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000314853"
+    },
+    {
+      "titre": "Circulaire n°2011-072 du 3 mai 2011 relative aux conditions d'accès et de sortie des salles d'examen",
+      "url": "http://www.education.gouv.fr/cid56293/mene1109846c.html"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Rectorat"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Baccalauréat : fraude à l'examen",
+      "url": "https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-fraude-l-examen-341483"
+    }
+  ],
+  "slug": "que-risque-t-on-en-cas-de-fraude-au-bac",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "diplomes",
+      "titre": "Diplômes"
+    }
+  ]
+}

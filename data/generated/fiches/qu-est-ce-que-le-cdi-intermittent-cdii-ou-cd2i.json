@@ -1,0 +1,102 @@
+{
+  "id": "F2247",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Qu'est-ce que le CDI intermittent (CDII ou CD2I) ?",
+  "theme": "Travail - Formation",
+  "description": "Le contrat de travail intermittent permet au salarié d'alterner des périodes travaillées et des périodes non travaillées.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2024-03-29",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2247",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Contrats de travail dans le secteur privé",
+    "Qu'est-ce que le CDI intermittent (CDII ou CD2I) ?"
+  ],
+  "introduction": "Le contrat de travail intermittent (CDII ou CD2I) permet au salarié d'alterner des périodes travaillées et des périodes non travaillées. Nous vous présentons la réglementation à connaître.",
+  "chapitres": [
+    {
+      "titre": "Pour quel type d'emplois un contrat de travail intermittent peut-il être conclu ?",
+      "contenu": [
+        "Le contrat de travail intermittent peut être conclu dans des secteurs connaissant d'importantes variations d'activité sur l'année.",
+        "Le contrat peut être conclu pour un emploi répondant à des besoins permanents, mais qui comportent une alternance de périodes travaillées et non travaillées. Ces activités sont notamment liées aux secteurs du spectacle et du tourisme.",
+        "Plus généralement, le contrat de travail intermittent peut être conclu dans les secteurs dont la nature de l'activité ne permet pas de fixer avec précision les périodes de travail et la répartition des heures de travail.",
+        "La convention collective ou l'accord d'entreprise ou d'établissement ou un accord de branche étendu doit désigner de façon précise les emplois permanents qui peuvent être pourvus par des contrats de travail intermittent dans l'entreprise.",
+        "[À savoir] Dans les entreprises adaptées, en l'absence de convention collective ou d'accord d'entreprise, un contrat de travail intermittent peut tout de même être conclu avec un salarié en situation de handicap et bénéficiant de l'obligation d'emploi."
+      ]
+    },
+    {
+      "titre": "Quelles mentions doivent figurer dans le contrat de travail intermittent ?",
+      "contenu": [
+        "Le contrat intermittent est obligatoirement un contrat à durée indéterminée (CDI).",
+        "Le contrat de travail intermittent doit être écrit.",
+        "Les mentions prévues au contrat varient en fonction du secteur d'activité dans lequel travaille le salarié :",
+        "Cas général",
+        "Le contrat intermittent doit mentionner tous les éléments suivants :",
+        "• Qualification du salarié",
+        "• Rémunération",
+        "• Durée annuelle minimale du travail du salarié",
+        "• Périodes de travail",
+        "• Répartition des heures de travail à l'intérieur de ces périodes",
+        "Activités liées au spectacle",
+        "Le contrat intermittent doit mentionner tous les éléments suivants :",
+        "• Qualification du salarié",
+        "• Rémunération",
+        "• Durée annuelle minimale du travail du salarié",
+        "La convention collective ou l'accord d'entreprise ou d'établissement ou un accord de branche étendu doit préciser les périodes et horaires de travail.",
+        "La convention ou l'accord précise également les conditions permettant au salarié de refuser les dates et les horaires de travail qui lui sont proposés."
+      ]
+    },
+    {
+      "titre": "Quelle est la durée de travail d'un salarié en contrat de travail intermittent ?",
+      "contenu": [
+        "La durée annuelle de travail est précisée dans le contrat de travail.",
+        "Cependant, cette durée peut être dépassée dans la limite du tiers de cette durée (ou plus, avec l'accord du salarié).",
+        "Le salarié peut également bénéficier des avantages liés aux heures supplémentaires lorsqu'il dépasse la durée légale du temps de travail pour chaque semaine travaillée."
+      ]
+    },
+    {
+      "titre": "Quelle est la rémunération d'un salarié en contrat de travail intermittent ?",
+      "contenu": [
+        "Le montant de la rémunération est calculé chaque mois en fonction des heures de travail effectuées.",
+        "Toutefois, un lissage mensuel de la rémunération peut être envisagé si la convention collective ou l'accord d'entreprise le prévoit.",
+        "Le salarié perçoit alors un salaire mensuel d'un montant régulier, indépendamment de l'horaire réellement effectué dans le mois."
+      ]
+    },
+    {
+      "titre": "Quels sont les droits du salarié en contrat de travail intermittent ?",
+      "contenu": [
+        "Le salarié en contrat de travail intermittent bénéficie des mêmes droits reconnus aux salariés travaillant à temps plein (congés payés, formation professionnelle, conditions de travail, etc.), sauf dispositions spécifiques prévues par la convention collective ou l'accord d'entreprise.",
+        "Les périodes non travaillées sont prises en compte en totalité pour calculer les droits liés à l'ancienneté du salarié."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code du travail : articles L3123-33 à L3123-37",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033005737"
+    },
+    {
+      "titre": "Code du travail : article L3123-38",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033005787"
+    },
+    {
+      "titre": "Code du travail : article D3123-4",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033509857"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "qu-est-ce-que-le-cdi-intermittent-cdii-ou-cd2i",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "contrats-de-travail-dans-le-secteur-prive",
+      "titre": "Contrats de travail dans le secteur privé"
+    }
+  ]
+}

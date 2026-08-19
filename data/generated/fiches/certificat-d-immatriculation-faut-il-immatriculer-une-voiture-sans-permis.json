@@ -1,0 +1,67 @@
+{
+  "id": "F32558",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Certificat d’immatriculation : faut-il immatriculer une voiture sans permis ?",
+  "theme": "Transports - Mobilité",
+  "description": "Oui, vous devez immatriculer une voiture sans permis pour circuler sur la route.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-04-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F32558",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Carte grise (certificat d'immatriculation)",
+    "Certificat d’immatriculation : faut-il immatriculer une voiture sans permis ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Oui, vous devez immatriculer une voiture sans permis pour circuler avec sur la route.",
+        "Pour obtenir le certificat d’immatriculation (appelé auparavant carte grise) , vous devez effectuer les mêmes démarches que pour une voiture classique, qu'il s'agisse d'un véhicule neuf ou d'un véhicule d'occasion.",
+        "Cependant, selon votre année de naissance, vous devrez ou pas justifier avoir le brevet de sécurité routière (catégorie AM) :",
+        "Vous êtes né au plus tard le 31 décembre 1987",
+        "Vous n'avez pas besoin de titre de conduite pour conduire un cyclomoteur ou un quadricycle léger à moteur.",
+        "Vous êtes né en 1988 ou après",
+        "Le permis AM (apprenti motard) catégorie du BSR (brevet de sécurité routière) vous sera demandé.",
+        "[À savoir] Vous n'avez pas besoin du BSR (catégorie AM) si vous avez déjà une autre catégorie de permis (par exemple le permis B) ou un titre européen équivalent.",
+        "Le champ J1 du certificat d’immatriculation indiquera QM pour quadricycle à moteur.",
+        "Le véhicule devra avoir obligatoirement une plaque d'immatriculation à l'arrière. L'installation d'une plaque à l'avant est possible, mais ce n'est pas obligatoire.",
+        "Vous pouvez calculer le coût de votre certificat d'immatriculation en utilisant un simulateur :",
+        "Calculer le coût du certificat d'immatriculation",
+        "[À savoir] Les voitures sans permis sont soumises à contrôle technique."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la route : articles R317-8 à R317-14-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074228/LEGISCTA000006177090/"
+    },
+    {
+      "titre": "Arrêté du 9 février 2009 fixant les caractéristiques et le mode de pose des plaques d'immatriculation des véhicules",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000020237128"
+    },
+    {
+      "titre": "Arrêté du 9 février 2009 relatif aux démarches d'immatriculation des véhicules",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000020237165"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "France Titres - Carte grise particuliers"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "certificat-d-immatriculation-faut-il-immatriculer-une-voiture-sans-permis",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "carte-grise-certificat-d-immatriculation",
+      "titre": "Carte grise (certificat d'immatriculation)"
+    }
+  ]
+}

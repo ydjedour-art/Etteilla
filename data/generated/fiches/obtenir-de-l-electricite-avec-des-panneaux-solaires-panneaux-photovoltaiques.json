@@ -1,0 +1,111 @@
+{
+  "id": "F31487",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Obtenir de l'électricité avec des panneaux solaires (panneaux photovoltaïques)",
+  "theme": "Logement",
+  "description": "Un particulier peut installer des panneaux solaires pour produire de l’électricité grâce au soleil, la consommer entièrement ou vendre le surplus.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-10-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31487",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Vie pratique en logement individuel (maison)",
+    "Obtenir de l'électricité avec des panneaux solaires (panneaux photovoltaïques)"
+  ],
+  "introduction": "Vous souhaitez installer des panneaux solaires (panneaux photovoltaïques) sur votre toit pour produire de l'électricité grâce au soleil ? L'électricité obtenue peut être consommée en totalité pour votre usage personnel, ou partiellement revendue si vous avez un surplus. Les obligations techniques et administratives à respecter dépendront notamment de ce choix. Nous faisons le point sur la réglementation.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "[Attention] Les panneaux solaires ne doivent pas être confondus avec les installations solaires thermiques qui transforment la lumière en chaleur pour chauffer son logement.",
+        "Un conseiller peut vous aider à définir votre projet et en évaluer les coûts et les avantages.",
+        "Conseillers spécialisés en travaux de rénovation de l'habitat (France Rénov')",
+        "Permet de se faire accompagner gratuitement dans ses travaux de rénovation par des conseillers de France Rénov'.",
+        "Par téléphone",
+        "0 808 800 700",
+        "Ouvert du lundi au vendredi de 9h à 18h. Vous devez avoir votre dernier avis d'imposition.",
+        "Service gratuit + coût d'un appel"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'énergie : articles L315-1 à L315-8",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032939883"
+    },
+    {
+      "titre": "Code de l'énergie : articles L314-1 à L314-13",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000023986398"
+    },
+    {
+      "titre": "Code de l'énergie : articles D314-15 à R314-22",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000023983208/LEGISCTA000031748383/#LEGISCTA000032596465"
+    },
+    {
+      "titre": "Bofip-impôts n°BOI-BIC-CHAMP-80-30-20130325",
+      "url": "https://bofip.impots.gouv.fr/bofip/8123-PGP.html/identifiant=BOI-BIC-CHAMP-80-30-20130325"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Évaluer son devis pour l’installation de panneaux solaires (photovoltaïques)",
+      "url": "https://evaluer-mon-devis.photovoltaique.info/",
+      "type": "Simulateur"
+    },
+    {
+      "titre": "Enedis : faire une demande de raccordement au réseau public d'électricité",
+      "url": "https://connect-racco.enedis.fr/prac-internet/login/",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Convention d'autoconsommation sans injection pour une installation de production d'électricité",
+      "url": "https://www.enedis.fr/sites/default/files/documents/pdf/Enedis-FOR-RAC_43E.pdf",
+      "type": "Modèle de document"
+    }
+  ],
+  "contacts": [
+    "Conseillers spécialisés en travaux de rénovation de l'habitat (France Rénov')"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Informations sur le photovoltaïque",
+      "url": "http://www.photovoltaique.info/"
+    },
+    {
+      "titre": "Préparer son projet d’installation de panneaux photovoltaïques",
+      "url": "https://www.photovoltaique.info/fr/preparer-un-projet/qui-suis-je/proprietaire-particulier/"
+    },
+    {
+      "titre": "Panneaux solaires : connaître les coûts et évaluer la rentabilité",
+      "url": "https://www.photovoltaique.info/fr/preparer-un-projet/quelles-demarches-realiser/choisir-son-modele-economique/"
+    },
+    {
+      "titre": "Tarif d'acheminement (Turpe) des producteurs d'électricité",
+      "url": "https://www.enedis.fr/sites/default/files/documents/pdf/enedis-essentiel-turpe6.pdf"
+    },
+    {
+      "titre": "Panneaux solaires : les primes",
+      "url": "https://www.photovoltaique.info/fr/tarifs-dachat-et-autoconsommation/tarifs-dachat/arrete-tarifaire-en-vigueur/#tab-content"
+    },
+    {
+      "titre": "Panneaux solaires : choisir son installateur",
+      "url": "http://www.photovoltaique.info/Choisir-son-installateur.html"
+    },
+    {
+      "titre": "Raccorder votre équipement de production d'électricité",
+      "url": "http://www.enedis.fr/produire-de-lelectricite"
+    }
+  ],
+  "slug": "obtenir-de-l-electricite-avec-des-panneaux-solaires-panneaux-photovoltaiques",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "vie-pratique-en-logement-individuel-maison",
+      "titre": "Vie pratique en logement individuel (maison)"
+    }
+  ]
+}

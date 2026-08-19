@@ -1,0 +1,89 @@
+{
+  "id": "F31864",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quelles sont les différences entre les aides personnelles au logement (APL, ALF, ALS) ?",
+  "theme": "Logement",
+  "description": "Il existe 3 types d'aides personnelles au logement (APL, ALF, ALS). Elles visent à réduire le montant du loyer ou de la redevance en logement-foyer.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-01-30",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31864",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Aides personnelles au logement",
+    "Quelles sont les différences entre les aides personnelles au logement (APL, ALF, ALS) ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Il existe 3 types d'aides personnelles au logement :",
+        "• Aide personnalisée au logement (APL)",
+        "• Allocation de logement familiale (ALF)",
+        "• Allocation de logement sociale (ALS).",
+        "Ces aides visent à diminuer le montant de votre loyer (ou de votre redevance si vous résidez en établissement comme par exemple un logement-foyer, ou une résidence étudiante).",
+        "[Attention] Elles ne sont pas cumulables entre elles.",
+        "Ces aides se différencient par leurs critères d'attribution, et non par leur mode de calcul.",
+        "Leur montant dépend notamment des ressources de votre foyer.",
+        "Pour savoir si vous pouvez bénéficier d’une aide personnelle au logement, vous pouvez utiliser un simulateur. Il vous indiquera également le montant auquel vous pouvez prétendre.",
+        "Le simulateur à utiliser dépend de votre régime : régime général (caisse d’allocations familiales - Caf) ou régime agricole (mutualité sociale agricole - MSA).",
+        "Caf",
+        "Calculer son droit à une aide personnelle au logement (APL, ALF, ALS) - Caf",
+        "MSA",
+        "Calculer son droit à une aide personnelle au logement (APL, ALF, ALS) - MSA",
+        "APL",
+        "L'APL est attribuée en fonction de votre logement (quelle que soit votre situation familiale : célibataire, marié, avec ou sans personne à charge).",
+        "Il doit s’agir d'un logement conventionné que vous louez (la plupart des logements HLM sont conventionnés).",
+        "ALF",
+        "L'ALF est attribuée en fonction de votre situation familiale lorsque vous êtes dans l’un des cas suivants :",
+        "• Vous bénéficiez de prestations familiales ou de l'allocation d'éducation de l'enfant handicapé (AEEH)",
+        "• Vous avez 1 enfant à charge âgé d’au maximum 21 ans et vous ne pouvez pas bénéficier des prestations familiales ou de l'AEEH",
+        "• Vous êtes mariés et n’avez aucun enfant à charge (vous pouvez bénéficier de l'aide durant une période de 5 ans à partir de la date de votre mariage)",
+        "• Vous attendez un enfant et vivez seule, sans personne à charge, à partir du 1er jour du mois civil suivant le 4e mois de grossesse et jusqu'au mois civil de la naissance de votre enfant",
+        "• Vous assumez la charge d’un ascendant de plus de 65 ans (ou 60 ans, s'il est inapte au travail, ancien déporté ou ancien combattant) et n’avez pas de ressources supérieures aux plafond de ressources de l'allocation de solidarité aux personnes âgées (Aspa). Assumer la charge signifie subvenir à ses besoins essentiels (logement, nourriture, soins, ...).",
+        "• Vous assumez la charge d’un ascendant, descendant ou collatéral au 2e ou au 3e degré atteint d'une infirmité entraînant une incapacité permanente d'au moins 80 % ou qui est, compte tenu de son handicap, reconnu par la commission des droits et de l’autonomie des personnes handicapées (CDAPH) comme étant dans l'impossibilité d'exercer un emploi. Assumer la charge signifie subvenir à ses besoins essentiels (logement, nourriture, soins, ...).",
+        "ALS",
+        "L'ALS est attribuée lorsque vous ne remplissez pas les conditions pour bénéficier de l'APL ou de l'ALF."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la construction et de l'habitation : articles L841-1 à L841-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000038814580/#LEGISCTA000038814866"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Calculer son droit à une aide personnelle au logement (APL, ALF, ALS) - Caf",
+      "url": "https://wwwd.caf.fr/wps/portal/caffr/aidesetdemarches/mesdemarches/faireunesimulation/lelogement#/preparation",
+      "type": "simulateurNG"
+    }
+  ],
+  "contacts": [
+    "Caisse d'allocations familiales (Caf)",
+    "Mutualité sociale agricole (MSA)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Éléments de calcul des aides personnelles au logement",
+      "url": "https://www.ecologie.gouv.fr/sites/default/files/aides_personnelles_au_logement_elements_de_calcul_edition_2022.pdf"
+    },
+    {
+      "titre": "Aide au logement à domicile - Version \"facile à lire et à comprendre\"",
+      "url": "https://www.pour-les-personnes-agees.gouv.fr/annuaires-et-services/facile-a-lire-et-a-comprendre/tout-savoir-sur-laide-au-logement-a-domicile"
+    }
+  ],
+  "slug": "quelles-sont-les-differences-entre-les-aides-personnelles-au-logement-apl-alf-als",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "aides-personnelles-au-logement",
+      "titre": "Aides personnelles au logement"
+    }
+  ]
+}

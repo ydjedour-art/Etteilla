@@ -1,0 +1,94 @@
+{
+  "id": "F33076",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Usufruit, nue-propriété, pleine propriété : quelles différences ?",
+  "theme": "Famille - Scolarité",
+  "description": "La différence tient aux droits plus ou moins étendus que la personne détient sur un bien. La pleine propriété est composée de l'usufruit et de la nue-propriété.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2024-12-06",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33076",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Règlement d'une succession",
+    "Usufruit, nue-propriété, pleine propriété : quelles différences ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Usufruit, nue-propriété, pleine propriété : quelles différences ?",
+        "Service Public (DILA)",
+        "« Votre père avait la pleine propriété de la maison familiale. Aujourd'hui, vous en héritez de la nue-propriété et votre mère de l'usufruit. »",
+        "C'est le notaire qui l'a dit... mais vous n'avez rien compris ? Pas de panique, on vous explique.",
+        "Cette phrase signifie que vos droits sur la maison sont différents.",
+        "« Vous avez la nue-propriété. »",
+        "Cela veut dire que vous possédez les murs de la maison. Vous pouvez donc décider de la vendre (avec l'accord de l'usufruitier, votre mère).",
+        "« Votre mère a l'usufruit. »",
+        "Cela veut dire qu'elle peut utiliser la maison, c'est-à-dire y habiter, la louer et en percevoir les loyers.",
+        "Et la pleine propriété, qu'est-ce que c'est ?",
+        "C'est simplement le cumul de l'usufruit et de la nue propriété.",
+        "Alors, maintenant, si on vous redit :",
+        "« Votre père avait la pleine propriété de la maison familiale. Aujourd'hui, vous en héritez de la nue-propriété et votre mère de l'usufruit. »",
+        "Vous avez tout compris ?",
+        "La différence tient aux droits plus ou moins importants sur un bien. La pleine propriété est composée de l'usufruit et de la nue-propriété.",
+        "Différences entre usufruit, nue-propriété, pleine propriété",
+        "Droits sur le bien",
+        "Titulaires",
+        "Propriétaire (pleine propriété)",
+        "Nu-propriétaire",
+        "Usufruitier",
+        "Disposer du bien (le vendre par exemple)",
+        "Oui",
+        "Oui (sur sa nue-propriété)",
+        "Non",
+        "Utiliser un bien (l'occuper par exemple)",
+        "Oui",
+        "Non",
+        "Oui",
+        "Percevoir des revenus issus de ce bien (des loyers par exemple)",
+        "Oui",
+        "Non",
+        "Oui",
+        "Les attributs du droit de propriété (occuper un bien, le vendre, en percevoir les revenus) sont répartis entre l'usufruitier et le nu-propriétaire. On parle dans ce cas de démembrement du droit de propriété.",
+        "Les obligations de l'usufruitier et du nu-propriétaire sur le bien sont donc différentes. L'usufruitier doit notamment faire toutes les réparations d’entretien. Les grosses réparations sont à la charge du nu-propriétaire sauf si elles résultent du manque d'entretien de l'usufruitier (pour un bien immobilier, les grosses réparations ne concernent que le gros-œuvre).",
+        "Pour connaître la répartition de la valeur d'un bien entre l'usufruitier et le nu-propriétaire en cas de démembrement du droit de propriété, vous pouvez utiliser un simulateur. Il vous permet notamment de calculer le montant sur lequel seront appliqués les droits d'enregistrement en cas de donation, succession, vente, etc.",
+        "Connaître les valeurs fiscales d’un usufruit et d’une nue-propriété"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : articles 552 à 564",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006150114"
+    },
+    {
+      "titre": "Code civil : articles 582 à 599",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006150117"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Connaître les valeurs fiscales d’un usufruit et d’une nue-propriété",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/bareme-fiscal-usufruit",
+      "type": "simulateurNG"
+    }
+  ],
+  "contacts": [
+    "Informations notariales",
+    "Chambre départementale des notaires"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "usufruit-nue-propriete-pleine-propriete-quelles-differences",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "reglement-d-une-succession",
+      "titre": "Règlement d'une succession"
+    }
+  ]
+}

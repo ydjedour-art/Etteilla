@@ -1,0 +1,68 @@
+{
+  "id": "F38328",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Complémentaire santé et prévoyance dans la fonction publique hospitalière",
+  "theme": "Travail - Formation",
+  "description": "Les agents hospitaliers pourront bénéficier, à partir du 1er janvier 2027, d'une participation de leur établissement employeur à leur complémentaire santé.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-03-27",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F38328",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Maladie ou accident du travail dans la fonction publique",
+    "Complémentaire santé et prévoyance dans la fonction publique hospitalière"
+  ],
+  "introduction": "Si vous travaillez dans la fonction publique hospitalière, vous pourrez bénéficier, à partir du 1er janvier 2027, d'une participation de votre établissement employeur à vos cotisations à une complémentaire santé et prévoyance. Nous vous présentons les informations connues à ce jour sur cette réglementation.",
+  "chapitres": [
+    {
+      "titre": "Complémentaire santé",
+      "contenu": [
+        "Une complémentaire santé, communément appelé mutuelle, a pour but de couvrir, en tout ou partie, les frais occasionnés par une maladie, une maternité ou un accident restant à votre charge après remboursement par l’Assurance maladie de la Sécurité sociale ou les frais non remboursés par l’Assurance maladie.",
+        "À partir du 1er janvier 2027, vous bénéficierez d'une participation de votre établissement employeur à vos cotisations à une complémentaire santé (mutuelle).",
+        "Vous pourrez bénéficier de cette prise en charge partielle que vous soyez fonctionnaire ou contractuel.",
+        "Le montant de la participation de votre établissement employeur ne pourra pas être inférieur à 50 % de la cotisation permettant de bénéficier au minimum des garanties suivantes :",
+        "• Intégralité du ticket modérateur sur les consultations, actes et prestations remboursables par l'Assurance maladie. Cependant, des exceptions peuvent exister.",
+        "• Totalité du forfait journalier hospitalier en cas d'hospitalisation",
+        "• Frais dentaires (prothèses et orthodontie) à hauteur de 125 % du tarif conventionnel",
+        "• Frais d'optique de manière forfaitaire par période de 2 ans (annuellement pour les enfants ou en cas d'évolution de la vue) avec un minimum de prise en charge fixé à 100 € pour une correction simple, 150 € (voire 200 €) pour une correction complexe.",
+        "La mutuelle pourra être une mutuelle à laquelle vous avez individuellement souscrit. Dans ce cas, votre établissement employeur précisera quels sont les organismes de complémentaire santé ouvrant droit à une prise en charge partielle de vos cotisations.",
+        "Un accord collectif pourra aussi prévoir la souscription par votre établissement employeur d'un contrat collectif. Cet accord collectif pourra prévoir votre souscription obligatoire à tout ou partie des garanties que ce contrat collectif comporte."
+      ]
+    },
+    {
+      "titre": "Complémentaire prévoyance",
+      "contenu": [
+        "Une complémentaire prévoyance a pour but de compléter l'indemnisation versée, par l'administration employeur et éventuellement par la CPAM, en cas de maladie, d'invalidité ou de décès.",
+        "Ainsi, la prévoyance couvre, en tout ou partie, vos pertes de revenus en cas d’arrêt de travail, d’inaptitude ou d’invalidité. Elle peut aussi prévoir des prestations complémentaires, à celles prévues par la loi ou les décrets, en cas de décès d'un agent public au bénéfice de ses ayants droits.",
+        "À partir du 1er janvier 2027, votre établissement employeur pourra aussi prendre en charge partiellement les cotisations à une complémentaire prévoyance.",
+        "Le contrat de prévoyance pourra être un organisme auquel vous avez individuellement souscrit. Dans ce cas, votre établissement employeur précisera quels sont les organismes ouvrant droit à une prise en charge partielle de vos cotisations.",
+        "Un accord collectif pourra aussi prévoir la souscription par votre établissement employeur d'un contrat collectif. Cet accord collectif pourra prévoir votre souscription obligatoire à tout ou partie des garanties que ce contrat collectif comporte."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général de la fonction publique : articles L827-1 à L827-3",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044424161/"
+    },
+    {
+      "titre": "Ordonnance n°2021-175 du 17 février 2021 relative à la protection sociale complémentaire dans la fonction publique : article 4",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000048840864"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "complementaire-sante-et-prevoyance-dans-la-fonction-publique-hospitaliere",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "maladie-ou-accident-du-travail-dans-la-fonction-publique",
+      "titre": "Maladie ou accident du travail dans la fonction publique"
+    }
+  ]
+}

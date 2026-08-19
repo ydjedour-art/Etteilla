@@ -1,0 +1,70 @@
+{
+  "id": "F14722",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Qui perçoit les prestations et allocations familiales dans un couple ?",
+  "theme": "Famille - Scolarité",
+  "description": "Dans un couple, il faut désigner un allocataire à la Caf. En l'absence de désignation, l'allocataire est l'épouse ou la concubine.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-08-07",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F14722",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Allocations destinées aux familles",
+    "Qui perçoit les prestations et allocations familiales dans un couple ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Il faut désigner à la Caf (si vous dépendez du régime général) ou à la MSA (si vous dépendez du régime agricole) la personne du couple à qui est reconnu le droit aux allocations.",
+        "La situation varie selon que vous vivez dans le même foyer ou êtes séparés :",
+        "Parents vivant dans le même foyer",
+        "Si, en tant que parents, vous vivez dans le même foyer et assumez ensemble la charge effective et permanente de votre enfant, vous devez désigner, d'un commun accord, le parent qui a le droit aux prestations familiales. Ce parent est appelé l'allocataire.",
+        "Ce choix (dit droit d'option) peut être fait à tout moment.",
+        "Vous ne pouvez plus modifier la désignation du parent allocataire pendant 1 an. Il y a en revanche une exception dans le cas d’un changement de situation (exemple : un divorce).",
+        "En cas de séparation, vous devez contacter votre caisse. La Caf et la MSA exposent la démarche à suivre.",
+        "Si vous ne désignez pas d'allocataire, les prestations familiales sont versées à la mère.",
+        "Parents séparés",
+        "La règle varie selon la situation :",
+        "Cas général",
+        "En cas de séparation, les prestations sont versées au parent chez lequel l'enfant vit. Ce parent est appelé l'allocataire.",
+        "Garde alternée",
+        "Des règles particulières s'appliquent en cas de garde alternée. Elles varient selon que vous êtes d'accord ou non sur la désignation du ou des allocataires."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la sécurité sociale : articles R513-1 et R513-2",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006156678/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Caisse d'allocations familiales (Caf)",
+    "Mutualité sociale agricole (MSA)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Ce que vous devez faire en cas de séparation (Caf)",
+      "url": "https://www.caf.fr/allocataires/aides-et-demarches/ma-situation/vie-personnelle/je-me-separe"
+    },
+    {
+      "titre": "Je me mets en couple, je me sépare (MSA)",
+      "url": "https://www.msa.fr/lfp/web/msa/pratique/changement-situation-maritale"
+    }
+  ],
+  "slug": "qui-percoit-les-prestations-et-allocations-familiales-dans-un-couple",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "allocations-destinees-aux-familles",
+      "titre": "Allocations destinées aux familles"
+    }
+  ]
+}

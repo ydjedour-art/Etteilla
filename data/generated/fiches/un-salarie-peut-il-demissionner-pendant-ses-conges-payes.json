@@ -1,0 +1,53 @@
+{
+  "id": "F12598",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Un salarié peut-il démissionner pendant ses congés payés ?",
+  "theme": "Travail - Formation",
+  "description": "Un salarié peut démissionner pendant ses congés payés. Dans ce cas, le préavis débute à la fin des congés.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-11-14",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F12598",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Rupture du contrat de travail dans le secteur privé",
+    "Un salarié peut-il démissionner pendant ses congés payés ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Oui, un salarié a la possibilité de démissionner pendant ses congés payés.",
+        "Les règles habituelles de la démission doivent être respectées.",
+        "Cependant, dans ce cas de figure, le préavis débute à la fin des congés payés.",
+        "Le contrat de travail est rompu à la fin du préavis.",
+        "Si le salarié ne souhaite pas effectuer son préavis (totalement ou partiellement), il doit obtenir l'accord de son employeur en demandant une dispense de préavis. L’employeur n'est pas obligé d'accepter."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code du travail : articles L1231-1 à L1231-7",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000019071194/"
+    },
+    {
+      "titre": "Code du travail : article L1237-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901174"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "un-salarie-peut-il-demissionner-pendant-ses-conges-payes",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "rupture-du-contrat-de-travail-dans-le-secteur-prive",
+      "titre": "Rupture du contrat de travail dans le secteur privé"
+    }
+  ]
+}

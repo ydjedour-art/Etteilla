@@ -1,0 +1,131 @@
+{
+  "id": "F31442",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Impôt sur le revenu d'un Français qui part vivre ou travailler à l'étranger",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "La résidence fiscale est définie par les services fiscaux. Hors de France, on est imposable sur ses seuls revenus de source française, sauf exception.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-15",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31442",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Impôt sur le revenu des Français à l'étranger",
+    "Impôt sur le revenu d'un Français qui part vivre ou travailler à l'étranger"
+  ],
+  "introduction": "Vous résidez, vous travaillez à l'étranger et vous vous interrogez sur votre situation fiscale en France ? Elle dépend de votre résidence fiscale. Ce sont les services fiscaux qui la déterminent en fonction de votre situation. Si votre résidence fiscale se situe hors de France, vous êtes le plus souvent imposable sur vos seuls revenus de source française. Si votre résidence fiscale reste en France, vous y êtes imposable sur tous vos revenus. Nous vous indiquons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Pour connaître votre résidence fiscale, vérifiez votre situation auprès de votre service des impôts.",
+        "Vous êtes encore en France",
+        "Consultez votre service des impôts des particuliers :",
+        "Service des impôts des particuliers (SIP)",
+        "Vous pouvez le contacter directement depuis votre espace en ligne :",
+        "Impôts : accéder à votre espace Finances publiques",
+        "Connexion avec l’identifiant fiscal du contribuable ou via FranceConnect. Ensuite, double authentification avec réception d’un code à 6 chiffres par mail.",
+        "Vous êtes à l'étranger",
+        "Si vous percevez des revenus de source française, renseignez-vous auprès du service des impôts des non résidents.",
+        "Service des impôts des particuliers non résidents",
+        "Par téléphone",
+        "+33 (0) 1 72 95 20 42",
+        "Du lundi au vendredi de 9h à 16h",
+        "Par messagerie",
+        "Via votre messagerie sécurisée sur votre compte personnel",
+        "Par courrier",
+        "10 rue du Centre",
+        "TSA 10010",
+        "93465 Noisy-Le-Grand Cedex"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général des impôts : articles 164 A à 165 bis",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006191589/"
+    },
+    {
+      "titre": "Code général des impôts : articles 167 à 167 bis",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000006191825"
+    },
+    {
+      "titre": "Code général des impôts : article 81 A",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000006197200"
+    },
+    {
+      "titre": "Code général des impôts : article 197 A",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037985917/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Déclaration 2026 des revenus 2025 (papier)",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/2042/declaration-des-revenus",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Déclaration 2026 des revenus 2025 encaissés à l'étranger",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/2047/declaration-des-revenus-encaisses-letranger",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Déclaration 2026 des revenus 2025 - Départ à l'étranger ou retour en France",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/2042/declaration-des-revenus",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Déclarer vos revenus en ligne",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Impôts : accéder à votre espace Finances publiques",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Déclaration 2026 des revenus 2025 - Déclaration de retenue à la source des non-résidents",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/2041-e/declaration-de-retenue-la-source",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Service d'information des impôts",
+    "Service en charge des impôts (trésorerie, service des impôts...)",
+    "Service des impôts des particuliers non résidents"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Imposition des personnes vivant à l'étranger",
+      "url": "https://www.impots.gouv.fr/portail/international"
+    },
+    {
+      "titre": "Impôt sur le revenu - Taux moyen des personnes vivant à l'étranger",
+      "url": "https://www.impots.gouv.fr/portail/international-particulier/questions/quest-ce-que-le-taux-moyen-puis-je-en-beneficier"
+    },
+    {
+      "titre": "Conventions fiscales signées par la France",
+      "url": "https://www.impots.gouv.fr/les-conventions-internationales"
+    },
+    {
+      "titre": "Suis-je un travailleur frontalier ?",
+      "url": "https://www.impots.gouv.fr/particulier/questions/suis-je-bien-un-travailleur-frontalier"
+    },
+    {
+      "titre": "Je ne suis pas résident de France, mais j'ai des intérêts en France",
+      "url": "https://www.impots.gouv.fr/international-particulier/je-ne-suis-pas-resident-de-france-mais-jai-des-interets-en-france"
+    }
+  ],
+  "slug": "impot-sur-le-revenu-d-un-francais-qui-part-vivre-ou-travailler-a-l-etranger",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "impot-sur-le-revenu-des-francais-a-l-etranger",
+      "titre": "Impôt sur le revenu des Français à l'étranger"
+    }
+  ]
+}

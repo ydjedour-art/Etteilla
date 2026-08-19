@@ -1,0 +1,102 @@
+{
+  "id": "F36282",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Préretraite amiante d'un agent de la fonction publique",
+  "theme": "Travail - Formation",
+  "description": "Vous pouvez, sous certaines conditions, partir en préretraite si vous avez été exposé à l'amiante.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-06-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F36282",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Retraite d'un agent public",
+    "Préretraite amiante d'un agent de la fonction publique"
+  ],
+  "introduction": "Vous êtes fonctionnaire ou contractuel (ou ancien fonctionnaire ou contractuel) et vous êtes reconnu atteint d'une maladie professionnelle provoquée par l'amiante ? Vous travaillez ou avez travaillé dans un établissement où étaient traités l'amiante ou des matériaux contenant de l'amiante ? Vous pouvez, sous certaines conditions, cesser votre activité de manière anticipée et percevoir une allocation spécifique de cessation anticipée d'activité (Ascaa) jusqu'à votre mise à la retraite. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les règles diffèrent selon que vous êtes (ou étiez) fonctionnaire ou contractuel."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général de la fonction publique : articles L555-1 à L555-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044423417/"
+    },
+    {
+      "titre": "Loi n°2015-1785 du 29 décembre 2015 de finances pour 2016 : article 146",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000036432791"
+    },
+    {
+      "titre": "Décret n°2006-418 relatif à l'attribution d'une allocation spécifique de cessation anticipée d'activité à certains fonctionnaires et agents non titulaires relevant du ministère de la défense",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000456285/"
+    },
+    {
+      "titre": "Décret n°2013-435 relatif à l'attribution d'une allocation spécifique de cessation anticipée d'activité à certains fonctionnaires et agents non titulaires relevant du ministère chargé de la mer",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000027470124/"
+    },
+    {
+      "titre": "Décret n°2017-435 du 28 mars 2017 relatif à la cessation anticipée d'activité des agents de la fonction publique reconnus atteints d'une maladie professionnelle provoquée par l'amiante",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000034308063/"
+    },
+    {
+      "titre": "Arrêté du 21 avril 2006 fixant la liste des professions, fonctions et établissements permettant l'attribution d'une allocation de cessation d'activité à certains agents du ministère de la défense",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGISCTA000019507453"
+    },
+    {
+      "titre": "Arrêté du 1er août 2014 fixant la liste des fonctions et établissements donnant droit à une allocation de cessation anticipée d'activité à certains agents du ministère chargé de la mer",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000029349993"
+    },
+    {
+      "titre": "Arrêté du 20/12/2016 modifiant l'arrêté du 01/08/2014 fixant la liste des établissements donnant droit à l'allocation de cessation anticipée d'activité à certains agents du ministère chargé de la mer",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000033691686"
+    },
+    {
+      "titre": "Arrêté du 10 mai 2017 fixant la liste des maladies professionnelles provoquées par l'amiante susceptibles d'ouvrir droit à l'allocation de cessation anticipée d'activité",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000034677464/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Maladies professionnelles provoquées par l'amiante",
+      "url": "https://www.ameli.fr/assure/sante/themes/maladies-amiante/maladies-dues-amiante"
+    },
+    {
+      "titre": "Liste des établissements de construction et de réparation navales du ministère de la Défense pouvant donner droit à l'allocation de cessation anticipée d'activité",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000019511671"
+    },
+    {
+      "titre": "Liste des fonctions pouvant donner droit à l'allocation de cessation anticipée d'activité à certains agents du ministère de la Défense",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000019511668"
+    },
+    {
+      "titre": "Liste des établissements de construction ou de réparation navales pouvant donner droit à l'allocation de cessation anticipée d'activité à certains agents du ministère chargé de la mer",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFSCTA000033691691"
+    },
+    {
+      "titre": "Liste des fonctions pouvant donner droit à l'allocation de cessation anticipée d'activité à certains agents du ministère chargé de la mer",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFSCTA000029350000"
+    },
+    {
+      "titre": "Allocation spécifique de cessation anticipée d'activité amiante",
+      "url": "https://www.cnracl.retraites.fr/actif/ma-future-retraite/departs-anticipes/allocation-specifique-de-cessation-anticipee-dactivite-amiante"
+    }
+  ],
+  "slug": "preretraite-amiante-d-un-agent-de-la-fonction-publique",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "retraite-d-un-agent-public",
+      "titre": "Retraite d'un agent public"
+    }
+  ]
+}

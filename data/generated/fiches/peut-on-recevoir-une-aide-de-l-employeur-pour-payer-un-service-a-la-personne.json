@@ -1,0 +1,73 @@
+{
+  "id": "F1252",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Peut-on recevoir une aide de l'employeur pour payer un service à la personne ?",
+  "theme": "Travail - Formation",
+  "description": "Une aide financière peut être versée par le CSE ou l'entreprise aux salariés pour financer des services à la personne.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-07-30",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1252",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Particulier employeur : aide à domicile (services à la personne)",
+    "Peut-on recevoir une aide de l'employeur pour payer un service à la personne ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Oui. L'employeur ou le comité social et économique (CSE) peuvent verser une aide financière à leurs salariés.",
+        "Cette aide sert à :",
+        "• Faciliter l'accès à des services à la personne dans l'entreprise",
+        "• Financer des activités de services à la personne ou de garde d'enfants en dehors du domicile du salarié",
+        "• Financer des prestations directement liées à la gestion et au fonctionnement du Cesu.",
+        "Le montant maximum de l'aide est de 2 591 € par an.",
+        "Cette aide peut être attribuée :",
+        "• Soit sous la forme d'une aide financière versée directement au salarié",
+        "• Soit sous la forme d'un Cesu préfinancé.",
+        "Cette aide n'est pas imposable.",
+        "Le salarié en fait la demande auprès de l'employeur ou du CSE.",
+        "[À noter] L'employeur ou le CSE n'a aucune obligation de verser cette aide. Cette aide est versée si l'employeur ou le CSE le décide."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code du travail : articles L7233-4 à L7233-9",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000006189977/#LEGISCTA000006189977"
+    },
+    {
+      "titre": "Code du travail : articles D7233-6 à R7233-12",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000018500108?"
+    },
+    {
+      "titre": "Arrêté du 23 décembre 2025 fixant le montant maximum de l'aide financière du comité social et économique et celle de l'entreprise versées en faveur des salariés prévues à l'article L. 7233-4 du code du travail pour 2026",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053229968"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Site officiel du particulier employeur et du salarié",
+      "url": "https://www.urssaf.fr/accueil/particulier/particulier-employeur.html"
+    },
+    {
+      "titre": "Site des services à la personne",
+      "url": "https://www.servicesalapersonne.gouv.fr/"
+    }
+  ],
+  "slug": "peut-on-recevoir-une-aide-de-l-employeur-pour-payer-un-service-a-la-personne",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "particulier-employeur-aide-a-domicile-services-a-la-personne",
+      "titre": "Particulier employeur : aide à domicile (services à la personne)"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "F17554",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Le siège d'une association peut-il être le domicile d'un de ses membres ?",
+  "theme": "Associations, fondations et fonds de dotation",
+  "description": "Oui, le siège social d'une association peut être situé au domicile d'un membre de l'organisme, qu'il soit propriétaire ou locataire de son logement.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-02-06",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F17554",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Associations, fondations et fonds de dotation",
+    "Création d'une association",
+    "Le siège d'une association peut-il être le domicile d'un de ses membres ?"
+  ],
+  "introduction": "Vous êtes un dirigeant de l'association ou l'un de ses membres et voulez savoir si son siège social peut se situer chez vous ? Oui, le siège social de l’association peut être fixé à votre domicile, que vous soyez propriétaire ou locataire de votre logement. Nous vous expliquons les règles à respecter.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Vous êtes propriétaire de votre logement et il se trouve dans une copropriété",
+        "Dans ce cas, le fait qu'une association ait son adresse au sein d'une copropriété entraîne le respect de certaines règles.",
+        "La domiciliation ne doit pas porter atteinte aux droits des autres copropriétaire et causer des troubles de voisinage.",
+        "Elle doit, en plus, respecter le règlement de copropriété, notamment les règles sur l'usage des parties privatives (usage d'habitation ou usage commercial) et des parties communes. En effet, en tant que copropriétaire, vous devez obtenir l'accord des autres copropriétaires avant de changer l'affectation de votre lot de copropriété (passage d'un usage d'habitation à un usage associatif). C'est le cas dès lors que l'activité de l'association s'effectue au sein de votre domicile.",
+        "[À noter] En mettant à disposition une partie de votre logement, vous pouvez demander à l'association une indemnisation. Ainsi, sur justificatifs, l'association peut vous verser un loyer et vous rembourser les charges que vous avez avancer pour son compte (eau, électricité, téléphone, internet,...).",
+        "Vous êtes propriétaire de votre logement et il ne se trouve pas dans une copropriété",
+        "Vous êtes libre de domicilier le siège social de votre association à votre domicile.",
+        "Vous n'avez pas besoin d'autorisation pour ce faire.",
+        "[À noter] En mettant à disposition une partie de votre logement, vous pouvez demander à l'association une indemnisation. Ainsi, sur justificatifs, l'association peut vous verser un loyer et vous rembourser les charges que vous avez avancées pour son compte (eau, électricité, téléphone, internet,...).",
+        "Vous êtes locataire",
+        "Un contrat de location ne peut pas interdire à un locataire l'exercice d'une activité associative.",
+        "Ainsi, le siège social d'une association peut être fixé à votre domicile et vous n'avez pas besoin de l'autorisation de votre propriétaire.",
+        "Toutefois, si votre adresse est celle de l'association, vous devez respecter vos obligations vis-à-vis de votre bailleur et des autres locataires ou voisins.",
+        "La domiciliation ne doit notamment pas conduire à créer des nuisances sonores en cas de réunions, à une occupation irrégulière des parties communes,...",
+        "Le logement doit rester votre lieu d'habitation. Il ne peut pas devenir le lieu de l'activité effective de l'association par la transformation du logement en bureau. Sinon, le contrat de bail pourrait être résilié.",
+        "En mettant à disposition une partie de votre logement, vous pouvez demander à l'association une indemnisation. Ainsi, sur justificatifs, l'association peut vous verser un loyer et vous rembourser les charges que vous avez avancées pour son compte (eau, électricité, téléphone, internet,...). Pour ce faire, en tant que locataire, vous devez avoir une autorisation de sous-location.",
+        "Lorsque vous êtes locataire, votre contrat de location peut limiter l’utilisation du logement à un usage strictement personnel. Si le bail interdit la sous-location ou l’accueil d’une activité associative, l’accord écrit du bailleur est nécessaire.",
+        "[Rappel] • Le siège social doit être indiqué dans les statuts de l’association ou dans la déclaration à la préfecture. • Le choix du siège social détermine la juridiction territoriale compétente pour certaines démarches administratives ou judiciaires de l’association. • Si l’association change de siège social (par exemple parce que le membre qui héberge le siège déménage), une modification des statuts et et une nouvelle déclaration à la préfecture sont nécessaires. • Le siège social d'une association peut également se situer dans un bâtiment municipal tel que la mairie, dans des locaux institutionnels (école, bibliothèque,...) mais encore dans un bureau commercial ou privé. Il en est de même en Alsace-Moselle ou le lieu du siège est librement choisi."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Loi n°65-557 du 10 juillet 1965 : article 9",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039313535/"
+    },
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 4",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000028806566/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Point ressource à la vie associative"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "le-siege-d-une-association-peut-il-etre-le-domicile-d-un-de-ses-membres",
+  "path": [
+    {
+      "slug": "associations-fondations-et-fonds-de-dotation",
+      "titre": "Associations, fondations et fonds de dotation"
+    },
+    {
+      "slug": "creation-d-une-association",
+      "titre": "Création d'une association"
+    }
+  ]
+}

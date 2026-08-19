@@ -1,0 +1,85 @@
+{
+  "id": "F2232",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Demande d'asile",
+  "theme": "Étranger - Europe",
+  "description": "La demande d'asile peut se faire à la frontière ou si l’étranger est déjà en France.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-05-07",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2232",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Demande d'asile (réfugié, protection subsidiaire, apatride)",
+    "Demande d'asile"
+  ],
+  "introduction": "Vous pouvez faire une demande d'asile à la frontière. Vous pouvez aussi faire une demande d'asile si vous êtes déjà présent en France, en situation irrégulière ou avec un titre de séjour pour un autre motif que l'asile. Nous vous expliquons les démarches à réaliser.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : L351-1 à L351-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042771352/"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles L352-1 à L352-9",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042771364/"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles L531-1 à L531-42",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042772250/"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles L550-1 à L554-4",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042772424/"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : L900-1 à L931-4",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000049077897/"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles R521-1 à R521-20",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042801648/"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : article D531-1 à R531-39",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042801708/"
+    },
+    {
+      "titre": "Arrêté du 10 mai 2019 désignant les préfets compétents pour enregistrer les demandes d'asile et déterminer l'Etat responsable de leur traitement (métropole)",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000038480462/"
+    },
+    {
+      "titre": "Arrêté du 9 octobre 2015 fixant la durée de validité de l'attestation de demande d'asile",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000031327521/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Connexion à votre espace numérique personnel sécurisé de l'Ofpra",
+      "url": "https://www.usager.ofpra.gouv.fr/ofpra/user/login?v=0",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Guide du demandeur d'asile",
+      "url": "https://www.immigration.interieur.gouv.fr/Asile/Guide-du-demandeur-d-asile-en-France"
+    },
+    {
+      "titre": "Asile : les pays d'origine sûrs",
+      "url": "https://ofpra.gouv.fr/libraries/pdf.js/web/viewer.html?file=/sites/default/files/2023-03/Liste%20des%20POS%202023.pdf"
+    }
+  ],
+  "slug": "demande-d-asile",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "demande-d-asile-refugie-protection-subsidiaire-apatride",
+      "titre": "Demande d'asile (réfugié, protection subsidiaire, apatride)"
+    }
+  ]
+}

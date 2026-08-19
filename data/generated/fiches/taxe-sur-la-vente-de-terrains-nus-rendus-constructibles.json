@@ -1,0 +1,201 @@
+{
+  "id": "F22393",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Taxe sur la vente de terrains nus rendus constructibles",
+  "theme": "Argent - Impôts - Consommation, Fiscalité",
+  "description": "Si vous vendez un terrain non bâti qui a été rendu constructible à la suite de la modification du PLU, vous devez payer une taxe.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2024-01-11",
+  "url": "https://entreprendre.service-public.gouv.fr/vosdroits/F22393",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Impôts locaux",
+    "Taxe sur la vente de terrains nus rendus constructibles"
+  ],
+  "introduction": "Vous vendez un terrain non bâti qui a été rendu constructible à la suite de la modification du plan local d'urbanisme (PLU) ? Vous devez payer la taxe sur la vente de terrains nus rendus constructibles, c'est-à-dire une taxe sur la plus-value réalisée à l'occasion de la vente. La déclaration est faite par un notaire. Nous vous indiquons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Quels sont les vendeurs et les terrains concernés par la taxe sur la vente de terrains nus rendus constructibles ?",
+      "contenu": [
+        "Vendeur",
+        "La taxe s'applique quel que soit le vendeur :",
+        "• Personne physique (particulier, agriculteur, artisan, entrepreneur individuel cédant un terrain dans le cadre d'une activité professionnelle notamment)",
+        "• Personne morale (SCI, société de personnes ayant un objet industriel, commercial, artisanal, agricole ou non commercial, société immobilière de copropriété notamment)",
+        "• Contribuable domicilié hors de France.",
+        "Terrains nus rendus constructibles",
+        "La taxe s'applique aux terrains suivants :",
+        "• Terrains nus",
+        "• Terrains avec une construction impropre à un quelconque usage (bâtiment rendu inutilisable en état durable d'abandon ou en ruine, immeuble frappé d'un arrêté de péril, chantier inabouti notamment)."
+      ]
+    },
+    {
+      "titre": "Quelles sont les ventes exonérées de la taxe sur la vente de terrains nus rendus constructibles ?",
+      "contenu": [
+        "La taxe sur la vente de terrains nus rendus constructibles ne s'applique pas dans les cas suivants :",
+        "• Cession en conséquence d'une expropriation, à la suite d'une déclaration d'utilité publique",
+        "• Terrain rendu constructible avant le 13 janvier 2010",
+        "• Terrain ayant déjà fait l'objet d'une vente (ou plusieurs) depuis son classement en zone constructible",
+        "• Cession de terrain réalisée plus de 18 ans ans après la date à laquelle le terrain a été rendu constructible",
+        "• Cession dont le prix est inférieur à 15 000 €",
+        "[À noter] La taxe sur la vente de terrains nus rendus constructibles ne s'applique pas aux mutations à titre gratuit (par donation ou en cas de succession)",
+        "La taxe sur la vente de terrains nus rendus constructibles ne s'applique pas si le prix de la cession est inférieur à 10 fois le prix d’acquisition.",
+        "[Exemple] Pour un terrain acheté 10 000 € et revendu 70 000 € : Plus-value : 70 000 € - 10 000 € = 60 000 € La plus-value est inférieure à 10 fois le prix d'acquisition (10 x 10 000 € = 100 000 €), donc elle n'est pas taxée.",
+        "La taxe sur la vente de terrains nus rendus constructibles ne concerne pas la cession à titre onéreux (vente) de droits relatifs à des terrains nus. Il s'agit des droits immobiliers portant sur des terrains nus (usufruit, nue-propriété, servitudes, mitoyenneté, bail emphytéotique, etc.).",
+        "Les cessions de droits sociaux ou de parts sociales ne sont pas non plus concernés par la taxe."
+      ]
+    },
+    {
+      "titre": "Quelles sont les transactions concernées par la taxe sur la vente de terrains nus rendus constructibles ?",
+      "contenu": [
+        "En tant que vendeur, vous devez payer la taxe lors de la 1re cession à titre onéreux (vente) du terrain, intervenue après son classement en zone constructible.",
+        "La taxe sur la vente de terrains nus rendus constructibles s'applique si les 2 conditions suivantes sont remplies :",
+        "• Montant de la vente supérieur à 15 000 €",
+        "• Plus-value supérieure à 10 fois le prix d'acquisition"
+      ]
+    },
+    {
+      "titre": "Comment calculer la plus-value pour la taxe sur la vente de terrains nus rendus constructibles ?",
+      "contenu": [
+        "La taxe s'applique sur la plus-value réalisée lors de la vente du terrain.",
+        "Celle-ci est calculée comme étant la différence entre les 2 montants suivants :",
+        "• Prix d'acquisition (ou valeur vénale réelle à la date d'entrée dans le patrimoine du vendeur, en cas d'héritage par exemple)",
+        "• Prix de vente (prix réel stipulé dans l'acte de vente)",
+        "[À savoir] si le bien est cédé contre une rente viagère, le prix de cession retenu est la valeur en capital de la rente, sans les intérêts."
+      ]
+    },
+    {
+      "titre": "Comment déterminer le prix d'acquisition pour la taxe sur la vente de terrains nus rendus constructibles ?",
+      "contenu": [
+        "Selon la situation, la détermination du prix d'acquisition peut exiger plusieurs étapes.",
+        "Convertir le prix d'acquisition en euros",
+        "Lorsque l'acquisition n'a pas été effectuée avec un prix en euros, il est nécessaire d'en faire la conversion.",
+        "Conversion d'un prix en euros",
+        "Prix d'origine",
+        "Calcul pour obtenir un prix en euros",
+        "Prix exprimé en francs (avant janvier 2002)",
+        "Diviser par 6,55957",
+        "Prix exprimé en anciens francs (avant janvier 1960)",
+        "Diviser par 655,957",
+        "Indexer le prix d'acquisition en fonction de l'inflation",
+        "Le prix d'acquisition doit être revalorisé en fonction de l'évolution de l'indice des prix à la consommation hors tabac (publié par l'Insee).",
+        "Vous devez multiplier le prix d'acquisition par l'évolution de l'indice des prix à la consommation entre les dates d'acquisition et de cession.",
+        "Vous devez utiliser la formule de calcul suivante :",
+        "Montant revalorisé du prix d'acquisition = Prix d'acquisition x (Dernier indice mensuel des prix à la consommation publié au jour de la cession / Dernier indice mensuel des prix à la consommation publié au jour de l'acquisition)",
+        "Si vous avez acquis le terrain avant 1998 (dernière base 100 en vigueur), l'actualisation couvre plusieurs générations d'indices.",
+        "Dans ce cas, vous devez procéder en autant d'étapes que de séries d'indices concernées.",
+        "[À savoir] Pour les cessions réalisées depuis 2012, vous pouvez utiliser les coefficients d'érosion monétaire pour simplifier le calcul.",
+        "Vous pouvez utiliser le calculateur suivant :",
+        "Convertisseur franc-euro : pouvoir d'achat de l'euro et du franc (ou de l'ancien franc)",
+        "Convertisseur disponible en français et en anglais.",
+        "Le convertisseur franc-euro mesure l'érosion monétaire due à l'inflation.",
+        "Ce convertisseur est disponible à partir de 1901.",
+        "Il permet d'exprimer le pouvoir d'achat d'une somme en euros ou en francs d'une année donnée en une somme équivalente en euros ou en francs d'une autre année, corrigée de l'inflation observée entre les deux années.",
+        "Il vous permet de calculer le pouvoir d'achat d'une somme en euros ou en francs (ou en anciens francs) d'une année donnée en une somme équivalente pour une autre année, corrigée de l'inflation observée entre les 2 années.",
+        "Bénéficier d'une assiette réduite",
+        "L'assiette de la taxe est réduite de 1/10e par an à partir de la 9e année suivant le classement du terrain en zone constructible.",
+        "[Exemple] Pour un terrain rendu constructible en 2017 : • Si la vente a lieu entre 2021 et 2024, la taxe est perçue sur la totalité de la plus-value. • Si la vente est réalisée entre 2025 et 2033, la taxe est réduite de 10 % chaque année. • Si la vente est effectuée à partir de 2034, le cédant ne paye plus de taxe.",
+        "Utiliser un calcul forfaitaire",
+        "Dans certaines situations, le prix d'acquisition du terrain n'est pas connu ou n'est pas déterminable.",
+        "C'est le cas par exemple, en cas de succession non déclarée, de succession non imposable en France ou d'acquisition par prescription acquisitive.",
+        "La taxe est alors calculée sur une assiette forfaitaire égale aux 2/3 du prix de cession du terrain."
+      ]
+    },
+    {
+      "titre": "Quel est le taux de la taxe sur la vente de terrains nus rendus constructibles ?",
+      "contenu": [
+        "Le taux de la taxe sur la vente de terrains nus rendus constructibles est progressif.",
+        "Il augmente en fonction du montant de la plus-value.",
+        "La taxe s'applique selon les taux suivants :",
+        "• 5 % de la plus-value comprise entre 10 et 30 fois le prix d'acquisition",
+        "• 10 % de la plus-value dépassant 30 fois le prix d'acquisition",
+        "[Exemple] Pour un terrain acheté à 20 000 €, puis revendu à 220 000 € après classement en zone urbaine. La plus-value est de 200 000 €, soit 10 fois le prix d'acquisition. La plus-value est donc taxée à hauteur de 5 %, soit une taxe sur la vente de terrains nus rendus constructibles de 10 000 €."
+      ]
+    },
+    {
+      "titre": "Comment déclarer la plus-value pour la taxe sur la vente de terrains nus rendus constructibles ?",
+      "contenu": [
+        "La formalité est accomplie par le notaire.",
+        "Déclaration notariée",
+        "Lors de la vente, la déclaration signée par le vendeur (ou son mandataire) doit être déposée par le notaire.",
+        "Elle permet de calculer la plus-value.",
+        "Elle doit être accompagnée du paiement de la taxe, auprès du service de publicité foncière (ex-conservation des hypothèques) dont dépend le terrain concerné.",
+        "[À savoir] S'il s'agit d'un terrain exonéré ou d'une cession non taxable, vous êtes dispensé de déclaration. Mais l'acte de vente présenté à l'enregistrement doit préciser la raison de l'exonération (par exemple, terrain rendu constructible avant 2010).",
+        "Autres cas",
+        "Si la vente de votre terrain est constatée par une ordonnance judiciaire, la déclaration doit être déposée au service des impôts dont dépend votre domicile.",
+        "La formalité doit être accomplie dans le mois qui suit la cession.",
+        "Déclaration de plus-value sur les cessions de terrains à bâtir",
+        "Si la vente de votre terrain est constatée par un acte administratif, la déclaration est déposée à la collectivité publique concernée, qui la transmet aux services fiscaux."
+      ]
+    },
+    {
+      "titre": "Comment payer la taxe sur la vente de terrains nus rendus constructibles ?",
+      "contenu": [
+        "Le paiement varie selon la déclaration de la plus-value est ou non notariée.",
+        "Déclaration notariée",
+        "Le paiement doit intervenir lors du dépôt de la déclaration, avant que l'acte notarié ne soit enregistré.",
+        "Si la déclaration est déposée hors délai, des intérêts de retard sont appliqués à partir du 1er jour du mois qui suit celui au cours duquel la déclaration aurait dû être déposée.",
+        "Autres cas",
+        "Si la vente de votre terrain est constatée par une ordonnance judiciaire, l'impôt sur la plus-value doit être versé au service des impôts dont relève votre domicile dans un délai d'un mois à compter de la date du versement du prix de cession.",
+        "Si la vente de votre terrain est constatée par un acte administratif, l'impôt sur la plus-value est payé au service des impôts, par le comptable de la DGFIP, sur le prix dû au vendeur, au vu de la déclaration transmise par la collectivité publique."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général des impôts : article 1605 nonies",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000022525696"
+    },
+    {
+      "titre": "Code général des impôts, annexe 3 : articles 331 K bis à 331 K ter",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000025099873/"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-RFPI-TDC-20 relatif à la taxe sur la cession de terrains nus devenus constructibles",
+      "url": "http://bofip.impots.gouv.fr/bofip/6662-PGP.html"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-ANNX-000097 relatif à la taxe sur la cession de terrains nus devenus constructibles - Coefficients d'érosion monétaire",
+      "url": "https://bofip.impots.gouv.fr/bofip/6665-PGP.html"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Convertisseur franc-euro : pouvoir d'achat de l'euro et du franc (ou de l'ancien franc)",
+      "url": "https://www.insee.fr/fr/information/2417794",
+      "type": "Simulateur"
+    },
+    {
+      "titre": "Déclaration de plus-value sur les cessions de terrains à bâtir",
+      "url": "https://www.impots.gouv.fr/portail/node/8894",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Centre des impôts fonciers et cadastre",
+    "Notaire",
+    "Service de la publicité foncière et de l'enregistrement",
+    "Service des impôts des entreprises (SIE)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Évolution de l'indice des prix à la consommation : ensemble des ménages (hors tabac)",
+      "url": "https://www.insee.fr/fr/statistiques/serie/001763852"
+    },
+    {
+      "titre": "Coefficients d'érosion monétaire",
+      "url": "http://bofip.impots.gouv.fr/bofip/6665-PGP.html"
+    }
+  ],
+  "slug": "taxe-sur-la-vente-de-terrains-nus-rendus-constructibles",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "impots-locaux",
+      "titre": "Impôts locaux"
+    }
+  ]
+}

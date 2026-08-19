@@ -1,0 +1,105 @@
+{
+  "id": "F2547",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Envoyer une demande à l'administration par courrier ou formulaire papier",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Vous avez envoyé une demande à une administration (mairie, préfecture, France Travail (anciennement Pôle emploi)...) et vous vous demandez si elle l'a bien reçue ? Vous n'êtes pas sûr d'avoir envoyé votre demande au bon service ? Vous voulez savoir quand vous aurez une réponse ? Cette page indique les règles qu'une administration doit respecter lorsqu'elle reçoit et étudie votre demande.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2022-01-27",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2547",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Obligations de l'administration vis-à-vis des usagers",
+    "Envoyer une demande à l'administration par courrier ou formulaire papier"
+  ],
+  "introduction": "Vous avez envoyé une demande à une administration (mairie, préfecture, France Travail (anciennement Pôle emploi)...) et vous vous demandez si elle l'a bien reçue ? Vous n'êtes pas sûr d'avoir envoyé votre demande au bon service ? Vous voulez savoir quand vous aurez une réponse ? Cette page indique les règles qu'une administration doit respecter lorsqu'elle reçoit et étudie votre demande.",
+  "chapitres": [
+    {
+      "titre": "Comment savoir si l'administration a reçu votre demande ?",
+      "contenu": [
+        "Quand une administration reçoit votre demande, elle doit vous envoyer un accusé de réception (AR).",
+        "L'AR indique la date à laquelle l'administration a reçu votre demande.",
+        "Toutefois, vous ne recevez pas d'AR dans les situations suivantes :",
+        "• Lorsque l'administration a l'obligation de vous répondre dans un délai maximum de 15 jours",
+        "• Lorsque l'administration doit uniquement vérifier que vous remplissez les conditions pour avoir un document ou une prestation",
+        "• Lorsque votre demande est abusive. Par exemple, vous avez envoyé plusieurs fois la même demande."
+      ]
+    },
+    {
+      "titre": "Votre demande est-elle étudiée si vous avez oublié un document ?",
+      "contenu": [
+        "L'administration étudie votre demande même s'il manque un document.",
+        "Toutefois, l'administration peut interrompre l'étude de votre demande si le document manquant est indispensable.",
+        "Dans tous les cas, l'administration doit vous indiquer les documents et informations qui manquent.",
+        "Elle vous précise s'il est nécessaire de traduire ou légaliser les documents envoyés.",
+        "L'administration vous fixe un délai pour envoyer les documents et informations.",
+        "Ces informations sont indiquées dans l'accusé de réception de votre demande ou dans un courrier à part."
+      ]
+    },
+    {
+      "titre": "Votre demande est-elle étudiée si vous ne l'avez pas envoyée au bon service ?",
+      "contenu": [
+        "Si vous n'avez pas envoyé votre demande au bon service, elle est transmise au service compétent et vous en êtes informé.",
+        "Le service compétent pour étudier votre demande vous envoie un accusé de réception."
+      ]
+    },
+    {
+      "titre": "Comment avoir le nom de la personne qui étudie votre demande ?",
+      "contenu": [
+        "Le prénom, le nom, la fonction et l'adresse administrative de la personne qui instruit votre demande doivent être indiqués sur les courriers qui vous sont adressés.",
+        "Toutefois, ces informations ne sont pas indiquées si un motif de sécurité le justifie."
+      ]
+    },
+    {
+      "titre": "Que faire si vous ne recevez pas de réponse écrite ?",
+      "contenu": [
+        "Consultez l'accusé de réception de votre demande.",
+        "L'AR indique la date à laquelle, en l'absence de réponse écrite, votre demande est considérée comme acceptée ou refusée.",
+        "Si l'AR indique que la demande est acceptée en l'absence de réponse écrite",
+        "Il s'agit d'une décision implicite d'acceptation.",
+        "L'AR indique que vous pouvez demander une attestation à l'administration.",
+        "Si l'AR indique que la demande est refusée en l'absence de réponse écrite",
+        "Il s'agit d'une décision implicite de rejet.",
+        "L'AR indique comment contester ce refus (voies et délais de recours).",
+        "[À noter] sauf exceptions, si vous ne recevez pas de réponse au bout de 2 mois, cela signifie que votre demande est acceptée. C'est ce qu'on appelle la règle du silence vaut acceptation (SVA)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code des relations entre le public et l'administration : articles L111-1 à L111-3",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000031366350/LEGISCTA000031367316"
+    },
+    {
+      "titre": "Code des relations entre le public et l'administration : articles L112-2 à L112-6",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000031366350/LEGISCTA000031367334"
+    },
+    {
+      "titre": "Code des relations entre le public et l'administration : articles L114-2 à L114-4",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000031366350/LEGISCTA000031367392"
+    },
+    {
+      "titre": "Code des relations entre le public et l'administration articles L114-5 à L114-6",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000031366350/LEGISCTA000031367400"
+    },
+    {
+      "titre": "Code des relations entre le public et l'administration : articles L231-1 à D231-3",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000031366350/LEGISCTA000031367609"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "envoyer-une-demande-a-l-administration-par-courrier-ou-formulaire-papier",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "obligations-de-l-administration-vis-a-vis-des-usagers",
+      "titre": "Obligations de l'administration vis-à-vis des usagers"
+    }
+  ]
+}

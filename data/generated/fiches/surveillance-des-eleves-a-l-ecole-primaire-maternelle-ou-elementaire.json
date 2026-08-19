@@ -1,0 +1,77 @@
+{
+  "id": "F424",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Surveillance des élèves à l'école primaire (maternelle ou élémentaire)",
+  "theme": "Famille - Scolarité",
+  "description": "Les personnels de l'école doivent surveiller les élèves qui leur sont confiés.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-01-23",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F424",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "École primaire (maternelle et élémentaire)",
+    "Surveillance des élèves à l'école primaire (maternelle ou élémentaire)"
+  ],
+  "introduction": "En déposant votre enfant à l'école, vous confiez la responsabilité aux personnels de l'établissement de veiller sur lui. En effet, l'école doit surveiller votre enfant et garantir sa sécurité. Quelle est l'étendue de cette obligation de surveillance ? Voici les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code civil : articles 1240 à 1244",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032021488/"
+    },
+    {
+      "titre": "Code de l'éducation : articles L911-1 à L911-8",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006166719/"
+    },
+    {
+      "titre": "Code de l'éducation : article D321-12",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006527394"
+    },
+    {
+      "titre": "Arrêté du 3 mai 1989 relatif aux durées et conditions d'éviction à prendre cas de maladies contagieuses",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000705286/"
+    },
+    {
+      "titre": "Circulaire n°97-178 du 18 septembre 1997 relative à la surveillance et la sécurité des élèves dans les écoles primaires publiques (maternelles et élémentaires)",
+      "url": "http://circulaire.legifrance.gouv.fr/pdf/2009/04/cir_1508.pdf"
+    },
+    {
+      "titre": "Circulaire n°2015-205 du 25 novembre 2015 relative aux mesures de sécurité dans les écoles et établissements scolaires après les attentats du 13 novembre 2015",
+      "url": "https://www.legifrance.gouv.fr/download/pdf/circ?id=40269"
+    },
+    {
+      "titre": "Circulaire n°2014-088 du 9 juillet 2014 relative au règlement type départemental des écoles maternelles et élémentaires",
+      "url": "https://www.legifrance.gouv.fr/download/pdf/circ?id=38497"
+    },
+    {
+      "titre": "Circulaire n°2013-106 du 16 juillet 2013 relative au transport et à l'encadrement des sorties et voyages scolaires",
+      "url": "http://www.education.gouv.fr/pid25535/bulletin_officiel.html?cid_bo=72758"
+    },
+    {
+      "titre": "Circulaire du 16 juillet 2024 relative à l'organisation des sorties et voyages scolaires dans les écoles, les collèges et les lycées publics",
+      "url": "https://www.education.gouv.fr/bo/2024/Hebdo30/MENE2407159C"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Établissement scolaire"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "L'accueil et la surveillance des élèves",
+      "url": "https://eduscol.education.fr/document/41881/download"
+    }
+  ],
+  "slug": "surveillance-des-eleves-a-l-ecole-primaire-maternelle-ou-elementaire",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "ecole-primaire-maternelle-et-elementaire",
+      "titre": "École primaire (maternelle et élémentaire)"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": "F33680",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Aide aux loisirs pour les enfants (aide au temps libre, bons loisirs, forfait loisirs jeunes, carte tickets loisirs...)",
+  "theme": "Loisirs - Sports - Culture",
+  "description": "La Caf ou la MSA peut accorder une aide aux loisirs pour aider les parents à payer les activités sportives et culturelles de leur enfant durant l'année scolaire",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-05-14",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33680",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Loisirs - Sports - Culture",
+    "Aides aux vacances",
+    "Aide aux loisirs pour les enfants (aide au temps libre, bons loisirs, forfait loisirs jeunes, carte tickets loisirs...)"
+  ],
+  "introduction": "Vous souhaitez bénéficier d'une aide pour vous aider à payer une activité de loisir à votre enfant durant l'année scolaire (activité sportive, culturelle...) ? La Caf ou la MSA peut vous accorder une aide aux loisirs. En fonction des départements, cette aide peut prendre différentes formes : Aide au temps libre, Bons loisirs, Forfait loisirs jeunes, Carte tickets loisirs... Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Qu'est-ce que l'aide aux loisirs pour les enfants versée par la Caf ou la MSA ?",
+      "contenu": [
+        "La Caf (si vous relevez du régime général) ou la MSA (si vous relevez du régime agricole) peut vous accorder une aide aux loisirs pour vous aider à payer les activités sportives ou culturelles de votre enfant durant l'année scolaire.",
+        "Cette aide peut aussi vous aider à payer les accueils de loisirs sans hébergement les mercredis ou pendant les vacances scolaires d'automne, d'hiver et de printemps.",
+        "L'aide aux loisirs peut prendre différentes formes comme, par exemple :",
+        "• L'aide au temps libre, le forfait loisirs jeunes (somme d'argent versée sur votre compte bancaire)",
+        "• La carte tickets loisirs (somme créditée sur une carte rechargeable)",
+        "• Les bons loisirs (carnet de chèques comme les chèques-vacances).",
+        "L'aide aux loisirs doit être utilisée auprès d'organismes ayant signé un accord avec la Caf ou la MSA. Cela inclut généralement les associations sportives, écoles de musique, clubs artistiques et certains centres de loisirs.",
+        "Certaines Caf ou MSA peuvent également proposer une aide aux vacances pour les enfants et les familles. Ces aides sont alors cumulables avec l'aide aux loisirs.",
+        "[Attention] L'aide aux loisirs versée par la Caf ou la MSA est accordée dans la limite des fonds disponibles. Cela signifie qu'une fois que le budget servant à ces aides est épuisé, l'aide ne peut plus être attribuée même si vous remplissez les conditions pour en bénéficier."
+      ]
+    },
+    {
+      "titre": "Quelles sont les conditions d'attribution de l'aide aux loisirs pour les enfants ?",
+      "contenu": [
+        "Pour pouvoir bénéficier d'une aide aux loisirs, vous devez respecter les 3 conditions suivantes :",
+        "• Percevoir une prestation familiale versée par la Caf ou la MSA",
+        "• Avoir 1 ou plusieurs enfant(s). Il existe un critère d'attribution basé sur l'âge des enfants, mais celui-ci est propre à chaque département. En général, l'aide concerne les enfants âgés de 3 ans à 16 ans.",
+        "• Avoir un quotient familial situé généralement entre 500 € et 850 € (les montants sont également propres à chaque département)."
+      ]
+    },
+    {
+      "titre": "Comment bénéficier de l'aide aux loisirs pour les enfants ?",
+      "contenu": [
+        "En général, nous n'avez pas de démarche à faire.",
+        "La Caf ou la MSA vous adresse une attestation de droit pour vous informer que vous bénéficiez de l'aide aux loisirs. Cette attestation de droit vous explique comment utiliser l'aide auprès des organismes d'activités de loisirs.",
+        "Toutefois, la Caf ou la MSA peut exiger que vous remplissiez un formulaire pour obtenir l'aide aux loisirs. Ce formulaire peut être téléchargé sur le site Internet de votre Caf ou MSA.",
+        "Vous recevez ensuite une attestation de droit à l'aide aux loisirs si vous remplissez les conditions pour obtenir cette aide.",
+        "Pour en savoir plus, vous devez donc contacter votre Caf ou votre MSA ou consulter son site Internet.",
+        "Caisse d'allocations familiales (Caf)",
+        "Mutualité sociale agricole (MSA)"
+      ]
+    },
+    {
+      "titre": "Quel est le montant de l'aide aux loisirs pour les enfants ?",
+      "contenu": [
+        "Le montant de l'aide aux loisirs varie selon les revenus de votre famille et le nombre d'enfants à votre charge au sens de l'impôt sur le revenu.",
+        "De plus, pour une même situation, le montant peut varier d'une Caf ou MSA à une autre.",
+        "[À savoir] Si votre enfant est en situation de handicap, le montant de l'aide aux loisirs est plus important."
+      ]
+    },
+    {
+      "titre": "Comment utiliser l'aide aux loisirs pour les enfants ?",
+      "contenu": [
+        "Lors de l'inscription de votre enfant à une activité, vous devez présenter à l'organisateur de l'activité votre attestation de droit à l'aide aux loisirs. L'attestation doit être complétée et signée par cet organisme.",
+        "Vous devez renvoyer votre attestation à votre Caf ou MSA par courrier pour qu'elle procède à l'attribution de votre aide. Vous pourrez ensuite payer l'activité de votre enfant auprès de l'organisme."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [
+    "Caisse d'allocations familiales (Caf)",
+    "Mutualité sociale agricole (MSA)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "aide-aux-loisirs-pour-les-enfants-aide-au-temps-libre-bons-loisirs-forfait-loisirs-jeunes-carte-tickets-loisirs",
+  "path": [
+    {
+      "slug": "loisirs-sports-culture",
+      "titre": "Loisirs - Sports - Culture"
+    },
+    {
+      "slug": "aides-aux-vacances",
+      "titre": "Aides aux vacances"
+    }
+  ]
+}

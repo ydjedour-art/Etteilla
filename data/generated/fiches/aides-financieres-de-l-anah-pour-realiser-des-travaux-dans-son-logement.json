@@ -1,0 +1,267 @@
+{
+  "id": "F1328",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Aides financières de l'Anah pour réaliser des travaux dans son logement",
+  "theme": "Logement",
+  "description": "L'Agence nationale de l'habitat peut accorder des aides financières pour réaliser des travaux de rénovation énergétique, d'adaptation à la perte d'autonomie...",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-01-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1328",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Aides et prêts pour l'amélioration et la rénovation énergétique de l'habitat",
+    "Aides financières de l'Anah pour réaliser des travaux dans son logement"
+  ],
+  "introduction": "Vous souhaitez réaliser des travaux dans votre logement (rénovation énergétique, adaptation à la perte d'autonomie...) ? L'Agence nationale de l'habitat (Anah) peut vous accorder une aide financière, sous conditions. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Quelles sont les aides versées par l'Agence nationale de l'habitat (Anah) ?",
+      "contenu": [
+        "L'Anah propose plusieurs types d'aide pour la réalisation de travaux de rénovation énergétique parmi lesquelles :",
+        "• MaPrimeRénov'",
+        "• MaPrimeRénov' Copropriété",
+        "• Loc' Avantages.",
+        "L'Anah propose aussi l'aide MaPrimeAdapt' pour adapter son logement à la perte d'autonomie (installation d'un monte-escalier électrique, aménagement de la salle de bain...).",
+        "L'Anah propose enfin l’aide Ma Prime Logement décent pour sécuriser les logements indignes (insalubres) ou dégradés.",
+        "Un simulateur présente les aides financières dont vous pouvez bénéficier pour vos travaux :",
+        "Estimer les aides financières pour la rénovation de l’habitat"
+      ]
+    },
+    {
+      "titre": "Quelles sont les conditions pour bénéficier des aides de l'Agence nationale de l'habitat (Anah) ?",
+      "contenu": [
+        "Vous devez respecter certaines conditions tenant à votre situation, vos travaux, votre logement et vos ressources.",
+        "Conditions liées à votre situation",
+        "Selon les dispositifs, les personnes pouvant bénéficier des aides de l’Anah sont les suivantes :",
+        "• Propriétaire occupant",
+        "• Propriétaire bailleur",
+        "• Locataire",
+        "• Syndicat des copropriétaires.",
+        "Conditions liées aux travaux",
+        "Les aides de l’Anah ne sont pas attribuées pour les travaux suivants :",
+        "• Travaux de décoration",
+        "• Travaux de construction neuve",
+        "• Travaux d'agrandissement.",
+        "Vos travaux doivent en principe être réalisés par un professionnel reconnu garant de l'environnement (RGE).",
+        "Vous pouvez utiliser un annuaire officiel pour rechercher un professionnel RGE :",
+        "Rechercher un professionnel reconnu garant de l'environnement (RGE) ou un architecte référencé pour réaliser un audit énergétique ou un diagnostiqueur certifié pour réaliser un diagnostic de performance énergétique (DPE)",
+        "Conditions liées au logement",
+        "Les aides de l'Anah sont attribuées principalement pour la résidence principale.",
+        "Conditions liées aux ressources",
+        "Vos revenus et ceux de l'ensemble des personnes qui occupent le logement sont pris en compte. Ces revenus ne doivent pas dépasser un plafond de ressources classé en 3 catégories :",
+        "• Revenus très modestes",
+        "• Revenus modestes",
+        "• Revenus intermédiaires",
+        "Les revenus retenus sont les revenus fiscaux de référence (RFR) de l'année N-1 (soit 2025 pour les demandes faites en 2026).",
+        "Revenus très modestes",
+        "Plafonds de ressources aides de l'Anah pour les ménages très modestes",
+        "Composition du foyer",
+        "Île-de-France",
+        "Hors Île-de-France",
+        "1 personne",
+        "24 031 €",
+        "17 363 €",
+        "2 personnes",
+        "35 270 €",
+        "25 393 €",
+        "3 personnes",
+        "42 357 €",
+        "30 540 €",
+        "4 personnes",
+        "49 455 €",
+        "35 676 €",
+        "5 personnes",
+        "56 580 €",
+        "40 835 €",
+        "Par personne supplémentaire",
+        "+ 7 116 €",
+        "+ 5 151 €",
+        "Revenus modestes",
+        "Plafonds de ressources aides de l'Anah pour les ménages modestes",
+        "Composition du foyer",
+        "Île-de-France",
+        "Hors Île-de-France",
+        "1 personne",
+        "29 253 €",
+        "22 259 €",
+        "2 personnes",
+        "42 933 €",
+        "32 553 €",
+        "3 personnes",
+        "51 564 €",
+        "39 148 €",
+        "4 personnes",
+        "60 208 €",
+        "45 735 €",
+        "5 personnes",
+        "68 877 €",
+        "52 348 €",
+        "Par personne supplémentaire",
+        "+ 8 663 €",
+        "+6 598 €",
+        "Revenus intermédiaires",
+        "Plafonds de ressources aides de l'Anah pour les ménages intermédiaires",
+        "Composition du foyer",
+        "Île-de-France",
+        "Hors Île-de-France",
+        "1 personne",
+        "40 851 €",
+        "31 185 €",
+        "2 personnes",
+        "60 051 €",
+        "45 842 €",
+        "3 personnes",
+        "71 846 €",
+        "55 196 €",
+        "4 personnes",
+        "84 562 €",
+        "64 550 €",
+        "5 personnes",
+        "96 817 €",
+        "73 907 €",
+        "Par personne supplémentaire",
+        "+ 12 257 €",
+        "+ 9 357 €"
+      ]
+    },
+    {
+      "titre": "Quelle est la démarche pour bénéficier des aides de l'Agence nationale de l'habitat (Anah) ?",
+      "contenu": [
+        "Avant de demander une aide de l'Anah, il est vivement recommandé de contacter gratuitement un conseiller France Rénov' pour vous aider à élaborer votre projet de travaux, mobiliser les aides financières publiques ou privées et vous orienter vers des professionnels compétents tout au long de votre projet :",
+        "Conseillers spécialisés en travaux de rénovation de l'habitat (France Rénov')",
+        "Permet de se faire accompagner gratuitement dans ses travaux de rénovation par des conseillers de France Rénov'.",
+        "Par téléphone",
+        "0 808 800 700",
+        "Ouvert du lundi au vendredi de 9h à 18h. Vous devez avoir votre dernier avis d'imposition.",
+        "Service gratuit + coût d'un appel",
+        "Vous devez faire votre demande en ligne. Pour cela, vous devez au préalable créer un compte personnel sur le site de l'Agence nationale de l'habitat (Anah) :",
+        "Demande en ligne d'une aide financière de l'Anah (constitution, suivi de la demande...)",
+        "Vous êtes la seule personne autorisée à créer votre compte personnel. Une fois votre compte créé, vous pouvez choisir de désigner un mandataire pour vous accompagner dans vos démarches.",
+        "Le mandataire peut intervenir :",
+        "• en gestion administrative pour vous aider à constituer et suivre votre dossier",
+        "• en perception de fonds, c’est-à-dire pour recevoir l’aide à votre place, mais pour votre compte.",
+        "Le mandataire peut cumuler ces 2 types de missions.",
+        "L’activité de mandataire est strictement encadrée. Un guide dédié aux mandataires est mis à disposition pour obtenir des informations complémentaires."
+      ]
+    },
+    {
+      "titre": "Comment sont instruites les demandes d'aide de l'Agence nationale de l'habitat (Anah) ?",
+      "contenu": [
+        "Le versement des aides de l'Anah n'est pas automatique.",
+        "Le montant de l'aide dépend de nombreux facteurs comme la nature des travaux envisagés, leur montant, vos ressources.",
+        "L'Anah apprécie aussi l'intérêt de votre projet de travaux."
+      ]
+    },
+    {
+      "titre": "Quels sont les montants des aides de l'Agence nationale de l'habitat (Anah) ?",
+      "contenu": [
+        "Les montants varient selon les éléments suivants :",
+        "• Type de bénéficiaire",
+        "• Type de travaux",
+        "• Ressources du ménage",
+        "• Localisation du logement."
+      ]
+    },
+    {
+      "titre": "Quand sont versées les aides de l'Agence nationale de l'habitat (Anah) ?",
+      "contenu": [
+        "Les aides de l'Anah sont généralement versées une fois que vos travaux sont terminés.",
+        "Toutefois, l'Anah peut décider de vous accorder une avance pour commencer vos travaux. Vous devez en faire la demande en ligne depuis votre espace personnel :",
+        "Demande en ligne d'une aide financière de l'Anah (constitution, suivi de la demande...)"
+      ]
+    },
+    {
+      "titre": "À quel moment commencer les travaux en cas d'attribution d'une aide de l'Agence nationale de l'habitat (Anah) ?",
+      "contenu": [
+        "En règle générale, les travaux ne peuvent commencer qu'à partir de la réception de la décision vous attribuant l'aide. En effet, un démarrage anticipé peut entraîner un refus de l’aide.",
+        "Toutefois, dans certains cas, un accusé de réception peut indiquer la possibilité de commencer les travaux sans que cela constitue un accord définitif.",
+        "Les travaux doivent généralement être réalisés dans un délai de 2 ans suivant la décision vous accordant l'aide. Sinon, l'aide n'est pas versée."
+      ]
+    },
+    {
+      "titre": "Quelle démarche faire à la fin des travaux pour recevoir l'aide de l'Agence nationale de l'habitat (Anah) ?",
+      "contenu": [
+        "Dès la fin des travaux, vous devez transmettre à l'Anah la facture des artisans qui ont réalisé vos travaux pour demander le versement de l'aide :",
+        "Demande en ligne d'une aide financière de l'Anah (constitution, suivi de la demande...)",
+        "L'Anah intervient par la suite pour procéder au paiement.",
+        "L'aide est versée en 1 fois par virement bancaire."
+      ]
+    },
+    {
+      "titre": "Les aides de l'Agence nationale de l'habitat (Anah) sont-elles cumulables avec d'autres aides ?",
+      "contenu": [
+        "Oui, les aides de l'Anah sont cumulables avec le chèque énergie, l'éco-prêt à taux zéro (éco-PTZ) et le prêt à taux zéro (PTZ).",
+        "Vous bénéficiez également de la taxe sur la valeur ajoutée (TVA) réduite (5,5 %) pour vos travaux."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la construction et de l'habitation : articles R321-12 à R321-22",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000022938091"
+    },
+    {
+      "titre": "Décret n°2025-1293 du 22 décembre 2025 portant encadrement de l'activité de mandataire dans le cadre des aides au parc privé gérées par l'Agence nationale de l'habitat",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053159946"
+    },
+    {
+      "titre": "Arrêté du 22 mai 2023 portant approbation du règlement général de l'Agence nationale de l'habitat",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000047623986/"
+    },
+    {
+      "titre": "Arrêté du 24 mai 2013 relatif aux plafonds de ressources applicables à certains bénéficiaires des subventions de l'Agence nationale de l'habitat",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000027481142"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demande en ligne d'une aide financière de l'Anah (constitution, suivi de la demande...)",
+      "url": "https://monprojet.anah.gouv.fr/",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Estimer ses droits aux aides à la rénovation énergétique",
+      "url": "https://mesaides.france-renov.gouv.fr/",
+      "type": "simulateurNG"
+    },
+    {
+      "titre": "Calculette Ma plus-value Réno",
+      "url": "https://mesaidesreno.beta.gouv.fr/module/plus-value",
+      "type": "Simulateur"
+    }
+  ],
+  "contacts": [
+    "Conseillers spécialisés en travaux de rénovation de l'habitat (France Rénov')",
+    "Agence nationale de l'habitat (Anah)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "MaPrimeRénov' Copropriété",
+      "url": "https://www.anah.fr/copropriete/syndicat-de-coproprietaires/beneficier-de-laide-maprimerenov-coproprietes/"
+    },
+    {
+      "titre": "Ma Prime Logement décent",
+      "url": "https://france-renov.gouv.fr/aides/ma-prime-logement-decent"
+    },
+    {
+      "titre": "Aide Loc'Avantages",
+      "url": "https://www.anah.fr/proprietaires/proprietaires-bailleurs/locavantages/financer-vos-travaux/"
+    },
+    {
+      "titre": "Guide des aides financières de l'Anah",
+      "url": "https://www.anah.gouv.fr/sites/default/files/2026-03/202602_guide-aides-financieres_WEB.pdf"
+    }
+  ],
+  "slug": "aides-financieres-de-l-anah-pour-realiser-des-travaux-dans-son-logement",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "aides-et-prets-pour-l-amelioration-et-la-renovation-energetique-de-l-habitat",
+      "titre": "Aides et prêts pour l'amélioration et la rénovation énergétique de l'habitat"
+    }
+  ]
+}

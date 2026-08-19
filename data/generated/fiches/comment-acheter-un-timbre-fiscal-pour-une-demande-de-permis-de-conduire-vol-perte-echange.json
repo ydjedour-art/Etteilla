@@ -1,0 +1,95 @@
+{
+  "id": "F34118",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Comment acheter un timbre fiscal pour une demande de permis de conduire (vol, perte, échange) ?",
+  "theme": "Transports - Mobilité",
+  "description": "Le renouvellement d’un permis de conduire volé ou perdu et l’échange d’un permis étranger sont soumis à une taxe (droit de timbre).",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-05-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34118",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Permis de conduire",
+    "Comment acheter un timbre fiscal pour une demande de permis de conduire (vol, perte, échange) ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "L’achat d’un timbre fiscal électronique est obligatoire pour les démarches suivantes :",
+        "• Renouveler un permis de conduire perdu ou volé. Le timbre coûte 25 € (12,5 € en Guyane).",
+        "• Échanger un permis de conduire délivré par un pays européen ou par un autre pays. Le timbre coûte 40 € (20 € en Guyane).",
+        "Vous pouvez acheter le timbre en ligne sur internet ou dans un bureau de tabac.",
+        "En ligne",
+        "Lors de la démarche en ligne sur le site de France Titres - ANTS",
+        "Vous pouvez payer le timbre fiscal électronique lors des démarches en ligne concernées, sur le site de France Titres - ANTS.",
+        "Demander en ligne le renouvellement d’un permis de conduire perdu ou volé",
+        "Connexion avec France Connect ou avec l’application France Identité ou avec vos identifiants France Titres (ANTS)",
+        "Échanger un permis étranger ou obtenu dans une Com pour un permis français",
+        "Connexion avec France Connect ou avec l’application France Identité ou avec vos identifiants France Titres (ANTS)",
+        "Sur le site des impôts",
+        "Vous pouvez acheter le timbre fiscal électronique sur le site timbres.impots.gouv.fr.",
+        "Achat en ligne du timbre fiscal - Permis de conduire",
+        "Le timbre électronique est valable 1 an à partir de sa date d'achat.",
+        "Si finalement vous n'utilisez pas le timbre fiscal, vous pouvez demander en ligne son remboursement dans les 18 mois qui suivent son achat :",
+        "Demander le remboursement d'un timbre électronique",
+        "Préparez la référence de la transaction (indiquée sur le justificatif de paiement).",
+        "Dans un bureau de tabac",
+        "Vous pouvez acheter le timbre fiscal électronique dans un bureau de tabac s'il est équipé de l'application Point de vente agréé.",
+        "Le timbre électronique est valable 1 an à partir de sa date d'achat.",
+        "Si finalement vous n'utilisez pas le timbre fiscal, vous pouvez demander en ligne son remboursement dans les 18 mois qui suivent son achat :",
+        "Demander le remboursement d'un timbre électronique",
+        "Préparez la référence de la transaction (indiquée sur le justificatif de paiement)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Arrêté du 20 avril 2012 fixant les conditions d'établissement, de délivrance et de validité du permis de conduire",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000025803494/"
+    },
+    {
+      "titre": "Code des impositions sur les biens et services : articles L421-168 à L421-174",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044595989/LEGISCTA000044599381"
+    },
+    {
+      "titre": "Code général des impôts : articles 899 à 900 B",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000030062715/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Achat en ligne du timbre fiscal - Permis de conduire",
+      "url": "https://timbres.impots.gouv.fr",
+      "type": "selNG"
+    },
+    {
+      "titre": "Demander le remboursement d'un timbre électronique",
+      "url": "https://timbres.impots.gouv.fr",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "France Titres - Permis de conduire",
+    "Point d'accueil numérique"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Timbre fiscal électronique",
+      "url": "https://timbres.impots.gouv.fr/index.jsp"
+    }
+  ],
+  "slug": "comment-acheter-un-timbre-fiscal-pour-une-demande-de-permis-de-conduire-vol-perte-echange",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "permis-de-conduire",
+      "titre": "Permis de conduire"
+    }
+  ]
+}

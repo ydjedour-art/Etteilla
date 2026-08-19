@@ -1,0 +1,125 @@
+{
+  "id": "F50",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Droits de douane sur les achats personnels rapportés de l’UE ou de l’étranger",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Au retour d’un voyage, les droits de douane varient selon le pays, la valeur et les quantités rapportées. Des règles spécifiques s’appliquent hors UE.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-01-27",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F50",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Douane",
+    "Droits de douane sur les achats personnels rapportés de l’UE ou de l’étranger"
+  ],
+  "introduction": "Lorsque vous revenez en France après un voyage, vous pouvez rapporter des achats personnels. Selon le pays où vous êtes allé, vous devrez déclarer ou non ces achats et éventuellement payer des droits de douane ou de la TVA. Les règles diffèrent selon que vous revenez d'un pays de l'Union européenne (UE) ou d’un autre pays. Nous vous donnons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "[Attention] Les pays et territoires suivants ne sont pas concernés par les règles d'achat en UE, mais par des règles particulières : Guyane, Réunion, Mayotte, Guadeloupe et Martinique, Polynésie française, Saint-Pierre-et-Miquelon, Wallis-et-Futuna, Saint-Barthélemy et Saint-Martin, Nouvelle-Calédonie, Îles anglo-normandes, Îles Canaries, Andorre, Suisse. Ces pays et territoires ne sont pas traités dans cette fiche."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général des impôts, annexe 4 : articles 50 septies à 50 octies C",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000020786766/"
+    },
+    {
+      "titre": "Code des douanes : article 410",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044872578"
+    },
+    {
+      "titre": "Code des douanes : article 411",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006169084"
+    },
+    {
+      "titre": "Code des douanes : article 412",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006169085"
+    },
+    {
+      "titre": "Code des douanes : article 413",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000026893048"
+    },
+    {
+      "titre": "Code des douanes : articles 413 bis et 413 ter",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006169086"
+    },
+    {
+      "titre": "Code des douanes : articles 414 à 416 bis",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071570/LEGISCTA000006153206"
+    },
+    {
+      "titre": "Code des douanes : articles 415 et 415-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006169093"
+    },
+    {
+      "titre": "Code des douanes : articles 416 et 416 bis",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000028288648"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Calculer les droits de douanes sur vos achats à l'étranger, hors UE",
+      "url": "https://declare-douane.beta.gouv.fr/simulateur/configuration/etape1/",
+      "type": "Simulateur"
+    },
+    {
+      "titre": "DéclareDouane : aide à la préparation des démarches douanières lors d'achats de biens à l'étranger hors UE",
+      "url": "https://declare-douane.beta.gouv.fr/",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Carte géolocalisée interactive des services douaniers français ouverts au public",
+      "url": "https://www.douane.gouv.fr/carte-interactive-des-services-douaniers-ouverts-au-public",
+      "type": "Outil de recherche"
+    }
+  ],
+  "contacts": [
+    "Infos Douane Service",
+    "Bureaux des douanes (français et étrangers)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Calcul des droits et taxes sur les achats à l'étranger",
+      "url": "http://www.douane.gouv.fr/articles/a10798-calcul-des-droits-et-taxes-sur-les-achats-a-l-etranger"
+    },
+    {
+      "titre": "Passer la douane à Andorre : taxes et franchises",
+      "url": "https://www.douane.gouv.fr/passer-la-douane-en-andorre-taxes-et-franchises"
+    },
+    {
+      "titre": "Passer la douane en Suisse",
+      "url": "https://www.ch.ch/fr/douane/biens-delicats-pour-l-entree-en-suisse/"
+    },
+    {
+      "titre": "Vous voyagez aux Antilles",
+      "url": "https://www.douane.gouv.fr/fiche/vous-voyagez-aux-antilles"
+    },
+    {
+      "titre": "Vous voyagez à la Réunion",
+      "url": "https://www.douane.gouv.fr/fiche/vous-voyagez-la-reunion"
+    },
+    {
+      "titre": "Cas particuliers de l'île Saint Martin et de l'île de Saint Barthélemy",
+      "url": "https://www.douane.gouv.fr/fiche/cas-particuliers-de-lile-de-saint-martin-et-de-lile-de-saint-barthelemy"
+    },
+    {
+      "titre": "Conseils aux voyageurs",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs"
+    }
+  ],
+  "slug": "droits-de-douane-sur-les-achats-personnels-rapportes-de-l-ue-ou-de-l-etranger",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "douane",
+      "titre": "Douane"
+    }
+  ]
+}

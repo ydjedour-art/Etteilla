@@ -1,0 +1,76 @@
+{
+  "id": "F961",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Déclaration de naissance",
+  "theme": "Famille - Scolarité",
+  "description": "La déclaration de naissance est obligatoire pour tout enfant. Elle est faite par une personne ayant assisté à l'accouchement pour établir l'acte de naissance.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-06-18",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F961",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Naissance et filiation",
+    "Déclaration de naissance"
+  ],
+  "introduction": "Vous venez d'avoir un enfant ? La déclaration de naissance est obligatoire pour tout enfant né en France. Elle doit être faite par une personne ayant assisté à l'accouchement. Elle permet d'établir l'acte de naissance. En cas de naissance d'un enfant français à l'étranger, la déclaration doit être faite selon des formalités spécifiques. Nous vous indiquons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code civil : articles 34 à 54",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006136100"
+    },
+    {
+      "titre": "Code civil : articles 55 à 59",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006149970/#LEGISCTA000006149970"
+    },
+    {
+      "titre": "Code pénal : articles 433-18-1 à 433-21-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006165376/"
+    },
+    {
+      "titre": "Décret n° 2017-278 du 2 mars 2017 relatif au délai de déclaration de naissance",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000034133589/"
+    },
+    {
+      "titre": "Décret n°2004-1159 du 29 octobre 2004 relative au nom de famille et à l'état civil",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000237596"
+    },
+    {
+      "titre": "Circulaire du 28 octobre 2011 portant sur divers actes de l'état civil relatifs à la naissance et à la filiation",
+      "url": "https://www.legifrance.gouv.fr/circulaire/id/34124"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Déclarer une naissance (Ameli)",
+      "url": "https://assure.ameli.fr/PortailAS/appmanager/PortailAS/assure?_nfpb=true&_pageLabel=as_declarer_naissance_page",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "Service central d'état civil (Scec)",
+    "Caisse d'allocations familiales (Caf)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Parcours naissance",
+      "url": "https://www.caf.fr/allocataires/parcours-naissance"
+    },
+    {
+      "titre": "Les naissances à l'étranger",
+      "url": "https://www.diplomatie.gouv.fr/fr/services-aux-francais/etat-civil-et-nationalite-francaise/etat-civil/article/declarer-la-naissance-ou-la-reconnaissance-d-un-enfant-a-l-etranger"
+    }
+  ],
+  "slug": "declaration-de-naissance",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "naissance-et-filiation",
+      "titre": "Naissance et filiation"
+    }
+  ]
+}

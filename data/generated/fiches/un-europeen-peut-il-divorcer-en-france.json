@@ -1,0 +1,53 @@
+{
+  "id": "F36419",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Un Européen peut-il divorcer en France ?",
+  "theme": "Famille - Scolarité",
+  "description": "Oui, vous pouvez divorcer en France si vous êtes citoyen d'un pays membre de l'Union européenne (UE).",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-07-23",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F36419",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Divorce, séparation de corps",
+    "Un Européen peut-il divorcer en France ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Oui, vous pouvez divorcer en France si vous êtes citoyen d'un pays membre de l'Union européenne (UE).",
+        "Vous pouvez demander le divorce, une séparation de corps ou une annulation de mariage.",
+        "Vous pouvez déposer votre demande auprès d'un tribunal français si vous êtes dans une des situations suivantes :",
+        "• Vous résidez en France avec votre époux ou épouse",
+        "• Votre dernière résidence commune habituelle est en France et l'un d'entre vous y réside encore",
+        "• Vous êtes défendeur à une procédure en divorce, en séparation de corps ou d’annulation de mariage, votre résidence habituelle est en France",
+        "• Vous êtes demandeur à une procédure en divorce, en séparation de corps ou d’annulation de mariage, votre résidence habituelle est en France et vous y avez vécu au moins 1 an immédiatement avant d'introduire la demande",
+        "• Vous faites une demande conjointe en divorce et vous ou votre époux ou épouse résidez en France.",
+        "Le tribunal compétent pour statuer sur le divorce pourra également décider des questions liées aux droits et obligations des parents si l'enfant vit en France."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Règlement (UE) 2019/1111 relatif à la compétence, la reconnaissance et l'exécution des décisions en matière matrimoniale et en matière de responsabilité parentale",
+      "url": "https://eur-lex.europa.eu/eli/reg/2019/1111/oj?eliuri=eli%3Areg%3A2019%3A1111%3Aoj&locale=fr"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "un-europeen-peut-il-divorcer-en-france",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "divorce-separation-de-corps",
+      "titre": "Divorce, séparation de corps"
+    }
+  ]
+}

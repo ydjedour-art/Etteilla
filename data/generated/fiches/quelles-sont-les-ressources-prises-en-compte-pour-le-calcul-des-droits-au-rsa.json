@@ -1,0 +1,109 @@
+{
+  "id": "F24585",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quelles sont les ressources prises en compte pour le calcul des droits au RSA ?",
+  "theme": "Social - Santé",
+  "description": "Les ressources prises en compte sont notamment les revenus d'activité salariée, les indemnités journalières de maternité et de maladie.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-07-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F24585",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Revenu de solidarité active (RSA)",
+    "Quelles sont les ressources prises en compte pour le calcul des droits au RSA ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Le montant du RSA est calculé selon vos ressources et de celles des membres de votre foyer.",
+        "Les ressources prises en compte sont les suivantes :",
+        "• Revenus d'activité salariée (salaires, primes, heures supplémentaires, rémunérations par Cesu préfinancés, indemnité de licenciement, indemnité compensatrice de congés payés, indemnité compensatrice de préavis, etc.)",
+        "• Revenus d'activité non salariée",
+        "• Indemnité de volontariat dans certains cas",
+        "• Indemnités journalières de maternité, paternité, adoption",
+        "• Indemnités journalières de congé supplémentaire de naissance à compter du 1er juillet 2026",
+        "• Indemnités journalière de maladie, accident du travail, maladie professionnelle",
+        "• Indemnités de chômage partiel",
+        "• Allocations chômage (allocation d'aide au retour à l'emploi, allocation de sécurisation professionnelle)",
+        "• Pension de retraite",
+        "• Rentes et capitaux versés en cas de décès",
+        "• Pensions alimentaires et prestations compensatoires",
+        "• Dédommagement versé aux victimes de l'amiante",
+        "• Ressources exceptionnelles (vente d'une maison, vente d'un immeuble, vente d'un terrain, héritage, gains aux jeux, etc.)",
+        "• Capitaux placés (les biens non productifs de revenu réel sont considérés comme produisant fictivement un revenu annuel égal à 3 % de leur montant (contrat d'assurance-vie par exemple). En revanche, le livret A n'est pas concerné par le taux de 3 % : vous devez uniquement déclarer les intérêts annuellement perçus. Les sommes figurant sur les comptes courants ne sont pas retenues dans le calcul du RSA.",
+        "• Certaines prestations familiales (par exemple : allocations familiales, complément familial, allocation de soutien familial)",
+        "• Allocation aux adultes handicapés (AAH)",
+        "• Allocation supplémentaire d'invalidité (ASI)",
+        "• Prime forfaitaire mensuelle pour reprise d'activité",
+        "• Loyers d'un logement ou d'un immeuble loué",
+        "• Valeur locative d'un logement, d'un immeuble, d'un local ou d'un terrain non loué",
+        "• Allocation de l'aide sociale à l'enfance en tant que tiers digne de confiance.",
+        "[À noter] Le montant net social est pris en compte pour déterminer le montant forfaitaire du RSA.",
+        "Ces ressources sont différemment prises en compte selon votre situation personnelle.",
+        "Vous devez vérifier votre déclaration trimestrielle de ressources préremplie, la valider et, si besoin, la compléter avec vos autres ressources perçues sur la période (pension alimentaire par exemple).",
+        "Pour en savoir plus :",
+        "Régime général (Caf)",
+        "Vous pouvez obtenir une estimation de vos droits en utilisant un simulateur :",
+        "Estimer son droit au RSA (Caf)",
+        "Vous pouvez vous renseigner auprès de votre Caf.",
+        "Caisse d'allocations familiales (Caf)",
+        "Régime agricole (MSA)",
+        "Vous pouvez vous renseigner auprès de la MSA.",
+        "Mutualité sociale agricole (MSA)"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'action sociale et des familles : articles L262-2 à L262-12",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000019869120"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : articles R262-6 à R262-14",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000020526211"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : article R132-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006178301"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : articles L132-1 à L132-12",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006157562"
+    },
+    {
+      "titre": "Décret n°2017-811 du 5 mai 2017 relatif au calcul du revenu de solidarité active pour les travailleurs non salariés",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000034602577/"
+    },
+    {
+      "titre": "Réponse ministérielle n°84436 du 5 avril 2016 relative aux biens productifs ou non de revenu réel",
+      "url": "http://questions.assemblee-nationale.fr/q14/14-84436QE.htm"
+    },
+    {
+      "titre": "Conseil d'État, 1ère chambre, 14/06/2017, 401637",
+      "url": "https://www.legifrance.gouv.fr/ceta/id/CETATEXT000034940738/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Estimer son droit au RSA (Caf)",
+      "url": "https://wwwd.caf.fr/wps/portal/caffr/aidesetdemarches/mesdemarches/faireunesimulation/lersa#/",
+      "type": "Simulateur"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "quelles-sont-les-ressources-prises-en-compte-pour-le-calcul-des-droits-au-rsa",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "revenu-de-solidarite-active-rsa",
+      "titre": "Revenu de solidarité active (RSA)"
+    }
+  ]
+}

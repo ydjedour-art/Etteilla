@@ -1,0 +1,40 @@
+{
+  "id": "F341",
+  "type_publication": "Fiche avec liens externes",
+  "titre": "Juridictions européennes (CEDH, CJUE)",
+  "theme": "Justice",
+  "description": "La justice de l’Union européenne est assurée par 3 juridictions",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-11-12",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F341",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Juridictions",
+    "Juridictions européennes (CEDH, CJUE)"
+  ],
+  "introduction": "Par quelles juridictions est assurée la justice de l’Union européenne (UE) ? 3 juridictions assurent le respect du droit européen par ses états membres : le tribunal de l'Union européenne, la Cour de justice de l'Union européenne (CJUE) et la Cour européenne des droits de l'homme (CEDH). Le tribunal de l'Union européenne et la CJUE dépendent de l'Union européenne, alors que la CEDH dépend du Conseil de l'Europe.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Convention européenne des droits de l’Homme",
+      "url": "https://www.echr.coe.int/documents/d/echr/convention_fra"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Europe Direct"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "juridictions-europeennes-cedh-cjue",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "juridictions",
+      "titre": "Juridictions"
+    }
+  ]
+}

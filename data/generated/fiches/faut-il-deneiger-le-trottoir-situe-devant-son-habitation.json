@@ -1,0 +1,71 @@
+{
+  "id": "F15133",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Faut-il déneiger le trottoir situé devant son habitation ?",
+  "theme": "Logement",
+  "description": "Vous devez déneiger le trottoir situé devant votre habitation si un arrêté du maire le prévoit. Sinon, c'est la mairie (le service voirie) qui s'en charge.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-01-07",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F15133",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Vie pratique en logement individuel (maison)",
+    "Faut-il déneiger le trottoir situé devant son habitation ?"
+  ],
+  "introduction": "Oui, vous devez déneiger le trottoir situé devant votre habitation si un arrêté du maire le prévoit. S'il existe, l'arrêté est affiché en mairie. Sinon, c'est la mairie (le service voirie) qui s'en charge.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Tout dépend donc de ce que la mairie a prévu :"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général des collectivités territoriales : articles L2212-1 à L2212-5-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006164555"
+    },
+    {
+      "titre": "Code civil : articles 1240 à 1244",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032021488/"
+    },
+    {
+      "titre": "Code pénal : article R610-5",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045176320"
+    },
+    {
+      "titre": "Réponse ministérielle du 17 avril 2012 sur l'obligation de déneigement et les responsabilités en cas d'accident",
+      "url": "http://questions.assemblee-nationale.fr/q13/13-97675QE.htm"
+    },
+    {
+      "titre": "Réponse ministérielle du 9 novembre 2006 sur les textes législatifs et réglementaires fixant l'obligation de déneigement aux riverains",
+      "url": "https://www.senat.fr/questions/base/2006/qSEQ060523282.html"
+    },
+    {
+      "titre": "Circulaire du 26 avril 1982 relative à la modification du réglement sanitaire départemental type",
+      "url": "https://www.legifrance.gouv.fr/circulaire/id/8874?"
+    },
+    {
+      "titre": "Code pénal : article R610-5",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045176320"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Mairie"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "faut-il-deneiger-le-trottoir-situe-devant-son-habitation",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "vie-pratique-en-logement-individuel-maison",
+      "titre": "Vie pratique en logement individuel (maison)"
+    }
+  ]
+}

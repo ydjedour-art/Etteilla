@@ -1,0 +1,76 @@
+{
+  "id": "F1432",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Acte de mariage : demande de copie intégrale ou d'extrait",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "La demande d'un acte de mariage est gratuite et se fait principalement sur internet, que vous résidiez en France ou à l'étranger.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-01-23",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1432",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Actes d'état civil",
+    "Acte de mariage : demande de copie intégrale ou d'extrait"
+  ],
+  "introduction": "Vous souhaitez demander un acte de mariage et vous voulez savoir comment procéder ? La démarche varie en fonction du lieu du mariage : en France ou à l'étranger. Dans tous les cas, la demande d'un acte de mariage est gratuite.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code civil : articles 63 à 76",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006136104"
+    },
+    {
+      "titre": "Code des relations entre le public et l'administration : articles L311-9 à R311-15",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000031367725/"
+    },
+    {
+      "titre": "Ordonnance n°2019-724 du 10 juillet 2019 relative à l'expérimentation de la dématérialisation des actes de l'état civil établis par le ministère des affaires étrangères",
+      "url": "https://www.legifrance.gouv.fr/dossierlegislatif/JORFDOLE000038748352/"
+    },
+    {
+      "titre": "Décret n°2017-890 du 6 mai 2017 relatif à l'état civil",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000034708016/"
+    },
+    {
+      "titre": "Décret n°2019-993 du 26 septembre 2019 relatif à l'expérimentation de la dématérialisation des actes de l'état civil établis par le ministère des affaires étrangères",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000039145874"
+    },
+    {
+      "titre": "Circulaire du 23 juillet 2014 relative à l'état civil",
+      "url": "https://www.legifrance.gouv.fr/circulaire/id/38565"
+    },
+    {
+      "titre": "Instruction générale relative à l'état civil (Igrec) du 11 mai 1999 - Annexe",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000647915"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demande d'acte de mariage (célébré en France) - Service gratuit",
+      "url": "https://demarches.service-public.gouv.fr/mademarche/EtatCivil/demarche?action=MARIAGE",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Demande d'acte de mariage (célébré à l'étranger) - Service gratuit",
+      "url": "https://demarches.service-public.gouv.fr/mademarche/delivrance_demat/demarche?action=MARIAGE",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "Mairie",
+    "Service central d'état civil (Scec)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "acte-de-mariage-demande-de-copie-integrale-ou-d-extrait",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "actes-d-etat-civil",
+      "titre": "Actes d'état civil"
+    }
+  ]
+}

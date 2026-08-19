@@ -1,0 +1,93 @@
+{
+  "id": "F23420",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Voiture de location : faut-il prendre une assurance ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "La voiture de location doit être assurée au minimum avec la garantie responsabilité civile. Vous pouvez souscrire des garanties facultatives à vos frais.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-09-18",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F23420",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Assurance automobile (véhicule)",
+    "Voiture de location : faut-il prendre une assurance ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "La société de location a l’obligation d’assurer les véhicules avec la garantie minimale de responsabilité civile. Cette assurance est incluse dans le prix de la location. La société doit vous remettre les justificatifs.",
+        "Cette garantie couvre uniquement les dommages que vous pourriez causer à des tiers (autres conducteurs, piétons, biens matériels). Elle ne couvre pas les blessures du conducteur du véhicule loué, les dommages causés au véhicule, le vol.",
+        "C’est pour cette raison que, lors de la location, il vous est demandé systématiquement si vous souhaitez souscrire une assurance complémentaire. Ces assurances sont facultatives, mais permettent de mieux couvrir les risques non pris en charge par la responsabilité civile.",
+        "Assurances complémentaires",
+        "Les sociétés de location proposent des garanties négociées avec leurs assureurs partenaires. Elles peuvent couvrir :",
+        "• les dommages matériels du véhicule loué,",
+        "• les blessures du conducteur,",
+        "• le vol du véhicule,",
+        "• l’assistance en cas de panne ou d’accident.",
+        "Ces assurances complémentaires sont facultatives. La société de location doit vous fournir des d'information claires pour vous permettre de choisir, notamment :",
+        "• Conditions d'application des garanties (éléments couverts et cas de limitation ou d'exclusion de garantie)",
+        "• Montant des franchises et situations dans lesquelles elle s'appliquent",
+        "• Tarifs et conditions de souscription des assurances facultatives.",
+        "Avant de signer le contrat, il est essentiel de vérifier quelles assurances sont comprises dans le prix de base et quelles assurances facultatives vous acceptez.",
+        "[À savoir] Certaines cartes bancaires haut de gamme (par exemple, Visa Premier, Mastercard Gold) ou assurances personnelles incluent déjà des garanties proches de celles proposées par les loueurs (dommages, vol, assistance). Il est donc utile de vérifier vos propres contrats avant de souscrire une option payante supplémentaire.",
+        "Cas particuliers : circulation à l’étranger avec le véhicule loué",
+        "Si vous devez sortir de France, même brièvement, vérifiez si l’assurance responsabilité civile couvre ce déplacement. Si ce n’est pas le cas, une assurance spéciale doit être souscrite.",
+        "Les garanties de responsabilité civile incluent des extensions obligatoires dans certains États, notamment européens. Il reste néanmoins indispensable de vérifier dans le contrat de location l’étendue exacte de la couverture.",
+        "Conséquences en l’absence d’assurance complémentaire",
+        "Si vous n'avez pas souscrit d’assurance facultative supplémentaire, vous pouvez être obligé de prendre en charge certaines dépenses en cas d'accident ou de vol :",
+        "• Frais de réparation du véhicule endommagé suite à un accident",
+        "• Frais occasionnés par la blessure du conducteur du véhicule en cas d'accident",
+        "• Remboursement de la valeur à neuf du véhicule en cas de vol.",
+        "En revanche, si vous causez un dommage à autrui, l'assurance responsabilité civile prendra en charge l'indemnisation.",
+        "Si vous n'avez pas souscrit d’assurance facultative supplémentaire et que la voiture est volée, la société de location peut vous réclamer le remboursement de sa valeur à neuf.",
+        "[À noter] Dans certains cas, le loueur applique un système de « franchise ». Cela signifie qu’en cas de sinistre, une partie des frais reste à votre charge, même si vous avez pris une assurance complémentaire. Certaines options permettent de réduire ou de supprimer cette franchise (appelées « rachat de franchise »)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code des assurances : articles R211-14 à R211-21",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006187940"
+    },
+    {
+      "titre": "Code des assurances : articles A211-4 à A211-8",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006186863"
+    },
+    {
+      "titre": "Code des assurances : articles R211-21-1 à R211-21-6",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006187941"
+    },
+    {
+      "titre": "Code des assurances : articles A211-9 à A211-10",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006186864"
+    },
+    {
+      "titre": "Arrêté du 17 mars 2015 relatif à l'information des consommateurs et la publicité des prix des prestations de location de véhicules",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000030375910/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Info Banque - Assurance"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Assurance automobile",
+      "url": "https://www.abe-infoservice.fr/assurance/assurance-automobile"
+    }
+  ],
+  "slug": "voiture-de-location-faut-il-prendre-une-assurance",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "assurance-automobile-vehicule",
+      "titre": "Assurance automobile (véhicule)"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "F16190",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Les héritiers peuvent-ils désigner une personne pour gérer la succession ?",
+  "theme": "Famille - Scolarité",
+  "description": "Les héritiers peuvent désigner un mandataire pour gérer la succession.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-07-09",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F16190",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Règlement d'une succession",
+    "Les héritiers peuvent-ils désigner une personne pour gérer la succession ?"
+  ],
+  "introduction": "Oui, les héritiers peuvent désigner un mandataire pour gérer la succession. Le mandataire peut être nommé par les héritiers : on parle de mandat conventionnel. Il peut aussi être désigné par le juge s'il y a un blocage dans le règlement de la succession ou si un héritier a accepté la succession à concurrence de l'actif net. On parle alors de mandat successoral judiciaire.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code civil : article 813",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006150537"
+    },
+    {
+      "titre": "Code civil : articles 813-1 à 814-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006150156"
+    },
+    {
+      "titre": "Code de procédure civile : articles 1379 à 1381",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006149783"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Informations notariales",
+    "Tribunal judiciaire ou tribunal de proximité",
+    "Notaire"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "les-heritiers-peuvent-ils-designer-une-personne-pour-gerer-la-succession",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "reglement-d-une-succession",
+      "titre": "Règlement d'une succession"
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "id": "F172",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Comment déclarer un projet de puits ou de forage domestique ?",
+  "theme": "Logement",
+  "description": "Pour faire un puits ou un forage domestique dans votre jardin, vous devez effectuer des démarches administratives.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2024-12-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F172",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Autorisations d'urbanisme",
+    "Comment déclarer un projet de puits ou de forage domestique ?"
+  ],
+  "introduction": "Vous voulez faire un puits, appelé aussi forage, pour prélever de l'eau souterraine pour un usage domestique d'un volume de moins de 1 000 m3 par an. Vous devez obligatoirement déclarer la création de cet ouvrage. Les informations contenues dans la déclaration permettent au service de l'eau potable de limiter les risques de contamination des réseaux publics d’eau potable ou de la nappe phréatique. Nous vous guidons dans les démarches que vous devez effectuer.",
+  "chapitres": [
+    {
+      "titre": "Vérifier les règles de distance du puits ou du forage",
+      "contenu": [
+        "Vous devez respecter des règles de distance.",
+        "Votre puits ou forage doit se situer à plus de :",
+        "• 35 mètres de vos limites de propriété, car vous devez maîtriser l'évacuation des eaux de ruissellement et prévenir toute accumulation de celles-ci dans un périmètre de 35 mètres autour de la tête du forage,",
+        "• 200 mètres des décharges et installations de stockage de déchets ménagers ou industriels,",
+        "• 35 mètres des ouvrages d'assainissement collectif ou non collectif, des canalisations d'eaux usées ou transportant des matières qui pourraient altérer la qualité des eaux souterraines,",
+        "• 35 mètres des stockages d'hydrocarbures, de produits chimiques, de produits phytosanitaires ou autres produits pourraient altérer la qualité des eaux souterraines,",
+        "• 35 mètres des bâtiments d'élevage et de leurs annexes,",
+        "• 50 mètres des parcelles potentiellement concernées par l'épandage des déjections animales et effluents d'élevage issus des installations classées,",
+        "• 35 mètres si la pente du terrain est inférieure à 7 % des parcelles concernées par les épandages de boues issues des stations de traitement des eaux usées urbaines ou industrielles et des épandages de déchets issus d'installations classées pour la protection de l'environnement,",
+        "• 100 mètres si la pente du terrain est supérieure à 7 % des parcelles concernées par les épandages de boues issues des stations de traitement des eaux usées urbaines ou industrielles et des épandages de déchets issus d'installations classées pour la protection de l'environnement."
+      ]
+    },
+    {
+      "titre": "Déclarer la construction d'un puits ou d'un forage",
+      "contenu": [
+        "La création d'un ouvrage de prélèvement d'eau souterraine destinée à l'usage domestique doit obligatoirement être déclarée au moins 1 mois avant le début des travaux.",
+        "Vous devez déclarer l'ouvrage sur le téléservice DUPLOS. Pour les ouvrages de moins de 10 mètres de profondeur, vous pouvez aussi utiliser un formulaire.",
+        "Déclarer un ouvrage de plus de 10 m",
+        "DUPLOS vous permet de déclarer la création d'un puits ou d'un forage au titre du code mininier et d'obtenir un code dans la base des données du sous-sol (BSS) gérée par le BRGM. Cette base de données conserve toutes les données sur les ouvrages souterrains du territoire.",
+        "La déclaration est faite par le propriétaire du terrain, l'entreprise de forage, le maître d'ouvrage ou le maître d'oeuvre.",
+        "Déclaration unifiée pour les ouvrages souterrains (DUPLOS)",
+        "La déclaration est envoyée par mail au propriétaire du terrain et aux administrations suivantes :",
+        "• Mairie",
+        "• Direction départementale des territoires et de la mer (DDTM)",
+        "• Direction régionale de l'environnement de l'aménagement et du logement (DREAL)",
+        "Déclarer un ouvrage de moins de 10 m",
+        "Vous pouvez déclarer l'ouvrage sur DUPLOS ou en utilisant un formulaire",
+        "Télédéclaration sur DUPLOS",
+        "La déclaration sur DUPLOS vous permet d'obtenir un code dans la base des données du sous-sol (BSS) gérée par le BRGM. Cette base de données conserve toutes les données sur les ouvrages souterrains du territoire.",
+        "Déclaration unifiée pour les ouvrages souterrains (DUPLOS)",
+        "La déclaration est faite par le propriétaire du terrain, l'entreprise de forage, le maître d'ouvrage ou le maître d'œuvre.",
+        "Elle est envoyée par mail au propriétaire du terrain et aux administrations suivantes :",
+        "• Mairie",
+        "• Direction départementale des territoires et de la mer (DDTM)",
+        "• Direction régionale de l'environnement de l'aménagement et du logement (DREAL).",
+        "Déclaration sur formulaire",
+        "La déclaration est faite par l'entreprise pour le compte de son client. Elle doit utiliser le formulaire suivant :",
+        "Déclaration d'ouvrage : prélèvements, puits et forages à usage domestique",
+        "Un extrait du cadastre (ou un plan de localisation de l'ouvrage à l'échelle du 1/25 000) doit être joint. Il peut être obtenu en ligne :",
+        "Recherche, consultation et commande de feuilles du plan cadastral",
+        "Votre dossier de déclaration doit être envoyé à la mairie par lettre RAR (ou, à Paris, au Basu).",
+        "Mairie",
+        "Paris : Bureau accueil et service à l'usager (Basu)"
+      ]
+    },
+    {
+      "titre": "Déclarer les travaux auprès des exploitants de réseaux souterrains",
+      "contenu": [
+        "Avant de commencer vos travaux, vous devez obligatoirement déclarer votre projet auprès des exploitants de réseaux souterrains, par le biais du téléservice suivant :",
+        "Téléservice Réseaux et canalisations"
+      ]
+    },
+    {
+      "titre": "Faire analyser l'eau du puits ou du forage destinée à la consommation humaine",
+      "contenu": [
+        "Dans la déclaration d'ouvrage vous avez signalé que l'eau de votre puits ou de votre forage est prélevée pour la consommation humaine.",
+        "Cela signifie que l'eau est destinée aux usages suivants :",
+        "• Boisson",
+        "• Préparation et cuisson des aliments",
+        "• Lavage de la vaisselle",
+        "• Arrosage des jardins potagers",
+        "• Hygiène corporelle, hygiène générale et propreté",
+        "• Autres usages domestiques, notamment ceux qui pourraient présenter un risque d'ingestion.",
+        "Vous devez faire analyser l'eau par un laboratoire agréé. Les frais de contrôle sont à votre charge.",
+        "Rechercher les laboratoires agréés pour le contrôle de l'eau"
+      ]
+    },
+    {
+      "titre": "Déclarer l'achèvement des travaux et les résultats d'analyse de l'eau du puits ou du forage",
+      "contenu": [
+        "Au plus tard 1 mois après la fin des travaux, vous devez les déclarer et joindre le résultat des analyses de l'eau.",
+        "Si vous avez déclaré la construction de votre puits ou de votre forage sur DUPLOS, vous devez compléter votre déclaration en déclarant l'achèvement de votre ouvrage :",
+        "Déclaration unifiée pour les ouvrages souterrains (DUPLOS)",
+        "Si vous avez déclaré la construction de votre puits ou de votre forage sur le formulaire, vous devez déclarer l'achèvement de vos travaux à la mairie par lettre RAR .",
+        "Mairie"
+      ]
+    },
+    {
+      "titre": "Contrôler le puits ou le forage",
+      "contenu": [
+        "Pour prévenir les risques de pollution de l'eau, un agent du service d'eau potable peut accéder à votre propriété et procéder au contrôle de votre puits sur la base des informations figurant dans votre déclaration d'ouvrage.",
+        "Le service chargé du contrôle vous informe de la date du contrôle au plus tard 7 jours ouvrés avant celui-ci.",
+        "Le contrôle est effectué en votre présence ou celle de votre représentant.",
+        "Le contrôle comprend notamment les points suivants :",
+        "• Examen des parties apparentes du dispositif de prélèvement de l'eau, du puits ou du forage, notamment des systèmes de protection et de comptage pour mesurer le volume d'eau prélevé",
+        "• Constat des usages de l'eau effectués ou possibles à partir de cet ouvrage",
+        "• Vérification de l'absence de connexion entre le réseau public de distribution d'eau potable et une autre source.",
+        "Le service vous notifie le rapport de visite.",
+        "En cas de risque de contamination de l'eau du réseau public de distribution, le service vous demande de mettre en œuvre les mesures de protection nécessaires. En l'absence de mise en œuvre de ces mesures, le service peut fermer le branchement d'eau.",
+        "Seuls les abonnés du service d'eau qui utilisent une ressource en eau alternative à celle délivrée par le réseau public d'eau peuvent être contrôlés. Les ressources alternatives sont l'eau de pluie ou l'eau d'origine souterraine ou superficielle.",
+        "Les frais de contrôle sont à votre charge."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général des collectivités territoriales : article L2224-9",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043975595"
+    },
+    {
+      "titre": "Code général des collectivités territoriales : article L2224-12",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006390363/"
+    },
+    {
+      "titre": "Code général des collectivités territoriales : articles D2224-5-1 à R2224-22-6",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000019119111/"
+    },
+    {
+      "titre": "Code minier : article L411-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023505812/"
+    },
+    {
+      "titre": "Code de l'environnement : article R214-5",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006835466/"
+    },
+    {
+      "titre": "Décret n°2008-652 du 2 juillet 2008 relatif à la déclaration des dispositifs de prélèvement, puits ou forages réalisés à des fins d'usage domestique de l'eau et à leur contrôle",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000019117611/"
+    },
+    {
+      "titre": "Arrêté du 11 janvier 2007 relatif au programme de prélèvements et d’analyses du contrôle sanitaire pour les eaux fournies par un réseau de distribution",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000466614/"
+    },
+    {
+      "titre": "Arrêté du 17 décembre 2008 fixant les éléments à fournir dans le cadre de la déclaration en mairie de tout prélèvement, puits ou forage réalisés à des fins d'usage domestique de l'eau",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000019992029/"
+    },
+    {
+      "titre": "Code de la santé publique : article R1321-1-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046838405"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Téléservice Réseaux et canalisations",
+      "url": "https://www.reseaux-et-canalisations.ineris.fr/gu-presentation/construire-sans-detruire/teleservice-reseaux-et-canalisations.html",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Déclaration d'ouvrage : prélèvements, puits et forages à usage domestique",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_13837.do",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Mairie"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "comment-declarer-un-projet-de-puits-ou-de-forage-domestique",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "autorisations-d-urbanisme",
+      "titre": "Autorisations d'urbanisme"
+    }
+  ]
+}

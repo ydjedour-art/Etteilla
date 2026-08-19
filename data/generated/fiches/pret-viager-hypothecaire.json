@@ -1,0 +1,90 @@
+{
+  "id": "F16242",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Prêt viager hypothécaire",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Le prêt viager hypothécaire est un prêt garanti par une hypothèque sur un bien d'habitation, et dont le capital est remboursable au décès de l'emprunteur.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-07-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F16242",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Crédit à la consommation",
+    "Prêt viager hypothécaire"
+  ],
+  "introduction": "Vous êtes propriétaire d'un logement que vous avez fini de payer et vous voulez l'utiliser pour obtenir un crédit ? Vous pouvez peut-être faire un prêt viager hypothécaire. Ce prêt est garanti par une hypothèque sur un logement à usage d’habitation. Actuellement, le prêt viager hypothécaire est commercialisé uniquement par quelques établissements spécialisés.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Il existe 3 types de prêt viager hypothécaire (PVH) :",
+        "• Le prêt viager hypothécaire « classique » : aucun remboursement pendant la vie de l’emprunteur. Le capital et les intérêts sont remboursés au décès ou lors de la vente du bien.",
+        "• Le prêt viager hypothécaire avec remboursement périodique des intérêts : l’emprunteur rembourse uniquement les intérêts du prêt chaque mois. Le capital est remboursé à la fin du contrat.",
+        "• Le prêt d'avance mutation (Pam), aussi appelé prêt hypothécaire pour rénovation énergétique : ce prêt est destiné à financer des travaux d’économie d’énergie. Il bénéficie de conditions encadrées (plafonnement des frais, taux d’intérêt limité, montant minimum d'emprunt).",
+        "Tableau récapitulatif des 3 types de prêts hypothécaires viagers",
+        "Type de prêt",
+        "Condition de remboursement",
+        "Usage principal",
+        "Particularité",
+        "Prêt viager hypothécaire « classique » avec intérêt remboursable au décès de l'emprunteur",
+        "Aucun remboursement pendant la vie de l’emprunteur.",
+        "Capital + intérêts remboursés au décès ou à la vente du bien.",
+        "Financement de projets personnels",
+        "Pas de remboursement périodique, intérêts capitalisés jusqu’au terme",
+        "Prêt viager hypothécaire avec remboursements périodiques d’intérêt",
+        "Intérêts payés périodiquement (mensuellement ou trimestriellement).",
+        "Capital remboursé à la fin.",
+        "Financement de projets personnels",
+        "Permet d’alléger la dette en cours de vie, mais nécessite le paiement régulier des intérêts",
+        "Prêt avance mutation (Pam)",
+        "Pas d’intérêts à payer pendant 10 ans (taux zéro).",
+        "Capital + intérêts (post-10 ans) remboursés au décès",
+        "Financement de travaux de rénovation énergétique",
+        "Conditions avantageuses (plafonnement des frais, taux limité)"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la consommation : articles L315-1 à L315-3",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032225777"
+    },
+    {
+      "titre": "Code de la consommation : articles L315-9 à L315-11",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032225757"
+    },
+    {
+      "titre": "Code de la consommation : articles L315-12 à L315-14",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032225749"
+    },
+    {
+      "titre": "Code de la consommation : articles L315-16 à L315-19",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032225737"
+    },
+    {
+      "titre": "Code de la consommation : articles L315-20 à L315-23",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032225727"
+    },
+    {
+      "titre": "Code de la consommation : articles R315-1 à R315-2",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000044536838"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "0809 540 550 DGCCRF - RéponseConso"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "pret-viager-hypothecaire",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "credit-a-la-consommation",
+      "titre": "Crédit à la consommation"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "id": "F35261",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Qu'est-ce qu'une section syndicale ?",
+  "theme": "Travail - Formation",
+  "description": "Un syndicat peut créer une section syndicale dans une entreprise s'il compte au moins 2 adhérents.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-04-09",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35261",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Représentation du personnel dans l'entreprise",
+    "Qu'est-ce qu'une section syndicale ?"
+  ],
+  "introduction": "Un syndicat peut, sous certaines conditions, créer une section syndicale dans une entreprise. La section syndicale regroupe les adhérents d'une même organisation syndicale. Elle assure la représentation des intérêts matériels et moraux de ses salariés qu'elle représente. Elle bénéficie de moyens matériels pour assurer ses missions. Nous faisons le point sur la réglementation.",
+  "chapitres": [
+    {
+      "titre": "Quel syndicat peut créer une section syndicale ?",
+      "contenu": [
+        "Une section syndicale peut être créée par les syndicats suivants :",
+        "• Syndicat représentatif dans l'entreprise ou au niveau d'un établissement",
+        "• Syndicat affilié à une organisation syndicale représentative aux niveaux national et interprofessionnel",
+        "• Syndicat non représentatif qui remplit l'ensemble des conditions suivantes :Il répond aux critères de respect des valeurs républicaines et d'indépendance (respect de la liberté d'opinion politique, par exemple).Il est légalement constitué depuis au moins 2 ans.Son champ professionnel et géographique couvre l'entreprise.Il répond au critère de transparence financière (respect des obligations comptables, par exemple)."
+      ]
+    },
+    {
+      "titre": "Combien d'adhérents faut-il pour créer une section syndicale dans une entreprise ?",
+      "contenu": [
+        "Un syndicat peut créer une section syndicale dans l'entreprise s'il compte au moins 2 adhérents."
+      ]
+    },
+    {
+      "titre": "Comment le syndicat doit-il informer l'employeur de la création d'une section syndicale ?",
+      "contenu": [
+        "Aucune formalité n'est prévue pour la création d'une section syndicale.",
+        "Pour éviter les litiges, il est recommandé d'informer l'employeur par écrit (lettre RAR, lettre remise en mains propres contre décharge par exemple)."
+      ]
+    },
+    {
+      "titre": "Quel sont les moyens financiers et matériels de la section syndicale ?",
+      "contenu": [
+        "La section syndicale peut collecter par l'intermédiaire de ses membres des cotisations syndicales. Elle bénéficie dans certains cas d'un crédit d'heure, d'un local et de panneau d'affichage.",
+        "Collecte des cotisations syndicales",
+        "La section n'a pas de moyens financiers propres.",
+        "Néanmoins, la collecte de cotisations syndicales peut être effectuée à l'intérieur de l'entreprise par le délégué syndical, le représentant de la section syndicale ou ses membres.",
+        "Crédit d'heures pour négocier avec l'employeur",
+        "Chaque section syndicale a un crédit d'heures pour son délégué syndical et les salariés de l'entreprise appelés à négocier la convention ou l'accord d'entreprise.",
+        "Ce crédit d'heures est destiné à la préparation de la négociation de cette convention ou de cet accord.",
+        "Il ne peut pas dépasser :",
+        "• 12 heures par an dans les entreprises d'au moins 500 salariés,",
+        "• 18 heures par an dans les entreprises d'au moins 1 000 salariés.",
+        "Ce crédit d'heures est global, c'est-à-dire qu'il est attribué à la section syndicale quel que soit le nombre d'accords conclus au cours d'une même année.",
+        "Affichage sur des panneaux réservés",
+        "L'affichage des communications syndicales s'effectue librement sur des panneaux réservés à cet usage.",
+        "Ces panneaux sont distincts de ceux affectés aux communications du CSE.",
+        "Chaque panneau doit être affecté à un seul syndicat.",
+        "Diffusion de tracts",
+        "Les tracts et les publications de nature syndicale peuvent être librement diffusés aux salariés de l'entreprise dans l'enceinte de celle-ci, aux heures d'entrée et de sortie de travail.",
+        "Local mis à la disposition de la section syndicale",
+        "Les obligations de l'employeur diffèrent en fonction de l'effectif de l'entreprise :",
+        "Entreprise de moins de 200 salariés",
+        "L'employeur n'a pas d'obligation de mettre un local à la disposition de la section syndicale.",
+        "Entreprise de 200 salariés ou plus",
+        "L'employeur doit mettre à la disposition des sections syndicales un local commun pour l'exercice de la mission de leurs délégués.",
+        "L'aménagement et l'utilisation des locaux mis à leur disposition sont déterminés par accord avec l'employeur.",
+        "Entreprise de 1 000 salariés ou plus",
+        "L'employeur met à la disposition de chaque section syndicale un local doté du matériel nécessaire à son fonctionnement.",
+        "L'aménagement et l'utilisation des locaux mis à leur disposition sont déterminés par accord avec l'employeur."
+      ]
+    },
+    {
+      "titre": "Est-ce que la section syndicale peut réunir ses adhérents ?",
+      "contenu": [
+        "Chaque section syndicale peut réunir ses adhérents 1 fois par mois dans l'enceinte de l'entreprise.",
+        "Les réunions ont lieu en dehors des locaux de travail (dans le local syndical par exemple). Elles ont également lieu en dehors du temps de travail des participants.",
+        "Un accord avec l'employeur détermine les conditions de la tenue de ces réunions."
+      ]
+    },
+    {
+      "titre": "Qui représente la section syndicale dans l'entreprise ?",
+      "contenu": [
+        "La section syndicale est représentée par le délégué syndical lorsque le syndicat est représentatif dans l'entreprise.",
+        "Elle est représentée par le représentant de la section syndicale lorsque le syndicat n'est pas représentatif dans l'entreprise."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code du travail : article L2121-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019353505"
+    },
+    {
+      "titre": "Code du travail : article L2142-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019353709"
+    },
+    {
+      "titre": "Code du travail : Article L2142-1-3",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033023287"
+    },
+    {
+      "titre": "Code du travail : articles L2142-3 à L2142-7",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000006189504"
+    },
+    {
+      "titre": "Code du travail : articles L2142-8 à L2142-9",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000019353703"
+    },
+    {
+      "titre": "Code du travail : articles L2142-10 et L2142-11",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000006189506"
+    },
+    {
+      "titre": "Code du travail : articles L2143-13 à L2143-19",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006195670"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "qu-est-ce-qu-une-section-syndicale",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "representation-du-personnel-dans-l-entreprise",
+      "titre": "Représentation du personnel dans l'entreprise"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "F34084",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Un salarié saisonnier est-il suivi par la médecine du travail ?",
+  "theme": "Travail - Formation",
+  "description": "Un salarié saisonnier bénéficie d'un suivi médical par le service de prévention et de santé au travail comme tous les autres salariés.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-04-16",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34084",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Conditions de travail dans le secteur privé",
+    "Un salarié saisonnier est-il suivi par la médecine du travail ?"
+  ],
+  "introduction": "Oui, un salarié saisonnier bénéficie, comme tous les salariés, d'une surveillance médicale. Lorsque le salarié saisonnier travaille dans le secteur de l’agriculture, il bénéficie d'un suivi médical particulier. Un examen médical d'embauche est obligatoire dans certains cas. Nous faisons le point sur la réglementation.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code du travail : articles R4624-24 à R4624-27",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033739671/"
+    },
+    {
+      "titre": "Code du travail : article D4625-22",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000034822984"
+    },
+    {
+      "titre": "Code rural et de la pêche maritime : article R717-14-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035491968"
+    },
+    {
+      "titre": "Code rural et de la pêche maritime : article R717-16",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036484235/"
+    },
+    {
+      "titre": "Code rural et de la pêche maritime : article R717-16-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035474835/"
+    },
+    {
+      "titre": "Code rural et de la pêche maritime : article R717-26-6",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036484215"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "un-salarie-saisonnier-est-il-suivi-par-la-medecine-du-travail",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "conditions-de-travail-dans-le-secteur-prive",
+      "titre": "Conditions de travail dans le secteur privé"
+    }
+  ]
+}

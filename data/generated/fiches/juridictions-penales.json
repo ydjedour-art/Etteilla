@@ -1,0 +1,33 @@
+{
+  "id": "F2189",
+  "type_publication": "Fiche avec liens externes",
+  "titre": "Juridictions pénales",
+  "theme": "Justice",
+  "description": "Les juridictions pénales jugent les personnes physiques ou morales soupçonnées d'avoir commis une infraction (contravention, délit ou crime).",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-07-08",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2189",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Juridictions",
+    "Juridictions pénales"
+  ],
+  "introduction": "Les juridictions pénales jugent les personnes physiques et les personnes morales soupçonnées d'avoir commis une infraction (contravention, délit ou crime). Selon la gravité de l'acte commis, la juridiction compétente ne sera pas la même.",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "juridictions-penales",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "juridictions",
+      "titre": "Juridictions"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "F31417",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Faut-il assurer un véhicule de collection ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Un véhicule de collection qui circule doit être assuré par son propriétaire, au minimum avec une assurance responsabilité civile (au tiers).",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-02-27",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31417",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Assurance automobile (véhicule)",
+    "Faut-il assurer un véhicule de collection ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Un véhicule de collection, c'est-à-dire un véhicule qui a plus de 30 ans et ne roule en général que de façon occasionnelle, doit être assuré comme tous les véhicules terrestres à moteur mis en circulation. Ainsi, la souscription à une assurance responsabilité civile est obligatoire.",
+        "Vous pouvez aussi souscrire des garanties supplémentaires (dégâts matériels ou vol par exemple).",
+        "Comme le véhicule de collection ne roule en général que de façon occasionnelle, la cotisation d'assurance est moins élevée que pour un véhicule classique. De plus, certains assureurs proposent des contrats très avantageux réservés à ce type de véhicules.",
+        "Il peut néanmoins arriver que l'assureur vous impose d'assurer en même temps que le véhicule de collection un autre véhicule, plus récent, pour un usage quotidien.",
+        "L'assureur peut aussi vous imposer des conditions plus restrictives pour l'assurance du véhicule de collection. Il peut par exemple exiger que le conducteur ait plus de 21 ans et/ou qu'il n'ait pas été responsable d'accident pendant les 2 années qui précèdent la souscription du contrat.",
+        "[À noter] Le fait de rouler sans assurance est un délit puni d’une amende de 3 750 € d’une confiscation du véhicule ainsi que d’un retrait temporaire du permis de conduire."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la route : articles L324-1 et L324-2",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006159534"
+    },
+    {
+      "titre": "Code de la route : article R311-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043750942"
+    },
+    {
+      "titre": "Code des assurances : articles L211-4 à L211-7",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006174247"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Info Banque - Assurance"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "faut-il-assurer-un-vehicule-de-collection",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "assurance-automobile-vehicule",
+      "titre": "Assurance automobile (véhicule)"
+    }
+  ]
+}

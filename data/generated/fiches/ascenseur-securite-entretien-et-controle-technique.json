@@ -1,0 +1,77 @@
+{
+  "id": "F10538",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Ascenseur : sécurité, entretien et contrôle technique",
+  "theme": "Logement",
+  "description": "L'ascenseur d'un immeuble d'habitation doit faire l’objet d'un entretien et de contrôles réguliers.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-05-15",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F10538",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Risques sanitaires et sécurité du logement",
+    "Ascenseur : sécurité, entretien et contrôle technique"
+  ],
+  "introduction": "Vous êtes propriétaire ou locataire d'un logement et vous souhaitez connaître les dispositifs de sécurité de l'ascenseur de votre immeuble (en copropriété ou non) et ses conditions d'entretien ? Nous faisons le point sur la réglementation.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de la construction et de l'habitation : articles L134-1 à L134-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000006176386/#LEGISCTA000041588195"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : articles R134-1 à R134-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000043818723"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : articles R134-6 à R134-13",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000043818735"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : articles R134-14 et R134-15",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000043818753"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : article R186-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043819591/"
+    },
+    {
+      "titre": "Arrêté du 7 août 2012 relatif au contrôle technique à réaliser dans les installations d'ascenseurs",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000026286347/"
+    },
+    {
+      "titre": "Arrêté du 18 novembre 2004 relatif aux travaux de sécurité à réaliser dans les installations d'ascenseurs",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000005894844/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Sécurité des ascenseurs",
+      "url": "https://www.ecologie.gouv.fr/politiques-publiques/securite-ascenseurs"
+    },
+    {
+      "titre": "Clauses du contrat d'entretien",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043818739"
+    },
+    {
+      "titre": "Qualifications requises pour réaliser le contrôle technique des ascenseurs",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000809934"
+    }
+  ],
+  "slug": "ascenseur-securite-entretien-et-controle-technique",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "risques-sanitaires-et-securite-du-logement",
+      "titre": "Risques sanitaires et sécurité du logement"
+    }
+  ]
+}

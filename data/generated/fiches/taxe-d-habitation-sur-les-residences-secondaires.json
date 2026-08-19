@@ -1,0 +1,255 @@
+{
+  "id": "F42",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Taxe d'habitation sur les résidences secondaires",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "La taxe d'habitation dépend de votre logement et de votre situation au 1er janvier. Elle est supprimée pour la résidence principale.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-03-02",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F42",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Impôts locaux",
+    "Taxe d'habitation sur les résidences secondaires"
+  ],
+  "introduction": "Vous disposez d'une résidence secondaire ? Vous devez payer la taxe d'habitation. En revanche, la taxe d'habitation sur les résidences principales est supprimée depuis le 1er janvier 2023.",
+  "chapitres": [
+    {
+      "titre": "Qui doit payer la taxe d'habitation sur les résidences secondaires ?",
+      "contenu": [
+        "La taxe d'habitation sur les résidences secondaires dépend de votre situation au 1er janvier de l'année d'imposition.",
+        "Vous devez la payer si vous êtes propriétaire ou usufruitier d'une résidence secondaire (ou d'un autre local meublé non affecté à l’habitation principale), c'est-à-dire d'un logement meublé qui n'est pas votre résidence principale.",
+        "Si vous êtes locataire à l'année de votre résidence secondaire, vous devez payer la taxe d'habitation pour celle-ci (vous recevrez un avis de taxe d'habitation).",
+        "[À noter] Si, pour des raisons professionnelles ou parce que vous bénéficiez d'un logement de fonction, vous avez une 2e résidence, celle-ci est considérée comme une résidence secondaire."
+      ]
+    },
+    {
+      "titre": "Faut-il déclarer sa résidence secondaire ?",
+      "contenu": [
+        "Si vous êtes propriétaire d'un local d'habitation, vous devez effectuer une déclaration d'occupation auprès des services fiscaux.",
+        "Vous devez effectuer cette déclaration auprès des services fiscaux avant le 1er juillet si vous êtes dans l'une des situations suivantes :",
+        "• Logement n'ayant pas encore fait l'objet d'une déclaration",
+        "• Changements intervenus depuis la précédente déclaration.",
+        "Vous devez indiquer si vous conservez la jouissance du logement.",
+        "Dans ce cas, vous devez préciser la nature de votre occupation :",
+        "• Résidence principale",
+        "• Résidence secondaire",
+        "• Logement vacant.",
+        "Si le logement est occupé par un tiers (locataire, par exemple), vous devez l'identifier en fournissant les informations suivantes :",
+        "• Nom",
+        "• Prénom",
+        "• Date de naissance",
+        "• Pays, département et commune de naissance.",
+        "Vous devez faire votre déclaration dans votre espace personnel sur le site impots.gouv.fr (rubrique Gérer mes biens immobiliers) :",
+        "Impôts : accéder à votre espace Finances publiques",
+        "Connexion avec l’identifiant fiscal du contribuable ou via FranceConnect. Ensuite, double authentification avec réception d’un code à 6 chiffres par mail.",
+        "[Complement] Vous pouvez contacter de votre centre des impôts par l'un des moyens suivants : • Courrier • Au guichet. Service en charge des impôts (trésorerie, service des impôts...)",
+        "[À savoir] En l'absence de déclaration ou en cas d'inexactitude, vous risquez une amende de 150 € par local concerné."
+      ]
+    },
+    {
+      "titre": "Quels sont les locaux concernés par la taxe d'habitation sur les résidences secondaires ?",
+      "contenu": [
+        "La taxe d'habitation sur les résidences secondaires s'applique aux locaux meublés et aux dépendances.",
+        "Toutefois, pour l’imposition 2026, des règles particulières s'appliquent en zones France ruralités revitalisation (ZFRR) où certains locaux peuvent être exonérés.",
+        "[À savoir] À partir de l’imposition 2027, l’exonération de THRS ne sera plus limitée aux meublés de tourisme ou chambres d’hôtes situés en ZFRR. Toutes les communes ou EPCI peuvent désormais décider d’exonérer les locaux classés meublés de tourisme ou les chambres d’hôtes situés sur leurs territoires. Pour être applicable en 2027, l’exonération de THRS doit résulter d’une délibération de la commune ou de l’EPCI votée avant le 1er octobre 2026.",
+        "Cas général",
+        "La taxe d'habitation sur les résidences secondaires s'applique aux locaux suivants :",
+        "• Locaux meublés affectés à l'habitation autres que ceux affectés à l'habitation principale (maison individuelle ou appartement). Le logement doit disposer d'un ameublement suffisant pour en permettre l'habitation.",
+        "• Dépendances immédiates du logement (parking privatif, garage, etc.), même non meublées et non attenantes",
+        "ZFRR",
+        "Si votre habitation est située en ZFRR, la taxe d'habitation sur les résidences secondaires s'applique aux locaux suivants :",
+        "• Locaux meublés affectés à l'habitation autres que ceux affectés à l'habitation principale (maison individuelle ou appartement). Le logement doit disposer d'un ameublement suffisant pour en permettre l'habitation.",
+        "• Dépendances immédiates du logement (parking privatif, garage, etc.), mêmes non meublées et non attenantes",
+        "Par une délibération spéciale (prise avant le 1er octobre 2025 pour être applicable en 2026) les communes ou EPCI peuvent exonérer les locaux suivants :",
+        "• Chambre d'hôtes",
+        "• Local classé meublé de tourisme.",
+        "Si vous disposez d’une chambre d’hôtes ou d'un meublé de tourisme, vous pouvez vérifier s'il est situé en ZFRR en utilisant le service en ligne suivant :",
+        "Vérifier si une commune est située en zone ZFRR, est « bénéficiaire » du zonage ZFRR ou se situe dans une zone ZFRR +",
+        "Si vous êtes concerné par l'exonération votée par votre commune, vous devez remplir une déclaration n°1205-GD (formulaire cerfa n°13567*02) :",
+        "Exonération de la taxe d'habitation pour chambres d'hôtes et meublés de tourisme situés en zone France de revitalisation rurale (ZFRR ou ZFRR+)",
+        "Notice pour bénéficier de l’exonération de taxe d'habitation pour les locaux classés meublés de tourisme et les chambres d'hôtes situés en zone France revitalisation rurale (ZFRR) et ZFRR+",
+        "Le formulaire contient une notice explicative.",
+        "Le formulaire est à envoyer au service des impôts du lieu de situation du bien avant le 1ermars de l'année pour laquelle l'exonération est applicable.",
+        "Service en charge des impôts (trésorerie, service des impôts...)"
+      ]
+    },
+    {
+      "titre": "Qui peut être exonéré de la taxe d'habitation sur les résidences secondaires ?",
+      "contenu": [
+        "Si vous avez quitté votre résidence principale pour entrer dans un établissement d'accueil spécialisé (Ehpad, maison de retraite ou centre de soins de longue durée), cet établissement devient votre résidence principale à partir de l'année qui suit votre admission. Votre ancien logement sera considéré comme une résidence secondaire.",
+        "Vous êtes exonéré de taxe d'habitation sur les résidences secondaires pour votre ancien logement à compter de l'année qui suit votre admission dans l'établissement.",
+        "Les résidences secondaires (autres que votre ancien logement) restent soumises à la taxe d'habitation sur les résidences secondaires.",
+        "[À noter] Si vous rentrez d'expatriation à la suite d’un appel à quitter votre zone de résidence ou d’une opération de retour collectif (par exemple, en cas de crise politique ou sanitaire), vous pouvez être exonéré de taxe d’habitation sur les résidences secondaires (THRS) sur le logement qui constituait votre résidence principale en France avant votre expatriation. Pour obtenir le dégrèvement, vous devez déposer une réclamation."
+      ]
+    },
+    {
+      "titre": "Comment est calculée la taxe d'habitation sur les résidences secondaires ?",
+      "contenu": [
+        "La taxe d'habitation sur les résidences secondaires est calculée d'après la valeur locative cadastrale de l'habitation et de ses dépendances.",
+        "Cette valeur locative est revalorisée chaque année, en particulier en fonction de l'augmentation des prix.",
+        "Le montant de la taxe est obtenu en multipliant la valeur locative par un taux d'imposition.",
+        "Ce taux varie selon les communes.",
+        "[À noter] Il n'est pas possible d’obtenir une estimation du montant de votre taxe d'habitation sur votre résidence secondaire par vous-même, car ces impositions sont calculées à partir de nombreux critères liés notamment à la consistance du bien taxé. Si vous souhaitez avoir communication d'une estimation de cet impôt, vous devez prendre contact avec le service des impôts fonciers en charge du secteur dans lequel est située votre résidence secondaire."
+      ]
+    },
+    {
+      "titre": "Qui doit payer une majoration de taxe d'habitation sur les résidences secondaires ?",
+      "contenu": [
+        "Certaines communes peuvent appliquer une majoration de la taxe d'habitation sur les résidences secondaires.",
+        "Ce sont des communes situées en zone tendue.",
+        "Ces communes sont les suivantes :",
+        "• Communes appartenant à une zone d’urbanisation continue de plus de 50 000 habitants avec déséquilibre marqué entre offre et demande de logements",
+        "• Communes qui présentent notamment une proportion élevée de logements affectés à l’habitation autres que ceux affectés à l’habitation principale.",
+        "Ces communes sont celles où s'applique la taxe sur les logements vacants.",
+        "Un simulateur permet de déterminer si la commune est située en zone tendue :",
+        "Vérifier si la taxe sur les logements vacants (TLV) s'applique à votre commune",
+        "L'application de cette majoration se fait après délibération du conseil municipal.",
+        "[À noter] Pour les communes qui présentent notamment une proportion élevée de logements affectés à l’habitation autres que ceux affectés à l’habitation principale, la majoration de taxe d'habitation s'applique depuis le 1er janvier 2024.",
+        "Vous pouvez demander une exonération de cette majoration si vous êtes dans l'une des situations suivantes :",
+        "• Votre activité professionnelle est proche de votre résidence secondaire et vous oblige à y résider, plutôt que dans votre habitation principale.",
+        "• Votre résidence principale est l'établissement de soins de longue durée où vous êtes hébergé. Votre ancienne résidence principale est devenue secondaire.",
+        "• La résidence n'est pas habitable, pour une cause étrangère à votre volonté. Par exemple, des travaux sont nécessaires pour rendre le logement décemment habitable.",
+        "Vous pouvez faire cette demande auprès du centre des impôts dont dépend la résidence secondaire.",
+        "Vous pouvez utiliser l'un des moyens suivants :",
+        "En ligne",
+        "Adressez votre réclamation sur votre espace personnel de télédéclarant, à la rubrique \"Nous contacter\" de votre messagerie.",
+        "Impôts : accéder à votre espace Finances publiques",
+        "Connexion avec l’identifiant fiscal du contribuable ou via FranceConnect. Ensuite, double authentification avec réception d’un code à 6 chiffres par mail.",
+        "Sur place",
+        "Rendez-vous à votre centre des finances publiques.",
+        "Service en charge des impôts (trésorerie, service des impôts...)",
+        "Par courrier",
+        "Adressez votre réclamation par lettre simple sur papier libre à votre centre des finances publiques (les coordonnées figurent sur votre avis d'imposition).",
+        "Service en charge des impôts (trésorerie, service des impôts...)",
+        "[À noter] Les taxes sur les logements vacants ne s'appliquent pas à la résidence secondaire, même si elle n'est occupée qu'une partie de l'année. En effet, ces taxes concernent uniquement les locaux non meublés."
+      ]
+    },
+    {
+      "titre": "Faut-il remplir une déclaration pour la taxe d'habitation sur les résidences secondaires ?",
+      "contenu": [
+        "Vous n'avez pas de déclaration à faire pour la taxe d'habitation sur les résidences secondaires."
+      ]
+    },
+    {
+      "titre": "Quand reçoit-on l'avis d'imposition de la taxe d'habitation sur les résidences secondaires ?",
+      "contenu": [
+        "Au cours du dernier trimestre de l'année, vous recevez un avis d'imposition.",
+        "Vous pouvez aussi le consulter dans votre espace personnel de télédéclarant sur www.impots.gouv.fr.",
+        "Impôts : accéder à votre espace Finances publiques",
+        "Connexion avec l’identifiant fiscal du contribuable ou via FranceConnect. Ensuite, double authentification avec réception d’un code à 6 chiffres par mail.",
+        "L'avis de taxe d'habitation sur les résidences secondaires indique notamment les informations suivantes :",
+        "• Éléments servant de base au calcul de l'impôt",
+        "• Montant à payer",
+        "• Date limite de paiement",
+        "• Moyens de paiement.",
+        "Si vous êtes propriétaire de biens situés dans plusieurs communes, vous recevez des avis d'imposition différents pour chaque commune."
+      ]
+    },
+    {
+      "titre": "Comment déposer une réclamation concernant la taxe d'habitation sur les résidences secondaires ?",
+      "contenu": [
+        "Si vous estimez être imposé à tort, vous pouvez présenter une réclamation à votre centre des finances publiques dans les délais requis.",
+        "Le dépôt d'une réclamation ne vous dispense pas du paiement de la taxe.",
+        "Vous pouvez toutefois demander un sursis de paiement.",
+        "Service en charge des impôts (trésorerie, service des impôts...)"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général des impôts : articles 1407 bis",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051219184"
+    },
+    {
+      "titre": "Code général des impôts : article 1408",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000006179807/"
+    },
+    {
+      "titre": "Code général des impôts : articles 1409 à 1413",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006179808/"
+    },
+    {
+      "titre": "Code général des impôts : article 1418",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041414402"
+    },
+    {
+      "titre": "Code général des impôts : articles 1657 à 1659 A",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006162896/"
+    },
+    {
+      "titre": "Code général des impôts : article 322 A",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047511723"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-IF-TH relatif à la taxe d'habitation",
+      "url": "http://bofip.impots.gouv.fr/bofip/1715-PGP"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-IF-TH-70 relatif à la majoration de la taxe d'habitation des logements meublés non affectés à l'habitation principale",
+      "url": "http://bofip.impots.gouv.fr/bofip/9984-PGP"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Impôts : accéder à votre espace Finances publiques",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Exonération de la taxe d'habitation pour chambres d'hôtes et meublés de tourisme situés en zone France de revitalisation rurale (ZFRR ou ZFRR+)",
+      "url": "https://www.impots.gouv.fr/formulaire/1205-gd-sd/taxe-dhabitation-demande-dexoneration-pour-meubles-de-tourisme-et-chambres-dh",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Service d'information des impôts",
+    "Service en charge des impôts (trésorerie, service des impôts...)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Site des impôts",
+      "url": "https://www.impots.gouv.fr/portail/"
+    },
+    {
+      "titre": "Brochure pratique - Impôts locaux 2025",
+      "url": "https://www.impots.gouv.fr/www2/fichiers/documentation/brochure/idl/idl_2025.pdf"
+    },
+    {
+      "titre": "Comment sont calculés mes impôts locaux ?",
+      "url": "https://www.impots.gouv.fr/particulier/comment-sont-calcules-mes-impots-locaux-page-en-cours-de-creation"
+    },
+    {
+      "titre": "Comment est calculée la taxe d'habitation pour ma résidence secondaire ?",
+      "url": "https://www.impots.gouv.fr/particulier/questions/comment-est-calculee-la-taxe-dhabitation-pour-ma-residence-secondaire"
+    },
+    {
+      "titre": "Puis-je effectuer une simulation de ma taxe d’habitation ou de ma taxe foncière ?",
+      "url": "https://www.impots.gouv.fr/particulier/questions/puis-je-effectuer-une-simulation-de-ma-taxe-dhabitation-ou-de-ma-taxe-fonciere"
+    },
+    {
+      "titre": "Calendrier fiscal des particuliers",
+      "url": "https://www.impots.gouv.fr/portail/particulier/calendrier-fiscal"
+    },
+    {
+      "titre": "Personnes hébergées en maison de retraite ou dans un établissement de soins de longue durée",
+      "url": "https://bofip.impots.gouv.fr/bofip/11098-PGP.html/identifiant=BOI-IF-TH-10-50-70-20201222"
+    },
+    {
+      "titre": "Zonage de politiques publiques",
+      "url": "https://www.observatoire-des-territoires.gouv.fr/zonage-de-politiques-publiques"
+    }
+  ],
+  "slug": "taxe-d-habitation-sur-les-residences-secondaires",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "impots-locaux",
+      "titre": "Impôts locaux"
+    }
+  ]
+}

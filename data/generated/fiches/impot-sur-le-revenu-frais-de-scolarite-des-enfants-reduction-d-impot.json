@@ -1,0 +1,110 @@
+{
+  "id": "F9",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Impôt sur le revenu - Frais de scolarité des enfants (réduction d'impôt)",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Vous bénéficiez d'une réduction d'impôt sur le revenu si votre enfant à charge fait des études secondaires (collège ou lycée) ou supérieures.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-15",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F9",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Impôt sur le revenu : déductions, réductions et crédits d'impôt",
+    "Impôt sur le revenu - Frais de scolarité des enfants (réduction d'impôt)"
+  ],
+  "introduction": "Votre enfant est scolarisé et a dépassé l'école primaire ? Vous bénéficiez d'une réduction d'impôt sur le revenu si votre enfant est à votre charge et qu'il fait des études secondaires (collège ou lycée) ou supérieures. L'avantage varie selon que votre enfant est à votre charge principale ou en résidence alternée. Nous nous indiquons les informations à connaître pour vos revenus de 2025 (à déclarer en 2026).",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Quelle réduction d'impôt pour un enfant scolarisé ?",
+        "Service Public (DILA)",
+        "Titre : Quelle réduction d'impôt pour un enfant scolarisé ?",
+        "Si votre domicile fiscal est en France, vous pouvez bénéficier d’une réduction d’impôt pour chacun de vos enfants scolarisés. Son montant dépend de votre situation familiale et du niveau de scolarité de vos enfants.",
+        "Montant de la réduction d’impôt selon votre situation",
+        "1/ Garde commune ou principale (ou enfant rattaché :",
+        "• Collégien : 61 €",
+        "• Lycéen : 153 €",
+        "• Etudiant : 183 €",
+        "2/ Garde alternée",
+        "• Collégien : 30,50 €",
+        "• Lycéen : 76,50 €",
+        "• Etudiant : 91,50 €",
+        "Exemple :",
+        "Pour une famille de 3 enfants dont 1 lycéen en garde alternée, 1 collégien en garde principale et 1 étudiant rattaché au foyer fiscal, la réduction d’impôt est de 320,50 € (61 + 76,50 + 183).",
+        "Les 3 conditions à remplir par votre enfant scolarisé :",
+        "• Il est à votre charge et fait partie de votre foyer fiscal",
+        "• Il est scolarisé au 31 décembre de l’année d’imposition (par exemple, au 31 décembre 2025 pour la déclaration 2026)",
+        "• Il n’est pas rémunéré dans le cadre de sa formation (par exemple, en apprentissage).",
+        "À savoir : Sur votre déclaration de revenus, indiquez le nombre d’enfants concernés, à chaque niveau de scolarité."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général des impôts : article 199 quater F",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000006191829/"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-IR-RICI-30 relatif à la réduction d'impôt accordée pour les frais de scolarité des enfants poursuivant des études secondaires ou supérieures",
+      "url": "http://bofip.impots.gouv.fr/bofip/1550-PGP"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-IR-RICI relatif aux réductions et crédits d'impôt",
+      "url": "http://bofip.impots.gouv.fr/bofip/5955-PGP"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Impôts : accéder à votre espace Finances publiques",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Déclarer vos revenus en ligne",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Déclaration 2026 des revenus 2025 (papier)",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/2042/declaration-des-revenus",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Déclaration 2026 des revenus 2025 - Réductions d'impôt et crédits d'impôt",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/2042/declaration-des-revenus",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Estimer le montant de son impôt sur les revenus de 2025 (déclaration de 2026)",
+      "url": "https://simulateur-ir-ifi.impots.gouv.fr/calcul_impot/2026/",
+      "type": "simulateurNG"
+    }
+  ],
+  "contacts": [
+    "Service d'information des impôts",
+    "Service en charge des impôts (trésorerie, service des impôts...)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Brochure pratique 2026 - Déclaration des revenus de 2025",
+      "url": "https://www.impots.gouv.fr/www2/fichiers/documentation/brochure/ir_2026/accueil.htm"
+    },
+    {
+      "titre": "J'ai déclaré des réductions et crédits d'impôt, suis-je concerné par le versement de l'avance de 60 % en janvier ?",
+      "url": "https://www.impots.gouv.fr/particulier/questions/jai-declare-des-reductions-et-credits-dimpot-suis-je-concerne-par-le"
+    }
+  ],
+  "slug": "impot-sur-le-revenu-frais-de-scolarite-des-enfants-reduction-d-impot",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "impot-sur-le-revenu-deductions-reductions-et-credits-d-impot",
+      "titre": "Impôt sur le revenu : déductions, réductions et crédits d'impôt"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "F1901",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Une salariée enceinte a-t-elle droit à une réduction de son temps de travail ?",
+  "theme": "Travail - Formation",
+  "description": "La salariée enceinte peut avoir une réduction de son horaire journalier de travail si des dispositions conventionnelles le prévoient.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-04-04",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1901",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Conditions de travail dans le secteur privé",
+    "Une salariée enceinte a-t-elle droit à une réduction de son temps de travail ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "La réduction de l'horaire journalier de travail pour une salariée enceinte n'est pas une obligation légale.",
+        "Par contre, cette réduction d'horaires peut être prévue par une convention collective ou un accord d'entreprise. La réduction d'horaires peut aussi résulter d'un usage dans l'entreprise.",
+        "Un simulateur permet de rechercher la convention collective avec le nom de l'entreprise ou son numéro Siret :",
+        "Trouver sa convention collective",
+        "[À noter] L'employeur et la salariée peuvent aussi d'un commun accord décider d'une diminution de l'horaire de travail journalier. Pour éviter tout litige, il est préférable que cet accord soit écrit."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code du travail : articles L2221-1 à L2221-3",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000006177925"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "une-salariee-enceinte-a-t-elle-droit-a-une-reduction-de-son-temps-de-travail",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "conditions-de-travail-dans-le-secteur-prive",
+      "titre": "Conditions de travail dans le secteur privé"
+    }
+  ]
+}

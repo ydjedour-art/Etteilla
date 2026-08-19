@@ -1,0 +1,103 @@
+{
+  "id": "F33267",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Démarchage téléphonique abusif, spam vocal ou par SMS : que faire ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Le démarchage téléphonique nécessite votre consentement préalable, sauf exceptions. Des règles s'appliquent aussi aux spams vocaux et aux spams par SMS.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-08-12",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33267",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Communications électroniques (téléphone, internet, télévision)",
+    "Démarchage téléphonique abusif, spam vocal ou par SMS : que faire ?"
+  ],
+  "introduction": "Le démarchage téléphonique, le spam vocal et le spam par SMS sont encadrés par des règles différentes. Quelles démarches pouvez-vous effectuer si vous recevez des appels ou des messages que vous ne souhaitez pas recevoir ? Nous vous indiquons les solutions selon votre situation.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "• Le démarchage téléphonique abusif se caractérise par la réception d'appels commerciaux non sollicités. Cela inclut, par exemple, les entreprises qui vous contactent pour proposer des produits ou services, tels qu'un abonnement téléphonique, sans avoir obtenu votre accord au préalable pour vous démarcher par téléphone.",
+        "• Le spam vocal est un appel téléphonique indésirable qui cherche généralement à vous inciter à rappeler un numéro surtaxé ou un numéro étranger. Par exemple, le correspondant peut raccrocher dès que vous décrochez. Si vous ne répondez pas, le numéro apparaît comme un appel en absence et peut vous inciter à rappeler.",
+        "• Un spam par SMS est un SMS non désiré qui peut chercher à vous inciter à rappeler un numéro surtaxé ou à cliquer sur un lien. Le message peut, par exemple, vous annoncer un gain à une loterie, vous proposer un cadeau ou vous demander de contacter un service."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la consommation : articles L223-1 à L223-7",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069565/LEGISCTA000032221441/#LEGISCTA000032226763"
+    },
+    {
+      "titre": "Code de la consommation : article L242-16",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042155954"
+    },
+    {
+      "titre": "Code de la consommation : articles L221-16 et L221-17",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032226850/"
+    },
+    {
+      "titre": "Réponse ministérielle du 10 octobre 2019 relative au démarchage téléphonique",
+      "url": "http://www.senat.fr/basile/visio.do?id=qSEQ190912111&idtable=q365594|q365619|q365423|q365552|q365242|q365322|q365251|q365281|q365360|q365361&_na=QE&rch=qa&de=20191001&au=20191025&dp=1+an&radio=deau&date=dateJORep&appr=titre&aff=ar&tri=dd&off=30&afd=ppr&afd=ppl&afd=pjl&afd=cvn"
+    },
+    {
+      "titre": "Réponse ministérielle du 28 juillet 2020 relative à l'usurpation de numéro de téléphone",
+      "url": "http://questions.assemblee-nationale.fr/q15/15-25068QE.htm"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "S'inscrire sur la liste d'opposition Bloctel",
+      "url": "https://www.bloctel.gouv.fr/",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Identifier et signaler un spam vocal en ligne",
+      "url": "https://www.33700.fr/",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Signal Conso : signaler un problème avec un professionnel",
+      "url": "https://signal.conso.gouv.fr/",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Adresser une plainte en ligne à la Cnil",
+      "url": "https://www.cnil.fr/fr/plaintes",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "0809 540 550 DGCCRF - RéponseConso"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Bloctel (liste d'opposition au démarchage téléphonique)",
+      "url": "http://www.bloctel.gouv.fr/"
+    },
+    {
+      "titre": "33 700 (lutte contre les spams vocaux et SMS)",
+      "url": "http://www.33700.fr/"
+    },
+    {
+      "titre": "Renseignements pour faire une réclamation auprès du site Bloctel",
+      "url": "https://conso.bloctel.fr/docs/Fiche_pratique_reclamations.pdf"
+    },
+    {
+      "titre": "Comment limiter le démarchage téléphonique et les sms indésirables ?",
+      "url": "https://www.economie.gouv.fr/cedef/demarchage-telephonique"
+    }
+  ],
+  "slug": "demarchage-telephonique-abusif-spam-vocal-ou-par-sms-que-faire",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "communications-electroniques-telephone-internet-television",
+      "titre": "Communications électroniques (téléphone, internet, télévision)"
+    }
+  ]
+}

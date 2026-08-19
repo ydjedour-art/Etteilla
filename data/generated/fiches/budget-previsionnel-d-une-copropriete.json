@@ -1,0 +1,100 @@
+{
+  "id": "F20586",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Budget prévisionnel d'une copropriété",
+  "theme": "Logement",
+  "description": "Le budget prévisionnel est élaboré pour optimiser la gestion financière et garantir une planification efficace des ressources disponibles.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-08-04",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F20586",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Budget et charges de copropriété",
+    "Budget prévisionnel d'une copropriété"
+  ],
+  "introduction": "Le budget prévisionnel est un outil essentiel pour assurer la bonne gestion financière d’une copropriété. Il est élaboré chaque année afin de contribuer à la transparence ainsi qu’à la maîtrise des charges communes de l'immeuble. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "À quoi sert le budget prévisionnel d'une copropriété ?",
+      "contenu": [
+        "Le budget prévisionnel est l’outil central de la gestion financière d’une copropriété. Il permet d'anticiper et de planifier les dépenses courantes nécessaires au fonctionnement, à l'entretien et à l’administration de l'immeuble.",
+        "Ce document regroupe l’ensemble des dépenses prévisibles concernant les parties communes et les équipements collectifs. Il évalue également les recettes correspondantes pour couvrir ces frais.",
+        "Le budget prévisionnel sert ainsi à :",
+        "• Assurer la trésorerie courante de la copropriété",
+        "• Limiter les difficultés ou imprévus financiers",
+        "• Et à répartir équitablement les charges entre tous les copropriétaires."
+      ]
+    },
+    {
+      "titre": "Comment est élaboré le budget prévisionnel d'une copropriété ?",
+      "contenu": [
+        "Le budget prévisionnel est préparé par le syndic de copropriété, en concertation avec le conseil syndical.",
+        "Il est établi en amont de l'assemblée générale ordinaire.",
+        "Son montant est déterminé au regard des dépenses effectivement supportées par le syndicat des copropriétaires au cours des années précédentes, des contrats en cours, de l’évolution prévisible des coûts ainsi que des besoins futurs de la copropriété."
+      ]
+    },
+    {
+      "titre": "Quelles sont les dépenses couvertes par le budget prévisionnel d'une copropriété ?",
+      "contenu": [
+        "Dépenses incluses",
+        "Le budget prévisionnel couvre les dépenses courantes de l'immeuble.",
+        "Il comprend, notamment :",
+        "• Les frais de gestion courante (par exemple, honoraires du syndic, assurance de l'immeuble)",
+        "• Les contrats d'entretien (ascenseur, chaudière, interphone, etc) et de sécurité (extincteur, désinsectisation, dératisation, etc.)",
+        "• Les travaux de maintenance, c'est-à-dire les petites réparations qui permettent de maintenir l'immeuble ou les équipements collectifs (chaudière, ascenseur, etc.) en bon état",
+        "• Les frais liés aux salariés de l'immeuble (salaire, Urssaf, cotisations mutuelles, etc.)",
+        "• Les dépenses liées aux services collectifs (par exemple, chauffage collectif, eau froide et chaude, électricité).",
+        "Dépenses exclues",
+        "Le budget prévisionnel ne couvre pas les dépenses suivantes :",
+        "• Travaux de conservation ou d'entretien de l'immeuble (par exemple, ravalement, toiture, mise aux normes), autres que ceux de maintenance",
+        "• Travaux portant sur les éléments d'équipement communs, autres que ceux de maintenance",
+        "• Travaux d'amélioration, tels que la transformation d'un ou de plusieurs éléments d'équipement existants, l'adjonction d'éléments nouveaux, l'aménagement de locaux affectés à l'usage commun ou la création de tels locaux, l'affouillement du sol et la surélévation de bâtiments",
+        "• Études techniques, telles que les diagnostics et consultations.",
+        "Ces travaux font l’objet d’un vote spécifique en assemblée générale et sont financés par des appels de fonds particuliers."
+      ]
+    },
+    {
+      "titre": "Comment sont votées les dépenses couvertes par le budget prévisionnel d'une copropriété ?",
+      "contenu": [
+        "Le budget prévisionnel est voté tous les ans par l'assemblée générale des copropriétaires. Il couvre une période de 12 mois.",
+        "En principe, le budget prévisionnel est voté avant le début de l'année qu'il concerne. Dans tous les cas, son vote doit avoir lieu dans les 6 mois à compter du dernier jour de l'exercice comptable précédent.",
+        "Chaque poste de dépenses peut être discuté par les copropriétaires en assemblée générale, mais le budget est voté globalement à la majorité simple.",
+        "[À savoir] L’assemblée générale peut décider de modifier à la hausse ou à la baisse le montant du budget prévisionnel. Cette décision est votée à la majorité simple."
+      ]
+    },
+    {
+      "titre": "Comment sont financées les dépenses couvertes par le budget prévisionnel d'une copropriété ?",
+      "contenu": [
+        "Une fois le budget prévisionnel voté, son montant est réparti entre tous les copropriétaires en fonction de leur quote-part.",
+        "Les copropriétaires versent alors des provisions sur le compte bancaire de la copropriété, égales au quart du budget voté. Ils devront verser en 4 fois le montant de leur quote-part égale au budget prévisionnel, sauf si l'assemblée générale en décide autrement.",
+        "La provision est demandée par le syndic au moyen d'appel de fonds. Cette provision est due le 1er jour de chaque trimestre ou le 1er jour de la période fixée en assemblée générale.",
+        "[À noter] Si le budget prévisionnel n'a pas pu être voté avant l'exercice comptable qu'il doit couvrir, le syndic peut procéder à un appel de provisions, avec l'autorisation de l'assemblée générale. Dans ce cas, le syndic peut alors faire 2 appels successifs de provisions trimestrielles égales à ¼ du budget prévisionnel précédent."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Loi n°65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006068256/"
+    },
+    {
+      "titre": "Décret n°67-223 du 17 mars 1967 fixant le statut de la copropriété des immeubles bâtis",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006061423/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "budget-previsionnel-d-une-copropriete",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "budget-et-charges-de-copropriete",
+      "titre": "Budget et charges de copropriété"
+    }
+  ]
+}

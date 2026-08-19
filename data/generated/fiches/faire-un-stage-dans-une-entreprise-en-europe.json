@@ -1,0 +1,68 @@
+{
+  "id": "F382",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Faire un stage dans une entreprise en Europe",
+  "theme": "Famille - Scolarité",
+  "description": "Les programmes Erasmus + et Eurodyssée permettent aux étudiants, apprenti ou demandeur d'emploi de faire un stage dans une entreprise en Europe",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-10-30",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F382",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Étudier à l'étranger",
+    "Faire un stage dans une entreprise en Europe"
+  ],
+  "introduction": "Vous êtes étudiant, apprenti ou demandeur d'emploi et vous voulez faire un stage dans une entreprise ou un établissement de formation en Europe ? Les programmes Erasmus + et Eurodyssée vous offrent cette possibilité. Différentes aides pour financer votre période de stage vous sont proposées. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les règles diffèrent selon que vous êtes étudiant, apprenti ou demandeur d'emploi."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [
+    "Erasmus+ France / Plateforme Penelope +",
+    "France Travail"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Site Génération Erasmus+",
+      "url": "http://www.generation-erasmus.fr"
+    },
+    {
+      "titre": "Erasmus : un tremplin pour l'emploi",
+      "url": "https://www.francetravail.fr/international/mobilite-internationale/jose-leurope/1-je-peux-faire-un-stage-en-eu.html"
+    },
+    {
+      "titre": "Régions membres de l'Assemblée des régions d'Europe",
+      "url": "https://aer.eu/directory/"
+    },
+    {
+      "titre": "Site Eurodysée",
+      "url": "https://eurodyssey.aer.eu/"
+    },
+    {
+      "titre": "Charte Erasmus pour l'enseignement supérieur (ECHE)",
+      "url": "https://agence.erasmusplus.fr/charte-pour-enseignement-superieur-eche-erasmus/"
+    },
+    {
+      "titre": "Faire un stage en Europe",
+      "url": "https://www.euroguidance-france.org/les-differentes-formes-de-mobilite-en-europe/stages/"
+    }
+  ],
+  "slug": "faire-un-stage-dans-une-entreprise-en-europe",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "etudier-a-l-etranger",
+      "titre": "Étudier à l'étranger"
+    }
+  ]
+}

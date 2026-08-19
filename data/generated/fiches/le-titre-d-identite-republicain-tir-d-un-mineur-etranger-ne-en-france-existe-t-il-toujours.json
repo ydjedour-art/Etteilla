@@ -1,0 +1,45 @@
+{
+  "id": "F297",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Le titre d'identité républicain (TIR) d'un mineur étranger né en France existe-t-il toujours ?",
+  "theme": "Étranger - Europe",
+  "description": "Le titre d'identité républicain n'est plus délivré depuis le 1er mars 2019 : il faut demander un document de circulation pour étranger mineur (DCEM).",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-02-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F297",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Titres, cartes de séjour et documents de circulation pour étranger en France",
+    "Le titre d'identité républicain (TIR) d'un mineur étranger né en France existe-t-il toujours ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Non, le titre d'identité républicain (TIR) n'est plus délivré depuis le 1er mars 2019. Vous devez désormais demander un document de circulation pour étranger mineur (DCEM)."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Carte de l'Espace Schengen",
+      "url": "https://www.touteleurope.eu/les-pays-membres-de-l-espace-schengen.html"
+    }
+  ],
+  "slug": "le-titre-d-identite-republicain-tir-d-un-mineur-etranger-ne-en-france-existe-t-il-toujours",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "titres-cartes-de-sejour-et-documents-de-circulation-pour-etranger-en-france",
+      "titre": "Titres, cartes de séjour et documents de circulation pour étranger en France"
+    }
+  ]
+}

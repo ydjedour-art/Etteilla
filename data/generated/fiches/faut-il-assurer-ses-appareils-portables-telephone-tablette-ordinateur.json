@@ -1,0 +1,125 @@
+{
+  "id": "F31419",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Faut-il assurer ses appareils portables (téléphone, tablette, ordinateur...) ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "L’assurance pour appareils électroniques n’est pas obligatoire. Elle peut être utile si par exemple aucune autre garantie ne couvre déjà les principaux risques.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-12-08",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31419",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Assurance habitation",
+    "Faut-il assurer ses appareils portables (téléphone, tablette, ordinateur...) ?"
+  ],
+  "introduction": "L’assurance dédiée aux appareils électroniques (smartphones, tablettes, ordinateurs, consoles…) est facultative. Elle peut être utile dans certains cas, mais son intérêt dépend du type d’appareil détenu, de son usage et des garanties dont vous disposez déjà (assurance habitation, garantie constructeur, carte bancaire). Avant de souscrire, il est recommandé d’examiner précisément les conditions du contrat, notamment les exclusions, franchises et plafonds d’indemnisation. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Dans quels cas une assurance dédiée pour appareils électroniques peut être utile ?",
+      "contenu": [
+        "Une assurance spécifique peut présenter un intérêt dans les situations suivantes :",
+        "• Appareil récent ou de valeur élevée",
+        "• Utilisation intensive ou déplacements fréquents",
+        "• Appareil confié à un mineur",
+        "• Absence de couverture existante (habitation ou carte bancaire) ;",
+        "• Risque accru de casse ou de vol selon l’activité ou le cadre d’utilisation.",
+        "L’assurance peut s’avérer peu avantageuse dans les situations suivantes :",
+        "• L’appareil est ancien ou présente une faible valeur",
+        "• Des garanties équivalentes existent déjà dans un autre contrat",
+        "• Les exclusions du contrat sont nombreuses (exemples : vol à la tire non garanti, casse sans tiers exclue),",
+        "• La franchise est élevée par rapport à la valeur de l’appareil",
+        "• La décote appliquée réduit significativement l’indemnisation."
+      ]
+    },
+    {
+      "titre": "Quelles garanties les assurances pour appareils électroniques proposent-elles généralement ?",
+      "contenu": [
+        "Les contrats d’assurance pour appareils électroniques couvrent généralement tout ou partie des situations suivantes :",
+        "• Panne (hors vice caché ou usure normale)",
+        "• Casse accidentelle",
+        "• Oxydation accidentelle",
+        "• Vol dans certaines conditions (vol avec agression, vol avec effraction,...).",
+        "Chaque contrat définit précisément les événements couverts. Les conditions varient d’un assureur à l’autre."
+      ]
+    },
+    {
+      "titre": "Quelles sont les exclusions fréquentes des assurances pour appareils téléphoniques ?",
+      "contenu": [
+        "Les exclusions les plus souvent prévues comprennent notamment les situations suivantes :",
+        "• Perte simple de l’appareil",
+        "• Vol sans violence ni effraction",
+        "• Casse résultant d’un défaut d’entretien ou d’usure",
+        "• Appareil déjà endommagé avant la souscription",
+        "• Appareils d’occasion non éligibles",
+        "• Absence de preuve du sinistre."
+      ]
+    },
+    {
+      "titre": "L’assurance habitation couvre-t-elle les appareils électroniques ?",
+      "contenu": [
+        "Votre assurance habitation peut couvrir certains appareils électroniques en cas :",
+        "• de vol avec effraction à votre domicile,",
+        "• de dommages causés par un incendie ou un dégât des eaux.",
+        "La couverture ne s’applique généralement pas :",
+        "• aux casses accidentelles,",
+        "• aux vols hors domicile,",
+        "• aux appareils transportés en dehors du logement (sauf garantie spécifique).",
+        "Les garanties varient selon le contrat."
+      ]
+    },
+    {
+      "titre": "La carte bancaire peut-elle déjà couvrir les appareils électroniques ?",
+      "contenu": [
+        "Certaines cartes offrent des garanties liées à l’achat d’un appareil, telles que :",
+        "• une extension de garantie constructeur,",
+        "• une assurance vol ou casse sous conditions.",
+        "Ces garanties dépendent du type de carte et du mode de paiement utilisé."
+      ]
+    },
+    {
+      "titre": "Quelles règles s’appliquent pour la souscription, la déclaration et la résiliation d’une assurance appareils électroniques ?",
+      "contenu": [
+        "Le contrat d’assurance peut être souscrit au moment de l’achat de l’appareil, auprès du magasin, d’un opérateur téléphonique ou directement auprès d’un assureur.",
+        "Après la souscription, vous disposez d’un délai pour changer d’avis : en règle générale, vous pouvez renoncer au contrat dans les 14 jours calendaires qui suivent. Ce délai est porté à 30 jours calendaires lorsque l’assurance est souscrite en même temps que l’achat de l’appareil.",
+        "En cas de sinistre, vous devez respecter les délais indiqués dans le contrat pour effectuer la déclaration : ils sont souvent de 5 jours, et réduits à 2 jours lorsqu’il s’agit d’un vol.",
+        "Une fois que vous avez dépassé 1 an d’engagement, vous pouvez mettre fin au contrat quand vous le souhaitez, sans frais ni justification, en adressant votre demande de résiliation à l’assureur."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code des assurances : articles L112-1 à L112-11",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006157199"
+    },
+    {
+      "titre": "Code des assurances : articles L113-1 à L113-17",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006157200"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Info Banque - Assurance"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "L'assurance des smartphones",
+      "url": "https://www.inc-conso.fr/content/tout-savoir-sur-lassurance-des-smartphones"
+    },
+    {
+      "titre": "Assurances téléphone portable, tablette, appareil nomade",
+      "url": "https://www.abe-infoservice.fr/page-sommaire/assurances-telephone-portable-tablette-appareils-nomades"
+    }
+  ],
+  "slug": "faut-il-assurer-ses-appareils-portables-telephone-tablette-ordinateur",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "assurance-habitation",
+      "titre": "Assurance habitation"
+    }
+  ]
+}

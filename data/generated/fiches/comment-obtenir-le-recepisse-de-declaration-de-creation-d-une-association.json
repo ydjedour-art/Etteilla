@@ -1,0 +1,36 @@
+{
+  "id": "F34733",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Comment obtenir le récépissé de déclaration de création d'une association ?",
+  "theme": "Associations, fondations et fonds de dotation",
+  "description": "Vous devez vérifier vos mails et, si votre démarche de déclaration a été effectuée en ligne, consulter votre compte association.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-10-20",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34733",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Associations, fondations et fonds de dotation",
+    "Création d'une association",
+    "Comment obtenir le récépissé de déclaration de création d'une association ?"
+  ],
+  "introduction": "Les règles diffèrent selon que l’association a son siège en Alsace-Moselle ou ailleurs.",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [
+    "Greffe des associations",
+    "Greffe des associations - Paris"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "comment-obtenir-le-recepisse-de-declaration-de-creation-d-une-association",
+  "path": [
+    {
+      "slug": "associations-fondations-et-fonds-de-dotation",
+      "titre": "Associations, fondations et fonds de dotation"
+    },
+    {
+      "slug": "creation-d-une-association",
+      "titre": "Création d'une association"
+    }
+  ]
+}

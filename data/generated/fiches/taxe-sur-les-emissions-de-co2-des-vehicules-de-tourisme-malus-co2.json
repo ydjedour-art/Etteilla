@@ -1,0 +1,79 @@
+{
+  "id": "F35947",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Taxe sur les émissions de CO2 des véhicules de tourisme (malus CO2)",
+  "theme": "Transports - Mobilité",
+  "description": "L'immatriculation d'un véhicule de tourisme en France est soumise à une taxe sur les émissions de dioxyde de carbone, appelée malus CO2.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-02-21",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35947",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Mesures antipollution",
+    "Taxe sur les émissions de CO2 des véhicules de tourisme (malus CO2)"
+  ],
+  "introduction": "Vous achetez un véhicule et vous vous demandez quelles réductions s’appliquent sur le montant du malus CO2 ? Nous vous indiquons les informations à connaître concernant la taxe sur les émissions de dioxyde de carbone, appelée malus CO2.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les règles diffèrent selon que l'achat a lieu en France ou à l'étranger."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Règlement (UE) n°2018/858 du 30 mai 2018 relatif à la réception et à la surveillance du marché des véhicules à moteur et de leurs remorques",
+      "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A02018R0858-20230730"
+    },
+    {
+      "titre": "Code des impositions sur les biens et services : articles L421-58 à L421-70",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044595989/LEGISCTA000044599051"
+    },
+    {
+      "titre": "Décret n° 2020-169 du 27 février 2020 relatif à l'application à partir de mars 2020 de la norme WLTP pour calculer les émissions de CO2 des véhicules de tourisme",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000041653974/"
+    },
+    {
+      "titre": "Arrêté du 7 novembre 2014 relatif à l'adaptation réversible de série de certains types de véhicules",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000029779711"
+    },
+    {
+      "titre": "Bofip-Impôts n° BOI-RES-AIS-000239 - Maintien de la définition de la 1re immatriculation en France des véhicules de tourisme jusqu’à l’adoption de la loi de finances pour 2026",
+      "url": "https://bofip.impots.gouv.fr/bofip/14899-PGP.html/identifiant=BOI-RES-AIS-000239-20251224"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Calculer le coût du certificat d'immatriculation",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/cout-certificat-immatriculation",
+      "type": "Simulateur"
+    },
+    {
+      "titre": "Connaître le taux d'émission de CO2 de sa voiture neuve",
+      "url": "http://carlabelling.ademe.fr/recherche/index?category",
+      "type": "Simulateur"
+    }
+  ],
+  "contacts": [
+    "34 00 - Informations sur le certificat d’immatriculation ou le permis de conduire"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Je change ma voiture",
+      "url": "https://jechangemavoiture.gouv.fr/jcmv/"
+    }
+  ],
+  "slug": "taxe-sur-les-emissions-de-co2-des-vehicules-de-tourisme-malus-co2",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "mesures-antipollution",
+      "titre": "Mesures antipollution"
+    }
+  ]
+}

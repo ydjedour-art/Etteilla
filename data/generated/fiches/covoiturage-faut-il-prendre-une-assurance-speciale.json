@@ -1,0 +1,62 @@
+{
+  "id": "F31403",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Covoiturage : faut-il prendre une assurance spéciale ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "L'assurance obligatoire responsabilité civile suffit pour faire du covoiturage, mais elle ne couvre pas toutes les situations.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-02-26",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31403",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Assurance automobile (véhicule)",
+    "Covoiturage : faut-il prendre une assurance spéciale ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Le covoiturage est une offre désintéressée de service de transport, dont l'éventuelle contrepartie financière est limitée au partage des frais (carburant, péage par exemple).",
+        "Si vous proposez des places en covoiturage, votre voiture doit être assurée au minimum avec l'assurance obligatoire responsabilité civile.",
+        "Cette assurance couvre les dommages que vous ou votre véhicule pouvez causer à des tiers lors d'un sinistre.",
+        "Les passagers qui voyagent avec vous en covoiturage sont aussi couverts par cette assurance obligatoire.",
+        "Le contrat d'assurance peut prévoir des cas dans lesquels il n'y aura pas d'indemnisation ou alors une faible indemnisation. Il s'agit notamment des cas suivants :",
+        "• Vous faites du covoiturage lors des trajets domicile/travail alors que vous avez déclaré à votre assurance que vous n'utilisez pas votre voiture pour ces trajets",
+        "• Vous souhaitez confier le volant à un passager de covoiturage, alors que votre contrat interdit le prêt du volant ou prévoit une majoration de la franchise en cas de sinistre",
+        "• Vous conduisez un véhicule de fonction et votre employeur ne vous a pas donné l'autorisation de faire du covoiturage",
+        "• Vous faites des bénéfices en faisant payer par les passagers des sommes qui dépassent leur simple participation aux frais du trajet (vous serez alors considéré comme un transporteur professionnel, ce qui nécessiterait une assurance professionnelle spécifique).",
+        "Il est donc vivement conseillé de bien vérifier les clauses de votre contrat d'assurance auto avant de faire du covoiturage.",
+        "Vous pouvez souscrire une garantie spéciale covoiturage pour éviter tout problème."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code des assurances : articles L211-1 à L211-2",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006174242"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Info Banque - Assurance"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Voyager en covoiturage",
+      "url": "https://www.ecologie.gouv.fr/covoiturage-en-france-avantages-et-reglementation-en-vigueur"
+    }
+  ],
+  "slug": "covoiturage-faut-il-prendre-une-assurance-speciale",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "assurance-automobile-vehicule",
+      "titre": "Assurance automobile (véhicule)"
+    }
+  ]
+}

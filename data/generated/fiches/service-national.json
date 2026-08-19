@@ -1,0 +1,78 @@
+{
+  "id": "F39529",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Service national",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Le service national est un engagement militaire, volontaire et sélectif, au service de la Nation. Il débutera en septembre 2026.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-08-18",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F39529",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Volontariats",
+    "Service national"
+  ],
+  "introduction": "Vous voulez effectuer un service national au sein des armées ? C’est un engagement militaire, volontaire et sélectif. Vous devez être âgé de 18 à 25 ans. Le service national débutera en septembre 2026, avec environ 3 000 volontaires. Nous vous indiquons les informations à connaître selon que vous souhaitez candidater pour effectuer un service national en 2026 ou en 2027.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Parcours du candidat au service national",
+        "Ministère des armées et des anciens combattants",
+        "Le document présente, sous forme de frise, les étapes successives du parcours d’un candidat souhaitant intégrer le service national au sein des armées françaises. Il met en évidence six phases principales, décrites ci-dessous :",
+        "• CandidatureLe candidat est informé sur le service national en journée de mobilisation.Le candidat dépose son dossier via les sites officiels de recrutement des armées ou auprès de son CIRFA.",
+        "• Pré-sélectionL’armée d'accueil évalue le profil, les compétences et les motivations du candidat.",
+        "• Visite médicale & habilitationComme tout militaire, le candidat passe :un examen médical completun contrôle d’habilitation.",
+        "• Formation militaire initiale (1 mois)Le candidat suit une formation incluant discipline militaire, instruction au tir, entraînement sportif, premiers secours et cohésion de groupe.",
+        "• Mission en unité (9 mois)Le candidat rejoint une unité en métropole ou outre-mer.Il contribue à : protéger, soutenir et apporter son expertise.",
+        "• Intégration en réserveÀ l’issue de son service, il intègre la réserve de disponibilité."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code du service national : articles L121-1 à L121-3",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006151648/"
+    },
+    {
+      "titre": "Loi n° 2026-791 du 16 août 2026 actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054694832"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Armée de terre - Centre d'information et de recrutement des forces armées (Cirfa)",
+    "Marine - Centre d'information et de recrutement des forces armées (Cirfa)",
+    "Armée de l'air - Centre d'information et de recrutement des forces armées (Cirfa)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Le service national",
+      "url": "https://www.defense.gouv.fr/nous-rejoindre/service-national"
+    },
+    {
+      "titre": "Service national Armée de terre",
+      "url": "https://www.sengager.fr/editos/service-national"
+    },
+    {
+      "titre": "Service national Marine",
+      "url": "https://lamarinerecrute.gouv.fr/service-national/service-national-marine"
+    },
+    {
+      "titre": "Service national Armée de l’air",
+      "url": "https://devenir-aviateur.gouv.fr/postuler/service-national"
+    }
+  ],
+  "slug": "service-national",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "volontariats",
+      "titre": "Volontariats"
+    }
+  ]
+}

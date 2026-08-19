@@ -1,0 +1,87 @@
+{
+  "id": "F468",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Cotisations salariales du fonctionnaire",
+  "theme": "Travail - Formation",
+  "description": "La rémunération du fonctionnaire est soumise à différentes cotisations et contributions salariales.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-01-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F468",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Rémunération dans la fonction publique",
+    "Cotisations salariales du fonctionnaire"
+  ],
+  "introduction": "En tant que fonctionnaire, votre rémunération est soumise à différentes cotisations et contributions salariales. Nous vous présentons, pour chacune d'elles, l'assiette et le taux applicable selon que votre rémunération mensuelle brute totale est soit inférieure à 16 020 €, soit égale ou supérieure à 16 020 €.",
+  "chapitres": [
+    {
+      "titre": "Rémunération inférieure à 16 020 €",
+      "contenu": [
+        "Cotisations du fonctionnaire : base de calcul et taux",
+        "Cotisations",
+        "Assiette",
+        "Taux",
+        "Retraite de base (Caisse des pensions civiles et militaires ou Caisse nationale de retraite des agents des collectivités locales - CNRACL)",
+        "Traitement indiciaire + Nouvelle bonification indiciaire (NBI)",
+        "11,10 %",
+        "Retraite complémentaire (Retraite additionnelle de la fonction publique - RAFP)",
+        "(Indemnité de résidence + Supplément familial de traitement (SFT) + Primes et indemnités + Avantages en nature) dans la limite de 20 % du montant du traitement indiciaire brut",
+        "5 %",
+        "Contribution sociale généralisée - CSG",
+        "98,25 % x (Traitement indiciaire + NBI + Indemnité de résidence + SFT + Primes et indemnités + Avantages en nature)",
+        "9,2 % (dont 2,4 % non déductible du revenu imposable)",
+        "Contribution pour le remboursement de la dette sociale - CDRS",
+        "0,5 % non déductible du revenu imposable"
+      ]
+    },
+    {
+      "titre": "Rémunération égale ou supérieure à 16 020 €",
+      "contenu": [
+        "Cotisations du fonctionnaire : base de calcul et taux",
+        "Cotisations",
+        "Assiette",
+        "Taux",
+        "Retraite de base (Caisse des pensions civiles et militaires ou Caisse nationale de retraite des agents des collectivités locales - CNRACL)",
+        "Traitement indiciaire + Nouvelle bonification indiciaire (NBI)",
+        "11,10 %",
+        "Retraite complémentaire (Retraite additionnelle de la fonction publique - RAFP)",
+        "Indemnité de résidence + Supplément familial de traitement (SFT) + Primes et indemnités + Avantages en nature dans la limite de 20 % du montant du traitement indiciaire brut",
+        "5 %",
+        "Contribution sociale généralisée - CSG",
+        "Traitement indiciaire + NBI + Indemnité de résidence + SFT + Primes et indemnités + Avantages en nature",
+        "9,2 % (dont 2,4 % non déductible du revenu imposable)",
+        "Contribution pour le remboursement de la dette sociale - CDRS",
+        "0,5 % non déductible du revenu imposable"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Décret n°2010-1749 du 30 décembre 2010 portant relèvement du taux de cotisation des fonctionnaires, des militaires et des ouvriers des établissements industriels de l'Etat",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000023335006"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles L136-1 à L136-5",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006173055/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : article L136-8",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006173099/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "cotisations-salariales-du-fonctionnaire",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "remuneration-dans-la-fonction-publique",
+      "titre": "Rémunération dans la fonction publique"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": "F816",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Douanes : comment se déroule le contrôle du voyageur ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Lors de vos voyages (Europe et pays étranger), vous et vos marchandises, bagages et véhicule, êtes soumis à des contrôles douaniers. Ils ont lieu surtout dans les aéroports, les ports, les trains, sur les autoroutes et lors d'un passage de frontière.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2024-11-12",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F816",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Douane",
+    "Douanes : comment se déroule le contrôle du voyageur ?"
+  ],
+  "introduction": "Lors de vos voyages (Europe et pays étranger), vous et vos marchandises, bagages et véhicule, êtes soumis à des contrôles douaniers. Ils ont lieu surtout dans les aéroports, les ports, les trains, sur les autoroutes et lors d'un passage de frontière.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "La situation est différente si vous revenez d'un pays membre de l'Union européenne (UE) ou d'un pays situé en dehors de l'UE."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code des douanes : articles 43 à 44 bis",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006122077"
+    },
+    {
+      "titre": "Code des douanes : articles 60 à 63 bis",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006138841"
+    },
+    {
+      "titre": "Code des douanes : articles 67 à 67-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071570/LEGISCTA000006138846/#LEGISCTA000047861493"
+    },
+    {
+      "titre": "Code des douanes : article 67 quater",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071570/LEGISCTA000026896653"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Infos Douane Service"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Tout savoir sur les contrôles douaniers",
+      "url": "http://www.douane.gouv.fr/articles/a11066-tout-savoir-sur-les-controles-douaniers"
+    },
+    {
+      "titre": "Pays de l'Union européenne",
+      "url": "https://european-union.europa.eu/principles-countries-history/eu-countries_fr"
+    },
+    {
+      "titre": "Voyager en avion : contrôle des bagages dans les aéroports européens",
+      "url": "https://europa.eu/youreurope/citizens/travel/carry/luggage-restrictions/index_fr.htm"
+    },
+    {
+      "titre": "Passer la douane en Suisse",
+      "url": "https://www.ch.ch/fr/douane/biens-delicats-pour-l-entree-en-suisse/"
+    },
+    {
+      "titre": "Rayon des douanes : définition",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033557484"
+    },
+    {
+      "titre": "Emporter de l'alcool, du tabac ou de l'argent liquide dans l'Union européenne",
+      "url": "https://europa.eu/youreurope/citizens/travel/carry/alcohol-tobacco-cash/index_fr.htm"
+    },
+    {
+      "titre": "Tabacs achetés dans l'Union européenne",
+      "url": "https://www.douane.gouv.fr/demarche/vous-rapportez-du-tabac-achete-dans-un-pays-de-lunion-europeenne"
+    },
+    {
+      "titre": "Conseils aux voyageurs",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs"
+    },
+    {
+      "titre": "Voyage hors UE : carte de libre circulation pour vos marchandises",
+      "url": "https://www.douane.gouv.fr/fiche/carte-de-libre-circulation-passeport-des-marchandises"
+    }
+  ],
+  "slug": "douanes-comment-se-deroule-le-controle-du-voyageur",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "douane",
+      "titre": "Douane"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "id": "F3135",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Retrait de l'autorité parentale",
+  "theme": "Famille - Scolarité",
+  "description": "L'autorité parentale peut être retirée à un parent lorsqu'il met en danger ou se désintéresse de son enfant, ou bien lorsqu'il est condamné pour crime ou délit.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-03-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F3135",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Autorité parentale",
+    "Retrait de l'autorité parentale"
+  ],
+  "introduction": "Vous voulez connaître les situations dans lesquelles le retrait de l'autorité parentale peut être décidé ? Nous vous donnons les renseignements utiles.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Le juge peut retirer totalement ou partiellement l'autorité parentale. Il peut également limiter le retrait à l'exercice de l'autorité parentale.",
+        "Dans le cas d'un retrait de l'autorité parentale, le parent perd la totalité ou une partie des droits qu'il exerce sur l'enfant.",
+        "En cas de retrait de l'exercice de l'autorité parentale, le parent perd le droit de prendre les décisions concernant l’enfant, mais il conserve le droit et le devoir de surveiller l’entretien et l’éducation de l’enfant. Il doit être informé des décisions importantes concernant l’enfant (santé, éducation...).",
+        "Le parent peut se voir retirer l’autorité parentale en cas de de danger ou de désintérêt envers son enfant, en dehors de toute condamnation pénale.",
+        "Pour protéger l’enfant, l’autorité parentale peut également être retirée lorsque le parent est condamné pour crime ou délit."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : article 371-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038749626"
+    },
+    {
+      "titre": "Code civil : articles 378 à 381",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006150527"
+    },
+    {
+      "titre": "Code pénal : article 228-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049293221"
+    },
+    {
+      "titre": "Code de procédure civile : articles 1202 à 1210",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070716/LEGISCTA000006149804"
+    },
+    {
+      "titre": "Code général des impôts : article 1635bis Q",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024418051"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Acheter un timbre fiscal électronique pour engager une procédure judiciaire civile",
+      "url": "https://timbres.impots.gouv.fr/",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "Maison de justice et du droit",
+    "Avocat"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Perte de l’autorité parentale et suppression du droit de visite",
+      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A18504"
+    }
+  ],
+  "slug": "retrait-de-l-autorite-parentale",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "autorite-parentale",
+      "titre": "Autorité parentale"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "F34756",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Comment suivre l'état d'avancement d'une demande de carte d'identité ?",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Vous pouvez suivre l’avancement de votre carte d’identité sur le site de l’ANTS. Si vous avez renseigné un numéro, un SMS est envoyé dès qu’elle est disponible.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-08-05",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34756",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Carte d'identité",
+    "Comment suivre l'état d'avancement d'une demande de carte d'identité ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Vous pouvez suivre votre demande sur le site de l'ANTS :",
+        "Suivre votre demande de carte d'identité",
+        "Si vous avez renseigné un numéro de téléphone portable lors de votre demande, vous recevrez un SMS lorsque votre carte d'identité sera disponible."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "comment-suivre-l-etat-d-avancement-d-une-demande-de-carte-d-identite",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "carte-d-identite",
+      "titre": "Carte d'identité"
+    }
+  ]
+}

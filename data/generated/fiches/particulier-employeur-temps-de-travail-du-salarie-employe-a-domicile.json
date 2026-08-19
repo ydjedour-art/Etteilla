@@ -1,0 +1,54 @@
+{
+  "id": "F104",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Particulier employeur : temps de travail du salarié employé à domicile",
+  "theme": "Travail - Formation",
+  "description": "Les règles régissant le temps de travail du salarié employé à domicile, sont exclusivement fixées par la convention collective du particulier employeur.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-03-12",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F104",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Particulier employeur : aide à domicile (services à la personne)",
+    "Particulier employeur : temps de travail du salarié employé à domicile"
+  ],
+  "introduction": "La durée de travail d'un salarié embauché par un particulier employeur à son domicile est prévue par la convention collective nationale des particuliers employeurs et de l'emploi à domicile. Selon l'emploi occupé par le salarié, des règles particulières s'appliquent concernant les heures supplémentaires, le repos hebdomadaire ou encore le travail d'un jour férié. Nous faisons le point sur la réglementation.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "La réglementation concernant la durée du travail du salarié du particulier employeur diffère selon que le salarié est baby-sitter, garde d'enfants, assistant de vie ou occupe un autre emploi."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Convention collective nationale des particuliers employeurs et de l'emploi à domicile du 15 mars 2021",
+      "url": "https://www.legifrance.gouv.fr/conv_coll/id/KALITEXT000043941642"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Site officiel du particulier employeur et du salarié",
+      "url": "https://www.urssaf.fr/accueil/particulier/particulier-employeur.html"
+    },
+    {
+      "titre": "Site des services à la personne",
+      "url": "https://www.servicesalapersonne.gouv.fr/"
+    }
+  ],
+  "slug": "particulier-employeur-temps-de-travail-du-salarie-employe-a-domicile",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "particulier-employeur-aide-a-domicile-services-a-la-personne",
+      "titre": "Particulier employeur : aide à domicile (services à la personne)"
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "id": "F21088",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Qu'est-ce qu'une question prioritaire de constitutionnalité (QPC) ?",
+  "theme": "Justice",
+  "description": "La question prioritaire de constitutionnalité permet à tout citoyen de contester une loi contraire aux droits et libertés garantis par la Constitution.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-07-09",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F21088",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Contestation d'un jugement",
+    "Qu'est-ce qu'une question prioritaire de constitutionnalité (QPC) ?"
+  ],
+  "introduction": "Lors d'un procès devant une juridiction judiciaire ou administrative, vous pouvez contester la loi qui est appliquée si vous estimez qu'elle est contraire aux droits et libertés garantis par la Constitution. Vous pouvez poser une question prioritaire de constitutionnalité (QPC) avant que l'affaire ne soit jugée. Si toutes les conditions sont réunies, c'est le Conseil constitutionnel qui va examiner la loi contestée et décider si elle ne doit plus être appliquée.",
+  "chapitres": [
+    {
+      "titre": "Quelles lois peuvent être contestées dans le cadre d'une QPC ?",
+      "contenu": [
+        "Lors d'un procès, si vous estimez qu'une loi est contraire aux droits et libertés garantis par la Constitution, vous pouvez poser une QPC avant que l'affaire ne soit jugée.",
+        "La QPC sera d'abord examinée par la juridiction devant laquelle le procès est en cours.",
+        "Après examen, elle peut être transmise au Conseil constitutionnel.",
+        "Le Conseil constitutionnel juge alors si la loi est conforme aux droits et libertés garantis par la Constitution.",
+        "[Attention] Seules les lois peuvent être contestées dans le cadre d'une QPC.",
+        "Droits et libertés garantis par la Constitution",
+        "Les droits et libertés (par exemple la liberté individuelle) sont issus de la Constitution de 1958 et des textes auxquels renvoie le Préambule de la Constitution.",
+        "Le Préambule de la Constitution renvoie aux textes suivants :",
+        "• Déclaration des droits de l'homme et du citoyen de 1789 (droit de propriété, égalité devant la loi, liberté d'expression...)",
+        "• Préambule de la Constitution de 1946 (droit de grève, liberté syndicale, liberté d'association...)",
+        "• Charte de l'environnement de 2004 (droit de vivre dans un environnement équilibré et respectueux de la santé).",
+        "[Attention] Vous ne pouvez pas invoquer un texte de droit international comme la Convention européenne des droits de l'homme du 4 novembre 1950.",
+        "Lois concernées",
+        "Le texte contesté doit être de nature législative, c'est-à-dire une loi ou une partie de celle-ci.",
+        "Les textes réglementaires tels qu'un décret ou un arrêté ne peuvent pas faire l'objet d'une QPC.",
+        "Le texte contesté doit être directement applicable à votre cas. Par exemple, si vous êtes poursuivi pour avoir enfreint tel article de loi."
+      ]
+    },
+    {
+      "titre": "Comment poser une QPC ?",
+      "contenu": [
+        "Avant qu'une affaire ne soit jugée, les parties à un procès civil ou administratif (demandeur et défendeur) ou à un procès pénal (prévenu, partie civile, ministère public) peuvent poser une QPC.",
+        "La QPC peut être posée quel que soit le type de litige (civil, pénal, administratif).",
+        "Elle peut être posée lors du premier procès ou lors d'un recours (appel, pourvoi en cassation ou en recours devant le Conseil d’État).",
+        "[À savoir] En matière pénale, si c'est une affaire criminelle, la QPC ne peut être posée que devant le juge d'instruction. Une QPC ne peut pas être posée devant la cour d'assises.",
+        "La QPC doit être posée par écrit et comporter une justification, c'est-à-dire expliquer pourquoi la loi est contestée.",
+        "Cet écrit doit toujours être à part des autres conclusions données à la juridiction.",
+        "Si un avocat est obligatoire dans une affaire, c'est l'avocat qui va poser la QPC devant le tribunal ou la cour.",
+        "Avocat",
+        "Si vos revenus ne vous permettent pas de payer un avocat, vous pouvez demander à bénéficier de l'aide juridictionnelle."
+      ]
+    },
+    {
+      "titre": "Comment est examinée la QPC par les juridictions ?",
+      "contenu": [
+        "La juridiction devant laquelle la question est posée doit faire un premier examen.",
+        "La juridiction saisie d'une QPC doit examiner les points suivants :",
+        "• Si la loi est applicable au litige ou à la procédure",
+        "• Si la loi n'a pas déjà été déclarée conforme à la Constitution par le Conseil constitutionnel (sauf changement des circonstances)",
+        "• Si la question posée a un caractère sérieux ou nouveau.",
+        "[À noter] Un tableau du Conseil constitutionnel présente la liste des dispositions déjà déclarées conformes à la Constitution.",
+        "Lorsqu'une QPC est posée devant un tribunal ou devant une cour d'appel (judiciaire ou administratif), un examen doit se faire immédiatement.",
+        "Lorsqu'une QPC est posée devant la Cour de cassation ou le Conseil d'État, un examen doit se faire dans un délai de 3 mois.",
+        "Si les conditions de la QPC ne sont pas réunies",
+        "• Si la QPC était posée devant un tribunal ou devant une cour d'appel (judiciaire ou administratif), elle n'est pas transmise à la Cour de cassation ou au Conseil d'État. La procédure reprend son cours.",
+        "• Si la QPC était posée devant la Cour de cassation ou le Conseil d'État, elle n'est pas transmise au Conseil constitutionnel. La procédure reprend son cours.",
+        "[À savoir] Un recours est possible uniquement si la QPC est transmise.",
+        "Si les conditions de la QPC sont réunies",
+        "• La QPC est transmise à la Cour de cassation si elle a été posée devant un tribunal ou une cour d'appel judiciaire.",
+        "• La QPC est transmise au Conseil d'État si elle a été posée devant un tribunal administratif ou une cour d'appel administrative.",
+        "• La QPC est transmise au Conseil constitutionnel si elle a directement été posée devant la Cour de cassation ou devant le Conseil d'État."
+      ]
+    },
+    {
+      "titre": "Comment la QPC est-elle traitée par le Conseil constitutionnel ?",
+      "contenu": [
+        "Le Conseil constitutionnel doit rendre sa décision dans un délai de 3 mois.",
+        "Les parties peuvent présenter des observations écrites.",
+        "Les avocats peuvent formuler des observations orales le jour de l'audience.",
+        "La décision du Conseil constitutionnel est rendue publiquement.",
+        "Le Conseil constitutionnel déclare la loi conforme à la Constitution",
+        "La loi est maintenue, elle continue de s'appliquer.",
+        "Toutefois, le Conseil constitutionnel peut apporter des précisions sur la façon d'appliquer la loi.",
+        "L'affaire peut reprendre son cours.",
+        "La loi en question continue de s'appliquer en tenant compte éventuellement des précisions du Conseil constitutionnel.",
+        "Le Conseil constitutionnel déclare la loi contraire à la Constitution",
+        "La loi en question est abrogée, c'est-à-dire qu'elle est supprimée, elle ne peut plus s'appliquer.",
+        "Cette suppression peut être immédiate ou reportée à une date fixée par le Conseil constitutionnel, le temps qu'une nouvelle loi soit votée.",
+        "L'affaire peut reprendre son cours, mais la loi concernée ne peut plus être appliquée.",
+        "[À noter] Il est impossible de faire appel d'une décision du Conseil constitutionnel."
+      ]
+    },
+    {
+      "titre": "QPC : résumé de la procédure (infographie)",
+      "contenu": [
+        "QPC : résumé de la procédure",
+        "Une partie à un procès peut poser une question prioritaire de constitutionnalité (QPC) à tout moment de la procédure.",
+        "La QPC peut être posée en première instance, en appel, en cassation (ou en Conseil d’État).",
+        "Plusieurs étapes doivent être franchies avant que le Conseil constitutionnel puisse être saisi. Il est impossible de le saisir directement.",
+        "Il peut y avoir 3 étapes ou seulement les 2 dernières étapes.",
+        "1ère étape : lorsque le juge de première instance (tribunal judiciaire ou tribunal administratif) ou le juge d'appel (cour d'appel ou cour administrative d'appel) reçoit une QPC, il fait un premier contrôle.",
+        "Deux choix sont possibles :",
+        "• si les conditions de la QPC ne sont pas réunies, la QPC n'est pas transmise en cassation (ou en Conseil d’État). La procédure reprend son cours.",
+        "• si les conditions de la QPC sont réunies, la QPC est transmise en cassation (ou en Conseil d’État). La procédure est suspendue en première instance ou en appel.",
+        "2ème étape : lorsque la Cour de cassation ou le Conseil d’État reçoit une QPC, il y a un 2ème contrôle.",
+        "Deux choix sont possibles :",
+        "• si les conditions de la QPC ne sont pas réunies, la QPC n'est pas transmise au Conseil constitutionnel. La procédure reprend son cours.",
+        "• si les conditions de la QPC sont réunies, la QPC est transmise au Conseil constitutionnel. La procédure est suspendue en cour de Cassation ou en Conseil d’État.",
+        "3ème étape : lorsque le Conseil constitutionnel reçoit une QPC, deux choix sont possibles :",
+        "• si la loi est déclarée conforme à la Constitution, la procédure reprend son cours.",
+        "• si la loi est annulée ou abrogée, elle ne peut plus être appliquée."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Constitution du 4 octobre 1958 : article 61-1",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000019241077/"
+    },
+    {
+      "titre": "Constitution du 4 octobre 1958 : article 62",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000019241079/"
+    },
+    {
+      "titre": "Ordonnance n°58-1067 du 7 novembre 1958 portant loi organique sur le Conseil constitutionnel",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006069199/"
+    },
+    {
+      "titre": "Code de procédure civile : articles 126-1 à 126-7",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000021843079/"
+    },
+    {
+      "titre": "Code de procédure pénale : articles R*49-21 à R*49-29",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000021843128/"
+    },
+    {
+      "titre": "Code de justice administrative : articles LO771-1 à LO771-2",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000021450792/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "France Services / Maison de services au public",
+    "Maison de justice et du droit",
+    "Avocat"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Portail de la question prioritaire de constitutionnalité (QPC)",
+      "url": "https://qpc360.conseil-constitutionnel.fr/"
+    },
+    {
+      "titre": "La question prioritaire de constitutionnalité : foire aux questions",
+      "url": "https://qpc360.conseil-constitutionnel.fr/qpc-questions"
+    },
+    {
+      "titre": "La question prioritaire de constitutionnalité : guide pratique",
+      "url": "http://www.conseil-constitutionnel.fr/conseil-constitutionnel/root/bank_mm/QPC/QPC_guide_pratique.pdf"
+    },
+    {
+      "titre": "Qu'est-ce que la question prioritaire de constitutionnalité ?",
+      "url": "https://www.vie-publique.fr/fiches/19560-quest-ce-que-la-question-prioritaire-de-constitutionnalite-qpc"
+    },
+    {
+      "titre": "Dix ans de questions prioritaires de constitutionnalité : questions - réponses",
+      "url": "https://www.vie-publique.fr/questions-reponses/23811-la-question-prioritaire-de-constitutionnalite-qpc"
+    },
+    {
+      "titre": "Conseil constitutionnel : dispositions déjà déclarées conformes",
+      "url": "https://www.conseil-constitutionnel.fr/dispositions"
+    },
+    {
+      "titre": "Cour européenne des droits de l'homme (CEDH)",
+      "url": "http://www.echr.coe.int/Pages/home.aspx?p=court&c=fra#n1354801701084_pointer"
+    }
+  ],
+  "slug": "qu-est-ce-qu-une-question-prioritaire-de-constitutionnalite-qpc",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "contestation-d-un-jugement",
+      "titre": "Contestation d'un jugement"
+    }
+  ]
+}

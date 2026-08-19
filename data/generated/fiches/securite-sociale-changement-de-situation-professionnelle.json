@@ -1,0 +1,53 @@
+{
+  "id": "F674",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Sécurité sociale : changement de situation professionnelle",
+  "theme": "Social - Santé",
+  "description": "En cas de changement de situation professionnelle, dans certains cas, une démarche est à effectuer auprès de la Sécurité sociale",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-10-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F674",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Affiliation à la sécurité sociale (assurance maladie)",
+    "Sécurité sociale : changement de situation professionnelle"
+  ],
+  "introduction": "Votre situation professionnelle change (par exemple, vous avez obtenu un nouvel emploi ou vous devenez fonctionnaire) ? Dans certains cas, une démarche est à effectuer auprès de la Sécurité sociale. Les formalités varient selon que vous dépendez du régime général (CPAM) ou du régime agricole (MSA). Nous faisons le point sur vos obligations.",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [
+    "Caisse primaire d'assurance maladie (CPAM)",
+    "Mutualité sociale agricole (MSA)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Vos principaux droits et démarches en tant que travailleur indépendant",
+      "url": "https://www.ameli.fr/assure/droits-demarches/vie-professionnelle-retraite/emploi-independant-non-salarie"
+    },
+    {
+      "titre": "MSA - Changement de situation : déclarations et démarches",
+      "url": "https://www.msa.fr/lfp/vous-guider/votre-situation-change"
+    },
+    {
+      "titre": "Vous êtes polypensionné",
+      "url": "https://www.ameli.fr/assure/droits-demarches/vie-professionnelle-retraite/polypensionne"
+    },
+    {
+      "titre": "Je rejoins le régime agricole (MSA)",
+      "url": "https://www.msa.fr/lfp/pratique/vous-rejoignez-la-msa?p_p_id=com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_mqqt5z0ucijc&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_mqqt5z0ucijc_read_more=1"
+    }
+  ],
+  "slug": "securite-sociale-changement-de-situation-professionnelle",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "affiliation-a-la-securite-sociale-assurance-maladie",
+      "titre": "Affiliation à la sécurité sociale (assurance maladie)"
+    }
+  ]
+}

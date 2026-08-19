@@ -1,0 +1,33 @@
+{
+  "id": "F35977",
+  "type_publication": "Recherche guidée",
+  "titre": "Surface minimum d'un logement à louer",
+  "theme": "Logement",
+  "description": "Surface minimum d'un logement à louer",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2021-10-29",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35977",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Bail d’habitation : obligations du propriétaire (bailleur)",
+    "Surface minimum d'un logement à louer"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "surface-minimum-d-un-logement-a-louer",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "bail-d-habitation-obligations-du-proprietaire-bailleur",
+      "titre": "Bail d’habitation : obligations du propriétaire (bailleur)"
+    }
+  ]
+}

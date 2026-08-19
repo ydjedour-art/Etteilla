@@ -1,0 +1,33 @@
+{
+  "id": "F38531",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Vous n'arrivez plus à payer votre loyer : aides financières",
+  "theme": "Social - Santé",
+  "description": "Plusieurs démarches sont possibles si vous n'arrivez plus à payer votre loyer.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-02-23",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F38531",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Aides financières",
+    "Vous n'arrivez plus à payer votre loyer : aides financières"
+  ],
+  "introduction": "Nous vous présentons les démarches que vous pouvez faire lorsque vous avez des difficultés pour payer votre loyer. La situation diffère selon que vous louez un logement dans le secteur privé ou un logement social.",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "vous-n-arrivez-plus-a-payer-votre-loyer-aides-financieres",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "aides-financieres",
+      "titre": "Aides financières"
+    }
+  ]
+}

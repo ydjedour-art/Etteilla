@@ -1,0 +1,92 @@
+{
+  "id": "F3109",
+  "type_publication": "Fiche Comment faire si conditionné",
+  "titre": "Je crée une association",
+  "theme": "",
+  "description": "J'organise des activités ou je porte des projets qui m'incitent à former une association avec d'autres personnes. Que dois-je faire pour la créer ?",
+  "type_fiche": "Comment faire si...",
+  "date_modif": "2026-06-19",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F3109",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Comment faire si",
+    "Je crée une association"
+  ],
+  "introduction": "Si vous êtes au moins 2 personnes, que vous avez un projet en commun ou vous souhaitez organiser des activités, vous avez la possibilité de créer une association. Comment faire ? Comment la déclarer ? Comment pourra-t-elle fonctionner ? Nous vous guidons dans vos démarches. Attention : pour créer une association en Alsace-Moselle (Bas-Rhin, Haut-Rhin, Moselle), les règles sont différentes.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Loi du 1er juillet 1901 relative au contrat d'association",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006069570/"
+    },
+    {
+      "titre": "Loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006069443/"
+    },
+    {
+      "titre": "Code civil local d'Alsace-Moselle : articles 21 à 79-IV",
+      "url": "https://idl-am.org/documents-sur-le-droit-local/code-civil-local-extraits-articles-21-a-79-iv/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Création d'une association (démarche en ligne)",
+      "url": "https://demarches.service-public.gouv.fr/asso_mademarche/CR/demarche",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Création d'une association (formulaire cerfa)",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_13973.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Création d'une association en Alsace-Moselle (démarche en ligne)",
+      "url": "https://associations.alsace-moselle.fr",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Consulter les annonces des associations et fondations",
+      "url": "https://www.journal-officiel.gouv.fr/pages/associations/",
+      "type": "Outil de recherche"
+    },
+    {
+      "titre": "Déclaration de la liste des personnes chargées de l'administration d'une association (formulaire)",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_13971.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Déclaration de la liste des associations membres d'une union ou d'une fédération d'associations (formulaire)",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_13969.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Déclaration de l'état des immeubles dont l'association est propriétaire (formulaire)",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_13970.do",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Point ressource à la vie associative"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Guid’Asso : mon accompagnement local",
+      "url": "https://associations.gouv.fr/guid-asso"
+    },
+    {
+      "titre": "Comment monter un projet Erasmus+ éducation/formation ?",
+      "url": "https://agence.erasmusplus.fr/profils/vous-voulez-monter-un-projet-erasmus/"
+    },
+    {
+      "titre": "Associations et protection des données : les règles à suivre pour être en conformité avec le RGPD",
+      "url": "https://associations.gouv.fr/associations-et-protection-des-donnees-les-regles-suivre-pour-etre-en-conformite-avec-le-rgpd"
+    }
+  ],
+  "slug": "je-cree-une-association",
+  "path": [
+    {
+      "slug": "comment-faire-si",
+      "titre": "Comment faire si"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "F31513",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Copropriété : travaux et aménagements dans l'appartement du propriétaire occupant",
+  "theme": "Logement",
+  "description": "Les copropriétaires qui souhaitent réaliser des travaux dans leur appartement doivent respecter certaines règles.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-02-18",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31513",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Droits des copropriétaires",
+    "Copropriété : travaux et aménagements dans l'appartement du propriétaire occupant"
+  ],
+  "introduction": "Les travaux ou aménagements réalisés dans un appartement concernent les parties privatives de l’immeuble, c’est-à-dire les espaces réservés à l’usage exclusif du propriétaire. Par conséquent, ces travaux sont à la charge du copropriétaire qui les entreprend ou les fait réaliser. Même si le propriétaire dispose en principe de la liberté d’aménager son logement, il est essentiel de déterminer si les travaux envisagés ont un impact sur les parties communes ou modifient l’aspect extérieur de l’immeuble. Dans ce cas, des règles spécifiques s'appliquent. Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Loi n° 65-557 du 10 juillet 1965 : article 3",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000037671848"
+    },
+    {
+      "titre": "Loi n°65-557 du 10 juillet 1965 : article 8",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000041587248"
+    },
+    {
+      "titre": "Loi n°65-557 du 10 juillet 1965 : article 9",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039313535/"
+    },
+    {
+      "titre": "Décret n°67-223 du 17 mars 1967 : article 8-1",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042077741"
+    },
+    {
+      "titre": "Décret n°67-223 du 17 mars 1967 : article 10",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042078638"
+    },
+    {
+      "titre": "Décret n°67-223 du 17 mars 1967 : article 10-1",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000053191272"
+    },
+    {
+      "titre": "Décret n°67-223 du 17 mars 1967 : article 10-4",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000053182694"
+    },
+    {
+      "titre": "Loi n°65-557 du 10 juillet 1965 fixant le statut de la copropriété : article 25",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039313590"
+    },
+    {
+      "titre": "Loi n°65-557 du 10 juillet 1965 : article 42",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039329680"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "copropriete-travaux-et-amenagements-dans-l-appartement-du-proprietaire-occupant",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "droits-des-coproprietaires",
+      "titre": "Droits des copropriétaires"
+    }
+  ]
+}

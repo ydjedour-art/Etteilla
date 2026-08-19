@@ -1,0 +1,87 @@
+{
+  "id": "F2395",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Comment consulter une convention collective ?",
+  "theme": "Travail - Formation",
+  "description": "Une convention collective est consultable sur le lieu de travail, sur internet et dans les DDETS. Elle peut aussi être achetée en librairie.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-03-07",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2395",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Conditions de travail dans le secteur privé",
+    "Comment consulter une convention collective ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Il est possible de consulter ou se procurer une convention collective de différentes façons :",
+        "Sur le site Legifrance.gouv.fr (accès gratuit)",
+        "La procédure pour consulter la convention collective diffère selon que la convention collective est étendue ou non :",
+        "La convention collective est étendue",
+        "Les conventions collectives nationales étendues, ainsi que leurs avenants et annexes, sont disponibles sur Légifrance, rubrique « Droit national en vigueur », « Accords collectifs », « Accords de branche et conventions collectives » :",
+        "Rechercher une convention collective étendue",
+        "La convention collective n'est pas étendue",
+        "Les conventions collectives non étendues sont consultables dans le Bulletin officiel des conventions collectives, disponible sur le site internet Légifrance.gouv.fr, rubrique « Publications officielles », « Bulletins officiels des conventions collectives » :",
+        "Rechercher une convention collective non étendue",
+        "Commander une version numérique sur le site Vie-publique.fr (accès payant)",
+        "Les conventions collectives sont publiées sous forme de PDF accessibles diffusées sur le site Vie-Publique.fr :",
+        "Commander une convention collective en version numérique",
+        "Sur place",
+        "Sur le lieu de travail",
+        "Le mode d'information des salariés (et des représentants du personnel) sur le droit conventionnel applicable dans l'entreprise est défini par convention de branche ou accord professionnel.",
+        "En l'absence d'autres clauses prévues par une convention ou un accord, l'employeur doit effectuer les actions suivantes :",
+        "• Donner au salarié une notice d'information sur les textes conventionnels au moment de l'embauche",
+        "• Tenir à la disposition des salariés sur le lieu de travail un exemplaire à jour du texte de la convention collective",
+        "• Mettre un exemplaire à jour de ce texte sur l'intranet (s'il existe dans l'entreprise).",
+        "[Rappel] L'employeur remet au salarié, dans le délai d’1 mois à partir de sa date d’embauche, un document écrit précisant notamment les conventions et accords collectifs applicables dans l'entreprise ou l'établissement.",
+        "À l'inspection du travail",
+        "Auprès de la direction départementale chargé de l'emploi, du travail et des solidarités (DDETS ou DDETSPP) dont dépend l'entreprise.",
+        "Direction départementale en charge de l'emploi, du travail et des solidarités (DDETS ou DDETS-PP)",
+        "[À savoir] L'intitulé de la convention collective applicable dans l'entreprise doit apparaître sur le bulletin de paie remis au salarié."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code du travail : article L2262-5 à L2262-8",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000006901814/"
+    },
+    {
+      "titre": "Code du travail : articles R2262-1 à R2262-5",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000018535599/"
+    },
+    {
+      "titre": "Code du travail : articles R3243-1 à R3243-9",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000018487280/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Rechercher une convention collective étendue",
+      "url": "https://www.legifrance.gouv.fr/liste/idcc?init=true",
+      "type": "outilRechercheNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Les accords collectifs d'entreprises",
+      "url": "https://www.legifrance.gouv.fr/liste/acco"
+    }
+  ],
+  "slug": "comment-consulter-une-convention-collective",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "conditions-de-travail-dans-le-secteur-prive",
+      "titre": "Conditions de travail dans le secteur privé"
+    }
+  ]
+}

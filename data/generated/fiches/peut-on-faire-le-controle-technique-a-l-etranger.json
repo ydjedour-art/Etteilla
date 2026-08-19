@@ -1,0 +1,84 @@
+{
+  "id": "F16539",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Peut-on faire le contrôle technique à l'étranger ?",
+  "theme": "Transports - Mobilité",
+  "description": "Le contrôle technique doit être fait en France, mais inutile de le refaire lors de l'immatriculation d'un véhicule d'occasion acheté et immatriculé en Europe.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-04-29",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F16539",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Contrôle technique",
+    "Peut-on faire le contrôle technique à l'étranger ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Non, le contrôle technique doit être fait en France par un organisme agréé.",
+        "Centre agréé de contrôle technique",
+        "Toutefois, lors de l’immatriculation d’un véhicule précédemment immatriculé dans un pays de l’Union européenne, le contrôle technique réalisé en Europe (UE) est accepté."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Directive 2014/45/UE du 3 avril 2014 relative au contrôle technique périodique des véhicules à moteur et de leurs remorques",
+      "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A02014L0045-20140429"
+    },
+    {
+      "titre": "Code de la route : article L323-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074228/LEGISCTA000006159533"
+    },
+    {
+      "titre": "Code de la route : articles R323-1 à R323-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074228/LEGISCTA000006177100"
+    },
+    {
+      "titre": "Code de la route : articles R323-6 à R323-21",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006177154"
+    },
+    {
+      "titre": "Arrêté du 23 octobre 2023 relatif au contrôle technique des véhicules motorisés à deux ou trois roues et quadricycles à moteur",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000048242538/"
+    },
+    {
+      "titre": "Arrêté du 9 février 2009 relatif aux démarches d'immatriculation des véhicules",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000020237165"
+    },
+    {
+      "titre": "Arrêté du 18 juin 1991 relatif au contrôle technique des véhicules dont le poids n'excède pas 3,5 tonnes",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000020559004/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Rechercher un centre agréé de contrôle technique et ses tarifs",
+      "url": "https://prix.conso.gouv.fr/controle-technique",
+      "type": "outilRechercheNG"
+    }
+  ],
+  "contacts": [
+    "Centre agréé de contrôle technique"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Pays de l'Union européenne",
+      "url": "https://european-union.europa.eu/principles-countries-history/eu-countries_fr"
+    }
+  ],
+  "slug": "peut-on-faire-le-controle-technique-a-l-etranger",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "controle-technique",
+      "titre": "Contrôle technique"
+    }
+  ]
+}

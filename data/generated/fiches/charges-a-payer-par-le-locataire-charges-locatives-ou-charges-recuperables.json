@@ -1,0 +1,96 @@
+{
+  "id": "F947",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Charges à payer par le locataire (charges locatives ou charges récupérables)",
+  "theme": "Logement",
+  "description": "Les charges récupérables sont des dépenses dues par le locataire, mais initialement payées par le propriétaire, ou l'agence immobilière.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-04-15",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F947",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Bail d’habitation : obligations du locataire",
+    "Charges à payer par le locataire (charges locatives ou charges récupérables)"
+  ],
+  "introduction": "Que sont les charges locatives (ou charges récupérables) ? Ce sont des dépenses dues par le locataire, mais initialement payées par le propriétaire (ou l'agence immobilière). Le propriétaire (ou l'agence immobilière) se fait rembourser ces dépenses par le locataire. Le mode de paiement de ces charges est différent en cas de logement vide loué avec un bail d'habitation ou en cas de logement meublé loué avec un bail d'habitation ou avec un bail mobilité. Nous vous expliquons.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Décret n°87-713 du 26 août 1987 fixant la liste des charges récupérables sur les locataires",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006066149/"
+    },
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 23",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000041587263/"
+    },
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 6-2",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042120464"
+    },
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 6-3",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000046782366"
+    },
+    {
+      "titre": "Arrêté du 27 août 2012 sur la fixation individuelle de la quantité de chaleur et froid et à la répartition des frais de chauffage et refroidissement en immeuble collectif d'habitation ou à usage mixte",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000026344847/"
+    },
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 25-10",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000028779195/"
+    },
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 8-1",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038834725/"
+    },
+    {
+      "titre": "Décret n°82-955 du 9 novembre 1982 fixant la liste des charges récupérables",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000701663/"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : article L442-3",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041586737/"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : article L353-15",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045211517/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Lettre pour demander au propriétaire des précisions sur le montant annuel des charges locatives",
+      "url": "https://www.inc-conso.fr/content/vous-demandez-des-precisions-sur-le-montant-annuel-des-charges-locatives",
+      "type": "Modèle de document"
+    },
+    {
+      "titre": "Lettre pour demander un délai pour payer un rappel de charges locatives important",
+      "url": "https://www.inc-conso.fr/content/vous-demandez-des-delais-pour-regler-un-rappel-de-charges-locatives-important",
+      "type": "lettreTypeNG"
+    }
+  ],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Les charges locatives ou récupérables",
+      "url": "https://www.inc-conso.fr/content/les-charges-locatives-ou-charges-recuperables"
+    },
+    {
+      "titre": "Comment contrôler ses charges locatives ?",
+      "url": "https://www.inc-conso.fr/content/comment-controler-ses-charges-locatives"
+    }
+  ],
+  "slug": "charges-a-payer-par-le-locataire-charges-locatives-ou-charges-recuperables",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "bail-d-habitation-obligations-du-locataire",
+      "titre": "Bail d’habitation : obligations du locataire"
+    }
+  ]
+}

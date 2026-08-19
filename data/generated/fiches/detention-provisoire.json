@@ -1,0 +1,49 @@
+{
+  "id": "F1042",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Détention provisoire",
+  "theme": "Justice",
+  "description": "La détention provisoire consiste à incarcérer une personne présumée innocente qui n'a pas encore été condamnée.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-07-28",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1042",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Affaire pénale",
+    "Détention provisoire"
+  ],
+  "introduction": "La détention provisoire est l'emprisonnement d'une personne qui n'a pas encore été jugée. Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de procédure pénale : articles 137 à 150",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000006167427/"
+    },
+    {
+      "titre": "Code de procédure pénale : articles 393 à 397-7",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000006182903/"
+    },
+    {
+      "titre": "Code de procédure pénale : articles 495-7 à 495-16",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006167486/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Maison de justice et du droit",
+    "Avocat"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "detention-provisoire",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "affaire-penale",
+      "titre": "Affaire pénale"
+    }
+  ]
+}

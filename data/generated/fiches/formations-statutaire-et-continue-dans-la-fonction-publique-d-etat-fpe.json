@@ -1,0 +1,57 @@
+{
+  "id": "F3019",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Formations statutaire et continue dans la fonction publique d'État (FPE)",
+  "theme": "Travail - Formation",
+  "description": "Les agents titulaires (fonctionnaires et contractuels de la fonction publique de l'État bénéficient des formations statutaire et continue.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-08-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F3019",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Formation professionnelle dans la fonction publique",
+    "Formations statutaire et continue dans la fonction publique d'État (FPE)"
+  ],
+  "introduction": "Vous êtes un agent public titulaire (fonctionnaire) ou non (contractuel) de la fonction publique d'État ? Vous êtes concerné à la fois par la formation statutaire et la formation continue. Certains agents publics sont prioritaires pour bénéficier de ces formations. Nous vous exposons la réglementation à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "La situation diffère selon que vous êtes fonctionnaire ou contractuel. Ainsi, la formation statutaire intervient lorsque vous accédez à un nouveau grade si vous êtes fonctionnaire et à un nouvel emploi si vous êtes contractuel."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général de la fonction publique : article L115-4",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044427923/"
+    },
+    {
+      "titre": "Code général de la fonction publique : articles L421-1 à L421-8",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044422276/"
+    },
+    {
+      "titre": "Code général de la fonction publique : article L422-3",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044422312/"
+    },
+    {
+      "titre": "Code général de la fonction publique : article L422-20",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044422352/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "formations-statutaire-et-continue-dans-la-fonction-publique-d-etat-fpe",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "formation-professionnelle-dans-la-fonction-publique",
+      "titre": "Formation professionnelle dans la fonction publique"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "F39477",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Une fonctionnaire ou une contractuelle enceinte est-elle obligée d’informer son administration de sa grossesse ?",
+  "theme": "Travail - Formation",
+  "description": "Il n’y a pas obligation d’informer son administration employeur de sa grossesse. Cependant, il faut l’informer avant de partir en congé de maternité.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-01-23",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F39477",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Congés dans la fonction publique",
+    "Une fonctionnaire ou une contractuelle enceinte est-elle obligée d’informer son administration de sa grossesse ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Que vous soyez fonctionnaire ou contractuelle, vous n'êtes pas obligée d'informer votre administration employeur de votre état de grossesse.",
+        "Si vous êtes contractuelle, vous n'êtes pas obligée de révéler votre état de grossesse au moment de votre embauche ou au cours de votre contrat.",
+        "Toutefois, pendant votre grossesse, vous pouvez bénéficier d’aménagements temporaires de votre poste de travail ou de vos conditions de travail si votre emploi vous expose à des risques pour votre santé ou celle de votre enfant ou si votre état de santé le nécessite.",
+        "En l’absence d’information sur votre état de grossesse, ces mesures de protection ne sont pas mises en œuvre.",
+        "Vous ne bénéficiez pas non plus des autorisations d’absence pouvant être accordées aux femmes enceintes :",
+        "• Autorisation d’absence d’une heure par jour à partir du début du 3e mois de grossesse",
+        "• Autorisations d'absence pour vous rendre aux examens médicaux obligatoires dans le cadre de la surveillance médicale de la grossesse.",
+        "En outre, vous ne pouvez pas renoncer à votre congé de maternité.",
+        "Même en l'absence de demande de votre part, vous êtes placée en congé de maternité pendant au moins 8 semaines dont 6 après l'accouchement.",
+        "Le congé de maternité vous est accordé sur présentation d'un certificat établi par le médecin ou la sage-femme qui suit votre grossesse.",
+        "Vous pouvez prévenir votre administration de votre grossesse au moment où vous le souhaitez.",
+        "Vous devez en revanche déclarer votre grossesse à votre CPAM et à votre Caf dans les 14 premières semaines de grossesse.",
+        "Cette obligation déclarative s’applique à toutes les femmes enceintes qu’elles soient en activité ou non, et quel que soit leur statut.",
+        "Cette déclaration permet de percevoir de la Caf la prestation d’accueil du jeune enfant (Paje) si vous remplissez les conditions pour en bénéficier.",
+        "Elle permet également de bénéficier des aides de l’assurance maladie pour les femmes enceintes (comme par exemple l’exonération du ticket modérateur pour les examens médicaux obligatoires)."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Boîte à outils Parentalité au travail",
+      "url": "https://kiosque.bercy.gouv.fr/alyas/userfiles/files/Boite-a-outil-parentalite.pdf"
+    }
+  ],
+  "slug": "une-fonctionnaire-ou-une-contractuelle-enceinte-est-elle-obligee-d-informer-son-administration-de-sa-grossesse",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "conges-dans-la-fonction-publique",
+      "titre": "Congés dans la fonction publique"
+    }
+  ]
+}

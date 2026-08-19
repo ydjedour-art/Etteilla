@@ -1,0 +1,33 @@
+{
+  "id": "F36485",
+  "type_publication": "Recherche guidée",
+  "titre": "[Alcool au volant]",
+  "theme": "Transports - Mobilité",
+  "description": "[Alcool au volant]",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2023-10-18",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F36485",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Infractions routières",
+    "[Alcool au volant]"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "alcool-au-volant-f36485",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "infractions-routieres",
+      "titre": "Infractions routières"
+    }
+  ]
+}

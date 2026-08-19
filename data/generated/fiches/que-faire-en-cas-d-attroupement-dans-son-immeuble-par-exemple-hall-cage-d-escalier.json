@@ -1,0 +1,69 @@
+{
+  "id": "F13737",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Que faire en cas d'attroupement dans son immeuble (par exemple, hall, cage d'escalier) ?",
+  "theme": "Logement",
+  "description": "Vous devez le signaler au gardien (ou concierge). Il le signalera au propriétaire de l'immeuble ou au syndic de copropriété si l'immeuble est en copropriété.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-03-06",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F13737",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Troubles de voisinage",
+    "Que faire en cas d'attroupement dans son immeuble (par exemple, hall, cage d'escalier) ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "Alerter le bailleur/propriétaire",
+      "contenu": [
+        "Le bailleur a l’obligation de garantir à son locataire une jouissance paisible des lieux loués.",
+        "En cas d’attroupement dans les parties communes, le locataire doit :",
+        "• Signaler la situation par écrit (mail, lettre recommandée, etc) au bailleur (propriétaire ou gestionnaire HLM)Il est recommandé d’indiquer dans le courrier la fréquence des rassemblements, la nature des troubles, les horaires, les menaces et dégradations éventuelles.",
+        "• Et demander au bailleur de prendre toutes les mesures utiles pour mettre fin au rassemblement."
+      ]
+    },
+    {
+      "titre": "Si l’immeuble est en copropriété, informer le syndic",
+      "contenu": [
+        "Si l’immeuble est en copropriété, les occupants de l’immeuble (locataire ou propriétaire) peuvent saisir le syndic pour :",
+        "• Faire constater les troubles (rapports de gardien, photographies, vidéos, constats par un commissaire de justice)",
+        "• Et demander le renforcement des dispositifs de contrôle d’accès ou la mise en place d’une vidéosurveillance.",
+        "[À savoir] Certaines décisions devront être votées par le syndicat des copropriétaires lors d’une assemblée générale, le syndic ne pouvant pas les mettre en œuvre sans accord de la copropriété. C’est le cas, par exemple, de la mise en place d’une vidéosurveillance, de l’ajout de clauses encadrant l’accès à l’immeuble, interdisant certains usages des parties communes ou mettant en place des sanctions internes ainsi que de l’autorisation permanente de pénétrer dans les parties communes accordée à la police et à la gendarmerie."
+      ]
+    },
+    {
+      "titre": "Faire intervenir la police ou la gendarmerie",
+      "contenu": [
+        "Il est également possible de prévenir la police nationale, la gendarmerie ou la police municipale pour qu’elle fasse cesser le trouble produit par l’attroupement et les éventuelles autres infractions que les agents pourront constater (violences, dégradations, menaces, usage ou trafic de stupéfiants, etc.).",
+        "Les personnes coupables d'attroupement risquent l'une des sanctions suivantes :",
+        "• 2 mois de prison et 3 750 € d’amende (6 mois de prison et 7 500 € d'amende lorsque l'attroupement est accompagné de violences ou menaces)",
+        "• Paiement d'une amende forfaitaire de 200 €. En fonction du délai de paiement de l'amende, son montant peut être réduit à 150 € ou augmenté à 450 €.",
+        "Les personnes coupables d'attroupement peuvent aussi avoir une peine complémentaire de travail d'intérêt général."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la sécurité intérieure : articles L272-1 à L272-4",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000025503132/LEGISCTA000025505486/#LEGISCTA000025508134"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "que-faire-en-cas-d-attroupement-dans-son-immeuble-par-exemple-hall-cage-d-escalier",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "troubles-de-voisinage",
+      "titre": "Troubles de voisinage"
+    }
+  ]
+}

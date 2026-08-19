@@ -1,0 +1,164 @@
+{
+  "id": "F16987",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Saisie immobilière",
+  "theme": "Justice",
+  "description": "Le créancier peut charger un commissaire de justice de saisir un bien immobilier. Si la dette n'est pas remboursée dans les 8 jours, le bien peut être vendu.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-04-25",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F16987",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Saisies et recouvrements",
+    "Saisie immobilière"
+  ],
+  "introduction": "Vous avez une dette et vous ne parvenez pas à la rembourser ? Votre créancier est un organisme financier (par exemple, une banque) ou le syndic d'un immeuble en copropriété ? Votre créancier peut charger un commissaire de justice de saisir un bien immobilier vous appartenant (maison, appartement...). Si vous ne payez pas votre dette dans le délai prévu, le juge peut décider la vente de ce bien pour rembourser votre créancier. Nous vous expliquons.",
+  "chapitres": [
+    {
+      "titre": "Dans quel cas peut-il y avoir saisie d'un bien immobilier ?",
+      "contenu": [
+        "Lorsque votre créancier a le titre exécutoire d'une créance liquide et exigible, il peut charger un commissaire de justice de saisir votre bien immobilier.",
+        "Tout bien immobilier dont vous êtes propriétaire peut être saisi (maison, appartement...). Ce bien peut être habité ou non. Sa valeur doit être proche du montant de la somme que vous devez.",
+        "[À savoir] Généralement, la saisie immobilière a lieu si vous avez déjà reçu plusieurs demandes de paiement et que vous ne payez toujours pas les mensualités d'un crédit immobilier ou les charges de copropriété."
+      ]
+    },
+    {
+      "titre": "Comment est-on averti que son bien immobilier est saisi ?",
+      "contenu": [
+        "Le commissaire de justice vous signifie un commandement de payer, en personne ou à votre domicile.",
+        "Ce commandement de payer vaut saisie du bien immobilier.",
+        "En conséquence :",
+        "• Vous avez 8 jours pour payer la somme que vous devez. Ce délai est d'un mois si vous avez hypothéqué votre bien immobilier pour garantir la dette d'une autre personne.",
+        "• Vous avez interdiction de vendre ou de donner le bien saisi. S'il est mis en location, vous avez interdiction d'utiliser le montant des loyers.",
+        "• Si quelqu'un habite le bien saisi et que le commandement de payer ordonne son expulsion, alors la personne doit quitter le bien saisi.",
+        "[À savoir] Dès la remise du commandement de payer, si vous êtes surendetté, vous pouvez demander à la commission de surendettement la suspension de la saisie immobilière (c'est-à-dire son arrêt temporaire).",
+        "La suite de la procédure de saisie dépend votre situation :",
+        "Vous payez dans le délai indiqué",
+        "Si vous payez la somme qui vous est réclamée dans le délai indiqué dans le commandement de payer, la saisie immobilière s'arrête définitivement.",
+        "Vous ne payez pas dans le délai indiqué",
+        "Si vous ne payez pas la somme réclamée dans le délai indiqué dans le commandement de payer, le commissaire de justice réalise les actes préparatoires à la vente du bien saisi. Il s'agit des actes suivants :",
+        "• Il se rend sur place pour établir un procès-verbal (PV) de description du bien saisi. Il peut entrer à l'intérieur du bien saisi, que vous soyez présent ou non, et avec votre accord ou non. Si un locataire habite ce bien, le commissaire de justice ne peut y entrer qu'avec son accord ou sur autorisation préalable du juge de l'exécution.",
+        "• Il doit faire publier le commandement de payer au service de publicité foncière, au plus tard 2 mois après vous l'avoir signifié. Il a alors 2 mois pour vous remettre une assignation à comparaître à une audience d'orientation. C'est au cours de l'audience d'orientation que le juge de l'exécution décide si le bien saisi doit ou non être mis en vente. L'assignation doit vous parvenir dans un délai de 1 à 3 mois avant l'audience d'orientation.",
+        "[À savoir] Sans attendre l'audience d'orientation, vous pouvez demander la vente amiable de votre bien au juge, à la condition d'en informer le créancier. Une vente amiable peut permettre de vendre le bien saisi à un meilleur prix que lors d'une vente forcée (ou vente aux enchères).",
+        "[Complement] Pour être valable, le commandement de payer doit notamment indiquer les informations suivantes : • Avocat du créancier • Date et titre exécutoire (jugement ou acte d'un notaire) • Bien immobilier saisi • Juge de l'exécution à qui vous adresser, notamment pour contester la saisie • Décompte des sommes qui vous sont réclamées (montant de votre dette, des frais et des intérêts dus et taux des intérêts moratoires) • Obligation de payer ces sommes dans un certain délai, sinon vous serez convoqué devant le juge de l'exécution. Le juge décidera alors de la vente du bien immobilier. • Obligation d'indiquer au commissaire de justice l'identité et les coordonnées du locataire, si le bien saisi est mis en location • Possibilité de demander l'aide juridictionnelle si vous en remplissez les conditions d'attribution • Possibilité de déposer un dossier de surendettement auprès de la commission de surendettement des particuliers, si vous estimez être surendetté • Possibilité de continuer à rechercher un acheteur pour le bien immobilier ou à donner mandat pour cette recherche. Mais cette vente ne pourra désormais se faire qu'avec l'autorisation du juge de l'exécution."
+      ]
+    },
+    {
+      "titre": "Comment se déroule l'audience d'orientation d'une saisie immobilière ?",
+      "contenu": [
+        "[Rappel] Après la publication du commandement au service de publicité foncière, le commissaire de justice a 2 mois pour vous assigner à comparaître à une audience d'orientation. L'assignation à comparaître doit vous parvenir dans un délai de 1 à 3 mois avant l'audience d'orientation.",
+        "Durant l'audience d'orientation, votre avocat peut contester la saisie.",
+        "Selon le motif de la contestation, vous pouvez obtenir :",
+        "• Soit l'arrêt définitif de la procédure de saisie (par exemple : c'est le cas lorsque le bien saisi ne vous appartient pas)",
+        "• Soit son arrêt temporaire (par exemple, lorsque le commandement de payer n'est pas valable, car le commissaire de justice n'a pas respecté les délais de la procédure).",
+        "Durant l'audience d'orientation, vous-même ou votre avocat, pouvez également demander au juge qu'il décide la vente amiable du bien, plutôt que sa vente forcée. En effet, Une vente amiable peut permettre de vendre le bien saisi à un meilleur prix que lors d'une vente forcée (ou vente aux enchères).",
+        "[À savoir] Pour payer votre avocat, vous pouvez obtenir l'aide juridictionnelle dans certains cas. Mais si vous souhaitez obtenir uniquement les conseils d'un avocat, vous pouvez en consulter un gratuitement.",
+        "C'est donc au cours de l'audience d'orientation que le juge de l'exécution :",
+        "• Statue sur les éventuelles contestations de la procédure de saisie,",
+        "• En fixe le montant retenu de votre dette (obtenu à partir du montant dû, du taux d'intérêt à appliquer, des frais de poursuite ou « accessoires »...),",
+        "• Et décide si le bien saisi doit ou non être mis en vente (et comment il doit l'être).",
+        "L'audience a lieu au tribunal judiciaire dont dépend le bien saisi. Elle se déroule en votre présence (et éventuellement celle de votre avocat), et en présence du créancier et de son avocat.",
+        "À la fin de l'audience, le juge rend un jugement d'orientation. Il peut décider :",
+        "• Soit d'autoriser la vente amiable du bien saisi",
+        "• Soit d'ordonner la vente forcée du bien saisi",
+        "• Soit de mettre fin, définitivement ou temporairement, à la procédure de saisie.",
+        "Il est possible de faire appel du jugement d'orientation, dans les 15 jours qui suivent sa signification.",
+        "[À noter] Si vous avez déposé un dossier de surendettement et que le juge ordonne la vente forcée du bien saisi, vous pouvez demander à la commission de surendettement d'intervenir auprès de juge pour obtenir le report de la vente."
+      ]
+    },
+    {
+      "titre": "Qu'est-ce qu'une vente amiable lors d'une saisie immobilière ?",
+      "contenu": [
+        "Comment obtenir une vente amiable plutôt qu'une vente forcée ?",
+        "La vente amiable n'est possible que si le juge l'autorise.",
+        "Vous pouvez demander la vente amiable au juge :",
+        "• Sans attendre l'audience d'orientation, mais à la condition d'en prévenir le créancier",
+        "• Ou lors de l'audience d'orientation.",
+        "Comment se déroule la vente amiable ?",
+        "Lorsqu'il décide d'une vente amiable, le juge fixe :",
+        "• Le prix minimum auquel le bien peut être vendu,",
+        "• La date précise de l'audience de rappel, qui doit se tenir au maximum 4 mois plus tard.",
+        "Durant ce délai :",
+        "• Vous devez faire les démarches pour vendre votre bien.",
+        "• Si vous ne les faites pas, le créancier peut demander l'arrêt de la procédure de vente amiable et enclencher la procédure de vente forcée du bien.",
+        "Lors de l'audience de rappel :",
+        "• Si vous justifiez d'un compromis de vente, le juge vous accorde un délai de 3 mois supplémentaires pour signer l'acte authentique de vente.",
+        "• Si le juge constate que les conditions fixées pour la vente amiable sont remplies, la vente du bien est définitive.",
+        "• En l'absence d'acheteur ou si les conditions fixées pour la vente par le juge ne sont pas remplies, le juge ordonne la vente forcée du bien.",
+        "Qu'est-il fait de la somme versée par l'acheteur ?",
+        "À l'issue de la vente amiable, la somme versée par l'acheteur est reversée à votre créancier :",
+        "• Si cette somme est supérieure au montant retenu de votre dette, le reste de la somme vous est reversé.",
+        "• Si cette somme est inférieure au montant retenu de votre dette, vous devrez payer le montant restant."
+      ]
+    },
+    {
+      "titre": "Qu'est-ce qu'une vente forcée (ou aux enchères) lors d'une saisie immobilière ?",
+      "contenu": [
+        "Qui décide de l'organisation de la vente forcée ?",
+        "La décision de la vente forcée est prise par le juge.",
+        "Le juge fixe la date de l'audience d'adjudication (vente forcée) du bien saisi, dans un délai qui doit être compris entre 2 et 4 mois à compter de la date de sa décision.",
+        "[À savoir] La vente forcée ne peut être reportée qu'en cas de force majeure, ou sur demande de la commission de surendettement.",
+        "Le juge détermine les règles de visite du bien, à la demande du créancier.",
+        "Dans l'attente de l'audience d'adjudication :",
+        "• L'annonce de la vente forcée doit être diffusée (publication dans des journaux d'annonces légales, affichage d'un avis devant le bien saisi...). Il s'agit d'informer le plus grand nombre d'acheteurs potentiels. Cette démarche est faite par le créancier, à vos frais.",
+        "• Le créancier fixe le montant auquel le bien sera mis à prix. Mais vous pouvez saisir le juge, si vous estimez que la mise à prix est insuffisante. Lors de la vente forcée, si aucune enchère n'est faite, le créancier sera déclaré adjudicataire du bien au montant qu'il avait fixé initialement.",
+        "[À savoir] Vous pouvez convenir avec le créancier que le bien pourra être vendu de gré à gré. Cette vente peut être réalisée jusqu'à l'ouverture des enchères.",
+        "Comment se déroule la vente forcée ?",
+        "L'audience d'adjudication se déroule au tribunal judiciaire, devant le juge de l'exécution. Chaque potentiel acheteur fait enchère par l'intermédiaire de son avocat. La dernière enchère détermine l'acheteur du bien (ou adjudicataire). Si aucune surenchère n'est faite, le créancier est déclaré adjudicataire, pour la mise à prix qu'il avait initialement fixée.",
+        "À la fin de l'audience d'adjudication, le juge de l'exécution rend un jugement d'adjudication. Ce jugement indique notamment la date et le lieu de la vente forcée, l'identité de l'adjudicataire, et le prix de la vente.",
+        "[À savoir] Les frais de la vente sont à la charge de l'adjudicataire.",
+        "Le jugement d'adjudication constitue un titre d'expulsion à votre encontre. Si le bien saisi est habité par une autre personne, l'adjudicataire du bien peut le faire expulser, à moins que les conditions de la vente prévoit son maintien dans les lieux.",
+        "Dans les 10 jours, toute personne peut faire une surenchère, par acte d'avocat et déposée au greffe du juge de l'exécution. Cette surenchère doit être d'au moins 10 % du prix principal de la vente.",
+        "Le juge de l'exécution fixe la date de l'audience de surenchère dans un délai de 2 à 4 mois après cette déclaration de surenchère. Lors de cette l'audience, les enchères reprennent au niveau du montant de la surenchère. Si aucune personne ne fait d'enchère plus élevée, le surenchérisseur est déclaré adjudicataire.",
+        "Que se passe t-il après la vente forcée ?",
+        "La somme versée par l'adjudicataire est reversée à votre créancier :",
+        "• Si cette somme est supérieure au montant retenu de votre dette, le reste de la somme vous est reversé.",
+        "• Si cette somme est inférieure au montant retenu de votre dette, vous devrez payer le montant restant.",
+        "[Rappel] Si le créancier a été déclaré adjudicataire, il est considéré comme remboursé à hauteur de la mise à prix qu'il avait initialement fixée."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code des procédures civiles d'exécution : articles L311-1 à L311-8",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000025024948/LEGISCTA000025025924/"
+    },
+    {
+      "titre": "Code des procédures civiles d'exécution : articles R311-1 à R311-11",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000025024948/LEGISCTA000025938937/"
+    },
+    {
+      "titre": "Code des procédures civiles d'exécution : articles L321-1 à L321-6",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000025024948/LEGISCTA000025025944/"
+    },
+    {
+      "titre": "Code des procédures civiles d'exécution : articles R321-1 à R321-22",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000025024948/LEGISCTA000025938968/"
+    },
+    {
+      "titre": "Code des procédures civiles d'exécution : articles L322-1 à L322-14",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000025024948/LEGISCTA000025025959/"
+    },
+    {
+      "titre": "Code des procédures civiles d'exécution : articles R322-1 à R322-72",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000025024948/LEGISCTA000025939038/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "saisie-immobiliere",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "saisies-et-recouvrements",
+      "titre": "Saisies et recouvrements"
+    }
+  ]
+}

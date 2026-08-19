@@ -1,0 +1,74 @@
+{
+  "id": "F2991",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Acheter un véhicule en Europe : quelles formalités douanières ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "En achetant un véhicule dans l'UE, vous n'avez pas de droits de douane à payer, mais il faudra payer la TVA française si le véhicule est neuf.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2024-07-03",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2991",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Douane",
+    "Acheter un véhicule en Europe : quelles formalités douanières ?"
+  ],
+  "introduction": "S'il achète un véhicule dans l'Union européenne (UE), un particulier n'a pas de droits de douane à payer. Mais selon que le véhicule acheté est neuf ou d'occasion, le particulier doit payer la TVA en France au service des impôts de votre domicile ou dans le pays d'achat. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "[Attention] Cette fiche ne traite pas des formalités douanières des véhicules achetés en Europe, puis exportés dans les Drom."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général des impôts : articles 298 sexies à 298 sexies A",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000006162568/"
+    },
+    {
+      "titre": "Code général des impôts : articles 275 à 277 A",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006179653"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-TVA-SECT-70-30-10 relatif à la TVA des opérations communautaires",
+      "url": "http://bofip.impots.gouv.fr/bofip/692-PGP"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Déclaration d'échanges de biens (DEB)",
+      "url": "https://www.douane.gouv.fr/service-en-ligne/declaration-dechanges-de-biens-deb",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Service en charge des impôts (trésorerie, service des impôts...)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Pays de l'Union européenne",
+      "url": "https://european-union.europa.eu/principles-countries-history/eu-countries_fr"
+    },
+    {
+      "titre": "Achat et leasing d'une voiture dans un autre pays européen : prix et TVA",
+      "url": "http://europa.eu/youreurope/citizens/vehicles/cars/buying-a-car-abroad/index_fr.htm"
+    },
+    {
+      "titre": "Foire aux questions - TVA lors de l'achat ou de la vente d'une voiture",
+      "url": "https://europa.eu/youreurope/citizens/vehicles/cars/vat-buying-selling-cars/faq/index_fr.htm"
+    }
+  ],
+  "slug": "acheter-un-vehicule-en-europe-quelles-formalites-douanieres",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "douane",
+      "titre": "Douane"
+    }
+  ]
+}

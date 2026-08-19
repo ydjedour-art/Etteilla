@@ -1,0 +1,58 @@
+{
+  "id": "F18704",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Que faire si on retrouve sa carte d'identité ou son passeport après la déclaration de perte ou de vol ?",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Si vous avez fait une déclaration de perte ou de vol d'une carte d'identité ou d'un passeport, le titre est invalidé de manière informatique.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-04-09",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F18704",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Carte d'identité",
+    "Que faire si on retrouve sa carte d'identité ou son passeport après la déclaration de perte ou de vol ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Si vous avez fait une déclaration de perte ou de vol d'une carte d'identité ou d'un passeport, le titre est invalidé de manière informatique.",
+        "Votre carte d'identité ou votre passeport ne peut donc plus être utilisé, car son invalidation est irréversible.",
+        "Les informations concernant la perte ou le vol du titre d'identité sont transmises au niveau international (Interpol et système d'information Schengen). Vous ne pourrez donc pas l'utiliser pour voyager.",
+        "Vous devez demander une nouvelle carte d'identité ou un nouveau passeport.",
+        "Que faire du titre que vous retrouvez après la déclaration de perte ou de vol ?",
+        "Cas général",
+        "La carte d'identité ou le passeport retrouvé doit être envoyé par courrier ou déposé sur place à la préfecture de votre choix.",
+        "Préfecture",
+        "À Paris",
+        "Vous pouvez envoyer ou déposer votre carte d'identité ou passeport à la Préfecture de police de Paris.",
+        "Vous pouvez aussi envoyer ou déposer votre titre dans n'importe quel service de la mairie de Paris ou dans une préfecture.",
+        "Préfecture de police de Paris",
+        "Mairie",
+        "Préfecture"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Décret n°2016-1460 du 28 octobre 2016 autorisant la création d'un traitement de données à caractère personnel relatif aux passeports et aux cartes d'identité : article 6",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000033326468/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "que-faire-si-on-retrouve-sa-carte-d-identite-ou-son-passeport-apres-la-declaration-de-perte-ou-de-vol",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "carte-d-identite",
+      "titre": "Carte d'identité"
+    }
+  ]
+}

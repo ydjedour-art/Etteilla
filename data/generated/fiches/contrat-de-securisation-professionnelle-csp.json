@@ -1,0 +1,80 @@
+{
+  "id": "F13819",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Contrat de sécurisation professionnelle (CSP)",
+  "theme": "Travail - Formation, Ressources humaines",
+  "description": "Le CSP permet au salarié licencié économique sous certaines conditions de bénéficier de mesures particulières proposées par France Travail.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-08-06",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F13819",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Licenciement économique",
+    "Contrat de sécurisation professionnelle (CSP)"
+  ],
+  "introduction": "Le CSP permet au salarié dont le licenciement économique est envisagé, de bénéficier, après la rupture du contrat de travail, d'un ensemble de mesures donnant lieu à un reclassement accéléré proposé par France Travail (anciennement Pôle emploi). Pendant le CSP, le salarié perçoit une indemnisation par France Travail. La réglementation est différente en fonction de l'ancienneté du salarié : 1 an ou plus ou moins d’1 an. Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code du travail : articles L1233-65 à L1233-70",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000006195618"
+    },
+    {
+      "titre": "Arrêté du 6 octobre 2011 relatif à l'agrément de la convention du 19 juillet 2011 relative au contrat de sécurisation professionnelle",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000024691298/"
+    },
+    {
+      "titre": "Arrêté du 16 avril 2015 relatif à l'agrément de la convention du 26 janvier 2015 relative au contrat de sécurisation professionnelle (CSP)",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000030513552"
+    },
+    {
+      "titre": "Arrêté du 24 décembre 2025 portant agrément de l'avenant n° 11 du 25 novembre 2025 à la convention du 26 janvier 2015 relative au contrat de sécurisation professionnelle",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053176659"
+    },
+    {
+      "titre": "Circulaire Unedic n°2011-36 du 9 décembre 2011",
+      "url": "https://www.unedic.org/ged/documents/circulars/pdf/ci201136.pdf"
+    },
+    {
+      "titre": "Circulaire Unedic n°2022-04 du 28 février 2022",
+      "url": "https://www.unedic.org/sites/default/files/2022-03/PRE-CIRC-Circulaire_n_2022-04_du_28_fevrier_2022.pdf"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "France Travail : services en ligne pour les employeurs (attestations employeur, etc.)",
+      "url": "https://gestion.pole-emploi.fr/espaceemployeur/espaceemployeur/authentification/authentification",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "France Travail",
+    "France Travail (anciennement Pôle emploi) pour les employeurs - 3995"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Proposition du CSP",
+      "url": "https://www.francetravail.fr/employeur/vos-declarations-et-cotisations/la-fin-de-vos-contrats-de-travai/le-contrat-de-securisation-profe.html"
+    },
+    {
+      "titre": "Questions/Réponses sur le CSP",
+      "url": "https://www.francetravail.fr/candidat/mes-droits-aux-aides-et-allocati/allocations-et-aides--les-repons/contrat-de-securisation-professi.html"
+    },
+    {
+      "titre": "Qu'est-ce que le CSP ?",
+      "url": "https://www.francetravail.fr/files/live/sites/PE/files/fichiers-en-telechargement/fichiers-en-telechargement---dem/CSP_pour_licencies_economiques"
+    }
+  ],
+  "slug": "contrat-de-securisation-professionnelle-csp",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "licenciement-economique",
+      "titre": "Licenciement économique"
+    }
+  ]
+}

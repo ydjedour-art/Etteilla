@@ -1,0 +1,63 @@
+{
+  "id": "F35001",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Congé de proche aidant dans la fonction publique",
+  "theme": "Travail - Formation",
+  "description": "Le congé de proche aidant permet de cesser temporairement son activité ou de travailler à temps partiel pour s'occuper d'un proche handicapé ou âgé.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-01-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35001",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Congés dans la fonction publique",
+    "Congé de proche aidant dans la fonction publique"
+  ],
+  "introduction": "L'un de vos proches est handicapé ou en perte d'autonomie ? Vous pouvez, dans certains cas, cesser temporairement votre activité ou travailler à temps partiel, dans le cadre d'un congé de proche aidant, pour vous occuper de lui. Nous vous détaillons les informations à connaître selon votre fonction publique d'appartenance (État - FPE, territoriale - FPT, hospitalière - FPH).",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code général de la fonction publique : articles L634-1 à L634-4",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044423675/"
+    },
+    {
+      "titre": "Décret n°86-83 du 17 janvier 1986 relatif aux agents contractuels de la FPE",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000699956/"
+    },
+    {
+      "titre": "Décret n°88-145 du 15 février 1988 relatif aux agents non titulaires de la FPT",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000871608"
+    },
+    {
+      "titre": "Décret n°91-155 du 6 février 1991 relatif aux agents contractuels de la FPH",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000343794"
+    },
+    {
+      "titre": "Décret n°2020-1557 du 8 décembre 2020 relatif au congé de proche aidant dans la fonction publique",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGIARTI000042645864"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles D168-10 à D168-18",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000042388685"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Boîte à outils Parentalité au travail",
+      "url": "https://kiosque.bercy.gouv.fr/alyas/userfiles/files/Boite-a-outil-parentalite.pdf"
+    }
+  ],
+  "slug": "conge-de-proche-aidant-dans-la-fonction-publique",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "conges-dans-la-fonction-publique",
+      "titre": "Congés dans la fonction publique"
+    }
+  ]
+}

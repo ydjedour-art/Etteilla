@@ -1,0 +1,91 @@
+{
+  "id": "F1248",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Témoins d'un mariage : quelles sont les règles ?",
+  "theme": "Famille - Scolarité",
+  "description": "Les témoins d'un mariage sont choisis ensemble par les futurs époux. Le nombre de témoins est au minimum de 1 et au maximum de 2 pour chaque époux.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-04-24",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1248",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Mariage",
+    "Témoins d'un mariage : quelles sont les règles ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "Combien de témoins faut-il pour se marier ?",
+      "contenu": [
+        "En tant que futurs époux, vous choisissez ensemble les témoins de votre mariage.",
+        "Vous devez choisir 2 témoins minimum et 4 maximum.",
+        "Vos témoins sont les témoins de votre mariage, pas de l'un de vous 2.",
+        "Ils sont chargés de certifier vos identités, l’exactitude de vos déclarations et la conformité de l’acte de mariage à ces déclarations."
+      ]
+    },
+    {
+      "titre": "Qui peut être témoin d'un mariage ?",
+      "contenu": [
+        "Vos témoins doivent être âgés d'au moins 18 ans (ou être émancipés).",
+        "Aucune autre condition n'est exigée.",
+        "Il peut s'agir de membres de votre famille ou non.",
+        "Il n'est fait aucune distinction entre les sexes.",
+        "Vos témoins peuvent être de nationalité étrangère.",
+        "[À noter] Si un témoin ne comprend pas le français, il peut être assisté d'un interprète de son choix."
+      ]
+    },
+    {
+      "titre": "Quand faut-il déclarer ses témoins de mariage ?",
+      "contenu": [
+        "Vous déclarez vos témoins lors des formalités préalables au mariage.",
+        "Pour chacun d'eux, vous devez indiquer les informations suivantes :",
+        "• Nom",
+        "• Prénoms",
+        "• Date et lieu de naissance",
+        "• Profession",
+        "• Domicile.",
+        "Vous devez aussi fournir une copie de la pièce d’identité de chaque témoin.",
+        "[À savoir] Vous pouvez modifier le choix de vos témoins jusqu'à la célébration officielle.",
+        "Pour la cérémonie, les témoins doivent se présenter avec leur pièce d’identité.",
+        "Si l'un de vos témoins vous fait faux bond ou que vous n'en avez pas, l'officier d'état civil peut en trouver (par exemple, un agent de la mairie).",
+        "Attention, ce n'est une obligation ni pour l'officier d'état civil, ni pour l'agent de la mairie. Ils peuvent donc refuser.",
+        "[À savoir] Votre acte de mariage mentionne vos témoins (prénom, nom, profession, domicile, majorité). Leur présence est nécessaire durant toute la cérémonie, jusqu’à leur signature sur le registre."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : articles 34 à 54",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006136100"
+    },
+    {
+      "titre": "Code civil : articles 63 à 76",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006136104"
+    },
+    {
+      "titre": "Instruction générale relative à l'état civil (Igrec) du 11 mai 1999 - Annexe",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000647915"
+    },
+    {
+      "titre": "Réponse ministérielle n° 97545 relative aux témoins d'un mariage",
+      "url": "https://questions.assemblee-nationale.fr/q13/13-97545QE.htm"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Mairie"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "temoins-d-un-mariage-quelles-sont-les-regles",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "mariage",
+      "titre": "Mariage"
+    }
+  ]
+}

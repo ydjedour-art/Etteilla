@@ -1,0 +1,66 @@
+{
+  "id": "F15837",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Peut-on forcer un propriétaire à insonoriser son logement ?",
+  "theme": "Logement",
+  "description": "Un propriétaire peut être contraint d'insonoriser son logement en cas de trouble anormal du voisinage.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-06-12",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F15837",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Troubles de voisinage",
+    "Peut-on forcer un propriétaire à insonoriser son logement ?"
+  ],
+  "introduction": "Oui, il est possible d'obliger un propriétaire à insonoriser son logement sous certaines conditions.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "En copropriété, un propriétaire peut être contraint d’insonoriser son logement dès lors qu’un trouble anormal du voisinage est établi.",
+        "Ce trouble peut notamment provenir d'une des situations suivantes :",
+        "• De la non-conformité de l'isolation acoustique/phonique de l'appartement aux normes applicables",
+        "• De nuisances sonores (bruits) qui dépassent la tolérance normale de la vie en collectivité",
+        "• De l'usure du revêtement du sol",
+        "• D'un changement du revêtement des sols qui entraine une détérioration importante de l'isolation acoustique. Par exemple, les juges ont pu décidé qu'un remplacement de moquette par du carrelage nuisait aux droits des autres copropriétaires en raison de la forte augmentation des bruits d'impact. Attention : si c'est le locataire qui a décidé de changer le revêtement de sol, c'est lui (et non le propriétaire) qui engage sa responsabilité et doit remettre le logement dans son état initial.",
+        "[À noter] Un locataire qui subit des nuisances du fait d'un voisinage trop bruyant ne peut pas demander à son propriétaire de faire insonoriser le logement qu'il loue. L'insonorisation ne figure pas parmi les critères de décence que le propriétaire doit respecter lorsqu'il loue un logement."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Arrêté du 30 juin 1999 relatif aux modalités d'application de la réglementation acoustique",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000760934/"
+    },
+    {
+      "titre": "Code civil : article 1253",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006437138"
+    },
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 6",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000037670751/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Confort et qualité d'usage dans les bâtiments",
+      "url": "https://www.ecologique-solidaire.gouv.fr/confort-et-qualite-dusage-dans-batiments"
+    }
+  ],
+  "slug": "peut-on-forcer-un-proprietaire-a-insonoriser-son-logement",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "troubles-de-voisinage",
+      "titre": "Troubles de voisinage"
+    }
+  ]
+}

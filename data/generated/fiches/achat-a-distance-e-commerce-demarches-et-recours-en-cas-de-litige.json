@@ -1,0 +1,124 @@
+{
+  "id": "F10868",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Achat à distance, e-commerce : démarches et recours en cas de litige",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "En cas de litige lié à un achat en ligne, contactez le vendeur pour une solution amiable. En cas d’échec, rapprochez-vous du médiateur de la consommation.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-08-26",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F10868",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Achat à distance",
+    "Achat à distance, e-commerce : démarches et recours en cas de litige"
+  ],
+  "introduction": "Vous avez fait un achat à distance (par internet, par téléphone...), vous rencontrez un problème (par exemple, le bien commandé ne vous a jamais été livré, il est arrivé abîmé, vous attendez un remboursement) et vous voulez savoir quelles démarches effectuer ? Nous vous guidons étape par étape.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les règles diffèrent selon que le vendeur soit situé en France, dans l'Union européenne (UE) ou à l'étranger.",
+        "Tous les contrats de vente de biens ou de fourniture de services (y compris de contenus numériques ou de services numériques) sont concernés par les informations qui suivent. En revanche, la vente à distance de services financiers n'est pas traitée dans cette fiche."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la consommation : article L231-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032226443/"
+    },
+    {
+      "titre": "Code de la consommation : articles L232-1 à L232-6",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032226439/"
+    },
+    {
+      "titre": "Code de la consommation : article L121-16",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032227254/"
+    },
+    {
+      "titre": "Code de la consommation : articles L441-1 à L441-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069565/LEGISCTA000032222835/"
+    },
+    {
+      "titre": "Code de la consommation : articles L211-1 à L211-4",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032227017/"
+    },
+    {
+      "titre": "Code de la consommation : articles L612-1 à L612-5",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032224807/"
+    },
+    {
+      "titre": "Code de la consommation : articles R612-1 à R612-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069565/LEGISCTA000032808326/#LEGISCTA000032808326"
+    },
+    {
+      "titre": "Code de la consommation : articles L616-1 à L616-3",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032224764/"
+    },
+    {
+      "titre": "Code de la consommation : articles R616-1 à R616-2",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069565/LEGISCTA000032808376/#LEGISCTA000032808376"
+    },
+    {
+      "titre": "Code de la consommation : article R631-3",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032808504/"
+    },
+    {
+      "titre": "Règlement européen n°524-2013 du 21 mai 2013 relatif au règlement en ligne des litiges de consommation",
+      "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32013R0524&from=FR"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Trouver un médiateur de la consommation",
+      "url": "https://www.economie.gouv.fr/mediation-conso/vous-etes-un-consommateur/quel-mediateur-saisir/mediateurs-references",
+      "type": "Outil de recherche"
+    }
+  ],
+  "contacts": [
+    "0809 540 550 DGCCRF - RéponseConso",
+    "Centre européen des consommateurs France"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Liste et coordonnées des associations nationales",
+      "url": "https://www.economie.gouv.fr/dgccrf/Liste-et-coordonnees-des-associations-nationales"
+    },
+    {
+      "titre": "Guide des achats en ligne",
+      "url": "https://www.inc-conso.fr/sites/default/files/2019_guide_achats-en-ligne.pdf"
+    },
+    {
+      "titre": "Acheter sur internet en 10 questions-réponses",
+      "url": "https://www.inc-conso.fr/content/acheter-sur-internet-en-10-questions-reponses"
+    },
+    {
+      "titre": "Conseils pratiques pour acheter en ligne sur des sites européens",
+      "url": "http://www.europe-consommateurs.eu/fr/quels-sont-vos-droits/achats-sur-internet/"
+    },
+    {
+      "titre": "Saisir la justice en Europe : 2 procédures simplifiées pour les litiges transfrontaliers",
+      "url": "https://www.europe-consommateurs.eu/une-question-une-reclamation/saisir-la-justice-en-europe.html"
+    },
+    {
+      "titre": "La plateforme de règlement en ligne des litiges",
+      "url": "https://www.inc-conso.fr/content/la-plateforme-de-reglement-en-ligne-des-litiges"
+    },
+    {
+      "titre": "Procédure de « chargeback » pour demander un remboursement",
+      "url": "https://www.europe-consommateurs.eu/paiements-vie-quotidienne/procedure-de-chargeback.html"
+    }
+  ],
+  "slug": "achat-a-distance-e-commerce-demarches-et-recours-en-cas-de-litige",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "achat-a-distance",
+      "titre": "Achat à distance"
+    }
+  ]
+}

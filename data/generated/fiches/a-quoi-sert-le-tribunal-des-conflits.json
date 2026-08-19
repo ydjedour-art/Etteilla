@@ -1,0 +1,72 @@
+{
+  "id": "F1773",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "À quoi sert le Tribunal des conflits ?",
+  "theme": "Justice",
+  "description": "Le Tribunal des conflits est chargé de résoudre les conflits de compétence entre les juridictions administratives et judiciaires",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-09-05",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1773",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Juridictions",
+    "À quoi sert le Tribunal des conflits ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Le rôle principal du Tribunal des conflits est de déterminer si une affaire doit être jugée par les juridictions administratives ou par les juridictions judiciaires.",
+        "Toutefois, si la juridiction judiciaire et la juridiction administrative rendent des décisions contradictoires pour un même litige, le Tribunal des conflits peut rejuger l'affaire lui-même. Il peut également ordonner l'indemnisation d'une personne qui aurait subi un préjudice en raison de la longueur des procédures.",
+        "Vous pouvez saisir le Tribunal des conflits si vous vous trouvez dans l'une des situations suivantes :",
+        "• Une juridiction administrative et une juridiction judiciaire se déclarent toutes les 2 incompétentes et refusent de juger votre affaire. On parle alors de conflit négatif. Par exemple, un tribunal judiciaire se déclare incompétent et, par la suite, un tribunal administratif saisi de la même affaire, s'estime lui-même incompétent.",
+        "• Une juridiction administrative et une juridiction judiciaire ont chacune rendu une décision sur la même affaire et les 2 décisions sont contradictoires. Il s'agit d'un conflit de décisions. Par exemple, un désaccord entre un tribunal administratif et un tribunal judiciaire sur votre indemnisation.",
+        "• Vous avez saisi une juridiction judiciaire et une juridiction administrative pour un même litige (entre les mêmes personnes). Or, vous estimez que les délais de procédure devant ces juridictions sont excessifs. Vous pouvez alors demander une indemnisation au Tribunal des conflits.Toutefois, vous devez d'abord faire une réclamation par écrit au ministre de la justice. Si vous n'obtenez pas de réponse dans un délai de 2 mois ou en cas de rejet de votre réclamation par le ministère de la justice, vous pouvez saisir le Tribunal des conflits.",
+        "Pour saisir le Tribunal des conflits, vous devez lui transmettre une requête en expliquant les motifs de votre demande.",
+        "[À savoir] Si vous faites face à un conflit négatif ou à un conflit de décisions, vous avez 2 mois à compter du jour où la décision a été signifiée pour saisir le Tribunal des conflits.",
+        "Tribunal des conflits",
+        "[À noter] En cas de conflit négatif, votre demande doit être accompagnée des décisions de justice qui ont été rendues dans le cadre de votre affaire.",
+        "L'assistance par un avocat au Conseil d'État et à la Cour de cassation est obligatoire.",
+        "Avocat au Conseil d'État ou à la Cour de cassation",
+        "Les décisions du Tribunal des conflits ne peuvent pas faire l'objet d'un appel, ni d'un pourvoi en cassation."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Loi du 24 mai 1872 relative au Tribunal des conflits",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000521091/"
+    },
+    {
+      "titre": "Code de justice administrative : article R771-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000030298865"
+    },
+    {
+      "titre": "Décret n°2015-233 du 27 février 2015 relatif au Tribunal des conflits et aux questions préjudicielles",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000030296346/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Ministère de la justice"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Les derniers arrêts du Tribunal des conflits",
+      "url": "http://www.tribunal-conflits.fr/decisions.html"
+    }
+  ],
+  "slug": "a-quoi-sert-le-tribunal-des-conflits",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "juridictions",
+      "titre": "Juridictions"
+    }
+  ]
+}

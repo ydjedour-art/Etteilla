@@ -1,0 +1,168 @@
+{
+  "id": "F1159",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Couple marié locataire de son logement : quelles sont les règles ?",
+  "theme": "Logement",
+  "description": "Les époux sont titulaires du bail du logement qu'ils habitent, quel que soit leur régime matrimonial, et même si 1 seul a signé le bail avant le mariage.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-04-09",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1159",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Location immobilière : bail d’habitation (contrat de location)",
+    "Couple marié locataire de son logement : quelles sont les règles ?"
+  ],
+  "introduction": "Chaque époux est titulaire du bail et locataire du logement qu'ils habitent ensemble, quel que soit son régime matrimonial, et même si 1 seul des époux a signé le bail avant le mariage. Ils ont tous les 2 les mêmes droits et mêmes obligations concernant ce logement. Nous vous expliquons.",
+  "chapitres": [
+    {
+      "titre": "Qui doit payer le loyer et les charges durant le bail ?",
+      "contenu": [
+        "Les époux doivent solidairement payer le loyer et les charges. Cela signifie que le propriétaire (ou l'agence immobilière) peut demander le paiement à n'importe lequel des époux."
+      ]
+    },
+    {
+      "titre": "Que doivent faire les époux qui veulent tous les 2 quitter le logement ?",
+      "contenu": [
+        "Lorsque les 2 époux veulent quitter le logement au même moment, ils doivent adresser ensemble leur lettre de préavis (congé) au propriétaire (ou à l'agence immobilière)."
+      ]
+    },
+    {
+      "titre": "Que doit faire l'époux qui est seul à vouloir quitter le logement ?",
+      "contenu": [
+        "La démarche à faire est différente, selon qu'il y a ou non violences au sein du couple ou sur au moins un enfant vivant dans le logement :",
+        "En cas de violences",
+        "Lorsque l'un des époux est violent, l'autre époux peut donner son congé au propriétaire (ou à l'agence immobilière) avec un délai de préavis de 1 mois.",
+        "Les violences doivent être commises sur l'époux ou sur au moins un enfant vivant habituellement avec lui.",
+        "L'époux qui quitte le logement doit envoyer son congé par lettre recommandée avec accusé de réception. Il faut y indiquer le motif du départ (violences) et y joindre l'un des documents suivants :",
+        "• Soit une copie de l'ordonnance de protection délivrée par le juge aux affaires familiales. Ce document ordonne l'éviction provisoire du partenaire violent du logement et octroie un droit provisoire sur le logement.",
+        "• Soit une copie de la condamnation pénale, même non définitive, pour des faits de violences. Cette condamnation doit dater de moins de 6 mois.",
+        "• Soit tout document qui prouve que l’époux violent fait l’objet de poursuites (par exemple, un avis à victime), ou d’une procédure alternative aux poursuites.",
+        "En cas d’ordonnance de protection ou de condamnation (même non définitive), si l'époux violent ne paie pas le loyer à partir du lendemain de la présentation de la lettre recommandée au propriétaire (ou à l'agence immobilière)",
+        "• L'époux qui quitte le logement (et sa caution) n'est pas redevable des impayés faits à partir de cette date",
+        "• Le propriétaire (ou l'agence immobilière) a un motif légitime et sérieux pour reprendre ou vendre le logement.",
+        "Autre cas",
+        "L'époux qui veut quitter le logement doit donner son préavis (congé) au propriétaire (ou à l'agence immobilière).",
+        "Le bail se poursuit avec l'autre époux.",
+        "Mais l'époux qui a donné son préavis reste solidairement obligé de payer le loyer et les charges dus jusqu'à la fin du préavis donné par l'autre époux, ou dus jusqu'à ce que le divorce soit noté sur l'acte d'état civil."
+      ]
+    },
+    {
+      "titre": "Que devient le bail en cas de divorce ?",
+      "contenu": [
+        "Divorce par consentement mutuel",
+        "Les 2 époux veulent quitter le logement",
+        "Les époux doivent tous les 2 adresser leur préavis (congé) au propriétaire (ou à l'agence immobilière).",
+        "Pour quitter le logement au même moment, ils doivent :",
+        "• Soit adresser ensemble une seule lettre de préavis (congé) au propriétaire (ou à l'agence immobilière)",
+        "• Soit adresser au même moment la lettre de congé de chacun au propriétaire (ou à l'agence immobilière).",
+        "Un des époux veut quitter le logement",
+        "L'époux qui veut quitter le logement doit donner son préavis (congé) au propriétaire (ou à l'agence immobilière). Il reste solidairement obligé de payer le loyer et les charges dus jusqu'à ce que le divorce soit noté sur l'acte d'état civil.",
+        "Autre type de divorce",
+        "Pendant la procédure de divorce",
+        "• Lorsque les 2 époux veulent mettre fin au bail, ils doivent tous les 2 adresser leur préavis (congé) au propriétaire (ou à l'agence immobilière).",
+        "• Lorsqu'un seul des époux veut quitter le logement, il doit donner son préavis (congé) au propriétaire (ou à l'agence immobilière). Il reste solidairement obligé de payer le loyer et les charges dus jusqu'à ce que le jugement de divorce soit noté sur l'acte d'état civil.",
+        "• Lorsque les 2 époux réclament à habiter le logement sans l'autre, c'est au juge de décider à qui revient le bail. Sa décision est valable jusqu'au prononcé du divorce. Le juge compétent est le juge des contentieux de la protection du tribunal dont dépend le logement. Mais si des enfants vivent dans le logement, c'est le juge aux affaires familiales.",
+        "Après le divorce",
+        "Lorsque les 2 époux réclament à habiter le logement sans l'autre, c'est au juge de décider de l'attribution du bail. Le juge compétent est le juge des contentieux de la protection du tribunal dont dépend le logement. Mais si des enfants vivent dans le logement, c'est le juge aux affaires familiales.",
+        "L'époux à qui le bail n'est pas attribué par le juge n'a pas besoin de donner son préavis (congé) au propriétaire (ou à l'agence immobilière). Mais il reste solidairement obligé de payer le loyer et les charges dus jusqu'à ce que le jugement de divorce soit noté sur l'acte d'état civil."
+      ]
+    },
+    {
+      "titre": "Que devient le bail en cas de décès d'un des époux ?",
+      "contenu": [
+        "L'époux survivant a un droit exclusif sur le bail, sauf s'il y renonce en donnant son préavis (congé).",
+        "Cela signifie que pour qu'un autre proche du défunt obtienne le transfert du bail, il faut d'abord que l'époux survivant renonce au bail.",
+        "[Attention] Si l'époux survivant n'habite pas le logement, il peut demander le transfert de bail, tout comme un ascendant, un descendant ou une personne à charge qui vit dans le logement depuis au moins un an à la date du décès."
+      ]
+    },
+    {
+      "titre": "Que devient le bail en cas d'abandon du logement par l'un des époux ?",
+      "contenu": [
+        "Il y a abandon du domicile dans 2 cas seulement :",
+        "• Soit lorsque le départ d'un des époux est rendu inéluctable et définitif en raison de son état de santé. Ce départ s'impose à lui et à l'autre époux. Par exemple, lorsque l'un des époux s'installe en Ehpad.",
+        "• Soit lorsque le départ d'un des époux est brusque et imprévisible et a été programmé à l'insu de l'autre époux. Par exemple, lorsqu'un des époux part, pendant que l'autre est au travail, et en emportant des affaires personnelles, voire les meubles...",
+        "L'époux restant a un droit exclusif sur le bail, sauf s'il y renonce en donnant son préavis (congé).",
+        "Cela signifie que pour qu'un autre proche de l'poux parti obtienne le transfert du bail, il faut d'abord que l'époux restant renonce au bail.",
+        "[Attention] Si l'époux restant n'habite pas le logement, il peut demander le transfert de bail, tout comme un ascendant, un descendant ou une personne à charge qui vit dans le logement depuis au moins un an à la date de l'abandon."
+      ]
+    },
+    {
+      "titre": "À qui doit s'adresser le propriétaire d'un logement habité par un couple marié ?",
+      "contenu": [
+        "Les échanges de courriers entre le propriétaire (ou l'agence immobilière) et 1 seul des époux ne sont pas opposables à l'autre époux. En pratique, le propriétaire (ou l'agence immobilière) doit adresser le courrier à chacun des époux pour qu'il soit valide.",
+        "Seule exception, lorsque le propriétaire (ou l'agence immobilière) n'a pas connaissance du mariage au moment où il adresse le courrier à l'un des époux. Dans ce cas, le courrier devient automatiquement opposable à l'époux qui n'en a pas été destinataire."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : article 1751",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028806626/"
+    },
+    {
+      "titre": "Code civil : articles 373-2-6 à 373-2-13",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006165500/"
+    },
+    {
+      "titre": "Code de l'organisation judiciaire : articles L213-4-1 à L213-4-8",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071164/LEGISCTA000038274599"
+    },
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 8-2",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000037650864"
+    },
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 9-1",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006475082/"
+    },
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 15",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000047900030"
+    },
+    {
+      "titre": "Code civil : article 220",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028748098"
+    },
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 14",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006475111/"
+    },
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 40",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038834701/"
+    },
+    {
+      "titre": "Code civil : articles 254 à 256",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165746/"
+    },
+    {
+      "titre": "Code civil : article 262",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033460839"
+    },
+    {
+      "titre": "Loi n°48-1360 du 1er septembre 1948 sur les rapports locatifs : article 5",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000029336923/"
+    },
+    {
+      "titre": "Code civil : articles 515-9 à 515-13",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000022455910/#LEGISCTA000022469694"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "couple-marie-locataire-de-son-logement-quelles-sont-les-regles",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "location-immobiliere-bail-d-habitation-contrat-de-location",
+      "titre": "Location immobilière : bail d’habitation (contrat de location)"
+    }
+  ]
+}

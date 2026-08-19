@@ -1,0 +1,58 @@
+{
+  "id": "F38536",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Vous venez d'être reconnu en situation de handicap : aides financières",
+  "theme": "Social - Santé",
+  "description": "Si vous venez d'être reconnu en situation de handicap, des aides financières peuvent vous être accordées sous conditions.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-30",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F38536",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Aides financières",
+    "Vous venez d'être reconnu en situation de handicap : aides financières"
+  ],
+  "introduction": "Si vous venez d'être reconnu en situation de handicap, des aides financières peuvent vous être accordées sous conditions.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "AAH et aides associées",
+        "Vous pouvez bénéficier de l'allocation aux adultes handicapés (AAH) à partir d'un certain taux d'incapacité. L'AAH est une aide financière qui permet d'avoir un minimum de ressources.",
+        "Cette allocation peut être complétée par les dispositifs suivants :",
+        "• Complément de ressources ou majoration pour la vie autonome",
+        "• Prestation de compensation du handicap (PCH) pour prendre en charge les surcoûts de toutes natures liés à votre handicap dans la vie quotidienne.",
+        "Ces dispositifs sont cumulables entre eux.",
+        "Si vous percevez d'autres allocations (par exemple, le revenu de solidarité active), vous bénéficiez d'une AAH réduite.",
+        "Si vous avez souscrit un contrat d'assurance pour vous préparer un complément de revenus, vous pouvez bénéficier d'un avantage fiscal.",
+        "Si vous avez au moins un enfant âgé d'au maximum 7 ans et que vous percevez la PCH, vous pouvez bénéficier d'une aide à la parentalité qui se compose d'une aide humaine et d'une aide matérielle.",
+        "Vous pouvez utiliser un simulateur pour connaître les prestations auxquelles vous pouvez avoir droit :",
+        "Connaître les prestations sociales auxquelles vous pouvez avoir droit",
+        "Aides pour le logement",
+        "Si vous avez un logement, des aides financières peuvent vous être accordées pour faire face aux dépenses de votre logement, notamment :",
+        "• Allocation de logement sociale (ALS)",
+        "• Exonération de la taxe foncière",
+        "• Réduction sociale téléphonique pour réduire le montant de vos factures de téléphone",
+        "• Réduction d'impôt pour adapter votre logement à votre handicap ou l'aide MaPrimeAdapt' en fonction de vos revenus.",
+        "Aide en cas d'activité professionnelle non salariée",
+        "Si vous exercez une activité professionnelle non salariée, que vous avez aménagé votre poste ou environnement de travail et que des frais perdurent après ces aménagements, vous pouvez bénéficier de l'aide liée à la reconnaissance de la lourdeur du handicap (RLH)."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "vous-venez-d-etre-reconnu-en-situation-de-handicap-aides-financieres",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "aides-financieres",
+      "titre": "Aides financières"
+    }
+  ]
+}

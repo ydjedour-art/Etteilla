@@ -1,0 +1,101 @@
+{
+  "id": "F36767",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quelle autorisation d'urbanisme déposer pour faire des travaux de réparation de toiture ?",
+  "theme": "Logement",
+  "description": "Une déclaration préalable de travaux est nécessaire pour faire des travaux de réfection de toiture sauf si les matériaux et la couleur restent identiques.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-02-07",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F36767",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Autorisations d'urbanisme",
+    "Quelle autorisation d'urbanisme déposer pour faire des travaux de réparation de toiture ?"
+  ],
+  "introduction": "Vous devez déposer une déclaration préalable de travaux (DP) pour faire des travaux de rénovation de toiture si vous modifiez l'aspect extérieur du bâtiment. Vous êtes dispensé de déposer une DP s'il s'agit de travaux d'entretien ou de réparations ordinaires à l'identique.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Avec modification de l'aspect extérieur",
+        "Vous devez déposer une DP pour faire des travaux de rénovation de toiture qui modifient l'aspect extérieur du bâtiment. C'est le cas, par exemple, si vous changez vos tuiles ou vos gouttières par un modèle différent ou si vous modifiez la pente de votre toiture.",
+        "Le moyen de constituer et transmettre votre dossier de DP diffère selon que vous êtes à Paris ou dans une autre commune :",
+        "Cas général",
+        "Vous devez remplir et transmettre votre dossier de DP par voie dématérialisée selon les dispositions prises par votre commune ou sur un formulaire papier. Renseignez-vous sur le site de la mairie ou sur place.",
+        "Mairie",
+        "Sur internet",
+        "Vous pouvez remplir et transmettre votre dossier de demande de DP sur internet :",
+        "Assistance pour votre demande d'autorisation d'urbanisme",
+        "Formulaire",
+        "Vous pouvez remplir votre demande de DP au moyen d'un formulaire :",
+        "Déclaration préalable constructions et travaux non soumis à permis de construire",
+        "Notice - Permis de construire, d'aménager, de démolir, déclaration préalable",
+        "Fiche d’aide pour le calcul de la surface de plancher",
+        "Fiche complémentaire/autres demandeurs pour un même projet",
+        "Annexe aux formulaires de demande d'autorisation d'urbanisme : Références cadastrales complémentaires",
+        "À Paris",
+        "Vous devez remplir et transmettre votre dossier au Bureau accueil et service à l'usager (Basu) uniquement par voie dématérialisée :",
+        "Bureau accueil et service à l'usager (Basu) de Paris : guichet électronique unique",
+        "Guichet électronique unique pour toutes vos démarches d'urbanisme à Paris : préparer votre dossier, suivre vos demandes et déclarer vos chantiers.",
+        "Sans modification de l'aspect extérieur",
+        "Vous êtes dispensé de demande d'autorisation d'urbanisme pour faire des travaux d'entretien ou de réparations ordinaires sans modifier l'aspect extérieur du bâtiment. Vous utilisez les mêmes matériaux et couleurs, et ne modifiez pas la pente de votre toiture.",
+        "Par exemple, il peut s'agir du remplacement à l'identique, de toute la toiture sans en changer la pente, de gouttières ou de quelques tuiles. Il peut s'agir aussi d'un nettoyage ou d'un démoussage.",
+        "[Attention] Vous devez respecter les règles d'urbanisme de votre commune même si vous êtes dispensé de demande d'autorisation d'urbanisme. Renseignez-vous auprès de votre mairie. Mairie",
+        "[À savoir] Vous pouvez passer sur le terrain de votre voisin s'il n'existe pas d'autre moyen pour faire des travaux de réparation indispensables. Il s'agit d'une servitude de tour d'échelle qui s'obtient avec l'accord de votre voisin."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'urbanisme : article R*421-17",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034355355"
+    },
+    {
+      "titre": "Code de l'urbanisme : article R*421-14",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031764577"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Assistance pour votre demande d'autorisation d'urbanisme",
+      "url": "https://demarches.service-public.gouv.fr/mademarche/DAUA/demarche",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Bureau accueil et service à l'usager (Basu) de Paris : guichet électronique unique",
+      "url": "https://teleservices.paris.fr/demarchesurbanisme/jsp/site/Portal.jsp?page=accueil",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Déclaration préalable constructions et travaux non soumis à permis de construire",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_16702.do",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Mairie",
+    "Paris : Bureau accueil et service à l'usager (Basu)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Guide : Ravalement, rénovation de toiture, aménagement de pièces : l'obligation d'isolation",
+      "url": "https://librairie.ademe.fr/societe-et-politiques-publiques/6437-ravalement-renovation-de-toiture-amenagement-de-pieces-l-obligation-d-isolation.html"
+    },
+    {
+      "titre": "Travaux sur toiture : prévention des risques",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000018529135/"
+    }
+  ],
+  "slug": "quelle-autorisation-d-urbanisme-deposer-pour-faire-des-travaux-de-reparation-de-toiture",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "autorisations-d-urbanisme",
+      "titre": "Autorisations d'urbanisme"
+    }
+  ]
+}

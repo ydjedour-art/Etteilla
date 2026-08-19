@@ -1,0 +1,57 @@
+{
+  "id": "F19315",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Carte de séjour en tant que membre de famille d'un Européen",
+  "theme": "Étranger - Europe",
+  "description": "Si vous êtes européen, le titre de séjour n'est pas obligatoire. En revanche, si vous êtes non-européen, vous devez demander une carte de séjour.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2024-02-02",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F19315",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Titres, cartes de séjour et documents de circulation pour étranger en France",
+    "Carte de séjour en tant que membre de famille d'un Européen"
+  ],
+  "introduction": "Si vous êtes membre de famille d'un Européen venu s'installer en France, vous pouvez l'accompagner ou le rejoindre. Si vous êtes vous-même européen, le titre de séjour n'est pas obligatoire. En revanche, si vous êtes non-européen, vous devez demander une carte de séjour. Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles L231-1 à L237-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042770966/"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles R231-1 à R237-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042800228/"
+    },
+    {
+      "titre": "Circulaire du 10 septembre 2010 sur le droit de séjour des citoyens européens et suisses et les membres de leur famille",
+      "url": "https://www.legifrance.gouv.fr/download/pdf/circ?id=32884"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Faire une demande sur internet pour un titre de séjour, un changement de situation, un titre de voyage, une demande de naturalisation - ANEF",
+      "url": "https://administration-etrangers-en-france.interieur.gouv.fr/particuliers/#/",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Trouver les coordonnées des photographes habilités et des cabines agréées",
+      "url": "https://passeport.ants.gouv.fr/services/geolocaliser-les-photographes-habilites",
+      "type": "outilRechercheNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "carte-de-sejour-en-tant-que-membre-de-famille-d-un-europeen",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "titres-cartes-de-sejour-et-documents-de-circulation-pour-etranger-en-france",
+      "titre": "Titres, cartes de séjour et documents de circulation pour étranger en France"
+    }
+  ]
+}

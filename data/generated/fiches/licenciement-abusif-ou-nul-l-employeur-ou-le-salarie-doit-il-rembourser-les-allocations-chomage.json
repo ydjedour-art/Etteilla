@@ -1,0 +1,42 @@
+{
+  "id": "F33681",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Licenciement abusif ou nul : l'employeur ou le salarié doit-il rembourser les allocations chômage ?",
+  "theme": "Travail - Formation",
+  "description": "Dans certaines situations, l'employeur ou le salarié, peut être obligé de rembourser les allocations de chômage perçues par le salarié après son licenciement.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-08-14",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33681",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Licenciement d'un salarié du secteur privé pour motif personnel",
+    "Licenciement abusif ou nul : l'employeur ou le salarié doit-il rembourser les allocations chômage ?"
+  ],
+  "introduction": "Le conseil de prud'hommes peut juger qu'un licenciement est sans cause réelle et sérieuse : c'est ce que l'on appelle un licenciement abusif. Il peut aussi annuler un licenciement : dans ce cas, le licenciement est appelé nul. Quand le salarié a perçu des allocations chômage entre la date du licenciement et la décision du juge, l'employeur doit dans certains cas les rembourser. Le salarié peut également être obligé de rembourser les allocations perçues. Nous faisons un point sur la réglementation. Elle varie selon l'ancienneté du salarié dans l'entreprise et le nombre de salariés dans l'entreprise.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code du travail : articles L1235-1 à L1235-6",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000006189445/"
+    },
+    {
+      "titre": "Code du travail : articles R1235-1 à R1235-17",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000018483223/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "licenciement-abusif-ou-nul-l-employeur-ou-le-salarie-doit-il-rembourser-les-allocations-chomage",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "licenciement-d-un-salarie-du-secteur-prive-pour-motif-personnel",
+      "titre": "Licenciement d'un salarié du secteur privé pour motif personnel"
+    }
+  ]
+}

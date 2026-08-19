@@ -1,0 +1,136 @@
+{
+  "id": "F32059",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Diagnostic technique global (DTG) de la copropriété",
+  "theme": "Logement",
+  "description": "Le diagnostic technique global (DTG) comporte un état technique de l'immeuble et de ses équipements communs. Il recense les travaux à effectuer.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-06-30",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F32059",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Documents de copropriété",
+    "Diagnostic technique global (DTG) de la copropriété"
+  ],
+  "introduction": "Le diagnostic technique global (DTG) aide les copropriétaires à mieux connaître l’état général de leur immeuble. C’est un document préventif, informatif sur l’état technique du bâtiment et de ses équipements communs, et stratégique. Nous faisons le point sur les informations à connaître sur le DTG.",
+  "chapitres": [
+    {
+      "titre": "Qu'est-ce que le DTG ?",
+      "contenu": [
+        "Le diagnostic technique global (DTG) est un document qui évalue l’état technique général d’un immeuble en copropriété.",
+        "Il vise à :",
+        "• Informer les copropriétaires sur la situation globale de l’immeuble (structure, équipements, sécurité…)",
+        "• Anticiper les travaux nécessaires pour la préservation de l’immeuble",
+        "• Et faciliter la gestion de la copropriété et de ses dépenses d’énergie."
+      ]
+    },
+    {
+      "titre": "Quels sont les immeubles concernés par le DTG ?",
+      "contenu": [
+        "La réalisation d’un DTG est obligatoire lors de la mise en copropriété d’un immeuble à usage d’habitation (total ou partiel) âgé de plus de 10 ans. L’obligation d’un DTG est évaluée à la date de la mise en copropriété. Par exemple, un immeuble construit en 2014 et mis en copropriété en 2025 devra faire l’objet d’un DTG au moment de sa division en lots privatifs et parties communes.",
+        "Pour les copropriétés déjà existantes, la réalisation d’un DTG reste facultative. Aucune obligation ne s’impose, quel que soit l’âge de l’immeuble ou la date de création de la copropriété. Toutefois, le syndic peut inscrire cette question à l’ordre du jour d’une assemblée générale, soit de sa propre initiative, soit à la demande d’un ou plusieurs copropriétaires. L’assemblée générale des copropriétaires décidera alors s’il y a lieu de faire réaliser un DTG.",
+        "[Attention] Le maire ou le préfet peut demander au syndic de communiquer un DTG lorsque l'immeuble présente des désordres (par exemple, l'immeuble est insalubre ou en péril) pour vérifier l'état de bon usage et de sécurité des parties communes. Dans ce cas, le syndic sera obligé de faire réaliser un DTG."
+      ]
+    },
+    {
+      "titre": "Comment est voté le DTG ?",
+      "contenu": [
+        "Le DTG est voté en plusieurs étapes :",
+        "• Le syndic inscrit à l’ordre du jour de l’assemblée générale des copropriétaires la question de la réalisation du DTG.",
+        "• Les copropriétaires se prononcent sur la question de la réalisation du DTG et sur ses conditions de réalisation par un vote à la majorité simple (dite majorité de l’article 24).",
+        "• Une fois voté et réalisé, le contenu du DTG doit être présenté à la 1re assemblée générale des copropriétaires qui suit la réalisation de ce document ou sa révision. Les copropriétaires décideront alors s’ils souhaitent réaliser les travaux préconisés dans le DTG."
+      ]
+    },
+    {
+      "titre": "Qui doit réaliser le DTG ?",
+      "contenu": [
+        "La réalisation du DTG doit être confiée à un professionnel justifiant de compétences en matière de modes constructifs, équipements techniques, produits et matériaux de construction, et pouvant justifier d’un diplôme, titre professionnel ou certification équivalente.",
+        "Il peut s'agir d'un bureau d'études, d'un architecte, d'un thermicien.",
+        "Ce professionnel doit également remplir les conditions suivantes :",
+        "• Attester sur l'honneur de son impartialité et de son indépendance à l'égard du syndic et à l'égard des fournisseurs d'énergie et des entreprises intervenant sur l'immeuble",
+        "• Justifier avoir souscrit une assurance de responsabilité civile professionnelle. L'assurance doit préciser les compétences couvertes."
+      ]
+    },
+    {
+      "titre": "Que doit mentionner le DTG ?",
+      "contenu": [
+        "Le DTG doit comporter les informations suivantes :",
+        "• Analyse de l'état apparent des parties communes et des équipements communs de l'immeuble",
+        "• État technique de l'immeuble et des équipements communs au regard des obligations légales et réglementaires au titre de la construction",
+        "• Analyse des améliorations possibles de la gestion technique et patrimoniale de l'immeuble",
+        "• Diagnostic de performance énergétique de l'immeuble",
+        "• Évaluation sommaire du coût et liste des travaux nécessaire à la conservation de l'immeuble, à la préservation de la santé et de la sécurité des occupants et à la réalisation d'économies d'énergie. Cette évaluation doit notamment préciser les travaux qui doivent être menés dans les 10 prochaines années.",
+        "[À noter] Si le DTG ne fait apparaître aucun besoin de travaux au cours des 10 années qui suivent son élaboration, le syndicat des copropriétaires est dispensé de mettre en place un plan pluriannuel de travaux (PPT)."
+      ]
+    },
+    {
+      "titre": "Quel est le coût d’un DTG ?",
+      "contenu": [
+        "Il n’existe pas de grille tarifaire imposée pour la réalisation d’un DTG. Le diagnostiqueur fixe ses tarifs librement.",
+        "Le prix d’un DTG est donc variable. Il est établi en fonction du nombre de lots dans l’immeuble, de son architecture, de sa structure et de sa localisation. Ainsi, plus la taille de la copropriété est importante, plus le prix sera élevé."
+      ]
+    },
+    {
+      "titre": "Qui paie le DTG ?",
+      "contenu": [
+        "Le coût est réparti entre tous les copropriétaires selon leurs tantièmes.",
+        "[À noter] Cette charge n’est pas récupérable auprès du locataire."
+      ]
+    },
+    {
+      "titre": "Où consulter le DTG ?",
+      "contenu": [
+        "Le DTG doit être intégré dans le carnet d’entretien de l’immeuble. Ce document reprend ainsi la liste des travaux jugés nécessaires à la conservation de l’immeuble, ainsi que les équipements concernés et l’échéancier recommandé.",
+        "Le syndic de copropriété doit proposer un accès en ligne pour permettre à tous les copropriétaires de consulter le carnet d'entretien. Ce document doit être téléchargeable et imprimable.",
+        "[À savoir] Le DTG doit être transmis au futur acquéreur d'un lot de copropriété."
+      ]
+    },
+    {
+      "titre": "Comment est contrôlé le DTG ?",
+      "contenu": [
+        "Le maire ou le préfet peut exiger du syndic de copropriété la production d’un DTG pour vérifier l'état de bon usage et de sécurité des parties communes.",
+        "Cette situation ne concerne que les copropriétés présentant des désordres potentiels. C’est principalement le cas des immeubles :",
+        "• Présentant un danger pour la santé des occupants ou des voisins",
+        "• Présentant un dysfonctionnement ou une absence d'entretien compromettant gravement les conditions d'habitation",
+        "• Menaçant ruine ou faisant courir un péril imminent ou insalubre.",
+        "En l’absence de production du DTG dans un délai d'un mois après notification de la demande, le maire ou le préfet peut faire réaliser d'office le DTG à la place et aux frais du syndicat des copropriétaires."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la construction et de l'habitation : articles L731-1 à L731-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000028779354/#LEGISCTA000028807582"
+    },
+    {
+      "titre": "Code de la construction et de l’habitation : articles D731-1 à D731-3",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000033823208/#LEGISCTA000033823208"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Compétences et diplômes du diagnostiqueur pour réaliser le DTG",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033823208/"
+    },
+    {
+      "titre": "Rénovation énergétique des copropriétés",
+      "url": "https://www.inc-conso.fr/content/logement/la-renovation-energetique-des-coproprietes"
+    }
+  ],
+  "slug": "diagnostic-technique-global-dtg-de-la-copropriete",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "documents-de-copropriete",
+      "titre": "Documents de copropriété"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "F20712",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Le temps de trajet du salarié donne-t-il droit à des heures supplémentaires ?",
+  "theme": "Travail - Formation",
+  "description": "Le temps de trajet entre le domicile et le lieu de travail n'est pas considéré comme du temps de travail effectif.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2023-07-31",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F20712",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Temps de travail dans le secteur privé",
+    "Le temps de trajet du salarié donne-t-il droit à des heures supplémentaires ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Le temps de trajet entre votre domicile et votre lieu de travail est-il considéré comme du temps de travail effectif ? Votre employeur doit-il vous verser des heures supplémentaires à l'occasion de votre trajet domicile / lieu de travail et lieu de travail / domicile ? Nous vous présentons les informations à connaître.",
+        "Trajet domicile / lieu de travail et lieu de travail / domicile",
+        "Aucune compensation salariale n'est imposée à votre employeur (à l'exception du remboursement partiel des frais de transport domicile-travail).",
+        "Le temps de trajet entre le domicile et le lieu de travail ne donne pas donc lieu au versement d' heures supplémentaires.",
+        "Déplacement professionnel",
+        "Cependant, à l'occasion d'un déplacement professionnel, votre temps de trajet peut dépasser votre temps habituel de trajet entre votre domicile et votre lieu de travail.",
+        "Ce dépassement peut se produire, par exemple, à l'occasion d'une :",
+        "• Réunion dans un autre établissement de l'entreprise",
+        "• Rencontre avec un client sur un lieu différent de votre lieu de travail habituel",
+        "Si c'est le cas, une contrepartie versée par votre employeur doit être prévue soit sous forme de repos, soit sous forme financière.",
+        "Le contenu de cette contrepartie est fixé par convention collective ou accord collectif d'entreprise.",
+        "En l'absence de convention ou d'accord, la contrepartie (sous forme de repos ou sous forme financière) est fixée directement par votre employeur (après consultation du comité social et économique (CSE) s'il existe dans l'entreprise).",
+        "[À noter] La part de ce temps de déplacement professionnel coïncidant avec l'horaire de travail n'entraîne aucune perte de salaire"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code du travail : article L3121-4",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033020507"
+    },
+    {
+      "titre": "Code du travail : article L3121-7",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033020493"
+    },
+    {
+      "titre": "Code du travail : article L3121-8",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033001523"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "le-temps-de-trajet-du-salarie-donne-t-il-droit-a-des-heures-supplementaires",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "temps-de-travail-dans-le-secteur-prive",
+      "titre": "Temps de travail dans le secteur privé"
+    }
+  ]
+}

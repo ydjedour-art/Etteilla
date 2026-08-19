@@ -1,0 +1,105 @@
+{
+  "id": "F1871",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "À quoi sert l'assurance scolaire ?",
+  "theme": "Famille - Scolarité",
+  "description": "L'assurance scolaire garantit les dommages qu'un écolier, un collégien ou un lycéen, peut occasionner à un camarade et ceux qu'il pourrait subir.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-09-15",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1871",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "École primaire (maternelle et élémentaire)",
+    "À quoi sert l'assurance scolaire ?"
+  ],
+  "introduction": "L'assurance scolaire protège votre enfant contre les dommages causés ou subis à l'école, au collège ou au lycée. La souscription d’une assurance scolaire est facultative pour les activités inscrites dans l’emploi du temps de votre enfant. En revanche, elle est obligatoire pour d’autres activités organisées par l'établissement scolaire. Voici les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Quelles sont les garanties couvertes par l'assurance scolaire ?",
+      "contenu": [
+        "L'assurance scolaire protège votre enfant contre les dommages causés ou subis à l'école, au collège ou au lycée.",
+        "Elle se compose des 2 garanties suivantes :",
+        "• La garantie responsabilité civile couvre les dommages causés par l'enfant",
+        "• La garantie accident corporel couvre pour les dommages subis par l'enfant, y compris s'il se blesse lui-même.",
+        "Le contrat d'assurance scolaire peut également proposer des garanties complémentaires (racket ou vols divers, services d'assistance permettant à un enfant malade de poursuivre sa scolarité à domicile).",
+        "En fonction de la formule choisie, l'assurance protège votre enfant de l'une des manières suivantes :",
+        "• Pendant les activités scolaires et le trajet entre le domicile et l'école, aller et retour (généralement appelée assurance scolaire)",
+        "• 24h sur 24, en tout lieu et sur toute l'année, y compris pendant les activités de loisirs et les périodes de vacances (généralement appelée assurance extra-scolaire)."
+      ]
+    },
+    {
+      "titre": "L'assurance scolaire est-elle obligatoire ou facultative ?",
+      "contenu": [
+        "En principe, vous n'êtes pas obligé de souscrire une assurance scolaire pour votre enfant.",
+        "Pour toutes les activités scolaires obligatoires, c'est-à-dire celles inscrites dans l'emploi du temps de l'enfant, l'assurance est facultative.",
+        "[Exemple] Pour une sortie à la piscine ou au gymnase, l'assurance scolaire n'est pas obligatoire.",
+        "En revanche, l’assurance scolaire sera exigée pour les activités facultatives organisées par l'établissement (visite d'un musée, séjour linguistique, classes de découverte...).",
+        "Vous devez également souscrire une assurance scolaire si votre enfant fréquente la cantine.",
+        "C'est aussi le cas s'il participe aux activités organisées par les communes après le temps scolaire (études surveillées, activités culturelles ou sportives)."
+      ]
+    },
+    {
+      "titre": "Comment souscrire une assurance scolaire ?",
+      "contenu": [
+        "Vous pouvez souscrire cette assurance auprès de votre assureur habituel.",
+        "Vous pouvez également adhérer à un contrat collectif proposé par une association de parents d'élèves ou par un établissement d'enseignement privé.",
+        "Vérifiez auparavant que vous ne bénéficiez pas déjà des garanties de l'assurance scolaire dans un autre contrat d'assurance. Dans ce cas, vous n'avez pas à souscrire une assurance scolaire.",
+        "[Exemple] La garantie responsabilité civile de l'assurance scolaire peut être couverte par votre assurance multirisques habitation. Certains contrats personnels (garantie individuelle accidents ou garantie des accidents de la vie) peuvent aussi garantir les accidents corporels subis par l'enfant."
+      ]
+    },
+    {
+      "titre": "Combien coûte l'assurance scolaire ?",
+      "contenu": [
+        "Pour la souscription d'un contrat spécifique, le coût est fixée par la compagnie d'assurance.",
+        "Les tarifs débutent en général aux environs de 10 € par an et par enfant."
+      ]
+    },
+    {
+      "titre": "Que faire concernant l'assurance scolaire en cas de changement d'école ou d'établissement ?",
+      "contenu": [
+        "Si votre enfant change d'école ou d'établissement, vous devez avertir votre assureur."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Circulaire n°2006-137 du 25 août 2006 relative au rôle et à la place des parents à l'école",
+      "url": "https://www.legifrance.gouv.fr/circulaire/id/324"
+    },
+    {
+      "titre": "Circulaire du 16 juillet 2024 relative à l'organisation des sorties et voyages scolaires dans les écoles, les collèges et les lycées publics",
+      "url": "https://www.education.gouv.fr/bo/2024/Hebdo30/MENE2407159C"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Info Banque - Assurance",
+    "Établissement scolaire"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Les assurances scolaires",
+      "url": "https://www.education.gouv.fr/les-assurances-scolaires-4214"
+    },
+    {
+      "titre": "Assurance scolaire",
+      "url": "https://www.abe-infoservice.fr/fr/assurance/autres-assurances-voyage-vacances-scolaire-ski/assurance-scolaire"
+    },
+    {
+      "titre": "Assurance scolaire",
+      "url": "https://www.inc-conso.fr/content/assurance-scolaire"
+    }
+  ],
+  "slug": "a-quoi-sert-l-assurance-scolaire",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "ecole-primaire-maternelle-et-elementaire",
+      "titre": "École primaire (maternelle et élémentaire)"
+    }
+  ]
+}

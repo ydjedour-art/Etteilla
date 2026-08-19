@@ -1,0 +1,97 @@
+{
+  "id": "F31901",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quelles sont les différentes façons de passer le permis de conduire B ?",
+  "theme": "Transports - Mobilité",
+  "description": "Il y a différentes façons de passer le permis de conduire de catégorie B : apprentissage anticipé, traditionnel, encadré et supervisé.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-10-21",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31901",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Permis de conduire",
+    "Quelles sont les différentes façons de passer le permis de conduire B ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Une infographie vous permet de visualiser rapidement les formules d'apprentissage de la conduite d'un véhicule de catégorie B.",
+        "Pour des informations précises et détaillées, vous pouvez consulter les pages sur ces formules d'apprentissage : apprentissage anticipé (AAC), apprentissage traditionnel en auto-école ou en candidat libre, conduite encadrée et conduite supervisée.",
+        "Service Public (DILA)",
+        "L'infographie présente les différentes façons de passer le permis de conduire de catégorie B.",
+        "1/Apprentissage anticipé (AAC) de la conduite à partir de 15 ans",
+        "Vous suivez une formation en école de conduite et conduisez avec un proche avant de passer l’épreuve pratique.",
+        "Vous pouvez passer l’épreuve pratique et obtenir le permis B à partir de 17 ans.",
+        "2/Apprentissage traditionnel de la conduite à partir de 16 ans",
+        "Vous pouvez vous former en école de conduite ou en candidat libre.",
+        "Vous pouvez passer l’épreuve pratique et obtenir le permis B à partir de 17 ans.",
+        "3/Conduite encadrée à partir de 16 ans",
+        "Vous suivez une formation professionnelle dans un établissement préparant à un diplôme de conduite routière de l’éducation nationale et conduisez avec un proche pendant la période de la formation professionnelle.",
+        "Vous pouvez obtenir le permis B à partir de 17 ans.",
+        "4/Conduite supervisée à partir de 18 ans",
+        "Vous suivez une formation en école de conduite et conduisez avec un proche avant de (re)passer l’épreuve pratique.",
+        "Vous pouvez passer l’épreuve pratique et obtenir le permis B à partir de 18 ans."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la route : articles R211-3 à R211-7",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074228/LEGISCTA000006177075"
+    },
+    {
+      "titre": "Arrêté du 5 janvier 2023 relatif à la conduite encadrée",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000046979579"
+    },
+    {
+      "titre": "Arrêté du 16 juillet 2013 relatif à l'apprentissage de la conduite des véhicules à moteur de la catégorie B du permis de conduire à titre non onéreux",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000027751629/"
+    },
+    {
+      "titre": "Arrêté du 20 avril 2012 fixant les conditions d'établissement, de délivrance et de validité du permis de conduire",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000025803494/"
+    },
+    {
+      "titre": "Arrêté du 22 décembre 2009 relatif à l'apprentissage de la conduite des véhicules à moteur de la catégorie B dans un établissement d'enseignement agrée",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000021560658/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Trouver une auto-école labellisée près de chez soi",
+      "url": "https://autoecoles.securite-routiere.gouv.fr/#/",
+      "type": "outilRechercheNG"
+    }
+  ],
+  "contacts": [
+    "École de conduite labellisée (auto-école, association)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Site de la sécurité routière",
+      "url": "http://www.securite-routiere.gouv.fr"
+    },
+    {
+      "titre": "École de conduite labellisée",
+      "url": "https://www.securite-routiere.gouv.fr/passer-son-permis-de-conduire/inscription-et-formation/inscription-dans-une-ecole-de-conduite/les"
+    },
+    {
+      "titre": "Ecole de conduite associative",
+      "url": "https://www.securite-routiere.gouv.fr/passer-son-permis-de-conduire/inscription-et-formation/inscription-dans-une-ecole-associative"
+    }
+  ],
+  "slug": "quelles-sont-les-differentes-facons-de-passer-le-permis-de-conduire-b",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "permis-de-conduire",
+      "titre": "Permis de conduire"
+    }
+  ]
+}

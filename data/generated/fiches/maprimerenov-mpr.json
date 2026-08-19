@@ -1,0 +1,284 @@
+{
+  "id": "F35083",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "MaPrimeRénov' (MPR)",
+  "theme": "Logement",
+  "description": "L'aide MaPrimeRénov' concerne les rénovations d'ampleur (Parcours accompagné) et rénovation pour des travaux ciblés (Parcours par geste).",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-06-19",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35083",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Aides et prêts pour l'amélioration et la rénovation énergétique de l'habitat",
+    "MaPrimeRénov' (MPR)"
+  ],
+  "introduction": "Vous souhaitez réaliser des travaux de rénovation énergétique dans votre logement ? Vous pouvez bénéficier, sous certaines conditions, de l'aide MaPrimeRénov' Rénovation d'ampleur (Parcours accompagné)ou l'aide MaPrimeRénov' pour des travaux ciblés (Parcours par geste) . Cette aide est versée par l’Agence nationale de l’habitat (Anah). Nous faisons le point sur la réglementation.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "[Attention] MaPrimeRénov' Rénovation d'ampleur ne s'applique pas en outre-mer."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Décret n°2020-26 du 14 janvier 2020 relatif à la prime de transition énergétique",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000041400291"
+    },
+    {
+      "titre": "Arrêté du 14 janvier 2020 relatif à la prime de transition énergétique",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000041400376"
+    },
+    {
+      "titre": "Annexe 3 de l'arrêté du 14 janvier 2020 relatif à la prime de transition énergétique",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049311731"
+    },
+    {
+      "titre": "Arrêté du 17 novembre 2020 relatif aux caractéristiques techniques et modalités de réalisation des travaux et prestations dont les dépenses sont éligibles à la prime de transition énergétique",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000042532442/"
+    },
+    {
+      "titre": "Réponse ministérielle du 7 juillet 2020 relative à la transition énergétique",
+      "url": "http://questions.assemblee-nationale.fr/q15/15-25777QE.htm"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "MaPrimeRénov' : demande de prime (Anah)",
+      "url": "https://www.maprimerenov.gouv.fr/prweb/PRAuth/app/AIDES_/BPNVwCpLW8TKW49zoQZpAw*/!STANDARD",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Estimer ses droits aux aides à la rénovation énergétique",
+      "url": "https://mesaides.france-renov.gouv.fr/",
+      "type": "simulateurNG"
+    },
+    {
+      "titre": "Estimer les aides financières pour la rénovation de l’habitat",
+      "url": "https://france-renov.gouv.fr/aides/simulation#/",
+      "type": "simulateurNG"
+    },
+    {
+      "titre": "Connaître les aides financières des collectivités locales pour faire des travaux",
+      "url": "https://www.anil.org/aides-locales-travaux/",
+      "type": "Outil de recherche"
+    },
+    {
+      "titre": "Calculette Ma plus-value Réno",
+      "url": "https://mesaidesreno.beta.gouv.fr/module/plus-value",
+      "type": "Simulateur"
+    },
+    {
+      "titre": "Vérifier son DPE ou audit énergétique et télécharger une attestation",
+      "url": "https://observatoire-dpe-audit.ademe.fr/accueil",
+      "type": "Outil de recherche"
+    },
+    {
+      "titre": "MaPrimeRénov' : attestation de consentement à la demande de prime (Anah)",
+      "url": "https://www.anah.gouv.fr/document/attestation-de-consentement-de-demande-de-prime",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "MaPrimeRénov' : attestation de consentement à la demande de solde de la prime (Anah)",
+      "url": "https://www.anah.gouv.fr/document/attestation-de-consentement-de-solde-de-prime",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "MaPrimeRénov' : mandat administratif pour la constitution de la demande de prime et sa demande de paiement et mandat financier pour la perception de la prime - Propriétaire occupant et bailleur (Anah)",
+      "url": "https://www.anah.gouv.fr/document/cerfa16089-02-mandat-general-mpr",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "MaPrimeRénov' : désignation d’un représentant unique dans le cadre de la demande de prime sur un bien en indivision (Anah)",
+      "url": "https://www.anah.gouv.fr/document/attestation-sur-l-honneur-du-representant-unique-de-l-indivision",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "MaPrimeRénov' : attestation sur l’honneur du propriétaire bailleur dans le cadre d’un dépôt de dossier de demande de prime (Anah)",
+      "url": "https://www.anah.gouv.fr/document/attestation-sur-l-honneur-de-proprietaire-bailleur",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Mandataires MaPrimeRénov' : formulaire de création de comptes et profils mandataires (Anah)",
+      "url": "https://www.anah.gouv.fr/document/creation-de-compte-mandataire",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Mon Accompagnateur Rénov' : programme d'activité prévisionnelle sur trois ans (Anah)",
+      "url": "https://www.anah.gouv.fr/document/programme-d-activite-previsonnele-sur-trois-ans",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "MaPrimeRénov' : part de l'activité prévisionnelle de la structure et le nombre de personne consacré à temps plein ou partiel (Anah)",
+      "url": "https://www.anah.gouv.fr/document/part-de-l-activite-previsionnellle-de-la-structure-et-le-nombe-de-personne-consacre-temps",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Mon Accompagnateur Rénov' : attestation d’engagement de transmission du rapport annuel d'activité (dans le cadre de la demande d'agrément) – Personne morale",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_17103.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Mon Accompagnateur Rénov' : attestation d’engagement de transmission du rapport annuel d'activité (dans le cadre de la demande d'agrément) – Personne physique",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_17104.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Mon Accompagnateur Rénov' : liste des périmètres d’intervention demandés et des implantations territoriales (demande d'agrément)",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_17100.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "MaPrimeRénov' : attestation de travaux - demande de prime pré-travaux (Anah)",
+      "url": "https://anah.gouv.fr/document/attestation-de-travaux-demande-de-prime",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "MaPrimeRénov' : attestation de travaux - demande de paiement de prime post-travaux (Anah)",
+      "url": "https://www.anah.gouv.fr/document/attestation-de-travaux-demande-de-paiement-de-prime",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "MaPrimeRénov' : attestation CEE - Rénovation d'ampleur (Anah)",
+      "url": "https://www.anah.gouv.fr/document/attestation-cee-mpr-accompagne",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "MaPrimeRénov' : attestation d'exclusivité CEE - Rénovation d'ampleur (Anah)",
+      "url": "https://www.anah.gouv.fr/document/attestation-cee-mpr-accompagne",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "MaPrimeRénov' : attestation de travaux - Rénovation d'ampleur - facture (Anah)",
+      "url": "https://www.anah.gouv.fr/document/attestation-travaux-mpr-accompagne-factures",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "MaPrimeRénov' : attestation de travaux - Rénovation d'ampleur - devis (Anah)",
+      "url": "https://www.anah.gouv.fr/document/attestation-travaux-mpr-accompagne-devis",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Mon Accompagnateur Rénov' : synthèse de la grille d'analyse du logement (Anah)",
+      "url": "https://www.anah.gouv.fr/document/synthesegrilleanalyselogement",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "MaPrimeRénov' : modèle d'attestation sur l'honneur (Anah)",
+      "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000043771958",
+      "type": "Modèle de document"
+    },
+    {
+      "titre": "Mon Accompagnateur Rénov' : méthodologie proposée pour l’accompagnement des ménages dans le cadre de l'agrément",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_17101.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Mon Accompagnateur Rénov' : attestation d’engagement de suivi du plan de formation complémentaire aux compétences requises et cohérent avec les missions de l'accompagnateur – Personne morale",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_17105.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Mon Accompagnateur Rénov' : attestation d’engagement de suivi du plan de formation complémentaire aux compétences requises et cohérent avec les missions de l'accompagnateur – Personne physique",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_17106.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Mon Accompagnateur Rénov' : système qualité et contrôle interne de la structure candidate à l'agrément",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_17102.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Mon Accompagnateur Rénov' : attestation sur l’honneur de non-condamnation et de situation – Personne physique",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_17108.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Mon Accompagnateur Rénov' : attestation sur l’honneur de non-condamnation et de situation – Personne morale",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_17107.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Mon Accompagnateur Rénov’ : synthèse des pièces justificatives communiquées dans le dossier de demande d’agrément (auditeurs énergétiques, entreprises RGE « offre globale », sociétés de tiers-financement)",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_17109.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Mon Accompagnateur Rénov' : récapitulatif de la demande d'agrément comprenant une synthèse des pièces justificatives communiquées dans le dossier de demande d’agrément",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_17110.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Mon Accompagnateur Rénov’ : synthèse des pièces justificatives communiquées dans le dossier de demande d’agrément par les collectivités territoriales ou leurs groupements",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_17111.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Mon Accompagnateur Rénov’ : Conditions de réalisation de l’ensemble des activités",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_16446.do",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Conseillers spécialisés en travaux de rénovation de l'habitat (France Rénov')"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "France Rénov' : le service public vous guide dans vos travaux de rénovation énergétique",
+      "url": "https://france-renov.gouv.fr/"
+    },
+    {
+      "titre": "Site de la prime de transition énergétique \"MaPrimeRénov'\"",
+      "url": "https://www.maprimerenov.gouv.fr/"
+    },
+    {
+      "titre": "Mon Accompagnateur Rénov’ simplifie et sécurise votre rénovation énergétique",
+      "url": "https://france-renov.gouv.fr/preparer-projet/faire-accompagner/mon-accompagnateur-renov"
+    },
+    {
+      "titre": "Guide des aides financières de l'Anah",
+      "url": "https://www.anah.gouv.fr/sites/default/files/2026-03/202602_guide-aides-financieres_WEB.pdf"
+    },
+    {
+      "titre": "Guide à destination des mandataires",
+      "url": "https://www.anah.gouv.fr/document/2403-guide-mandataires"
+    },
+    {
+      "titre": "Dépenses éligibles et critères techniques à respecter",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000042532442"
+    },
+    {
+      "titre": "Pièces justificatives pour une demande de prime MaPrimeRénov'",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049311731"
+    },
+    {
+      "titre": "MaPrimeRénov' Copropriété",
+      "url": "https://www.anah.fr/copropriete/syndicat-de-coproprietaires/beneficier-de-laide-maprimerenov-coproprietes/"
+    },
+    {
+      "titre": "Liste des travaux et prestations éligibles à MaPrimeRénov' pour les copropriétés",
+      "url": "https://www.bulletin-officiel.developpement-durable.gouv.fr/documents/Bulletinofficiel-0024695/met_20100023_0100_0045.pdf"
+    },
+    {
+      "titre": "Détail des dépenses qui découlent des travaux éligibles à MaPrimeRénov'",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000051397050"
+    },
+    {
+      "titre": "Points de vigilance concernant les devis et factures des professionnels",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000046509583"
+    }
+  ],
+  "slug": "maprimerenov-mpr",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "aides-et-prets-pour-l-amelioration-et-la-renovation-energetique-de-l-habitat",
+      "titre": "Aides et prêts pour l'amélioration et la rénovation énergétique de l'habitat"
+    }
+  ]
+}

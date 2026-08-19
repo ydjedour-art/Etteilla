@@ -1,0 +1,78 @@
+{
+  "id": "F1963",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Un électeur peut-il consulter les listes électorales ?",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Consulter les listes électorales permet aux électeurs de vérifier la régularité des inscriptions, mais l'électeur doit remplir certaines conditions.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-02-06",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1963",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Élections",
+    "Un électeur peut-il consulter les listes électorales ?"
+  ],
+  "introduction": "Oui, il est possible pour un électeur de consulter les listes électorales. La consultation des listes électorales permet aux électeurs de vérifier la régularité des inscriptions. Pour cela, l'électeur doit remplir certaines conditions. Ces conditions varient selon qu'il est inscrit sur la liste électorale d'une commune ou sur une liste électorale consulaire. Nous vous expliquons.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code électoral : article L37",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032964915"
+    },
+    {
+      "titre": "Code électoral : article L330-4",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032965119/"
+    },
+    {
+      "titre": "Arrêté du 1er octobre 2001 relatif à la fixation du montant des frais de copie d'un document administratif",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000772503/"
+    },
+    {
+      "titre": "Arrêté du 20 juillet 2007 sur les listes électorales consulaires et les opérations électorales à l'étranger",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006056678/"
+    },
+    {
+      "titre": "Instruction INTA1830120J du 21 novembre 2018 relative à la tenue des listes électorales et des listes électorales complémentaires",
+      "url": "https://www.legifrance.gouv.fr/download/pdf/circ?id=44101"
+    },
+    {
+      "titre": "Addendum à l'instruction INTA1830120J du 21 novembre 2018 relative à la tenue des listes électorales complémentaires",
+      "url": "https://www.legifrance.gouv.fr/circulaire/id/45129?origin=list"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Listes d'une commune et listes consulaires",
+      "url": "https://situation.elections.interieur.gouv.fr/",
+      "type": "selNG"
+    },
+    {
+      "titre": "Listes de Nouvelle-Calédonie",
+      "url": "https://electeur-nc.fr/",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Communication des listes électorales consulaires",
+      "url": "https://www.diplomatie.gouv.fr/fr/services-aux-francais/voter-a-l-etranger/http-publication-diplomatie-gouv-fr-fr-services-aux-citoyens-droit-de-vote-et-elections-a-l-etranger-liste-electorale-18-05-17/article/communication-des-listes-electorales-consulaires"
+    },
+    {
+      "titre": "Listes électorales anciennes : peut-on les consulter ? (page 7)",
+      "url": "https://www.legifrance.gouv.fr/circulaire/id/45129?origin=list"
+    }
+  ],
+  "slug": "un-electeur-peut-il-consulter-les-listes-electorales",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "elections",
+      "titre": "Élections"
+    }
+  ]
+}

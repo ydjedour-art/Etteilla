@@ -1,0 +1,79 @@
+{
+  "id": "F37682",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Dans quels cas un pharmacien peut-il délivrer un antibiotique sans ordonnance ?",
+  "theme": "Social - Santé",
+  "description": "À la suite d'un test positif détectant un cas d'angine ou de cystite simple (infection urinaire), un pharmacien peut délivrer un antibiotique.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-02-05",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F37682",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Remboursement des soins par la Sécurité sociale",
+    "Dans quels cas un pharmacien peut-il délivrer un antibiotique sans ordonnance ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les pharmaciens ayant suivi une formation peuvent réaliser un test rapide d’orientation diagnostique (Trod) en cas de suspicion :",
+        "• D’angine chez les patients de 10 ans et plus lorsque les symptômes présentés par la personne justifient de réaliser le test",
+        "• Ou d'une infection urinaire simple (cystite) pour les femmes âgées de 16 à 65 ans.",
+        "Avant la réalisation d'un de ces tests, le pharmacien vérifie que le patient ne présente pas un critère d'exclusion, par exemple :",
+        "• Grossesse avérée ou non exclue",
+        "• Immunodépression (système immunitaire défaillant) ou risque d’immunodépression dus à une pathologie (VIH) ou à un médicament (chimiothérapie...)",
+        "• Recueil insuffisant des informations médicales (par exemple, non-maîtrise de la langue française).",
+        "[À savoir] La prise en charge de ces tests par l'Assurance maladie est de 70 %. Le reste est couvert par une mutuelle.",
+        "En cas de test positif confirmant l'infection, le pharmacien peut prescrire des antibiotiques.",
+        "Le site Ameli met en ligne des schémas retraçant le parcours d’une prise en charge par la pharmacie de l’angine et de la gêne urinaire."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la santé publique : article L5125-1-1 A",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038886688"
+    },
+    {
+      "titre": "Code de la santé publique : articles R5125-33-5 à R5125-33-12",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000023824207"
+    },
+    {
+      "titre": "Arrêté du 17 juin 2024 fixant les modalités de délivrance de médicaments sans ordonnance après la réalisation d’un test rapide d’orientation diagnostique",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000049734400/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Réalisation du test rapide d’orientation diagnostique (Trod) angine à l’officine",
+      "url": "https://www.ameli.fr/pharmacien/sante-prevention/trod-angine-officine-pharmacie"
+    },
+    {
+      "titre": "Prise en charge dans une pharmacie de l’angine",
+      "url": "https://www.ameli.fr/sites/default/files/Documents/2025230_Me%CC%81mo_TRODAngine.pdf"
+    },
+    {
+      "titre": "Dépistage des cystites simples à l’officine",
+      "url": "https://www.ameli.fr/pharmacien/sante-prevention/depistage-cystite-officine-pharmacie"
+    },
+    {
+      "titre": "Prise en charge dans une pharmacie de la femme ayant une gêne urinaire",
+      "url": "https://www.ameli.fr/sites/default/files/Documents/memo_bandelettes_urinaires-pharmacien.pdf"
+    }
+  ],
+  "slug": "dans-quels-cas-un-pharmacien-peut-il-delivrer-un-antibiotique-sans-ordonnance",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "remboursement-des-soins-par-la-securite-sociale",
+      "titre": "Remboursement des soins par la Sécurité sociale"
+    }
+  ]
+}

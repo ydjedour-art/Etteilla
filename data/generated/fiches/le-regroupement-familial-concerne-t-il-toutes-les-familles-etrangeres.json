@@ -1,0 +1,52 @@
+{
+  "id": "F11168",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Le regroupement familial concerne-t-il toutes les familles étrangères ?",
+  "theme": "Étranger - Europe",
+  "description": "Le regroupement familial ne s'applique pas à toutes les familles étrangères. D'autres procédures existent pour faire venir sa famille en France.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2024-05-21",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F11168",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Installation en France d'une famille étrangère",
+    "Le regroupement familial concerne-t-il toutes les familles étrangères ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "La procédure de regroupement familial concerne l'étranger non européen. Elle lui permet de faire venir sa famille en France : époux (ou épouse) et/ou enfants mineurs.",
+        "Le regroupement familial ne s'applique pas à toutes les familles étrangères. D'autres procédures existent pour être rejoint par sa famille.",
+        "Un visa de long séjour peut être notamment délivré dans les situations suivantes :",
+        "• Famille d'un Français (époux d'un Français, parent d'un enfant français mineur vivant en France, enfant de moins de 21 ans ou à charge d'un Français, parents, grands-parents ou beaux-parents à charge d'un Français)",
+        "• Famille d'un Européen ou d'un Suisse, quelle que soit sa nationalité",
+        "• Famille d'un réfugié, bénéficiaire de la protection subsidiaire ou apatride (sous certaines conditions)",
+        "• Famille d'un bénéficiaire du statut de résident de longue durée-UE dans un autre pays européen qui l'accompagne depuis l'Europe en France",
+        "• Famille d'une personne ayant la carte de séjour talent"
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Réunification familiale : réfugié, apatride et protection subsidiaire",
+      "url": "https://www.ofpra.gouv.fr/libraries/pdf.js/web/viewer.html?file=/sites/default/files/2022-10/francais_depliant_reunification_familiale_novembre_2021.pdf"
+    }
+  ],
+  "slug": "le-regroupement-familial-concerne-t-il-toutes-les-familles-etrangeres",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "installation-en-france-d-une-famille-etrangere",
+      "titre": "Installation en France d'une famille étrangère"
+    }
+  ]
+}

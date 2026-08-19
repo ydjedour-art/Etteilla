@@ -1,0 +1,89 @@
+{
+  "id": "F10488",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Achat à distance : conclusion du contrat",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Pour confirmer une commande, vous devez vérifier et corriger vos données avant de valider. Un consentement explicite et un double clic sont obligatoires.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2024-12-16",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F10488",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Achat à distance",
+    "Achat à distance : conclusion du contrat"
+  ],
+  "introduction": "Vous venez de donner votre accord à un professionnel pour acheter un produit sur internet, par correspondance, par téléachat ou par téléphone et vous vous demandez comment votre accord doit être constaté ? Nous vous donnons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Cette constatation diffère selon que l'achat a été effectué sur internet ou par un autre moyen.",
+        "Tous les contrats de vente de biens ou de fourniture de services (y compris de contenus numériques ou de services numériques) sont concernés par les informations qui suivent. En revanche, la vente à distance de services financiers n'est pas traitée dans cette fiche."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la consommation : article L213-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032226994/"
+    },
+    {
+      "titre": "Code de la consommation : articles D213-1 à D213-2",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032807206/"
+    },
+    {
+      "titre": "Code de la consommation : article L221-26",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034072585/"
+    },
+    {
+      "titre": "Code de la consommation : articles L221-11 à L221-15",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032226862/"
+    },
+    {
+      "titre": "Code de la consommation : articles L221-16 et L221-17",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032226850/"
+    },
+    {
+      "titre": "Code de la consommation : article L223-7",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032226749"
+    },
+    {
+      "titre": "Code de la consommation : articles L242-1 à L242-4",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032226386/"
+    },
+    {
+      "titre": "Code civil : articles 1125 à 1127-4",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032007249/"
+    },
+    {
+      "titre": "Code civil : articles 1174 et 1177",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032008860"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "0809 540 550 DGCCRF - RéponseConso"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Guide des achats en ligne",
+      "url": "https://www.inc-conso.fr/sites/default/files/2019_guide_achats-en-ligne.pdf"
+    },
+    {
+      "titre": "Acheter sur internet en 10 questions-réponses",
+      "url": "https://www.inc-conso.fr/content/acheter-sur-internet-en-10-questions-reponses"
+    }
+  ],
+  "slug": "achat-a-distance-conclusion-du-contrat",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "achat-a-distance",
+      "titre": "Achat à distance"
+    }
+  ]
+}

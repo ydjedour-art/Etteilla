@@ -1,0 +1,45 @@
+{
+  "id": "F1664",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Travail au pair d'un jeune Français à l'étranger",
+  "theme": "Étranger - Europe",
+  "description": "Le travail au pair permet à un jeune de partir dans une famille à l'étranger en échange de services, en particulier la garde d'enfants.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2024-12-10",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1664",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Vivre à l'étranger",
+    "Travail au pair d'un jeune Français à l'étranger"
+  ],
+  "introduction": "Le travail au pair permet à un jeune de partir dans une famille à l'étranger en échange de services, en particulier la garde d'enfants. Le séjour au pair est notamment l'occasion d'améliorer son niveau de langue. Quelles sont les conditions pour travailler au pair ? Des règles spécifiques s'appliquent au Danemark, en Espagne, en Italie et en Norvège. Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Accord européen du 24 novembre 1969 sur le placement au pair",
+      "url": "https://rm.coe.int/CoERMPublicCommonSearchServices/DisplayDCTMContent?documentId=0900001680072357"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Centre d'information et de documentation jeunesse (CIDJ)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Pays parties à l'accord européen sur le placement au pair",
+      "url": "https://www.coe.int/fr/web/conventions/full-list/-/conventions/treaty/068/signatures?p_auth=SvqZBxjM"
+    }
+  ],
+  "slug": "travail-au-pair-d-un-jeune-francais-a-l-etranger",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "vivre-a-l-etranger",
+      "titre": "Vivre à l'étranger"
+    }
+  ]
+}

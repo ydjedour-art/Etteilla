@@ -1,0 +1,33 @@
+{
+  "id": "F37422",
+  "type_publication": "Recherche guidée",
+  "titre": "Rectifier un acte d'état civil",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Rectifier un acte d'état civil",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2025-08-22",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F37422",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Changement d'état civil",
+    "Rectifier un acte d'état civil"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "rectifier-un-acte-d-etat-civil",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "changement-d-etat-civil",
+      "titre": "Changement d'état civil"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "F36495",
+  "type_publication": "Recherche guidée",
+  "titre": "[IR - Déclarer les revenus du covoiturage]",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "[IR - Déclarer les revenus du covoiturage]",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2025-12-22",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F36495",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Impôt sur le revenu : déclaration et revenus à déclarer",
+    "[IR - Déclarer les revenus du covoiturage]"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "ir-declarer-les-revenus-du-covoiturage",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "impot-sur-le-revenu-declaration-et-revenus-a-declarer",
+      "titre": "Impôt sur le revenu : déclaration et revenus à déclarer"
+    }
+  ]
+}

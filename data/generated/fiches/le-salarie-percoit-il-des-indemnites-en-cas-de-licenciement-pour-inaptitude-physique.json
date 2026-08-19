@@ -1,0 +1,58 @@
+{
+  "id": "F31225",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Le salarié perçoit-il des indemnités en cas de licenciement pour inaptitude physique ?",
+  "theme": "Travail - Formation",
+  "description": "Le salarié licencié perçoit des indemnités qui varient selon que l'inaptitude fait suite à un accident du travail ou à une maladie professionnelle ou non.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-08-11",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31225",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Licenciement d'un salarié du secteur privé pour motif personnel",
+    "Le salarié perçoit-il des indemnités en cas de licenciement pour inaptitude physique ?"
+  ],
+  "introduction": "Lorsque le salarié est déclaré inapte par le médecin du travail, s'il n'est pas reclassé sur un autre poste de travail, il peut être licencié. Les règles en matière d'indemnités de licenciement différent selon que le salarié est en CDI ou en CDD. Nous faisons le point sur la réglementation.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code du travail : articles L1226-2 à L1226-4-3",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000006195599/"
+    },
+    {
+      "titre": "Code du travail : articles L1226-10 à L1226-12",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006195603"
+    },
+    {
+      "titre": "Code du travail : articles L1226-13 à L1226-17",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006195604/"
+    },
+    {
+      "titre": "Code du travail : article L1226-20",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033024877"
+    },
+    {
+      "titre": "Code du travail : articles L1234-9 à L1234-11",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000035644154/"
+    },
+    {
+      "titre": "Code du travail : articles L1243-1 à L1243-13-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000006177867/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "le-salarie-percoit-il-des-indemnites-en-cas-de-licenciement-pour-inaptitude-physique",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "licenciement-d-un-salarie-du-secteur-prive-pour-motif-personnel",
+      "titre": "Licenciement d'un salarié du secteur privé pour motif personnel"
+    }
+  ]
+}

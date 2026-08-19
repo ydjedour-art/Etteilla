@@ -1,0 +1,64 @@
+{
+  "id": "F21258",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Passeport : comment acheter un timbre fiscal ?",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "En France, le timbre fiscal peut être acheté en ligne (timbre dématérialisé ou électronique) ou dans un bureau de tabac.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-08-17",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F21258",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Passeport",
+    "Passeport : comment acheter un timbre fiscal ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "La situation varie selon que vous vivez en France ou à l'étranger :"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général des impôts - Annexe 4 : articles 121 KM à 121 KM ter",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000038715072/"
+    },
+    {
+      "titre": "Code général des impôts, annexe 3 - Article 313 BA",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000038030281/"
+    },
+    {
+      "titre": "Code général des impôts : article 900",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041822888/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Achat en ligne du timbre fiscal - Passeport",
+      "url": "https://timbres.impots.gouv.fr",
+      "type": "selNG"
+    },
+    {
+      "titre": "Demander le remboursement d'un timbre électronique",
+      "url": "https://timbres.impots.gouv.fr",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "passeport-comment-acheter-un-timbre-fiscal",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "passeport",
+      "titre": "Passeport"
+    }
+  ]
+}

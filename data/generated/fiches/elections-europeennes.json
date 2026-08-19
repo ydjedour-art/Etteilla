@@ -1,0 +1,52 @@
+{
+  "id": "F1944",
+  "type_publication": "Fiche avec liens externes",
+  "titre": "Élections européennes",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Les députés du Parlement européen sont élus par les citoyens des pays de l'Union européenne lors des élections européennes.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-08-14",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1944",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Élections",
+    "Élections européennes"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les représentants au Parlement européen sont élus par les citoyens des pays de l'Union européenne lors des élections européennes. Il n'y a qu'un seul tour. La dernière élection des représentants français a eu lieu les 8 et 9 juin 2024.",
+        "La prochaine élection aura lieu en 2029."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Loi n°77-729 du 7 juillet 1977 relative à l'élection des représentants au Parlement européen",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006068600/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Vérifier votre inscription électorale et votre bureau de vote",
+      "url": "https://situation.elections.interieur.gouv.fr/",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "elections-europeennes",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "elections",
+      "titre": "Élections"
+    }
+  ]
+}

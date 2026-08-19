@@ -1,0 +1,130 @@
+{
+  "id": "F420",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Conduire en Europe (UE/EEE) avec un permis français",
+  "theme": "Transports - Mobilité",
+  "description": "Le permis de conduire français est valable pour conduire dans les autres pays de l'Espace économique européen (EEE).",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-08-22",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F420",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Conduire à l'étranger",
+    "Conduire en Europe (UE/EEE) avec un permis français"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "Peut-on conduire avec un permis français dans un pays européen (UE/EEE) si on y fait un court séjour ?",
+      "contenu": [
+        "Vous pouvez conduire avec votre permis français pendant un court séjour dans tous les pays européens. Par exemple, pendant des vacances.",
+        "Vous devez remplir les conditions suivantes :",
+        "• Avoir un permis en cours de validité",
+        "• Respecter les prescriptions médicales notées sur votre permis. Par exemple, port de lunettes obligatoire.",
+        "• Ne pas avoir été sanctionné par une suspension, une restriction ou une annulation de votre droit à conduire en France",
+        "• Avoir l'âge minimal requis pour conduire le véhicule de la catégorie équivalente de votre permis. Par exemple, le permis B permet de conduire une voiture à partir de 17 ans en France, alors qu’il faut être âgé de 18 ans dans certains pays européens. Renseignez-vous avant votre départ. Vous pouvez contacter l'ambassade ou le consulat du pays où vous allez.",
+        "Ambassade ou consulat étranger en France",
+        "[À savoir] Vous pouvez conduire avec votre permis français pendant un court séjour touristique dans les pays suivants : principauté d'Andorre, principauté de Monaco, Royaume-Uni, république de Saint-Marin, Suisse."
+      ]
+    },
+    {
+      "titre": "Peut-on conduire avec un permis français dans un pays européen (UE/EEE) pendant un long séjour ?",
+      "contenu": [
+        "Vous pouvez conduire avec votre permis français pendant un long séjour dans tous les pays européens. Par exemple si vous vous y installez et y résidez.",
+        "Vous devez remplir les conditions suivantes :",
+        "• Avoir un permis en cours de validité",
+        "• Respecter les prescriptions médicales notées sur votre permis. Par exemple, port de lunettes obligatoire.",
+        "• Ne pas avoir été sanctionné par une suspension, une restriction ou une annulation de votre droit à conduire en France",
+        "• Avoir l'âge minimal requis pour conduire le véhicule de la catégorie équivalente de votre permis. Par exemple, le permis B permet de conduire une voiture à partir de 17 ans en France alors qu’il faut être âgé de 18 ans dans certains pays européens. Renseignez-vous avant votre départ. Vous pouvez contacter l'ambassade ou le consulat du pays où vous allez.",
+        "Ambassade ou consulat étranger en France"
+      ]
+    },
+    {
+      "titre": "Peut-on échanger un permis de conduire français contre un permis délivré par un autre pays européen (UE/EEE) ?",
+      "contenu": [
+        "Si vous résidez dans un pays européen (UE/EEE), vous pouvez choisir d'échanger votre permis français contre un permis du pays où vous résidez. La démarche est facultative. Renseignez-vous auprès des autorités compétentes dans ce pays pour savoir comment faire la démarche.",
+        "Toutefois, vous devez obligatoirement demander l’échange de votre permis de conduire français contre un permis du pays où vous résidez dans les cas suivants :",
+        "• La validité de votre permis arrive à sa fin.",
+        "• Votre permis est perdu, volé ou détérioré.",
+        "• Vous avez commis une infraction routière dans le pays où vous résidez.",
+        "• Votre permis français est un ancien modèle valable valable jusqu'au 19 janvier 2033 (modèle rose cartonné) et votre pays de résidence exige son renouvellement après 2 ans de résidence normale. Selon le pays, la durée de validité du nouveau permis moto ou voiture sera de 10 ou 15 ans."
+      ]
+    },
+    {
+      "titre": "Peut-on conduire en Europe (UE/EEE) avec un permis français provisoire ou une attestation (ADCS) ?",
+      "contenu": [
+        "Vous ne pouvez pas conduire dans un autre pays européen avec une attestation de droits à conduire sécurisée ou un permis provisoire. Par exemple un certificat d'examen du permis de conduire (CEPC) ou un récépissé de déclaration de perte ou de vol du permis.",
+        "Ces documents sont valables uniquement en France."
+      ]
+    },
+    {
+      "titre": "Peut-on conduire en Europe (UE/EEE) avec un permis français obtenu en échange d'un permis non européen ?",
+      "contenu": [
+        "Si vous avez obtenu votre permis français en échange d'un permis non européen, vous pouvez conduire avec ce permis dans un autre pays européen pendant un court séjour touristique.",
+        "Toutefois, pour un séjour plus long, renseignez-vous avant votre départ pour connaître les règles applicables dans votre pays d'accueil. En effet, un permis français obtenu en échange d'un permis non européen n'est pas automatiquement reconnu par les autres pays européens. Vous pouvez contacter l'ambassade ou le consulat du pays concerné.",
+        "Ambassade ou consulat étranger en France"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la route : articles R222-1 à R222-8",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074228/LEGISCTA000006159563"
+    },
+    {
+      "titre": "Directive 2006/126 du 20 décembre 2006 relative au permis de conduire",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02006L0126-20201101"
+    },
+    {
+      "titre": "Décision (UE) 2016/1945 du 14 octobre 2016 concernant les équivalences entre les catégories de permis de conduire",
+      "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32016D1945"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Ambassade ou consulat étranger en France",
+    "France Titres - Permis de conduire"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Europe Direct : vous avez des questions sur l'UE ?",
+      "url": "https://europa.eu/european-union/contact_fr"
+    },
+    {
+      "titre": "Site officiel de l'Union européenne",
+      "url": "https://europa.eu/european-union/index_fr"
+    },
+    {
+      "titre": "Permis de conduire en Europe",
+      "url": "https://europa.eu/youreurope/citizens/vehicles/driving-licence/index_fr.htm"
+    },
+    {
+      "titre": "Conduire en Europe : assurance automobile et accidents",
+      "url": "http://europa.eu/youreurope/citizens/vehicles/insurance/index_fr.htm"
+    },
+    {
+      "titre": "Immatriculation d'un véhicule dans un autre pays de l'Union européenne",
+      "url": "http://europa.eu/youreurope/citizens/vehicles/registration/index_fr.htm"
+    },
+    {
+      "titre": "Conseils aux voyageurs",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs"
+    },
+    {
+      "titre": "Le Brexit, où en est-on ?",
+      "url": "https://brexit.gouv.fr/sites/brexit/accueil/le-brexit-br--cest-quoi.html"
+    }
+  ],
+  "slug": "conduire-en-europe-ue-eee-avec-un-permis-francais",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "conduire-a-l-etranger",
+      "titre": "Conduire à l'étranger"
+    }
+  ]
+}
