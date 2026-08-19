@@ -65,7 +65,11 @@ npm run dev
 **Portail visiteur (non connecté)**
 - `/` — Landing page (promesse, problème/solution, aperçu des démarches, aperçu des
   formules, confiance & sécurité, FAQ)
-- `/demarches` — Catalogue public des démarches couvertes, avec recherche et filtres
+- `/demarches` — Les 10 démarches prises en charge par IZY/D, puis exploration du
+  corpus complet (recherche + grille de thèmes)
+- `/demarches/[theme]` → `/demarches/[theme]/[dossier]` → `/demarches/[theme]/[dossier]/[fiche]`
+  — arborescence complète des ~2999 fiches pratiques Service-Public.gouv.fr (voir
+  [`data/README.md`](data/README.md))
 - `/tarifs` — Détail des 3 formules d'abonnement (bascule mensuel/annuel), comparatif
   complet, option à la carte, FAQ facturation
 - `/onboarding` — Parcours d'inscription en 4 étapes
@@ -78,6 +82,17 @@ npm run dev
 - `/app/coffre-fort` — Coffre-fort de documents
 - `/app/assistant` — Assistant conversationnel
 - `/app/profil` — Profil & abonnement
+
+## 📇 Arborescence des démarches (Service-Public.gouv.fr)
+
+Le corpus de fiches pratiques qui alimente `/demarches/**`, le script qui en
+dérive la navigation du site et le mapping éditorial des 10 démarches IZY/D
+vivent dans [`data/`](data/README.md) — provenance, licence (Etalab), et
+comment régénérer les données sur un `fiches.jsonl` plus récent.
+
+```bash
+npm run build:arbo   # Régénère data/generated/ à partir de data/fiches.jsonl
+```
 
 ## 🗄️ Modèle de données cible
 
