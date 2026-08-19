@@ -88,10 +88,13 @@ export interface Mandate {
   revokedAt: string | null;
 }
 
-/** Modèle tarifaire Sérénio : à l'acte (par démarche, prix selon complexité) +
- * abonnement mensuel optionnel "Sérénité" (surveillance, alertes, tarifs
- * préférentiels). Voir docs/03-fonctionnalites-mvp.md. */
-export type SubscriptionStatus = "aucun" | "serenite";
+/** Modèle tarifaire Sérénio : trois formules d'abonnement cohérentes et
+ * progressives (Essentiel, Sérénité, Zen Total) + une option "à la carte"
+ * sans engagement, payée à la démarche selon sa complexité ("aucun"). Le
+ * détail (prix, contenu) vit dans une source unique, `src/lib/plans.ts`, pour
+ * ne jamais désynchroniser la landing, /tarifs et /app/profil. Voir
+ * docs/03-fonctionnalites-mvp.md. */
+export type SubscriptionStatus = "aucun" | "essentiel" | "serenite" | "zen_total";
 
 export interface UserProfile {
   firstName: string;

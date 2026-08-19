@@ -1,36 +1,14 @@
 "use client";
 
 import { useRouter } from "next/navigation";
+import { CheckIcon } from "@/components/icons";
 import { useAppStore } from "@/lib/store";
-
-const ACTE_TIERS = [
-  {
-    name: "Identification + checklist",
-    price: "Gratuit",
-    description: "On identifie la démarche et on liste les pièces nécessaires.",
-  },
-  {
-    name: "Guidé simple (pilotage)",
-    price: "29–49 €",
-    description: "On vous pilote pas à pas jusqu'au bout.",
-  },
-  {
-    name: "Standard / hybride",
-    price: "59–99 €",
-    description: "Préparation complète, vous validez, on transmet.",
-  },
-  {
-    name: "Complexe / sensible",
-    price: "129–249 €",
-    description: "Titre de séjour, litiges, dossiers multi-organismes...",
-  },
-];
+import { ACTE_TIERS, PLANS } from "@/lib/plans";
 
 export default function ProfilPage() {
   const router = useRouter();
   const { state, setSubscription, exportData, resetAccount } = useAppStore();
   const { user } = state;
-  const subscribed = user.subscription === "serenite";
 
   function handleDelete() {
     const confirmed = window.confirm(
@@ -51,49 +29,70 @@ export default function ProfilPage() {
       </div>
 
       <section>
-        <h2 className="text-lg font-semibold text-ink">Abonnement Sérénité</h2>
+        <h2 className="text-lg font-semibold text-ink">Votre formule</h2>
         <p className="mt-1 text-sm text-ink-soft">
-          Chaque démarche reste payable à l&apos;acte (voir tarifs ci-dessous). L&apos;abonnement
-          ajoute la surveillance continue de vos échéances et des tarifs préférentiels.
+          Trois formules d&apos;abonnement, chacune incluant tout ce qu&apos;offre la
+          précédente. Vous changez ou résiliez en un geste, sans justification.
         </p>
-        <div
-          className={`mt-3 rounded-2xl border p-5 ${
-            subscribed ? "border-primary bg-primary-light" : "border-ink/10 bg-white"
-          }`}
-        >
-          <div className="flex items-center justify-between">
-            <p className="font-semibold text-ink">Sérénité</p>
-            <p className="text-sm font-medium text-ink-soft">à partir de 14,90 €/mois</p>
-          </div>
-          <ul className="mt-2 space-y-1 text-sm text-ink-soft">
-            <li>• Surveillance des échéances et alertes anticipées</li>
-            <li>• Priorité de traitement sur vos dossiers</li>
-            <li>• Tarifs préférentiels sur les actes payants</li>
-            <li>• 1 à 2 actes guidés inclus selon la formule</li>
-          </ul>
-          <button
-            type="button"
-            onClick={() => setSubscription(subscribed ? "aucun" : "serenite")}
-            className={`mt-4 inline-flex items-center justify-center gap-2 rounded-xl px-5 py-3 text-base font-medium transition-colors min-h-[44px] ${
-              subscribed
-                ? "bg-transparent text-critical hover:bg-critical/10"
-                : "bg-primary text-white hover:bg-primary-dark"
-            }`}
-          >
-            {subscribed ? "Résilier l'abonnement" : "S'abonner à Sérénité"}
-          </button>
-          {subscribed && (
-            <span className="ml-3 inline-block rounded-full bg-primary px-3 py-1 text-xs font-medium text-white">
-              Actif
-            </span>
-          )}
+
+        <div className="mt-3 grid gap-3 sm:grid-cols-3">
+          {PLANS.map((plan) => {
+            const active = user.subscription === plan.id;
+            return (
+              <div
+                key={plan.id}
+                className={`flex h-full flex-col rounded-2xl border p-5 ${
+                  active ? "border-primary bg-primary-light" : "border-ink/10 bg-white"
+                }`}
+              >
+                <div className="flex items-start justify-between gap-2">
+                  <p className="font-semibold text-ink">{plan.name}</p>
+                  {active && (
+                    <span className="inline-flex items-center gap-1 rounded-full bg-primary px-2.5 py-1 text-xs font-medium text-white">
+                      <CheckIcon className="h-3 w-3" /> Actif
+                    </span>
+                  )}
+                </div>
+                <p className="mt-1 text-sm font-medium text-ink-soft">
+                  {plan.monthlyPrice.toFixed(2).replace(".", ",").replace(",00", "")} €/mois
+                </p>
+                <ul className="mt-3 flex-1 space-y-1 text-sm text-ink-soft">
+                  {plan.features
+                    .filter((f) => !f.endsWith(":"))
+                    .slice(0, 4)
+                    .map((feature) => (
+                      <li key={feature}>• {feature}</li>
+                    ))}
+                </ul>
+                <button
+                  type="button"
+                  onClick={() => setSubscription(active ? "aucun" : plan.id)}
+                  className={`mt-4 inline-flex items-center justify-center gap-2 rounded-xl px-4 py-2.5 text-sm font-medium transition-colors min-h-[44px] ${
+                    active
+                      ? "bg-transparent text-critical hover:bg-critical/10"
+                      : "bg-primary text-white hover:bg-primary-dark"
+                  }`}
+                >
+                  {active ? "Résilier" : `Choisir ${plan.name}`}
+                </button>
+              </div>
+            );
+          })}
         </div>
+
+        {user.subscription === "aucun" && (
+          <p className="mt-3 text-sm text-ink-soft">
+            Vous n&apos;êtes abonné·e à aucune formule : vous payez uniquement les
+            démarches que vous lancez, à l&apos;acte (voir ci-dessous).
+          </p>
+        )}
       </section>
 
       <section>
         <h2 className="text-lg font-semibold text-ink">Tarifs à l&apos;acte</h2>
         <p className="mt-1 text-sm text-ink-soft">
-          Le prix dépend de la complexité de la démarche, pas d&apos;un forfait fixe.
+          Toujours disponibles, avec ou sans abonnement. Le prix dépend de la
+          complexité de la démarche, pas d&apos;un forfait fixe.
         </p>
         <div className="mt-3 space-y-3">
           {ACTE_TIERS.map((tier) => (

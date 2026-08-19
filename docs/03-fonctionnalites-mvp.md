@@ -111,10 +111,18 @@ juridiquement.
 | Standard / hybride | 59–99 € | Préparation complète, validation utilisateur, transmission |
 | Complexe / sensible | 129–249 € | Titre de séjour, litiges, dossiers multi-organismes |
 
-**Abonnement mensuel « Sérénité »** (cœur du modèle, revenus récurrents) : 14,90 € à
-24,90 €/mois. Inclut la surveillance des échéances, des alertes anticipées, une
-priorité de traitement, des tarifs préférentiels sur les actes, et 1 à 2 actes guidés
-inclus selon la formule.
+**Trois formules d'abonnement** (cœur du modèle, revenus récurrents), chacune incluant
+tout ce qu'offre la précédente — voir `src/lib/plans.ts` pour la source unique de ce
+tarif, consommée par la landing, `/tarifs` et `/app/profil` :
+
+| Formule | Prix | Contenu |
+|---|---|---|
+| Essentiel | 9,90 €/mois | Coffre-fort, détection auto, checklist, rappels d'échéance |
+| Sérénité | 19,90 €/mois | + surveillance continue multi-organismes, -20% sur l'à l'acte, 1 acte guidé offert/mois |
+| Zen Total | 39,90 €/mois | + actes illimités inclus, jusqu'à 3 profils, mandat permanent, concierge dédié |
+
+Facturation annuelle disponible sur les trois formules (2 mois offerts). L'option à
+l'acte reste disponible sans condition, y compris pour les abonné·es.
 
 Revenus additionnels envisageables à moyen terme : partenariats (mutuelles, énergie,
 banques), toujours affichés en toute transparence à l'utilisateur — jamais un

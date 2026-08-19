@@ -60,8 +60,16 @@ npm run dev
 ```
 
 Écrans disponibles :
-- `/` — Landing page (promesse, comment ça marche)
+
+**Portail visiteur (non connecté)**
+- `/` — Landing page (promesse, problème/solution, aperçu des démarches, aperçu des
+  formules, confiance & sécurité, FAQ)
+- `/demarches` — Catalogue public des démarches couvertes, avec recherche et filtres
+- `/tarifs` — Détail des 3 formules d'abonnement (bascule mensuel/annuel), comparatif
+  complet, option à la carte, FAQ facturation
 - `/onboarding` — Parcours d'inscription en 4 étapes
+
+**Espace connecté**
 - `/app` — Tableau de bord « Aujourd'hui »
 - `/app/formalites` — Catalogue de démarches + mes démarches en cours
 - `/app/formalites/[slug]` — Détail d'une démarche + lancement d'un dossier
