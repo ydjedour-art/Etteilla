@@ -2,17 +2,16 @@ import Link from "next/link";
 import { Button } from "@/components/Button";
 import { LockIcon, MapPinIcon, ShieldIcon, UsersIcon } from "@/components/icons";
 import { CtaBanner } from "@/components/marketing/CtaBanner";
+import { EspaceCard } from "@/components/marketing/EspaceCard";
 import { MarketingFooter } from "@/components/marketing/MarketingFooter";
 import { MarketingHeader } from "@/components/marketing/MarketingHeader";
 import { PricingPlans } from "@/components/marketing/PricingPlans";
 import { getFormalityTemplates } from "@/lib/data";
 
-// NOTE PHOTOGRAPHIE — cette page réserve des emplacements pour de vraies photos
-// (voir .official-photo-placeholder dans globals.css). Pour remplacer un
-// emplacement par une vraie photo : dépose le fichier dans /public/photos/ puis
-// remplace le <div className="official-photo-placeholder"> concerné par
-// `<img src="/photos/ton-fichier.jpg" className="h-full w-full object-cover" alt="…" />`.
-// Voir le README pour le détail.
+// Le visuel du hero est la carte "Ton espace" (src/components/marketing/EspaceCard.tsx),
+// un aperçu vivant du tableau de bord plutôt qu'une photo. La classe
+// .official-photo-placeholder (globals.css) reste dispo si une vraie photo
+// est ajoutée ailleurs plus tard — voir le README pour le détail.
 
 const CATEGORY_EMOJI: Record<string, string> = {
   Impôts: "📑",
@@ -110,19 +109,7 @@ export default async function LandingPage() {
             </p>
           </div>
 
-          <div className="relative mx-auto w-full max-w-sm">
-            <div
-              aria-hidden="true"
-              className="animate-float-glow pointer-events-none absolute -right-8 -top-8 h-40 w-40 rounded-full bg-flash/20 blur-2xl"
-            />
-            <div className="official-photo-placeholder relative aspect-[4/5] w-full overflow-hidden rounded-3xl shadow-xl" />
-            <div className="card-surface absolute -bottom-6 -left-6 w-60 p-4">
-              <p className="text-sm font-bold text-ink">🕊️ Dossier CAF</p>
-              <p className="mt-1 text-sm font-semibold text-success">
-                Envoyé et suivi pour toi
-              </p>
-            </div>
-          </div>
+          <EspaceCard />
         </div>
       </section>
 

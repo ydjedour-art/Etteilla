@@ -111,8 +111,23 @@ h4 {
   animation: float-glow 6s ease-in-out infinite;
 }
 
+/* Flottement doux de la carte "Ton espace" en hero. */
+@keyframes card-float {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-9px);
+  }
+}
+.animate-card-float {
+  animation: card-float 6s ease-in-out infinite;
+}
+
 @media (prefers-reduced-motion: reduce) {
-  .animate-float-glow {
+  .animate-float-glow,
+  .animate-card-float {
     animation: none;
   }
 }
