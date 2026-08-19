@@ -1,11 +1,26 @@
 import { CtaBanner } from "@/components/marketing/CtaBanner";
 import { DemarchesExplorer } from "@/components/marketing/DemarchesExplorer";
+import { FicheSearch, type SearchableFiche } from "@/components/marketing/FicheSearch";
 import { MarketingFooter } from "@/components/marketing/MarketingFooter";
 import { MarketingHeader } from "@/components/marketing/MarketingHeader";
+import { ThemeGrid } from "@/components/marketing/ThemeGrid";
 import { getFormalityTemplates } from "@/lib/data";
+import { getArborescence, getFicheIndex } from "@/lib/generated-data";
 
 export default async function DemarchesPage() {
-  const templates = await getFormalityTemplates();
+  const [templates, arborescence, index] = await Promise.all([
+    getFormalityTemplates(),
+    getArborescence(),
+    getFicheIndex(),
+  ]);
+
+  const searchIndex: SearchableFiche[] = index.map((entry) => ({
+    slug: entry.slug,
+    titre: entry.titre,
+    theme: entry.theme,
+    themeSlug: entry.themeSlug,
+    dossierSlug: entry.dossierSlug,
+  }));
 
   return (
     <main className="bg-white">
@@ -25,6 +40,26 @@ export default async function DemarchesPage() {
 
       <section className="mx-auto max-w-marketing px-6 py-16 sm:py-20">
         <DemarchesExplorer templates={templates} />
+      </section>
+
+      <section className="border-t border-ink/10 bg-surface py-16 sm:py-20">
+        <div className="mx-auto max-w-marketing px-6">
+          <h2 className="font-display text-2xl font-extrabold text-ink sm:text-3xl">
+            Explorer les {index.length} fiches officielles
+          </h2>
+          <p className="mt-2 max-w-xl text-ink-soft">
+            Le catalogue complet de Service-Public.gouv.fr, organisé par thème — pour
+            tout ce qu&apos;on ne prend pas encore en charge nous-mêmes.
+          </p>
+
+          <div className="mt-8 max-w-lg">
+            <FicheSearch index={searchIndex} />
+          </div>
+
+          <div className="mt-10">
+            <ThemeGrid arborescence={arborescence} />
+          </div>
+        </div>
       </section>
 
       <CtaBanner
