@@ -3,6 +3,7 @@ import { DemarchesExplorer } from "@/components/marketing/DemarchesExplorer";
 import { FicheSearch, type SearchableFiche } from "@/components/marketing/FicheSearch";
 import { MarketingFooter } from "@/components/marketing/MarketingFooter";
 import { MarketingHeader } from "@/components/marketing/MarketingHeader";
+import { SituationQuiz } from "@/components/marketing/SituationQuiz";
 import { ThemeGrid } from "@/components/marketing/ThemeGrid";
 import { getFormalityTemplates } from "@/lib/data";
 import { getArborescence, getFicheIndex } from "@/lib/generated-data";
@@ -29,17 +30,26 @@ export default async function DemarchesPage() {
       <section className="hero-glow border-b border-ink/10">
         <div className="mx-auto max-w-marketing px-6 py-16 text-center sm:py-20">
           <h1 className="font-display text-4xl font-extrabold leading-[1.05] text-ink sm:text-6xl">
-            {templates.length} démarches déjà prises en charge.
+            Qu&apos;est-ce qu&apos;on peut prendre en charge ?
           </h1>
           <p className="mx-auto mt-6 max-w-xl text-lg text-ink-soft">
-            CAF, impôts, URSSAF, titre de séjour, mutuelle. Chacune est documentée
-            à l&apos;avance — on sait déjà quelles pièces demander.
+            Une question, et on te dit tout de suite si c&apos;est pour nous.
           </p>
         </div>
       </section>
 
       <section className="mx-auto max-w-marketing px-6 py-16 sm:py-20">
-        <DemarchesExplorer templates={templates} />
+        <SituationQuiz templates={templates} />
+
+        <details className="group mx-auto mt-8 max-w-xl text-center">
+          <summary className="inline-flex cursor-pointer list-none items-center gap-1.5 text-sm font-bold text-ink-soft hover:text-ink">
+            Ou voir les {templates.length} démarches d&apos;un coup
+            <span aria-hidden="true" className="transition-transform group-open:rotate-90">→</span>
+          </summary>
+          <div className="mt-8 text-left">
+            <DemarchesExplorer templates={templates} />
+          </div>
+        </details>
       </section>
 
       <section className="border-t border-ink/10 bg-surface py-16 sm:py-20">
@@ -68,9 +78,8 @@ export default async function DemarchesPage() {
       </section>
 
       <CtaBanner
-        title="Ta situation n'est pas dans la liste ?"
-        text="Raconte-la en une phrase à l'inscription. On te dit si on peut déjà t'aider."
-        cta="Décrire ma situation"
+        title="Toujours pas trouvé ton cas ?"
+        text="On regarde ta situation avec toi, sans engagement."
       />
 
       <MarketingFooter />

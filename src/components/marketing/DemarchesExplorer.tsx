@@ -3,6 +3,7 @@
 import { useMemo, useState } from "react";
 import Link from "next/link";
 import { ArrowRightIcon, SearchIcon } from "@/components/icons";
+import { categoryEmoji } from "@/lib/category-emoji";
 import type { FormalityTemplate } from "@/lib/types";
 import { findDemarcheMapping } from "@data/demarches-izyd";
 
@@ -10,15 +11,6 @@ const AUTOMATION_LABELS: Record<FormalityTemplate["automationLevel"], string> = 
   guide: "On te guide",
   pre_rempli: "On pré-remplit",
   delegue: "On s'en occupe entièrement",
-};
-
-const CATEGORY_EMOJI: Record<string, string> = {
-  Impôts: "📑",
-  "Aides & allocations": "🏠",
-  Indépendant: "💼",
-  "Titre de séjour": "🛂",
-  Santé: "🏥",
-  "Vie quotidienne": "✉️",
 };
 
 /** Catalogue public des démarches couvertes — filtrable par catégorie et par
@@ -107,7 +99,7 @@ export function DemarchesExplorer({ templates }: { templates: FormalityTemplate[
               <div key={template.slug} className="card-interactive flex h-full flex-col p-5">
                 <div className="flex items-start justify-between gap-3">
                   <span aria-hidden="true" className="text-2xl">
-                    {CATEGORY_EMOJI[template.category] ?? "📄"}
+                    {categoryEmoji(template.category)}
                   </span>
                   <span className="whitespace-nowrap rounded-full bg-primary-light px-2.5 py-1 text-[11px] font-bold text-primary">
                     {AUTOMATION_LABELS[template.automationLevel]}

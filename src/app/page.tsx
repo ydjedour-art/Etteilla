@@ -6,21 +6,13 @@ import { EspaceCard } from "@/components/marketing/EspaceCard";
 import { MarketingFooter } from "@/components/marketing/MarketingFooter";
 import { MarketingHeader } from "@/components/marketing/MarketingHeader";
 import { PricingPlans } from "@/components/marketing/PricingPlans";
+import { categoryEmoji } from "@/lib/category-emoji";
 import { getFormalityTemplates } from "@/lib/data";
 
 // Le visuel du hero est la carte "Ton espace" (src/components/marketing/EspaceCard.tsx),
 // un aperçu vivant du tableau de bord plutôt qu'une photo. La classe
 // .official-photo-placeholder (globals.css) reste dispo si une vraie photo
 // est ajoutée ailleurs plus tard — voir le README pour le détail.
-
-const CATEGORY_EMOJI: Record<string, string> = {
-  Impôts: "📑",
-  "Aides & allocations": "🏠",
-  Indépendant: "💼",
-  "Titre de séjour": "🛂",
-  Santé: "🏥",
-  "Vie quotidienne": "✉️",
-};
 
 const STEPS = [
   {
@@ -168,7 +160,7 @@ export default async function LandingPage() {
                 className="card-interactive flex items-center gap-3 p-4"
               >
                 <span aria-hidden="true" className="text-2xl">
-                  {CATEGORY_EMOJI[template.category] ?? "📄"}
+                  {categoryEmoji(template.category)}
                 </span>
                 <span>
                   <span className="block font-semibold text-ink">{template.name}</span>
