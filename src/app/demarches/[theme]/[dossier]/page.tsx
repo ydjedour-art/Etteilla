@@ -6,6 +6,7 @@ import { FicheDetail } from "@/components/marketing/FicheDetail";
 import { MarketingFooter } from "@/components/marketing/MarketingFooter";
 import { MarketingHeader } from "@/components/marketing/MarketingHeader";
 import { getArborescence, getFicheContent, resolveThemeChild } from "@/lib/generated-data";
+import { themeEmoji } from "@/lib/theme-emoji";
 
 // Ce segment recouvre deux cas : un vrai dossier (on liste ses fiches) ou,
 // pour les thèmes sans niveau dossier dans la source (ex. "Comment faire
@@ -35,6 +36,7 @@ export default async function DossierOrFichePage({
     return (
       <FicheDetail
         fiche={fiche}
+        themeSlug={theme.slug}
         breadcrumb={[
           { label: "Démarches", href: "/demarches" },
           { label: theme.titre, href: `/demarches/${theme.slug}` },
@@ -59,7 +61,8 @@ export default async function DossierOrFichePage({
               { label: dossier.titre },
             ]}
           />
-          <h1 className="mt-4 font-display text-3xl font-extrabold leading-[1.1] text-ink sm:text-4xl">
+          <h1 className="mt-4 flex items-center gap-3 font-display text-3xl font-extrabold leading-[1.1] text-ink sm:text-4xl">
+            <span aria-hidden="true">{themeEmoji(theme.slug)}</span>
             {dossier.titre}
           </h1>
           <p className="mt-2 text-ink-soft">
@@ -77,7 +80,10 @@ export default async function DossierOrFichePage({
                 href={`/demarches/${theme.slug}/${dossier.slug}/${fiche.slug}`}
                 className="card-interactive flex h-full flex-col p-5"
               >
-                <h2 className="font-display text-base font-extrabold text-ink">{fiche.titre}</h2>
+                <span aria-hidden="true" className="text-xl">
+                  {themeEmoji(theme.slug)}
+                </span>
+                <h2 className="mt-2 font-display text-base font-extrabold text-ink">{fiche.titre}</h2>
                 {fiche.description && (
                   <p className="mt-2 line-clamp-3 text-sm text-ink-soft">{fiche.description}</p>
                 )}

@@ -34,6 +34,7 @@ export default async function FichePage({
   return (
     <FicheDetail
       fiche={content}
+      themeSlug={theme.slug}
       breadcrumb={[
         { label: "Démarches", href: "/demarches" },
         { label: theme.titre, href: `/demarches/${theme.slug}` },

@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { themeEmoji } from "@/lib/theme-emoji";
 import type { Arborescence } from "@/types/fiches";
 
 /** Grille des thèmes de premier niveau, avec le nombre de fiches qu'ils
@@ -22,15 +23,18 @@ export function ThemeGrid({ arborescence }: { arborescence: Arborescence }) {
   const themes = arborescence.filter((t) => !isDegenerate(t));
 
   return (
-    <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+    <div className="flex flex-wrap gap-2.5">
       {themes.map((theme) => (
         <Link
           key={theme.slug}
           href={`/demarches/${theme.slug}`}
-          className="card-interactive flex h-full flex-col p-5"
+          className="inline-flex items-center gap-2 rounded-full border border-ink/10 bg-white py-2 pl-2.5 pr-4 text-sm font-semibold text-ink transition-colors hover:border-primary hover:bg-primary-light"
         >
-          <h3 className="font-display text-base font-extrabold text-ink">{theme.titre}</h3>
-          <p className="mt-1 text-sm text-ink-soft">{countFiches(theme)} fiches</p>
+          <span aria-hidden="true" className="text-lg">
+            {themeEmoji(theme.slug)}
+          </span>
+          {theme.titre}
+          <span className="text-xs font-normal text-ink-soft">{countFiches(theme)}</span>
         </Link>
       ))}
     </div>

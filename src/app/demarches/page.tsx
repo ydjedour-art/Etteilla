@@ -43,22 +43,27 @@ export default async function DemarchesPage() {
       </section>
 
       <section className="border-t border-ink/10 bg-surface py-16 sm:py-20">
-        <div className="mx-auto max-w-marketing px-6">
-          <h2 className="font-display text-2xl font-extrabold text-ink sm:text-3xl">
-            Explorer les {index.length} fiches officielles
+        <div className="mx-auto max-w-lg px-6 text-center">
+          <h2 className="font-display text-xl font-extrabold text-ink">
+            Pas dans la liste ? 🔍
           </h2>
-          <p className="mt-2 max-w-xl text-ink-soft">
-            Le catalogue complet de Service-Public.gouv.fr, organisé par thème — pour
-            tout ce qu&apos;on ne prend pas encore en charge nous-mêmes.
+          <p className="mt-2 text-sm text-ink-soft">
+            On garde aussi les {index.length} fiches officielles de Service-Public.gouv.fr,
+            au cas où.
           </p>
-
-          <div className="mt-8 max-w-lg">
+          <div className="mt-6 text-left">
             <FicheSearch index={searchIndex} />
           </div>
 
-          <div className="mt-10">
-            <ThemeGrid arborescence={arborescence} />
-          </div>
+          <details className="group mt-6">
+            <summary className="inline-flex cursor-pointer list-none items-center gap-1.5 text-sm font-bold text-primary">
+              Ou parcourir par thème
+              <span aria-hidden="true" className="transition-transform group-open:rotate-90">→</span>
+            </summary>
+            <div className="mt-6 text-left">
+              <ThemeGrid arborescence={arborescence} />
+            </div>
+          </details>
         </div>
       </section>
 
