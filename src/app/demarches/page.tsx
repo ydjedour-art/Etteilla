@@ -3,8 +3,8 @@ import { DemarchesExplorer } from "@/components/marketing/DemarchesExplorer";
 import { FicheSearch, type SearchableFiche } from "@/components/marketing/FicheSearch";
 import { MarketingFooter } from "@/components/marketing/MarketingFooter";
 import { MarketingHeader } from "@/components/marketing/MarketingHeader";
-import { SituationQuiz } from "@/components/marketing/SituationQuiz";
 import { ThemeGrid } from "@/components/marketing/ThemeGrid";
+import { TriageChat } from "@/components/marketing/TriageChat";
 import { getFormalityTemplates } from "@/lib/data";
 import { getArborescence, getFicheIndex } from "@/lib/generated-data";
 
@@ -39,7 +39,7 @@ export default async function DemarchesPage() {
       </section>
 
       <section className="mx-auto max-w-marketing px-6 py-16 sm:py-20">
-        <SituationQuiz templates={templates} />
+        <TriageChat />
 
         <details className="group mx-auto mt-8 max-w-xl text-center">
           <summary className="inline-flex cursor-pointer list-none items-center gap-1.5 text-sm font-bold text-ink-soft hover:text-ink">

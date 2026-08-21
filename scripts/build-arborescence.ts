@@ -198,6 +198,7 @@ async function run() {
       dossierSlug: dossierSeg?.slug ?? null,
       url: raw.url,
       date_modif: raw.date_modif,
+      description: raw.description,
     });
 
     const generatedFiche: GeneratedFiche = {

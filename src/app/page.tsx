@@ -6,6 +6,7 @@ import { EspaceCard } from "@/components/marketing/EspaceCard";
 import { MarketingFooter } from "@/components/marketing/MarketingFooter";
 import { MarketingHeader } from "@/components/marketing/MarketingHeader";
 import { PricingPlans } from "@/components/marketing/PricingPlans";
+import { TriageChat } from "@/components/marketing/TriageChat";
 import { categoryEmoji } from "@/lib/category-emoji";
 import { getFormalityTemplates } from "@/lib/data";
 
@@ -117,6 +118,22 @@ export default async function LandingPage() {
         <p className="mt-4 max-w-xl font-display text-xl font-extrabold text-primary">
           On s&apos;en occupe. Une démarche de moins à porter.
         </p>
+      </section>
+
+      {/* Triage IA */}
+      <section className="border-y border-ink/10 bg-surface py-16 sm:py-20">
+        <div className="mx-auto max-w-marketing px-6">
+          <h2 className="text-center font-display text-2xl font-extrabold text-ink sm:text-3xl">
+            On te dit tout de suite si c&apos;est pour nous
+          </h2>
+          <p className="mx-auto mt-3 max-w-xl text-center text-ink-soft">
+            Décris ta situation, réponds à quelques questions, on identifie la bonne
+            démarche parmi des milliers de fiches officielles.
+          </p>
+          <div className="mt-10">
+            <TriageChat />
+          </div>
+        </div>
       </section>
 
       {/* Stats */}

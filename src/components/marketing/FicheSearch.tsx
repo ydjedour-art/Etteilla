@@ -3,6 +3,7 @@
 import { useMemo, useState } from "react";
 import Link from "next/link";
 import { SearchIcon } from "@/components/icons";
+import { ficheHref } from "@/lib/fiche-href";
 
 export interface SearchableFiche {
   slug: string;
@@ -13,12 +14,6 @@ export interface SearchableFiche {
 }
 
 const MAX_RESULTS = 30;
-
-function ficheHref(entry: SearchableFiche): string {
-  const middle = entry.dossierSlug ?? entry.slug;
-  const tail = entry.dossierSlug ? `/${entry.slug}` : "";
-  return `/demarches/${entry.themeSlug}/${middle}${tail}`;
-}
 
 /** Recherche simple côté client sur l'index plat (titre + thème) — filtre en
  * mémoire, sans dépendance externe : suffisant pour 2999 entrées. */

@@ -98,6 +98,10 @@ export interface FicheIndexEntry {
   dossierSlug: string | null;
   url: string;
   date_modif: string;
+  /** Chapô court de la fiche (dc:description) — utilisé par la recherche
+   * client (FicheSearch) et par la recherche de candidats du triage IA
+   * (src/lib/triage/search.ts), en plus du titre. */
+  description: string;
 }
 
 export type FicheIndex = FicheIndexEntry[];
