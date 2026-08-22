@@ -4,7 +4,10 @@
 // le reste du repo (pas de dépendance ajoutée pour peu).
 
 const GROQ_ENDPOINT = "https://api.groq.com/openai/v1/chat/completions";
-const MODEL = "llama-3.3-70b-versatile";
+// llama-3.3-70b-versatile a été déprécié par Groq (17 juin 2026, tiers
+// gratuit/développeur). Migré vers leur remplacement recommandé :
+// https://console.groq.com/docs/deprecations
+const MODEL = "openai/gpt-oss-120b";
 const TIMEOUT_MS = 15_000;
 
 export interface GroqMessage {
