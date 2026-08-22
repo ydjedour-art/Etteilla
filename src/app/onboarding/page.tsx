@@ -76,8 +76,8 @@ export default function OnboardingPage() {
                 onClick={() => setStatus(option)}
                 className={`rounded-2xl border p-4 text-left font-medium transition-colors ${
                   status === option
-                    ? "border-primary bg-primary-light text-primary"
-                    : "border-ink/10 bg-white text-ink hover:border-primary/40"
+                    ? "border-primary bg-primary/10 text-primary"
+                    : "border-ink/10 bg-card text-ink hover:border-primary/40"
                 }`}
               >
                 {option}
@@ -106,8 +106,8 @@ export default function OnboardingPage() {
                 onClick={() => setSituation(option.value)}
                 className={`rounded-2xl border p-4 text-left font-medium transition-colors ${
                   situation === option.value
-                    ? "border-primary bg-primary-light text-primary"
-                    : "border-ink/10 bg-white text-ink hover:border-primary/40"
+                    ? "border-primary bg-primary/10 text-primary"
+                    : "border-ink/10 bg-card text-ink hover:border-primary/40"
                 }`}
               >
                 {option.label}
@@ -135,7 +135,7 @@ export default function OnboardingPage() {
             {detected.map((item) => (
               <label
                 key={item}
-                className="flex items-center gap-3 rounded-2xl border border-ink/10 bg-white p-4"
+                className="flex items-center gap-3 rounded-2xl border border-ink/10 bg-card p-4"
               >
                 <input
                   type="checkbox"

@@ -126,7 +126,7 @@ export function TriageChat() {
             if (!question) return null;
             return (
               <div key={i} className="flex justify-start">
-                <div className="max-w-[85%] rounded-2xl bg-primary-light px-4 py-2.5 text-sm text-ink">
+                <div className="max-w-[85%] rounded-2xl bg-primary/10 px-4 py-2.5 text-sm text-ink">
                   {question}
                 </div>
               </div>
@@ -137,7 +137,7 @@ export function TriageChat() {
 
       {loading && (
         <div className="mt-3 flex justify-start">
-          <div className="rounded-2xl bg-primary-light px-4 py-2.5 text-sm text-ink-soft">
+          <div className="rounded-2xl bg-primary/10 px-4 py-2.5 text-sm text-ink-soft">
             On regarde… 🔍
           </div>
         </div>

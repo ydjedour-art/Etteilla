@@ -67,7 +67,7 @@ export default function CoffreFortPage() {
       {formOpen && (
         <form
           onSubmit={handleSubmit}
-          className="space-y-4 rounded-2xl border border-ink/10 bg-white p-5"
+          className="space-y-4 rounded-2xl border border-ink/10 bg-card p-5"
         >
           <div>
             <label htmlFor="doc-type" className="text-sm font-medium text-ink">
@@ -95,7 +95,7 @@ export default function CoffreFortPage() {
               id="doc-file"
               type="file"
               onChange={handleFileChange}
-              className="mt-2 w-full text-sm text-ink-soft file:mr-4 file:rounded-xl file:border-0 file:bg-primary-light file:px-4 file:py-2 file:font-medium file:text-primary"
+              className="mt-2 w-full text-sm text-ink-soft file:mr-4 file:rounded-xl file:border-0 file:bg-primary/10 file:px-4 file:py-2 file:font-medium file:text-primary"
             />
           </div>
 

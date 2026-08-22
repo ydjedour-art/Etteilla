@@ -45,7 +45,7 @@ export default function MandatPage({ params }: { params: { id: string } }) {
         </Button>
       </div>
 
-      <div className="mx-auto max-w-2xl rounded-2xl border border-ink/10 bg-white p-10">
+      <div className="mx-auto max-w-2xl rounded-2xl border border-ink/10 bg-card p-10">
         <p className="text-center text-xs uppercase tracking-widest text-ink-soft">
           Mandat de représentation
         </p>
@@ -59,7 +59,7 @@ export default function MandatPage({ params }: { params: { id: string } }) {
             aux fins de représentation pour la démarche suivante :
           </p>
 
-          <div className="rounded-xl bg-primary-light p-4">
+          <div className="rounded-xl bg-primary/10 p-4">
             <p className="font-semibold text-ink">{template.name}</p>
             <p className="text-sm text-ink-soft">Auprès de : {template.organisme}</p>
           </div>

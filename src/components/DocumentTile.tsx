@@ -17,7 +17,7 @@ const VALIDITY_STYLES: Record<VaultDocument["validityStatus"], string> = {
 
 export function DocumentTile({ document }: { document: VaultDocument }) {
   return (
-    <div className="rounded-2xl border border-ink/10 bg-white p-4">
+    <div className="rounded-2xl border border-ink/10 bg-card p-4">
       <div className="flex items-start justify-between gap-3">
         <div>
           <p className="text-sm text-ink-soft">{document.type}</p>

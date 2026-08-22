@@ -50,7 +50,7 @@ export function DemarchesExplorer({ templates }: { templates: FormalityTemplate[
             value={query}
             onChange={(e) => setQuery(e.target.value)}
             placeholder="Chercher une démarche…"
-            className="w-full rounded-xl border border-ink/10 bg-white py-2.5 pl-10 pr-4 text-sm text-ink placeholder:text-ink-soft/70 focus:border-primary focus:outline-none"
+            className="w-full rounded-xl border border-ink/10 bg-card py-2.5 pl-10 pr-4 text-sm text-ink placeholder:text-ink-soft/70 focus:border-primary focus:outline-none"
           />
         </label>
         <div className="flex flex-wrap gap-2">
@@ -60,7 +60,7 @@ export function DemarchesExplorer({ templates }: { templates: FormalityTemplate[
             className={`rounded-full px-3.5 py-1.5 text-xs font-bold transition-colors ${
               category === null
                 ? "bg-primary text-white"
-                : "bg-white text-ink-soft ring-1 ring-inset ring-ink/10 hover:text-ink"
+                : "bg-card text-ink-soft ring-1 ring-inset ring-ink/10 hover:text-ink"
             }`}
           >
             Toutes
@@ -73,7 +73,7 @@ export function DemarchesExplorer({ templates }: { templates: FormalityTemplate[
               className={`rounded-full px-3.5 py-1.5 text-xs font-bold transition-colors ${
                 category === cat
                   ? "bg-primary text-white"
-                  : "bg-white text-ink-soft ring-1 ring-inset ring-ink/10 hover:text-ink"
+                  : "bg-card text-ink-soft ring-1 ring-inset ring-ink/10 hover:text-ink"
               }`}
             >
               {cat}
@@ -84,7 +84,7 @@ export function DemarchesExplorer({ templates }: { templates: FormalityTemplate[
 
       {/* Résultats */}
       {filtered.length === 0 ? (
-        <div className="mt-10 rounded-2xl border border-dashed border-ink/20 bg-white p-10 text-center">
+        <div className="mt-10 rounded-2xl border border-dashed border-ink/20 bg-card p-10 text-center">
           <p className="font-bold text-ink">Aucune démarche ne correspond à ta recherche.</p>
           <p className="mt-1 text-sm text-ink-soft">
             La liste s&apos;élargit régulièrement — raconte-nous ta situation, on te dira
@@ -101,7 +101,7 @@ export function DemarchesExplorer({ templates }: { templates: FormalityTemplate[
                   <span aria-hidden="true" className="text-2xl">
                     {categoryEmoji(template.category)}
                   </span>
-                  <span className="whitespace-nowrap rounded-full bg-primary-light px-2.5 py-1 text-[11px] font-bold text-primary">
+                  <span className="whitespace-nowrap rounded-full bg-primary/10 px-2.5 py-1 text-[11px] font-bold text-primary">
                     {AUTOMATION_LABELS[template.automationLevel]}
                   </span>
                 </div>

@@ -49,7 +49,7 @@ export default async function DossierOrFichePage({
   const dossier = node;
 
   return (
-    <main className="bg-white">
+    <main>
       <MarketingHeader />
 
       <section className="border-b border-ink/10 bg-surface">

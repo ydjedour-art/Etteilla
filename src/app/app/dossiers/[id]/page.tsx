@@ -54,7 +54,7 @@ export default function DossierDetailPage({ params }: { params: { id: string } }
       )}
 
       {dossier.missingDocuments.length === 0 && dossier.status === "pret_a_soumettre" && (
-        <div className="rounded-2xl bg-primary-light p-5">
+        <div className="rounded-2xl bg-primary/10 p-5">
           <p className="font-medium text-primary">Votre dossier est prêt</p>
           <p className="mt-1 text-sm text-ink-soft">
             Toutes les pièces sont réunies. Un dernier coup d&apos;œil et c&apos;est envoyé.

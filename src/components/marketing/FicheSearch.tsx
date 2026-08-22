@@ -37,12 +37,12 @@ export function FicheSearch({ index }: { index: SearchableFiche[] }) {
           value={query}
           onChange={(e) => setQuery(e.target.value)}
           placeholder={`Chercher parmi les ${index.length} fiches…`}
-          className="w-full rounded-xl border border-ink/10 bg-white py-3 pl-11 pr-4 text-sm text-ink placeholder:text-ink-soft/70 focus:border-primary focus:outline-none"
+          className="w-full rounded-xl border border-ink/10 bg-card py-3 pl-11 pr-4 text-sm text-ink placeholder:text-ink-soft/70 focus:border-primary focus:outline-none"
         />
       </label>
 
       {query.trim().length >= 2 && (
-        <div className="mt-3 max-h-96 overflow-y-auto rounded-xl border border-ink/10 bg-white">
+        <div className="mt-3 max-h-96 overflow-y-auto rounded-xl border border-ink/10 bg-card">
           {results.length === 0 ? (
             <p className="p-4 text-sm text-ink-soft">Aucune fiche ne correspond à &laquo; {query} &raquo;.</p>
           ) : (

@@ -23,7 +23,7 @@ export default async function ThemePage({ params }: { params: { theme: string } 
     fichesDirectes.length;
 
   return (
-    <main className="bg-white">
+    <main>
       <MarketingHeader />
 
       <section className="border-b border-ink/10 bg-surface">

@@ -45,7 +45,7 @@ export function SituationIntake() {
   }
 
   return (
-    <div className="rounded-2xl border border-primary/15 bg-white p-6">
+    <div className="rounded-2xl border border-primary/15 bg-card p-6">
       <p className="text-xs font-semibold uppercase tracking-wide text-primary">
         Assistant IZY/D
       </p>
@@ -110,7 +110,7 @@ export function SituationIntake() {
             return (
               <div
                 key={template.slug}
-                className="rounded-xl border border-primary/20 bg-primary-light/40 p-4"
+                className="rounded-xl border border-primary/20 bg-primary/10 p-4"
               >
                 <p className="text-xs font-medium text-ink-soft">{template.organisme}</p>
                 <p className="font-semibold text-ink">{template.name}</p>

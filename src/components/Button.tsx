@@ -20,13 +20,14 @@ type ButtonAsButton = CommonProps & {
   disabled?: boolean;
 };
 
-// Bouton d'action = jaune citron (couleur de marque n°2), toujours du texte
-// foncé dessus — c'est la seule couleur d'action du site, pour qu'on ne se
-// demande jamais "quel bouton cliquer" (charte IZY/D, empruntée à YD
-// Formation). Le bleu Klein sert de fond de grands blocs, pas de bouton.
+// Bouton d'action = fond --primary (teal en sombre, rose soutenu en clair),
+// texte blanc — seule couleur d'action du site, pour qu'on ne se demande
+// jamais "quel bouton cliquer". --accent (lime/rose vif) reste réservé aux
+// surlignages et bordures actives : à ces tailles de texte, un fond accent
+// ne passe pas WCAG AA en mode clair (charte IZY/D v3).
 const VARIANT_STYLES: Record<NonNullable<CommonProps["variant"]>, string> = {
-  primary: "bg-accent text-accent-foreground shadow-sm shadow-accent/30 hover:opacity-90 hover:shadow-md hover:shadow-accent/40",
-  secondary: "bg-primary-light text-primary hover:bg-primary-light/70",
+  primary: "bg-primary text-white shadow-sm shadow-primary/30 hover:bg-primary-hover hover:shadow-md hover:shadow-primary/30",
+  secondary: "bg-primary/10 text-primary hover:bg-primary/15",
   ghost: "bg-transparent text-ink hover:bg-ink/5",
 };
 

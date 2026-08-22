@@ -26,7 +26,7 @@ const BILLING_FAQS = [
 
 export default function TarifsPage() {
   return (
-    <main className="bg-white">
+    <main>
       <MarketingHeader />
 
       {/* Hero */}
@@ -55,8 +55,8 @@ export default function TarifsPage() {
             Le détail, sans zone d&apos;ombre
           </h2>
 
-          <div className="mt-10 overflow-x-auto rounded-2xl border border-ink/10 bg-white">
-            <table className="w-full min-w-[640px] border-collapse bg-white text-left text-sm">
+          <div className="mt-10 overflow-x-auto rounded-2xl border border-ink/10 bg-card">
+            <table className="w-full min-w-[640px] border-collapse bg-card text-left text-sm">
               <thead>
                 <tr className="border-b border-ink/10 bg-surface">
                   <th className="px-5 py-4 font-semibold text-ink-soft">Fonctionnalité</th>
@@ -103,7 +103,7 @@ export default function TarifsPage() {
         <h2 className="text-center font-display text-2xl font-extrabold text-ink sm:text-3xl">
           Questions sur la facturation
         </h2>
-        <div className="mt-10 divide-y divide-ink/10 rounded-2xl border border-ink/10 bg-white">
+        <div className="mt-10 divide-y divide-ink/10 rounded-2xl border border-ink/10 bg-card">
           {BILLING_FAQS.map((faq) => (
             <details key={faq.question} className="group p-6">
               <summary className="flex cursor-pointer list-none items-center justify-between gap-4 font-bold text-ink">

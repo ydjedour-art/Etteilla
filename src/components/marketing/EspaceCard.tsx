@@ -71,7 +71,7 @@ export function EspaceCard() {
             <p className="font-display text-lg font-extrabold text-ink">Ton espace</p>
             <p className="mt-0.5 text-sm text-ink-soft">3 démarches suivies · 0 en retard</p>
           </div>
-          <span className="whitespace-nowrap rounded-full bg-accent px-3 py-1.5 text-xs font-bold text-accent-foreground">
+          <span className="whitespace-nowrap rounded-full bg-primary px-3 py-1.5 text-xs font-bold text-white">
             Tout est sous contrôle
           </span>
         </div>
@@ -85,7 +85,7 @@ export function EspaceCard() {
                 key={row.title}
                 className="flex items-center gap-3 rounded-2xl border border-ink/10 bg-surface p-3.5"
               >
-                <span className="flex h-9 w-9 shrink-0 items-center justify-center rounded-xl border border-ink/10 bg-white text-lg">
+                <span className="flex h-9 w-9 shrink-0 items-center justify-center rounded-xl border border-ink/10 bg-card text-lg">
                   {row.icon}
                 </span>
                 <span className="min-w-0 flex-1">

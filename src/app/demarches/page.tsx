@@ -24,7 +24,7 @@ export default async function DemarchesPage() {
   }));
 
   return (
-    <main className="bg-white">
+    <main>
       <MarketingHeader />
 
       <section className="hero-glow border-b border-ink/10">

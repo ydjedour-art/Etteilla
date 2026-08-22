@@ -42,7 +42,7 @@ export default function ProfilPage() {
               <div
                 key={plan.id}
                 className={`flex h-full flex-col rounded-2xl border p-5 ${
-                  active ? "border-primary bg-primary-light" : "border-ink/10 bg-white"
+                  active ? "border-primary bg-primary/10" : "border-ink/10 bg-card"
                 }`}
               >
                 <div className="flex items-start justify-between gap-2">
@@ -70,7 +70,7 @@ export default function ProfilPage() {
                   className={`mt-4 inline-flex items-center justify-center gap-2 rounded-xl px-4 py-2.5 text-sm font-bold transition-colors min-h-[44px] ${
                     active
                       ? "bg-transparent text-critical hover:bg-critical/10"
-                      : "bg-accent text-accent-foreground hover:opacity-90"
+                      : "bg-primary text-white hover:bg-primary-hover"
                   }`}
                 >
                   {active ? "Résilier" : `Choisir ${plan.name}`}
@@ -96,7 +96,7 @@ export default function ProfilPage() {
         </p>
         <div className="mt-3 space-y-3">
           {ACTE_TIERS.map((tier) => (
-            <div key={tier.name} className="rounded-2xl border border-ink/10 bg-white p-4">
+            <div key={tier.name} className="rounded-2xl border border-ink/10 bg-card p-4">
               <div className="flex items-center justify-between">
                 <p className="font-medium text-ink">{tier.name}</p>
                 <p className="text-sm font-semibold text-primary">{tier.price}</p>
@@ -117,7 +117,7 @@ export default function ProfilPage() {
           <button
             type="button"
             onClick={exportData}
-            className="inline-flex items-center justify-center gap-2 rounded-xl bg-primary-light px-5 py-3 text-base font-medium text-primary transition-colors hover:bg-primary-light/70 min-h-[44px]"
+            className="inline-flex items-center justify-center gap-2 rounded-xl bg-primary/10 px-5 py-3 text-base font-medium text-primary transition-colors hover:bg-primary/15 min-h-[44px]"
           >
             Exporter mes données
           </button>

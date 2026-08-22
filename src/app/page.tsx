@@ -68,14 +68,14 @@ export default async function LandingPage() {
   const featuredTemplates = templates.slice(0, 6);
 
   return (
-    <main className="bg-white">
+    <main>
       <MarketingHeader />
 
       {/* Hero */}
       <section className="hero-glow border-b border-ink/10">
         <div className="mx-auto grid max-w-marketing items-center gap-12 px-6 py-16 sm:py-24 lg:grid-cols-2">
           <div>
-            <span className="inline-flex items-center gap-2 rounded-full border border-ink/10 bg-white px-3 py-1.5 text-sm font-semibold text-ink-soft">
+            <span className="inline-flex items-center gap-2 rounded-full border border-ink/10 bg-card px-3 py-1.5 text-sm font-semibold text-ink-soft">
               <span aria-hidden="true" className="h-2 w-2 rounded-full bg-accent" />
               Conciergerie administrative · 100 % en ligne
             </span>
@@ -223,7 +223,7 @@ export default async function LandingPage() {
               <figure key={scenario.name} className="card-surface flex h-full flex-col p-6">
                 <blockquote className="flex-1 text-ink">&laquo; {scenario.quote} &raquo;</blockquote>
                 <figcaption className="mt-5 flex items-center gap-3">
-                  <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-primary-light font-display text-sm font-extrabold text-primary">
+                  <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-primary/10 font-display text-sm font-extrabold text-primary">
                     {scenario.initials}
                   </span>
                   <span>

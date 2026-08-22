@@ -9,8 +9,8 @@ import { themeEmoji } from "@/lib/theme-emoji";
 import type { GeneratedFiche } from "@/types/fiches";
 
 const CALLOUT_LABELS: Record<string, string> = {
-  "À noter": "bg-primary-light text-primary",
-  "À savoir": "bg-primary-light text-primary",
+  "À noter": "bg-primary/10 text-primary",
+  "À savoir": "bg-primary/10 text-primary",
   Exemple: "bg-surface text-ink-soft",
   Rappel: "bg-surface text-ink-soft",
   Attention: "bg-attention/10 text-attention",
@@ -87,7 +87,7 @@ export function FicheDetail({
   const hasMore = fiche.references.length > 0 || fiche.pour_en_savoir_plus.length > 0;
 
   return (
-    <main className="bg-white">
+    <main>
       <MarketingHeader />
 
       <div className="mx-auto max-w-content px-6 py-10 sm:py-14">
@@ -104,7 +104,7 @@ export function FicheDetail({
 
         <Link
           href="/onboarding"
-          className="mt-6 inline-flex items-center gap-1.5 rounded-full bg-accent px-4 py-2 text-sm font-bold text-accent-foreground hover:opacity-90"
+          className="mt-6 inline-flex items-center gap-1.5 rounded-full bg-primary px-4 py-2 text-sm font-bold text-white hover:bg-primary-hover"
         >
           😌 On s&apos;en occupe pour toi <ArrowRightIcon className="h-4 w-4" />
         </Link>

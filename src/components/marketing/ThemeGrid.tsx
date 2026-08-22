@@ -28,7 +28,7 @@ export function ThemeGrid({ arborescence }: { arborescence: Arborescence }) {
         <Link
           key={theme.slug}
           href={`/demarches/${theme.slug}`}
-          className="inline-flex items-center gap-2 rounded-full border border-ink/10 bg-white py-2 pl-2.5 pr-4 text-sm font-semibold text-ink transition-colors hover:border-primary hover:bg-primary-light"
+          className="inline-flex items-center gap-2 rounded-full border border-ink/10 bg-card py-2 pl-2.5 pr-4 text-sm font-semibold text-ink transition-colors hover:border-primary hover:bg-primary/10"
         >
           <span aria-hidden="true" className="text-lg">
             {themeEmoji(theme.slug)}

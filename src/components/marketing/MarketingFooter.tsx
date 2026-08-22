@@ -4,7 +4,7 @@ import { LockIcon, MapPinIcon, ShieldIcon } from "@/components/icons";
 /** Pied de page commun aux pages du portail visiteur. */
 export function MarketingFooter() {
   return (
-    <footer className="border-t border-ink/10 bg-white">
+    <footer className="border-t border-ink/10 bg-bg">
       <div className="mx-auto max-w-marketing px-6 py-12">
         <div className="grid gap-10 sm:grid-cols-4">
           <div>
