@@ -10,10 +10,10 @@ export function BrandMark({ className = "" }: { className?: string }) {
       role="img"
       aria-label="Logo IZY/D"
     >
-      <rect width="36" height="36" rx="9" fill="#FFE500" />
-      <rect x="9" y="12" width="18" height="2.4" rx="1.2" fill="#001E6C" />
-      <rect x="9" y="17" width="13" height="2.4" rx="1.2" fill="#001E6C" />
-      <rect x="9" y="22" width="16" height="2.4" rx="1.2" fill="#001E6C" />
+      <rect width="36" height="36" rx="9" fill="var(--accent)" />
+      <rect x="9" y="12" width="18" height="2.4" rx="1.2" fill="var(--on-accent)" />
+      <rect x="9" y="17" width="13" height="2.4" rx="1.2" fill="var(--on-accent)" />
+      <rect x="9" y="22" width="16" height="2.4" rx="1.2" fill="var(--on-accent)" />
     </svg>
   );
 }

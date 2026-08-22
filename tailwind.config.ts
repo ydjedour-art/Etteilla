@@ -1,9 +1,15 @@
 import type { Config } from "tailwindcss";
 
-// Charte graphique IZY/D — empruntée à YD Formation (bleu Klein + jaune
-// citron + rose flash, Plus Jakarta Sans / Source Sans 3), déclinée pour un
-// ton d'impact plus fort et moins institutionnel que la V1 "confiance
-// officielle". Voir docs/05-design-system.md.
+// Charte IZY/D v3 — sombre par défaut (teal + lime), clair rose pétant à la
+// bascule. Toutes les couleurs pointent vers des variables CSS pilotées par
+// [data-theme] sur <html> (voir src/app/globals.css) : aucune classe dark:
+// nulle part dans l'app, le thème change en repeignant les variables.
+//
+// Les noms de tokens existants (ink, surface, primary, accent, attention,
+// critical, flash...) sont conservés pour ne rien casser dans les ~90
+// fichiers qui les utilisent déjà — seule leur valeur change. `warning` et
+// `danger` sont les nouveaux noms de la spec, ajoutés en alias des mêmes
+// variables (`attention`/`critical` restent valides).
 const config: Config = {
   content: [
     "./src/app/**/*.{ts,tsx}",
@@ -12,40 +18,33 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        // Bleu Klein — couleur de marque n°1 : sections héros/CTA pleines,
-        // liens, boutons secondaires.
+        bg: "var(--bg)",
+        surface: "var(--surface-2)",
+        card: "var(--surface)",
+        border: "var(--border)",
         primary: {
-          DEFAULT: "#002FA7",
-          light: "#E8ECFB",
-          dark: "#001E6C",
+          DEFAULT: "var(--primary)",
+          hover: "var(--primary-hover)",
         },
-        // Jaune citron — couleur de marque n°2, réservée à l'action : bouton
-        // principal, mise en évidence d'un mot clé (.underline-accent).
-        // Toujours du texte foncé dessus, jamais blanc.
         accent: {
-          DEFAULT: "#FFE500",
-          foreground: "#001E6C",
+          DEFAULT: "var(--accent)",
+          foreground: "var(--on-accent)",
         },
-        // Rose flash — troisième ton, réservé aux points "wow" : halos des
-        // sections bleues, badges d'incitation.
-        flash: "#FF3EA5",
-        surface: "#F7F8FC",
         ink: {
-          DEFAULT: "#0B1633",
-          soft: "#5B6480",
+          DEFAULT: "var(--text)",
+          soft: "var(--muted)",
         },
-        attention: "#B45309",
-        success: "#2E7D4F",
-        critical: "#DC2626",
+        flash: "var(--accent)",
+        success: "var(--success)",
+        attention: "var(--warning)",
+        warning: "var(--warning)",
+        critical: "var(--danger)",
+        danger: "var(--danger)",
       },
       fontFamily: {
-        // Corps de texte.
-        sans: ["Source Sans 3", "ui-sans-serif", "system-ui", "sans-serif"],
-        // Titres — sans-serif géométrique très typé, gras, tracking serré
-        // (voir globals.css h1-h4). Remplace l'ancien empilement serif
-        // "confiance officielle" : IZY/D est un produit grand public, pas un
-        // service institutionnel.
-        display: ["Plus Jakarta Sans", "ui-sans-serif", "system-ui", "sans-serif"],
+        sans: ["var(--font-grotesk)", "ui-sans-serif", "system-ui", "sans-serif"],
+        display: ["var(--font-grotesk)", "ui-sans-serif", "system-ui", "sans-serif"],
+        mono: ["var(--font-mono)", "ui-monospace", "SFMono-Regular", "monospace"],
       },
       borderRadius: {
         xl: "1rem",

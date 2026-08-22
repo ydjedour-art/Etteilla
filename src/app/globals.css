@@ -2,28 +2,99 @@
 @tailwind components;
 @tailwind utilities;
 
+/* ================================================================
+   TOKENS — pilotés par [data-theme] sur <html>. Sombre par défaut
+   (voir le script inline dans layout.tsx qui pose l'attribut avant le
+   premier paint). Tailwind ne fait que lire ces variables (voir
+   tailwind.config.ts) : aucune classe dark: nulle part dans l'app.
+   ================================================================ */
+:root,
+[data-theme="dark"] {
+  --bg: #0c1017;
+  --surface: #161c27;
+  --surface-2: #1f2534;
+  --border: #2a3140;
+  --text: #e8ebf2;
+  --muted: #8a93a6;
+  --primary: #0f6e5e; /* teal */
+  --primary-hover: #0b4c41;
+  --accent: #b8ed4f; /* lime "pop" — CTA clés, ticks, highlights */
+  --on-accent: #1b2206; /* texte sur accent */
+  --danger: #e5573f;
+  --warning: #e8973a;
+  --success: #3ed598;
+  --glow: rgba(15, 110, 94, 0.14);
+}
+
+/* Mode clair : le rose est le SEUL accent — il remplace à la fois le
+   rôle du teal et du lime du mode sombre. Ne jamais ressortir le teal
+   ici : un seul accent = chic, pas criard. */
+[data-theme="light"] {
+  --bg: #ffffff;
+  --surface: #ffffff;
+  --surface-2: #fbf2f6; /* teinte rosée très légère */
+  --border: #efe3ea;
+  --text: #141017;
+  --muted: #6b6570;
+  --primary: #e11d74; /* rose soutenu — boutons pleins, texte blanc lisible (AA) */
+  --primary-hover: #c20e60;
+  --accent: #ff2e88; /* rose pétant vif — highlights, focus, états actifs */
+  --on-accent: #ffffff;
+  --danger: #d64530;
+  --warning: #a76612; /* assombri vs. brief (#c77a16) pour repasser AA (texte fin sur fond clair) */
+  --success: #1c8555; /* assombri vs. brief (#1e8e5a) pour repasser AA (texte fin sur fond clair) */
+  --glow: rgba(255, 46, 136, 0.12);
+}
+
 html {
   scroll-behavior: smooth;
 }
 
 body {
-  background-color: #ffffff;
-  color: #0b1633;
+  background:
+    radial-gradient(900px 500px at 82% -10%, var(--glow), transparent 60%),
+    var(--bg);
+  color: var(--text);
+  transition: background-color 0.25s ease, color 0.25s ease;
 }
 
 h1,
 h2,
 h3,
 h4 {
-  letter-spacing: -0.03em;
+  letter-spacing: -0.02em;
 }
 
-/* Halo dégradé discret pour la landing — bleu Klein + touche rose flash,
- * charte IZY/D (voir tailwind.config.ts). */
+@media (prefers-reduced-motion: reduce) {
+  body {
+    transition: none;
+  }
+}
+
+/* Eyebrow : petit label au-dessus d'un titre — Space Mono, majuscules,
+ * tracking large, précédé d'un tiret de 24px en accent. */
+.eyebrow {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-family: var(--font-mono), ui-monospace, monospace;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.26em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+.eyebrow::before {
+  content: "";
+  display: inline-block;
+  width: 24px;
+  height: 2px;
+  background: var(--accent);
+}
+
+/* Halo dégradé discret pour la landing. */
 .hero-glow {
-  background:
-    radial-gradient(45% 55% at 15% 0%, rgba(0, 47, 167, 0.07), transparent 70%),
-    radial-gradient(35% 45% at 90% 15%, rgba(255, 62, 165, 0.08), transparent 70%);
+  background: radial-gradient(60% 60% at 85% 0%, var(--glow), transparent 70%);
 }
 
 /* Masque la navigation et les actions non pertinentes à l'impression — utilisé
@@ -34,13 +105,14 @@ h4 {
   }
   body {
     background: white;
+    color: black;
   }
 }
 
 /* Motif "signature" utilisé en attendant une vraie photographie (voir README
  * pour comment remplacer par une photo réelle). */
 .official-photo-placeholder {
-  background: linear-gradient(155deg, #002fa7 0%, #0040c9 55%, #ff3ea5 130%);
+  background: linear-gradient(155deg, var(--primary) 0%, var(--primary-hover) 55%, var(--accent) 130%);
   position: relative;
   overflow: hidden;
 }
@@ -48,54 +120,66 @@ h4 {
   content: "";
   position: absolute;
   inset: 0;
-  background-image: radial-gradient(rgba(255, 255, 255, 0.1) 1px, transparent 1px);
+  background-image: radial-gradient(rgba(255, 255, 255, 0.12) 1px, transparent 1px);
   background-size: 18px 18px;
 }
 
-/* Surlignage signature jaune citron derrière un mot clé, façon marqueur —
- * réservé à UN mot ou groupe de mots par titre, jamais une phrase entière. */
+/* Surlignage signature derrière un mot clé, façon marqueur — réservé à UN mot
+ * ou groupe de mots par titre, jamais une phrase entière. Couleur de texte
+ * forcée à --on-accent : l'accent est clair dans les deux thèmes (lime,
+ * rose vif), un texte clair par-dessus casserait le contraste. */
 .underline-accent {
-  background-image: linear-gradient(#ffe500, #ffe500);
+  background-image: linear-gradient(var(--accent), var(--accent));
   background-repeat: no-repeat;
   background-position: 0 62%;
   background-size: 100% 0.6em;
+  color: var(--on-accent);
   box-decoration-break: clone;
   -webkit-box-decoration-break: clone;
 }
 
 /* Carte statique : base commune à toutes les cartes du site. */
 .card-surface {
-  background-color: #ffffff;
-  border: 1px solid rgb(11 22 51 / 0.1);
-  border-radius: 1rem;
+  background-color: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 1.125rem;
   box-shadow:
-    0 1px 2px rgb(11 22 51 / 0.04),
-    0 8px 24px rgb(11 22 51 / 0.05);
+    0 1px 2px rgb(0 0 0 / 0.12),
+    0 8px 24px rgb(0 0 0 / 0.16);
+  transition: background-color 0.2s ease, border-color 0.2s ease;
 }
 
 /* Carte cliquable (démarches, offres) : même base, avec un hover unifié
- * (légère élévation + bordure jaune) partagé par toutes les cartes
+ * (légère élévation + bordure accent) partagé par toutes les cartes
  * interactives du site. */
 .card-interactive {
-  background-color: #ffffff;
-  border: 1px solid rgb(11 22 51 / 0.1);
-  border-radius: 1rem;
-  box-shadow: 0 1px 2px rgb(11 22 51 / 0.04);
-  transition:
-    transform 0.2s ease,
-    box-shadow 0.2s ease,
-    border-color 0.2s ease;
+  background-color: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 1.125rem;
+  box-shadow: 0 1px 2px rgb(0 0 0 / 0.12);
+  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease,
+    background-color 0.2s ease;
 }
 .card-interactive:hover {
   transform: translateY(-3px);
   box-shadow:
-    0 2px 4px rgb(11 22 51 / 0.06),
-    0 16px 40px rgb(11 22 51 / 0.08);
-  border-color: #ffe500;
+    0 2px 4px rgb(0 0 0 / 0.16),
+    0 16px 40px rgb(0 0 0 / 0.24);
+  border-color: var(--accent);
 }
 
-/* Halo rose flash animé — réservé aux sections bleu Klein "impact"
- * (bandeau CTA), en complément du halo jaune fixe. */
+@media (prefers-reduced-motion: reduce) {
+  .card-surface,
+  .card-interactive {
+    transition: none;
+  }
+  .card-interactive:hover {
+    transform: none;
+  }
+}
+
+/* Halo animé — réservé aux sections d'impact (bandeau CTA), en complément
+ * du halo fixe. */
 @keyframes float-glow {
   0%,
   100% {
@@ -125,10 +209,30 @@ h4 {
   animation: card-float 6s ease-in-out infinite;
 }
 
+/* Anneau de chargement — décrypteur, triage, tout endroit avec un état
+ * "en cours" (voir CTA clés en accent). */
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+.spinner {
+  width: 1.1em;
+  height: 1.1em;
+  border-radius: 9999px;
+  border: 2px solid currentColor;
+  border-top-color: transparent;
+  opacity: 0.9;
+  animation: spin 0.7s linear infinite;
+}
+
 @media (prefers-reduced-motion: reduce) {
   .animate-float-glow,
   .animate-card-float {
     animation: none;
+  }
+  .spinner {
+    animation-duration: 1.4s;
   }
 }
 
