@@ -100,6 +100,12 @@ export default async function LandingPage() {
             <p className="mt-6 text-sm text-ink-soft">
               Sans abonnement pour démarrer · Checklist gratuite
             </p>
+            <Link
+              href="/app/decodeur"
+              className="mt-3 inline-flex items-center gap-1.5 text-sm font-semibold text-primary hover:underline"
+            >
+              📨 Décrypte ta lettre en 10 secondes
+            </Link>
           </div>
 
           <EspaceCard />
