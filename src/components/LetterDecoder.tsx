@@ -3,6 +3,7 @@
 import { useState } from "react";
 import { useRouter } from "next/navigation";
 import { ArrowRightIcon } from "@/components/icons";
+import { useAppStore } from "@/lib/store";
 
 const EXAMPLES = [
   "J'ai reçu une mise en demeure de la CAF",
@@ -38,6 +39,8 @@ const URGENCE_STYLE: Record<Urgence, string> = {
  * en charge. Appelle /api/decode (clé Anthropic côté serveur uniquement). */
 export function LetterDecoder() {
   const router = useRouter();
+  const { state } = useAppStore();
+  const isZen = state.user.subscription === "zen_total";
   const [text, setText] = useState("");
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
@@ -204,6 +207,28 @@ export function LetterDecoder() {
             </a>
             .
           </p>
+
+          {isZen ? (
+            <button
+              type="button"
+              onClick={() => router.push("/app/assistant")}
+              className="mt-3 inline-flex items-center gap-1.5 text-sm font-medium text-primary hover:underline"
+            >
+              Envie d&apos;en discuter ? Continue avec ton concierge <ArrowRightIcon className="h-3.5 w-3.5" />
+            </button>
+          ) : (
+            <p className="mt-3 text-xs text-ink-soft">
+              Une question de suivi ? La formule{" "}
+              <button
+                type="button"
+                onClick={() => router.push("/tarifs")}
+                className="font-medium text-primary hover:underline"
+              >
+                Zen Total
+              </button>{" "}
+              inclut un concierge Claude qui garde le fil de la conversation.
+            </p>
+          )}
         </div>
       )}
     </div>
