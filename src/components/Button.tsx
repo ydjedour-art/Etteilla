@@ -20,19 +20,18 @@ type ButtonAsButton = CommonProps & {
   disabled?: boolean;
 };
 
-// Bouton d'action = fond --primary (teal en sombre, rose soutenu en clair),
-// texte blanc — seule couleur d'action du site, pour qu'on ne se demande
-// jamais "quel bouton cliquer". --accent (lime/rose vif) reste réservé aux
-// surlignages et bordures actives : à ces tailles de texte, un fond accent
-// ne passe pas WCAG AA en mode clair (charte IZY/D v3).
+// Bouton d'action = fond --primary (même graphite-indigo dans les deux
+// thèmes), texte sur-accent — seule couleur d'action du site, pour qu'on
+// ne se demande jamais "quel bouton cliquer". Forme pilule et animation
+// discrète (échelle, pas de lift) façon Apple.com.
 const VARIANT_STYLES: Record<NonNullable<CommonProps["variant"]>, string> = {
-  primary: "bg-primary text-white shadow-sm shadow-primary/30 hover:bg-primary-hover hover:shadow-md hover:shadow-primary/30",
+  primary: "bg-primary text-accent-foreground hover:bg-primary-hover",
   secondary: "bg-primary/10 text-primary hover:bg-primary/15",
   ghost: "bg-transparent text-ink hover:bg-ink/5",
 };
 
 const BASE =
-  "inline-flex items-center justify-center gap-2 rounded-xl px-5 py-3 text-base font-bold transition-all duration-150 min-h-[44px] hover:-translate-y-0.5 active:translate-y-0 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary disabled:opacity-50 disabled:pointer-events-none disabled:translate-y-0";
+  "inline-flex items-center justify-center gap-2 rounded-pill px-6 py-3 text-base font-semibold transition-all duration-200 ease-apple min-h-[44px] hover:scale-[1.02] active:scale-[0.98] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary disabled:opacity-50 disabled:pointer-events-none disabled:scale-100";
 
 /** Bouton unique du design system — un seul style d'action primaire dans toute
  * l'app pour ne jamais laisser l'utilisateur hésiter sur "quel bouton cliquer".
