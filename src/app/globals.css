@@ -3,59 +3,71 @@
 @tailwind utilities;
 
 /* ================================================================
-   TOKENS — pilotés par [data-theme] sur <html>. Charte "Apple-friendly"
-   v4 : clair par défaut (le sombre reste disponible via le bouton de
-   thème, voir ThemeToggle.tsx, mais n'est plus le mode par défaut —
-   Apple.com lui-même est d'abord un site clair). Un seul accent —
-   graphite/indigo sourd — dans les deux thèmes, jamais deux teintes
-   concurrentes. Tailwind ne fait que lire ces variables (voir
+   TOKENS — pilotés par [data-theme] sur <html>. Charte "Signal" v5 :
+   identité sombre/brutaliste inspirée d'une maquette de référence
+   (rouge signal, cyan, jaune néon, Barlow Condensed en display, coins
+   nets, bordures fines). Sombre par défaut — c'est l'identité que la
+   référence incarne ; le clair reste disponible via le bouton de thème
+   mais en dérive (section tarifs de la référence, seule fois où elle
+   passe en clair). Tailwind ne fait que lire ces variables (voir
    tailwind.config.ts) : aucune classe dark: nulle part dans l'app.
-   ================================================================ */
+
+   Le rouge de la référence (#E30613) est repris à #D1050F — un nudge
+   à peine perceptible qui fait passer le texte crème dessus de 4.37:1
+   à 5.02:1 (AA). Même logique que partout ailleurs dans ce projet :
+   les couleurs de la maquette sont respectées, pas copiées à l'aveugle
+   quand elles échouent au contraste. */
 :root,
-[data-theme="light"] {
-  --font-sans: -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+[data-theme="dark"] {
+  --font-sans: var(--font-inter), Inter, ui-sans-serif, system-ui, sans-serif;
+  --font-display: var(--font-barlow), "Barlow Condensed", sans-serif;
   --font-mono: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
 
-  --bg: #ffffff;
-  --surface: #ffffff;
-  --surface-2: #f5f5f7; /* gris Apple signature, sections alternées */
-  --border: rgba(0, 0, 0, 0.08);
-  --text: #1d1d1f;
-  --muted: #6e6e73;
-  --primary: #3d4a66; /* graphite-indigo — seul accent du système */
-  --primary-hover: #2e3a54;
-  --accent: #3d4a66;
-  --on-accent: #ffffff;
-  --danger: #b14a3e;
-  --warning: #93641f;
-  --success: #4c7a5d;
-  --glow: rgba(61, 74, 102, 0.05);
+  --bg: #0a0a0a;
+  --surface: #111111;
+  --surface-2: #0d0d0d;
+  --border: rgba(245, 242, 235, 0.1);
+  --text: #f5f2eb;
+  --muted: #84837f;
+  --primary: #d1050f;
+  --primary-hover: #b80410;
+  --accent: #d1050f;
+  --on-accent: #f5f2eb;
+  --on-vivid: #0a0a0a; /* texte sur fond cyan/jaune plein */
+  --cyan: #00f0ff;
+  --yellow: #f7ff00;
+  --danger: #d1050f;
+  --warning: #00f0ff;
+  --success: #f7ff00;
+  --glow: rgba(211, 5, 15, 0.08);
   --ease: cubic-bezier(0.4, 0, 0.2, 1);
-  /* Décélération marquée façon Apple — pour les reveals au scroll, plus
-     "pesée"/cinématographique que --ease (réservée aux interactions
-     ponctuelles : boutons, nav). */
+  /* Décélération marquée — pour les reveals au scroll, plus "pesée" que
+     --ease (réservée aux interactions ponctuelles : boutons, nav). */
   --ease-reveal: cubic-bezier(0.16, 1, 0.3, 1);
 }
 
-/* Mode sombre — palette noire/grise Apple (fond vrai noir, surfaces
-   élevées en gris #1c1c1e), même accent éclairci pour rester lisible
-   sur fond noir. Texte sur accent : sombre, pas blanc — l'accent est
-   clair dans ce thème (voir contraste dans docs/05-design-system.md). */
-[data-theme="dark"] {
-  --bg: #000000;
-  --surface: #1c1c1e;
-  --surface-2: #000000;
-  --border: rgba(255, 255, 255, 0.12);
-  --text: #f5f5f7;
-  --muted: #86868b;
-  --primary: #8b9bc4;
-  --primary-hover: #a0aed2;
-  --accent: #8b9bc4;
-  --on-accent: #0b0d12;
-  --danger: #e0776a;
-  --warning: #d9a552;
-  --success: #63b583;
-  --glow: rgba(139, 155, 196, 0.06);
+/* Mode clair — dérivé de la seule section claire de la référence (les
+   tarifs) : crème/noir, même rouge signal. Cyan et jaune n'y survivent
+   pas en tant que texte (1.26:1 sur crème) : on les réserve au sombre
+   et on leur substitue des teintes lisibles pour success/warning ici. */
+[data-theme="light"] {
+  --bg: #f5f2eb;
+  --surface: #ffffff;
+  --surface-2: #efebe0;
+  --border: rgba(10, 10, 10, 0.1);
+  --text: #0a0a0a;
+  --muted: #636260;
+  --primary: #d1050f;
+  --primary-hover: #b80410;
+  --accent: #d1050f;
+  --on-accent: #f5f2eb;
+  --on-vivid: #0a0a0a;
+  --cyan: #00f0ff;
+  --yellow: #f7ff00;
+  --danger: #d1050f;
+  --warning: #8a5a00;
+  --success: #0b5a4d;
+  --glow: rgba(211, 5, 15, 0.06);
 }
 
 html {
@@ -72,7 +84,7 @@ h1,
 h2,
 h3,
 h4 {
-  letter-spacing: -0.02em;
+  letter-spacing: -0.01em;
 }
 
 @media (prefers-reduced-motion: reduce) {
@@ -81,7 +93,87 @@ h4 {
   }
 }
 
-/* Eyebrow : petit label au-dessus d'un titre — Space Mono, majuscules,
+/* Grain discret sur tout le site — texture plutôt que fond plat. */
+.grain-overlay {
+  position: fixed;
+  inset: 0;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='300' height='300'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='300' height='300' filter='url(%23n)' opacity='1'/%3E%3C/svg%3E");
+  opacity: 0.03;
+  pointer-events: none;
+  z-index: 60;
+}
+
+/* Scanlines — réservées au hero, en overlay léger. */
+.scanlines {
+  position: relative;
+}
+.scanlines::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: repeating-linear-gradient(
+    to bottom,
+    transparent,
+    transparent 3px,
+    rgb(0 0 0 / 0.05) 3px,
+    rgb(0 0 0 / 0.05) 4px
+  );
+  pointer-events: none;
+}
+
+/* ── Typographie d'impact — Barlow Condensed, 900, capitales serrées. ── */
+.hero-title {
+  font-family: var(--font-display);
+  font-size: clamp(2.75rem, 7.5vw, 6.5rem);
+  font-weight: 900;
+  line-height: 0.92;
+  letter-spacing: -0.01em;
+  text-transform: uppercase;
+}
+.section-title {
+  font-family: var(--font-display);
+  font-size: clamp(2.25rem, 5.5vw, 4.25rem);
+  font-weight: 900;
+  line-height: 0.95;
+  letter-spacing: -0.01em;
+  text-transform: uppercase;
+}
+.outline-text {
+  -webkit-text-stroke: 2px var(--text);
+  color: transparent;
+}
+
+/* Glitch discret sur un mot du hero — bref, rare, jamais intrusif. */
+.glitch-text {
+  position: relative;
+  animation: glitch 7s infinite;
+}
+@keyframes glitch {
+  0%,
+  92%,
+  100% {
+    text-shadow: none;
+    transform: none;
+  }
+  93% {
+    text-shadow: 3px 0 var(--cyan), -3px 0 var(--primary);
+  }
+  94% {
+    text-shadow: -3px 0 var(--cyan), 3px 0 var(--yellow);
+    transform: skewX(-2deg);
+  }
+  95% {
+    text-shadow: none;
+    transform: none;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .glitch-text {
+    animation: none;
+  }
+}
+
+/* Eyebrow : petit label au-dessus d'un titre — mono, majuscules,
  * tracking large, précédé d'un tiret de 24px en accent. */
 .eyebrow {
   display: inline-flex;
@@ -92,14 +184,14 @@ h4 {
   font-weight: 700;
   letter-spacing: 0.26em;
   text-transform: uppercase;
-  color: var(--muted);
+  color: var(--cyan);
 }
 .eyebrow::before {
   content: "";
   display: inline-block;
   width: 24px;
   height: 2px;
-  background: var(--accent);
+  background: var(--cyan);
 }
 
 /* Halo dégradé discret pour la landing. */
@@ -122,7 +214,7 @@ h4 {
 /* Motif "signature" utilisé en attendant une vraie photographie (voir README
  * pour comment remplacer par une photo réelle). */
 .official-photo-placeholder {
-  background: linear-gradient(155deg, var(--primary) 0%, var(--primary-hover) 55%, var(--accent) 130%);
+  background: linear-gradient(155deg, var(--primary) 0%, var(--primary-hover) 55%, var(--cyan) 130%);
   position: relative;
   overflow: hidden;
 }
@@ -135,9 +227,7 @@ h4 {
 }
 
 /* Surlignage signature derrière un mot clé, façon marqueur — réservé à UN mot
- * ou groupe de mots par titre, jamais une phrase entière. Couleur de texte
- * forcée à --on-accent : l'accent est clair dans les deux thèmes (lime,
- * rose vif), un texte clair par-dessus casserait le contraste. */
+ * ou groupe de mots par titre, jamais une phrase entière. */
 .underline-accent {
   background-image: linear-gradient(var(--accent), var(--accent));
   background-repeat: no-repeat;
@@ -148,34 +238,26 @@ h4 {
   -webkit-box-decoration-break: clone;
 }
 
-/* Carte statique : base commune à toutes les cartes du site. Rayon large
- * et ombre très douce — la retenue Apple, pas l'élévation "app mobile". */
+/* Carte statique : base commune à toutes les cartes du site. Coins nets,
+ * bordure fine — la retenue "signal", pas d'ombre portée décorative. */
 .card-surface {
   background-color: var(--surface);
   border: 1px solid var(--border);
-  border-radius: 1.5rem;
-  box-shadow:
-    0 1px 2px rgb(0 0 0 / 0.04),
-    0 16px 40px rgb(0 0 0 / 0.06);
+  border-radius: 0;
   transition: background-color 0.2s var(--ease), border-color 0.2s var(--ease);
 }
 
 /* Carte cliquable (démarches, offres) : même base, avec un hover unifié
- * (légère élévation + bordure accent) partagé par toutes les cartes
- * interactives du site. */
+ * (bordure qui s'éclaircit + très léger lift) partagé par toutes les
+ * cartes interactives du site. */
 .card-interactive {
   background-color: var(--surface);
   border: 1px solid var(--border);
-  border-radius: 1.5rem;
-  box-shadow: 0 1px 2px rgb(0 0 0 / 0.04);
-  transition: transform 0.25s var(--ease), box-shadow 0.25s var(--ease), border-color 0.25s var(--ease),
-    background-color 0.25s var(--ease);
+  border-radius: 0;
+  transition: transform 0.25s var(--ease), border-color 0.25s var(--ease), background-color 0.25s var(--ease);
 }
 .card-interactive:hover {
   transform: translateY(-2px);
-  box-shadow:
-    0 4px 12px rgb(0 0 0 / 0.06),
-    0 20px 48px rgb(0 0 0 / 0.08);
   border-color: var(--accent);
 }
 
@@ -187,6 +269,24 @@ h4 {
   .card-interactive:hover {
     transform: none;
   }
+}
+
+/* Puce de situation (chips triage) — passe en cyan à l'survol/actif. */
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  border: 1px solid var(--border);
+  padding: 0.5rem 1rem;
+  font-size: 0.8rem;
+  white-space: nowrap;
+  transition: all 0.2s var(--ease);
+}
+.chip:hover,
+.chip--active {
+  border-color: var(--cyan);
+  background: rgb(0 240 255 / 0.08);
+  color: var(--cyan);
 }
 
 /* Bandeau défilant (DemarchesTicker) — le contenu est dupliqué en JS, cette
@@ -203,13 +303,28 @@ h4 {
   display: flex;
   width: max-content;
   gap: 2.5rem;
-  animation: marquee 32s linear infinite;
+  animation: marquee 24s linear infinite;
 }
 .marquee-track:hover {
   animation-play-state: paused;
 }
+@keyframes marquee-rev {
+  from {
+    transform: translateX(-50%);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+.marquee-track-rev {
+  display: flex;
+  width: max-content;
+  gap: 2.5rem;
+  animation: marquee-rev 30s linear infinite;
+}
 @media (prefers-reduced-motion: reduce) {
-  .marquee-track {
+  .marquee-track,
+  .marquee-track-rev {
     animation: none;
   }
 }
@@ -235,14 +350,61 @@ h4 {
 @keyframes card-float {
   0%,
   100% {
-    transform: translateY(0);
+    transform: translateY(0) rotate(-1.5deg);
   }
   50% {
-    transform: translateY(-9px);
+    transform: translateY(-9px) rotate(-1.5deg);
   }
 }
 .animate-card-float {
   animation: card-float 6s ease-in-out infinite;
+}
+
+/* Badges flottants pop-in (voir EspaceCard). */
+@keyframes badge-pop {
+  0% {
+    transform: scale(0) rotate(-8deg);
+    opacity: 0;
+  }
+  70% {
+    transform: scale(1.08) rotate(-8deg);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1) rotate(-8deg);
+    opacity: 1;
+  }
+}
+.animate-badge-pop {
+  animation: badge-pop 0.7s cubic-bezier(0.34, 1.56, 0.64, 1) 0.4s both;
+}
+
+/* Point de statut clignotant (live, en cours...). */
+@keyframes pulse-dot {
+  0%,
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.3;
+  }
+}
+.pulse-dot {
+  animation: pulse-dot 2s ease-in-out infinite;
+}
+
+/* Halo de focus pulsé pour une étape active (Comment ça marche). */
+@keyframes step-pulse {
+  0%,
+  100% {
+    box-shadow: 0 0 0 0 rgb(0 240 255 / 0.4);
+  }
+  50% {
+    box-shadow: 0 0 0 8px rgb(0 240 255 / 0);
+  }
+}
+.step-active {
+  animation: step-pulse 2s ease-in-out infinite;
 }
 
 /* Anneau de chargement — décrypteur, triage, tout endroit avec un état
@@ -264,7 +426,10 @@ h4 {
 
 @media (prefers-reduced-motion: reduce) {
   .animate-float-glow,
-  .animate-card-float {
+  .animate-card-float,
+  .animate-badge-pop,
+  .pulse-dot,
+  .step-active {
     animation: none;
   }
   .spinner {
@@ -277,4 +442,15 @@ h4 {
 button,
 a {
   -webkit-tap-highlight-color: transparent;
+}
+
+/* Ascenseur fin — détail repris de la référence. */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: var(--bg);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--border);
 }
