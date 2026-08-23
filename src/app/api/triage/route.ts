@@ -1,8 +1,9 @@
 import { NextResponse } from "next/server";
 import { ficheHref } from "@/lib/fiche-href";
-import { getFicheIndex } from "@/lib/generated-data";
+import { getFicheContent, getFicheIndex } from "@/lib/generated-data";
 import { callGroq, GroqError, parseTriageJson } from "@/lib/triage/groq";
 import { buildCandidatesContext, TRIAGE_FORCE_CONCLUDE, TRIAGE_SYSTEM_PROMPT } from "@/lib/triage/prompt";
+import { buildRecapContext, fallbackRecap, isTriageRecap, RECAP_SYSTEM_PROMPT, type TriageRecap } from "@/lib/triage/recap";
 import { searchFiches, type ScoredFiche } from "@/lib/triage/search";
 import type {
   ChatMessage,
@@ -83,7 +84,30 @@ function enrichFound(found: TriageFound, candidates: ScoredFiche[], fullIndexByI
     themeSlug: entry.themeSlug,
     url: entry.url,
     href: ficheHref(entry),
+    slug: entry.slug,
   };
+}
+
+/** Récap actionnable (étapes/documents/durée) pour la fiche trouvée — un
+ * second appel Groq court, dédié, grounded sur le contenu réel de la fiche.
+ * N'échoue jamais tout le tour : un repli honnête si le contenu complet est
+ * introuvable ou si l'appel échoue. */
+async function buildRecap(slug: string, resume: string): Promise<TriageRecap> {
+  const fiche = await getFicheContent(slug);
+  if (!fiche) return fallbackRecap(resume);
+
+  try {
+    const raw = await callGroq([
+      { role: "system", content: RECAP_SYSTEM_PROMPT },
+      { role: "user", content: buildRecapContext(fiche) },
+    ]);
+    const json = parseTriageJson(raw);
+    if (isTriageRecap(json)) return json;
+  } catch (err) {
+    const reason = err instanceof GroqError ? err.message : "Erreur inconnue";
+    console.error("[api/triage] Recap call failed:", reason);
+  }
+  return fallbackRecap(resume);
 }
 
 export async function POST(request: Request) {
@@ -156,6 +180,7 @@ export async function POST(request: Request) {
 
   const fullIndexById = new Map(index.map((entry) => [entry.id, entry]));
   const enriched = enrichFound(parsed, candidates, fullIndexById);
-  const response: TriageApiResponse = { ...enriched, raw: JSON.stringify(enriched) };
+  const recap = await buildRecap(enriched.slug, enriched.resume);
+  const response: TriageApiResponse = { ...enriched, recap, raw: JSON.stringify(enriched) };
   return NextResponse.json(response);
 }

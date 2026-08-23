@@ -29,10 +29,10 @@ export interface TriageFound {
 export type TriageModelResponse = TriageQuestion | TriageFound;
 
 /** Ce que /api/triage renvoie réellement au client : la réponse du modèle,
- * enrichie (lien officiel, lien interne, thème) quand elle est trouvée, plus
- * `raw` — le JSON exact à ré-empiler dans l'historique pour le tour suivant,
- * pour que le modèle retrouve ses propres réponses précédentes telles
- * quelles. */
+ * enrichie (lien officiel, lien interne, thème, récap actionnable) quand
+ * elle est trouvée, plus `raw` — le JSON exact à ré-empiler dans
+ * l'historique pour le tour suivant, pour que le modèle retrouve ses
+ * propres réponses précédentes telles quelles. */
 export type TriageApiResponse =
   | (TriageQuestion & { raw: string })
   | (TriageFound & {
@@ -41,6 +41,7 @@ export type TriageApiResponse =
       themeSlug: string;
       url: string;
       href: string;
+      recap: import("./recap").TriageRecap;
     })
   | { status: "not_found"; message: string }
   | { status: "error"; message: string };

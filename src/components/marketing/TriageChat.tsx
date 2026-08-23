@@ -1,10 +1,12 @@
 "use client";
 
+import confetti from "canvas-confetti";
+import Link from "next/link";
 import { useState } from "react";
 import { Button } from "@/components/Button";
-import { ArrowRightIcon } from "@/components/icons";
 import { themeEmoji } from "@/lib/theme-emoji";
 import type { ChatMessage } from "@/lib/triage/types";
+import type { TriageRecap } from "@/lib/triage/recap";
 
 const EXAMPLES = [
   "Je viens de déménager",
@@ -22,6 +24,18 @@ interface FoundResult {
   themeSlug: string;
   url: string;
   href: string;
+  recap: TriageRecap;
+}
+
+/** Pluie de confettis légère et joyeuse — deux jets croisés depuis les coins
+ * bas de l'écran, comme un feu d'artifice discret plutôt qu'un mur de
+ * couleurs. canvas-confetti : ~3 Ko, zéro dépendance, l'outil standard pour
+ * cet effet précis. */
+function celebrate() {
+  const colors = ["#3D4A66", "#8B9BC4", "#F5F5F7"];
+  const shared: confetti.Options = { colors, ticks: 220, gravity: 0.9, scalar: 0.9 };
+  confetti({ ...shared, particleCount: 70, angle: 60, spread: 65, origin: { x: 0, y: 0.9 } });
+  confetti({ ...shared, particleCount: 70, angle: 120, spread: 65, origin: { x: 1, y: 0.9 } });
 }
 
 type TurnState =
@@ -41,6 +55,7 @@ export function TriageChat() {
   const [state, setState] = useState<TurnState>({ kind: "idle" });
   const [loading, setLoading] = useState(false);
   const [query, setQuery] = useState("");
+  const [celebrated, setCelebrated] = useState(false);
 
   async function send(nextHistory: ChatMessage[]) {
     setLoading(true);
@@ -89,6 +104,7 @@ export function TriageChat() {
     setHistory([]);
     setState({ kind: "idle" });
     setQuery("");
+    setCelebrated(false);
   }
 
   return (
@@ -194,7 +210,7 @@ export function TriageChat() {
         </div>
       )}
 
-      {/* Résultat trouvé */}
+      {/* Résultat trouvé + récap actionnable */}
       {state.kind === "found" && (
         <div className="mt-5">
           <div className="flex items-start gap-3">
@@ -207,17 +223,70 @@ export function TriageChat() {
             </div>
           </div>
           <p className="mt-3 text-sm text-ink-soft">{state.data.resume}</p>
-          <div className="mt-5 flex flex-col gap-2.5 sm:flex-row">
-            <Button href="/onboarding" className="flex-1">
-              😌 On s&apos;en occupe pour toi
-            </Button>
-            <a
-              href={state.data.href}
-              className="inline-flex items-center justify-center gap-1.5 rounded-xl border border-ink/10 px-4 py-3 text-sm font-bold text-ink hover:border-primary/40"
-            >
-              Voir la fiche <ArrowRightIcon className="h-3.5 w-3.5" />
-            </a>
+
+          {/* Récap : étapes, documents, durée — jamais de renvoi vers la
+              source d'origine dans ce flux (voir src/lib/triage/recap.ts). */}
+          <div className="mt-5 rounded-2xl border border-ink/10 bg-surface p-5">
+            <p className="text-xs font-bold uppercase tracking-wide text-ink-soft">Ce qu&apos;il y a à faire</p>
+            <ol className="mt-3 space-y-2">
+              {state.data.recap.etapes.map((etape, i) => (
+                <li key={i} className="flex gap-2.5 text-sm text-ink">
+                  <span className="font-mono font-bold text-primary">{i + 1}.</span>
+                  {etape}
+                </li>
+              ))}
+            </ol>
+
+            {state.data.recap.documents.length > 0 && (
+              <div className="mt-4 border-t border-ink/10 pt-4">
+                <p className="text-xs font-bold uppercase tracking-wide text-ink-soft">Documents nécessaires</p>
+                <ul className="mt-2 flex flex-wrap gap-2">
+                  {state.data.recap.documents.map((doc) => (
+                    <li
+                      key={doc}
+                      className="rounded-full border border-ink/10 bg-card px-3 py-1 text-xs font-medium text-ink"
+                    >
+                      {doc}
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            )}
+
+            <div className="mt-4 flex items-center gap-2 border-t border-ink/10 pt-4 text-sm text-ink-soft">
+              <span aria-hidden="true">⏱️</span>
+              {state.data.recap.duree_estimee}
+            </div>
           </div>
+
+          {celebrated ? (
+            <div className="mt-5 rounded-2xl bg-primary/10 p-5 text-center">
+              <p className="font-display text-lg font-semibold text-ink">Bravo, tu gères ! 🎉</p>
+              <p className="mt-1 text-sm text-ink-soft">
+                On reste dispo si tu changes d&apos;avis en cours de route.
+              </p>
+              <Link href="/onboarding" className="mt-3 inline-block text-sm font-bold text-primary hover:underline">
+                Besoin d&apos;aide finalement ?
+              </Link>
+            </div>
+          ) : (
+            <div className="mt-5 flex flex-col gap-2.5 sm:flex-row">
+              <Button href="/onboarding" className="flex-1">
+                Laissez-nous faire
+              </Button>
+              <button
+                type="button"
+                onClick={() => {
+                  celebrate();
+                  setCelebrated(true);
+                }}
+                className="inline-flex items-center justify-center rounded-pill border border-ink/10 px-5 py-3 text-sm font-semibold text-ink transition-colors hover:border-primary/40"
+              >
+                Je peux y arriver seul pour cette fois
+              </button>
+            </div>
+          )}
+
           <button
             type="button"
             onClick={reset}
