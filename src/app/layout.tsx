@@ -1,39 +1,28 @@
 import type { Metadata } from "next";
-import { Space_Grotesk, Space_Mono } from "next/font/google";
 import "./globals.css";
 
-// UI, titres, corps → Space Grotesk. Chiffres/prix/labels/eyebrows → Space
-// Mono (voir globals.css, .font-mono utilisé explicitement à ces endroits).
-const spaceGrotesk = Space_Grotesk({
-  subsets: ["latin"],
-  weight: ["400", "500", "600", "700"],
-  variable: "--font-grotesk",
-  display: "swap",
-});
-
-const spaceMono = Space_Mono({
-  subsets: ["latin"],
-  weight: ["700"],
-  variable: "--font-mono",
-  display: "swap",
-});
+// Typo système façon SF Pro (-apple-system) — voir globals.css
+// (--font-sans / --font-mono) et tailwind.config.ts. Pas de next/font ici :
+// un empilement système n'a rien à charger, et c'est la police réelle
+// d'Apple.com (jamais une webfont).
 
 export const metadata: Metadata = {
   title: "IZY/D — On s'occupe de ton administratif.",
   description: "CAF, impôts, URSSAF, titre de séjour : IZY/D avance à ta place.",
 };
 
-// Thème sombre par défaut, mémorisé (localStorage), appliqué avant le
-// premier paint pour ne jamais flasher en clair — voir
-// src/components/ThemeToggle.tsx pour la bascule côté client.
+// Clair par défaut, mémorisé (localStorage), appliqué avant le premier
+// paint pour ne jamais flasher dans le mauvais thème — voir
+// src/components/ThemeToggle.tsx pour la bascule côté client (sombre en
+// option).
 const THEME_INIT_SCRIPT = `
 (function () {
   try {
     var stored = localStorage.getItem("izyd-theme");
-    var theme = stored === "light" ? "light" : "dark";
+    var theme = stored === "dark" ? "dark" : "light";
     document.documentElement.setAttribute("data-theme", theme);
   } catch (e) {
-    document.documentElement.setAttribute("data-theme", "dark");
+    document.documentElement.setAttribute("data-theme", "light");
   }
 })();
 `;
@@ -44,7 +33,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="fr" className={`${spaceGrotesk.variable} ${spaceMono.variable}`}>
+    <html lang="fr">
       <head>
         <script dangerouslySetInnerHTML={{ __html: THEME_INIT_SCRIPT }} />
       </head>

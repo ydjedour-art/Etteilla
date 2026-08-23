@@ -21,7 +21,7 @@ function MoonIcon({ className = "" }: { className?: string }) {
   );
 }
 
-/** Bascule sombre/clair — sombre par défaut. Le choix est mémorisé
+/** Bascule sombre/clair — clair par défaut. Le choix est mémorisé
  * (localStorage) et appliqué avant le premier paint par le script inline de
  * layout.tsx ; ce composant ne fait qu'écouter/mettre à jour l'attribut
  * `data-theme` sur <html> après montage. */
@@ -30,7 +30,7 @@ export function ThemeToggle({ className = "" }: { className?: string }) {
 
   useEffect(() => {
     const current = document.documentElement.getAttribute("data-theme");
-    setTheme(current === "light" ? "light" : "dark");
+    setTheme(current === "dark" ? "dark" : "light");
   }, []);
 
   function toggle() {
@@ -53,9 +53,9 @@ export function ThemeToggle({ className = "" }: { className?: string }) {
       className={`grid h-9 w-9 shrink-0 place-items-center rounded-full border border-ink/10 text-ink-soft transition-colors hover:text-ink ${className}`}
     >
       {/* Rendu identique tant que le thème réel n'est pas connu côté client
-        (évite un mismatch d'hydratation) : la lune sert d'icône par défaut,
-        cohérente avec le sombre par défaut. */}
-      {theme === "light" ? <SunIcon /> : <MoonIcon />}
+        (évite un mismatch d'hydratation) : le soleil sert d'icône par
+        défaut, cohérent avec le clair par défaut. */}
+      {theme === "dark" ? <MoonIcon /> : <SunIcon />}
     </button>
   );
 }

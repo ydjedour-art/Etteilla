@@ -3,47 +3,55 @@
 @tailwind utilities;
 
 /* ================================================================
-   TOKENS — pilotés par [data-theme] sur <html>. Sombre par défaut
-   (voir le script inline dans layout.tsx qui pose l'attribut avant le
-   premier paint). Tailwind ne fait que lire ces variables (voir
+   TOKENS — pilotés par [data-theme] sur <html>. Charte "Apple-friendly"
+   v4 : clair par défaut (le sombre reste disponible via le bouton de
+   thème, voir ThemeToggle.tsx, mais n'est plus le mode par défaut —
+   Apple.com lui-même est d'abord un site clair). Un seul accent —
+   graphite/indigo sourd — dans les deux thèmes, jamais deux teintes
+   concurrentes. Tailwind ne fait que lire ces variables (voir
    tailwind.config.ts) : aucune classe dark: nulle part dans l'app.
    ================================================================ */
 :root,
-[data-theme="dark"] {
-  --bg: #0c1017;
-  --surface: #161c27;
-  --surface-2: #1f2534;
-  --border: #2a3140;
-  --text: #e8ebf2;
-  --muted: #8a93a6;
-  --primary: #0f6e5e; /* teal */
-  --primary-hover: #0b4c41;
-  --accent: #b8ed4f; /* lime "pop" — CTA clés, ticks, highlights */
-  --on-accent: #1b2206; /* texte sur accent */
-  --danger: #e5573f;
-  --warning: #e8973a;
-  --success: #3ed598;
-  --glow: rgba(15, 110, 94, 0.14);
-}
-
-/* Mode clair : le rose est le SEUL accent — il remplace à la fois le
-   rôle du teal et du lime du mode sombre. Ne jamais ressortir le teal
-   ici : un seul accent = chic, pas criard. */
 [data-theme="light"] {
+  --font-sans: -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --font-mono: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+
   --bg: #ffffff;
   --surface: #ffffff;
-  --surface-2: #fbf2f6; /* teinte rosée très légère */
-  --border: #efe3ea;
-  --text: #141017;
-  --muted: #6b6570;
-  --primary: #e11d74; /* rose soutenu — boutons pleins, texte blanc lisible (AA) */
-  --primary-hover: #c20e60;
-  --accent: #ff2e88; /* rose pétant vif — highlights, focus, états actifs */
+  --surface-2: #f5f5f7; /* gris Apple signature, sections alternées */
+  --border: rgba(0, 0, 0, 0.08);
+  --text: #1d1d1f;
+  --muted: #6e6e73;
+  --primary: #3d4a66; /* graphite-indigo — seul accent du système */
+  --primary-hover: #2e3a54;
+  --accent: #3d4a66;
   --on-accent: #ffffff;
-  --danger: #d64530;
-  --warning: #a76612; /* assombri vs. brief (#c77a16) pour repasser AA (texte fin sur fond clair) */
-  --success: #1c8555; /* assombri vs. brief (#1e8e5a) pour repasser AA (texte fin sur fond clair) */
-  --glow: rgba(255, 46, 136, 0.12);
+  --danger: #b14a3e;
+  --warning: #93641f;
+  --success: #4c7a5d;
+  --glow: rgba(61, 74, 102, 0.05);
+  --ease: cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Mode sombre — palette noire/grise Apple (fond vrai noir, surfaces
+   élevées en gris #1c1c1e), même accent éclairci pour rester lisible
+   sur fond noir. Texte sur accent : sombre, pas blanc — l'accent est
+   clair dans ce thème (voir contraste dans docs/05-design-system.md). */
+[data-theme="dark"] {
+  --bg: #000000;
+  --surface: #1c1c1e;
+  --surface-2: #000000;
+  --border: rgba(255, 255, 255, 0.12);
+  --text: #f5f5f7;
+  --muted: #86868b;
+  --primary: #8b9bc4;
+  --primary-hover: #a0aed2;
+  --accent: #8b9bc4;
+  --on-accent: #0b0d12;
+  --danger: #e0776a;
+  --warning: #d9a552;
+  --success: #63b583;
+  --glow: rgba(139, 155, 196, 0.06);
 }
 
 html {
@@ -51,9 +59,7 @@ html {
 }
 
 body {
-  background:
-    radial-gradient(900px 500px at 82% -10%, var(--glow), transparent 60%),
-    var(--bg);
+  background: var(--bg);
   color: var(--text);
   transition: background-color 0.25s ease, color 0.25s ease;
 }
@@ -138,15 +144,16 @@ h4 {
   -webkit-box-decoration-break: clone;
 }
 
-/* Carte statique : base commune à toutes les cartes du site. */
+/* Carte statique : base commune à toutes les cartes du site. Rayon large
+ * et ombre très douce — la retenue Apple, pas l'élévation "app mobile". */
 .card-surface {
   background-color: var(--surface);
   border: 1px solid var(--border);
-  border-radius: 1.125rem;
+  border-radius: 1.5rem;
   box-shadow:
-    0 1px 2px rgb(0 0 0 / 0.12),
-    0 8px 24px rgb(0 0 0 / 0.16);
-  transition: background-color 0.2s ease, border-color 0.2s ease;
+    0 1px 2px rgb(0 0 0 / 0.04),
+    0 16px 40px rgb(0 0 0 / 0.06);
+  transition: background-color 0.2s var(--ease), border-color 0.2s var(--ease);
 }
 
 /* Carte cliquable (démarches, offres) : même base, avec un hover unifié
@@ -155,16 +162,16 @@ h4 {
 .card-interactive {
   background-color: var(--surface);
   border: 1px solid var(--border);
-  border-radius: 1.125rem;
-  box-shadow: 0 1px 2px rgb(0 0 0 / 0.12);
-  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease,
-    background-color 0.2s ease;
+  border-radius: 1.5rem;
+  box-shadow: 0 1px 2px rgb(0 0 0 / 0.04);
+  transition: transform 0.25s var(--ease), box-shadow 0.25s var(--ease), border-color 0.25s var(--ease),
+    background-color 0.25s var(--ease);
 }
 .card-interactive:hover {
-  transform: translateY(-3px);
+  transform: translateY(-2px);
   box-shadow:
-    0 2px 4px rgb(0 0 0 / 0.16),
-    0 16px 40px rgb(0 0 0 / 0.24);
+    0 4px 12px rgb(0 0 0 / 0.06),
+    0 20px 48px rgb(0 0 0 / 0.08);
   border-color: var(--accent);
 }
 
