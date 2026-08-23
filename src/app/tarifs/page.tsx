@@ -3,6 +3,7 @@ import { CtaBanner } from "@/components/marketing/CtaBanner";
 import { MarketingFooter } from "@/components/marketing/MarketingFooter";
 import { MarketingHeader } from "@/components/marketing/MarketingHeader";
 import { PricingPlans } from "@/components/marketing/PricingPlans";
+import { Reveal } from "@/components/ScrollReveal";
 import { COMPARISON_COLUMNS, COMPARISON_ROWS } from "@/lib/plans";
 
 const BILLING_FAQS = [
@@ -31,7 +32,7 @@ export default function TarifsPage() {
 
       {/* Hero */}
       <section className="hero-glow border-b border-ink/10">
-        <div className="mx-auto max-w-marketing px-6 py-16 text-center sm:py-20">
+        <Reveal className="mx-auto max-w-marketing px-6 py-16 text-center sm:py-20">
           <h1 className="font-display text-4xl font-semibold leading-[1.05] text-ink sm:text-6xl">
             Un tarif qui s&apos;adapte à ta vie,{" "}
             <span className="underline-accent">pas l&apos;inverse.</span>
@@ -40,17 +41,19 @@ export default function TarifsPage() {
             Trois formules, chacune plus tranquille que la précédente. Ou zéro
             abonnement : tu payes juste ce que tu utilises.
           </p>
-        </div>
+        </Reveal>
       </section>
 
       {/* Plans */}
-      <section className="mx-auto max-w-marketing px-6 py-16 sm:py-20">
-        <PricingPlans />
-      </section>
+      <Reveal className="mx-auto max-w-marketing px-6 py-16 sm:py-20">
+        <section>
+          <PricingPlans />
+        </section>
+      </Reveal>
 
       {/* Comparatif complet */}
       <section className="border-y border-ink/10 bg-surface py-16 sm:py-20">
-        <div className="mx-auto max-w-marketing px-6">
+        <Reveal className="mx-auto max-w-marketing px-6">
           <h2 className="text-center font-display text-2xl font-semibold text-ink sm:text-3xl">
             Le détail, sans zone d&apos;ombre
           </h2>
@@ -95,28 +98,32 @@ export default function TarifsPage() {
               </tbody>
             </table>
           </div>
-        </div>
+        </Reveal>
       </section>
 
       {/* FAQ facturation */}
       <section id="faq" className="mx-auto max-w-content px-6 py-16 sm:py-20">
-        <h2 className="text-center font-display text-2xl font-semibold text-ink sm:text-3xl">
-          Questions sur la facturation
-        </h2>
-        <div className="mt-10 divide-y divide-ink/10 rounded-2xl border border-ink/10 bg-card">
-          {BILLING_FAQS.map((faq) => (
-            <details key={faq.question} className="group p-6">
-              <summary className="flex cursor-pointer list-none items-center justify-between gap-4 font-bold text-ink">
-                {faq.question}
-                <span className="text-ink-soft transition-transform group-open:rotate-45">+</span>
-              </summary>
-              <p className="mt-3 text-sm text-ink-soft">{faq.answer}</p>
-            </details>
-          ))}
-        </div>
+        <Reveal>
+          <h2 className="text-center font-display text-2xl font-semibold text-ink sm:text-3xl">
+            Questions sur la facturation
+          </h2>
+          <div className="mt-10 divide-y divide-ink/10 rounded-2xl border border-ink/10 bg-card">
+            {BILLING_FAQS.map((faq) => (
+              <details key={faq.question} className="group p-6">
+                <summary className="flex cursor-pointer list-none items-center justify-between gap-4 font-bold text-ink">
+                  {faq.question}
+                  <span className="text-ink-soft transition-transform group-open:rotate-45">+</span>
+                </summary>
+                <p className="mt-3 text-sm text-ink-soft">{faq.answer}</p>
+              </details>
+            ))}
+          </div>
+        </Reveal>
       </section>
 
-      <CtaBanner title="Choisis ta formule. On s'occupe du reste." />
+      <Reveal>
+        <CtaBanner title="Choisis ta formule. On s'occupe du reste." />
+      </Reveal>
 
       <MarketingFooter />
     </main>

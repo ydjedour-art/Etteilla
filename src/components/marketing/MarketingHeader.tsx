@@ -10,10 +10,11 @@ import { ThemeToggle } from "@/components/ThemeToggle";
  * plusieurs pages avant de s'inscrire. Les ancres pointent vers `/` : depuis
  * une autre page, le lien navigue d'abord vers la landing puis défile.
  *
- * Comportement façon Apple.com : quasi transparente en haut de page, elle
- * s'opacifie et gagne un léger flou/hairline dès qu'on défile — jamais un
- * changement brutal, juste une bascule de classes en douceur (transition
- * CSS sur l'élément, pas de calcul d'opacité continu en JS). */
+ * Comportement façon Apple.com : quasi transparente et haute en haut de
+ * page, elle s'opacifie, se floute et se resserre légèrement dès qu'on
+ * défile — jamais un changement brutal, tout est animé (background, bordure
+ * ET hauteur) via transition CSS sur l'état "scrolled", pas de calcul
+ * continu en JS. */
 export function MarketingHeader() {
   const [scrolled, setScrolled] = useState(false);
 
@@ -28,11 +29,15 @@ export function MarketingHeader() {
 
   return (
     <header
-      className={`sticky top-0 z-30 backdrop-blur-xl transition-colors duration-300 ease-apple ${
+      className={`sticky top-0 z-30 backdrop-blur-xl transition-[background-color,border-color] duration-300 ease-apple ${
         scrolled ? "border-b border-ink/10 bg-bg/80" : "border-b border-transparent bg-bg/40"
       }`}
     >
-      <div className="mx-auto flex max-w-marketing items-center justify-between px-6 py-4">
+      <div
+        className={`mx-auto flex max-w-marketing items-center justify-between px-6 transition-[padding] duration-300 ease-apple ${
+          scrolled ? "py-3" : "py-5"
+        }`}
+      >
         <a href="/" className="flex items-center gap-2.5">
           <BrandMark className="h-8 w-8 shrink-0" />
           <span className="font-display text-base font-semibold text-ink">IZY/D</span>
