@@ -2,6 +2,7 @@ import Link from "next/link";
 import { Button } from "@/components/Button";
 import { LockIcon, MapPinIcon, ShieldIcon, UsersIcon } from "@/components/icons";
 import { CtaBanner } from "@/components/marketing/CtaBanner";
+import { DemarchesTicker } from "@/components/marketing/DemarchesTicker";
 import { EspaceCard } from "@/components/marketing/EspaceCard";
 import { MarketingFooter } from "@/components/marketing/MarketingFooter";
 import { MarketingHeader } from "@/components/marketing/MarketingHeader";
@@ -117,6 +118,8 @@ export default async function LandingPage() {
           </Parallax>
         </div>
       </section>
+
+      <DemarchesTicker items={templates.map((t) => t.name)} />
 
       {/* Le poids qu'on enlève */}
       <section className="mx-auto max-w-marketing px-6 py-16 sm:py-20">
