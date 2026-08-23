@@ -61,8 +61,7 @@ export default async function DemarchesPage() {
             Pas dans la liste ? 🔍
           </h2>
           <p className="mt-2 text-sm text-ink-soft">
-            On garde aussi les {index.length} fiches officielles de Service-Public.gouv.fr,
-            au cas où.
+            On garde aussi {index.length} fiches officielles en réserve, au cas où.
           </p>
           <div className="mt-6 text-left">
             <FicheSearch index={searchIndex} />

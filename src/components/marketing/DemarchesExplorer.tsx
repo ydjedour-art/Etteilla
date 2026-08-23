@@ -115,7 +115,7 @@ export function DemarchesExplorer({ templates }: { templates: FormalityTemplate[
                     href={`/demarches/${mapping.dossierRef.theme}/${mapping.dossierRef.dossier}`}
                     className="mt-3 inline-flex items-center gap-1 text-xs font-bold text-primary hover:underline"
                   >
-                    En savoir plus (Service-Public.fr) <ArrowRightIcon className="h-3 w-3" />
+                    En savoir plus <ArrowRightIcon className="h-3 w-3" />
                   </Link>
                 )}
               </div>
