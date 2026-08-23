@@ -1,0 +1,72 @@
+{
+  "id": "F34124",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Arnaque aux sentiments : escroquerie, chantage, sextorsion",
+  "theme": "Justice",
+  "description": "L'arnaque aux sentiments consiste à tromper ou à menacer une personne pour obtenir quelque chose en retour (argent, échanges intimes, etc.).",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-03-18",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34124",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Arnaques sur internet (THESEE, Pharos ...)",
+    "Arnaque aux sentiments : escroquerie, chantage, sextorsion"
+  ],
+  "introduction": "Une personne que vous avez rencontrée sur internet et avec laquelle vous avez une relation amicale ou amoureuse vous demande de l'argent en prétextant un motif urgent ou en vous menaçant ? Il peut s'agir d'une arnaque aux sentiments. Si vous êtes victime de tels agissements, vous avez la possibilité de les dénoncer et d'obtenir réparation de votre préjudice. Nous vous présentons les étapes à suivre.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "L'arnaque aux sentiments peut prendre plusieurs formes :",
+        "• L'escroquerie aux sentiments est un délit qui se matérialise par des mensonges, des menaces ou du chantage dans le but de vous soutirer de l'argent.",
+        "• Le délit de sextorsion est caractérisé par le fait qu'une personne vous menace de publier des contenus à caractère sexuel qui vous concernent, pour obtenir quelque chose en retour (argent, photos, etc.)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code pénal : articles 313-1 à 313-3",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006165331/"
+    },
+    {
+      "titre": "Code pénal : articles 312-10 à 312-12",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006165328/"
+    },
+    {
+      "titre": "Loi n°2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique : article 6",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049577522"
+    },
+    {
+      "titre": "Arrêté du 26 juin 2020 sur la création du traitement harmonisé des enquêtes et des signalements pour les e-escroqueries (THESEE)",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000042056637/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Info Escroqueries",
+    "Numéro unique pour les jeunes victimes de harcèlement et de violences numériques",
+    "Commission nationale de l'informatique et des libertés (Cnil)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Escroquerie sentimentale",
+      "url": "https://www.cybermalveillance.gouv.fr/tous-nos-contenus/fiches-reflexes/comment-reagir-en-cas-descroquerie-sentimentale"
+    },
+    {
+      "titre": "Délit de sextorsion",
+      "url": "https://www.cybermalveillance.gouv.fr/tous-nos-contenus/fiches-reflexes/sextorsion"
+    }
+  ],
+  "slug": "arnaque-aux-sentiments-escroquerie-chantage-sextorsion",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "arnaques-sur-internet-thesee-pharos",
+      "titre": "Arnaques sur internet (THESEE, Pharos ...)"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "id": "F22479",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Changer d'opérateur : portabilité du numéro de téléphone mobile",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "La portabilité du numéro permet à un utilisateur de changer d'opérateur tout en conservant son numéro de téléphone portable.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-03-06",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F22479",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Communications électroniques (téléphone, internet, télévision)",
+    "Changer d'opérateur : portabilité du numéro de téléphone mobile"
+  ],
+  "introduction": "Vous voulez changer d'opérateur tout en conservant votre numéro de téléphone portable ? C'est possible grâce à la portabilité du numéro. Quelles sont les étapes à suivre ? Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Si vous gardez le même mobile et que vous avez un contrat avec une durée d'engagement, demander le déverrouillage du téléphone",
+      "contenu": [
+        "Le déverrouillage de votre téléphone s'appelle aussi désimlockage.",
+        "Il doit être distingué du déblocage de votre carte SIM qui survient lorsque vous avez tapé 3 codes PIN éronnés au moment de l'allumage de votre appareil.",
+        "Par le verrouillage de votre terminal, l'opérateur empêche que votre téléphone puisse porter une carte SIM appartenant à un autre opérateur.",
+        "En faisant déverrouiller votre terminal, vous pourrez garder votre téléphone tout en changeant d'opérateur.",
+        "Le dévérouillage de votre terminal peut être fait à tout moment. Toutefois, sa gratuité dépend de votre contrat d'engagement et de sa durée avec votre ancien opérateur.",
+        "[À noter] Si vous achetez votre téléphone portable \"nu\", sans forfait, ailleurs que chez un opérateur (dans un magasin d'électronique par exemple), votre appareil est débloqué et ne nécessite pas de désimlockage. À l'inverse, si vous achetez votre téléphone portable avec un forfait, auprès d'un opérateur, votre appareil est en général bloqué et nécessite le désimlockage.",
+        "Contrat avec engagement",
+        "Les règles dépendent de l’existence ou non d’une durée d’engagement et de la durée écoulée depuis la date de conclusion du contrat.",
+        "Cas général",
+        "En principe, le dévérouillage est gratuit au bout de 6 mois après la date de souscription d'un abonnement.",
+        "Vous êtes abonné depuis plus de 3 mois",
+        "Le déverrouillage est gratuit si votre opérateur est membre de la Fédération française des télécommunications (FFT).",
+        "Vous êtes abonné depuis moins de 3 mois",
+        "Votre opérateur vous demandera de payer le déverrouillage selon les conditions de tarifs liées à votre contrat.",
+        "Contrat sans durée d'engagement",
+        "Votre téléphone portable n'est pas verrouillé. Vous n'avez pas besoin de le faire déverrouiller."
+      ]
+    },
+    {
+      "titre": "Récupérer l'identifiant Rio",
+      "contenu": [
+        "Pour demander la portabilité de votre numéro, il faut d'abord vous procurer votre identifiant RIO (relevé d'identité opérateur).",
+        "Le RIO est un numéro à 12 chiffres ou lettres.",
+        "Vous devez le récupérer avant de signer votre contrat avec un nouvel opérateur.",
+        "Vous devez appeler le 3179.",
+        "Un serveur vocal vous donnera alors votre RIO.",
+        "Ce service fonctionne quel que soit votre opérateur.",
+        "Serveur dédié aux demandes de relevé d'identité opérateur (RIO) - 3179",
+        "Serveur vocal permettant de demander son relevé d'identité opérateur (RIO) dans le cadre d'une demande de conservation de son numéro de téléphone mobile.",
+        "Par téléphone",
+        "3179 (appel et service gratuit depuis un téléphone mobile)",
+        "Numéro commun à tous les opérateurs.",
+        "Tous les jours, 24 heures sur 24.",
+        "Vous recevez le RIO par serveur vocal puis par SMS.",
+        "Suite à votre appel, vous recevrez un SMS vous précisant le numéro RIO et la date de fin d'engagement avec votre ancien opérateur.",
+        "Pour les offres qui regroupent téléphonie et internet, les opérateurs doivent aussi rendre disponibles le RIO dans votre espace client en ligne.",
+        "Vous pouvez obtenir votre RIO même si votre contrat a déjà été résilié. Vous disposez d’un délai de 40 jours après la résiliation pour demander la portabilité de votre numéro."
+      ]
+    },
+    {
+      "titre": "Signer un contrat avec le nouvel opérateur",
+      "contenu": [
+        "Dès que vous avez obtenu votre RIO, vous devez contacter votre nouvel opérateur. C'est lui qui fait les démarches suivantes :",
+        "• Résiliation de votre ancien abonnement chez l'ancien opérateur",
+        "• Portage de votre numéro",
+        "• Mise en service de votre nouvel abonnement.",
+        "[Attention] Vous ne devez pas résilier vous-même votre ancien abonnement, c'est votre nouvel opérateur qui effectue les démarches.",
+        "La demande de portabilité vaut demande de résiliation de votre contrat auprès de votre ancien opérateur.",
+        "Si vous souscrivez à un abonnement via internet, sélectionnez la case \"Je souhaite conserver mon numéro de mobile actuel\" et indiquez votre numéro RIO."
+      ]
+    },
+    {
+      "titre": "Attendre que la portabilité du numéro de téléphone mobile s'effectue",
+      "contenu": [
+        "Ligne coupée pendant 4 heures maximum",
+        "Le portage se fait en 4 heures au maximum.",
+        "Pendant cette période, le nouvel opérateur peut, selon sa politique commerciale, vous attribuer un numéro provisoire à utiliser avec votre nouvelle carte SIM. Ce numéro temporaire est automatiquement remplacé par votre numéro habituel le jour du portage.",
+        "Lors de la signature du contrat, vous décidez avec votre nouvel opérateur du jour où se fait la portabilité.",
+        "Le délai maximum pour réaliser la portabilité est en principe de 3 jours ouvrables à compter de la demande, sauf si vous demandez une date ultérieure.",
+        "Changement de la carte SIM",
+        "Vous recevez un SMS qui vous donne un créneau horaire pour changer votre carte SIM.",
+        "Vous enlevez alors votre ancienne carte SIM et vous mettez la nouvelle.",
+        "Ensuite, 4 heures après maximum, vous pouvez de nouveau appeler et être appelé.",
+        "En cas de retard ou de perte de numéro : possibilité d’être indemnisé",
+        "Si la portabilité n’est pas réalisée dans les conditions prévues (retard, interruption de service trop longue, perte du numéro ou erreur de traitement), vous pouvez demander une indemnisation à votre opérateur.",
+        "L’indemnisation peut prendre la forme :",
+        "• d’un remboursement d’une partie de votre abonnement,",
+        "• d’une réduction sur une facture,",
+        "• d’une compensation financière en fonction du préjudice subi.",
+        "Les conditions peuvent être prévues dans le contrat de votre opérateur."
+      ]
+    },
+    {
+      "titre": "En cas de problème, alerter le médiateur des communications ou l'Arcep",
+      "contenu": [
+        "Aucun opérateur ne peut vous refuser de changer d'opérateur et de demander le déverrouillage de votre téléphone.",
+        "En cas de problème, vous pouvez alerter le médiateur des communications électronique ou l'Arcep (Autorité de régulation des communications électroniques et des postes).",
+        "Saisir en ligne le médiateur des communications électroniques",
+        "Alerter l'Arcep (Autorité de régulation des communications électroniques et des postes)"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Directive 2002/22/CE européenne du 7 mars 2002 sur le service universel et les droits des utilisateurs au regard des réseaux et services de communications électroniques (directive \"service universel\")",
+      "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32002L0022"
+    },
+    {
+      "titre": "Code des postes et des communications électroniques : article L44",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042155976/"
+    },
+    {
+      "titre": "Code des postes et des communications électroniques : articles D406-18 à D406-20",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006150591/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Saisir en ligne le médiateur des communications électroniques",
+      "url": "http://www.mediation-telecom.org/saisir-le-mediateur",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Alerter l'Arcep (Autorité de régulation des communications électroniques et des postes)",
+      "url": "https://jalerte.arcep.fr/jalerte/?0",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "Serveur dédié aux demandes de relevé d'identité opérateur (RIO) - 3179",
+    "Autorité de régulation des communications électroniques et des postes (Arcep)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Déverrouillage (désimlockage) d'un téléphone portable",
+      "url": "https://www.arcep.fr/demarches-et-services/utilisateurs/carte-sim-verrouillage-et-deverrouillage-des-terminaux-mode-demploi.html"
+    },
+    {
+      "titre": "Opérateurs membres de la Fédération française des télécommunications",
+      "url": "https://www.fftelecoms.org/qui-sommes-nous/#nos-membres"
+    }
+  ],
+  "slug": "changer-d-operateur-portabilite-du-numero-de-telephone-mobile",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "communications-electroniques-telephone-internet-television",
+      "titre": "Communications électroniques (téléphone, internet, télévision)"
+    }
+  ]
+}

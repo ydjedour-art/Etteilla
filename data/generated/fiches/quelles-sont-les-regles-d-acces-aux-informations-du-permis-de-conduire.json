@@ -1,0 +1,134 @@
+{
+  "id": "F11861",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quelles sont les règles d'accès aux informations du permis de conduire ?",
+  "theme": "Transports - Mobilité",
+  "description": "L’accès au fichier des permis de conduire est encadré et limité à certaines personnes. Le titulaire du permis peut consulter les informations qui le concernent.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-07-07",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F11861",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Permis de conduire",
+    "Quelles sont les règles d'accès aux informations du permis de conduire ?"
+  ],
+  "introduction": "L’accès aux informations concernant le permis de conduire est encadré et varie selon la personne qui en fait la demande. Nous vous indiquons les règles à connaître.",
+  "chapitres": [
+    {
+      "titre": "Comment consulter les informations de son permis de conduire (points, validité…) ?",
+      "contenu": [
+        "Le service en ligne Mes points permis permet de :",
+        "• Consulter le solde de vos points (vous êtes aussi informé du retrait et de la récupération de vos points par courrier)",
+        "• Télécharger une attestation de droit à conduire sécurisée (ADCS) qui mentionne l'existence, la catégorie et la validité de votre permis de conduire. L’ADCS précise les éventuels aménagements ou restrictions associés au permis, tels que la conduite d’un véhicule à boîte automatique ou d’un véhicule doté de commandes adaptées.",
+        "• Télécharger le relevé d’information intégral (RII). Vous pouvez aussi le demander à votre préfecture.",
+        "Consulter et télécharger les informations du permis de conduire : solde de points, relevé intégral, attestation de droit à conduire sécurisée...",
+        "Connexion via FranceConnect ou via votre compte. Si vous n'avez pas de compte, il est proposé d'en créer un.",
+        "[Complement] Le relevé d'information intégral (RII) contient notamment les informations suivantes : • Solde de points du pemis de conduire • Validité du permis • Infractions ayant donné lieu à retrait de points • Historique des retraits et reconstitutions de points • Stages de sensibilisation à la sécurité routière éventuellement effectués • Visites médicales éventuellement effectuées • Décisions administratives et judiciaires affectant le permis. Par exemple invalidation du permis, annulation du permis, suspension administrative du permis. Depuis le 23 juin 2023, le RII comporte un code barre 2D-Doc certifiant les informations contenues."
+      ]
+    },
+    {
+      "titre": "Qui est autorisé à consulter le fichier national des permis de conduire (SNPC) ?",
+      "contenu": [
+        "Accès à toutes les informations",
+        "Les informations enregistrées dans le système national des permis de conduire (SNPC) peuvent être consultées notamment par les autorités et personnes suivantes, individuellement désignées et habilitées :",
+        "• Agent d'administration centrale placé sous l'autorité du ministre de l'intérieur, chargé de l'enregistrement des informations sur le permis de conduire",
+        "• Agent de l'Agence nationale des titres sécurisés (France Titres)",
+        "• Autorité judiciaire (magistrat du ministère public et magistrat du siège exerçant des fonctions pénales, délégué du procureur de la République pour certaines missions, agent de greffe et personne habilitée, juriste assistant un magistrat exerçant des fonctions pénales)",
+        "• Magistrat administratif pour l'instruction des recours contre les décisions de retrait de points du permis de conduire",
+        "• Officier de police judiciaire dans le cadre de l'exécution d'une ordonnance juridictionnelle ou d'une enquête de flagrance",
+        "• Préfet",
+        "• Agent placé sous l'autorité du préfet, chargé de l'inscription au permis et de la réglementation du permis de conduire",
+        "• Fonctionnaire de police nationale et militaire de gendarmerie nationale, pour les contrôles routiers",
+        "• Agent spécialement habilité pour réaliser des études statistiques sur les accidents de la route",
+        "• Agent placé sous l'autorité du ministre chargé des transports, pour le contrôle du transport routier.",
+        "Accès à certaines informations",
+        "Les informations enregistrées dans le SNPC relatives à l'existence, la catégorie et la validité du permis de conduire peuvent être consultées notamment par les autorités et personnes suivantes, individuellement désignées et habilitées :",
+        "• Officier de police judiciaire ou agent de police judiciaire dans le cadre d'une enquête préliminaire",
+        "• Agent de police judiciaire adjoint et garde champêtre pour l'identification des auteurs de certaines infractions au code la route",
+        "• Agent d'un organisme chargé de la carte de conducteur associée au chronotachygraphe électronique ou de la carte de qualification de conducteur de certains véhicules routiers",
+        "• Agent d'une entreprise de transport public routier, pour les personnes qu'elle emploie comme conducteur (l'employeur peut utiliser le portail Vérif Permis)",
+        "• Autorité d'un pays de de l'Union Européenne pour l'authentification du permis de conduire, conformément aux accords internationaux en vigueur."
+      ]
+    },
+    {
+      "titre": "Qui peut demander au préfet des informations sur un permis de conduire ?",
+      "contenu": [
+        "Les personnes et autorités suivantes, dans le cadre de leurs missions, peuvent demander au préfet si vous avez le permis, s'il est valide, et quelles catégories vous avez :",
+        "• Administration civile ou militaire, pour les personnes employées comme chauffeur et pour les candidats à l'emploi de chauffeur",
+        "• Entreprise d'assurance, pour leurs assurés ayant souscrit un contrat d'assurance automobile et pour les personnes dont elles pourraient garantir la responsabilité en cas de dommages causés par un véhicule motorisé.",
+        "• Votre avocat."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la route : articles L223-1 à L223-9",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074228/LEGISCTA000006159515"
+    },
+    {
+      "titre": "Code de la route : articles L225-1 à L225-9",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074228/LEGISCTA000006159517"
+    },
+    {
+      "titre": "Code des assurances : articles L113-1 à L113-17",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006157200"
+    },
+    {
+      "titre": "Code du travail : articles L1221-6 à L1221-9",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000006189415"
+    },
+    {
+      "titre": "Code de la route : articles R225-1 à R225-6",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074228/LEGISCTA000006159566"
+    },
+    {
+      "titre": "Arrêté du 17 mai 2024 fixant les modalités techniques de l'accès direct des autorités judiciaires aux données et informations mentionnées à l'article L. 225-1 du code de la route",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000049676141"
+    },
+    {
+      "titre": "Arrêté du 13 novembre 2023 autorisant la création d'un traitement automatisé dénommé « Mes Points Permis »",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000048443481"
+    },
+    {
+      "titre": "Arrêté du 29 juin 1992 portant création du Système national des permis de conduire",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000541135"
+    },
+    {
+      "titre": "Arrêté du 29 juin 1992 fixant les supports techniques de la communication par le ministère public au ministre de l'intérieur des informations prévues à l'article L. 225-1 (3°, 4°, 5° et 6°) du code de la route",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000541057/2026-07-03"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Consulter et télécharger les informations du permis de conduire : solde de points, relevé intégral, attestation de droit à conduire sécurisée...",
+      "url": "https://mespoints.permisdeconduire.gouv.fr",
+      "type": "selNG"
+    },
+    {
+      "titre": "Faire un recours en ligne concernant le permis de conduire",
+      "url": "https://recours.permisdeconduire.gouv.fr/",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "Maison de justice et du droit"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Site de la sécurité routière",
+      "url": "http://www.securite-routiere.gouv.fr"
+    }
+  ],
+  "slug": "quelles-sont-les-regles-d-acces-aux-informations-du-permis-de-conduire",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "permis-de-conduire",
+      "titre": "Permis de conduire"
+    }
+  ]
+}

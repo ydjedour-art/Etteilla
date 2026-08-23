@@ -1,0 +1,33 @@
+{
+  "id": "F36482",
+  "type_publication": "Recherche guidée",
+  "titre": "[IR - Enfant mineur à charge]",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "[IR - Enfant mineur à charge]",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2026-01-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F36482",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Impôt sur le revenu : déclaration et revenus à déclarer",
+    "[IR - Enfant mineur à charge]"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "ir-enfant-mineur-a-charge",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "impot-sur-le-revenu-declaration-et-revenus-a-declarer",
+      "titre": "Impôt sur le revenu : déclaration et revenus à déclarer"
+    }
+  ]
+}

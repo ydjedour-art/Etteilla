@@ -1,0 +1,120 @@
+{
+  "id": "F24412",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Rupture du contrat de travail du salarié pour cas de force majeure",
+  "theme": "Travail - Formation",
+  "description": "En cas de force majeure, le contrat de travail est automatiquement rompu. Le salarié perçoit certaines indemnités compensatrices, sous conditions.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-23",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F24412",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Rupture du contrat de travail dans le secteur privé",
+    "Rupture du contrat de travail du salarié pour cas de force majeure"
+  ],
+  "introduction": "En cas de force majeure, le contrat de travail du salarié peut être rompu sans avoir à suivre une procédure particulière. Le salarié peut percevoir des indemnités sous certaines conditions. Nous faisons un point sur la réglementation.",
+  "chapitres": [
+    {
+      "titre": "Qu'est-ce que la force majeure ?",
+      "contenu": [
+        "La force majeure est un événement qui remplit l'ensemble des 3 caractéristiques suivantes :",
+        "• Ne peut pas être prévu (imprévisible)",
+        "• Ne peut pas être surmonté (irrésistible)",
+        "• Fait extérieur échappant au contrôle de la personne concernée.",
+        "La poursuite du contrat de travail en raison de cet événement est rendue impossible. Par exemple, la destruction totale de l'entreprise à la suite d'un incendie sans possibilité de reprise de l'activité."
+      ]
+    },
+    {
+      "titre": "Un contrat de travail peut-il être rompu pour cas de force majeure ?",
+      "contenu": [
+        "Oui, un employeur peut rompre un contrat de travail si les 3 critères définissant la force majeure sont remplis.",
+        "Il informe le salarié par écrit de la rupture. Le contrat de travail est rompu immédiatement.",
+        "L'employeur remet au salarié les documents de fin de contrat qui lui sont dus.",
+        "[À savoir] Si le salarié estime que les conditions d'une rupture du contrat pour cas de force majeure ne sont pas réunies, il peut saisir le conseil de prud'hommes."
+      ]
+    },
+    {
+      "titre": "Le salarié perçoit-il des indemnités en cas de rupture de son contrat de travail pour cas de force majeure par l'employeur ?",
+      "contenu": [
+        "Les indemnités que peut percevoir un salarié diffèrent selon la nature du contrat de travail. Dans certains cas, elles diffèrent également si la rupture est du fait d'un sinistre ou non.",
+        "Le salarié est en CDI",
+        "La rupture est liée à un sinistre",
+        "Le salarié perçoit une indemnité compensatrice.",
+        "Sauf dispositions conventionnelles plus favorables, son montant est égal à celui de l'indemnité légale de licenciement et de l'indemnité compensatrice de préavis auquel le salarié aurait pu prétendre.",
+        "Il perçoit aussi l'indemnité compensatrice de congés payés.",
+        "Un simulateur permet de rechercher la convention collective avec le nom de l'entreprise ou son numéro Siret :",
+        "Trouver sa convention collective",
+        "Autre cas",
+        "Le salarié perçoit uniquement l'indemnité compensatrice de congés payés.",
+        "Il ne perçoit pas d'indemnité de licenciement, ni d'indemnité compensatrice de préavis. Des dispositions conventionnelles peuvent prévoir le versement.",
+        "Un simulateur permet de rechercher la convention collective avec le nom de l'entreprise ou son numéro Siret :",
+        "Trouver sa convention collective",
+        "Le salarié est en CDD",
+        "La rupture est liée à un sinistre",
+        "Le salarié perçoit une indemnité compensatrice. Son montant est égal aux rémunérations que le salarié aurait dû percevoir jusqu'au terme du contrat.",
+        "Il perçoit aussi l'indemnité compensatrice de congés payés.",
+        "L'indemnité de fin de contrat (ou prime de précarité) n'est pas versée.",
+        "Autre cas",
+        "Le salarié perçoit uniquement l'indemnité compensatrice de congés payés.",
+        "L'indemnité de fin de contrat (ou prime de précarité) n'est pas versée.",
+        "Le salarié est en contrat de travail temporaire (salarié intérimaire)",
+        "Le salarié perçoit l'indemnité compensatrice de congés payés.",
+        "L'indemnité de fin de mission (ou prime de précarité) n'est pas versée.",
+        "[À noter] La rupture du contrat de mise à disposition, c'est-à-dire du contrat conclu entre l'entreprise de travail temporaire et l'entreprise utilisatrice, n'est pas un cas de force majeure.",
+        "Le salarié est en contrat d'apprentissage",
+        "Le salarié perçoit l'indemnité compensatrice de congés payés."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : articles 1217 et 1218",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032041441/"
+    },
+    {
+      "titre": "Code du travail : articles L1234-12 à L1234-13",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000006901128"
+    },
+    {
+      "titre": "Code du travail : articles L1243-1 à L1243-13-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000006177867/"
+    },
+    {
+      "titre": "Code du travail : article L1243-10",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901221"
+    },
+    {
+      "titre": "Code du travail : articles L1251-26 à L1251-28",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000006198549/"
+    },
+    {
+      "titre": "Code du travail : articles L1251-29 à L1251-34",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006198550"
+    },
+    {
+      "titre": "Code du travail : articles L6222-18 à L6222-22",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006195912/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Trouver sa convention collective",
+      "url": "https://code.travail.gouv.fr/outils/convention-collective?src_url=https://service-public.gouv.fr/particuliers/vosdroits/F78",
+      "type": "outilRechercheNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "rupture-du-contrat-de-travail-du-salarie-pour-cas-de-force-majeure",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "rupture-du-contrat-de-travail-dans-le-secteur-prive",
+      "titre": "Rupture du contrat de travail dans le secteur privé"
+    }
+  ]
+}

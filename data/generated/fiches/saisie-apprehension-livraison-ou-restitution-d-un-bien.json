@@ -1,0 +1,63 @@
+{
+  "id": "F1763",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Saisie-appréhension : livraison ou restitution d'un bien",
+  "theme": "Justice",
+  "description": "La saisie-appréhension permet d'obtenir la restitution ou la livraison forcée du bien réclamé.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-04-25",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1763",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Saisies et recouvrements",
+    "Saisie-appréhension : livraison ou restitution d'un bien"
+  ],
+  "introduction": "Qu'est-ce qu'une saisie-appréhension ? Cette saisie vous permet d'obtenir que votre débiteur vous restitue ou vous livre le bien que vous lui réclamez. Cette saisie peut être nécessaire, par exemple, lorsqu'un magasin refuse de vous livrer un objet que vous avez déjà payé ou lorsqu'une personne, une fois l'objet livré, ne vous paie pas la somme restant due. Nous vous présentons les informations à connaître sur la saisie-appréhension.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les règles de la saisie-appréhension diffèrent selon que vous avez ou non un titre exécutoire ordonnant de vous remettre le bien :"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code des procédures civiles d'exécution : article L222-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025025870/"
+    },
+    {
+      "titre": "Code des procédures civiles d'exécution : article R222-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025938731/"
+    },
+    {
+      "titre": "Code des procédures civiles d'exécution : articles R222-2 à R222-6",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000025024948/LEGISCTA000025938733/"
+    },
+    {
+      "titre": "Code des procédures civiles d'exécution : articles R222-7 à R222-10",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000025024948/LEGISCTA000025938745/"
+    },
+    {
+      "titre": "Code des procédures civiles d'exécution : articles R222-11 à R222-16",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000025024948/LEGISCTA000025938755/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Maison de justice et du droit"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "saisie-apprehension-livraison-ou-restitution-d-un-bien",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "saisies-et-recouvrements",
+      "titre": "Saisies et recouvrements"
+    }
+  ]
+}

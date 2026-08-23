@@ -1,0 +1,105 @@
+{
+  "id": "F34964",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Transports : quelles réductions pour les jeunes, étudiants et apprentis ?",
+  "theme": "Transports - Mobilité",
+  "description": "Des offres existent sur l'ensemble du réseau pour réduire le coût des transports. Toutefois, aucun texte n'impose l'application de tarifs réduits.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-06-19",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34964",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Cartes de transport",
+    "Transports : quelles réductions pour les jeunes, étudiants et apprentis ?"
+  ],
+  "introduction": "Chaque organisme ou collectivité organisant les transports en commun définit sa propre politique tarifaire. Il n’existe pas d’obligation générale imposant l’application de tarifs réduits fondés uniquement sur le critère de l'âge. Toutefois, des réductions peuvent être mises en place localement ou reposer sur d’autres critères, notamment sociaux. Au niveau national, il existe notamment un dispositif spécifique, le tarif Élève-Étudiant-Apprenti (EEA), dont vous pouvez bénéficier, sous conditions, pour les trajets entre le domicile et le lieu de scolarité, d'études ou d'apprentissage en TGV ou en train Intercités. Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Décret n°2019-1525 du 30 décembre 2019 relatif à l'abonnement pour les élèves, étudiants et apprentis",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000039698608"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demande d'abonnement pour élèves, étudiants et apprentis (AEEA)",
+      "url": "https://www.demarches-simplifiees.fr/commencer/abonnement-aeea-dgitm",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Site de la SNCF",
+      "url": "https://www.sncf.com/fr"
+    },
+    {
+      "titre": "Carte Avantage Jeune",
+      "url": "https://www.sncf-connect.com/catalogue/description/carte-avantage-jeune"
+    },
+    {
+      "titre": "Abonnement TGV Max Jeune",
+      "url": "https://www.sncf-connect.com/catalogue/description/max-jeune"
+    },
+    {
+      "titre": "TER SNCF Auvergne-Rhône-Alpes",
+      "url": "https://www.ter.sncf.com/auvergne-rhone-alpes"
+    },
+    {
+      "titre": "TER SNCF Bourgogne-Franche-Comté",
+      "url": "https://www.ter.sncf.com/bourgogne-franche-comte"
+    },
+    {
+      "titre": "TER SNCF Bretagne",
+      "url": "https://www.ter.sncf.com/bretagne"
+    },
+    {
+      "titre": "TER SNCF Centre-Val-de-Loire",
+      "url": "https://www.ter.sncf.com/centre-val-de-loire"
+    },
+    {
+      "titre": "TER SNCF Grand Est",
+      "url": "https://www.ter.sncf.com/grand-est/"
+    },
+    {
+      "titre": "TER SNCF Hauts-de-France",
+      "url": "https://www.ter.sncf.com/hauts-de-france"
+    },
+    {
+      "titre": "Titres de transport en Ile-de-France",
+      "url": "https://www.iledefrance-mobilites.fr"
+    },
+    {
+      "titre": "TER SNCF Normandie",
+      "url": "https://www.ter.sncf.com/normandie/"
+    },
+    {
+      "titre": "TER SNCF Nouvelle-Aquitaine",
+      "url": "https://www.ter.sncf.com/nouvelle-aquitaine"
+    },
+    {
+      "titre": "TER SNCF Occitanie",
+      "url": "https://www.ter.sncf.com/occitanie"
+    },
+    {
+      "titre": "TER SNCF Pays de la Loire",
+      "url": "https://www.ter.sncf.com/pays-de-la-loire"
+    },
+    {
+      "titre": "TER SNCF Provence-Alpes-Côte d'Azur",
+      "url": "https://www.ter.sncf.com/sud-provence-alpes-cote-d-azur"
+    }
+  ],
+  "slug": "transports-quelles-reductions-pour-les-jeunes-etudiants-et-apprentis",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "cartes-de-transport",
+      "titre": "Cartes de transport"
+    }
+  ]
+}

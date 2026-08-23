@@ -1,0 +1,133 @@
+{
+  "id": "F2372",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Compte à terme (CAT)",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Le compte à terme (CAT) est un compte d'épargne rémunéré en contrepartie de l'indisponibilité de l'argent placé pendant une certaine durée.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-06-19",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2372",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Livrets, plans et comptes d'épargne",
+    "Compte à terme (CAT)"
+  ],
+  "introduction": "Vous disposez d’une somme d’argent dont vous n’avez pas besoin immédiatement ? Vous pouvez immobiliser cette somme quelques mois ou quelques années tout en la faisant fuctifier en ouvrant un compte à terme (CAT), aussi appelé dépôt à terme (DAT). C'est un compte d'épargne qui produit des intérêts en contrepartie de l'indisponibilité de l'argent placé pendant une durée déterminée. Nous vous présentons les règles applicables.",
+  "chapitres": [
+    {
+      "titre": "Quelles sont les caractéristiques du compte à terme (CAT) ?",
+      "contenu": [
+        "Le compte à terme (CAT) est un compte bloqué rémunéré. L’argent est déposé en une seule fois pour un montant et une durée fixée à l’avance.",
+        "Vous ne pouvez pas faire de retrait sur le CAT pendant la durée convenue lors de l'ouverture du compte. Il n’y a pas de moyen de paiement associé au compte à terme.",
+        "À la fin de la période de blocage, la banque doit restituer la totalité de la somme déposée, augmentée des intérêts prévus.",
+        "Durée du compte à terme",
+        "Pour être rémunéré, le compte à terme doit avoir une durée de blocage supérieure à 1 mois.",
+        "Le compte à terme peut être souscrit pour une durée déterminée ou pour une durée renouvelable.",
+        "Si le contrat est conclu pour une durée déterminée, le compte est clôturé à la fin de la période de blocage. L'argent déposé sur le compte devient disponible et la banque doit vous payer les intérêts en même temps qu'elle vous rembourse le capital.",
+        "Si le contrat est conclu pour une durée renouvelable, il recommence automatiquement à la fin de chaque période de blocage pour la même durée. Le compte à terme est prolongé jusqu'à ce que le nombre de renouvellement prévu dans le contrat soit atteint. Mais vous pouvez demander que le contrat ne soit pas renouvelé.",
+        "Rémunération du compte à terme",
+        "Le banque fixe librement la rémunération des comptes à terme d’une durée supérieure à 1 mois. Le contrat précise le mode de calcul utilisé pour chaque compte.",
+        "Le taux d'intérêt du compte à terme peut être fixe, progressif ou variable.",
+        "Le contrat détermine aussi la périodicité du versement des intérêts : distribution annuelle, semestrielle, trimestrielle ou paiement à l’échéance.",
+        "Si la banque vous propose un contrat sous la forme de plusieurs comptes à terme (plusieurs dépots avec des durées et des rémunérations différentes) ou sous la forme d'un compte à terme associé à d'autres produits d'épargne, elle doit vous donner un document d'information qui détaille les caractéristiques du produit."
+      ]
+    },
+    {
+      "titre": "Comment les intérêts du compte à terme (CAT) sont-ils calculés ?",
+      "contenu": [
+        "Les intérêts du compte à terme sont calculés selon le mode prévu dans le contrat.",
+        "Compte à terme à taux fixe",
+        "Le taux de rémunération est connu au jour du dépôt. Il est fixe et garanti jusqu’à la fin de la période de blocage.",
+        "Compte à terme à taux progressif",
+        "Le taux de rémunération augmente au fil du temps (par exemple à chaque trimestre).",
+        "Plus les sommes restent placées longtemps, plus le taux d'intérêt augmente.",
+        "Compte à terme à taux variable",
+        "Le taux de rémunération est indexé sur un taux de marché ou un indice de référence.",
+        "La banque doit vous informer périodiquement sur la situation de votre placement.",
+        "Si le contrat est conclu pour une durée renouvelable, la banque doit vous informer de votre droit à ne pas renouveler le contrat et de ses conséquences."
+      ]
+    },
+    {
+      "titre": "Comment ouvrir un compte à terme (CAT) ?",
+      "contenu": [
+        "Vous pouvez ouvrir un compte à terme auprès d'une banque ou auprès d'un établissement financier.",
+        "L’établissement a l'obligation de vous expliquer au préalable le fonctionnement du compte. Le document d’information préalable doit être disctinct du contrat",
+        "Le compte à terme peut être souscrit sous forme d'un compte unique ou sous forme d'une association de produits financiers.",
+        "L’établissement peut vous proposer de souscrire 1 contrat qui couvre un compte à terme unique, ou plusieurs comptes à terme successifs (chaque dépôt ayant une durée et des conditions de fonctionnement propres) ou 1 compte à terme associé à d'autres produits d'épargne (par exemple, versement associé à 1 contrat d'assurance vie).",
+        "Vous devez signer une convention de compte.",
+        "Le contrat doit vous informer clairement au moins sur les points suivants :",
+        "• Montant du dépôt minimum et montant du dépôt maximum",
+        "• Durée du contrat (durée unique ou renouvelable)",
+        "• Caractéristiques du taux d'intérêt applicable au dépôt : taux fixe, progressif ou variable, mode de calcul (indice ou taux de référence)",
+        "• Modalité de paiement des intérêts (par périodes ou à l'échéance)",
+        "• Pénalités applicables en cas de retrait des fonds avant l'échéance prévue",
+        "• Conditions et délai de restitution des fonds à l'échéance.",
+        "[À noter] Lorsqu'il s'agit d'un CAT à taux variable, vous devez recevoir un document spécifique d'information périodique sur l’état actualisé de votre placement. L’information doit présenter les 2 hypothèses soit du maintien du compte jusqu’à son terme, soit du retrait anticipé à la prochaine échéance et ses conséquences."
+      ]
+    },
+    {
+      "titre": "Peut-on récupérer les fonds du compte à terme (CAT) avant la fin du délai de blocage ?",
+      "contenu": [
+        "Vous pouvez récupérer la somme placée avant la date d'échéance prévue, mais dans ce cas la banque applique des pénalités sur les intérêts prévus au contrat.",
+        "Les pénalités varient d'une banque à l'autre et elles doivent être prévues dans le contrat."
+      ]
+    },
+    {
+      "titre": "Quelle est la fiscalité du compte à terme (CAT) ?",
+      "contenu": [
+        "L’année de leur paiement, les intérêts du compte à terme sont soumis au prélèvement forfaitaire unique (PFU, également appelé flat tax) effectué par la banque.",
+        "Le taux global du PFU appliqué par la banque est de 31,4 %, qui correspond à un acompte d’impôt sur le revenu au taux forfaitaire de 12,8 % et aux prélèvements sociaux à hauteur de 18,6 %.",
+        "Vous devez déclarer les intérêts perçus sur votre déclaration de revenus annuelle, dans la catégorie des revenus de capitaux mobiliers à la rubrique des produits de placement à revenu fixe.",
+        "[Complement] Le prélèvement forfaitaire non libératoire de 12,8 % est acquitté par la banque au moment du versement des intérêts. Il s’agit d’un acompte d’impôt sur le revenu. Vous pouvez demander à être dispensé du prélèvement forfaitaire non libératoire si votre revenu fiscal de référence de l'avant-dernière année est inférieur à : • 25 000 € si vous êtes célibataire • 50 000 € pour un couple marié ou pacsé soumis à imposition commune. Pour les revenus perçus en 2026, il s'agit du revenu fiscal de référence de 2024. La demande est à adresser à l'établissement financier qui vous verse les revenus au plus tard le 30 novembre de l'année précédant celle du paiement (le 30 novembre 2026 pour une dispense en 2027). En général, l'établissement vous envoie un formulaire d'attestation sur l'honneur à lui retourner complété si vous remplissez les conditions."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code monétaire et financier : article L312-2",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000027643303"
+    },
+    {
+      "titre": "Code civil : articles 1927 à 1946",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006150317"
+    },
+    {
+      "titre": "Code général des impôts : articles 124 à 125-00 A",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000006197211/"
+    },
+    {
+      "titre": "Recommandation de l'Autorité de contrôle prudentiel n°2012-R-02 du 12 octobre 2012 sur la commercialisation des comptes à terme, modifiée le 6 décembre 2019",
+      "url": "https://acpr.banque-france.fr/system/files/import/acpr/media/2020/08/05/3.2_recommandation_2012-r-02_version_du_6_decembre_2019.pdf"
+    },
+    {
+      "titre": "Décision n°69-03 du 8 mai 1969 du Conseil national du crédit relative aux conditions de réception des fonds par les établissements financiers",
+      "url": "https://cclrf.banque-france.fr/contenu-de-tableau/decision-de-caractere-general-ndeg-69-03-du-8-mai-1969-du-conseil-national-du-credit-relative-aux"
+    },
+    {
+      "titre": "Bofip-impôts n°BOI-RPPM-RCM-10-10-40 relatif au régime fiscal des revenus des créances, dépôts, cautionnements et comptes courants",
+      "url": "http://bofip.impots.gouv.fr/bofip/858-PGP"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Info Banque - Assurance"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Compte à terme",
+      "url": "https://www.lafinancepourtous.com/pratique/placements/epargne-disponible-non-reglementee/comptes-a-terme/"
+    }
+  ],
+  "slug": "compte-a-terme-cat",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "livrets-plans-et-comptes-d-epargne",
+      "titre": "Livrets, plans et comptes d'épargne"
+    }
+  ]
+}

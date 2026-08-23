@@ -1,0 +1,71 @@
+{
+  "id": "F2444",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Aide sociale à l'hébergement (ASH) d'une personne âgée",
+  "theme": "Social - Santé",
+  "description": "L'ASH sert à payer tout ou partie des frais d'hébergement que facture l'établissement (Ehpad, résidence autonomie, ULSD) ou l'accueil familial.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-01-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2444",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Hébergement des personnes âgées",
+    "Aide sociale à l'hébergement (ASH) d'une personne âgée"
+  ],
+  "introduction": "L'ASH sert à payer tout ou partie des frais d'hébergement que facture l'établissement (Ehpad, résidence autonomie, USLD) ou l'accueil familial à la personne âgée. L'ASH paie la différence entre le montant des frais d'hébergement et ce que peut payer la personne âgée, voire ce que peuvent payer ses obligés alimentaires (enfants, gendres, belles-filles). Le département peut récupérer l'ASH versée, du vivant et au décès de la personne âgée. Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de l'action sociale et des familles : article L113-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031727295/"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : articles L132-1 à L132-12",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006157562/"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : articles L134-1 à L134-2",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074069/LEGISCTA000033425308"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : article R231-6",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033628142"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Annuaire des Éhpad, comparateur de prix et prestations des Éhpad, comparateur de reste à charge en Éhpad",
+      "url": "https://www.pour-les-personnes-agees.gouv.fr/annuaire-ehpad-et-comparateur-de-prix-et-restes-a-charge",
+      "type": "Outil de recherche"
+    }
+  ],
+  "contacts": [
+    "Établissements d'hébergement pour personnes âgées (Éhpad...)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Demander l'aide sociale à l'hébergement (ASH) pour une personne âgée",
+      "url": "https://www.pour-les-personnes-agees.gouv.fr/vivre-dans-un-ehpad/aides-financieres-en-ehpad/faire-une-demande-daide-sociale-a-lhebergement"
+    },
+    {
+      "titre": "Comment la participation des obligés alimentaires est-elle calculée ?",
+      "url": "https://www.pour-les-personnes-agees.gouv.fr/preserver-son-autonomie-s-informer-et-anticiper/les-obligations-de-la-famille/comment-la-participation-des-obliges-alimentaires-est-elle-calculee"
+    },
+    {
+      "titre": "L'aide sociale à l'hébergement (ASH) en accueil familial",
+      "url": "https://www.pour-les-personnes-agees.gouv.fr/changer-de-logement/vivre-en-accueil-familial/lash-en-accueil-familial"
+    }
+  ],
+  "slug": "aide-sociale-a-l-hebergement-ash-d-une-personne-agee",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "hebergement-des-personnes-agees",
+      "titre": "Hébergement des personnes âgées"
+    }
+  ]
+}

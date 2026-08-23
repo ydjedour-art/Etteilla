@@ -1,0 +1,33 @@
+{
+  "id": "F38630",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Vous êtes (ou allez être) apprenti : aides financières",
+  "theme": "Social - Santé",
+  "description": "Un apprenti peut bénéficier d'aides de nature différente : bourses, aides pour le logement, le transport, les repas, la santé etc.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-06-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F38630",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Aides financières",
+    "Vous êtes (ou allez être) apprenti : aides financières"
+  ],
+  "introduction": "Si vous êtes apprenti, vous pouvez bénéficier d'aides diverses : bourses, aides pour le logement, le transport, les repas, la santé etc. Elles varient selon que vous avez entre 15 et 17 ans ou au moins 18 ans.",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "vous-etes-ou-allez-etre-apprenti-aides-financieres",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "aides-financieres",
+      "titre": "Aides financières"
+    }
+  ]
+}

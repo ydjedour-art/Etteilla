@@ -1,0 +1,40 @@
+{
+  "id": "F96",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Le comité d'entreprise (CE) existe-t-il toujours ?",
+  "theme": "Travail - Formation",
+  "description": "Les attributions du comité d'entreprise (CE) sont confiées depuis le 1er janvier 2020 au comité social et économique (CSE).",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-05-09",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F96",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Représentation du personnel dans l'entreprise",
+    "Le comité d'entreprise (CE) existe-t-il toujours ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Non. Les attributions du CE sont désormais confiées depuis le 1er janvier 2020 au comité social et économique (CSE)."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "le-comite-d-entreprise-ce-existe-t-il-toujours",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "representation-du-personnel-dans-l-entreprise",
+      "titre": "Représentation du personnel dans l'entreprise"
+    }
+  ]
+}

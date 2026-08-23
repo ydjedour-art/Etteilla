@@ -1,0 +1,47 @@
+{
+  "id": "F37655",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Peut-on encore bénéficier de la Prime « Coup de pouce Pilotage connecté du chauffage pièce par pièce » ?",
+  "theme": "Logement",
+  "description": "Non, il n'est plus possible de demander la Prime « Coup de pouce Pilotage connecté du chauffage pièce par pièce » depuis le 22 novembre 2024.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-01-30",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F37655",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Aides et prêts pour l'amélioration et la rénovation énergétique de l'habitat",
+    "Peut-on encore bénéficier de la Prime « Coup de pouce Pilotage connecté du chauffage pièce par pièce » ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Non, depuis le 22 novembre 2024, il n'est plus possible de faire une demande de prime Coup de pouce pilotage connecté du chauffage pièce par pièce."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Arrêté du 18 novembre 2024 supprimant le Coup de pouce « Pilotage connecté du chauffage pièce par pièce »",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000050626971/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Conseillers spécialisés en travaux de rénovation de l'habitat (France Rénov')"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "peut-on-encore-beneficier-de-la-prime-coup-de-pouce-pilotage-connecte-du-chauffage-piece-par-piece",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "aides-et-prets-pour-l-amelioration-et-la-renovation-energetique-de-l-habitat",
+      "titre": "Aides et prêts pour l'amélioration et la rénovation énergétique de l'habitat"
+    }
+  ]
+}

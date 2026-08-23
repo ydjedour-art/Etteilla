@@ -1,0 +1,89 @@
+{
+  "id": "F598",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Peut-on inscrire son enfant dans l'école publique d'une autre commune ?",
+  "theme": "Famille - Scolarité",
+  "description": "Un parent peut demander à inscrire son enfant dans l'école publique d'une autre commune que celle où il réside.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-01-07",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F598",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "École primaire (maternelle et élémentaire)",
+    "Peut-on inscrire son enfant dans l'école publique d'une autre commune ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Oui, vous pouvez demander à inscrire votre enfant dans l'école publique d'une autre commune que celle où vous résidez.",
+        "Les démarches sont différentes selon le motif pour lequel vous faites la demande.",
+        "Choix de la famille",
+        "Vous pouvez inscrire votre enfant dans l'école d'une commune différente de celle où vous habitez.",
+        "Pour cela, vous devez d'abord obtenir l'accord du maire de votre commune de résidence.",
+        "Vous devez respecter cette démarche même si l'école de l'autre commune est plus proche de votre domicile.",
+        "Vous devez ensuite obtenir l'accord du maire de la commune où vous souhaitez l'inscrire. Cet accord dépend également des places disponibles dans l'école.",
+        "Mairie",
+        "Vous devez enfin inscrire votre enfant auprès de la direction de l'école.",
+        "Établissement scolaire",
+        "Absence d'école dans la commune de résidence",
+        "En l'absence d'école dans votre commune de résidence, vous pouvez inscrire votre enfant dans l'école d'une commune proche sans l'accord préalable du maire de votre commune de résidence.",
+        "Vous devez d'abord inscrire votre enfant auprès de la mairie de la commune d’accueil.",
+        "Mairie",
+        "Vous devez ensuite finaliser l'inscription auprès de la direction de l'école.",
+        "Établissement scolaire",
+        "Absence de cantine ou de garderie dans l'école de la commune de résidence",
+        "Si vous habitez dans une commune dont l'école n'assure pas de services de restauration ou de garderie, vous pouvez inscrire votre enfant dans l'école d'une autre commune.",
+        "Vous n'avez pas à obtenir l'accord du maire de votre commune de résidence.",
+        "Toutefois, vous devez impérativement exercer une activité professionnelle.",
+        "Nécessité en raison de l'état de santé de l'enfant",
+        "Si votre enfant nécessite une hospitalisation fréquente ou des soins prolongés dans une autre commune que celle où vous résidez, vous pouvez l'inscrire dans la commune où se déroulent l'hospitalisation ou les soins.",
+        "Vous n'avez pas besoin d'obtenir l'accord du maire de votre commune de résidence.",
+        "Vous devez d'abord inscrire votre enfant auprès de la mairie de la commune d'accueil.",
+        "Mairie",
+        "Vous devez ensuite finaliser l'inscription auprès de la direction de l'école.",
+        "Établissement scolaire",
+        "Scolarisation d'une fratrie",
+        "Vous pouvez inscrire votre enfant dans une école d'une autre commune si son frère ou sa sœur y est déjà inscrit la même année scolaire.",
+        "L'accord préalable du maire de votre commune de résidence n'est pas nécessaire."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'éducation : articles L212-1 à L212-9",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006182379"
+    },
+    {
+      "titre": "Code de l'éducation : articles R212-21 à R212-23",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006182474"
+    },
+    {
+      "titre": "Code de l'éducation : articles L131-5",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037399133/2019-03-01"
+    },
+    {
+      "titre": "Décret n°2014-1275 du 23 octobre 2014 relatif aux exceptions au principe \"silence vaut accord\" (éducation et enseignement supérieur)",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000029675486/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Établissement scolaire",
+    "Mairie"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "peut-on-inscrire-son-enfant-dans-l-ecole-publique-d-une-autre-commune",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "ecole-primaire-maternelle-et-elementaire",
+      "titre": "École primaire (maternelle et élémentaire)"
+    }
+  ]
+}

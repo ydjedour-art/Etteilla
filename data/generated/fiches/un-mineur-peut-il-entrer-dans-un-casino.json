@@ -1,0 +1,61 @@
+{
+  "id": "F15815",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Un mineur peut-il entrer dans un casino ?",
+  "theme": "Social - Santé",
+  "description": "Un mineur, même émancipé, ne peut pas entrer dans un casino, même s'il ne joue pas ou s'il est accompagné d'une personne âgée de plus de 18 ans",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-06-18",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F15815",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Addictions",
+    "Un mineur peut-il entrer dans un casino ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Non. Un mineur, y compris émancipé, ne peut pas entrer dans un casino, même :",
+        "• S'il ne joue pas",
+        "• Ou s'il est accompagné d'une personne âgée de plus de 18 ans (y compris un parent).",
+        "Le casino doit contrôler systématiquement l'âge de toute personne accédant aux salles de jeux.",
+        "C'est pourquoi, il est demandé de présenter une pièce d'identité",
+        "Si la personne contrôlée est française, elle peut présenter :",
+        "• Une carte nationale d'identité en cours de validité ou ayant expiré depuis moins de 5 ans",
+        "• Un passeport en cours de validité ou ayant expiré depuis moins de 5 ans)",
+        "• Un permis de conduire français en cours de validité."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la sécurité intérieure : articles L320-1 à L320-18",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000025503132/LEGISCTA000039168196"
+    },
+    {
+      "titre": "Code de la sécurité intérieure : Article R321-27",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042988702/"
+    },
+    {
+      "titre": "Arrêté du 14 mai 2007 relatif à la réglementation des jeux dans les casinos",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000278899"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "un-mineur-peut-il-entrer-dans-un-casino",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "addictions",
+      "titre": "Addictions"
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "id": "F182",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Don d'organe (prélèvement sur une personne vivante)",
+  "theme": "Social - Santé",
+  "description": "Une personne vivante peut faire un don d'organe dans l'intérêt thérapeutique direct d'un receveur. Le receveur est obligatoirement un proche.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-06-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F182",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Don du sang - Don d'organe d'une personne vivante",
+    "Don d'organe (prélèvement sur une personne vivante)"
+  ],
+  "introduction": "Vous vous demandez si vous pouvez de votre vivant faire un don d'organe ? Oui, vous le pouvez dans l'intérêt thérapeutique direct d'un receveur. Ce receveur est obligatoirement un de vos proches. Il est aussi possible d'avoir recours à un don croisé. Une procédure doit être respectée. Elle implique notamment de s'adresser à un établissement de santé. Nous vous exposons ici les règles à connaître.",
+  "chapitres": [
+    {
+      "titre": "Qui peut faire un don d'organe de son vivant ?",
+      "contenu": [
+        "Don au sein de l'entourage proche",
+        "Une personne malade peut recevoir un don d'organe de votre part si vous êtes l'un de ses proches, c'est-à-dire :",
+        "• Son père ou sa mère",
+        "• Son conjoint",
+        "• Le conjoint de son père ou de sa mère",
+        "• Son fils ou sa fille",
+        "• Son frère ou sa sœur",
+        "• Ses grands-parents, oncles ou tantes, cousins ou cousines germaines",
+        "• La personne avec laquelle elle vit en couple depuis au moins 2 ans",
+        "• Toute personne avec laquelle elle entretient un lien affectif étroit et stable depuis au moins 2 ans.",
+        "Don croisé",
+        "En cas d'incompatibilité entre vous et le receveur, vous et ce receveur pouvez vous voir proposer le recours à un don croisé d'organes.",
+        "Cela consiste pour un receveur potentiel à bénéficier du don d'une autre personne ayant exprimé l'intention de don et également placée dans une situation d'incompatibilité à l'égard du receveur initialement désigné. Ce dernier bénéficiant du don d'un autre.",
+        "Le nombre maximal de paires de donneurs-receveurs pouvant être impliquées dans un don croisé est de 6.",
+        "Dans le cadre d'un don croisé d'organes, il peut y avoir recours à un organe prélevé sur une personne décédée.",
+        "[Exemple] Un donneur D1 souhaite donner à son proche, le receveur R1, mais n’est pas compatible avec lui. Par ailleurs, un donneur D2 souhaite également donner à son proche, le receveur R2, mais n’est pas compatible avec lui. Si le donneur D1 est compatible avec le receveur R2 et que le donneur D2 est compatible avec le receveur R1, une greffe peut être envisagée entre le donneur D1 et le receveur R2 et une autre entre le donneur D2 et le receveur R1. C’est cela que l’on appelle le don croisé.",
+        "Cette procédure préserve l'anonymat entre donneur et receveur.",
+        "[À noter] Aucun prélèvement d'organes, en vue d'un don, n'est possible sur un mineur ou majeur faisant l'objet d'une mesure de protection intégrant la protection de la personne (et non uniquement ses biens)."
+      ]
+    },
+    {
+      "titre": "Quelle est la procédure pour un don d'organe de son vivant ?",
+      "contenu": [
+        "Information du donneur",
+        "Avant d'exprimer votre consentement, vous êtes informé des faits suivants :",
+        "• Risques encourus",
+        "• Conséquences éventuelles du prélèvement (conséquences prévisibles d'ordre physique ou psychologique, répercussions éventuelles sur votre vie personnelle, familiale et professionnelle)",
+        "• Résultats qui peuvent être attendus de la greffe pour le receveur",
+        "• Éventuellement, des conditions d'un don croisé notamment sur la possibilité de recourir à un organe prélevé sur une personne décédée.",
+        "Pour cela, vous êtes reçu par un comité d'experts. Le comité s'assure que votre choix est libre et que vous avez conscience des enjeux et des risques éventuels de l'opération.",
+        "[À savoir] L'établissement de santé dans lequel le prélèvement est envisagé vous communique la liste des sites où siège ce comité d'expert. Vous devez choisir au sein de cette liste le lieu de réunion du comité.",
+        "Recueil du consentement par écrit du donneur",
+        "Vous devez, de votre propre initiative, exprimer votre consentement par écrit devant le président du tribunal judiciaire ou un magistrat désigné par lui. Vous pouvez revenir sur votre décision à tout moment.",
+        "Vous pouvez saisir l'un des tribunaux judiciaires suivants :",
+        "• Celui du lieu de l'établissement de santé où le prélèvement est envisagé",
+        "• Celui du lieu de l'établissement de santé où le receveur est hospitalisé",
+        "• Celui du lieu de votre résidence si vous vivez en France.",
+        "Tribunal judiciaire ou tribunal de proximité",
+        "[À noter] Les médecins traitants s'assurent que leurs patients âgés d'au moins 16 ans sont informés des façons de consentir au don d'organes à fins de greffe. Sinon, ils leur délivrent individuellement cette information dès que possible. Les médecins de l'éducation nationale et les médecins de médecine préventive des établissements d'enseignement supérieur participent à la diffusion de cette information.",
+        "Des particularités existent si une urgence vitale est avérée.",
+        "Cas général",
+        "Vous devez remplir le formulaire cerfa n°15427 et le transmettre au tribunal judiciaire :",
+        "Consentement au don d'organe entre personnes vivantes en l'absence d'urgence vitale",
+        "Notice - Consentement au don d'organe entre personnes vivantes",
+        "Tribunal judiciaire ou tribunal de proximité",
+        "Urgence vitale",
+        "En cas d'urgence vitale attestée par le médecin responsable du service où le prélèvement est envisagé, vous adressez au Procureur de la République un document signé indiquant votre consentement au don et votre lien avec le receveur.",
+        "Le procureur atteste par écrit qu'il a reçu ce consentement et en informe le médecin responsable.",
+        "Tribunal judiciaire ou tribunal de proximité",
+        "Autorisation de prélèvement",
+        "Vous devez adresser au comité d'expert une demande d'autorisation de prélèvement. Votre demande doit être accompagnée de la copie de l'acte par lequel a été recueilli votre consentement.",
+        "Après délibérations, la décision autorisant le prélèvement est prise par le comité d'experts à la majorité.",
+        "La décision est communiquée par tout moyen qui permet d'en garder une trace écrite aux 2 personnes suivantes :",
+        "• Vous-même",
+        "• Médecin responsable du service où le prélèvement est envisagé. Il la transmet l'autorisation au directeur de l'établissement.",
+        "[Rappel] L'établissement de santé dans lequel le prélèvement est envisagé vous communique la liste des sites où siège ce comité d'expert. Vous devez choisir au sein de cette liste le lieu de réunion du comité."
+      ]
+    },
+    {
+      "titre": "Quelle est la prise en charge des frais pour un don d'organe de son vivant ?",
+      "contenu": [
+        "L'établissement de santé qui réalise le prélèvement prend en charge les frais de santé occasionnés.",
+        "Il rembourse certains frais que vous avez engagé sur présentation des justificatifs de dépenses. Il s'agit des frais suivants :",
+        "• Frais de transport",
+        "• Frais d'hébergement hors hospitalisation dans la limite de 230 € par jour",
+        "• Totalité des frais d'hospitalisation (y compris le forfait hospitalier), d'examen et de traitements prescrits en vue du prélèvement",
+        "• Frais de suivi et de soins en raison du prélèvement dont vous avez fait l'objet",
+        "• Indemnité journalière éventuelle pour perte de rémunération, limitée à 171,87 € bruts.",
+        "[À noter] Si votre état nécessite l'assistance d'un tiers, les dépenses de votre accompagnateur peuvent être prises en charge dans les mêmes conditions."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la santé publique : articles L1231-1 à L1231-4",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006171022"
+    },
+    {
+      "titre": "Code de la santé publique : articles R1211-2 à R1211-9",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000006196177"
+    },
+    {
+      "titre": "Code de la santé publique : articles R1231-2 à R1231-4",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006190950"
+    },
+    {
+      "titre": "Code de la santé publique : articles R1231-8 à R1231-10",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006190952"
+    },
+    {
+      "titre": "Code de la santé publique : articles R1241-3-1 à R1241-3-3",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000037042296"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Consentement au don d'organe entre personnes vivantes en l'absence d'urgence vitale",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_15427.do",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Agence de biomédecine"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Site sur le don d'organes",
+      "url": "https://www.dondorganes.fr/"
+    }
+  ],
+  "slug": "don-d-organe-prelevement-sur-une-personne-vivante",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "don-du-sang-don-d-organe-d-une-personne-vivante",
+      "titre": "Don du sang - Don d'organe d'une personne vivante"
+    }
+  ]
+}

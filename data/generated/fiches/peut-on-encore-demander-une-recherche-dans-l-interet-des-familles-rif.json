@@ -1,0 +1,65 @@
+{
+  "id": "F1193",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Peut-on encore demander une recherche dans l'intérêt des familles (Rif) ?",
+  "theme": "Famille - Scolarité",
+  "description": "Il n'est plus possible de déposer une demande de recherche dans l'intérêt des familles, car cette procédure a été supprimée.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-05-26",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1193",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Disparition et enlèvement de personnes",
+    "Peut-on encore demander une recherche dans l'intérêt des familles (Rif) ?"
+  ],
+  "introduction": "Non, il n'est plus possible de déposer une demande de recherche dans l'intérêt des familles. Cette procédure a été supprimée. En cas de disparition inquiétante d'une personne, la démarche à accomplir diffère selon que la personne est majeure ou mineure :",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "La personne disparue est majeure",
+        "En cas de disparition inquiétante d'un majeur, vous devez prévenir les services de police ou de gendarmerie proches de votre domicile. Ces services mettront en œuvre des actions de recherches.",
+        "Pour contacter la police ou la gendarmerie, vous pouvez appeler le 17.",
+        "Vous pouvez aussi vous rendre directement dans un commissariat ou une gendarmerie. Leurs locaux sont ouverts au public 24h/24. Une photographie récente de la personne vous sera demandée.",
+        "Commissariat",
+        "Brigade de gendarmerie",
+        "La personne disparue est mineure",
+        "En cas de disparition inquiétante d'un mineur ou d'un enlèvement parental (y compris une fugue), vous devez prévenir les services de police ou de gendarmerie proches de votre domicile. Ces services mettront en œuvre des actions de recherches.",
+        "Pour contacter la police ou la gendarmerie, vous pouvez appeler le 17.",
+        "La disparition inexpliquée d'un mineur est une situation d'urgence.",
+        "Vous pouvez aussi vous rendre directement dans un commissariat ou une gendarmerie. Leurs locaux sont ouverts au public 24h/24. Une photographie récente du mineur vous sera demandée.",
+        "Commissariat",
+        "Brigade de gendarmerie"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de procédure pénal : article 74-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006575117/"
+    },
+    {
+      "titre": "Article 26 de la loi n° 95-73 du 21 janvier 1995 d'orientation et de programmation relative à la sécurité",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006527983/"
+    },
+    {
+      "titre": "Circulaire du 26 avril 2013 d'abrogation relative aux recherches dans l'intérêt des familles",
+      "url": "https://www.legifrance.gouv.fr/download/pdf/circ?id=36977"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "peut-on-encore-demander-une-recherche-dans-l-interet-des-familles-rif",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "disparition-et-enlevement-de-personnes",
+      "titre": "Disparition et enlèvement de personnes"
+    }
+  ]
+}

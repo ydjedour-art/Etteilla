@@ -1,0 +1,77 @@
+{
+  "id": "F33425",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Véhicule en leasing : comment signaler un changement sur la carte grise ?",
+  "theme": "Transports - Mobilité",
+  "description": "La modification de changement de situation sur la carte grise d'un véhicule en LOA est à réaliser par l'organisme de crédit, propriétaire du véhicule.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-04-29",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33425",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Carte grise (certificat d'immatriculation)",
+    "Véhicule en leasing : comment signaler un changement sur la carte grise ?"
+  ],
+  "introduction": "Vous louez en véhicule en leasing (ou crédit-bail ou location avec option d'achat) et votre situation change (par exemple déménagement, mariage) ? Vous devez vous adresser au propriétaire du véhicule (organisme financier ou prêteur) qui doit se charger des formalités de modification de la carte grise.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les documents à transmettre au propriétaire du véhicule varient selon votre situation :",
+        "Vous changez d'adresse",
+        "Vous devez signaler votre changement d'adresse au prêteur du véhicule. Vous lui fournirez un justificatif de domicile de moins de 6 mois (quittance loyer, gaz, électricité, eau, téléphone fixe ou mobile).",
+        "[Attention] Vérifiez auprès de votre prêteur du véhicule si vous devez lui transmettre l'original de la carte grise.",
+        "Vous vous mariez",
+        "Si vous souhaitez utiliser le nom de votre époux ou épouse, vous devez signaler votre changement de situation au prêteur du véhicule.",
+        "C'est à lui d'effectuer la démarche de signalement auprès des autorités.",
+        "[Attention] Vérifiez auprès du prêteur du véhicule les documents que vous devez lui transmettre. En plus d'une copie d'extrait d'acte de mariage ou de votre livret de famille, le prêteur du véhicule peut avoir besoin d'autres documents, comme la carte grise originale.",
+        "Vous divorcez",
+        "Si vous utilisiez le nom de votre époux ou épouse et qu'il était indiqué sur votre carte grise, vous devez la faire modifier pour y indiquer uniquement votre nom de famille (sauf si vous êtes autorisé à continuer de l'utiliser).",
+        "Signalez ce changement de situation au prêteur du véhicule pour qu'il effectue la démarche auprès des autorités.",
+        "[Attention] Vérifiez auprès du prêteur du véhicule les documents que vous devez lui transmettre. En effet, en plus d'une copie du jugement de divorce, le prêteur peut avoir besoin d'autres documents, comme la carte grise originale.",
+        "Vous voulez ajouter un cotitulaire",
+        "C'est le propriétaire (organisme financier ou prêteur) qui doit se charger des formalités de modification de la carte grise.",
+        "Vous devez lui transmettre les documents nécessaires.",
+        "Contactez-le pour en connaître le détail.",
+        "Vous voulez retirer le nom d'un cotitulaire",
+        "C'est le propriétaire (organisme financier ou prêteur) qui doit se charger des formalités de modification de la carte grise.",
+        "Vous devez lui transmettre les documents nécessaires.",
+        "Contactez-le pour en connaître le détail.",
+        "Vous changez de nom ou de prénom pour motif légitime",
+        "Si vous changez de nom pour motif légitime (ou de prénom), vous devez le faire modifier sur la carte grise de votre véhicule.",
+        "Pour cela, vous devez adresser un justificatif d'identité au prêteur du véhicule. Il se chargera de faire la démarche."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la route : articles R322-1 à R322-14",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074228/LEGISCTA000006177098"
+    },
+    {
+      "titre": "Arrêté du 9 février 2009 relatif aux démarches d'immatriculation des véhicules",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000020237165"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Déclaration de changement d'adresse",
+      "url": "https://demarches.service-public.gouv.fr/mademarche/JeChangeDeCoordonnees/demarche",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "vehicule-en-leasing-comment-signaler-un-changement-sur-la-carte-grise",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "carte-grise-certificat-d-immatriculation",
+      "titre": "Carte grise (certificat d'immatriculation)"
+    }
+  ]
+}

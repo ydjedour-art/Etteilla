@@ -1,0 +1,42 @@
+{
+  "id": "F33912",
+  "type_publication": "Fiche avec liens externes",
+  "titre": "Hébergement temporaire pour personne âgée (résidence autonomie, accueillant familial...)",
+  "theme": "Social - Santé",
+  "description": "L'hébergement temporaire permet à une personne âgée qui vit à son domicile de trouver une solution d'hébergement pour une courte durée.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-08-27",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33912",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Hébergement des personnes âgées",
+    "Hébergement temporaire pour personne âgée (résidence autonomie, accueillant familial...)"
+  ],
+  "introduction": "L'hébergement temporaire permet à une personne âgée qui vit à son domicile de trouver une solution d'hébergement pour une courte durée. La personne peut par exemple être hébergée dans une résidence autonomie, chez un accueillant familial ou chez un proche.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "La Caisse nationale de solidarité pour l'autonomie présente les informations à connaître :"
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [
+    "Point d'information local dédié aux personnes âgées"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "hebergement-temporaire-pour-personne-agee-residence-autonomie-accueillant-familial",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "hebergement-des-personnes-agees",
+      "titre": "Hébergement des personnes âgées"
+    }
+  ]
+}

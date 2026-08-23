@@ -1,0 +1,33 @@
+{
+  "id": "F36519",
+  "type_publication": "Recherche guidée",
+  "titre": "[RG - Inscription d'un étranger dans l'enseignement supérieur]",
+  "theme": "Famille - Scolarité",
+  "description": "[RG - Inscription d'un étranger dans l'enseignement supérieur]",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2022-07-15",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F36519",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Étudiant étranger en France",
+    "[RG - Inscription d'un étranger dans l'enseignement supérieur]"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "rg-inscription-d-un-etranger-dans-l-enseignement-superieur",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "etudiant-etranger-en-france",
+      "titre": "Étudiant étranger en France"
+    }
+  ]
+}

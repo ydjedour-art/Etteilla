@@ -1,0 +1,116 @@
+{
+  "id": "F2863",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Inscription d'un étranger dans l'enseignement supérieur",
+  "theme": "Famille - Scolarité",
+  "description": "La procédure d'inscription dans l'enseignement supérieur pour les étudiants étrangers varie selon la nationalité, le niveau d'étude ou le type d'établissement.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-12-05",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2863",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Étudiant étranger en France",
+    "Inscription d'un étranger dans l'enseignement supérieur"
+  ],
+  "introduction": "Vous êtes étudiant étranger (dans un pays européen ou non) ou réfugié en France et vous souhaitez vous inscrire pour étudier dans l'enseignement supérieur français ? La procédure d'inscription varie selon votre nationalité, votre niveau d'étude ou le type d'établissement d'enseignement supérieur dans lequel vous souhaitez vous inscrire.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de l'éducation : articles D612-11 à D612-18",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000027864420"
+    },
+    {
+      "titre": "Arrêté du 30 mai 2013 relatif aux demandes d'admission préalable en universités et à l'évaluation du niveau de compréhension du français des étrangers",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000027481305/"
+    },
+    {
+      "titre": "Arrêté du 25 avril 2014 portant reconnaissance du test d'évaluation de français (TEF)",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000029039693/"
+    },
+    {
+      "titre": "Décret n°2014-1274 du 23 octobre 2014 relatif aux exceptions à l'application du principe \"le silence vaut acceptation\" (éducation et enseignement supérieur)",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000029675463"
+    },
+    {
+      "titre": "Arrêté du 30 septembre 2015 relatif au montant des droits d'inscription au test de connaissance du français",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000031417939"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Parcoursurp : inscription dans l'enseignement supérieur",
+      "url": "https://dossier.parcoursup.fr/Candidat/authentification",
+      "type": "selNG"
+    },
+    {
+      "titre": "Mon master : inscription en master",
+      "url": "https://monmaster.gouv.fr/",
+      "type": "selNG"
+    },
+    {
+      "titre": "Plateforme Études en France",
+      "url": "https://pastel.diplomatie.gouv.fr/etudesenfrance/dyn/public/authentification/login.html",
+      "type": "selNG"
+    },
+    {
+      "titre": "Demande d'admission préalable à l'inscription dans les cycles d'études des écoles nationales supérieures d'architecture pour l'année 2026-2027 (dossier jaune)",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_11962.do",
+      "type": "formulaireNG"
+    },
+    {
+      "titre": "Dossier vert (étudiant étranger) : demande d'admission préalable en université - 1ère année de licence ou Paces - 2026-2027",
+      "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2024-10/dossier-vert-2026-2027-34741.pdf",
+      "type": "formulaireNG"
+    }
+  ],
+  "contacts": [
+    "Établissement d'enseignement supérieur",
+    "Ambassade ou consulat français à l'étranger"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Étudiant étranger : comment candidater dans un établissement supérieur ?",
+      "url": "https://www.campusfrance.org/fr/inscription-enseignement-superieur-France"
+    },
+    {
+      "titre": "Étudiant étranger : vous êtes \"étudiant européen\"",
+      "url": "https://www.campusfrance.org/fr/inscription-etudiant-europeen"
+    },
+    {
+      "titre": "Étudiant étranger vivant dans un pays relevant de la procédure Études en France",
+      "url": "https://www.campusfrance.org/fr/procedure-etudes-en-France"
+    },
+    {
+      "titre": "Étudiant étranger non européen résidant en Europe",
+      "url": "https://www.campusfrance.org/fr/inscription-etudiant-residant-Europe"
+    },
+    {
+      "titre": "Étudiant étranger d'un pays non européen et hors procédure Études en France",
+      "url": "https://www.campusfrance.org/fr/inscription-etudiant-non-europeen"
+    },
+    {
+      "titre": "Venir étudier en France : demande d'admission préalable en 1ère année de licence",
+      "url": "http://www.enseignementsup-recherche.gouv.fr/cid24146/-dossier-vert-demande-d-admission-prealable-en-premiere-annee-de-licence-ou-de-paces.html"
+    },
+    {
+      "titre": "Venir étudier en France : études d'art et d'architecture",
+      "url": "http://www.campusart.org/"
+    },
+    {
+      "titre": "Poursuivre ou reprendre ses études pendant son exil en France",
+      "url": "https://www.campusfrance.org/fr/poursuivre-reprendre-etudes-exil-france-refugies-migrants"
+    }
+  ],
+  "slug": "inscription-d-un-etranger-dans-l-enseignement-superieur",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "etudiant-etranger-en-france",
+      "titre": "Étudiant étranger en France"
+    }
+  ]
+}

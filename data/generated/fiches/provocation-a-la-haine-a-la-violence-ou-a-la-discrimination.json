@@ -1,0 +1,90 @@
+{
+  "id": "F32575",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Provocation à la haine, à la violence ou à la discrimination",
+  "theme": "Justice",
+  "description": "L'incitation à la haine, à la violence ou à la discrimination est une infraction qui consiste à pousser d'autres personnes à avoir une réaction malveillante",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-03-10",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F32575",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Injure - Diffamation - Incitation à la haine",
+    "Provocation à la haine, à la violence ou à la discrimination"
+  ],
+  "introduction": "Vous êtes victime d'un écrit ou d'un discours qui incite d'autres personnes à avoir une réaction haineuse ou violente ? Il s'agit d'une provocation à la haine, à la violence ou à la discrimination. Si ces propos ou contenus sont tenus ou exposés en public, la provocation est publique. S'ils ont lieu dans un espace restreint ou privé, la provocation est non publique. Des moyens existent pour signaler ces faits et veiller à ce que les auteurs soient punis. Voici les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Loi du 29 juillet 1881 sur la liberté de la presse : article 24",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043982456"
+    },
+    {
+      "titre": "Loi du 29 juillet 1881 : article 23",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006419708"
+    },
+    {
+      "titre": "Loi du 29 juillet 1881 : article 65",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006419866/2024-06-21/"
+    },
+    {
+      "titre": "Loi du 29 juillet 1881 sur la liberté de la presse : article 65-3",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000033975061/"
+    },
+    {
+      "titre": "Loi n°2024-449 du 21 mai 2024 : article 16",
+      "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000049563402"
+    },
+    {
+      "titre": "Loi n°2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique : article 6",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049577522"
+    },
+    {
+      "titre": "Règlement (UE) 2022/2065 Du Parlement européen et du Conseil du 19 octobre 2022",
+      "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=CELEX:32022R2065"
+    },
+    {
+      "titre": "Loi n°82-652 du 29 juillet 1982 sur la communication audiovisuelle : article 93-3",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000020740559"
+    },
+    {
+      "titre": "Code pénal : article R625-7",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035376958"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Signaler un contenu internet illégal (internet-signalement : Pharos)",
+      "url": "https://internet-signalement.gouv.fr/",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "116 006 - Numéro d'aide aux victimes",
+    "Numéro unique pour les jeunes victimes de harcèlement et de violences numériques",
+    "SOS Racisme",
+    "Avocat"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Prévention de la pédopornographie et de la violence sur internet",
+      "url": "http://www.pointdecontact.net"
+    },
+    {
+      "titre": "Organismes de règlement extrajudiciaire des litiges",
+      "url": "https://digital-strategy.ec.europa.eu/fr/policies/dsa-out-court-dispute-settlement"
+    }
+  ],
+  "slug": "provocation-a-la-haine-a-la-violence-ou-a-la-discrimination",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "injure-diffamation-incitation-a-la-haine",
+      "titre": "Injure - Diffamation - Incitation à la haine"
+    }
+  ]
+}

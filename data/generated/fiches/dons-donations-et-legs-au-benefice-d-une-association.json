@@ -1,0 +1,112 @@
+{
+  "id": "F2722",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Dons, donations et legs au bénéfice d'une association",
+  "theme": "Associations, fondations et fonds de dotation",
+  "description": "Les associations habilitées à recevoir des donations et des legs sont soumises à certaines obligations.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-02-20",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2722",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Associations, fondations et fonds de dotation",
+    "Ressources financières d'une association",
+    "Dons, donations et legs au bénéfice d'une association"
+  ],
+  "introduction": "Toute association peut recevoir des dons manuels sans avoir à demander une autorisation spéciale. En revanche, seules certaines associations peuvent recevoir des donations et legs qui doivent être déclarés en préfecture. Ces derniers sont soumis aux droits de succession, sauf lorsqu'il s'agit de certaines associations. Toute association qui bénéficie d'au moins 153 000 € de dons doit faire certifier ses comptes par un commissaire aux comptes et publier ses comptes annuels au JOAFE.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Loi du 1er juillet 1901 relative au contrat d'association",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006069570/"
+    },
+    {
+      "titre": "Loi du 9 décembre 1905 concernant la séparation des Églises et de l'Etat",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000508749/"
+    },
+    {
+      "titre": "Loi n°87-571 du 23 juillet 1987 sur le développement du mécénat",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006069014/"
+    },
+    {
+      "titre": "Loi n°2009-526 du 12 mai 2009 de simplification et de clarification du droit et d'allègement des procédures : article 111",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043982925"
+    },
+    {
+      "titre": "Code civil : articles 901 à 911",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006136540/"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : articles L211-1 à L211-14",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006157577/"
+    },
+    {
+      "titre": "Code général des impôts : article 200",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000006191957"
+    },
+    {
+      "titre": "Code général des impôts : article 238 bis",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041470858"
+    },
+    {
+      "titre": "Code général des impôts : article 757",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006197319/"
+    },
+    {
+      "titre": "Code général des impôts : articles 777 à 778 bis",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000006191748/"
+    },
+    {
+      "titre": "Code général des impôts : article 795",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045293476"
+    },
+    {
+      "titre": "Décret n°2007-807 du 11 mai 2007 relatif aux donations et legs consentis aux associations, fondations, congrégations et établissements publics du culte",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006056259/"
+    },
+    {
+      "titre": "Décret n°2009-540 du 14 mai 2009 relatifs aux obligations de publicité des comptes annuels des associations et fondations",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000020616498/"
+    },
+    {
+      "titre": "Bofip - Impôts n°BOI-IR-RICI-250-30 relatif au calcul de la réduction d'impôts pour les dons faits par les particuliers",
+      "url": "http://bofip.impots.gouv.fr/bofip/5873-PGP?datePubl"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-BIC-RICI-20-30 sur la réduction d'impôt pour le mécénat",
+      "url": "http://bofip.impots.gouv.fr/bofip/6487-PGP.html"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Reçu des dons et versements effectués par un particulier à un organisme d'intérêt général",
+      "url": "https://www.impots.gouv.fr/formulaire/2041-rd/recu-des-dons-et-versements-effectues-par-les-particuliers-au-titre-des-articles",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Publication des comptes annuels des associations, fondations et fonds de dotation",
+      "url": "https://www.journal-officiel.gouv.fr/pages/associations-comptes/",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "Point ressource à la vie associative"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Guide juridique et fiscal du mécénat",
+      "url": "http://www.associations.gouv.fr/IMG/pdf/mecenat_guide_juridique.pdf"
+    }
+  ],
+  "slug": "dons-donations-et-legs-au-benefice-d-une-association",
+  "path": [
+    {
+      "slug": "associations-fondations-et-fonds-de-dotation",
+      "titre": "Associations, fondations et fonds de dotation"
+    },
+    {
+      "slug": "ressources-financieres-d-une-association",
+      "titre": "Ressources financières d'une association"
+    }
+  ]
+}

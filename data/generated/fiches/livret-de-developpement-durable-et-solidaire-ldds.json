@@ -1,0 +1,205 @@
+{
+  "id": "F2368",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Livret de développement durable et solidaire (LDDS)",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Le livret de développement durable et solidaire (LDDS) remplace le Codevi. C'est un produit d'épargne rémunéré non imposable. Les fonds restent disponibles.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-08-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2368",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Livrets, plans et comptes d'épargne",
+    "Livret de développement durable et solidaire (LDDS)"
+  ],
+  "introduction": "Vous voulez faire fructifier votre épargne de manière sécurisée et sans payer d'impôt ? Vous pouvez ouvrir un livret de développement durable et solidaire (LDDS), autrefois appelé Codevi. C'est un placement dont le taux d'intérêt est fixé par l’État. Votre argent reste disponible et vous n'avez pas d'impôt à payer sur les intérêts. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Qui peut ouvrir un LDDS ?",
+      "contenu": [
+        "Il n'y a pas de condition de revenus pour ouvrir un LDDS.",
+        "Condition de domicile fiscal",
+        "Pour pouvoir ouvrir un livret de développement durable et solidaire (LDDS) il faut avoir son domicile fiscal en France.",
+        "Il n'y a pas de condition de nationalité pour ouvrir un LDDS.",
+        "Condition liée au foyer fiscal",
+        "Dans le même foyer fiscal, chaque époux ou chaque partenaire de Pacs soumis à imposition commune peut détenir un LDDS.",
+        "Les autres personnes rattachées à ce foyer fiscal ne peuvent pas détenir un LDDS tant qu'elles n'ont pas une imposition séparée.",
+        "Une personne majeure (ou mineure) ne peut pas détenir un LDDS tant qu'elle est fiscalement à la charge de ses parents. C'est le cas par exemple d'un apprenti ou d'un étudiant rattaché au foyer fiscal de ses parents, d'un majeur handicapé s'il n'a pas sa propre déclaration d'impôt."
+      ]
+    },
+    {
+      "titre": "Est-il possible d’ouvrir et de détenir plusieurs LDDS ?",
+      "contenu": [
+        "Non, une personne ne peut pas ouvrir ou détenir plusieurs LDDS, car chaque contribuable a droit à 1 seul LDDS.",
+        "Un LDDS est personnel, il ne peut pas être joint avec une autre personne.",
+        "Dans le contrat d'ouverture avec la banque, le client doit déclarer sur l'honneur qu'il ne détient pas déjà ce livret dans un autre établissement.",
+        "[Rappel] Il peut y avoir au maximum 2 LDDS dans un même foyer fiscal si les époux ou partenaires de Pacs, soumis à imposition commune, en détiennent 1 chacun."
+      ]
+    },
+    {
+      "titre": "Peut-on cumuler le LDDS avec d'autres produits d'épargne ?",
+      "contenu": [
+        "Oui, il est possible de cumuler un LDDS avec d'autres comptes sur livret, par exemple le livret A ou le LEP.",
+        "Si vous n’êtes plus rattaché fiscalement à vos parents et que vous avez moins de 25 ans, vous pouvez aussi cumuler un LDDS et un livret Jeune."
+      ]
+    },
+    {
+      "titre": "Quel est le montant du versement initial sur le LDDS ?",
+      "contenu": [
+        "La loi ne prévoit pas de montant minimum.",
+        "Cependant, la plupart des établissements demandent un versement initial de 10 €."
+      ]
+    },
+    {
+      "titre": "Quels sont les montants des versements et des retraits sur le LDDS ?",
+      "contenu": [
+        "Les versements et les retraits sont libres (dans la limite du plafond). Mais les banques fixent le montant minimum de chaque opération à 10 € .",
+        "Le solde du LDDS ne peut pas devenir inférieur à 10 €.",
+        "[À noter] Le LDDS ne permet pas de réaliser des paiements réguliers. Aucune carte de paiement ne peut être liée au LDDS, aucun prélèvement automatique ne peut être mis en place pour payer des factures ou rembourser un prêt avec son LDDS.",
+        "Les opérations que vous effectuez sur votre LDDS sont gratuites : ouverture, dépôt, retrait et clôture."
+      ]
+    },
+    {
+      "titre": "Quels sont les modes d'alimentation du LDDS ?",
+      "contenu": [
+        "Il n'y a pas d'obligation de versements périodiques. Les dépôts d'argent sont possibles à tout moment dans la limite du plafond.",
+        "Vous pouvez alimenter votre livret de développement durable et solidaire par chèque, par versement en espèces au guichet ou par virement depuis un compte à vue.",
+        "Depuis le 1er juillet 2023, vous pouvez faire un virement sur votre LDDS à partir d'un compte à vue ouvert dans une autre banque que celle où se trouve le LDDS."
+      ]
+    },
+    {
+      "titre": "Quel est le plafond du LDDS ?",
+      "contenu": [
+        "Le plafond du LDDS est de 12 000 €.",
+        "Le plafond peut être dépassé lorsque les intérêts sont ajoutés à votre épargne.",
+        "Mais lorsque le solde du livret atteint le plafond, ou le dépasse, suite à l'ajout des intérêts, vous ne pouvez plus faire de dépôt sur le livret."
+      ]
+    },
+    {
+      "titre": "Quel est le taux de rémunération du LDDS ?",
+      "contenu": [
+        "Taux",
+        "Le taux d'intérêt annuel est de 1,7 %",
+        "Calcul des intérêts",
+        "Les intérêts sont calculés le 1er et le 16 de chaque mois.",
+        "La date de la valeur, prise en compte pour le calcul des intérêts, varie suivant la date de l'opération (dépôt ou retrait) :",
+        "À quelle date sont calculés les intérêts ?",
+        "Type d'opération",
+        "Opération effectuée avant le 15 du mois",
+        "Opération effectuée à partir du 16 du mois",
+        "Dépôt",
+        "16 du même mois",
+        "1er jour du mois suivant",
+        "Retrait",
+        "Dernier jour du mois précédent",
+        "15 du mois",
+        "Les sommes déposées produisent des intérêts si elles sont placées par quinzaines entières.",
+        "Au 31 décembre de chaque année, les intérêts cumulés sur l'année s'ajoutent au capital. L'ajout des intérêts au 31 décembre peut porter la valeur du livret au-delà de 12 000 €."
+      ]
+    },
+    {
+      "titre": "Quelle est la fiscalité du LDDS ?",
+      "contenu": [
+        "Les intérêts accumulés sur le LDDS sont exonérés d'impôt sur le revenu et de prélèvements sociaux."
+      ]
+    },
+    {
+      "titre": "Faut-il répondre à la proposition faite chaque année par la banque d’effectuer un don depuis le LDDS ?",
+      "contenu": [
+        "Les banques doivent utiliser les sommes collectées dans le cadre du LDDS pour aider au financement de la trésorerie des petites et moyennes entreprises (PME) et des acteurs de l’économie sociale et solidaire ou pour financer des projets contribuant à la transition énergétique.",
+        "Chaque année, la banque auprès de laquelle vous avez ouvert votre livret doit vous proposer d’utiliser les sommes épargnées sur votre LDDS pour faire un ou plusieurs dons.",
+        "Elle vous propose une liste d'au moins 10 entreprises de l'économie sociale et solidaire.",
+        "Après que vous aurez communiqué le nom des entreprises choisies et le montant des dons, la banque pourra faire le versement directement depuis votre LDDS.",
+        "Vous n’êtes pas obligé de répondre à cette proposition, le don d’argent depuis votre LDDS est facultatif."
+      ]
+    },
+    {
+      "titre": "Comment clôturer le LDDS ?",
+      "contenu": [
+        "Vous pouvez clôturer votre LDDS à tout moment et sans frais.",
+        "Pour fermer votre LDDS, par lettre simple ou en vous déplaçant auprès de votre banque, vous devez préciser les informations suivantes :",
+        "• Références du LDDS",
+        "• Numéro de compte où doivent être déposées les sommes restant sur le livret",
+        "En cas de clôture du LDDS en cours d'année, les intérêts sur la période courue depuis le début de l'année sont crédités au jour de clôture.",
+        "Si une banque constate l’existence de 2 LDDS au nom d’une même personne, elle a l’obligation de clôturer le livret irrégulier. Le LDDS le plus récent sera annulé et les fonds seront transférés vers un compte d’attente."
+      ]
+    },
+    {
+      "titre": "Quels sont les frais bancaires applicables en cas de succession ?",
+      "contenu": [
+        "Quand la banque est informée du décès du titulaire du LDDS, elle doit clôturer le compte.",
+        "Les frais de succession sont desormais plafonnés dans toutes les banques pour les comptes de dépôt et les comptes sur livret.",
+        "La banque peut vous facturer des frais pour les démarches qu’elle effectue dans le cadre de la succession (inventaire des fonds, vérification des pouvoirs et de l’identité des héritiers, transfert d’argent aux héritiers...).",
+        "Le montant des frais est plafonné à 1 % du solde total des comptes et des produits d’épargne du défunt. Ce montant ne peut pas dépasser 857 €."
+      ]
+    },
+    {
+      "titre": "Comment faire pour retrouver un ancien LDDS et récupérer les fonds ?",
+      "contenu": [
+        "Si le titulaire du LDDS ne se manifeste plus auprès de la banque qui détient le LDDS, ce compte d'épargne est considéré comme inactif. La banque a l'obligation de conserver les fonds pendant un certain délai. Mais passé ce délai, elle devra fermer le compte et transférer les fonds à la Caisse des Dépôts.",
+        "Il est possible de demander à récupérer les fonds en utilisant le service en ligne Ciclade :",
+        "Ciclade (recherche des sommes oubliées provenant des comptes inactifs)"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code monétaire et financier : article L221-27",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033612660"
+    },
+    {
+      "titre": "Code monétaire et financier : articles D221-103 à D221-107",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072026/LEGISCTA000006169840/#LEGISCTA000041945697"
+    },
+    {
+      "titre": "Code général des impôts : article 157",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047622560"
+    },
+    {
+      "titre": "Code monétaire et financier : article L312-1-4-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051588993"
+    },
+    {
+      "titre": "Code monétaire et financier : article D312-1-3",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052097695"
+    },
+    {
+      "titre": "Arrêté du 19 avril 2007 modifiant l'arrêté du 1er mars 2006 fixant les règles d'emploi des sommes déposées sur les livrets de développement durable",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000276217"
+    },
+    {
+      "titre": "Arrêté du 6 février 2007 relatif au livret de développement durable",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000426412"
+    },
+    {
+      "titre": "Arrêté du 27 janvier 2021 relatif aux taux d'intérêt des produits d'épargne réglementée",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000043114027/"
+    },
+    {
+      "titre": "Arrêté du 28 juillet 2026 relatif aux taux d'intérêt de certains produits d'épargne réglementée",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054541376"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Info Banque - Assurance"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Livret de développement durable et solidaire (LDDS)",
+      "url": "https://www.abe-infoservice.fr/epargne/epargne-bancaire/livret-de-developpement-durable-et-solidaire-ldds"
+    }
+  ],
+  "slug": "livret-de-developpement-durable-et-solidaire-ldds",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "livrets-plans-et-comptes-d-epargne",
+      "titre": "Livrets, plans et comptes d'épargne"
+    }
+  ]
+}

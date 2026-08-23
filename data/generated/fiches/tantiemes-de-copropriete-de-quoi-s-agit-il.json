@@ -1,0 +1,85 @@
+{
+  "id": "F35451",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Tantièmes de copropriété : de quoi s'agit-il ?",
+  "theme": "Logement",
+  "description": "Les tantièmes correspondent à la part de copropriété possédée par chacun des copropriétaires.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-05-11",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35451",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Budget et charges de copropriété",
+    "Tantièmes de copropriété : de quoi s'agit-il ?"
+  ],
+  "introduction": "Dans un immeuble en copropriété, chaque lot (appartement, cave, parking, local commercial, etc.) comprend une partie privative et une quote-part des parties communes. Les tantièmes de copropriété correspondent à cette quote-part de propriété sur les parties communes. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Que sont les tantièmes de copropriété ?",
+      "contenu": [
+        "Les tantièmes correspondent à la part de propriété des parties communes (escaliers, toiture, couloirs, cour, etc.) attribuée à chaque lot dans un immeuble en copropriété. Ils représentent la quote‑part indivise (fraction de propriété détenue avec d’autres personnes) appartenant à chaque copropriétaire.",
+        "Les tantièmes sont décrits dans l'état descriptif de division (EDD) figurant dans le règlement de copropriété ou en annexe de celui-ci.",
+        "Ils sont généralement exprimés en millièmes ou en dix-millièmes.",
+        "[Attention] Les tantièmes de copropriété ne doivent pas être confondus avec les tantièmes de charges. Ces derniers déterminent la part de chaque lot dans les charges de copropriété (charges générales et charges spéciales)."
+      ]
+    },
+    {
+      "titre": "À quoi servent les tantièmes de copropriété ?",
+      "contenu": [
+        "Les tantièmes servent notamment à déterminer le nombre de voix dont dispose chaque copropriétaire lors des votes en assemblée générale.",
+        "En effet, le nombre de voix d’un copropriétaire correspond à sa quote-part dans les parties communes. Autrement dit, plus un copropriétaire détient une part importante des parties communes, plus son nombre de voix est élevé lors des votes en assemblée générale.",
+        "De même, quand le syndicat des copropriétaires vend une partie commune, le prix est réparti entre les copropriétaires au prorata de leur quote-part des parties communes. Ainsi, les tantièmes de copropriété déterminent la part de chaque copropriétaire dans le prix de cession (vente) des parties communes ou le prix des acquisitions (achat) faites par le syndicat des copropriétaires."
+      ]
+    },
+    {
+      "titre": "Comment sont calculés les tantièmes de copropriété ?",
+      "contenu": [
+        "En principe, les tantièmes de copropriété sont calculés en fonction des critères suivants :",
+        "• La superficie du lot de copropriété",
+        "• Sa consistance (nature, importance du lot : appartement, commerce, cave, parking, etc.)",
+        "• Sa situation (étage, vue, ensoleillement, orientation, emplacement dans l’immeuble, etc.).",
+        "Les parties peuvent néanmoins choisir une autre méthode de calcul pour les tantièmes de copropriété. Par exemple, la répartition peut être fondée sur la valeur vénale des lots au moment de la mise en copropriété."
+      ]
+    },
+    {
+      "titre": "Comment modifier les tantièmes de copropriété ?",
+      "contenu": [
+        "Les tantièmes de copropriété sont fixés lors de la mise en copropriété et, en principe, ne peuvent plus être modifiés.",
+        "Plusieurs exceptions sont néanmoins autorisées.",
+        "La 1ère exception concerne la modification des tantièmes par un vote en assemblée générale à l’unanimité des copropriétaires. Ainsi tous les copropriétaires doivent donner leur accord, sans exception.",
+        "En pratique, cette modification des tantièmes nécessite que les 4 conditions suivantes soient réunies :",
+        "• Une inscription à l’ordre du jour de l’assemblée générale avec un projet précis de nouvelle répartition des tantièmes (souvent établi par un géomètre‑expert ou un notaire)",
+        "• Un vote à l’unanimité des copropriétaires",
+        "• La rédaction d’un acte modificatif du règlement de copropriété et de l’état descriptif de division",
+        "• La publication de ces actes au service de la publicité foncière.",
+        "La 2nde exception concerne 3 situations qui permettent de modifier la répartition des tantièmes par un vote en assemblée générale à la double majorité dite de l’article 26. Il s’agit des situations suivantes :",
+        "• Surélévation de l’immeuble",
+        "• Division du syndicat des copropriétaires initial pour constituer des copropriétés distinctes et séparées",
+        "• Création de nouveaux lots à partir de parties commune, par exemple lorsqu’une partie commune ancienne loge, couloir, WC communs, jardin, etc.) est vendue afin d’être transformée en partie privative."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Loi n°65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006068256/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "France Services / Maison de services au public"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "tantiemes-de-copropriete-de-quoi-s-agit-il",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "budget-et-charges-de-copropriete",
+      "titre": "Budget et charges de copropriété"
+    }
+  ]
+}

@@ -1,0 +1,525 @@
+{
+  "id": "F17665",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Permis d'aménager",
+  "theme": "Logement, Secteurs d'activité",
+  "description": "Faire un lotissement, un camping, une aire de stationnement, un terrain de sport ou de loisirs, une AAGV ou un terrassement nécessite un permis d'aménager.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-02-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F17665",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Autorisations d'urbanisme",
+    "Permis d'aménager"
+  ],
+  "introduction": "Vous souhaitez aménager un lotissement, un camping, une aire de stationnement, un terrain de sport ou de loisirs, une aire d'accueil des gens du voyage (AAGV) ou faire des travaux de terrassement. Avant de commencer vos travaux, vous devez obtenir un permis d'aménager (PA). Il est délivré par la mairie. Nous vous guidons dans les étapes de votre demande de permis.",
+  "chapitres": [
+    {
+      "titre": "Vérifier si les travaux sont concernés par un permis d'aménager",
+      "contenu": [
+        "Vous devez tout d'abord vous renseigner auprès de votre mairie pour savoir si votre projet se situe dans un secteur protégé, car les règles y sont différentes.",
+        "Mairie",
+        "Cas général",
+        "Les aménagements et travaux soumis à permis d'aménager sont les suivants :",
+        "Aménagements et travaux soumis à permis d'aménager",
+        "Opérations",
+        "Conditions",
+        "Lotissement",
+        "Avec création ou aménagement de voies, d'espaces ou d'équipements propres au lotissement, communs à plusieurs lots à la charge du lotisseur.",
+        "Pour des parcelles non contiguës :",
+        "• Demande déposée par un demandeur unique",
+        "• Projet qui constitue un ensemble unique et cohérent",
+        "• Projet qui garanti l'unité architecturale et paysagère des sites concernés",
+        "Si la surface de terrain à aménager est supérieure à 2 500 m2, vous devez faire appel à un architecte ou à un paysagiste-concepteur.",
+        "Renaturation ou réaffectation à des fonctions écologiques ou paysagères",
+        "Parcelles participant à une cohérence globale, avec ou sans travaux d’aménagement",
+        "Remembrement",
+        "Réalisé par une association foncière urbaine libre (Aful) lorsqu'il prévoit la réalisation de voies ou espaces communs",
+        "Terrain de camping",
+        "• Création ou agrandissement d'un terrain permettant l'accueil de plus de 20 personnes ou de plus de 6 hébergements de loisirs constitués de tentes, de caravanes, de résidences mobiles de loisirs ou d'habitations légères de loisirs",
+        "• Réaménagement d'un terrain de camping, avec augmentation de plus de 10 % du nombre des emplacements",
+        "• Modification substantielle de la végétation qui limite l'impact visuel des installations",
+        "Parc résidentiel de loisirs",
+        "• Création ou agrandissement",
+        "• Réaménagement d'un parc existant avec augmentation de plus de 10 % du nombre des emplacements",
+        "• Modification substantielle de la végétation qui limite l'impact visuel des installations",
+        "Village de vacances classé en hébergement léger",
+        "Création ou agrandissement",
+        "Terrain destiné à la pratique de sports ou loisirs motorisés",
+        "Aménagement",
+        "Parc d'attractions et aire de jeux et de sports",
+        "Aménagement d'un parc ou d'une aire d'une superficie supérieure à 2 hectares",
+        "Terrain de golf",
+        "Aménagement d'un terrain de plus de 25 hectares",
+        "Aire de stationnement ouvertes au public, dépôt de véhicules et garages collectifs de caravanes ou de résidences mobiles de loisirs",
+        "Aménagement ayant pour effet de créer une capacité d'accueil totale d'au moins 50 unités",
+        "Aire d'accueil et terrains familiaux des gens du voyage",
+        "Aménagement d'un terrain bâti ou non bâti pour permettre l'installation de plus de 2 résidences mobiles constituant l'habitat permanent de leur utilisateur",
+        "Terrain destiné à l'installation de résidences démontables constituant l'habitat permanent de leur utilisateur",
+        "Aménagement d'un terrain bâti ou non bâti pour permettre l'installation d'au moins 2 résidences démontables créant une surface de plancher totale supérieure à 40 m²",
+        "Affouillement du sol",
+        "Affouillement d'une profondeur supérieure à 2 mètres et portant sur une superficie supérieure ou égale à 2 hectares quand il n'est pas lié à un permis de construire",
+        "Exhaussement du sol",
+        "Exhaussement d'une hauteur supérieure à 2 mètres et portant sur une superficie supérieure ou égale à 2 hectares",
+        "Secteur protégé",
+        "Les aménagements et travaux soumis à permis d'aménager sont les suivants :",
+        "Aménagements et travaux soumis à permis d'aménager",
+        "Opérations",
+        "Conditions",
+        "Lotissement",
+        "Lotissement situé dans le périmètre d'un site patrimonial remarquable, aux abords d'un monument historique, dans un site classé ou en instance de classement.",
+        "Pour des parcelles non contiguës :",
+        "• Demande déposée par un demandeur unique",
+        "• Projet qui constitue un ensemble unique et cohérent",
+        "• Projet qui garanti l'unité architecturale et paysagère des sites concernés",
+        "Si la surface de terrain à aménager est supérieure à 2 500 m2, vous devez faire appel à un architecte ou à un paysagiste-concepteur.",
+        "Renaturation ou réaffectation à des fonctions écologiques ou paysagères",
+        "Parcelles participant à une cohérence globale, avec ou sans travaux d’aménagement",
+        "Remembrement",
+        "Réalisé par une association foncière urbaine libre (Aful) lorsqu'il prévoit la réalisation de voies ou espaces communs",
+        "Terrain de camping",
+        "• Création ou agrandissement d'un terrain permettant l'accueil de plus de 20 personnes ou de plus de 6 hébergements de loisirs constitués de tentes, de caravanes, de résidences mobiles de loisirs ou d'habitations légères de loisirs",
+        "• Réaménagement d'un terrain de camping, avec augmentation de plus de 10 % du nombre des emplacements",
+        "• Modification substantielle de la végétation qui limite l'impact visuel des installations",
+        "Parc résidentiel de loisirs",
+        "• Création ou agrandissement",
+        "• Réaménagement d'un parc existant avec augmentation de plus de 10 % du nombre des emplacements",
+        "• Modification substantielle de la végétation qui limite l'impact visuel des installations",
+        "Village de vacances classé en hébergement léger",
+        "Création ou agrandissement",
+        "Terrain destiné à la pratique de sports ou loisirs motorisés",
+        "Aménagement",
+        "Parc d'attractions et aire de jeux et de sports",
+        "Tous les projets situés dans le périmètre d'un site patrimonial remarquable, aux abords d'un monument historique, dans un site classé ou en instance de classement ou dans une réserve naturelle",
+        "Terrain de golf",
+        "Tous les projets situés dans le périmètre d'un site patrimonial remarquable, aux abords d'un monument historique, dans un site classé ou en instance de classement ou dans une réserve naturelle",
+        "Aire de stationnement ouvertes au public, dépôt de véhicules et garages collectifs de caravanes ou de résidences mobiles de loisirs",
+        "Tout projet situé dans le périmètre d'un site patrimonial remarquable, aux abords d'un monument historique, dans un site classé ou en instance de classement ou dans une réserve naturelle",
+        "Aire d'accueil et terrains familiaux des gens du voyage",
+        "Aménagement d'un terrain bâti ou non bâti pour permettre l'installation de plus de 2 résidences mobiles constituant l'habitat permanent de leur utilisateur",
+        "Terrain destiné à l'installation de résidences démontables constituant l'habitat permanent de leur utilisateur",
+        "Aménagement d'un terrain bâti ou non bâti pour permettre l'installation d'au moins 2 résidences démontables créant une surface de plancher totale supérieure à 40 m²",
+        "Affouillement du sol",
+        "Affouillement d'une profondeur supérieure à 2 mètres et portant sur une superficie supérieure ou égale à 100 m² quand il n'est pas lié à un permis de construire",
+        "Exhaussement du sol",
+        "Exhaussement d'une hauteur supérieure à 2 mètres et portant sur une superficie supérieure ou égale à 100 m²",
+        "Espace public",
+        "Création dans le périmètre d'un site patrimonial remarquable, aux abords d'un monument historique, dans un site classé ou en instance de classement ou dans une réserve naturelle",
+        "Voie",
+        "Création ou modification d'une voie existante dans le périmètre des sites patrimoniaux remarquables et aux abords des monuments historiques",
+        "Aménagements légers, nécessaires à la gestion, à la mise en valeur notamment économique ou, à l'ouverture au public des espaces remarquables (chemin, stationnement, poste d'observation de la faune...)",
+        "Dans un espace remarquable ou milieu du littoral identifié dans un document d'urbanisme comme étant à préserver"
+      ]
+    },
+    {
+      "titre": "Savoir qui peut déposer un permis d'aménager",
+      "contenu": [
+        "La demande d’autorisation est adressée à la mairie par les personnes physiques et morales suivantes :",
+        "• Propriétaire(s) du terrain ou son mandataire",
+        "• Acquéreur du bien",
+        "• Entreprise autorisée par le ou les propriétaires à effectuer les travaux",
+        "• Personne en indivision ou son mandataire",
+        "• Syndic et copropriétaire",
+        "• Bénéficiaire d'une expropriation (service public, établissement public, chambre de commerce...)."
+      ]
+    },
+    {
+      "titre": "Remplir le dossier de permis d'aménager",
+      "contenu": [
+        "Le moyen de constituer votre dossier de permis d'aménager diffère selon que vous êtes à Paris ou dans une autre commune :",
+        "Cas général",
+        "Vous devez remplir votre dossier de permis d'aménager par voie dématérialisée selon les dispositions prises par votre commune ou sur un formulaire papier. Renseignez-vous sur le site de la mairie ou sur place.",
+        "Mairie",
+        "Sur internet",
+        "Vous pouvez remplir votre dossier de demande de permis d'aménager sur internet :",
+        "Assistance pour votre demande d'autorisation d'urbanisme",
+        "Formulaire",
+        "Demande de permis d'aménager",
+        "Notice - Permis de construire, d'aménager, de démolir, déclaration préalable",
+        "Fiche d’aide pour le calcul de la surface de plancher",
+        "Dossier spécifique permettant de vérifier la conformité des ERP aux règles d'accessibilité et de sécurité contre l'incendie et la panique",
+        "Dossier spécifique permettant de vérifier la conformité des établissements recevant du public aux règles d'accessibilité et de sécurité",
+        "Fiche complémentaire/autres demandeurs pour un même projet",
+        "Document à joindre au permis d'aménager lorsque plusieurs personnes sont concernées par un même projet",
+        "Annexe aux formulaires de demande d'autorisation d'urbanisme : Références cadastrales complémentaires",
+        "À Paris",
+        "Vous devez remplir et transmettre votre dossier au Bureau accueil et service à l'usager (Basu) uniquement par voie dématérialisée :",
+        "Bureau accueil et service à l'usager (Basu) de Paris : guichet électronique unique",
+        "Guichet électronique unique pour toutes vos démarches d'urbanisme à Paris : préparer votre dossier, suivre vos demandes et déclarer vos chantiers."
+      ]
+    },
+    {
+      "titre": "Transmettre le dossier de permis d'aménager",
+      "contenu": [
+        "Selon que vous êtes à Paris ou dans une autre commune, vous devez déposer votre dossier :",
+        "• Par voie dématérialisée selon les dispositions prises par votre commune (renseignez-vous sur le site de la mairie ou sur place)",
+        "• Par lettre RAR",
+        "• En main propre.",
+        "Mairie",
+        "Paris : Bureau accueil et service à l'usager (Basu)",
+        "[Attention] Dans une commune de plus de 3 500 habitants, une personne morale doit transmettre sa demande d'autorisation d'urbanisme uniquement par voie électronique.",
+        "Cas général",
+        "Par internet",
+        "Vous pouvez envoyer votre dossier de demande par internet :",
+        "Assistance pour votre demande d'autorisation d'urbanisme",
+        "La mairie vous délivre un récépissé. Lorsque vous transmettez votre demande par voie électronique, le récépissé est constitué par l'accusé de réception électronique.",
+        "Il comporte le numéro d'enregistrement de votre dossier et les informations vous permettant de connaître la date à partir de laquelle les travaux pourront commencer.",
+        "Dépôt en mairie ou par courrier",
+        "Votre demande de permis peut être déposée ou envoyée par courrier RAR à la mairie.",
+        "Mairie",
+        "Vous devez déposer 4 dossiers complets en mairie.",
+        "Dans certains cas, des exemplaires supplémentaires vous sont demandés :",
+        "• Projet situé dans le périmètre d'un site patrimonial remarquable, aux abords des monuments historiques, dans un site classé, site inscrit ou dans une réserve naturelle : 1 exemplaire supplémentaire",
+        "• Projet situé dans un cœur de parc national : 2 exemplaires supplémentaires",
+        "• Projet soumis à autorisation d'exploitation commerciale : 2 exemplaires supplémentaires (dont 1 sur support dématérialisé).",
+        "Vous devez joindre à ces dossiers complets 5 exemplaires du plan de situation et du plan de composition d'ensemble.",
+        "Dans le cas d'une construction, vous devez également fournir 5 exemplaires du plan de masse, du plan des façades et des toitures et du plan en coupe.",
+        "Si l'opération se situe sur 2 communes, le dossier est déposé, de préférence, dans la commune où le projet est majoritairement implanté.",
+        "À Paris",
+        "Vous devez remplir et transmettre votre dossier au Bureau accueil et service à l'usager (Basu) uniquement par voie dématérialisée :",
+        "Bureau accueil et service à l'usager (Basu) de Paris : guichet électronique unique",
+        "Guichet électronique unique pour toutes vos démarches d'urbanisme à Paris : préparer votre dossier, suivre vos demandes et déclarer vos chantiers."
+      ]
+    },
+    {
+      "titre": "Connaître les délais d'instruction d'un permis d'aménager",
+      "contenu": [
+        "La mairie vous délivre un récépissé suite au dépôt de votre dossier.",
+        "Le récépissé comporte le numéro d'enregistrement et les informations vous permettant de connaître la date à partir de laquelle les travaux pourront commencer.",
+        "Cette date est différente selon que votre dossier est complet ou non :",
+        "Dossier complet",
+        "Le délai de réponse est généralement de 3 mois à partir de la date du dépôt de la demande.",
+        "La mairie doit vous avertir dans le mois qui suit la date du dépôt de votre dossier de permis si le délai d'instruction est plus long. C'est le cas pour :",
+        "• Projet situé dans le périmètre d'un site patrimonial remarquable ou aux abords des monuments historiques : 4 mois",
+        "• Projet soumis à l'avis de la commission départementale de la préservation des espaces naturels, agricoles et forestiers : 4 mois",
+        "• Projet soumis à autorisation d'exploitation commerciale : 5 mois",
+        "• Projet situé dans un espace ayant vocation à être classé dans le cœur d'un futur parc national ou dans le cœur d'un parc national délimité : 5 mois.",
+        "Dossier incomplet",
+        "La mairie a 1 mois pour vous signaler que votre dossier est incomplet. Vous devez le compléter dans les 3 mois. Si vous ne fournissez pas les documents manquants, votre demande sera considérée comme rejetée.",
+        "Le délai d'instruction démarre quand votre dossier est complet.",
+        "Le délai de réponse est généralement de 3 mois à partir de la date du dépôt de la demande.",
+        "La mairie doit vous avertir dans le mois qui suit la date du dépôt de votre dossier de permis si le délai d'instruction est plus long. C'est le cas pour :",
+        "• Projet situé dans le périmètre d'un site patrimonial remarquable ou aux abords des monuments historiques : 4 mois",
+        "• Projet soumis à l'avis de la commission départementale de la préservation des espaces naturels, agricoles et forestiers : 4 mois",
+        "• Projet soumis à autorisation d'exploitation commerciale : 5 mois",
+        "• Projet situé dans un espace ayant vocation à être classé dans le cœur d'un futur parc national ou dans le cœur d'un parc national délimité : 5 mois."
+      ]
+    },
+    {
+      "titre": "Recevoir la décision d'une demande de permis d'aménager",
+      "contenu": [
+        "La décision vous est adressée par lettre RAR ou par LRE ou un procédé électronique équivalent.",
+        "Vous pouvez recevoir une décision d'autorisation, de refus, de sursis à statuer ou ne pas recevoir de réponse :",
+        "Autorisation",
+        "La décision de la mairie prend la forme d'un arrêté. Elle peut être accompagnée de prescriptions particulières dont l'administration doit donner les motifs.",
+        "[Attention] La mairie peut retirer un permis si elle estime qu'il a été délivré illégalement dans un délai de 3 mois suivant la date de l'autorisation du permis d'aménager.",
+        "Refus",
+        "Le refus de permis d'aménager prend la forme d'un arrêté qui précise tous les motifs de refus de l'administration. Il doit également indiquer les voies et délais de recours.",
+        "Sursis à statuer",
+        "Dans certaines circonstances, le maire peut reporter sa décision sur votre permis pendant 2 ans maximum. C'est le cas, par exemple, lorsque votre demande de travaux peut compromettre ou rendre plus chère l’exécution d’un futur plan local d'urbanisme (PLU) ou d'une opération d'aménagement.",
+        "Le maire prend un arrêté de sursis à statuer qui en indique la durée.",
+        "Votre demande n'est ni acceptée, ni refusée. Elle sera examinée plus tard.",
+        "Le sursis à statuer peut concerner toute demande d'autorisation concernant des travaux, constructions ou installations dans les cas suivants :",
+        "• Terrain qui fait partie du périmètre d'une zone d'aménagement concerté (Zac)",
+        "• Ouverture de l'enquête préalable à la déclaration d'utilité publique (DUP) d'une opération",
+        "• Constructions projetées qui peuvent compromettre ou rendre plus onéreuse l'exécution de travaux publics ou la réalisation d'une opération d'aménagement",
+        "• Constructions projetées de nature à compromettre ou à rendre plus onéreuse l'exécution du futur PLU",
+        "• Projet situé dans un espace ayant vocation à figurer dans le cœur d'un parc national.",
+        "Les motifs de la décision et les voies et délais de recours sont précisés dans l'arrêté.",
+        "Dans les 2 mois qui suivent la fin du délai de validité du sursis à statuer, vous devez confirmer votre demande de permis.",
+        "Dans un délai de 2 mois suivant votre demande, vous recevez la décision du maire. Si vous ne recevez pas la décision du maire dans ce délai, votre permis est considéré comme accordé.",
+        "[À savoir] Les propriétaires des terrains auxquels a été opposé un sursis à statuer peuvent mettre en demeure la collectivité (ou le service public qui en a pris l'initiative) d'acheter leur terrain. La collectivité a 1 an pour se prononcer.",
+        "Absence de réponse",
+        "En principe, si vous ne recevez pas de réponse de la mairie à la fin du délai d'instruction, le permis est tacitement accordé. Sur simple demande écrite de votre part, la mairie peut vous délivrer un certificat de permis.",
+        "[Attention] Dans un délai de 3 mois suivant la date de décision de permis, la mairie peut retirer ce permis si elle estime qu'il a été délivré illégalement.",
+        "[Attention] Dans certains cas particuliers, l'absence de décision écrite de la mairie, ou du Basu pour Paris, entraîne le refus de votre demande. Par exemple, si votre projet à modifier se situe dans un site classé, dans le cœur d’un parc national, si votre projet est refusé par l’ ou porte sur un immeuble inscrit au titre des monuments historiques. L'absence de réponse vaut aussi rejet tacite de permis dans les cas suivants : • Projet soumis pour avis à la commission départementale d'aménagement commercial • Projet d'extension ou de réouverture d'un cinéma dont la demande a été refusée par la commission départementale compétente • Travaux soumis à l'autorisation du ministre de la défense.",
+        "Cependant,"
+      ]
+    },
+    {
+      "titre": "Contester une décision de refus ou de sursis à statuer d'un permis d'aménager",
+      "contenu": [
+        "Quand le maire refuse votre demande d’autorisation d’urbanisme ou prend un arrêté de sursis à statuer, vous pouvez contester sa décision de 2 façons :",
+        "• Recours devant le maire (et/ou le préfet dans une commune sans PLU, ni carte communale)",
+        "• Recours devant le juge administratif.",
+        "Ces 2 recours peuvent être faits indépendamment l’un de l’autre ou en même temps.",
+        "[Attention] Si vous êtes dans un site patrimonial remarquable ou aux abords d’un monument historique et si le refus d’autorisation est motivé par un avis défavorable de l’ABF, vous devez faire un recours administratif préalable obligatoire (Rapo). Il doit être fait auprès du préfet de région avant votre recours devant le juge administratif.",
+        "Recours devant le maire et/ou le préfet",
+        "Vous avez 1 mois pour faire un recours gracieux devant le maire à compter de la date de notification de son refus (date de dépôt ou cachet de la poste faisant foi). Si votre commune est sans PLU ni carte communale, dans ce même délai, vous pouvez aussi déposer un recours hiérarchique devant le préfet, en plus du recours devant le maire.",
+        "Pour faire votre demande, vous rédigez votre recours sur papier libre. Vous le déposez en main propre ou l’envoyez à la mairie et/ou à la préfecture par courrier RAR.",
+        "Mairie",
+        "Préfecture",
+        "En l’absence de réponse du maire et/ou du préfet dans les 2 mois qui suivent la date d’envoi ou de dépôt de votre recours, votre demande est rejetée.",
+        "Recours devant le juge administratif",
+        "Vous avez 2 mois pour faire un recours contentieux devant le juge administratif à compter de la date de notification du refus du maire ou la date de rejet implicite (date de dépôt ou cachet de la poste faisant foi). Ce délai reste de 2 mois, même si vous avez fait au préalable un recours devant le maire et/ou le préfet.",
+        "Pour faire votre demande, vous devez saisir le juge administratif par lettre dans laquelle vous justifiez votre recours. Vous n'êtes pas obligé de faire appel à un avocat.",
+        "Vous devez saisir le tribunal administratif dont la commune où se situe votre projet dépend.",
+        "Tribunal administratif",
+        "Vous pouvez faire votre recours à l’aide d’un téléservice :",
+        "Télérecours citoyens (recours devant le juge administratif)",
+        "Connexion via France Connect",
+        "Vous pouvez aussi le déposer en main propre ou l’envoyer en RAR."
+      ]
+    },
+    {
+      "titre": "Connaitre la durée de validité du permis d'aménager",
+      "contenu": [
+        "Le permis d'aménager a une durée de validité initiale qui peut être prolongée sur demande.",
+        "Durée de validité du permis d'aménager",
+        "Le permis d'aménager a une durée de validité de 3 ans.",
+        "Cette durée démarre à compter de la notification de la décision de la mairie. Elle vous est adressée par courrier RAR (ou par voie électronique si vous avez accepté ce moyen dans le formulaire de demande de permis).",
+        "En fonction du mode de transmission de la notification, la durée de validité de votre autorisation débute à la date suivante :",
+        "• 1re présentation du courrier recommandé",
+        "• Lendemain de la date d'envoi de la notification par voie électronique.",
+        "Sans réponse écrite de la mairie, la durée de validité se calcule à partir de la date de dépôt initial de la demande.",
+        "[Exemple] Un arrêté de permis de construire est adressé en courrier RAR . Il est présenté ou reçu en main propre le 22 juillet 2024. Le permis est valable jusqu'au 22 juillet 2027. Un arrêté de permis de construire est adressé par voie électronique le 22 juillet 2024. Il est valable jusqu'au 23 juillet 2027.",
+        "Votre autorisation n'est plus valable si vous ne commencez pas les travaux dans les 3 ans ou si passé ce délai vous les interrompez pendant plus d'1 an consécutif.",
+        "[À noter] La durée de validité des autorisations délivrées entre le 1er janvier 2021 et le 27 mai 2022 est de 4 ans. La durée de validité des autorisations délivrées entre le 28 mai 2022 et le 28 mai 2024 est de 5 ans. Dans ce cas, l’autorisation ne peut pas être prolongée.",
+        "Demander une prolongation du permis d'aménager",
+        "Le délai de validité peut être prolongé 2 fois pour une période d'1 an si les règles d'urbanisme et les servitudes administratives n'ont pas changé.",
+        "Vous devez en faire la demande 2 mois au moins avant la fin du délai de validité initial de votre autorisation d'urbanisme (ou avant la fin du délai de validité de votre 1re demande de prolongation).",
+        "[Exemple] Une autorisation valable du 5 juin 2025 au 5 juin 2028 peut être prolongée 1 an si vous en faites la demande avant le 5 avril 2028. Elle pourra être prolongée une 2e fois si vous en faites la demande 2 mois avant la fin de la 1re prolongation accordée.",
+        "La demande doit être adressée sur papier libre, en 2 exemplaires, par lettre RAR ou déposée en mairie.",
+        "À réception de votre demande, la mairie a 2 mois pour vous répondre.",
+        "La prolongation est accordée si vous ne recevez pas de réponse dans ce délai.",
+        "Seules les autorisations d'urbanisme en cours de validité peuvent être prolongées.",
+        "Si les règles d'urbanisme et les servitudes administratives ont changé, vous ne pouvez pas demander la prolongation de votre autorisation. Vous devez déposer une nouvelle demande d'urbanisme conforme aux nouvelles règles.",
+        "[Attention] Les autorisations délivrées entre le 28 mai 2022 et le 28 mai 2024 ont une durée de validité de 5 ans. Dans ce cas, elles ne peuvent pas être prolongées à la fin des 5 ans."
+      ]
+    },
+    {
+      "titre": "Afficher le permis d'aménager sur le terrain",
+      "contenu": [
+        "Objet et durée de l'affichage",
+        "L'affichage du permis d'aménager sur le terrain est obligatoire. En cas d'obtention d'un permis tacite, c'est le certificat de permis qui doit être affiché. Vous devez le demander au préalable à la mairie.",
+        "Vous devez procéder à cet affichage dès la notification de l'arrêté ou dès que le délai d'instruction de votre dossier est terminé (en cas de permis tacite).",
+        "Il doit rester en place pendant toute la durée du chantier.",
+        "Un extrait du permis est affiché en mairie dans les 8 jours qui suivent la délivrance de l'autorisation et ce pendant 2 mois.",
+        "Forme et contenu de l'affichage",
+        "Vous devez utiliser un panneau rectangulaire dont les dimensions sont supérieures à 80 cm. Il doit être visible de l'extérieur. Les renseignements figurant sur votre panneau d'affichage doivent être lisibles de la voie publique ou des espaces ouverts au public.",
+        "L'affichage indique les informations suivantes :",
+        "• Nom, raison sociale ou dénomination sociale du bénéficiaire",
+        "• Date et numéro du permis",
+        "• Nature du projet, superficie du terrain",
+        "• Adresse de la mairie où le dossier peut être consulté",
+        "• Nom de l'architecte auteur du projet architectural.",
+        "Il indique également, en fonction de la nature du projet, les éléments suivants :",
+        "• Surface de plancher autorisée ainsi que la hauteur de la ou des constructions, exprimée en mètres par rapport au sol naturel, si le projet prévoit des constructions",
+        "• Nombre maximum de lots prévus si le projet porte sur un lotissement",
+        "• Nombre total d'emplacements et, s'il y a lieu, le nombre d'emplacements réservés à des habitations légères de loisirs si le projet porte sur un terrain de camping ou un parc résidentiel de loisirs",
+        "• Surface du ou des bâtiments à démolir si le projet prévoit des démolitions.",
+        "L'affichage doit également mentionner la possibilité pour les tiers d'exercer un recours. Ils doivent alors prévenir le titulaire du permis dans les 15 jours qui suivent leur recours . Durant 1 mois à partir du 1er jour d'affichage sur le terrain, ces tiers peuvent en effet effectuer un recours gracieux auprès du maire qui a délivré l'autorisation.",
+        "En l'absence d'affichage, ils pourront contester l'autorisation durant 6 mois à partir de l'achèvement des travaux."
+      ]
+    },
+    {
+      "titre": "Déclarer l'ouverture du chantier d'un permis d'aménager",
+      "contenu": [
+        "La déclaration d'ouverture de chantier est obligatoire. Selon que vous êtes à Paris ou dans une autre commune, la démarche est différente.",
+        "Cas général",
+        "Avant de commencer vos travaux, vous devez déclarer l'ouverture du chantier sur un formulaire en 3 exemplaires à déposer ou à envoyer en mairie, de préférence par lettre RAR :",
+        "Déclaration d'ouverture de chantier",
+        "Mairie",
+        "À Paris",
+        "Avant de commencer vos travaux, vous devez déclarer l'ouverture du chantier au Basu uniquement par voie dématérialisée :",
+        "Bureau accueil et service à l'usager (Basu) de Paris : guichet électronique unique",
+        "Guichet électronique unique pour toutes vos démarches d'urbanisme à Paris : préparer votre dossier, suivre vos demandes et déclarer vos chantiers."
+      ]
+    },
+    {
+      "titre": "Commencer les travaux",
+      "contenu": [
+        "Vous pouvez commencer vos travaux dès que vous réceptionnez l'arrêté de PA. En l'absence de réponse, vous pouvez commencer vos travaux dès la fin du délai d'instruction."
+      ]
+    },
+    {
+      "titre": "Demander la prolongation d’un permis d’aménager",
+      "contenu": [
+        "Le délai de validité peut être prolongé 2 fois pour une période d'1 an si les règles d'urbanisme et les servitudes administratives n'ont pas changé.",
+        "Vous devez en faire la demande 2 mois au moins avant la fin du délai de validité initial de votre autorisation d'urbanisme (ou avant la fin du délai de validité de votre 1re demande de prolongation).",
+        "[Exemple] Une autorisation valable du 5 juin 2025 au 5 juin 2028 peut être prolongée 1 an si vous en faites la demande avant le 5 avril 2028. Elle pourra être prolongée une 2e fois si vous en faites la demande 2 mois avant la fin de la 1re prolongation accordée.",
+        "La demande doit être adressée sur papier libre, en 2 exemplaires, par lettre RAR ou déposée en mairie.",
+        "À réception de votre demande, la mairie a 2 mois pour vous répondre.",
+        "La prolongation est accordée si vous ne recevez pas de réponse dans ce délai.",
+        "Seules les autorisations d'urbanisme en cours de validité peuvent être prolongées.",
+        "Si les règles d'urbanisme et les servitudes administratives ont changé, vous ne pouvez pas demander la prolongation de votre autorisation. Vous devez déposer une nouvelle demande d'urbanisme conforme aux nouvelles règles.",
+        "[Attention] Les autorisations délivrées entre le 28 mai 2022 et le 28 mai 2024 ont une durée de validité de 5 ans. Dans ce cas, elles ne peuvent pas être prolongées à la fin des 5 ans."
+      ]
+    },
+    {
+      "titre": "Déclarer l'achèvement des travaux d'un permis d'aménager",
+      "contenu": [
+        "Quand vous avez terminé vos travaux, vous devez envoyer à la mairie une déclaration attestant l'achèvement et la conformité des travaux (DAACT).",
+        "Le mode de transmission de votre DAACT diffère selon que vous êtes en province ou à Paris :",
+        "Cas général",
+        "Vous devez déposer votre dossier de DAACT en mairie :",
+        "• Par voie dématérialisée selon les dispositions prises par votre commune (renseignez-vous sur le site de la mairie ou sur place)",
+        "• Par lettre RAR",
+        "• En main propre.",
+        "Mairie",
+        "Sur internet",
+        "Vous pouvez remplir votre dossier de demande de DAACT sur internet :",
+        "Assistance pour votre demande d'autorisation d'urbanisme",
+        "Formulaire",
+        "Vous pouvez remplir votre demande de DAACT au moyen d'un formulaire :",
+        "Déclaration attestant l'achèvement et la conformité des travaux",
+        "Permet de déclarer l'achèvement de ses travaux ainsi que leur conformité par rapport à l'autorisation accordée.",
+        "À Paris",
+        "Vous devez déposer votre dossier de DAACT au Basu uniquement par voie dématérialisée.",
+        "Bureau accueil et service à l'usager (Basu) de Paris : guichet électronique unique",
+        "Guichet électronique unique pour toutes vos démarches d'urbanisme à Paris : préparer votre dossier, suivre vos demandes et déclarer vos chantiers."
+      ]
+    },
+    {
+      "titre": "Payer les impôts d'un permis d'aménager : taxe, redevance et participations",
+      "contenu": [
+        "Vous avez diverses contributions à payer : une taxe, une redevance et des participations.",
+        "Taxe, redevance et participations à payer",
+        "L'arrêté vous informe du montant des contributions éventuelles que vous devez payer. Elles peuvent être les suivantes :",
+        "• Taxe d'aménagement",
+        "• Redevance d'archéologie préventive",
+        "• PAE",
+        "• Participation pour réalisation de parcs publics de stationnement ou PNRAS",
+        "• Pepe",
+        "• PVR",
+        "• Participation des riverains (dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle).",
+        "Les participations peuvent également prendre la forme suivante :",
+        "• Exécution de travaux : l'arrêté précise les caractéristiques générales des travaux et l'estimation de leur coût",
+        "• Apports de terrains bâtis ou non bâtis : l'arrêté indique la superficie à céder et la valeur des terrains.",
+        "Vous pouvez faire une simulation du montant de votre taxe d'aménagement et de la taxe d’archéologie préventive :",
+        "Estimer le montant des taxes d'urbanisme (taxe d’aménagement et taxe d’archéologie préventive)",
+        "Ce simulateur permet de calculer à titre indicatif les montants des taxes d'urbanisme suivantes : Taxe d’aménagement et Taxe d’archéologie préventive.",
+        "[À noter] Le raccordement à l'égout de constructions nouvelles ou existantes génère le paiement de la participation pour le financement de l'assainissement collectif (Pfac ou Pac).",
+        "Connaître les montants et payer",
+        "Vous devez vous adresser à votre centre des impôts fonciers pour la taxe d'aménagement et la redevance d'archéologie préventive :",
+        "Centre départemental des impôts fonciers (CDIF)",
+        "Vous devez vous adresser au service de l'urbanisme de votre mairie pour les participations :",
+        "Mairie"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'urbanisme : articles A424-1 à A424-8",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074075/LEGISCTA000006188058/"
+    },
+    {
+      "titre": "Code de l'urbanisme : articles A424-15 à A424-19",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006175623/"
+    },
+    {
+      "titre": "Code de l'urbanisme : articles L441-1 à L441-4",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006158680/"
+    },
+    {
+      "titre": "Code de l'urbanisme : articles L442-1 à L442-14",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006175694"
+    },
+    {
+      "titre": "Code de l'urbanisme : article L332-6",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045917253"
+    },
+    {
+      "titre": "Code de l’urbanisme : article L600-12-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052859788"
+    },
+    {
+      "titre": "Code de justice administrative : article R421-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039807005"
+    },
+    {
+      "titre": "Code de l'urbanisme : articles R421-19 à R421-22",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006188252/"
+    },
+    {
+      "titre": "Code de l'urbanisme : articles R*423-1 à R*423-2-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074075/LEGISCTA000006176113/"
+    },
+    {
+      "titre": "Code de l'urbanisme : articles R*423-17 à R423-37-3",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006158835/"
+    },
+    {
+      "titre": "Code de l’urbanisme : articles R*424-2 à R*424-4",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074075/LEGISCTA000006175976/#LEGISCTA000006175976"
+    },
+    {
+      "titre": "Code de l'urbanisme : article R*424-14",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038682325"
+    },
+    {
+      "titre": "Code de l'urbanisme : article R*424-16",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006175981/"
+    },
+    {
+      "titre": "Code de l'urbanisme : articles R*424-17 à R*424-20",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006175982"
+    },
+    {
+      "titre": "Code de l'urbanisme : article R*423-23",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006175967"
+    },
+    {
+      "titre": "Code de l'urbanisme : articles R423-24 à R*423-33",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074075/LEGISCTA000006188186/"
+    },
+    {
+      "titre": "Code de l'urbanisme : article R441-4-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034101301/"
+    },
+    {
+      "titre": "Code de l'urbanisme : articles R462-1 à R462-10",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006158848/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Assistance pour votre demande d'autorisation d'urbanisme",
+      "url": "https://demarches.service-public.gouv.fr/mademarche/DAUA/demarche",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Bureau accueil et service à l'usager (Basu) de Paris : guichet électronique unique",
+      "url": "https://teleservices.paris.fr/demarchesurbanisme/jsp/site/Portal.jsp?page=accueil",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Demande de permis d'aménager",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_16297.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Déclaration d'ouverture de chantier",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_13407.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Déclaration attestant l'achèvement et la conformité des travaux",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_13408.do",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Mairie",
+    "Paris : Bureau accueil et service à l'usager (Basu)",
+    "Centre départemental des impôts fonciers (CDIF)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Commission départementale d'aménagement commercial",
+      "url": "https://cnac.entreprises.gouv.fr/cdac-organisation-et-fonctionnement"
+    }
+  ],
+  "slug": "permis-d-amenager",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "autorisations-d-urbanisme",
+      "titre": "Autorisations d'urbanisme"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "id": "F37976",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Faut-il une autorisation pour diviser un bâtiment en plusieurs logements ou lots ?",
+  "theme": "Logement",
+  "description": "La division d'un bâtiment en logements ou en lots peut nécessiter un permis de diviser, une autorisation (urbanisme, copropriété) avec un impact sur les impôts.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-07-29",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F37976",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Autorisations d'urbanisme",
+    "Faut-il une autorisation pour diviser un bâtiment en plusieurs logements ou lots ?"
+  ],
+  "introduction": "Pour diviser un bâtiment en plusieurs logements ou en plusieurs lots différents (logement, local commercial, local associatif...), vous devez parfois demander une autorisation d’urbanisme en mairie. Si l’immeuble est en copropriété, il vous faut aussi une autorisation de la copropriété. Enfin, dans certaines communes, si vous divisez un bâtiment en plusieurs logements, vous devez obtenir un permis de diviser de la mairie. Nous vous présentons la réglementation.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Dans certains quartiers, une autorisation préalable de division, appelée communément permis de diviser, est obligatoire. Cette disposition est mise en place dans certaines communes pour lutter contre la multiplication de l’habitat dégradé."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Loi n°65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis : article 1-1",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000037657820"
+    },
+    {
+      "titre": "Loi n°65-557 du 10 juillet 1965 fixant le statut de la copropriété : article 25",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039313590"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : articles L126-16 à 22",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000041565253/"
+    },
+    {
+      "titre": "Code de l'urbanisme : article L111-11",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031210199"
+    },
+    {
+      "titre": "Code de l'urbanisme : articles L151-30 à L151-37",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074075/LEGISCTA000031211225/"
+    },
+    {
+      "titre": "Code de l'urbanisme : article L313-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032860980"
+    },
+    {
+      "titre": "Code de l'urbanisme : article R*421-14",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031764577"
+    },
+    {
+      "titre": "Code de l'urbanisme : article R*421-17",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034355355"
+    },
+    {
+      "titre": "Code de l'urbanisme : article R425-15-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043841066/2025-02-26/"
+    },
+    {
+      "titre": "Code de la santé publique : article L1331-7",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033360845"
+    },
+    {
+      "titre": "Arrêté du 8 décembre 2016 relatif au dossier de demande d'autorisation de travaux pour la création de locaux à usage d'habitation dans un immeuble existant",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000033607557"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Assistance pour votre demande d'autorisation d'urbanisme",
+      "url": "https://demarches.service-public.gouv.fr/mademarche/DAUA/demarche",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Bureau accueil et service à l'usager (Basu) de Paris : guichet électronique unique",
+      "url": "https://teleservices.paris.fr/demarchesurbanisme/jsp/site/Portal.jsp?page=accueil",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Déclaration préalable constructions et travaux non soumis à permis de construire",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_16702.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Demande de permis de construire pour une maison individuelle et/ou ses annexes (PCMI)",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_13406.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Demande de permis de construire (autre que portant sur une maison individuelle ou ses annexes)",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_13409.do",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Mairie",
+    "Unité départementale de l'architecture et du patrimoine (UDAP)",
+    "Conseil d'architecture, d'urbanisme et d'environnement (CAUE)",
+    "Centre départemental des impôts fonciers (CDIF)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "La division foncière",
+      "url": "https://chambre-gironde.notaires.fr/2022/12/23/la-division-fonciere/"
+    },
+    {
+      "titre": "Le Plan de Sauvegarde et de Mise en Valeur",
+      "url": "https://www.culture.gouv.fr/Thematiques/Monuments-Sites/Ressources/Les-fiches-pratiques/Le-plan-de-sauvegarde-et-de-mise-en-valeur"
+    },
+    {
+      "titre": "La participation pour le financement de l'assainissement collectif (PFAC ou PAC)",
+      "url": "https://outil2amenagement.cerema.fr/outils/la-participation-pour-financement-lassainissement-collectif-pfac-pac"
+    }
+  ],
+  "slug": "faut-il-une-autorisation-pour-diviser-un-batiment-en-plusieurs-logements-ou-lots",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "autorisations-d-urbanisme",
+      "titre": "Autorisations d'urbanisme"
+    }
+  ]
+}

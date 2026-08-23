@@ -1,0 +1,72 @@
+{
+  "id": "F2504",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Comment connaître ses caisses de retraite ?",
+  "theme": "Travail - Formation",
+  "description": "Un service en ligne vous permet de retrouver les coordonnées des différentes caisses de retraite auprès desquelles vous avez des droits.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-08-28",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2504",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Retraite d'un salarié du secteur privé",
+    "Comment connaître ses caisses de retraite ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Selon votre profession ou votre statut (commerçant, agriculteur, pharmacien, salarié dans le secteur privé, fonctionnaire, etc.), vous cotisez à des caisses de retraite différentes, appelées également régimes de retraite.",
+        "Généralement, vous cotisez à une caisse de retraite de base et à une caisse de retraite complémentaire.",
+        "Ces cotisations sont obligatoires et vous donnent droit à des pensions de retraite.",
+        "Vous pouvez retrouver la liste des caisses de retraite auxquelles vous avez cotisé au cours de votre carrière et leurs coordonnées sur le site officiel Info Retraite dans votre compte retraite en utilisant le service Ma carrière / Mes régimes de retraite :",
+        "Info Retraite - Mon compte retraite",
+        "Connexion via FranceConnect",
+        "En plus des caisses de retraite de base et complémentaires obligatoires, vous pouvez bénéficier de produits d’épargne retraite supplémentaires (individuel ou collectif).",
+        "Vous en bénéficiez si vous, ou l'un de vos employeurs, avez cotisé, de façon facultative, auprès d'un ou plusieurs organismes de gestion de retraite supplémentaire.",
+        "Vous pouvez également retrouver les coordonnées des organismes de gestion auprès desquels vous avez un contrat d'épargne dans votre compte retraite à la rubrique Mon épargne retraite."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [
+    {
+      "titre": "Connaître vos régimes de retraite",
+      "url": "https://mesregimes.info-retraite.fr/",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Info Retraite - Mon compte retraite",
+      "url": "https://www.info-retraite.fr/portail-services/login",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Le système de retraite en France",
+      "url": "https://www.info-retraite.fr/portail-info/sites/PortailInformationnel/home/le-systeme-de-retraite-en-france.html"
+    },
+    {
+      "titre": "Panorama des régimes de retraites",
+      "url": "https://travail-emploi.gouv.fr/sites/travail-emploi/files/files-spip/pdf/panorama_regimes_retraites_janvier-2024.pdf"
+    },
+    {
+      "titre": "Info-retraite",
+      "url": "http://www.info-retraite.fr"
+    }
+  ],
+  "slug": "comment-connaitre-ses-caisses-de-retraite",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "retraite-d-un-salarie-du-secteur-prive",
+      "titre": "Retraite d'un salarié du secteur privé"
+    }
+  ]
+}

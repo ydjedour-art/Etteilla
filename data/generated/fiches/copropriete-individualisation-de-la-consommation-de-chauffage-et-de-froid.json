@@ -1,0 +1,160 @@
+{
+  "id": "F14745",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Copropriété : individualisation de la consommation de chauffage et de froid",
+  "theme": "Logement",
+  "description": "Toutes les copropriétés chauffées ou refroidies collectivement doivent être équipées d'un appareil qui permet d'individualiser et réduire sa consommation.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-08-04",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F14745",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Budget et charges de copropriété",
+    "Copropriété : individualisation de la consommation de chauffage et de froid"
+  ],
+  "introduction": "Tout immeuble en copropriété équipé d'un système de chauffage collectif ou d'une centrale de froid doit avoir une installation permettant de déterminer la consommation de chauffage ou de refroidissement de chaque logement. Cette obligation sert à répartir les frais d’énergie en fonction de la consommation réelle de chaque occupant, dans un objectif d’équité, de responsabilisation et d'économies d'énergie. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "L'individualisation des frais de chauffage et de froid est-elle obligatoire dans une copropriété ?",
+      "contenu": [
+        "En principe, l'individualisation des frais de chauffage et de froid est obligatoire en copropriété. Il existe néanmoins certaines exceptions.",
+        "Obligation d'individualiser les frais de chauffage et de froid",
+        "L'individualisation des frais de chauffage et de froid est obligatoire pour tout immeuble collectif à usage d’habitation ou à usage mixte qui a un chauffage commun ou une installation centrale de refroidissement et dont la consommation est supérieure à 80 kWh/m²/an.",
+        "Ces copropriétés doivent ainsi installer un appareil qui mesure la quantité de chaleur, de froid ou d'eau chaude fournie à chaque local privatif (notamment appartement ou local commercial). Cette installation permet à chaque occupant de payer uniquement l'énergie qu'il a consommée.",
+        "L'objectif de l'individualisation des frais est ainsi de responsabiliser les occupants sur leurs consommations réelles, de permettre une répartition équitable entre les copropriétaires et de limiter le gaspillage énergétique.",
+        "Exceptions à l'obligation d'individualiser les frais de chauffage et de froid",
+        "L'obligation d'individualiser les frais de chauffage et de froid ne s'applique pas :",
+        "• Aux logements foyers",
+        "• Si les valeurs de consommation de l'immeuble sont inférieurs à un certain seuils règlementaires. Par exemple, pour les frais de chauffage, il y a une dérogation si la consommation ne dépasse pas les 80 kWh/m² par an.",
+        "• En cas d'impossibilités techniques de mesurer la chaleur consommée par chaque local ou de poser un appareil permettant à chaque occupant de moduler la chaleur fournie (par exemple, émission de chaleur par dalle chauffante sans mesure possible par local, distribution de chaleur par monotubes en séries entre chaque émetteur, système de chauffage à air chaud non réversible, émetteurs fonctionnant à la vapeur, installation de chauffage équipée de batteries ou de tubes à ailettes, de convecteurs à eau chaude, ou de ventilo-convecteurs dès lors que chaque local ne dispose pas de boucle individuelle de chauffage)",
+        "• Si les coûts d’installation des dispositifs sont disproportionnés par rapport aux économies attendues.",
+        "Dans ce cas, pour connaître la consommation de chauffage ou de refroidissement de l’immeuble et la répartir entre les occupants, le syndic va :",
+        "• Calculer la consommation moyenne d’énergie de l’immeuble sur les 3 dernières années (hors consommation liée à la production d’eau chaude sanitaire)",
+        "• Diviser ce montant par la surface habitable de chaque lot."
+      ]
+    },
+    {
+      "titre": "Quels sont les appareils qui permettent d'individualiser les frais de chauffage et de froid dans une copropriété ?",
+      "contenu": [
+        "Pour calculer ce que chaque occupant consomme, il est obligatoire d'installer des équipements qui déterminent les quantités de chaleur et de froid.",
+        "Cette obligation s'applique depuis le 25 octobre 2020.",
+        "Les appareils installés depuis cette date doivent être relevables à distance, c'est-à-dire sans qu'il ne soit nécessaire d'entrer dans le logement.",
+        "[À savoir] À compter du 1er janvier 2027, tous les appareils devront être télé-relevables.",
+        "Appareils pour mesurer la quantité de chaleur",
+        "Les compteurs individuels d'énergie thermiques (CET) sont installés en priorité dans les immeubles. Ils sont placés à l'entrée des logements. Ils indiquent la consommation réelle de chauffage de chaque logement.",
+        "S'il n'est pas possible d'installer des CET, des répartiteurs de frais de chauffage (RFC) sont alors mis en place. Ils sont placés directement sur chaque radiateur du logement. Ils mesurent les différences de température entre le radiateur et la pièce pour calculer la quantité de chaleur effectivement consommée dans le logement.",
+        "Appareils pour mesurer la quantité de froid",
+        "La loi ne précise pas les types d'appareils de mesure à utiliser. L'unique obligation est d'installer un dispositif permettant de mesurer la quantité de froid fournie à chaque local occupé de manière privative.",
+        "Cas d'impossibilités techniques et économiques",
+        "Certaines copropriétés sont confrontées à des impossibilités techniques qui empêchent :",
+        "• D'installer des appareils de mesure pour calculer la consommation individuelle",
+        "• De poser un appareil permettant aux occupants de moduler la chaleur fournie par le chauffage collectif.",
+        "L'impossibilité économique se justifie si l'installation de compteurs individuels ou de répartiteurs de frais entraîne un coût excessif au regard des économies d'énergie envisagées par la copropriété.",
+        "Le syndic doit alors rédiger une note justifiant cette impossibilité technique ou le coût excessif. Cette note doit préciser la méthode alternative utilisée pour évaluer la quantité de chaleur ou de froid consommée par chaque logement.",
+        "[Rappel] Dans ce cas, pour connaître la consommation de chauffage ou de refroidissement de l’immeuble et la répartir entre les occupants, le syndic va : • Calculer la consommation moyenne d’énergie de l’immeuble sur les 3 dernières années (hors consommation liée à la production d’eau chaude sanitaire) • Diviser ce montant par la surface habitable de chaque lot."
+      ]
+    },
+    {
+      "titre": "Quelles sont les étapes à suivre pour individualiser les frais de chauffage et de froid ?",
+      "contenu": [
+        "Plusieurs étapes sont à respecter pour individualiser les frais de chauffage et de refroidissement dans une copropriété.",
+        "Vérifier si l'immeuble est soumis à l'obligation d'individualiser les frais de chauffage et de froid",
+        "Tout d'abord, le syndic de la copropriété doit vérifier :",
+        "• S'il est techniquement possible d'installer des appareils de mesure de la consommation individuelle de froid et/ou de chaud",
+        "• S'il est rentable d'installer des appareils de mesure de la consommation individuelle de froid et/ou de chaud",
+        "• Si la consommation moyenne de l’immeuble sur les 3 dernières années est inférieure ou supérieure au seuil de 80 kWh/m².",
+        "Voter les travaux d'installation d'appareils de mesure de la consommation individuelle",
+        "Dans le cas où l'immeuble est bien soumis à l'obligation d'individualiser les frais de chauffage et de froid, le syndic doit ensuite convoquer une assemblée générale.",
+        "L'ordre du jour doit comporter les questions portant sur :",
+        "• la pose d'appareils d'individualisation des frais de chauffage et de refroidissement,",
+        "• le choix du prestataire, sur présentation de devis.",
+        "Ces résolutions sont votées et adoptées à la majorité absolue (dite majorité de l'article 25).",
+        "[À noter] Les frais d'installation sont à la charge des copropriétaires de l'immeuble. Il s'agit de charges communes. La copropriété peut sous certaines conditions bénéficier d'un éco-prêt à taux zéro.",
+        "Installer des robinets thermostatiques",
+        "Avant l'installation d'appareils d'individualisation des frais de chauffage dans l'immeuble, chaque copropriétaire doit mettre en place sur les émetteurs de chaleur (chauffe-serviette, radiateur) du logement, des organes de régulation de la température intérieure de la pièce (robinets thermostatiques).",
+        "[À noter] Les frais d'installation sont à la charge de chaque propriétaire.",
+        "Installer les appareils de mesure de la consommation individuelle",
+        "Enfin, les appareils de mesure de la consommation individuelle de chaud ou de froid seront installés, conformément à ce qui a été voté en assemblée générale des copropriétaires."
+      ]
+    },
+    {
+      "titre": "Quelles sont les conséquences de l'individualisation de la consommation de chauffage et de froid ?",
+      "contenu": [
+        "Une évaluation de la consommation de la quantité de chaleur, de froid et d'eau chaude sanitaire du logement doit être transmise par le syndic tous les mois à chaque copropriétaire.",
+        "Facturation individuelle",
+        "L'individualisation des frais de chauffage et de froid permet d'établir des factures spécifiques à chaque logement.",
+        "Cette facturation comporte :",
+        "• Les frais individuels calculés à partir des relevés des appareils de mesure de la consommation individuelle posés à l'entrée ou dans les logements",
+        "• Les frais communs liés à l'utilisation d'énergie et de combustible dans les parties communes ou les équipements communs. Il s'agit de charges communes réparties entre les occupants.",
+        "[À savoir] Les frais d'entretien, de maintenance et de réparation de la chaudière collective ou les frais liés à la production d'eau chaude commune peuvent s'ajouter à la facture individuelle.",
+        "Information des copropriétaires",
+        "Le syndic transmet à chaque copropriété :",
+        "• Une évaluation de la consommation de chaleur, de froid et d'eau chaude sanitaire de ses locaux privatifs. Cette information est transmise mensuellement.",
+        "• Une note d'information annuelle qui détaille sa consommation de chaleur, de froid et d'eau chaude sanitaire de son logement."
+      ]
+    },
+    {
+      "titre": "Quelles sont les sanctions en cas de non-individualisation des frais de chauffage et de froid ?",
+      "contenu": [
+        "Le syndicat des copropriétaires, représenté par le syndic, est responsable de l'installation du dispositif d'individualisation des frais de chauffage ou de refroidissement.",
+        "En cas de contrôle, le syndicat des copropriétaires, représenté par le syndic, doit communiquer à l'autorité administrative qui en fait la demande, par courrier, les documents permettant de justifier du respect de cette obligation. En cas d'impossibilité technique ou coût excessif, le syndic doit pouvoir le justifier par des documents. Cette communication doit intervenir dans un délai de 1 mois à compter de la réception de la demande.",
+        "Si l'obligation n'est pas respectée, l'autorité administrative met en demeure le syndicat des copropriétaires de s'y conformer dans un délai qu'elle détermine.",
+        "Sans réponse dans le délai d'1 mois ou lorsque le syndicat des copropriétaires ne s'est pas conformé à la mise en demeure dans le délai fixé, l'autorité administrative peut lui infliger une amende. Celle-ci peut être d'un montant de 1 500 € maximum par an et par logement jusqu'à ce que l'immeuble soit conforme."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Loi n°65-557 du 10 juillet 1965 fixant le statut de la copropriété : article 25",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039313590"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : article L174-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041569867/"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : articles L185-1 à L185-4",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000041571417"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : articles R174-1 à R174-18",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000043819443/#LEGISCTA000043819443"
+    },
+    {
+      "titre": "Arrêté du 27 août 2012 sur la fixation individuelle de la quantité de chaleur et froid et à la répartition des frais de chauffage et refroidissement en immeuble collectif d'habitation ou à usage mixte",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000026344847/"
+    },
+    {
+      "titre": "Arrêté du 6 septembre 2019 relatif à la détermination individuelle de la quantité de chaleur et de froid et à la répartition des frais de chauffage et de refroidissement",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000039078082"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Individualisation des frais de chauffage et refroidissement",
+      "url": "https://www.anil.org/individualisation-frais-chauffage/"
+    },
+    {
+      "titre": "Guide pratique sur l'individualisation des frais de chauffage",
+      "url": "https://www.inc-conso.fr/content/lindividualisation-des-frais-de-chauffage-en-copropriete"
+    },
+    {
+      "titre": "Rentabilité de l'installation des compteurs",
+      "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000039070436"
+    }
+  ],
+  "slug": "copropriete-individualisation-de-la-consommation-de-chauffage-et-de-froid",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "budget-et-charges-de-copropriete",
+      "titre": "Budget et charges de copropriété"
+    }
+  ]
+}

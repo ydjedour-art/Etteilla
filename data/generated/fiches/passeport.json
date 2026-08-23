@@ -1,0 +1,33 @@
+{
+  "id": "F35154",
+  "type_publication": "Recherche guidée",
+  "titre": "Passeport",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Passeport",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2020-01-09",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35154",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Passeport",
+    "Passeport"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "passeport",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "passeport",
+      "titre": "Passeport"
+    }
+  ]
+}

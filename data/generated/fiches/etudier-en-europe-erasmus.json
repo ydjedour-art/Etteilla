@@ -1,0 +1,133 @@
+{
+  "id": "F378",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Étudier en Europe : Erasmus +",
+  "theme": "Famille - Scolarité",
+  "description": "Erasmus+ vous permet de poursuivre des études ou d'effectuer un stage en Europe pendant votre cursus universitaire",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-01-27",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F378",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Étudier à l'étranger",
+    "Étudier en Europe : Erasmus +"
+  ],
+  "introduction": "Vous êtes étudiant en France et vous voulez suivre une partie de vos études dans un autre pays européen ? Vous pouvez le faire via le programme Erasmus +. Durée, destination, démarches à réaliser, aides financières, reconnaissance pour l'obtention de votre diplôme français : voici les informations à connaître sur la mobilité Erasmus +.",
+  "chapitres": [
+    {
+      "titre": "Qu'est ce que le programme Erasmus + ?",
+      "contenu": [
+        "Erasmus+ vous permet de poursuivre des études ou d'effectuer un stage en Europe pendant votre cursus universitaire. Votre départ à l'étranger doit s'inscrire dans votre programme d'études et doit être utile pour l'obtention de votre diplôme."
+      ]
+    },
+    {
+      "titre": "Quand peut-on partir en Erasmus + ?",
+      "contenu": [
+        "Vous pouvez partir en Erasmus+ dès la 1re année d'études supérieures pour une mobilité de stage.",
+        "Vous pouvez partir dès la 2e année d'études supérieures pour une mobilité d'études."
+      ]
+    },
+    {
+      "titre": "Quelle est la durée d'une mobilité Erasmus + ?",
+      "contenu": [
+        "Vous pouvez partir étudier ou effectuer un stage en Europe pour 1 an maximum par cycle d'études (licence, master, doctorat).",
+        "Vous avez la possibilité de cumuler les 2 (stage et mobilité d'études) tant que la durée totale ne dépasse pas les 12 mois par cycle (licence, master, doctorat).",
+        "[Exemple] Vous pouvez faire 4 mois de mobilité de stage en master 1 et 8 mois de mobilité d'étude pour le master 2.",
+        "Si vous avez effectué 12 mois de mobilité durant le même cursus, vous pouvez faire 12 mois supplémentaires dans le cadre d'un autre cursus.",
+        "[Exemple] Si vous faites 12 mois de mobilités en 2e année de licence , vous pouvez également faire 12 mois de mobilités en master."
+      ]
+    },
+    {
+      "titre": "Dans quels pays peut-on partir en Erasmus + ?",
+      "contenu": [
+        "Vous pouvez partir dans un pays de l'Union européenne.",
+        "Vous pouvez également partir dans certains autres pays : la République de Macédoine du Nord, la Serbie, l'Islande, le Liechtenstein, la Norvège, la Turquie.",
+        "[À noter] Certains pays situés en dehors de l'Europe peuvent aussi faire partie du programme Erasmus +.",
+        "Vous pouvez partir dans un des établissements partenaires de votre établissement français. Chaque établissement dispose de partenariats en relation avec ses disciplines de prédilection. Pour en savoir plus, contactez le service des relations internationales de votre établissement."
+      ]
+    },
+    {
+      "titre": "Comment organiser un départ en Erasmus + ?",
+      "contenu": [
+        "C'est votre établissement d'enseignement supérieur qui organise votre départ. L'établissement doit avoir une charte universitaire Erasmus +.",
+        "Si vous êtes intéressé par une mobilité, contactez le service des relations internationales de votre établissement.",
+        "Avant votre départ, vous devrez signer un contrat pédagogique avec votre établissement universitaire français et l'établissement européen d'accueil.",
+        "À l'arrivée, vous n'aurez pas de frais d'inscription à régler dans l'établissement européen d'accueil."
+      ]
+    },
+    {
+      "titre": "A-t-on droit à des aides financières pendant la mobilité Erasmus + ?",
+      "contenu": [
+        "Pendant votre mobilité, vous pouvez continuer à percevoir votre bourse française et éventuellement votre aide à la mobilité internationale.",
+        "Vous pouvez également bénéficier des aides suivantes :",
+        "• Une bourse Erasmus + (aide financière européenne) pour couvrir vos frais de voyage et de séjour dans votre pays européen d'accueil. Le montant de la bourse varie selon votre destination et la durée de votre séjour. Chaque établissement définit ses procédures et son calendrier. Renseignez-vous auprès du bureau des relations internationales de votre établissement.",
+        "• Une bourse pour la mobilité de votre commune, votre département ou votre région. Renseignez-vous auprès d'eux.",
+        "Ces aides sont cumulables."
+      ]
+    },
+    {
+      "titre": "La mobilité Erasmus + est-elle prise en compte pour l'obtention du diplôme français ?",
+      "contenu": [
+        "Oui. Votre mobilité Erasmus + est intégrée dans votre cursus universitaire et reconnue pour l'obtention de votre diplôme français.",
+        "À votre retour en France, votre établissement universitaire prend en compte les crédits ECTS que vous avez obtenus dans votre établissement européen d'accueil.",
+        "Le système européen ECTS permet d'acquérir des unités de valeurs pour valider les cours suivis dans une ou plusieurs universités européennes et de les faire reconnaître dans son pays."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [
+    "Établissement d'enseignement supérieur",
+    "Erasmus+ France / Plateforme Penelope +"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Étudier à l'étranger",
+      "url": "https://www.enseignementsup-recherche.gouv.fr/fr/etudier-l-etranger-49853"
+    },
+    {
+      "titre": "EURES, le portail sur les opportunités d'études et de formation en Europe",
+      "url": "https://ec.europa.eu/eures/main.jsp?catId=9522&acro=news&lang=fr&parentId=20"
+    },
+    {
+      "titre": "Erasmus : un tremplin pour l'emploi",
+      "url": "https://www.francetravail.fr/international/mobilite-internationale/jose-leurope/1-je-peux-faire-un-stage-en-eu.html"
+    },
+    {
+      "titre": "Système européen de crédits (ECTS)",
+      "url": "https://education.ec.europa.eu/fr/systeme-europeen-de-transfert-et-daccumulation-de-credits-ects"
+    },
+    {
+      "titre": "Site Génération Erasmus+",
+      "url": "http://www.generation-erasmus.fr"
+    },
+    {
+      "titre": "Présentation du programme Erasmus +",
+      "url": "http://ec.europa.eu/programmes/erasmus-plus/node_fr"
+    },
+    {
+      "titre": "Informations sur le programme Erasmus +",
+      "url": "https://info.erasmusplus.fr/"
+    },
+    {
+      "titre": "Bourses d'études à l'étranger",
+      "url": "http://www.etudiant.gouv.fr/cid96349/bourses-etudes-etranger.html"
+    },
+    {
+      "titre": "Pays éligibles au programme Erasmus +",
+      "url": "https://erasmus-plus.ec.europa.eu/fr/programme-guide/part-a/eligible-countries"
+    }
+  ],
+  "slug": "etudier-en-europe-erasmus",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "etudier-a-l-etranger",
+      "titre": "Étudier à l'étranger"
+    }
+  ]
+}

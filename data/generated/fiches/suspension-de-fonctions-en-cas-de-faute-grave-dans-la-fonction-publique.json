@@ -1,0 +1,50 @@
+{
+  "id": "F13970",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Suspension de fonctions en cas de faute grave dans la fonction publique",
+  "theme": "Travail - Formation",
+  "description": "La suspension de fonctions consiste à éloigner temporairement un agent public dans l'intérêt du service public. Ce n'est pas une sanction disciplinaire.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-05-19",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F13970",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Conflits du travail dans la fonction publique",
+    "Suspension de fonctions en cas de faute grave dans la fonction publique"
+  ],
+  "introduction": "La suspension de fonctions consiste à éloigner temporairement du service un agent public ayant commis des actes pouvant constituer une faute disciplinaire ou une infraction et perturber le fonctionnement du service. Ce n'est pas une sanction disciplinaire. Nous vous présentons en quoi consiste cette mesure et quels sont ses effets selon que vous êtes fonctionnaire ou contractuel.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code général de la fonction publique : articles L531-1 à L531-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044423133/"
+    },
+    {
+      "titre": "Décret n°86-83 du 17 janvier 1986 relatif aux agents contractuels de la FPE",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000699956/"
+    },
+    {
+      "titre": "Décret n°88-145 du 15 février 1988 relatif aux agents non titulaires de la FPT",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000871608"
+    },
+    {
+      "titre": "Décret n°91-155 du 6 février 1991 relatif aux agents contractuels de la FPH : article 39-1",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021710987/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "suspension-de-fonctions-en-cas-de-faute-grave-dans-la-fonction-publique",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "conflits-du-travail-dans-la-fonction-publique",
+      "titre": "Conflits du travail dans la fonction publique"
+    }
+  ]
+}

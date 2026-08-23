@@ -1,0 +1,106 @@
+{
+  "id": "F15269",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Assurance-vie : comment savoir si on est bénéficiaire d'un assuré décédé ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Pour connaitre le bénéficiaire d'un contrat d'assurance-vie, il faut interroger l'Agira.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-07-06",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F15269",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Assurance vie",
+    "Assurance-vie : comment savoir si on est bénéficiaire d'un assuré décédé ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Si un proche est décédé et que vous voulez savoir s'il avait souscrit un contrat d'assurance-vie, il y a 2 cas possibles :",
+        "• Vous pensez être le bénéficiaire d'un contrat d'assurance-vie",
+        "• Vous pensez connaitre celui qui pourrait être le bénéficiaire.",
+        "Toute personne peut demander à rechercher l'existence d'un contrat d'assurance-vie d'une personne décédée.",
+        "Il faut interroger l'Agira. Une demande auprès de l'Agira est gratuite.",
+        "Si vous souhaitez faire cette démarche, vous devez joindre une copie de l'acte de décès de la personne qui aurait souscrit le contrat.",
+        "Vous pouvez effectuer la démarche sur internet (ou par courrier postal si vous ne pouvez pas utiliser internet) :",
+        "Sur internet",
+        "Vous devez utiliser un service en ligne :",
+        "Agira VIE : demander la recherche des bénéficiaires d’un contrat d’assurance-vie",
+        "Avoir une adresse mail",
+        "Par courrier",
+        "Si vous ne pouvez pas utiliser internet, vous devez adresser votre demande à l'Association pour la gestion des informations sur le risque en assurance (Agira).",
+        "Association pour la gestion des informations sur le risque en assurance (Agira)",
+        "Organise la recherche de contrats d'assurance vie non réclamés en cas de décès du souscripteur.",
+        "Par courrier",
+        "Agira Recherche Contrats Assurance Vie",
+        "26 Boulevard Haussmann",
+        "75311 Paris Cedex 09",
+        "Dans les 15 jours suivant la réception de la demande, l'Agira va informer l'ensemble des compagnies d'assurance du décès de l'assuré.",
+        "Chaque assureur qui reçoit cette demande doit effectuer les recherches pour déterminer s'il existe un contrat ou plusieurs contrats souscrits par la personne décédée.",
+        "Si vous êtes désigné comme bénéficiaire, l'assureur a 1 mois pour vous informer de l'existence d'un contrat à votre profit.",
+        "Quand l'assureur a pris connaissance des coordonnées du bénéficiaire, il doit le contacter pour lui demander de fournir l'ensemble des documents nécessaires au paiement du capital.",
+        "[À savoir] Même si vous avez la possibilité de contacter l’Agira pour savoir si une personne est bénéficiaire d’un contrat d’assurance-vie, l’assureur ne peut entrer en contact qu’avec le bénéficiaire du contrat d’assurance-vie, et non avec le demandeur.",
+        "Si vous êtes bénéficiaire d'un contrat souscrit par une personne décédée, l'assureur doit vous verser le capital dans un délai d'1 mois après réception de l'ensemble des documents nécessaires au paiement.",
+        "Au-delà de ce délai, le capital non versé produit des intérêts au taux de :",
+        "• 13,68 % durant 2 mois,",
+        "• 20,52 % après la période de 2 mois.",
+        "[À noter] L'Agira est compétente pour rechercher les contrats d'assurance-vie d'une personne décédée depuis moins de 10 ans. Si la personne est décédée depuis plus de 10 ans, il faut s'adresser à la Caisse des dépôts et consignations (CDC) en utilisant son service en ligne Ciclade."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code des assurances : articles L114-1 à L114-3",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006157215"
+    },
+    {
+      "titre": "Code des assurances : articles L132-1 à L132-27-2",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006174038"
+    },
+    {
+      "titre": "Arrêté du 19 juin 2025 relatif à la fixation du taux de l'intérêt légal",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051783186"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Rechercher si vous êtes bénéficiaire d'une assurance-vie",
+      "url": "https://ciclade.caissedesdepots.fr/comment-faire-ma-recherche",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "Info Banque - Assurance"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Ciclade - Pour rechercher votre argent",
+      "url": "https://ciclade.caissedesdepots.fr/"
+    },
+    {
+      "titre": "La finance pour tous - Assurance vie",
+      "url": "https://www.lafinancepourtous.com/pratique/placements/assurance-vie/"
+    },
+    {
+      "titre": "Assurance vie : les contrats en déshérence",
+      "url": "https://www.abe-infoservice.fr/assurance/assurance-vie/beneficiaire-dun-contrat-dassurance-vie-les-contrats-dassurance-vie-en-desherence"
+    },
+    {
+      "titre": "Tout savoir sur l'assurance vie",
+      "url": "https://www.abe-infoservice.fr/fr/assurance/assurance-vie"
+    }
+  ],
+  "slug": "assurance-vie-comment-savoir-si-on-est-beneficiaire-d-un-assure-decede",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "assurance-vie",
+      "titre": "Assurance vie"
+    }
+  ]
+}

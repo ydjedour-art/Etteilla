@@ -1,0 +1,57 @@
+{
+  "id": "F1837",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Justice pénale des mineurs : mesures et peines encourues",
+  "theme": "Justice",
+  "description": "Un mineur peut faire l’objet d’une mesure éducative ou d’une peine",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-10-31",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1837",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Justice pénale des mineurs",
+    "Justice pénale des mineurs : mesures et peines encourues"
+  ],
+  "introduction": "Un mineur peut-il faire l’objet d’une mesure judiciaire ou d’une peine ? Un mineur peut être poursuivi et condamné. Les mesures et les peines qui lui sont applicables sont fixées en fonction de son âge et de sa situation personnelle. Parce qu'il est âgé de moins de 18 ans, âge de la majorité pénale, sa responsabilité est atténuée par rapport à celle d'un majeur. S'il a moins de 13 ans, il n’encourt aucune peine. Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de justice pénale des mineurs : article L122-8",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039099354#:~:text=Les%20mineurs%20capables%20de%20discernement,la%20justice%20p%C3%A9nale%20des%20mineurs."
+    },
+    {
+      "titre": "Code de la justice pénale des mineurs : articles L323-1 à L323-3",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000039086952/LEGISCTA000039088125/"
+    },
+    {
+      "titre": "Code de justice pénale des mineurs : articles L111-1 à L113-8",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000039087899/2021-09-30"
+    },
+    {
+      "titre": "Code de la justice pénale des mineurs : articles L121-1 à L121-7",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000039086952/LEGISCTA000039087981/2021-10-01/#LEGISCTA000039087981"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Maison de justice et du droit"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Justice pénale des mineurs",
+      "url": "https://www.justice.gouv.fr/cjpm-outils-pratiques-fiches-techniques"
+    }
+  ],
+  "slug": "justice-penale-des-mineurs-mesures-et-peines-encourues",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "justice-penale-des-mineurs",
+      "titre": "Justice pénale des mineurs"
+    }
+  ]
+}

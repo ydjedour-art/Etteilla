@@ -1,0 +1,106 @@
+{
+  "id": "F2329",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Prélèvements sociaux (CSG, CRDS...) sur les revenus du patrimoine et de placements",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Les revenus du patrimoine et de placement sont soumis à plusieurs prélèvements sociaux.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-06-30",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2329",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Prélèvements sociaux (CSG, CRDS)",
+    "Prélèvements sociaux (CSG, CRDS...) sur les revenus du patrimoine et de placements"
+  ],
+  "introduction": "Vous vous interrogez sur les prélèvements sociaux qui s'appliquent sur vos revenus du patrimoine (fonciers, locatifs, etc.) et de placements ? Les principaux sont la CSG, la CRDS et le prélèvement de solidarité. Certains revenus sont cependant exonérés. Si vous êtes non-résident fiscal, vous bénéficiez d'exonérations spécifiques. Nous vous indiquons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Votre situation varie selon selon que vous êtes ou non résident fiscal français."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la sécurité sociale : articles L136-6 à L136-6-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006173130/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : article L136-7",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006173129/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : article L136-8",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006173099/"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : articles L14-10-1 à L14-10-10",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006157576/"
+    },
+    {
+      "titre": "Loi n° 2025-1403 du 30 décembre 2025 de financement de la sécurité sociale pour 2026",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000053226384/"
+    },
+    {
+      "titre": "Ordonnance n°96-50 du 24 janvier 1996 relative au remboursement de la dette sociale",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000190291/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Déclarer vos revenus en ligne",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Déclaration 2026 des revenus 2025 (papier)",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/2042/declaration-des-revenus",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Impôts : accéder à votre espace Finances publiques",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "Service d'information des impôts",
+    "Service en charge des impôts (trésorerie, service des impôts...)",
+    "Service des impôts des particuliers non résidents"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Questions-réponses contribution financière pour l’autonomie (CFA)",
+      "url": "https://boss.gouv.fr/portail/accueil/regles-dassujettissement/contribution-sociale-generalisee.html"
+    },
+    {
+      "titre": "Brochure pratique 2026 - Déclaration des revenus de 2025",
+      "url": "https://www.impots.gouv.fr/www2/fichiers/documentation/brochure/ir_2026/accueil.htm"
+    },
+    {
+      "titre": "Calendrier fiscal des particuliers",
+      "url": "https://www.impots.gouv.fr/portail/particulier/calendrier-fiscal"
+    },
+    {
+      "titre": "Pays de l'Union européenne",
+      "url": "https://european-union.europa.eu/principles-countries-history/eu-countries_fr"
+    },
+    {
+      "titre": "Justificatif pour bénéficier de la dispense de CSG et de CRDS sur les produits de placement (non-résident fiscal)",
+      "url": "https://www.legifrance.gouv.fr/download/pdf?id=PVgGRkg5g2HaAs0-cs-mWMtLwN0K96F5mQLIWt1yovI="
+    }
+  ],
+  "slug": "prelevements-sociaux-csg-crds-sur-les-revenus-du-patrimoine-et-de-placements",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "prelevements-sociaux-csg-crds",
+      "titre": "Prélèvements sociaux (CSG, CRDS)"
+    }
+  ]
+}

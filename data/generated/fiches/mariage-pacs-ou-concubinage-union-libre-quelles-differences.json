@@ -1,0 +1,44 @@
+{
+  "id": "F14485",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Mariage, Pacs ou concubinage (union libre) : quelles différences ?",
+  "theme": "Famille - Scolarité",
+  "description": "Pour vivre en couple, chacun a le choix entre concubinage (union libre), pacs ou mariage. Vos droits et vos obligations sont différents.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-07-11",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F14485",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Mariage",
+    "Mariage, Pacs ou concubinage (union libre) : quelles différences ?"
+  ],
+  "introduction": "Si vous souhaitez vivre en couple, vous avez le choix entre concubinage (union libre), Pacs ou mariage. Vos droits et vos obligations sont différents selon que vous êtes concubin, partenaire pacsé ou conjoint marié.",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [
+    "Service en charge des impôts (trésorerie, service des impôts...)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Mariage/PACS et impôts en commun",
+      "url": "https://www.impots.gouv.fr/particulier/mariage-et-impots-en-commun"
+    },
+    {
+      "titre": "Colocation et concubinage : quelle est la différence ?",
+      "url": "https://www.caf.fr/allocataires/caf-de-la-loire/offre-de-service/vie-personnelle/colocation-et-concubinage-quelle-est-la-difference"
+    }
+  ],
+  "slug": "mariage-pacs-ou-concubinage-union-libre-quelles-differences",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "mariage",
+      "titre": "Mariage"
+    }
+  ]
+}

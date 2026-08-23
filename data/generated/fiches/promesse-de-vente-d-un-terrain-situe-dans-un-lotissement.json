@@ -1,0 +1,103 @@
+{
+  "id": "F16455",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Promesse de vente d'un terrain situé dans un lotissement",
+  "theme": "Logement",
+  "description": "Le vendeur d'un terrain en lotissement signe une promesse unilatérale de vente. Cette promesse ouvre une option d'achat au profit de l'acquéreur.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-05-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F16455",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Achat d'un terrain",
+    "Promesse de vente d'un terrain situé dans un lotissement"
+  ],
+  "introduction": "La création d'un lotissement est soumise à permis d'aménager ou à déclaration préalable. Quand un terrain est commercialisé, le vendeur est le seul à s'engager fermement. Il signe une promesse unilatérale de vente. Certaines modalités de cette promesse différent selon l'autorisation d'urbanisme obtenue. Nous faisons le point sur le sujet.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Quand un projet de lotissement prévoit la création ou l'aménagement de voies, d'espaces ou d'équipements communs, il fait l'objet d'un permis d'aménager. C'est également le cas pour un lotissement situé dans les zones suivantes :",
+        "• Périmètre d'un site patrimonial remarquable",
+        "• Abords des monuments historiques",
+        "• Site classé ou en instance de classement.",
+        "Si le projet de lotissement n'est pas soumis à cette autorisation, quel que soit le nombre de lots (c'est-à-dire le nombre de terrains issus de la division), il doit faire l'objet d'une déclaration préalable de travaux."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : article 1124",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032040818/"
+    },
+    {
+      "titre": "Code civil : article 1178",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041243"
+    },
+    {
+      "titre": "Code civil : article 1589",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006441324/"
+    },
+    {
+      "titre": "Code civil : article 1589-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006441326"
+    },
+    {
+      "titre": "Code de l'urbanisme : article L112-11",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039785320/"
+    },
+    {
+      "titre": "Code de l'urbanisme : article L115-4",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031210397"
+    },
+    {
+      "titre": "Code de l'urbanisme : articles L442-1 à L442-14",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006175694"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : articles L132-4 à L132-9",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000041565555"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : articles L271-1 à L271-3",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000006176357/"
+    },
+    {
+      "titre": "Arrêté du 22 juillet 2020 définissant le contenu des études géotechniques dans les zones exposées au phénomène de mouvement de terrain différentiel du à la sécheresse et à la réhydratation des sols",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000042211476/"
+    },
+    {
+      "titre": "Arrêté du 22 juillet 2020 définissant les zones exposées au phénomène de mouvement de terrain différentiel des sols argileux",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042220805"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "État des nuisances sonores aériennes",
+      "url": "https://www.ecologique-solidaire.gouv.fr/sites/default/files/Modele_etat_nuisances_sonores_aeriennes.pdf",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Rechercher les risques naturels et technologiques sur Géorisques",
+      "url": "https://www.georisques.gouv.fr/",
+      "type": "outilRechercheNG"
+    }
+  ],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)",
+    "Notaire"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "promesse-de-vente-d-un-terrain-situe-dans-un-lotissement",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "achat-d-un-terrain",
+      "titre": "Achat d'un terrain"
+    }
+  ]
+}

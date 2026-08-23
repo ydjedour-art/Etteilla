@@ -1,0 +1,100 @@
+{
+  "id": "F2075",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Sauvegarde de justice d'un majeur",
+  "theme": "Famille - Scolarité",
+  "description": "La sauvegarde de justice protège la personne momentanément incapable de gérer ses intérêts. Elle est adaptée aux situations provisoires et/ou urgentes.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-06-12",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2075",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Protection juridique (tutelle, curatelle...)",
+    "Sauvegarde de justice d'un majeur"
+  ],
+  "introduction": "La sauvegarde de justice est une mesure de protection juridique de courte durée qui répond à un besoin de protection temporaire ou urgent. Elle est mise en place sur décision judiciaire ou par déclaration médicale. Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code civil : articles 433 à 439",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006150532/"
+    },
+    {
+      "titre": "Code de la santé publique : article L. 3211-6",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036515486"
+    },
+    {
+      "titre": "Code de procédure civile : article 1211",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020031187"
+    },
+    {
+      "titre": "Code de procédure civile : article 1213",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020031175/2021-11-04/"
+    },
+    {
+      "titre": "Code de procédure civile : article 1214",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000021538186/2021-11-04/"
+    },
+    {
+      "titre": "Code de procédure civile : articles 1217 à 1219-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000020031166/"
+    },
+    {
+      "titre": "Code de procédure civile : articles 1220 à 1221-2",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070716/LEGISCTA000019941097/#LEGISCTA000020031147"
+    },
+    {
+      "titre": "Code de procédure civile : articles 1222 à 1224",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000020031133"
+    },
+    {
+      "titre": "Code de procédure civile : article 1225",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038810446?idSecParent=LEGISCTA000020031168"
+    },
+    {
+      "titre": "Code de procédure civile : articles 1226 à 1229",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000020031103"
+    },
+    {
+      "titre": "Code de procédure civile : articles 1230 à 1231",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070716/LEGISCTA000019941786/#LEGISCTA000020031092"
+    },
+    {
+      "titre": "Code de procédure civile : articles 1248 à 1252-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020030991/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Requête en vue d'une protection juridique d'un majeur (habilitation familiale ou protection judiciaire)",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/15891",
+      "type": "formulaireNG"
+    },
+    {
+      "titre": "Requête au juge des tutelles - Nouvel examen d'une mesure de protection judiciaire d'un majeur",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_14919.do",
+      "type": "formulaireNG"
+    },
+    {
+      "titre": "Déclaration médicale aux fins de sauvegarde de justice",
+      "url": "https://www.tribunal-de-paris.justice.fr/sites/default/files/2024-01/Mod%C3%A8les%20sauvegarde%20m%C3%A9dicale%20et%20notice%20V2%20%28003%29.pdf",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Maison de justice et du droit"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "sauvegarde-de-justice-d-un-majeur",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "protection-juridique-tutelle-curatelle",
+      "titre": "Protection juridique (tutelle, curatelle...)"
+    }
+  ]
+}

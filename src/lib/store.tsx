@@ -37,13 +37,17 @@ import type {
   VaultDocument,
 } from "@/lib/types";
 
-const STORAGE_KEY = "serenio-store-v1";
+const STORAGE_KEY = "izy-d-store-v1";
 
 interface AppState {
   user: UserProfile;
   dossiers: Dossier[];
   vaultDocuments: VaultDocument[];
   assistantMessages: AssistantMessage[];
+  // Non persistées (pas de sens de les rejouer au chargement) : état
+  // transitoire de l'appel en cours au concierge Claude (voir /api/assistant).
+  assistantThinking: boolean;
+  assistantError: string | null;
   mandates: Mandate[];
 }
 
@@ -53,6 +57,8 @@ function initialState(): AppState {
     dossiers: seedDossiers,
     vaultDocuments: seedVaultDocuments,
     assistantMessages: seedAssistantMessages,
+    assistantThinking: false,
+    assistantError: null,
     mandates: [],
   };
 }
@@ -63,6 +69,8 @@ function emptyState(): AppState {
     dossiers: [],
     vaultDocuments: [],
     assistantMessages: [],
+    assistantThinking: false,
+    assistantError: null,
     mandates: [],
   };
 }
@@ -102,60 +110,15 @@ const ADVANCE_TABLE: Partial<
   },
 };
 
-const ASSISTANT_FAQ: { keywords: string[]; reply: string }[] = [
-  {
-    keywords: ["quotient familial"],
-    reply:
-      "C'est un chiffre calculé à partir de vos revenus et de votre situation familiale : il sert à déterminer le montant de vos aides. On le met à jour automatiquement dès qu'on a vos nouveaux revenus, vous n'avez rien à calculer.",
-  },
-  {
-    keywords: ["titre de séjour", "titre de sejour", "anef"],
-    reply:
-      "On surveille la date d'échéance de votre titre de séjour et on prépare le dossier de renouvellement plusieurs mois à l'avance, pour ne jamais être pris de court.",
-  },
-  {
-    keywords: ["urssaf", "cotisation", "micro-entrepreneur", "auto-entrepreneur"],
-    reply:
-      "En tant qu'indépendant, vous devez déclarer votre chiffre d'affaires périodiquement à l'URSSAF. On vous rappelle avant l'échéance et on calcule le montant à déclarer pour vous.",
-  },
-  {
-    keywords: ["caf", "allocation"],
-    reply:
-      "La CAF doit être tenue au courant de tout changement (adresse, ressources, situation familiale) pour que vos aides ne s'interrompent jamais. On s'en charge dès qu'un changement est détecté.",
-  },
-  {
-    keywords: ["mutuelle"],
-    reply:
-      "On vérifie chaque année que votre contrat de mutuelle est toujours adapté à votre situation, et on gère le renouvellement à votre place.",
-  },
-  {
-    keywords: ["impot", "impôt", "déclaration", "avis d'imposition"],
-    reply:
-      "Votre déclaration de revenus annuelle est préparée à partir de vos documents déjà connus. Il ne vous reste qu'à valider ce qu'on ne peut pas deviner tout seul.",
-  },
-  {
-    keywords: ["document", "coffre", "pièce"],
-    reply:
-      "Vous pouvez ajouter vos documents dans le coffre-fort à tout moment : dès qu'un document correspond à une pièce manquante, la démarche concernée se débloque automatiquement.",
-  },
-];
-
-function craftAssistantReply(userText: string): string {
-  const lower = userText.toLowerCase();
-  const match = ASSISTANT_FAQ.find((entry) =>
-    entry.keywords.some((keyword) => lower.includes(keyword))
-  );
-  if (match) return match.reply;
-  return "Bonne question. Dans la version finale, je réponds avec le contexte réel de vos dossiers (assistant Claude + base de connaissance, voir docs/04-architecture-technique.md). Essayez de me parler de la CAF, des impôts, de l'URSSAF, de la mutuelle ou du titre de séjour pour voir un exemple de réponse.";
-}
-
 type Action =
   | { type: "HYDRATE"; state: AppState }
   | { type: "CREATE_DOSSIER"; templateSlug: string }
   | { type: "ADVANCE_DOSSIER"; dossierId: string }
   | { type: "ADD_VAULT_DOCUMENT"; document: Pick<VaultDocument, "type" | "label" | "expiresAt"> }
   | { type: "SET_SUBSCRIPTION"; subscription: UserProfile["subscription"] }
-  | { type: "SEND_ASSISTANT_MESSAGE"; content: string }
+  | { type: "SEND_ASSISTANT_MESSAGE_START"; content: string }
+  | { type: "SEND_ASSISTANT_MESSAGE_SUCCESS"; content: string }
+  | { type: "SEND_ASSISTANT_MESSAGE_ERROR"; error: string }
   | { type: "GENERATE_MANDATE"; dossierId: string; scope: string }
   | { type: "REVOKE_MANDATE"; mandateId: string }
   | { type: "RESET_ACCOUNT" };
@@ -163,7 +126,11 @@ type Action =
 function reducer(state: AppState, action: Action): AppState {
   switch (action.type) {
     case "HYDRATE":
-      return action.state;
+      // assistantThinking/assistantError sont un état transitoire d'appel
+      // réseau : jamais valides à rejouer depuis un stockage précédent (un
+      // onglet fermé pendant un appel en cours laisserait "thinking" bloqué
+      // à true pour toujours).
+      return { ...action.state, assistantThinking: false, assistantError: null };
 
     case "CREATE_DOSSIER": {
       const template = formalityTemplates.find((t) => t.slug === action.templateSlug);
@@ -247,22 +214,37 @@ function reducer(state: AppState, action: Action): AppState {
     case "SET_SUBSCRIPTION":
       return { ...state, user: { ...state.user, subscription: action.subscription } };
 
-    case "SEND_ASSISTANT_MESSAGE": {
-      const now = new Date().toISOString();
+    case "SEND_ASSISTANT_MESSAGE_START": {
       const userMessage: AssistantMessage = {
         id: `msg-${Date.now()}`,
         sender: "utilisateur",
         content: action.content,
-        createdAt: now,
+        createdAt: new Date().toISOString(),
       };
+      return {
+        ...state,
+        assistantMessages: [...state.assistantMessages, userMessage],
+        assistantThinking: true,
+        assistantError: null,
+      };
+    }
+
+    case "SEND_ASSISTANT_MESSAGE_SUCCESS": {
       const reply: AssistantMessage = {
         id: `msg-${Date.now()}-r`,
         sender: "assistant_ia",
-        content: craftAssistantReply(action.content),
-        createdAt: now,
+        content: action.content,
+        createdAt: new Date().toISOString(),
       };
-      return { ...state, assistantMessages: [...state.assistantMessages, userMessage, reply] };
+      return {
+        ...state,
+        assistantMessages: [...state.assistantMessages, reply],
+        assistantThinking: false,
+      };
     }
+
+    case "SEND_ASSISTANT_MESSAGE_ERROR":
+      return { ...state, assistantThinking: false, assistantError: action.error };
 
     case "GENERATE_MANDATE": {
       const alreadyActive = state.mandates.some(
@@ -317,7 +299,7 @@ interface AppStoreContextValue {
   advanceDossier: (dossierId: string) => void;
   addVaultDocument: (document: Pick<VaultDocument, "type" | "label" | "expiresAt">) => void;
   setSubscription: (subscription: UserProfile["subscription"]) => void;
-  sendAssistantMessage: (content: string) => void;
+  sendAssistantMessage: (content: string) => Promise<void>;
   generateMandate: (dossierId: string, scope: string) => void;
   revokeMandate: (mandateId: string) => void;
   resetAccount: () => void;
@@ -368,8 +350,45 @@ export function AppStoreProvider({ children }: { children: ReactNode }) {
     []
   );
   const sendAssistantMessage = useCallback(
-    (content: string) => dispatch({ type: "SEND_ASSISTANT_MESSAGE", content }),
-    []
+    async (content: string) => {
+      const trimmed = content.trim();
+      if (!trimmed) return;
+
+      // L'historique à rejouer pour Claude : les messages déjà affichés,
+      // plus celui qu'on envoie (le reducer ne l'a pas encore ajouté au
+      // moment où on construit la requête).
+      const turns = [...state.assistantMessages, { sender: "utilisateur" as const, content: trimmed }].map(
+        (m) => ({
+          role: m.sender === "utilisateur" ? ("user" as const) : ("assistant" as const),
+          content: m.content,
+        })
+      );
+
+      dispatch({ type: "SEND_ASSISTANT_MESSAGE_START", content: trimmed });
+
+      try {
+        const res = await fetch("/api/assistant", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ messages: turns }),
+        });
+        const data = await res.json();
+        if (!res.ok) {
+          dispatch({
+            type: "SEND_ASSISTANT_MESSAGE_ERROR",
+            error: data?.error || "Le concierge n'a pas pu répondre. Réessaie dans un instant.",
+          });
+          return;
+        }
+        dispatch({ type: "SEND_ASSISTANT_MESSAGE_SUCCESS", content: data.reply });
+      } catch {
+        dispatch({
+          type: "SEND_ASSISTANT_MESSAGE_ERROR",
+          error: "Connexion impossible. Vérifie ta connexion et réessaie.",
+        });
+      }
+    },
+    [state.assistantMessages]
   );
   const generateMandate = useCallback(
     (dossierId: string, scope: string) => dispatch({ type: "GENERATE_MANDATE", dossierId, scope }),
@@ -386,7 +405,7 @@ export function AppStoreProvider({ children }: { children: ReactNode }) {
     const url = URL.createObjectURL(blob);
     const link = document.createElement("a");
     link.href = url;
-    link.download = "serenio-mes-donnees.json";
+    link.download = "izy-d-mes-donnees.json";
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);

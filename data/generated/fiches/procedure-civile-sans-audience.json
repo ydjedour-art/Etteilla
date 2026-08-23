@@ -1,0 +1,122 @@
+{
+  "id": "F39524",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Procédure civile sans audience",
+  "theme": "Justice",
+  "description": "La procédure civile peut se dérouler sans audience, avec l’accord des parties, que l’avocat soit obligatoire ou non.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-08-14",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F39524",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Affaire civile",
+    "Procédure civile sans audience"
+  ],
+  "introduction": "Une procédure sans audience est possible devant le tribunal judiciaire et le tribunal de proximité. À tout moment de l’instance, les parties peuvent demander à ce que la procédure se déroule sans audience. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Qu’est-ce que la procédure civile sans audience ?",
+      "contenu": [
+        "La procédure sans audience permet de faire juger une affaire sans que les parties se déplacent à une audience au tribunal.",
+        "Elle est possible devant le tribunal judiciaire et le tribunal de proximité.",
+        "Toutes les parties à l’affaire doivent donner expressément leur accord par écrit. Dans ce cas, la procédure est écrite."
+      ]
+    },
+    {
+      "titre": "Quelles sont les affaires concernées par la procédure civile sans audience ?",
+      "contenu": [
+        "Toutes les affaires peuvent faire l’objet d’une procédure sans audience.",
+        "Elle est possible en procédure écrite ou orale, avec ou sans avocat obligatoire."
+      ]
+    },
+    {
+      "titre": "Comment donner son consentement à une procédure civile sans audience ?",
+      "contenu": [
+        "Le procès se déroule de manière différente si le juge est saisi d’une procédure écrite ou orale :",
+        "Procédure écrite",
+        "Le demandeur indique son accord pour que la procédure soit sans audience, dans sa demande (assignation) ou ses conclusions.",
+        "Le défendeur indique son accord dans l’acte de constitution de l’avocat ou ses conclusions.",
+        "Les parties peuvent aussi donner leur accord à tout moment de la procédure.",
+        "Procédure orale",
+        "Le demandeur indique son accord pour que la procédure se déroule sans audience, dans la requête ou l’assignation.",
+        "Le défendeur doit donner son accord par écrit.",
+        "Le formulaire suivant peut être utilisé :",
+        "Consentement au déroulement de la procédure sans audience - Procédure orale devant le tribunal judiciaire ou le juge des contentieux de la protection",
+        "Le consentement écrit doit être accompagné de tout document officiel justifiant de l’identité, en original ou en photocopie. Il doit être signé et déposé ou transmis par courrier au tribunal saisi de l’affaire.",
+        "En l’absence d’accord, les parties doivent se déplacer à l’audience pour défendre leurs demandes.",
+        "[À savoir] L’accord de toutes les parties peut aussi être donné par écrit à tout moment de la procédure."
+      ]
+    },
+    {
+      "titre": "Comment se déroule la procédure civile sans audience ?",
+      "contenu": [
+        "Le procès se déroule de manière différente si le juge est saisi d’une procédure écrite ou orale :",
+        "Procédure écrite",
+        "La communication entre les parties se fait par l’intermédiaire des avocats dans les conclusions lors de la mise en état du dossier.",
+        "Le juge de la mise en état décide que l’instruction de la procédure est terminée quand les parties ont terminé leurs échanges d’écritures.",
+        "Le greffier informe les parties de la date fixée par le juge de la mise en état pour déposer leurs dossiers au greffe.",
+        "Après le dépôt des dossiers, les parties sont informées du nom des juges qui vont délibérer sur l’affaire et de la date de délibéré.",
+        "Les décisions rendues dans cette procédure peuvent être contestées en faisant appel.",
+        "Procédure orale",
+        "Lorsque toutes les parties ont donné expressément leur accord pour que la procédure se déroule sans audience, le juge organise les échanges entre les parties. Celles-ci doivent formuler leurs arguments par écrit.",
+        "Les parties doivent communiquer entre elles par lettre recommandée avec avis de réception (LRAR) ou par notification entre avocats. Elles doivent justifier de ces échanges auprès du juge dans les délais qu’il fixe.",
+        "Les parties doivent transmettre au greffe leurs demandes, leurs arguments et leurs pièces avant la date indiquée par le juge.",
+        "À cette date, le greffier informe les parties de la date à laquelle le jugement sera rendu. Il n’y a pas d’audience de plaidoirie.",
+        "Les décisions rendues dans cette procédure peuvent être contestées en faisant appel ou un pourvoi en cassation en fonction du montant des demandes.",
+        "[À savoir] Cette procédure est différente de la procédure orale qui permet un échange par écrit des conclusions, avec une présence des parties à l’audience.",
+        "[À savoir] Un timbre fiscal d’un montant de 50 € est dû par la partie qui introduit l’instance, sauf si elle est bénéficiaire de l’aide juridictionnelle."
+      ]
+    },
+    {
+      "titre": "Une audience est-elle toujours possible en procédure civile sans audience ?",
+      "contenu": [
+        "Une audience peut toujours avoir lieu.",
+        "Si le tribunal estime qu’il n’est pas possible de rendre une décision au vu des prétentions et moyens écrits, il peut demander aux parties d’être présentes à une audience.",
+        "Une partie peut également demander à ce qu’une audience ait lieu. Elle doit formuler sa demande par écrit auprès du tribunal jusqu’à la date fixée par le juge, pour le dépôt des dossiers."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de procédure civile : articles 446-1 à 446-4",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070716/LEGISCTA000022878523/#LEGISCTA000022890006"
+    },
+    {
+      "titre": "Code de procédure civile : articles 751 à 755",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070716/LEGISCTA000006165214/"
+    },
+    {
+      "titre": "Code de procédure civile : article 764",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039623442/2024-01-16"
+    },
+    {
+      "titre": "Code de procédure civile : article 778",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039623364"
+    },
+    {
+      "titre": "Code de procédure civile : article 799",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044200297"
+    },
+    {
+      "titre": "Code de procédure civile : articles 817 à 833",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000039623605"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Maison de justice et du droit"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "procedure-civile-sans-audience",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "affaire-civile",
+      "titre": "Affaire civile"
+    }
+  ]
+}

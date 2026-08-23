@@ -1,0 +1,33 @@
+{
+  "id": "F31586",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Modification du lieu de travail du salarié : quelles sont les conséquences ?",
+  "theme": "Travail - Formation",
+  "description": "L'employeur peut demander au salarié de changer de lieu de travail. Selon la situation, l'accord préalable du salarié est obligatoire ou non.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-10-08",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31586",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Contrats de travail dans le secteur privé",
+    "Modification du lieu de travail du salarié : quelles sont les conséquences ?"
+  ],
+  "introduction": "L'employeur peut demander au salarié de changer de lieu de travail. L'accord préalable du salarié peut être obligatoire, notamment en cas de modification du contrat de travail, de la localisation du nouveau lieu de travail ou du statut du salarié. Le salarié ayant des fonctions représentatives dans l'entreprise (salarié protégé) bénéficie d'une protection spéciale. Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "modification-du-lieu-de-travail-du-salarie-quelles-sont-les-consequences",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "contrats-de-travail-dans-le-secteur-prive",
+      "titre": "Contrats de travail dans le secteur privé"
+    }
+  ]
+}

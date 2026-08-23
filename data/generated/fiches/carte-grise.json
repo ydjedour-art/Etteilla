@@ -1,0 +1,33 @@
+{
+  "id": "F34300",
+  "type_publication": "Recherche guidée",
+  "titre": "Carte grise",
+  "theme": "Transports - Mobilité",
+  "description": "Carte grise",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2019-10-14",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34300",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Carte grise (certificat d'immatriculation)",
+    "Carte grise"
+  ],
+  "introduction": "Cet outil de recherche accompagnée et de délivrance d'une information personnalisée concerne les particuliers uniquement.",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "carte-grise",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "carte-grise-certificat-d-immatriculation",
+      "titre": "Carte grise (certificat d'immatriculation)"
+    }
+  ]
+}

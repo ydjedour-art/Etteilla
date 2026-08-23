@@ -1,0 +1,67 @@
+{
+  "id": "F2668",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Nom d'un mineur adopté par un couple",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Le nom d'un mineur adopté par un couple est différent entre une adoption simple et plénière. Si le mineur a 13 ans et plus, il doit être d'accord.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-01-15",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2668",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Nom et prénom",
+    "Nom d'un mineur adopté par un couple"
+  ],
+  "introduction": "Vous êtes en couple et souhaitez savoir quel nom vous pouvez donner à l'enfant que vous adoptez ? Les possibilités de choix du nom de famille sont différentes entre une adoption simple et plénière. Nous vous présentons les informations à connaître sur le nom d'un mineur adopté par un couple (époux, pacsés ou concubins).",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "[À noter] Une page spécifique présente la procédure d'adoption.",
+        "L'adoption crée un lien de filiation entre les adoptants et l'adopté. L'adoption peut être simple ou plénière.",
+        "Dans le cas de l'adoption simple, les liens avec la famille d'origine sont maintenus.",
+        "Dans le cas de l'adoption plénière, il y a une rupture totale des liens de l'adopté avec sa famille d'origine."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : article 355",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000046369877"
+    },
+    {
+      "titre": "Code civil : articles 356 à 359",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000046369879/"
+    },
+    {
+      "titre": "Code civil : articles 360 à 369-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000046369881/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Requête en adoption simple d'un enfant par des époux ou partenaires de Pacs ou concubins",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_15740.do",
+      "type": "formulaireNG"
+    },
+    {
+      "titre": "Requête en adoption plénière d’un enfant par des époux, partenaires de Pacs ou concubins",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_15736.do",
+      "type": "formulaireNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "nom-d-un-mineur-adopte-par-un-couple",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "nom-et-prenom",
+      "titre": "Nom et prénom"
+    }
+  ]
+}

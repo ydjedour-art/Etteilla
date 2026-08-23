@@ -1,0 +1,153 @@
+{
+  "id": "F34401",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Complément de loyer : quelles sont les règles ?",
+  "theme": "Logement",
+  "description": "Dans certaines communes, le propriétaire d'un logement loué avec un bail d'habitation peut faire payer au locataire un complément de loyer.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-07-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34401",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Bail d’habitation : loyer",
+    "Complément de loyer : quelles sont les règles ?"
+  ],
+  "introduction": "Vous voulez savoir ce qu'est un complément de loyer et comment il s'applique ? Dans certaines communes, le propriétaire (ou l'agence immobilière) d'un logement mis en location avec un bail d'habitation (ou un bail mobilité) peut faire payer au locataire un complément de loyer. Nous vous expliquons.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "C'est le cas des communes et groupements de communes suivants :",
+        "• Paris pour un bail signé ou renouvelé depuis juillet 2019,",
+        "• Bordeaux pour un bail signé ou renouvelé depuis le 15 juillet 2022,",
+        "• Lille, Hellemmes et Lomme, pour un bail signé ou renouvelé entre mars 2020 et le 24 novembre 2026,",
+        "• Lyon et Villeurbanne pour un bail signé ou renouvelé depuis novembre 2021,",
+        "• Montpellier pour un bail signé ou renouvelé depuis juillet 2022,",
+        "• Territoire d'Est Ensemble (Bagnolet, Bobigny, Bondy, Le Pré Saint-Gervais, Les Lilas, Montreuil, Noisy-le-Sec, Pantin, Romainville) pour un bail signé ou renouvelé depuis décembre 2021,",
+        "• Une partie du territoire de Grenoble-Alpes Métropole (communes de Bresson, Claix, Domène, Eybens, Fontanil-Cornillon, Gières, Meylan, Murianette, Poisat, La Tronche, Seyssins, Varces-Allières-et-Risset, et Venon, et une partie du territoire des communes d'Échirolles, Fontaine, Grenoble, Le Pont-de-Claix, Saint-Égrève, Saint-Martin-d’Hères, Sassenage, Seyssinet-Pariset), pour un bail signé ou renouvelé depuis le 20 janvier 2025,",
+        "• Territoire dePays Basque (Ahetze, Anglet, Arbonne, Arcangues, Ascain, Bassussarry, Bayonne, Biarritz, Bidart, Biriatou, Boucau, Ciboure, Guéthary, Hendaye, Jatxou, Lahonce, Larressore, Mouguerre, Saint-Jean-de-Luz, Saint-Pierre-d'Irube, Urcuit, Urrugne, Ustaritz, Villefranque) pour un bail signé ou renouvelé depuis le 25 novembre 2024,",
+        "• Territoire de Plaine Commune (Aubervilliers, La Courneuve, Épinay-sur-Seine, L'Île-Saint-Denis, Pierrefitte-sur-Seine, Saint-Denis, Saint-Ouen-sur-Seine, Stains, Villetaneuse) pour un bail signé ou renouvelé depuis juin 2021.",
+        "[À savoir] Pour Grenoble-Alpes Métropole, vous pouvez savoir si votre logement est concerné à l'aide de ce simulateur."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Loi n°2018-1021 du 23 novembre 2018 sur l'évolution du logement, de l'aménagement et du numérique : article 140",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000037642425/"
+    },
+    {
+      "titre": "Décret n°2015-650 du 10 juin 2015 sur les modalités de mise en œuvre du dispositif d'encadrement du niveau de certains loyers",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000030711540/"
+    },
+    {
+      "titre": "Paris : arrêté préfectoral sur les loyers de référence du 1er juillet au 24 novembre 2026",
+      "url": "https://cdn.paris.fr/paris/2026/06/17/arrete-prefectoral-encadrement-des-loyers-12-06-2026-publie-n4wk.pdf"
+    },
+    {
+      "titre": "Bordeaux : arrêté préfectoral sur les loyers de référence du 15 juillet au 24 novembre 2026",
+      "url": "https://www.gironde.gouv.fr/contenu/telechargement/87471/658140/file/arrete_prefectoral_encadrement+loyers_Bordeaux_2026-07-06_sign%C3%A9.pdf"
+    },
+    {
+      "titre": "Est Ensemble : arrêté préfectoral sur les loyers de référence du 1er juin au 24 novembre 2026",
+      "url": "https://www.drihl.ile-de-france.developpement-durable.gouv.fr/arrete-2026-fixant-les-loyers-de-reference-les-a1506.html"
+    },
+    {
+      "titre": "Grenoble-Alpes Métropole : arrêté du 6 janvier 2026 fixant les loyers de référence minoré et majoré",
+      "url": "https://www.grenoblealpesmetropole.fr/cms_viewFile.php?idtf=6009&path=Encadrement-des-loyers-Arrete-prefectoral-du-6-janvier-2026.pdf"
+    },
+    {
+      "titre": "Lyon et Villeurbanne : arrêté préfectoral sur les loyers de référence depuis novembre 2025",
+      "url": "https://www.rhone.gouv.fr/contenu/telechargement/65986/444551/file/20251024_AP_2025_EDL_Publie.pdf"
+    },
+    {
+      "titre": "Montpellier : arrêté préfectoral sur les loyers de référence du 1er juillet au 24 novembre 2026",
+      "url": "https://www.herault.gouv.fr/contenu/telechargement/56681/414967/file/2026-07-01_AP_EncadrementLoyers-Montpellier.pdf"
+    },
+    {
+      "titre": "Pays Basque : arrêté préfectoral sur les loyers de référence majorés et minorés à partir du 25 novembre 2025",
+      "url": "https://www.communaute-paysbasque.fr/fileadmin/mediatheque/Medias_specifiques/Logement_et_urbanisme/Encadrement_des_loyers/251125-recueil-des-actes-administratifs-special_encadrement_des_loyers.pdf"
+    },
+    {
+      "titre": "Plaine commune : arrêté préfectoral sur les loyers de référence du 1er juin au 24 novembre 2026",
+      "url": "https://www.drihl.ile-de-france.developpement-durable.gouv.fr/arrete-2026-fixant-les-loyers-de-reference-les-a1505.html"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Paris : estimer les loyers de référence (bail signé depuis juillet 2019)",
+      "url": "http://www.referenceloyer.drihl.ile-de-france.developpement-durable.gouv.fr/",
+      "type": "Simulateur"
+    },
+    {
+      "titre": "Bordeaux : estimer les loyers de référence minoré et majoré",
+      "url": "https://geo.bordeaux-metropole.fr/encadrement-des-loyers/",
+      "type": "Simulateur"
+    },
+    {
+      "titre": "Est Ensemble : estimer les loyers de référence entre le 1er décembre 2021 et le 24 novembre 2026",
+      "url": "http://www.referenceloyer.drihl.ile-de-france.developpement-durable.gouv.fr/est-ensemble/",
+      "type": "Simulateur"
+    },
+    {
+      "titre": "Grenoble-Alpes Métropole : savoir si le logement est concerné par l'encadrement des loyers et tester son loyer",
+      "url": "https://www.grenoblealpesmetropole.fr/940-me-renseigner-sur-l-encadrement-des-loyers.htm#par9683",
+      "type": "simulateurNG"
+    },
+    {
+      "titre": "Lille, Hellemmes et Lomme : connaître les loyers de référence en vigueur du 1er avril au 24 novembre 2026",
+      "url": "https://ssilab-ddtm-encadrement-loyers-33.webself.net/baux-conclus-ou-renouveles-entre-le-1426-et-le-241126",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Lille, Hellemmes et Lomme : estimer les loyers de référence entre le 1er mars 2020 et le 24 novembre 2026",
+      "url": "https://ssilab-ddtm-encadrement-loyers-33.webself.net/accueil",
+      "type": "Simulateur"
+    },
+    {
+      "titre": "Lyon et Villeurbanne : tester mon loyer (bail signé depuis novembre 2021)",
+      "url": "https://demarches.toodego.com/logement/encadrement-des-loyers/",
+      "type": "Simulateur"
+    },
+    {
+      "titre": "Montpellier : estimer les loyers de référence (bail signé depuis juillet 2022)",
+      "url": "https://eservices.montpellier3m.fr/habitat/encadrement-des-loyers/",
+      "type": "Simulateur"
+    },
+    {
+      "titre": "Pays Basque : estimer les loyers de référence pour un bail d’habitation",
+      "url": "https://geobasque.communaute-paysbasque.fr/adws/app/dad90ce2-8b10-11ef-b6f8-3d530512f88c/index.html?dummy=1729177715102",
+      "type": "Simulateur"
+    },
+    {
+      "titre": "Plaine Commune : estimer les loyers de référence en vigueur du 1er juin 2021 au 24 novembre 2026",
+      "url": "http://www.referenceloyer.drihl.ile-de-france.developpement-durable.gouv.fr/plaine-commune/",
+      "type": "Simulateur"
+    }
+  ],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Grenoble Alpes métropole : loyers de référence minoré et majoré",
+      "url": "https://www.grenoblealpesmetropole.fr/cms_viewFile.php?idtf=6009&path=Encadrement-des-loyers-Arrete-prefectoral-du-6-janvier-2026.pdf"
+    },
+    {
+      "titre": "Lyon et Villeurbanne : loyers de référence de novembre 2025 à octobre 2026",
+      "url": "https://www.rhone.gouv.fr/contenu/telechargement/65986/444551/file/20251024_AP_2025_EDL_Publie.pdf"
+    }
+  ],
+  "slug": "complement-de-loyer-quelles-sont-les-regles",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "bail-d-habitation-loyer",
+      "titre": "Bail d’habitation : loyer"
+    }
+  ]
+}

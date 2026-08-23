@@ -1,0 +1,62 @@
+{
+  "id": "F35295",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Passage rapide aux frontières : comment utiliser un sas Parafe ?",
+  "theme": "Étranger - Europe",
+  "description": "Le SAS Parafe est un système automatisé utilisé dans les aéroports français pour faciliter le passage des voyageurs aux frontières",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-04-07",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35295",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Voyager à l'étranger",
+    "Passage rapide aux frontières : comment utiliser un sas Parafe ?"
+  ],
+  "introduction": "Le dispositif de passage rapide aux frontières extérieures, appelé Parafe, permet le contrôle automatisé des voyageurs en France lorsque vous entrez ou sortez de l'espace Schengen. Il est réservé aux citoyens européens et aux ressortissants de certains pays tiers munis d'un passeport biométrique. Le dispositif Parafe est facultatif et gratuit. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les règles varient selon que la personne est majeure ou mineure de 12 ans ou plus :"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Règlement (UE) 2016/399 du 9 mars 2016 relatif au code frontières Schengen",
+      "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=celex:32016R0399"
+    },
+    {
+      "titre": "Arrêté du 30 juin 2023 fixant la liste des pays tiers dont les ressortissants sont autorisés à bénéficier du traitement PARAFE en entrée sur le territoire",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047772990"
+    },
+    {
+      "titre": "Code de la sécurité intérieure : articles R232-6 à R232-11-2",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000025503132/LEGISCTA000028285196/#LEGISCTA000028287282"
+    },
+    {
+      "titre": "Arrêté du 25 octobre 2010 relatif au traitement automatisé de données à caractère personnel dénommé PARAFE",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000022959808"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Le passage rapide aux frontières extérieures (PARAFE)",
+      "url": "https://www.immigration.interieur.gouv.fr/Europe-et-International/La-circulation-transfrontiere/Le-passage-rapide-aux-frontieres-exterieures-PARAFE"
+    }
+  ],
+  "slug": "passage-rapide-aux-frontieres-comment-utiliser-un-sas-parafe",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "voyager-a-l-etranger",
+      "titre": "Voyager à l'étranger"
+    }
+  ]
+}

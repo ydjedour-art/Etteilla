@@ -1,0 +1,66 @@
+{
+  "id": "F33362",
+  "type_publication": "Fiche Comment faire si conditionné",
+  "titre": "Je me sépare",
+  "theme": "",
+  "description": "Si vous vivez en couple et que vous souhaitez vous séparer, vous devez accomplir un certaines démarches qui varient en fonction de votre situation",
+  "type_fiche": "Comment faire si...",
+  "date_modif": "2022-07-15",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33362",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Comment faire si",
+    "Je me sépare"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Si vous vivez en couple et que vous souhaitez vous séparer, vous devez accomplir un certain nombre de démarches liées au fait que vous étiez marié, pacsé ou en concubinage (union libre). Voici de quelles démarches il s'agit."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [
+    {
+      "titre": "Connaître les prestations sociales auxquelles vous pouvez avoir droit",
+      "url": "https://www.mesdroitssociaux.gouv.fr",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Je me sépare",
+      "url": "https://www.pension-alimentaire.caf.fr/web/guest/je-me-separe"
+    },
+    {
+      "titre": "Séparation : comment racheter le logement commun ?",
+      "url": "http://www.caf.fr/allocataires/vies-de-famille/se-loger/proprietaire/separation-comment-racheter-le-bien-commun"
+    },
+    {
+      "titre": "Je me sépare",
+      "url": "https://www.impots.gouv.fr/portail/particulier/je-me-separe"
+    },
+    {
+      "titre": "Que devient l'animal en cas de séparation ?",
+      "url": "https://i-cad.fr/articles/animal_separation_divorce"
+    },
+    {
+      "titre": "Détenteur ou propriétaire d'un animal : quelle différence ?",
+      "url": "https://www.i-cad.fr/actualites/detenteur-proprietaire-difference"
+    },
+    {
+      "titre": "Qu'est ce que le certificat / l'attestation de cession d'un animal ?",
+      "url": "https://www.i-cad.fr/articles/attestation-de-cession"
+    }
+  ],
+  "slug": "je-me-separe",
+  "path": [
+    {
+      "slug": "comment-faire-si",
+      "titre": "Comment faire si"
+    }
+  ]
+}

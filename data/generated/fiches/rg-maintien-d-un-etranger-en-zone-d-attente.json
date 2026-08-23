@@ -1,0 +1,33 @@
+{
+  "id": "F36508",
+  "type_publication": "Recherche guidée",
+  "titre": "[RG - Maintien d'un étranger en zone d'attente]",
+  "theme": "Étranger - Europe",
+  "description": "[RG - Maintien d'un étranger en zone d'attente]",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2025-07-24",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F36508",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Entrée d'un étranger en France",
+    "[RG - Maintien d'un étranger en zone d'attente]"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "rg-maintien-d-un-etranger-en-zone-d-attente",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "entree-d-un-etranger-en-france",
+      "titre": "Entrée d'un étranger en France"
+    }
+  ]
+}

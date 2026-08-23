@@ -1,0 +1,64 @@
+{
+  "id": "F34953",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Un demandeur d'asile peut-il demander un titre de séjour ?",
+  "theme": "Étranger - Europe",
+  "description": "Oui, un demandeur d'asile peut demander une carte de séjour à un autre titre. Il doit le faire dans un certain délai après l'enregistrement de sa demande.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2021-06-21",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34953",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Demande d'asile (réfugié, protection subsidiaire, apatride)",
+    "Un demandeur d'asile peut-il demander un titre de séjour ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Oui, vous pouvez demander une carte de séjour à un autre titre que l'asile.",
+        "Votre demande doit être déposée dans les 2 mois qui suivent l'enregistrement de votre demande d'asile. Ce délai est porté à 3 mois si vous demandez un titre de séjour pour raisons de santé.",
+        "Le délai court à compter de la délivrance de l'information écrite au moment de l'enregistrement de votre demande d'asile. Cette information doit vous être remise contre signature, dans une langue que vous comprenez.",
+        "Le dossier présenté doit être complet pour être recevable. Mais vous pouvez être autorisé à déposer votre dossier sans présentation des documents prouvant votre état civil et votre nationalité.",
+        "Pour une demande de titre de séjour pour soins, vous devez d'abord déposer une demande en préfecture. Vous devez ensuite adresser à l' Ofii le certificat médical rempli par votre médecin traitant ou praticien hospitalier. Le certificat médical renseigné doit parvenir à l'Ofii dans le délai de 3 mois à compter de l'enregistrement de votre demande en préfecture.",
+        "Office français de l'immigration et de l'intégration (Ofii)",
+        "[À noter] si vous avez une attestation de demande d'asile, il ne vous est pas remis de récépissé.",
+        "En cas de demande déposée hors délais, seules des circonstances nouvelles pourront être invoquées. Par exemple, contribution de 2 ans à l'entretien et à l'éducation d'un enfant, apparition d'un problème de santé grave."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : article R425-1 à R425-14",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042801184/#LEGISCTA000042807128"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : article L431-2",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042771920/#LEGIARTI000042776416"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : article D431-7",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042806994/"
+    },
+    {
+      "titre": "Circulaire du 28 février 2019 portant application de la loi pour une immigration maîtrisée, un droit d'asile effectif et une intégration réussie",
+      "url": "http://circulaires.legifrance.gouv.fr/pdf/2019/03/cir_44431.pdf"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "un-demandeur-d-asile-peut-il-demander-un-titre-de-sejour",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "demande-d-asile-refugie-protection-subsidiaire-apatride",
+      "titre": "Demande d'asile (réfugié, protection subsidiaire, apatride)"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "F11475",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quel est le délai pour recevoir un certificat d’immatriculation (carte grise) ou une étiquette d'adresse ?",
+  "theme": "Transports - Mobilité",
+  "description": "Le délai de réception de votre carte grise est en moyenne de 7 jours ouvrés, sauf si l'ANTS doit approfondir (demande incomplète ou devant être analysée).",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-02-25",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F11475",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Carte grise (certificat d'immatriculation)",
+    "Quel est le délai pour recevoir un certificat d’immatriculation (carte grise) ou une étiquette d'adresse ?"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [
+    {
+      "titre": "Suivre la demande de certificat d’immatriculation",
+      "url": "https://moncompte.ants.gouv.fr/connexion",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "France Titres - Carte grise particuliers"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "quel-est-le-delai-pour-recevoir-un-certificat-d-immatriculation-carte-grise-ou-une-etiquette-d-adresse",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "carte-grise-certificat-d-immatriculation",
+      "titre": "Carte grise (certificat d'immatriculation)"
+    }
+  ]
+}

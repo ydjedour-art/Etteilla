@@ -1,0 +1,96 @@
+{
+  "id": "F32952",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Comment acheter un timbre fiscal pour une demande de nationalité française ?",
+  "theme": "Étranger - Europe",
+  "description": "Le timbre fiscal pour une demande de nationalité française s'achète en ligne ou dans un bureau de tabac. À l'étranger, le paiement se fait auprès du consulat.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-05-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F32952",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Nationalité française",
+    "Comment acheter un timbre fiscal pour une demande de nationalité française ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les démarches suivantes sont soumises à une taxe de 255 € (127,50 € en Guyane) : naturalisation française, réintégration dans la nationalité française), déclarations de nationalité française au titre du mariage avec un Français, en tant qu’ascendant de Français ou de frère ou sœur de Français).",
+        "La démarche est différente selon que vous habitez en France ou à l'étranger.",
+        "En France",
+        "Vous devez payer la taxe sous forme de timbre fiscal électronique.",
+        "Vous pouvez l'acheter en ligne sur internet ou dans un bureau de tabac.",
+        "En ligne",
+        "Vous faites une demande de naturalisation française ou de réintégration dans la nationalité française par décret",
+        "La demande de naturalisation française et la demande de réintégration dans la nationalité française par décret se font en ligne.",
+        "Vous pouvez payer le timbre fiscal électronique lors de la démarche en ligne.",
+        "Demande en ligne de naturalisation française ou de réintégration dans la nationalité française",
+        "Demande d'acquisition de la nationalité française par naturalisation ou réintégration",
+        "À la place, vous pouvez utiliser un formulaire papier pour faire votre demande",
+        "Vous êtes dans une autre situation",
+        "Vous pouvez acheter le timbre fiscal électronique sur le site timbres.impots.gouv.fr.",
+        "Achat en ligne du timbre fiscal - Nationalité française",
+        "Le timbre électronique est valable 1 an à partir de sa date d'achat.",
+        "Si finalement vous n'utilisez pas le timbre fiscal, vous pouvez demander en ligne son remboursement dans les 18 mois qui suivent son achat :",
+        "Demander le remboursement d'un timbre électronique",
+        "Préparez la référence de la transaction (indiquée sur le justificatif de paiement).",
+        "Dans un bureau de tabac",
+        "Vous pouvez acheter un timbre fiscal électronique dans un bureau de tabac s'il est équipé de l'application Point de vente agréé.",
+        "Le timbre électronique est valable 1 an à partir de sa date d'achat.",
+        "Si finalement vous n'utilisez pas le timbre fiscal, vous pouvez demander en ligne son remboursement dans les 18 mois qui suivent son achat :",
+        "Demander le remboursement d'un timbre électronique",
+        "Préparez la référence de la transaction (indiquée sur le justificatif de paiement).",
+        "À l'étranger",
+        "Vous devez payer la taxe (appelée « droits de chancellerie ») lors du dépôt du dossier au consulat. Consultez le site de votre consulat pour savoir quels moyens de paiement sont acceptés (espèces, carte bancaire ou virement).",
+        "Ambassade ou consulat français à l'étranger",
+        "[Rappel] Les déclarations de nationalité française en tant qu’ascendant de Français ou de frère ou sœur de Français) ne peuvent pas être déposées à l’étranger. En effet, les personnes concernées doivent justifier de leur résidence en France à la date de la déclaration."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général des impôts : articles 899 à 900 B",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000030062715/"
+    },
+    {
+      "titre": "Code général des impôts : articles 958 à 959",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000026284360"
+    },
+    {
+      "titre": "Décret n°81-778 du 13 août 1981 fixant le tarif des droits à percevoir dans les chancelleries diplomatiques et consulaires et, en France, par le ministère des relations extérieures",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000335104/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Achat en ligne du timbre fiscal - Nationalité française",
+      "url": "https://timbres.impots.gouv.fr",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "France Services / Maison de services au public",
+    "Point d'accueil numérique",
+    "Centre de Contact Citoyens - Nationalité française"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Timbre fiscal électronique",
+      "url": "https://timbres.impots.gouv.fr/index.jsp"
+    }
+  ],
+  "slug": "comment-acheter-un-timbre-fiscal-pour-une-demande-de-nationalite-francaise",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "nationalite-francaise",
+      "titre": "Nationalité française"
+    }
+  ]
+}

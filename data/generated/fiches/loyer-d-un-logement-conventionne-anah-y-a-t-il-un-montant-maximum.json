@@ -1,0 +1,232 @@
+{
+  "id": "F2541",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Loyer d'un logement conventionné (Anah) : y a t-il un montant maximum ?",
+  "theme": "Logement",
+  "description": "Le loyer d'un logement conventionné avec l'Anah ne doit pas dépasser un montant maximum. Il peut être augmenté, à la condition de respecter certaines règles.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-08-11",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2541",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Bail d’habitation : loyer",
+    "Loyer d'un logement conventionné (Anah) : y a t-il un montant maximum ?"
+  ],
+  "introduction": "Oui, le loyer d'un logement conventionné avec l'Anah ne doit pas dépasser un montant maximum lors de la signature du bail. Ce montant maximum est inférieur au prix du marché. Durant le bail, le propriétaire peut réviser le loyer chaque année selon l'évolution de l'IRL. Lors du renouvellement du bail, le propriétaire peut réévaluer le loyer, sous certaines conditions. Nous vous expliquons.",
+  "chapitres": [
+    {
+      "titre": "Comment fixer le loyer initial d’un logement conventionné Anah ?",
+      "contenu": [
+        "Le montant du loyer initial (hors charges) à ne pas dépasser dépend de la commune du logement et du niveau de loyer de la convention signée avec l'Anah.",
+        "Il existe 3 niveaux de loyer :",
+        "• Loyer très social, inférieur de 45 % au loyer de marché observé sur la commune du logement",
+        "• Loyer social, inférieur de 30 % au loyer de marché observé sur la commune du logement",
+        "• Loyer intermédiaire, inférieur de 15 % au loyer de marché observé sur la commune du logement.",
+        "Vous pouvez estimer le loyer (hors charges) maximum que vous pouvez fixer à la signature du bail à l'aide de ce simulateur :",
+        "Loc'Avantages : simuler le plafond de loyer et les ressources des locataires (et vos avantages fiscaux)",
+        "[Complement] Métropole Le montant du loyer initial (hors charges) à ne pas dépasser dépend des loyers observés dans la commune du logement. Il est fixé par m2 de surface habitable. La surface habitable à prendre en compte est égale au total de : • La surface habitable • Et de la moitié de la surface des annexes louées avec le logement, dans la limite de 8 m2. [À savoir] Ces annexes doivent être à l’usage exclusif du locataire et faire au moins 1,80 m de hauteur. Il peut s’agir des annexes suivantes : cave, sous-sol, remise, atelier, séchoir et celliers extérieurs au logement, resserre, combles et grenier aménageables, balcon, loggia, vérandas et, les parties de terrasse accessible en étage sur ouvrage enterré ou semi-enterré. Guadeloupe, Guyane, Martinique, La Réunion, Mayotte Le montant du loyer initial (hors charges) à ne pas dépasser dépend des loyers observés dans la commune du logement. Il est fixé par m2 de surface habitable. La surface habitable à prendre en compte est égale au total de : • La surface habitable • Et de la surface des varangues, dans la limite de 14 m2."
+      ]
+    },
+    {
+      "titre": "Le logement conventionné Anah ouvre t-il droit à une aide au logement ?",
+      "contenu": [
+        "En cas de convention à loyer très social ou à loyer social, le locataire peut obtenir l’Aide personnalisée au logement (APL).",
+        "Pour que le locataire puisse en faire la demande, le propriétaire doit remplir le formulaire cerfa n°10842 (attestation de loyer) et le remettre au locataire. Le propriétaire doit également fournir à la Caf (ou la MSA) les informations et justificatifs nécessaires à l'ouverture du droit à l'APL. En général, l'APL est versée directement au propriétaire, qui en déduit le montant au loyer dû par le locataire.",
+        "En cas de convention à loyer intermédiaire, le locataire peut obtenir l’Allocation de logement familiale (ALF)ou l’Allocation de logement sociale (ALS)."
+      ]
+    },
+    {
+      "titre": "À quelle date doit être payé le loyer d’un logement conventionné Anah ?",
+      "contenu": [
+        "La date de paiement du loyer dépend de la convention signée avec l'Anah (convention à loyer très social, social ou intermédiaire) :",
+        "Date de paiement du loyer selon le type de convention",
+        "Convention",
+        "Date de paiement",
+        "À loyer très social",
+        "Loyer à payer en fin de mois (ou à terme échu)",
+        "À loyer social",
+        "Loyer à payer en fin de mois (ou à terme échu)",
+        "À loyer intermédiaire",
+        "Loyer à payer en début de mois (ou à terme à échoir)"
+      ]
+    },
+    {
+      "titre": "Peut-on réviser le loyer d’un logement conventionné Anah ?",
+      "contenu": [
+        "Si le bail contient une clause prévoyant la révision annuelle du loyer, alors le loyer (hors charges) peut être révisé chaque année. Il est recommandé d’y indiquer que le loyer est révisé chaque 1er janvier, selon l'évolution de l'IRL du 2e trimestre de l’année précédente, publié par l'Insee.",
+        "[Exemple] Pour un bail signé le 3 mars 2026 pour un logement situé à Anzin (métropole) : • Loyer (hors charges) à la signature du bail : 600 € • Date de 1re révision : 1er janvier 2027 • IRL du 2e trimestre 2026 : 148,37 • IRL du 2e trimestre 2025 : 146,68 Calcul du loyer à appliquer en 2027 : (600 € x 148,37) / 146,68 = 606,91 € En 2027, le loyer révisé à appliquer est de 606,91 €.",
+        "[À noter] Le loyer révisé doit être inférieur au loyer maximum révisé de la convention Anah. Le loyer maximum de la convention est révisé chaque année au 1er janvier, selon la variation de l'IRL du 2e trimestre de l’année précédente, publié par l'Insee. Le résultat est arrondi au centime d'euro le plus proche."
+      ]
+    },
+    {
+      "titre": "Peut-on augmenter le loyer lors du changement de locataire durant la convention ?",
+      "contenu": [
+        "En cas de changement de locataire durant la convention, le propriétaire peut augmenter le loyer. Mais le nouveau loyer ne doit pas dépasser le loyer maximum révisé de la convention Anah.",
+        "Le loyer maximum de la convention Anah est révisé chaque 1er janvier selon l'évolution annuelle de l'indice de référence des loyers (IRL) du 2e trimestre de l’année précédente, publié par l’Insee. Le résultat est arrondi au centime d'euro le plus proche.",
+        "[Attention] Si le logement est situé dans une commune de zone tendue, l’augmentation du loyer est également limitée par l’encadrement des loyers."
+      ]
+    },
+    {
+      "titre": "Peut-on augmenter le loyer à la sortie d’une convention Anah ?",
+      "contenu": [
+        "À la fin de la convention Anah, vous ne pouvez augmenter le loyer du bail en cours qu’à l’occasion de son renouvellement, ou après le départ du locataire en place :",
+        "Renouvellement du bail",
+        "Estimer le montant du nouveau loyer",
+        "Le nouveau loyer que vous proposez doit être calculé à partir des loyers pratiqués dans le voisinage pour des logements comparables.",
+        "Ces logements doivent être situés soit dans le même groupe d'immeuble, soit dans un autre groupe d'immeubles comportant des caractéristiques similaires et situés dans la même zone géographique.",
+        "Si le logement est situé dans une commune faisant partie d’une agglomération de plus d’un million d’habitants, vous devez devez fournir au moins 6 loyers de référence. Dans une autre commune, vous devez fournir au moins 3 loyers de référence.",
+        "Au moins 2/3 de ces références doivent correspondre à des locations pour lesquelles il n’y a pas eu de changement de locataires depuis au moins 3 ans.",
+        "Chaque référence doit mentionner les éléments suivants :",
+        "• Nom de la rue",
+        "• Indication partielle du numéro de l'immeuble (par dizaine)",
+        "• Qualité et époque de construction de l’immeuble",
+        "• Étage du logement et présence éventuelle d’un ascenseur",
+        "• Surface habitable du logement et nombre de ses pièces habitables",
+        "• Existence d’annexes éventuelles",
+        "• État d’équipement du logement, notamment présence d’eau courante, de WC intérieur, de salle d’eau, de chauffage",
+        "• Période de construction de l’immeuble",
+        "• Indication de l'occupation des lieux depuis au moins 3 ans par le locataire",
+        "• Montant du loyer mensuel hors charges effectivement exigé.",
+        "Certaines références (période de construction d'un immeuble, typologie des logements...) peuvent être obtenues auprès du réseau des observatoires locaux des loyers ou de ou de l'observatoire des loyers de l'agglomération parisienne (Olap).",
+        "Proposer le nouveau loyer au locataire",
+        "Vous devez proposer au locataire le nouveau loyer au moins 6 mois avant la fin du bail.",
+        "Vous devez lui adresser votre proposition de l'une des façons suivantes :",
+        "• Lettre recommandée avec demande d'avis de réception",
+        "• Acte de commissaire de justice",
+        "Le délai court à compter du jour de la réception de la lettre recommandée ou de la signification de l'acte de commissaire de justice.",
+        "Le texte de la proposition doit contenir les informations suivantes :",
+        "• Texte intégral de l'article 17-2 de la loi de 1989 recopié (sinon la proposition n'est pas valable)",
+        "• Montant du nouveau loyer proposé et la liste des références ayant servi à le déterminer.",
+        "En cas d’accord du locataire",
+        "Pour accepter le nouveau loyer, le locataire doit vous faire parvenir son accord écrit au plus tard 4 mois avant la fin du bail.",
+        "Au renouvellement du bail, le nouveau loyer n'est pas immédiatement applicable.",
+        "La hausse doit être appliquée progressivement, par 1/3 annuel ou par 1/6 annuel selon la durée du nouveau bail. Mais si la hausse est de plus de 10 % et que la durée du nouveau bail est de moins de 6 ans, alors la hausse s'applique par 1/6 annuel pendant ce bail, puis par 1/6 annuel lors du renouvellement ultérieur.",
+        "[Exemple] Pour un bail est de 3 ans, le dernier loyer mensuel appliqué est de 600 € et la hausse à appliquer est de 50 € mensuels : • Cette hausse est inférieure à 10 % du loyer, car 600 x 10 % = 60 €, alors son application sera d'1/3 par an • Le loyer mensuel sera augmenté la 1re année de 16,67 € par mois (50 € x 1/3 = 16,67 €), puis la 2e année de 33,33 € par mois (50 € x 2/3 = 33,33 € ), et la 3e année de 50 € par mois.",
+        "En cas de refus du locataire",
+        "Pour refuser le nouveau loyer, le locataire peut vous faire parvenir son accord écrit au plus tard 4 mois avant la fin du bail. Mais l’absence de réponse du locataire dans ce délai vaut refus.",
+        "Vous-même ou le locataire devez saisir la commission départementale de conciliation (CDC) pour tenter de trouver un accord sur le montant du loyer. Cette démarche est indispensable pour pouvoir ensuite saisir, si nécessaire, le juge.",
+        "Pour saisir la CDC, il est possible d’utiliser ces modèles de document :",
+        "Propriétaire : saisir la commission départementale de conciliation d'une demande de réévaluation de loyer",
+        "Locataire : saisir la commission départementale de conciliation en cas de demande de réévaluation de loyer",
+        "Devant la CDC, le locataire peut contester l'augmentation proposée en se référant aux loyers pratiqués dans le voisinage pour des logements comparables.",
+        "La CDC dispose de 2 mois pour rendre son avis.",
+        "Si l’intervention de la CDC permet d’aboutir à un accord, le loyer peut être augmenté au renouvellement du bail.",
+        "La hausse doit être appliquée progressivement, par 1/3 annuel ou par 1/6 annuel selon la durée du nouveau bail. Mais si la hausse est de plus de 10 % et que la durée du nouveau bail est de moins de 6 ans, alors la hausse s'applique par 1/6 annuel pendant ce bail, puis par 1/6 annuel lors du renouvellement ultérieur.",
+        "[Exemple] Pour un bail est de 3 ans, le dernier loyer mensuel appliqué est de 600 € et la hausse à appliquer est de 50 € mensuels : • Cette hausse est inférieure à 10 % du loyer, car 600 x 10 % = 60 €, alors son application sera d'1/3 par an • Le loyer mensuel sera augmenté la 1re année de 16,67 € par mois (50 € x 1/3 = 16,67 €), puis la 2e année de 33,33 € par mois (50 € x 2/3 = 33,33 € ), et la 3e année de 50 € par mois.",
+        "Si le désaccord persiste en dépit de l'intervention de la CDC, le juge des contentieux de la protection du tribunal dont dépend le logement doit être saisi. Il faut le faire avant l'échéance du bail :",
+        "• Si le juge n’est pas saisi avant l'échéance du bail, le bail est reconduit aux conditions antérieures de loyer (son montant est éventuellement révisé).",
+        "• Si le juge est saisi avant l’échéance du bail, le juge fixe le montant du nouveau loyer. Au renouvellement du bail, le nouveau loyer n'est pas immédiatement applicable. La hausse doit être appliquée progressivement, par 1/3 annuel ou par 1/6 annuel selon la durée du nouveau bail. Mais si la hausse est de plus de 10 % et que la durée du nouveau bail est de moins de 6 ans, alors la hausse s'applique par 1/6 annuel pendant ce bail, puis par 1/6 annuel lors du renouvellement ultérieur.",
+        "[Exemple] Pour un bail est de 3 ans, le dernier loyer mensuel appliqué est de 600 € et la hausse à appliquer est de 50 € mensuels : • Cette hausse est inférieure à 10 % du loyer, car 600 x 10 % = 60 €, alors son application sera d'1/3 par an • Le loyer mensuel sera augmenté la 1re année de 16,67 € par mois (50 € x 1/3 = 16,67 €), puis la 2e année de 33,33 € par mois (50 € x 2/3 = 33,33 € ), et la 3e année de 50 € par mois.",
+        "Changement de locataire",
+        "Après la fin de la convention Anah, lorsque le propriétaire signe un bail avec un nouveau locataire, il peut augmenter le loyer.",
+        "Mais selon la localisation du logement, les règles de fixation du nouveau loyer varient."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 40",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038834701/"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : articles D321-23 à D321-30-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000006189241/"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : articles D321-31 à R321-36",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000006189242/"
+    },
+    {
+      "titre": "Arrêté du 9 mai 1995 pris en application de l'article R. 353-16 et de l'article R. 331-10 du code de la construction et de l'habitation",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000354336"
+    },
+    {
+      "titre": "Code général des impôts, annexe III, Article 46 AG terdecies",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046724096"
+    },
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 17-1",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000028778231/"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : article L353-9-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048826402/"
+    },
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 17-2",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000037670687/"
+    },
+    {
+      "titre": "Décret n°90-780 du 31 août 1990 relatif à la réévaluation de loyer (à la hausse ou à la baisse)",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000717102/"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : articles L321-8 à L321-12",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000006176374/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Loc'Avantages : simuler le plafond de loyer et les ressources des locataires (et vos avantages fiscaux)",
+      "url": "https://monprojet.anah.gouv.fr/pb/inscription/nouvelle",
+      "type": "Simulateur"
+    },
+    {
+      "titre": "Attestation de loyer ou résidence en foyer",
+      "url": "https://www.msa.fr/lfy/documents/11566/48471/Attestation+de+loyer+et+de+r%C3%A9sidence+en+foyer.pdf",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Calculer la révision du loyer",
+      "url": "https://www.anil.org/outils/outils-de-calcul/revision-de-loyer/",
+      "type": "simulateurNG"
+    },
+    {
+      "titre": "Propriétaire : saisir la commission départementale de conciliation d'une demande de réévaluation de loyer",
+      "url": "",
+      "type": "lettreTypeNG"
+    },
+    {
+      "titre": "Locataire : saisir la commission départementale de conciliation en cas de demande de réévaluation de loyer",
+      "url": "",
+      "type": "lettreTypeNG"
+    }
+  ],
+  "contacts": [
+    "Agence nationale de l'habitat (Anah)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Propriétaire bailleur : Loc'Avantages",
+      "url": "https://www.anah.gouv.fr/anatheque/loc-avantages"
+    },
+    {
+      "titre": "Valeurs des plafonds de loyer applicables pour le bénéfice de la réduction d'impôt Loc'Avantages",
+      "url": "https://www.legifrance.gouv.fr/download/pdf?id=YW9XvMEhn_0kPoh_Wtm5c90UTDBHho8T4OlgSxeHnmA="
+    },
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 17-2",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000037670687/"
+    },
+    {
+      "titre": "Observatoires des loyers - Réseau des observatoires locaux",
+      "url": "https://www.observatoires-des-loyers.org/2/accueil.htm"
+    },
+    {
+      "titre": "Observatoire des loyers de l'agglomération parisienne (Olap)",
+      "url": "http://www.observatoire-des-loyers.fr/"
+    }
+  ],
+  "slug": "loyer-d-un-logement-conventionne-anah-y-a-t-il-un-montant-maximum",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "bail-d-habitation-loyer",
+      "titre": "Bail d’habitation : loyer"
+    }
+  ]
+}

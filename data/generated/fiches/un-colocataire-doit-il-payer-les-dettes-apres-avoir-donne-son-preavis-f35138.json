@@ -1,0 +1,33 @@
+{
+  "id": "F35138",
+  "type_publication": "Recherche guidée",
+  "titre": "Un colocataire doit-il payer les dettes après avoir donné son préavis ?",
+  "theme": "Logement",
+  "description": "Un colocataire doit-il payer les dettes après avoir donné son préavis ?",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2023-12-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35138",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Location immobilière : fin du bail d’habitation",
+    "Un colocataire doit-il payer les dettes après avoir donné son préavis ?"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "un-colocataire-doit-il-payer-les-dettes-apres-avoir-donne-son-preavis-f35138",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "location-immobiliere-fin-du-bail-d-habitation",
+      "titre": "Location immobilière : fin du bail d’habitation"
+    }
+  ]
+}

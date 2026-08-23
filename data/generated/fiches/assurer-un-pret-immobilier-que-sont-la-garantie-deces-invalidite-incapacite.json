@@ -1,0 +1,122 @@
+{
+  "id": "F21128",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Assurer un prêt immobilier : que sont la garantie décès, invalidité, incapacité ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Il s'agit des garanties qui composent l'assurance emprunteur, en cas de prêt immobilier. Leur mise oeuvre est définie par le contrat d'assurance.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2024-05-02",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F21128",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Crédit immobilier",
+    "Assurer un prêt immobilier : que sont la garantie décès, invalidité, incapacité ?"
+  ],
+  "introduction": "Les garanties décès, perte totale et irréversible d'autonomie, invalidité permanente, incapacité temporaire de travail, composent l'assurance emprunteur d'un prêt immobilier. Cette assurance prend en charge le remboursement du prêt immobilier en cas de survenue de l'un de ces risques. Le contrat d'assurance définit les conditions de cette prise en charge. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Garantie décès",
+      "contenu": [
+        "La garantie décès est toujours présente dans un contrat d'assurance emprunteur.",
+        "Elle intervient lorsque votre décès a lieu avant un âge limite.",
+        "L'assurance verse, à l'organisme qui vous a accordé le prêt, le capital restant dû au jour de votre décès, selon le montant assuré.",
+        "Le contrat d'assurance peut prévoir :",
+        "• Un délai de carence",
+        "• Des d'exclusions de garantie, c'est-à-dire des situations où l'indemnisation est exclue. Par exemple, en cas de pratique d'un sport dangereux ...",
+        "[À savoir] Le risque de suicide n'est couvert qu'à partir de la 2e année du contrat d'assurance. Mais, en cas de contrat d'assurance groupe, le risque suicide est couvert dès la signature du contrat, à la condition que le prêt serve à obtenir votre résidence principale et soit d'un montant d'au moins 120 000 €."
+      ]
+    },
+    {
+      "titre": "Garantie perte totale et irréversible d'autonomie (PTIA)",
+      "contenu": [
+        "La garantie perte totale ou irréversible d'autonomie (PTIA) intervient lorsque vous êtes :",
+        "• Dans l'impossibilité totale et définitive d'avoir une quelconque activité professionnelle",
+        "• Et dans l'obligation absolue et présumée définitive d'avoir recours à l'aide d'une tierce personne pour faire votre toilette, vous habiller, vous nourrir et vous déplacer.",
+        "Selon votre contrat d'assurance :",
+        "• Le risque de PTIA est couvert jusqu'à un âge limite, ou pendant toute la durée du prêt.",
+        "• Souvent, pour être indemnisé par l'assurance, il faut également que vous receviez une pension d'invalidité de la sécurité sociale.",
+        "• L'assurance se charge du remboursement des mensualités de votre prêt, selon le montant assuré, ou selon votre perte de revenus."
+      ]
+    },
+    {
+      "titre": "Garantie invalidité permanente (totale ou partielle)",
+      "contenu": [
+        "Invalidité permanente totale (IPT)",
+        "La garantie invalidité permanente totale (IPT) concerne l'inaptitude permanente à exercer une activité professionnelle, à la suite d'un accident ou d'une maladie, et après consolidation de votre état de santé.",
+        "Le contrat d'assurance fixe le taux à partir duquel l'inaptitude doit être considérée comme totale.",
+        "L'indemnisation intervient après qu'un médecin, désigné par l'assureur, a évalué votre taux d'invalidité, selon le barème médical mentionné dans le contrat d'assurance.",
+        "Selon votre contrat d'assurance :",
+        "• La garantie IPT est valable lorsque vous êtes inapte à exercer toute activité professionnelle, ou l'activité professionnelle exercée au moment de la survenue de la maladie ou de l'accident",
+        "• La garantie ne s'applique que jusqu'à un âge limite",
+        "• Le montant de l'indemnité versée dépend de votre perte de revenu, ou de la mensualité de votre prêt",
+        "• L'indemnité est versée à partir du 1er jour d'IPT, ou après un délai de franchise",
+        "• L'indemnisation est, ou non, exclue en cas de maladie due à l'alcool ou les stupéfiants, la pratique de sports dangereux, des blessures volontaires ...",
+        "Invalidité permanente partielle (IPP)",
+        "La garantie invalidité permanent partielle (IPP) concerne l'inaptitude permanente à exercer de nouveau votre activité professionnelle ou toute activité professionnelle, à la suite d'un accident ou d'une maladie, et après consolidation de votre état de santé.",
+        "Le contrat d'assurance fixe le taux à partir duquel l'invalidité doit être considérée comme partielle.",
+        "L'indemnisation intervient après qu'un médecin, désigné par l'assureur, a évalué votre taux d'invalidité, selon le barème médical mentionné dans le contrat d'assurance.",
+        "[À savoir] La garantie IPP ne peut être souscrite qu'en complément d'une garantie IPT, et n'est pas proposée par tous les contrats d'assurance.",
+        "Selon le contrat d'assurance :",
+        "• La garantie IPP est valable lorsque vous êtes inapte à exercer toute activité professionnelle, ou uniquement votre activité professionnelle",
+        "• La garantie ne s'applique que jusqu'à un âge limite",
+        "• Le montant de l'indemnité versée dépend de votre perte de revenu, ou de la mensualité de votre prêt",
+        "• L'indemnité est versée à partir du 1er jour d'invalidité permanente, ou après un délai de franchise",
+        "• L'indemnisation est, ou non, exclue en cas de maladie due à l'alcool ou les stupéfiants, pratique de sports dangereux, métiers à risque, blessures volontaires ..."
+      ]
+    },
+    {
+      "titre": "Garantie incapacité temporaire de travail (ITT)",
+      "contenu": [
+        "La garantie incapacité temporaire de travail concerne l'inaptitude temporaire à exercer une activité professionnelle, à la suite d'un accident ou d'une maladie donnant lieu à un arrêt de travail. L'incapacité doit être totale.",
+        "Selon votre contrat, il peut s'agir de l'incapacité à exercer :",
+        "• Soit toute activité professionnelle",
+        "• Soit l'activité exercée au moment de l'accident ou de la maladie",
+        "[À noter] En cas de reprise (même partielle) d'activité, la prise en charge de l'assurance cesse, sauf si une clause du contrat prévoit une prise en charge dans le cas d'un mi-temps thérapeutique.",
+        "En général, le contrat d'assurance prévoit une limite d'âge, et une franchise pendant laquelle aucune indemnité ne vous est versée.",
+        "[Attention] Souvent, le contrat comporte des exclusions (par exemple, blessures volontaires de l'assuré, métier à risque, pratique de sports dangereux, maladie due à l'alcool ou aux stupéfiants).",
+        "L'assurance prend en charge le remboursement des mensualités de prêt dans les conditions précisées au contrat (selon le montant assuré, ou selon la perte de revenus)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code des assurances : article L132-7",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006792964"
+    },
+    {
+      "titre": "Code des assurances : article R132-5",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006811988"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Info Banque - Assurance",
+    "Agence départementale pour l'information sur le logement (Adil)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "À quoi dois-je faire attention avant de souscrire un contrat d’assurance emprunteur ?",
+      "url": "https://www.abe-infoservice.fr/assurance/assurance-emprunteur/que-faut-il-savoir-sur-lassurance-emprunteur#a-quoi-dois-je-faire-attention-avant-souscrire-assurance-emprunteur"
+    },
+    {
+      "titre": "Que faut-il savoir sur l'assurance emprunteur ?",
+      "url": "https://www.abe-infoservice.fr/assurance/assurance-emprunteur/que-faut-il-savoir-sur-lassurance-emprunteur#10"
+    },
+    {
+      "titre": "Modèle de fiche standardisée d'information relative à l'assurance emprunteur",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000030555752"
+    }
+  ],
+  "slug": "assurer-un-pret-immobilier-que-sont-la-garantie-deces-invalidite-incapacite",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "credit-immobilier",
+      "titre": "Crédit immobilier"
+    }
+  ]
+}

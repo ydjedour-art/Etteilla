@@ -1,0 +1,82 @@
+{
+  "id": "F2811",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Plan de sauvegarde de l'emploi (PSE) - Licenciement économique",
+  "theme": "Travail - Formation, Ressources humaines",
+  "description": "Le plan de sauvegarde de l'emploi (PSE) vise à faciliter le reclassement des salariés dont le licenciement économique est inévitable.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-06-26",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2811",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Licenciement économique",
+    "Plan de sauvegarde de l'emploi (PSE) - Licenciement économique"
+  ],
+  "introduction": "Dans une entreprise d'au moins 50 salariés, lorsque l'employeur licencie pour motif économique au moins 10 salariés sur une période de 30 jours, il doit mettre en place un plan de sauvegarde de l'emploi (PSE). L'employeur peut mettre en place le PSE par accord collectif ou par décision unilatérale. Il est libre d'engager ou non des négociations. La procédure est différente en fonction du choix de l'employeur. Nous vous présentons les informations à retenir.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code du travail : articles L1233-11 à L1233-14",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006198530"
+    },
+    {
+      "titre": "Code du travail : articles L1233-26 et L1233-27",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000006198534/"
+    },
+    {
+      "titre": "Code du travail : articles L1233-28 à L1233-33",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006198535"
+    },
+    {
+      "titre": "Code du travail : articles L1233-57 à L1233-57-8",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000027558448/"
+    },
+    {
+      "titre": "Code du travail : articles L1233-61 à L1233-64",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006195617"
+    },
+    {
+      "titre": "Code du travail : article L1235-7-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027560841/"
+    },
+    {
+      "titre": "Code du travail : articles L2232-24 à L2232-26",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000006198564/"
+    },
+    {
+      "titre": "Code du travail : article D1233-14",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036483174"
+    },
+    {
+      "titre": "Code du travail : article D1233-14-4",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027644912"
+    },
+    {
+      "titre": "Arrêté du 03 avril 2014 relatif au bilan du PSE à transmettre à la Dreets",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000028887479"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Portail de gestion dématérialisée des ruptures collectives de contrats de travail (RUPCO)",
+      "url": "https://efpconnect.emploi.gouv.fr/auth/realms/efp/protocol/cas/login?TARGET=https%3A%2F%2Fruptures-collectives.emploi.gouv.fr%2Fapplication%2F",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "PDE - Obtenir un renseignement en droit du travail"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "plan-de-sauvegarde-de-l-emploi-pse-licenciement-economique",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "licenciement-economique",
+      "titre": "Licenciement économique"
+    }
+  ]
+}

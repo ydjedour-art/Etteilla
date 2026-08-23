@@ -54,7 +54,7 @@ export default function DossierDetailPage({ params }: { params: { id: string } }
       )}
 
       {dossier.missingDocuments.length === 0 && dossier.status === "pret_a_soumettre" && (
-        <div className="rounded-2xl bg-primary-light p-5">
+        <div className="rounded-2xl bg-primary/10 p-5">
           <p className="font-medium text-primary">Votre dossier est prêt</p>
           <p className="mt-1 text-sm text-ink-soft">
             Toutes les pièces sont réunies. Un dernier coup d&apos;œil et c&apos;est envoyé.
@@ -68,8 +68,8 @@ export default function DossierDetailPage({ params }: { params: { id: string } }
       )}
 
       {(dossier.status === "en_attente_administration" || dossier.status === "action_requise") && (
-        <div className="rounded-2xl bg-accent/10 p-5">
-          <p className="font-medium text-accent">
+        <div className="rounded-2xl bg-primary/10 p-5">
+          <p className="font-medium text-primary">
             {dossier.status === "action_requise"
               ? "L'administration a répondu, on attend votre confirmation."
               : "C'est entre les mains de l'administration."}
@@ -104,8 +104,8 @@ export default function DossierDetailPage({ params }: { params: { id: string } }
           <h2 className="text-lg font-semibold text-ink">Mandat de représentation</h2>
           <p className="mt-1 text-ink-soft">
             {activeMandate
-              ? "Un mandat est actif : Sérénio peut agir en votre nom sur cette démarche."
-              : "Autorisez Sérénio à préparer et transmettre cette démarche en votre nom. Le document est généré automatiquement, et reste révocable à tout moment."}
+              ? "Un mandat est actif : IZY/D peut agir en votre nom sur cette démarche."
+              : "Autorisez IZY/D à préparer et transmettre cette démarche en votre nom. Le document est généré automatiquement, et reste révocable à tout moment."}
           </p>
           <div className="mt-3">
             <Button href={`/app/dossiers/${dossier.id}/mandat`} variant="secondary">

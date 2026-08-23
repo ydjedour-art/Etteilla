@@ -45,9 +45,9 @@ export function SituationIntake() {
   }
 
   return (
-    <div className="rounded-2xl border border-primary/15 bg-white p-6">
-      <p className="text-xs font-semibold uppercase tracking-wide text-accent">
-        Assistant Sérénio
+    <div className="rounded-2xl border border-primary/15 bg-card p-6">
+      <p className="text-xs font-semibold uppercase tracking-wide text-primary">
+        Assistant IZY/D
       </p>
       <h2 className="mt-1 text-lg font-semibold text-ink">
         Décrivez votre situation, on s&apos;occupe du reste
@@ -79,7 +79,7 @@ export function SituationIntake() {
                 setQuery(example);
                 setSubmittedQuery(example);
               }}
-              className="rounded-full border border-ink/10 px-3 py-1.5 text-xs text-ink-soft hover:border-primary/40 hover:text-primary"
+              className="border border-ink/10 px-3 py-1.5 text-xs text-ink-soft hover:border-primary/40 hover:text-primary"
             >
               {example}
             </button>
@@ -110,7 +110,7 @@ export function SituationIntake() {
             return (
               <div
                 key={template.slug}
-                className="rounded-xl border border-primary/20 bg-primary-light/40 p-4"
+                className="rounded-xl border border-primary/20 bg-primary/10 p-4"
               >
                 <p className="text-xs font-medium text-ink-soft">{template.organisme}</p>
                 <p className="font-semibold text-ink">{template.name}</p>

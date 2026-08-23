@@ -1,0 +1,33 @@
+{
+  "id": "F34991",
+  "type_publication": "Recherche guidée",
+  "titre": "Peut-on percevoir l'allocation chômage en cas de démission ?",
+  "theme": "Travail - Formation",
+  "description": "Peut-on percevoir l'allocation chômage en cas de démission ?",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2023-06-21",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34991",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Rupture du contrat de travail dans le secteur privé",
+    "Peut-on percevoir l'allocation chômage en cas de démission ?"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "peut-on-percevoir-l-allocation-chomage-en-cas-de-demission",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "rupture-du-contrat-de-travail-dans-le-secteur-prive",
+      "titre": "Rupture du contrat de travail dans le secteur privé"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "F34726",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Comment retrouver le numéro d'identification RNA d'une association ?",
+  "theme": "Associations, fondations et fonds de dotation",
+  "description": "Le numéro RNA est consultable sur la plateforme ouverte des données publiques data.gouv.fr. Il peut aussi être obtenu en contactant le greffe des associations.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-04-04",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34726",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Associations, fondations et fonds de dotation",
+    "Création d'une association",
+    "Comment retrouver le numéro d'identification RNA d'une association ?"
+  ],
+  "introduction": "La situation diffère si l'association a son siège en Alsace-Moselle (départements du Bas-Rhin, du Haut-Rhin et de la Moselle) ou dans un autre département.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Arrêté du 14 octobre 2009 portant création du répertoire national des associations",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000021190323"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Répertoire national des associations (RNA)",
+      "url": "https://www.data.gouv.fr/datasets/repertoire-national-des-associations",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Répertoire national des associations (RNA)",
+      "url": "https://www.data.gouv.fr/fr/datasets/repertoire-national-des-associations/"
+    }
+  ],
+  "slug": "comment-retrouver-le-numero-d-identification-rna-d-une-association",
+  "path": [
+    {
+      "slug": "associations-fondations-et-fonds-de-dotation",
+      "titre": "Associations, fondations et fonds de dotation"
+    },
+    {
+      "slug": "creation-d-une-association",
+      "titre": "Création d'une association"
+    }
+  ]
+}

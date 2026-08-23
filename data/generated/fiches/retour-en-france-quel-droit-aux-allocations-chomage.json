@@ -1,0 +1,58 @@
+{
+  "id": "F33775",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Retour en France : quel droit aux allocations chômage ?",
+  "theme": "Social - Santé",
+  "description": "Vos droits aux allocations chômage varient selon que vous revenez en France d'un pays, soit de l'Espace économique européen ou de Suisse, soit d'un autre pays.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2024-06-17",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33775",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Chômage : démarches auprès de France Travail (anciennement Pôle emploi)",
+    "Retour en France : quel droit aux allocations chômage ?"
+  ],
+  "introduction": "Vos droits aux allocations chômage varient selon que vous revenez en France, soit d'un pays de l'Espace économique européen (EEE) ou de Suisse, soit d'un autre pays. Nous vous expliquons quels sont vos droits.",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [
+    {
+      "titre": "S'inscrire à France Travail (anciennement Pôle emploi)",
+      "url": "https://candidat.francetravail.fr/inscription-en-ligne/",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "France Travail"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "France Travail (anciennement Pôle emploi) : foire aux questions - candidat",
+      "url": "https://www1.pole-emploi.fr/faq/faqcandidat?question=0&rubrique=4&soustheme=5270&theme=5246"
+    },
+    {
+      "titre": "Indemnisation du chômage en Europe",
+      "url": "https://www.pole-emploi.fr/candidat/l-indemnisation-du-chomage-en-europe-@/article.jspz?id=927822"
+    },
+    {
+      "titre": "Indemnisation du chômage en Europe : travailleurs transfrontaliers",
+      "url": "https://www.pole-emploi.fr/candidat/l-indemnisation-du-chomage-en-europe-@/article.jspz?id=927845"
+    },
+    {
+      "titre": "Incidence du retour en France sur l'assurance chômage",
+      "url": "http://www.diplomatie.gouv.fr/fr/services-aux-citoyens/le-retour-en-france/emploi/article/le-chomage"
+    }
+  ],
+  "slug": "retour-en-france-quel-droit-aux-allocations-chomage",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "chomage-demarches-aupres-de-france-travail-anciennement-pole-emploi",
+      "titre": "Chômage : démarches auprès de France Travail (anciennement Pôle emploi)"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "F31133",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quelle est la durée de validité d'un permis de conduire ?",
+  "theme": "Transports - Mobilité",
+  "description": "La durée de validité d'un permis de conduire au format « carte de crédit » est de 15 ans. Un permis rose cartonné est valable jusqu'au 19 janvier 2033.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-02-02",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31133",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Permis de conduire",
+    "Quelle est la durée de validité d'un permis de conduire ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Cette page indique la durée de validité d'un permis au format \"carte de crédit\" et d'un permis au format « rose 3 volets »."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la route : articles R221-4 à R221-8",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074228/LEGISCTA000032465124"
+    },
+    {
+      "titre": "Code de la route : articles R221-9 à R221-13",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074228/LEGISCTA000032465126"
+    },
+    {
+      "titre": "Arrêté du 20 avril 2012 fixant les conditions d'établissement, de délivrance et de validité du permis de conduire",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000025803494/"
+    },
+    {
+      "titre": "Arrêté du 28 mars 2022 listant les affections médicales incompatibles ou compatibles sous conditions avec l'obtention ou le maintien du permis de conduire ou pouvant entraîner une validité limitée",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000045464094"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demander en ligne le remplacement du permis de conduire au format « pliant rose 3 volets » par un permis au format « carte de crédit »",
+      "url": "https://permisdeconduire.ants.gouv.fr/demarches-en-ligne/deterioration-remplacement-du-permis-pliant-3-volets-ou-fin-de-validite",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Demander en ligne un nouveau permis de conduire en cas de fin de validité",
+      "url": "https://permisdeconduire.ants.gouv.fr/demarches-en-ligne/deterioration-remplacement-du-permis-pliant-3-volets-ou-fin-de-validite",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Consulter et télécharger les informations du permis de conduire : solde de points, relevé intégral, attestation de droit à conduire sécurisée...",
+      "url": "https://mespoints.permisdeconduire.gouv.fr",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "France Titres - Permis de conduire"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "quelle-est-la-duree-de-validite-d-un-permis-de-conduire",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "permis-de-conduire",
+      "titre": "Permis de conduire"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "F1643",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Période d'essai pour un salarié",
+  "theme": "Travail - Formation, Ressources humaines",
+  "description": "L'employeur peut demander au salarié d'effectuer une période d'essai à l'occasion de la conclusion d'un contrat de travail.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-08-12",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1643",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Recrutement dans le secteur privé",
+    "Période d'essai pour un salarié"
+  ],
+  "introduction": "La période d'essai permet à l'employeur d'évaluer les compétences du salarié avant son embauche définitive ou temporaire. La période d'essai permet également au futur salarié d'apprécier les fonctions qu'il va occuper dans l'entreprise. Nous vous expliquons la réglementation selon que le contrat est un CDI, un CDD ou un contrat de travail temporaire (intérim).",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code du travail : articles L1221-19 à L1221-26",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000019067609"
+    },
+    {
+      "titre": "Code du travail : articles L1242-10 et L1242-11",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006189454/"
+    },
+    {
+      "titre": "Code du travail : articles L1251-14 et L1251-15",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006198544"
+    },
+    {
+      "titre": "Code du travail : article L3123-5",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033020084/"
+    },
+    {
+      "titre": "Code du travail : article L1243-11",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901222"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Modèle de rupture du contrat en période d'essai à l'initiative du salarié du particulier employeur",
+      "url": "https://code.travail.gouv.fr/modeles-de-courriers/rupture-du-contrat-en-periode-dessai-a-linitiative-du-salarie?src_url=https://service-public.gouv.fr/particuliers/vosdroits/F1643",
+      "type": "lettreTypeNG"
+    },
+    {
+      "titre": "Rupture de période d'essai à l'initiative de l'employeur",
+      "url": "https://code.travail.gouv.fr/modeles-de-courriers/rupture-de-periode-dessai-a-linitiative-de-lemployeur?src_url=https://service-public.gouv.fr/particuliers/vosdroits/F1643",
+      "type": "lettreTypeNG"
+    },
+    {
+      "titre": "Savoir ce que la convention collective prévoit concernant la durée maximale d’une période d’essai",
+      "url": "https://code.travail.gouv.fr/contribution/1486-quelle-est-la-duree-maximale-de-la-periode-dessai-sans-et-avec-renouvellement?src_url=https://www.service-public.gouv.fr/particuliers/vosdroits/F1643",
+      "type": "Simulateur"
+    },
+    {
+      "titre": "Savoir si la période d’essai peut être renouvelée",
+      "url": "https://code.travail.gouv.fr/contribution/la-periode-dessai-peut-elle-etre-renouvelee?src_url=https://www.service-public.gouv.fr/particuliers/vosdroits/F1643",
+      "type": "simulateurNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "periode-d-essai-pour-un-salarie",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "recrutement-dans-le-secteur-prive",
+      "titre": "Recrutement dans le secteur privé"
+    }
+  ]
+}

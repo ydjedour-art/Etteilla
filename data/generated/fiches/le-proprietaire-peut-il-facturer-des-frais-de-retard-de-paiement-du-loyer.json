@@ -1,0 +1,69 @@
+{
+  "id": "F2889",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Le propriétaire peut-il facturer des frais de retard de paiement du loyer ?",
+  "theme": "Logement",
+  "description": "Le propriétaire (ou l'agence immobilière) d'un logement loué avec un bail d'habitation ne peut facturer aucun frais pour retard de paiement du loyer.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-07-15",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2889",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Bail d’habitation : loyer",
+    "Le propriétaire peut-il facturer des frais de retard de paiement du loyer ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Le propriétaire (ou à l'agence immobilière) a interdiction de facturer des frais de retard au locataire, c’est-à-dire une amende ou des pénalités inscrites dans le bail, en cas de retard de paiement.",
+        "Cette règle s’applique lorsque le bail d’habitation vide ou le bail d’habitation meublé a été signé, renouvelé ou tacitement reconduit depuis le 27 mars 2014. Il en est de même en cas de bail mobilité.",
+        "Si le locataire paie à plusieurs reprises son loyer en retard, le propriétaire (ou l'agence immobilière) est en droit de ne pas renouveler le bail pour motif légitime et sérieux.",
+        "[À noter] Lorsque le propriétaire engage ​​ une procédure pour impayés​​, le juge peut notamment condamner le locataire à payer les frais engagés par le propriétaire pour obtenir la résiliation du bail et l’expulsion du locataire du logement.​",
+        "À tout moment, le locataire ou le propriétaire peut prendre conseil auprès de SOS loyers impayés :",
+        "SOS loyers impayés",
+        "Service d'accompagnement, de conseils et de prévention en cas de risque d'expulsion liée à des impayés de loyer. Ce service informe gratuitement les locataires, comme les propriétaires.",
+        "Par téléphone",
+        "0 805 160 075 du lundi au vendredi",
+        "Numéro vert : appel et service gratuit, depuis un téléphone fixe ou mobile",
+        "[À noter] Plus globalement, le propriétaire (ou l'agence immobilière) a interdiction d’exiger du locataire une amende ou des pénalités, en cas d'infraction au bail ou au règlement de l'immeuble. Si le bail contient une clause qui l’y autorise, cette clause est abusive. En conséquence, elle doit être ignorée, comme si elle n'existait pas."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 7",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038834730/"
+    },
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 4",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000028806566/"
+    },
+    {
+      "titre": "Loi n° 89-462 du 6 juillet 1989 sur les rapports locatifs : article 25-3",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042120923/"
+    },
+    {
+      "titre": "Loi n° 89-462 du 6 juillet 1989 sur les rapports locatifs : article 25-12",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042120921"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "le-proprietaire-peut-il-facturer-des-frais-de-retard-de-paiement-du-loyer",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "bail-d-habitation-loyer",
+      "titre": "Bail d’habitation : loyer"
+    }
+  ]
+}

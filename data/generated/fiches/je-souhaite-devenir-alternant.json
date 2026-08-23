@@ -1,0 +1,116 @@
+{
+  "id": "F39004",
+  "type_publication": "Fiche Comment faire si conditionné",
+  "titre": "Je souhaite devenir alternant",
+  "theme": "",
+  "description": "L'alternance désigne un système de formation qui alterne des périodes d’enseignement théorique dans un établissement et de mise en pratique en entreprise.",
+  "type_fiche": "Comment faire si...",
+  "date_modif": "2026-06-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F39004",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Comment faire si",
+    "Je souhaite devenir alternant"
+  ],
+  "introduction": "L'alternance désigne un système de formation qui alterne des périodes d’enseignement théorique dans un établissement et des périodes de mise en pratique en entreprise. L'alternance peut s’effectuer sous statut salarié : un contrat d’apprentissage ou un contrat de professionnalisation est signé avec une entreprise (ou parfois une administration). Nous vous présentons chaque étape pour mener à bien votre projet d'alternance pour les diplômes suivants : CAP, bac pro, BTS, BUT, licence pro, master. Attention : cette page ne présente pas le dispositif de reconversion ou la promotion par alternance (Pro-A), qui permet à un salarié de changer de métier ou de profession.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "• Le CAP prépare à un métier en alternant des périodes d’enseignement théorique dans un établissement de formation ou un lycée professionnel dans une unité de formation par apprentissage et des périodes de mise en pratique en entreprise. Le CAP atteste d'un premier niveau de qualification professionnelle.",
+        "• De nombreux bacs pro peuvent se préparer en alternant des périodes d’enseignement théorique dans un établissement de formation et des périodes de mise en pratique en entreprise. Certains établissements proposent la 1re année sous statut scolaire et la 2e et/ou la 3e année en alternance, alors que d'autres proposent les 3 années en alternance.",
+        "• Pour suivre un BTS en alternance, il faut avoir le bac. Les formations ont lieu au sein d'un centre de formation d'apprentis (CFA) ou d'un lycée ou d'un établissement spécialisé selon le parcours. Le BTS est un diplôme reconnu par l’État octroyant un niveau bac+2.",
+        "• La plupart des BUT permettent de suivre une formation en alternance dès la 2e année d’études. Le BUT est dispensé dans les instituts universitaires de technologie (IUT). Le BUT est une formation qui délivre un diplôme de niveau bac+3.",
+        "• Une licence professionnelle se prépare à l’université ou au sein d'une école ou d'un lycée ou dans un CFA en 3 ans après le bac, ou en 2 ans avec un bac+1 ou en 1 an après un bac+2.",
+        "• Un master peut être passé en alternance. Il se prépare en 2 ans à l'université ou d'un autre établissement d'enseignement supérieur habilité. Pour s'inscrire à un master 1, il faut avoir un diplôme de niveau bac+3."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [
+    {
+      "titre": "Trouver son CAP",
+      "url": "https://www.onisep.fr/recherche?context=formation&not_query_type=true&sf[common_type_formation_id][]=CAP%20(certificat%20d%27aptitude%20professionnelle)&sf[common_type_formation_id][]=CAP%20agricole&sort=formation_libelle_complet_value_s,ASC",
+      "type": "Outil de recherche"
+    },
+    {
+      "titre": "Trouver son bac pro",
+      "url": "https://www.onisep.fr/recherche?context=formation&sf[common_type_formation_id][]=Bac%20pro",
+      "type": "Outil de recherche"
+    },
+    {
+      "titre": "Bac pro : trouver son établissement",
+      "url": "https://www.onisep.fr/recherche?context=what_where&sf[common_type_formation_id][]=Bac%20pro&text=Bac%20pro",
+      "type": "Outil de recherche"
+    },
+    {
+      "titre": "Trouver son BTS",
+      "url": "https://www.onisep.fr/recherche?context=formation&not_query_type=true&sf[common_type_formation_id][]=BTS%20(brevet%20de%20technicien%20sup%C3%A9rieur)&sf[common_type_formation_id][]=BTSA%20(brevet%20de%20technicien%20sup%C3%A9rieur%20agricole)&text=BTS",
+      "type": "Outil de recherche"
+    },
+    {
+      "titre": "Trouver son BUT",
+      "url": "https://www.onisep.fr/recherche?context=formation&not_query_type=true&sf[common_type_formation_id][]=BUT%20(bachelor%20universitaire%20de%20technologie)&text=BUT",
+      "type": "Outil de recherche"
+    },
+    {
+      "titre": "Trouver sa licence pro",
+      "url": "https://www.onisep.fr/recherche?context=formation&sf[common_type_formation_id][]=Licence%20professionnelle",
+      "type": "Outil de recherche"
+    },
+    {
+      "titre": "Trouver un master en alternance",
+      "url": "https://monmaster.gouv.fr/formation?modalitesEnseignement=Alternance%20-%20Apprentissage",
+      "type": "outilRechercheNG"
+    },
+    {
+      "titre": "Connaître les dates des journées portes ouvertes des établissements d'enseignement et de formation",
+      "url": "https://www.onisep.fr/recherche?context=jpo&sf[common_niveau_enseignement_mid][]=coll%C3%A8ge&sf[common_niveau_enseignement_mid][]=jusqu%27au%20bac&not_show_facets=common_niveau_enseignement_mid",
+      "type": "Outil de recherche"
+    },
+    {
+      "titre": "Connaître les coordonnées des cellules régionales d’accompagnement vers l’apprentissage",
+      "url": "https://www.1jeune1solution.gouv.fr/articles/les-cellules-regionales-d-accompagnement",
+      "type": "Outil de recherche"
+    },
+    {
+      "titre": "Connaitre le salaire minimum d'un alternant",
+      "url": "https://code.travail.gouv.fr/contribution/quel-est-le-salaire-minimum-dun-alternant-en-2026?src_url=https://www.service-public.gouv.fr/particuliers/vosdroits/F2918",
+      "type": "simulateurNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Parcoursup : comment les formations examinent les candidatures",
+      "url": "https://www.parcoursup.gouv.fr/candidater-sur-parcoursup/comment-les-formations-examinent-les-candidatures-1357"
+    },
+    {
+      "titre": "Parcoursup : foire aux questions sur l'apprentissage",
+      "url": "https://www.parcoursup.gouv.fr/faq/thematiques/formations-disponibles/apprentissage"
+    },
+    {
+      "titre": "Monmaster.gouv.fr : foire aux questions sur les formations",
+      "url": "https://information.monmaster.gouv.fr/faq/les-formations-sur-mon-master/"
+    },
+    {
+      "titre": "MonMaster.gouv.fr : l'admission en alternance étape par étape",
+      "url": "https://information.monmaster.gouv.fr/admission-en-alternance/"
+    },
+    {
+      "titre": "MonMaster.gouv.fr : phase complémentaire",
+      "url": "https://information.monmaster.gouv.fr/la-phase-compl%C3%A9mentaire-et-la-gestion-des-d%C3%A9sistements/"
+    },
+    {
+      "titre": "Liste des établissements dispensant des formations supérieures initiales diplômantes conférant le grade de master",
+      "url": "https://www.enseignementsup-recherche.gouv.fr/fr/etablissements-dispensant-des-formations-superieures-initiales-diplomantes-conferant-le-grade-de-46529"
+    }
+  ],
+  "slug": "je-souhaite-devenir-alternant",
+  "path": [
+    {
+      "slug": "comment-faire-si",
+      "titre": "Comment faire si"
+    }
+  ]
+}

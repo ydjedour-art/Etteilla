@@ -1,0 +1,88 @@
+{
+  "id": "F225",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Identification ou affiliation à la Sécurité sociale : quelles différences ?",
+  "theme": "Social - Santé",
+  "description": "L'identification est automatique, dès la naissance si elle a eu lieu en France. L'affiliation dépend de la situation professionnelle et du lieu de résidence.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-03-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F225",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Affiliation à la sécurité sociale (assurance maladie)",
+    "Identification ou affiliation à la Sécurité sociale : quelles différences ?"
+  ],
+  "introduction": "L'identification (anciennement appelée immatriculation) est automatique, dès votre naissance si vous êtes né en France. L'affiliation dépend de votre situation professionnelle et de votre lieu de résidence.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Identification",
+        "L'identification consiste :",
+        "• À vous inscrire au répertoire national inter-régimes de l'Assurance maladie (RNIAM)",
+        "• Et à vous attribuer un numéro unique et personnel, appelé numéro de Sécurité sociale ou NIR. Ce numéro vous permet de vous identifier auprès de la caisse primaire d'Assurance maladie à laquelle vous êtes affilée.",
+        "Les règles varient selon que vous êtes né ou non en France :",
+        "Né en France",
+        "Si vous êtes né en France, l'identification s'effectue dès la naissance.",
+        "Toutefois, c'est à partir de ses 16 ans que votre enfant prend connaissance de son numéro complet de Sécurité sociale, lorsqu'il reçoit la carte Vitale.",
+        "Son numéro est en effet indiqué sur la carte.",
+        "Si votre enfant ne possède pas encore de carte Vitale, son numéro de Sécurité sociale (NIR) est indiqué sur votre attestation de droits accessible à partir de votre compte Ameli.",
+        "[À noter] Si vous êtes affilié à un régime autre que le régime général (exemple : MSA), il faut contacter l'organisme de rattachement.",
+        "Né à l'étranger",
+        "Si vous êtes né à l'étranger, il faut demander ce numéro à l'organisme qui correspond à votre situation (exemple : vous êtes exploitant agricole, il faut contacter la MSA).",
+        "Affiliation",
+        "L'affiliation consiste à vous rattacher à l'organisme compétent pour gérer vos prestations de base en matière d'Assurance maladie.",
+        "Elle dépend :",
+        "• De votre situation professionnelle",
+        "• Et de votre lieu de résidence.",
+        "C'est pourquoi :",
+        "• Si vous êtes salarié, travailleur indépendant (exemple : auto-entrepreneur) ou étudiant, vous relevez de la Caisse nationale d'Assurance maladie (Cnam). Au niveau local, sauf exceptions, vous êtes rattaché à la CPAM de votre résidence habituelle.",
+        "• Si vous êtes salarié ou exploitant agricole, vous relevez de la Mutualité sociale agricole (MSA).",
+        "• Si vous ne savez pas de quelle caisse vous dépendez, prenez contact avec la CPAM de votre département.",
+        "[À noter] Toute personne qui refuse délibérément de s'affilier ou qui persiste à ne pas engager les démarches pour son affiliation obligatoire à un régime de Sécurité sociale est punie d'un emprisonnement de 6 mois et d'une amende de 15 000 € (ou seulement de l'une de ces peines)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la sécurité sociale : articles L311-1 à L311-11",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006156077/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles R312-1 et R312-5",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000034623025/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : article L162-1-12-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036687784"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "RNIAM (Répertoire national inter-régimes - Bénéficiaires de l'assurance maladie)",
+      "url": "https://www.insee.fr/fr/metadonnees/definition/c2074"
+    },
+    {
+      "titre": "Portail du service public de la Sécurité sociale",
+      "url": "https://www.securite-sociale.fr/accueil"
+    },
+    {
+      "titre": "Le numéro de sécurité sociale",
+      "url": "https://www.ameli.fr/assure/droits-demarches/principes/numero-securite-sociale"
+    }
+  ],
+  "slug": "identification-ou-affiliation-a-la-securite-sociale-quelles-differences",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "affiliation-a-la-securite-sociale-assurance-maladie",
+      "titre": "Affiliation à la sécurité sociale (assurance maladie)"
+    }
+  ]
+}

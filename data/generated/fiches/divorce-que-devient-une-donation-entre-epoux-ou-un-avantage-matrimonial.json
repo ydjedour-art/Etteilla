@@ -1,0 +1,71 @@
+{
+  "id": "F10892",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Divorce : que devient une donation entre époux ou un avantage matrimonial ?",
+  "theme": "Famille - Scolarité",
+  "description": "Les donations pendant le mariage, donations au dernier vivant ou avantages matrimoniaux sont maintenus ou révoqués par le divorce, selon les cas.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-08-06",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F10892",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Divorce, séparation de corps",
+    "Divorce : que devient une donation entre époux ou un avantage matrimonial ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les donations et les avantages matrimoniaux qui ont produit leurs effets avant le divorce sont maintenus. Ceux qui n'ont pas encore produit leurs effets sont annulés, sauf si celui d'entre vous qui les a consenti en décide autrement. Il est conseillé de prendre contact avec un professionnel (notaire, avocat, etc.). Nous vous présentons les différents cas de figure.",
+        "En cas de donation au dernier vivant",
+        "La donation au dernier vivant est automatiquement annulée en cas de divorce, sauf si celui d'entre vous qui l'a consentie décide de la maintenir.",
+        "La volonté de la maintenir doit être constatée par le juge aux affaires familiales lors du prononcé du divorce (ou dans la convention de divorce en cas de divorce par consentement mutuel).",
+        "En cas de donation faite pendant le mariage",
+        "Les règles varient selon la date de la donation.",
+        "Donation effectuée après le 1er janvier 2005",
+        "La donation faite depuis le 1er janvier 2005 est irrévocable si elle a produit des effets pendant le mariage. Par exemple, il peut s'agir d'une somme d'argent ou d'objets de valeur.",
+        "L’attribution des torts dans le prononcé du divorce pour faute n’a pas d’incidence sur les donations que les ex-époux ont pu se consentir.",
+        "Donation effectuée avant le 1er janvier 2005",
+        "La donation faite avant le 1er janvier 2005 est révocable à tout moment. Il peut s'agir par exemple d'une somme d'argent ou d'objets de valeur.",
+        "[À noter] Cette donation ne peut plus être annulée dans un divorce par consentement mutuel si elle est maintenue de façon expresse dans la convention de divorce.",
+        "Avantage matrimonial",
+        "Les règles varient selon la situation.",
+        "Avantage produisant ses effets pendant le mariage",
+        "Le divorce est sans effet et l'avantage matrimonial est maintenu.",
+        "L’avantage matrimonial est maintenu quelque soit la procédure de divorce choisie : divorce par consentement mutuel ou devant le juge. Il s'agit par exemple de l'apport d'un bien propre par un époux à la communauté.",
+        "L’avantage matrimonial est définitif et ne peut plus être révoqué (sauf causes légales de révocation comme l’ingratitude ou le non-respect des conditions).",
+        "Avantage produisant ses effets au décès de l'un des époux",
+        "Le divorce annule cet avantage, sauf volonté contraire de celui d'entre vous qui l'a consenti. Il s'agit par exemple de la clause d'attribution intégrale de la communauté à l'époux survivant."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : articles 263 à 265-2",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165472/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Avocat"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "La donation entre époux (ou donation au dernier vivant)",
+      "url": "https://www.notaires.fr/fr/donation-succession/donation/la-donation-entre-epoux-ou-donation-au-dernier-vivant"
+    }
+  ],
+  "slug": "divorce-que-devient-une-donation-entre-epoux-ou-un-avantage-matrimonial",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "divorce-separation-de-corps",
+      "titre": "Divorce, séparation de corps"
+    }
+  ]
+}

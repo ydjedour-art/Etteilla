@@ -1,0 +1,33 @@
+{
+  "id": "F35202",
+  "type_publication": "Recherche guidée",
+  "titre": "Couple de concubins locataire de son logement : quelles sont les règles ?",
+  "theme": "Logement",
+  "description": "Couple de concubins locataire de son logement : quelles sont les règles ?",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2025-04-09",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35202",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Location immobilière : bail d’habitation (contrat de location)",
+    "Couple de concubins locataire de son logement : quelles sont les règles ?"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "couple-de-concubins-locataire-de-son-logement-quelles-sont-les-regles-f35202",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "location-immobiliere-bail-d-habitation-contrat-de-location",
+      "titre": "Location immobilière : bail d’habitation (contrat de location)"
+    }
+  ]
+}

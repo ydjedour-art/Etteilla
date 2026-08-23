@@ -1,0 +1,153 @@
+{
+  "id": "F31388",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Interdiction d'émettre des chèques",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Si votre banque rejette un chèque que vous avez émis sans provision, vous devenez interdit bancaire pendant 5 ans, sauf régularisation.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-07-30",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31388",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Moyens de paiement",
+    "Interdiction d'émettre des chèques"
+  ],
+  "introduction": "Vous avez fait un ou plusieurs chèques sans provision non régularisés ? La banque peut alors vous interdire de payer par chèque (interdiction bancaire). L'interdiction peut aussi être décidée par la justice comme peine complémentaire pour vous sanctionner d'un délit (interdiction judiciaire). Mise en place, durée, conséquences : voici les informations à connaître sur l'interdiction d'émettre des chèques.",
+  "chapitres": [
+    {
+      "titre": "Dans quels cas l'interdiction d'émettre des chèques peut-elle être mise en place ?",
+      "contenu": [
+        "La banque peut vous interdire de payer par chèque si vous avez fait un ou plusieurs chèques sans provision. Dans ce cas, on parle d'interdiction bancaire.",
+        "L'interdiction peut aussi être décidée par un juge pour vous sanctionner d'un délit. Dans ce cas, on parle d'interdiction judiciaire.",
+        "Interdiction bancaire",
+        "L'interdiction bancaire d'émettre des chèques est décidée lorsque vous cumulez les 2 situations suivantes :",
+        "• Vous avez fait un chèque sans provision. C'est le cas lorsque l'encaissement du chèque vous met en situation de découvert non autorisé ou de dépassement du découvert autorisé",
+        "• Vous n'avez pas procédé à sa régularisation après l’avertissement de la banque.",
+        "L'interdiction d'émettre des chèques concerne tous vos comptes personnels, même ceux détenus dans les autres banques.",
+        "Vous risquez également l'interdiction bancaire si vous êtes cotitulaire d'un compte joint ou d'un compte indivis sur lequel un autre cotitulaire a émis un chèque sans provision non régularisé.",
+        "Pour éviter que l'interdiction bancaire s’applique à tous les cotitulaires d’un compte collectif, vous pouvez désigner un responsable unique en cas de chèque sans provision. Vous devez le faire, d’un commun accord, avant tout incident de paiement (au moment de l'ouverture du compte ou après).",
+        "Dans ce cas, l'interdiction d'émettre des chèques s'appliquera uniquement à la personne désignée responsable (et à l’ensemble de ses comptes personnels).",
+        "Pour faire la démarche, vous pouvez utiliser un modèle de document :",
+        "Désigner un responsable unique en cas de chèque sans provision sur compte joint ou indivis",
+        "Interdiction judiciaire",
+        "L'interdiction judiciaire d'émettre des chèques est une peine complémentaire prononcée par un juge.",
+        "Elle sanctionne notamment l'un des délits suivants :",
+        "• Émission de chèques malgré l'interdiction bancaire d'émettre des chèques",
+        "• Émission d'un chèque, suivi du retrait de la provision du compte, avec l'intention de nuire au bénéficiaire",
+        "• Opposition du chèque en dehors des oppositions valables (perte, vol, utilisation frauduleuse) avec intention de nuire au bénéficiaire",
+        "• Contrefaçon ou falsification de chèque ou de carte bancaire.",
+        "L'interdiction judiciaire d'émettre des chèques est applicable en complément d'une peine de 375 000 € d'amende et de 5 ans de prison.",
+        "L'interdiction d'émettre des chèques concerne tous vos comptes personnels, même ceux détenus dans les autres banques."
+      ]
+    },
+    {
+      "titre": "Quelles sont les conséquences de l'interdiction d'émettre des chèques ?",
+      "contenu": [
+        "Inscription aux fichiers bancaires",
+        "L'interdiction d'émettre des chèques est enregistrée pendant 5 ans au fichier central des chèques (FCC) tenu par la Banque de France.",
+        "Les données du FCC sont accessibles à l'ensemble des établissements bancaires.",
+        "[À noter] Vos numéros des comptes sont enregistrés au fichier national des chèques irréguliers (FNCI) tenu par la Banque de France.",
+        "Restitution des chéquiers",
+        "L'interdiction bancaire ou judiciaire d'émettre des chèques vous oblige à rendre tous vos chéquiers à votre ou vos banques.",
+        "Incidences sur les autres services bancaires",
+        "L'interdiction d'émettre des chèques ne signifie pas que vous êtes interdit de compte bancaire. Vous bénéficiez toujours du droit au compte.",
+        "Toutefois, la banque qui gère votre compte peut prendre une des décisions suivantes :",
+        "• Modifier sans votre accord la convention de compte en vous retirant des avantages",
+        "• Clore votre compte en respectant un délai.",
+        "Dans ce dernier cas, vous pouvez ouvrir un compte dans les établissements suivants :",
+        "• Soit n'importe quelle banque qui l’accepte",
+        "• Soit celle indiquée par la Banque de France, après l'application de la procédure du droit au compte.",
+        "Vous pourrez bénéficier des services de base (encaissement de chèques et de virements bancaires, une carte de paiement avec autorisation de la banque, le dépôt et le retrait d’espèces au guichet)."
+      ]
+    },
+    {
+      "titre": "Quand l'interdiction d'émettre des chèques est-elle retirée ?",
+      "contenu": [
+        "L'interdiction d’émettre des chèques est retirée des fichiers automatiquement au bout de 5 ans.",
+        "Mais l’interdiction bancaire peut être retirée plus tôt si tous les chèques sans provision ont été régularisés et que la Banque de France en a été informée.",
+        "Vous devez informer votre banque par écrit de la régularisation des chèques sans provision.",
+        "Votre banque doit alors faire retirer les inscriptions au fichier central des chèques (FCC) et au fichier national des chèques irréguliers (FNCI).",
+        "Elle doit avertir la Banque de France dans les 2 jours ouvrés suivant la justification de la régularisation.",
+        "[Attention] L'interdiction judiciaire ne peut pas être retirée, car il s'agit d'une peine. Elle peut être contestée en faisant appel de la décision de justice."
+      ]
+    },
+    {
+      "titre": "Comment contester l'inscription au fichier bancaire ?",
+      "contenu": [
+        "Si votre banque vous informe de votre inscription au fichier central des chèques (FCC), et que vous estimez que ce n'est pas justifié, vous avez un droit de rectification.",
+        "Vous devez demander la rectification à la banque, et si nécessaire au médiateur bancaire et au FCC. Vous pouvez également porter plainte.",
+        "Demander une rectification à l'agence bancaire",
+        "Pour contester votre interdit bancaire, vous devez demander à votre agence bancaire de rectifier ses bases de données internes. Vous pouvez faire cette demande au guichet ou par courrier.",
+        "Saisir le médiateur bancaire et le FCC",
+        "Si l'erreur n'est pas corrigée, vous pouvez faire appel au médiateur bancaire. Vous pouvez aussi vous adresser directement au FCC.",
+        "Porter plainte en cas d'échec de la médiation",
+        "Vous pouvez porter plainte en ligne auprès de la Commission nationale informatique et libertés (Cnil) pour faire valoir votre droit de rectification :",
+        "Adresser une plainte en ligne à la Cnil",
+        "Vous devez joindre un relevé des informations inscrites au FCC de moins d'1 mois.",
+        "Si vous n'avez pas de relevé du FCC ou qu'il date de plus d'1 mois, vous devez le demander à l'antenne de la Banque de France la plus proche de votre domicile. Pour cela, vous pouvez vous présenter au guichet avec une pièce d'identité.",
+        "Vous pouvez également en faire la demande par courrier signé, accompagné d'une photocopie recto-verso de votre pièce d'identité signée. Vous pouvez utiliser un modèle de document :",
+        "Demander un relevé au Fichier central des chèques (FCC)"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code monétaire et financier : article L131-73",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033679778/"
+    },
+    {
+      "titre": "Code monétaire et financier : articles R131-26 à R131-31",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006185324"
+    },
+    {
+      "titre": "Code monétaire et financier : articles L163-1 à L163-12",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000020861878"
+    },
+    {
+      "titre": "Code pénal : articles 131-19 à 131-36",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417271"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Désigner un responsable unique en cas de chèque sans provision sur compte joint ou indivis",
+      "url": "",
+      "type": "lettreTypeNG"
+    },
+    {
+      "titre": "Adresser une plainte en ligne à la Cnil",
+      "url": "https://www.cnil.fr/fr/plaintes",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Demander un relevé au Fichier central des chèques (FCC)",
+      "url": "https://www.cnil.fr/fr/modele/courrier/acceder-au-fichier-central-des-cheques-fcc",
+      "type": "Modèle de document"
+    }
+  ],
+  "contacts": [
+    "Info Banque - Assurance"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Les services de base dans le cadre du droit au compte",
+      "url": "https://www.lafinancepourtous.com/pratique/banque/le-compte-bancaire/le-droit-au-compte/des-services-bancaires-de-base-gratuits/"
+    },
+    {
+      "titre": "Le fichier central des chèques (FCC)",
+      "url": "https://particuliers.banque-france.fr/fichiers-dincidents/les-trois-fichiers-dincidents-fcc-ficp-fnci/le-fichier-central-des-cheques-fcc"
+    }
+  ],
+  "slug": "interdiction-d-emettre-des-cheques",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "moyens-de-paiement",
+      "titre": "Moyens de paiement"
+    }
+  ]
+}

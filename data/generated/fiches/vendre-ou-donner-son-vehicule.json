@@ -1,0 +1,97 @@
+{
+  "id": "F1707",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Vendre ou donner son véhicule",
+  "theme": "Transports - Mobilité",
+  "description": "Quand vous vendez ou donnez votre véhicule, vous devez remettre des documents au nouveau propriétaire et avertir l'administration.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-01-23",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1707",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Carte grise (certificat d'immatriculation)",
+    "Vendre ou donner son véhicule"
+  ],
+  "introduction": "Quand vous vendez ou donnez votre véhicule, vous devez remettre certains documents au nouveau propriétaire. Vous devez également avertir l'administration de la cession ou du don de votre véhicule. Vous pouvez effectuer cette démarche sur le site internet de l’ANTS, en utilisant l'application pour smartphone Simplimmat.gouv ou encore chez un professionnel de l'automobile habilité. Nous vous présentons les étapes à suivre qui varient en fonction de votre choix pour effectuer la démarche.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "[Attention] Si vous vendez un véhicule dans le cadre d’une succession, la procédure est différente."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la route : articles L322-1 à L322-3",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074228/LEGISCTA000006159532"
+    },
+    {
+      "titre": "Code de la route : articles R322-1 à R322-14",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074228/LEGISCTA000006177098"
+    },
+    {
+      "titre": "Code de la route : article R322-4",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035433238"
+    },
+    {
+      "titre": "Arrêté du 9 février 2009 relatif aux démarches d'immatriculation des véhicules",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000020237165"
+    },
+    {
+      "titre": "Arrêté du 18 juin 1991 relatif au contrôle technique des véhicules dont le poids n'excède pas 3,5 tonnes",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000020559004/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demander le certificat de situation administrative d'un véhicule d'occasion (HistoVec)",
+      "url": "https://histovec.interieur.gouv.fr/histovec/accueil",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Certificat de cession d'un véhicule d'occasion",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/15776",
+      "type": "formulaireNG"
+    },
+    {
+      "titre": "Déclarer la vente ou le don de son véhicule",
+      "url": "https://immatriculation.ants.gouv.fr/demarches-en-ligne/vendre-ou-donner-votre-vehicule",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "34 00 - Informations sur le certificat d’immatriculation ou le permis de conduire",
+    "France Services / Maison de services au public"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Points numériques",
+      "url": "https://immatriculation.ants.gouv.fr/services-et-formulaires/carte-des-points-numeriques"
+    },
+    {
+      "titre": "Liste des centres VHU référencés dans le SIV",
+      "url": "https://immatriculation.ants.gouv.fr/services-et-formulaires/garages-habilites-a-detruire-votre-vehicule"
+    },
+    {
+      "titre": "Expédition vers un pays de l'Union européenne d'un véhicule à moteur acheté en France",
+      "url": "https://www.douane.gouv.fr/fiche/expedition-vers-un-pays-de-lunion-europeenne-dun-vehicule-moteur-achete-en-france"
+    },
+    {
+      "titre": "Exportation hors de l'Union européenne d'un véhicule à moteur acheté en France",
+      "url": "https://www.douane.gouv.fr/fiche/exportation-hors-de-lunion-europeenne-dun-vehicule-moteur-achete-en-france"
+    }
+  ],
+  "slug": "vendre-ou-donner-son-vehicule",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "carte-grise-certificat-d-immatriculation",
+      "titre": "Carte grise (certificat d'immatriculation)"
+    }
+  ]
+}

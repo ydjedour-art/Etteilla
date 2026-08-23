@@ -1,0 +1,95 @@
+{
+  "id": "F21304",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Scolarisation au collège ou lycée d'un élève venant de l'étranger",
+  "theme": "Famille - Scolarité",
+  "description": "L'enfant est d'abord évalué pour estimer ses connaissances. Il est ensuite scolarisé, suivant son âge et ses compétences, en classe ordinaire ou adaptée.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-08-05",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F21304",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Scolarité en France d'un enfant arrivant de l'étranger",
+    "Scolarisation au collège ou lycée d'un élève venant de l'étranger"
+  ],
+  "introduction": "Vous venez de vous installer en France et vous souhaitez organiser la scolarisation de votre enfant adolescent ? Il doit être scolarisé au collège ou au lycée jusqu'à l'âge de 16 ans. La procédure d'inscription et les règles de scolarisation sont différentes selon qu'il s'agit d'une première installation ou d'un retour en France. Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Circulaire n°2002-063 du 20 mars 2002 fixant les modalités d'inscription et de scolarisation des élèves de nationalité étrangère",
+      "url": "https://www.legifrance.gouv.fr/circulaire/id/3206"
+    },
+    {
+      "titre": "Circulaire du 2 octobre 2012 sur l'organisation de la scolarité des élèves allophones nouvellement arrivés en France",
+      "url": "http://www.education.gouv.fr/pid25535/bulletin_officiel.html?cid_bo=61536"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Établissement scolaire",
+    "Direction des services départementaux de l'Éducation nationale",
+    "France éducation international"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Diplôme d'études en langue française (Delf) junior ou scolaire",
+      "url": "https://www.france-education-international.fr/diplome/delf-junior-scolaire?langue=fr"
+    },
+    {
+      "titre": "Préparer son retour en France",
+      "url": "https://www.diplomatie.gouv.fr/fr/services-aux-francais/preparer-son-retour-en-france/"
+    },
+    {
+      "titre": "Scolarisation des élèves de retour de l'étranger",
+      "url": "http://eduscol.education.fr/cid75205/scolarisation-des-eleves-de-retour-de-l-etranger.html"
+    },
+    {
+      "titre": "Livret d'accueil bilingue français anglais",
+      "url": "https://eduscol.education.fr/document/21271/download"
+    },
+    {
+      "titre": "Livret d'accueil bilingue français arabe",
+      "url": "https://eduscol.education.fr/document/21277/download"
+    },
+    {
+      "titre": "Livret d'accueil bilingue français chinois",
+      "url": "https://eduscol.education.fr/document/21289/download"
+    },
+    {
+      "titre": "Livret d'accueil bilingue français portugais",
+      "url": "https://eduscol.education.fr/document/21310/download"
+    },
+    {
+      "titre": "Livret d'accueil bilingue français romani",
+      "url": "https://eduscol.education.fr/document/21316/download"
+    },
+    {
+      "titre": "Livret d'accueil bilingue français roumain",
+      "url": "https://eduscol.education.fr/document/21322/download"
+    },
+    {
+      "titre": "Livret d'accueil bilingue français russe",
+      "url": "https://eduscol.education.fr/document/21328/download"
+    },
+    {
+      "titre": "Livret d'accueil bilingue français tamoul",
+      "url": "https://eduscol.education.fr/document/21334/download"
+    },
+    {
+      "titre": "Livret d'accueil bilingue français turc",
+      "url": "https://eduscol.education.fr/document/21340/download"
+    }
+  ],
+  "slug": "scolarisation-au-college-ou-lycee-d-un-eleve-venant-de-l-etranger",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "scolarite-en-france-d-un-enfant-arrivant-de-l-etranger",
+      "titre": "Scolarité en France d'un enfant arrivant de l'étranger"
+    }
+  ]
+}

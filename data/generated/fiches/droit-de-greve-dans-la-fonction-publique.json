@@ -1,0 +1,75 @@
+{
+  "id": "F499",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Droit de grève dans la fonction publique",
+  "theme": "Travail - Formation",
+  "description": "Le droit de grève est reconnu aux agents publics. L'exercice du droit de grève est soumis à un préavis et fait l'objet de certaines limitations.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-03-03",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F499",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Conflits du travail dans la fonction publique",
+    "Droit de grève dans la fonction publique"
+  ],
+  "introduction": "Vous souhaitez connaitre les règles qui régissent le droit de grève dans la fonction publique ? Nous vous présentons les règles à connaître. Elles diffèrent selon votre fonction publique d’appartenance (État - FPE, territoriale - FPT ou hospitalière - FPH).",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code général de la fonction publique : articles L114-1 à L114-10",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044420629/"
+    },
+    {
+      "titre": "Code général de la fonction publique : article L115-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044427929/"
+    },
+    {
+      "titre": "Code général de la fonction publique : article L711-1 à L711-2",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044423741/"
+    },
+    {
+      "titre": "Code général de la fonction publique : article L711-3",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044423747/"
+    },
+    {
+      "titre": "Code du travail : articles L2512-1 à L2512-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000006160748/"
+    },
+    {
+      "titre": "Code de l'éducation : articles L133-2 à L133-10",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071191/LEGISCTA000019345268/"
+    },
+    {
+      "titre": "Code général de la fonction publique : article R114-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000050546217/"
+    },
+    {
+      "titre": "Décret n°2008-1246 du 1er décembre 2008 relatif à la négociation préalable au dépôt d'un préavis de grève dans les écoles maternelles et élémentaires",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000019857324"
+    },
+    {
+      "titre": "Circulaire du 30 juillet 2003 relative à la mise en œuvre des retenues sur la rémunération des agents publics de l'État en cas de grève",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000414601"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Liste des agents des services de la navigation aérienne astreints à demeurer en fonction pendant une grève",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000023953497"
+    }
+  ],
+  "slug": "droit-de-greve-dans-la-fonction-publique",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "conflits-du-travail-dans-la-fonction-publique",
+      "titre": "Conflits du travail dans la fonction publique"
+    }
+  ]
+}

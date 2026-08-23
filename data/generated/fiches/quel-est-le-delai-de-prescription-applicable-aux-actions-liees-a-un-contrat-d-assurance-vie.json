@@ -1,0 +1,80 @@
+{
+  "id": "F15337",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quel est le délai de prescription applicable aux actions liées à un contrat d'assurance-vie ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Le délai pour introduire une action liée à un contrat d'assurance-vie dépend de la personne qui agit et du motif de la demande.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-11-24",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F15337",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Assurance vie",
+    "Quel est le délai de prescription applicable aux actions liées à un contrat d'assurance-vie ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Le délai de prescription est le temps au-delà duquel la mise en œuvre d’un droit ou une demande en justice n'est plus recevable. Par exemple, si vous introduisez une action justice après l'expiration du délai de prescription, la juridiction refusera d’examiner votre demande.",
+        "L'exécution du contrat d'assurance-vie peut donner lieu à des litiges entre la compagnie d'assurance et les personnes suivantes :",
+        "• Souscripteur (par exemple, litige lié au refus de changement d'assuré ou de bénéficiaire)",
+        "• Assuré (par exemple, litige lié au refus de restitution des fonds par l’assureur suite à la renonciation de l’assuré à son contrat)",
+        "• Bénéficiaire (par exemple, litige lié au refus de l'assureur de verser l'épargne suite au décès de l'assuré)",
+        "• Tiers (par exemple, litige lié à la contestation du statut de bénéficiaire à la personne désignée dans le contrat).",
+        "En matière d’assurance, il existe une prescription de 2 ans qui s’applique pour les actions qui découlent du contrat. On parle de la prescription biennale.",
+        "En général, les actions liées à l’exécution d’un contrat d’assurance doivent être introduites dans un délai de 2 ans à partir de l’évènement qui est la base de la demande.",
+        "[Exemple] Lorsque le contrat d’assurance-vie est arrivé à échéance et que le bénéficiaire (qui est aussi le souscripteur) demande à l'assureur de lui verser l’épargne accumulée, l'événement qui est à la base de la demande est l’échéance du contrat. Dans ce cas, le délai de 2 ans commence à courir à partir de la date de fin du contrat d’assurance-vie.",
+        "Le délai de prescription est plus long lorsque vous êtes le bénéficiaire d'un contrat d'assurance-vie qui a été souscrit par une autre personne. Dans ce cas, le délai de prescription est de 10 ans à partir de la date de décès de l'assuré.",
+        "[Exemple] Lorsque le bénéficiaire demande à l'assureur de payer la prime, l'événement qui est à la base de la demande est le décès de l’assuré qui a souscrit le contrat. Dans ce cas, le délai de 10 ans commence à courir à partir de la date de décès de l'assuré.",
+        "Mais si vous êtes le bénéficiaire et que vous n'avez pas eu connaissance du décès de l'assuré au moment où il s'est produit, le délai de prescription commencera à courir le jour où vous aurez eu connaissance du décès.",
+        "Il y a une limite à ce report du point de départ du délai de prescription : votre action ne sera pas recevable si elle est introduite plus de de 30 ans après le décès de l'assuré, même si vous n'en avez pas eu connaissance plus tôt.",
+        "Le point de départ du délai de prescription est également retardé pour l'assureur lorsqu'il n'a pas eu connaissance du risque à cause de la réticence, de l'omission, ou de la fausse déclaration de l'assuré. Dans ces cas, le point de départ est fixé au jour où l'assureur a eu connaissance du risque.",
+        "Le délai de prescription peut être interrompu par l’un des évènements suivants :",
+        "• Reconnaissance par l’assureur du droit de l’assuré ou reconnaissance de la dette",
+        "• Demande en justice engagée",
+        "• Envoi d’un commandement ou d’une saisie",
+        "• Envoi d'une lettre recommandée ou recommandé électronique, avec accusé de réception, par l'assureur à l'assuré en ce qui concerne l'action en paiement de la prime",
+        "• Envoi d'une lettre recommandée ou recommandé électronique, avec accusé de réception, par l'assuré à l'assureur en ce qui concerne le règlement de l'indemnité.",
+        "[À noter] Pour protéger l’assuré, tout contrat d’assurance-vie doit rappeler les délais de prescription des actions découlant du contrat. L’information doit permettre d’identifier les points de départ de la prescription et les causes d’interruption de la prescription."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code des assurances : articles L114-1 à L114-3",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006157215"
+    },
+    {
+      "titre": "Code des assurances : articles R112-1 à R112-7",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006158213"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Info Banque - Assurance"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "La finance pour tous - Assurance vie",
+      "url": "https://www.lafinancepourtous.com/pratique/placements/assurance-vie/"
+    },
+    {
+      "titre": "Assurance-vie",
+      "url": "http://www.abe-infoservice.fr/assurance/assurance-vie.html"
+    }
+  ],
+  "slug": "quel-est-le-delai-de-prescription-applicable-aux-actions-liees-a-un-contrat-d-assurance-vie",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "assurance-vie",
+      "titre": "Assurance vie"
+    }
+  ]
+}

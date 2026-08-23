@@ -1,0 +1,82 @@
+{
+  "id": "F1802",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Apa : quel est le montant de votre reste à charge ?",
+  "theme": "Social - Santé",
+  "description": "Le montant de la participation financière à la charge du bénéficiaire de l'Apa dépend notamment du montant total de ses ressources.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-01-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1802",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Allocations et aides aux personnes âgées",
+    "Apa : quel est le montant de votre reste à charge ?"
+  ],
+  "introduction": "L'allocation personnalisée d'autonomie (Apa) est attribuée sous conditions d'âge, de résidence et de perte d'autonomie. Une participation financière peut être laissée à votre charge, selon le montant total de vos ressources par mois. Mais pour déterminer le montant total de vos ressources par mois, seules certaines ressources sont prises en compte. Nous vous expliquons.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les règles sont différentes, selon que vous faites une demande d'Apa à domicile ou une demande d'Apa en établissement :"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'action sociale et des familles : articles R232-1 à R232-6",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074069/LEGISCTA000006190052/"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : articles R232-10 à D232-11-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074069/LEGISCTA000006196009/"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : articles R232-18 et R232-19",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074069/LEGISCTA000006196007/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Annuaire des Éhpad, comparateur de prix et prestations des Éhpad, comparateur de reste à charge en Éhpad",
+      "url": "https://www.pour-les-personnes-agees.gouv.fr/annuaire-ehpad-et-comparateur-de-prix-et-restes-a-charge",
+      "type": "Outil de recherche"
+    }
+  ],
+  "contacts": [
+    "Point d'information local dédié aux personnes âgées"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "L'Apa à domicile (facile à lire et à comprendre)",
+      "url": "https://www.pour-les-personnes-agees.gouv.fr/annuaires-et-services/facile-a-lire-et-a-comprendre/lapa-a-domicile"
+    },
+    {
+      "titre": "L'Apa en établissement (facile à lire et à comprendre)",
+      "url": "https://www.pour-les-personnes-agees.gouv.fr/annuaires-et-services/facile-a-lire-et-a-comprendre/lapa-en-etablissement"
+    },
+    {
+      "titre": "Les aides au logement pour les personnes âgées en Ehpad",
+      "url": "https://www.pour-les-personnes-agees.gouv.fr/vivre-dans-un-ehpad/aides-financieres-en-ehpad/les-aides-au-logement-en-ehpad"
+    },
+    {
+      "titre": "Comprendre sa facture en Ehpad",
+      "url": "https://www.pour-les-personnes-agees.gouv.fr/vivre-dans-un-ehpad/quels-couts/comprendre-sa-facture-en-ehpad"
+    },
+    {
+      "titre": "Grille nationale AGGIR et son guide de remplissage",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034696537/"
+    }
+  ],
+  "slug": "apa-quel-est-le-montant-de-votre-reste-a-charge",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "allocations-et-aides-aux-personnes-agees",
+      "titre": "Allocations et aides aux personnes âgées"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "F548",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Garantie co-emprunteur : que faire en cas de divorce ou de séparation du couple ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Un couple co-emprunteur d'un crédit (à la consommation ou immobilier) qui divorce ou se sépare peut obtenir l'annulation de la garantie co-emprunteur.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-08-27",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F548",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Crédit immobilier",
+    "Garantie co-emprunteur : que faire en cas de divorce ou de séparation du couple ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Lorsqu'un couple prend un crédit à la consommation ou un crédit immobilier et que les 2 membres du couple signent le contrat de prêt, ils sont co-emprunteurs. La banque peut réclamer à chacun des membres du couple le paiement des mensualités du prêt. Chaque membre du couple est garant du prêt. Il s'agit de la garantie co-emprunteur.",
+        "Le divorce ou la séparation du couple ne met pas fin au contrat de prêt, ni à la garantie co-emprunteur.",
+        "Mais le couple peut obtenir l'annulation de la garantie co-emprunteur de l'une des façons suivantes :",
+        "• Soit en remboursant par anticipation le prêt (par exemple, à l’aide de la vente du bien financé avec le prêt, ce qui peut toutefois causer des frais). Lorsque le prêt est remboursé en totalité, la garantie des 2 co-emprunteurs prend fin.",
+        "• Soit en demandant à la banque la désolidarisation d'un des co-emprunteurs. Si la banque accepte, l'autre co-emprunteur reste seul à rembourser le prêt et à en être le garant.",
+        "• Soit en demandant à la banque d'annuler la garantie d'un des co-emprunteurs. Pour cela, il faut remplacer ce co-emprunteur par un nouveau garant ou une garantie supplémentaire (par exemple, une hypothèque, une caution). Ce remplacement doit être proposé à la banque. Si la banque accepte, le contrat de prêt se poursuit avec le co-emprunteur restant et un nouveau garant ou une garantie supplémentaire."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : articles 1310 à 1319",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032031314"
+    },
+    {
+      "titre": "Code civil : articles 1346 à 1346-5",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032035285"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "garantie-co-emprunteur-que-faire-en-cas-de-divorce-ou-de-separation-du-couple",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "credit-immobilier",
+      "titre": "Crédit immobilier"
+    }
+  ]
+}

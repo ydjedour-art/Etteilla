@@ -1,0 +1,104 @@
+{
+  "id": "F22730",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Taxe ou redevance d'enlèvement des ordures ménagères (TEOM ou REOM)",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Il faut payer l'enlèvement des ordures ménagères. Pour financer la collecte des déchets ménagers, la commune réclame une taxe ou une redevance.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-09-18",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F22730",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Impôts locaux",
+    "Taxe ou redevance d'enlèvement des ordures ménagères (TEOM ou REOM)"
+  ],
+  "introduction": "Pour financer la collecte des déchets ménagers, selon votre commune, on vous réclame une taxe ou une redevance. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Pour financer la collecte et le traitement des déchets ménagers et assimilés, les communes et leurs groupements (syndicat, EPCI) décident de la mise en place de l'un des dispositifs suivants :",
+        "• Taxe d'enlèvement des ordures ménagères (TEOM)",
+        "• Redevance d'enlèvement des ordures ménagères (REOM).",
+        "La TEOM et la REOM ne sont pas cumulables (sauf cas particulier).",
+        "Pour connaître le dispositif mis en place dans votre commune, vous pouvez consulter le guide de la collecte des déchets soit sur le site internet de la mairie, soit directement à la mairie.",
+        "[À noter] Une redevance spéciale pour les déchets existe également, mais elle concerne les déchets non ménagers (produits par des usines ou des commerces, par exemple)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général des impôts : articles 1520 à 1526",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006191811/"
+    },
+    {
+      "titre": "Code général des impôts : article 1522 bis",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031816686"
+    },
+    {
+      "titre": "Code général des impôts : article 1636 B undecies",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037986322/"
+    },
+    {
+      "titre": "Code général des collectivités territoriales : articles L2224-13 à L2224-17-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006180990/"
+    },
+    {
+      "titre": "Code général des collectivités territoriales : articles L2333-76 à L2333-80",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006181012/"
+    },
+    {
+      "titre": "Code général des collectivités territoriales : articles R2224-23 à R2224-29-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032191670/"
+    },
+    {
+      "titre": "Bofip-impôts n°BOI-IF-AUT-90 relatif à la taxe d'enlèvement des ordures ménagères (TEOM)",
+      "url": "http://bofip.impots.gouv.fr/bofip/3650-PGP"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Impôts : accéder à votre espace Finances publiques",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "Service d'information des impôts",
+    "Mairie"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Site des impôts",
+      "url": "https://www.impots.gouv.fr/portail/"
+    },
+    {
+      "titre": "Brochure pratique - Impôts locaux 2025",
+      "url": "https://www.impots.gouv.fr/www2/fichiers/documentation/brochure/idl/idl_2025.pdf"
+    },
+    {
+      "titre": "Calendrier fiscal des particuliers",
+      "url": "https://www.impots.gouv.fr/portail/particulier/calendrier-fiscal"
+    },
+    {
+      "titre": "La coopération intercommunale et les EPCI",
+      "url": "https://www.vie-publique.fr/fiches/20118-la-cooperation-intercommunale-et-les-epci"
+    },
+    {
+      "titre": "Principes de la fiscalité locale",
+      "url": "http://www.vie-publique.fr/decouverte-institutions/finances-publiques/collectivites-territoriales/ressources/quels-principes-regissent-fiscalite-locale.html"
+    }
+  ],
+  "slug": "taxe-ou-redevance-d-enlevement-des-ordures-menageres-teom-ou-reom",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "impots-locaux",
+      "titre": "Impôts locaux"
+    }
+  ]
+}

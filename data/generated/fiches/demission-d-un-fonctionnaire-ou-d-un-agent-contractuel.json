@@ -1,0 +1,64 @@
+{
+  "id": "F513",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Démission d'un fonctionnaire ou d'un agent contractuel",
+  "theme": "Travail - Formation",
+  "description": "L'agent public qui souhaite démissionner doit respecter certaines règles pour effectuer sa démarche.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-03-03",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F513",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Quitter la fonction publique",
+    "Démission d'un fonctionnaire ou d'un agent contractuel"
+  ],
+  "introduction": "Vous êtes fonctionnaire (stagiaire ou titulaire) ou contractuel et vous envisagez de démissionner ? Nous vous présentons les informations à connaître avant de prendre votre décision, selon votre fonction publique d’appartenance (État - FPE, territoriale - FPT, hospitalière - FPH).",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code général de la fonction publique : articles L551-1 à L551-2",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044423385/"
+    },
+    {
+      "titre": "Code général de la fonction publique : article R327-65",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051962452"
+    },
+    {
+      "titre": "Décret n°85-986 du 16 septembre 1985 relatif aux positions administratives, à la mise à disposition, à l'intégration et à la cessation définitive de fonctions dans la FPE",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000502401/"
+    },
+    {
+      "titre": "Décret n°86-83 du 17 janvier 1986 relatif aux agents contractuels de la FPE",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000699956/"
+    },
+    {
+      "titre": "Décret n°88-145 du 15 février 1988 relatif aux agents non titulaires de la FPT",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000871608"
+    },
+    {
+      "titre": "Décret n°91-155 du 6 février 1991 relatif aux agents contractuels de la FPH",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000343794"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Modèle de lettre - Démissionner de la fonction publique",
+      "url": "",
+      "type": "lettreTypeNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "demission-d-un-fonctionnaire-ou-d-un-agent-contractuel",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "quitter-la-fonction-publique",
+      "titre": "Quitter la fonction publique"
+    }
+  ]
+}

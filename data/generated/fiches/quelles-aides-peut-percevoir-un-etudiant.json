@@ -1,0 +1,120 @@
+{
+  "id": "F32456",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quelles aides peut percevoir un étudiant ?",
+  "theme": "Famille - Scolarité",
+  "description": "Selon sa situation, un étudiant peut bénéficier de certaines aides.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-07-24",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F32456",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Bourses et aides pour étudiant",
+    "Quelles aides peut percevoir un étudiant ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Selon sa situation, un étudiant peut bénéficier de certaines aides.",
+        "Aides auxquelles un étudiant peut prétendre",
+        "Situation",
+        "Âge maximum",
+        "Type d'allocation",
+        "Montant de l'aide annuelle",
+        "Cumul possible",
+        "Conditions",
+        "Étudiant qui rencontre des difficultés matérielles pour poursuivre ses études",
+        "28 ans, sauf cas d’exception",
+        "Bourse sur critères sociaux (BCS)",
+        "Jusqu'à 7 602 €",
+        "• Aide au mérite",
+        "• Bourse Talents",
+        "• Aide à la mobilité internationale",
+        "• Aide d'urgence ponctuelle",
+        "Conditions d'attribution de la BCS",
+        "Étudiant boursier ayant obtenu la mention Très bien au Bac",
+        "28 ans, sauf cas d'exception",
+        "Aide au mérite",
+        "900 €",
+        "• Bourse sur critères sociaux",
+        "• Aide à la mobilité internationale",
+        "• Aide d'urgence",
+        "Conditions d'attribution de l'aide au mérite",
+        "Étudiant préparant un concours de la fonction publique",
+        "Non",
+        "Bourse Talents",
+        "2 000 € ou 4 000 € si vous êtes inscrit en classe Prépa Talents",
+        "• Bourse sur critères sociaux",
+        "Conditions d'attribution des bourses Talents",
+        "Étudiant souhaitant suivre une formation supérieure à l'étranger ou faire un stage international",
+        "28 ans, sauf cas d'exception",
+        "Aide à la mobilité internationale",
+        "Jusqu'à 4 000 €",
+        "• Bourse sur critères sociaux",
+        "• Aide au mérite",
+        "• Aide d'urgence annuelle",
+        "Conditions d'attribution de l'aide à la mobilité",
+        "Étudiant rencontrant des difficultés financières",
+        "35 ans",
+        "Aide d'urgence",
+        "Jusqu'à 6 335 €",
+        "S'il s'agit d'une aide ponctuelle :",
+        "• Bourse sur critères sociaux",
+        "• Aide à la mobilité internationale",
+        "• Aide au mérite",
+        "Conditions d'attribution de l'aide d'urgence",
+        "Étudiant boursier, venant d'obtenir sa licence, qui souhaite s'inscrire en Master 1 dans une autre région",
+        "Non",
+        "Aide à la mobilité pour l'inscription en Master 1",
+        "1 000 €",
+        "• Aide au mérite",
+        "• Bourse Talents",
+        "• Aide à la mobilité internationale",
+        "• Aide d'urgence ponctuelle",
+        "Conditions d'attribution de l'aide à la mobilité en Master",
+        "[À noter] L'étudiant peut également bénéficier sous conditions d'aides ou d'allocations locales, mais aussi selon sa situation d'une aide au logement."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [
+    {
+      "titre": "Mes services étudiant",
+      "url": "https://www.messervices.etudiant.gouv.fr",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Étudiant : calculer votre droit à bourse sur critères sociaux",
+      "url": "http://www.etudiant.gouv.fr/cid97527/simulateur-de-bourse.html",
+      "type": "simulateurNG"
+    }
+  ],
+  "contacts": [
+    "Centre régional des œuvres universitaires et scolaires (Crous)",
+    "Établissement d'enseignement supérieur"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Bourses et aides financières",
+      "url": "http://www.etudiant.gouv.fr/pid33628/vos-aides-financieres.html"
+    },
+    {
+      "titre": "Aides régionales et dans les Outre-Mer",
+      "url": "http://www.etudiant.gouv.fr/pid37652/aides-regionales-et-dans-les-outre-mer.html"
+    }
+  ],
+  "slug": "quelles-aides-peut-percevoir-un-etudiant",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "bourses-et-aides-pour-etudiant",
+      "titre": "Bourses et aides pour étudiant"
+    }
+  ]
+}

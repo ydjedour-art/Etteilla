@@ -15,7 +15,7 @@ export function DossierCard({
   return (
     <Link
       href={`/app/dossiers/${dossier.id}`}
-      className="block rounded-2xl border border-ink/10 bg-white p-5 transition-shadow hover:shadow-md"
+      className="block rounded-2xl border border-ink/10 bg-card p-5 transition-shadow hover:shadow-md"
     >
       <div className="flex items-start justify-between gap-4">
         <div>

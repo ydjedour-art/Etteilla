@@ -1,0 +1,54 @@
+{
+  "id": "F2382",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Congé pour création ou reprise d'entreprise d'un salarié du secteur privé",
+  "theme": "Travail - Formation",
+  "description": "Le salarié qui souhaite créer ou reprendre une entreprise peut bénéficier d'un congé à temps plein ou à temps partiel pour s'investir dans son projet.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-04-24",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2382",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Congés dans le secteur privé",
+    "Congé pour création ou reprise d'entreprise d'un salarié du secteur privé"
+  ],
+  "introduction": "Le salarié qui souhaite créer ou reprendre une entreprise peut bénéficier d'un congé spécifique à cette occasion pour réaliser son projet, sous certaines conditions. Le congé pour création ou reprise d'entreprise peut être pris à temps plein ou à temps partiel. Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code du travail : articles L3142-105 à L3142-116",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033006094"
+    },
+    {
+      "titre": "Code du travail : articles L3142-117 et L3142-118",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033006265"
+    },
+    {
+      "titre": "Code du travail : articles L3142-120 à L3142-124",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033006277"
+    },
+    {
+      "titre": "Code du travail : articles D3142-65 à D3142-72",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033444780"
+    },
+    {
+      "titre": "Code du travail : articles D3142-73 à D3142-76",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033510113"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "conge-pour-creation-ou-reprise-d-entreprise-d-un-salarie-du-secteur-prive",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "conges-dans-le-secteur-prive",
+      "titre": "Congés dans le secteur privé"
+    }
+  ]
+}

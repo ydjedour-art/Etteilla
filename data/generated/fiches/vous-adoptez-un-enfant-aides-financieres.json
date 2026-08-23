@@ -1,0 +1,33 @@
+{
+  "id": "F38242",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Vous adoptez un enfant : aides financières",
+  "theme": "Social - Santé",
+  "description": "Si vous adoptez un enfant, vous pouvez bénéficier d'aides sous certaines conditions.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-30",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F38242",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Aides financières",
+    "Vous adoptez un enfant : aides financières"
+  ],
+  "introduction": "Si vous adoptez un enfant, vous pouvez bénéficier d'aides sous certaines conditions. Elles varient selon l'âge de l'enfant.",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "vous-adoptez-un-enfant-aides-financieres",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "aides-financieres",
+      "titre": "Aides financières"
+    }
+  ]
+}

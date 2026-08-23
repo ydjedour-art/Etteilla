@@ -1,0 +1,44 @@
+{
+  "id": "F22312",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Que doit faire un étranger en cas de vol de sa carte de séjour ?",
+  "theme": "Étranger - Europe",
+  "description": "En cas de vol de sa carte de séjour, un étranger doit demander un duplicata.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-07-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F22312",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Titres, cartes de séjour et documents de circulation pour étranger en France",
+    "Que doit faire un étranger en cas de vol de sa carte de séjour ?"
+  ],
+  "introduction": "Si vous êtes étranger et qu’on vous a volé votre carte de séjour, vous devez effectuer des démarches différentes en fonction du lieu du vol (en France ou à l'étranger). Dans tous les cas, vous devez demander un duplicata de votre carte de séjour dont le coût varie selon le type et la mention. Voici les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles L436-1 à L436-13",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042772036/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Plainte en ligne",
+      "url": "https://www.masecurite.interieur.gouv.fr/fr/demarches-en-ligne/plainte-en-ligne",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "que-doit-faire-un-etranger-en-cas-de-vol-de-sa-carte-de-sejour",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "titres-cartes-de-sejour-et-documents-de-circulation-pour-etranger-en-france",
+      "titre": "Titres, cartes de séjour et documents de circulation pour étranger en France"
+    }
+  ]
+}

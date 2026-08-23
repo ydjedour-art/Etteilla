@@ -1,0 +1,33 @@
+{
+  "id": "F34852",
+  "type_publication": "Recherche guidée",
+  "titre": "Élections",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Élections",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2026-04-09",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34852",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Élections",
+    "Élections"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "elections",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "elections",
+      "titre": "Élections"
+    }
+  ]
+}

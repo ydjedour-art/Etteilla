@@ -1,0 +1,119 @@
+{
+  "id": "F3131",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quelles sont les règles pour construire ou installer une clôture ?",
+  "theme": "Logement, Secteurs d'activité",
+  "description": "Pour clôturer votre terrain (grillage éléctrifié, palissade, mur, plantation...), vous devez respecter une distance et une hauteur, et parfois, déposer une DP.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-12-05",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F3131",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Autorisations d'urbanisme",
+    "Quelles sont les règles pour construire ou installer une clôture ?"
+  ],
+  "introduction": "Pour construire ou installer une clôture autour de votre propriété, en principe vous n’avez pas de formalité à accomplir. Cependant, vous devez respecter des règles d’implantation, de hauteur, et parfois d'urbanisme. En effet, dans certains cas, vous devez déposer en mairie une déclaration préalable (DP). Ces règles varient suivant le type de votre clôture (mur, clôture végétale, grillage...). Nous vous présentons la réglementation.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Tout propriétaire a le droit de clôturer son terrain, peu importe que celui-ci se situe en zone urbaine ou rurale. Avant d'installer votre clôture, il est recommandé de borner votre terrain pour connaître les limites de votre propriété.",
+        "Dans tous les cas, vous devez respecter le PLU de votre commune qui peut fixer des règles concernant la hauteur, la nature, l'aspect ou l'implantation de votre clôture par rapport aux propriétés voisines et au domaine public. Ces règles peuvent aussi être prévues par les usages locaux. Pour les connaître, vous devez contacter le service de l'urbanisme de votre mairie, ou le Basu pour Paris :",
+        "Mairie",
+        "Paris : Bureau accueil et service à l'usager (Basu)",
+        "[Attention] Vous devez aussi respecter les règles contenues dans le cahier des charges remis lors de l’acquisition si votre terrain se situe dans un lotissement et celles qui sont dans le règlement de copropriété si votre terrain se situe dans une copropriété.",
+        "Vous devez respecter certaines règles qui varient suivant le type de votre clôture :"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : article 640",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006429847"
+    },
+    {
+      "titre": "Code civil : article 647",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006429909"
+    },
+    {
+      "titre": "Code civil : articles 653 à 673",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006150120"
+    },
+    {
+      "titre": "Code civil : article 663",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006430068"
+    },
+    {
+      "titre": "Code de l'urbanisme : article L121-31",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031210502"
+    },
+    {
+      "titre": "Code général de la propriété des personnes publiques : article L2131-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031065981"
+    },
+    {
+      "titre": "Code de la voirie routière : articles L112-1 à L112-7",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006149494/"
+    },
+    {
+      "titre": "Code de l'environnement : article L372-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047087702"
+    },
+    {
+      "titre": "Code rural et de la pêche maritime : article D161-12",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006587655/"
+    },
+    {
+      "titre": "Code de l'urbanisme : article R*421-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025542764"
+    },
+    {
+      "titre": "Code de l’urbanisme : article R*421-12",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034355392"
+    },
+    {
+      "titre": "Réponse ministérielle du 18 mars 2021 relative à la pose d'une clôture électrique",
+      "url": "http://www.senat.fr/questions/base/2021/qSEQ210321457.html"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Assistance pour votre demande d'autorisation d'urbanisme",
+      "url": "https://demarches.service-public.gouv.fr/mademarche/DAUA/demarche",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Bureau accueil et service à l'usager (Basu) de Paris : guichet électronique unique",
+      "url": "https://teleservices.paris.fr/demarchesurbanisme/jsp/site/Portal.jsp?page=accueil",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Déclaration préalable constructions et travaux non soumis à permis de construire",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_16702.do",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Mairie",
+    "Paris : Bureau accueil et service à l'usager (Basu)",
+    "Conseil d'architecture, d'urbanisme et d'environnement (CAUE)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Guide des bonnes pratiques pour installer des clôtures électriques",
+      "url": "https://agriculture.gouv.fr/sites/minagri/files/documents/pdf/guideElectrifWEBopt-2.pdf"
+    }
+  ],
+  "slug": "quelles-sont-les-regles-pour-construire-ou-installer-une-cloture",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "autorisations-d-urbanisme",
+      "titre": "Autorisations d'urbanisme"
+    }
+  ]
+}

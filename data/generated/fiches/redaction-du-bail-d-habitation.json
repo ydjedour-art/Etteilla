@@ -1,0 +1,33 @@
+{
+  "id": "F35109",
+  "type_publication": "Recherche guidée",
+  "titre": "Rédaction du bail d'habitation",
+  "theme": "Logement",
+  "description": "Rédaction du bail d'habitation",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2026-08-10",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35109",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Location immobilière : bail d’habitation (contrat de location)",
+    "Rédaction du bail d'habitation"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "redaction-du-bail-d-habitation",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "location-immobiliere-bail-d-habitation-contrat-de-location",
+      "titre": "Location immobilière : bail d’habitation (contrat de location)"
+    }
+  ]
+}

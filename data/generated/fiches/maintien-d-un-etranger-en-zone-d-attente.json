@@ -1,0 +1,84 @@
+{
+  "id": "F11144",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Maintien d'un étranger en zone d'attente",
+  "theme": "Étranger - Europe",
+  "description": "Un étranger peut être placé en zone d'attente à son arrivée à la frontière pour un temps limité et dans certaines conditions.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-07-23",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F11144",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Entrée d'un étranger en France",
+    "Maintien d'un étranger en zone d'attente"
+  ],
+  "introduction": "Un étranger arrivant en France par bateau, train ou avion peut être placé en zone d'attente à la frontière dans 3 cas : s'il fait l'objet d'un refus d'entrée en France ou si l'embarquement vers le pays de destination finale lui a été refusé ou s'il demande l'asile à la frontière. La procédure de maintien en zone d'attente est encadrée juridiquement et limitée dans le temps (26 jours maximum). Comment se déroule la procédure et quels sont les droits dont bénéficie l'étranger ? Nous vous expliquons cette procédure.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles L341-1 à L341-4",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042771250/"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles L342-1 et suivants",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042771268/"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles L350-1 à 352-9",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042771348/"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles L343-9 à L343-11",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042771340/"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : article L342-19",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042771314/"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : article R341-2",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042800558/"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles R343-1 à R343-11",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042800632/"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles R342-2 à R342-9",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042800568/"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles R342-10 à R342-19",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042800586/"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles R343-12 à R343-17",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042800662/"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles R343-18 à R343-24",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042800676/"
+    },
+    {
+      "titre": "Arrêté du 28 février 1996 désignant les gares ferroviaires ouvertes au trafic international",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000558735/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Délégation du Haut Commissariat des Nations Unies pour les réfugiés (HCR)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "maintien-d-un-etranger-en-zone-d-attente",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "entree-d-un-etranger-en-france",
+      "titre": "Entrée d'un étranger en France"
+    }
+  ]
+}

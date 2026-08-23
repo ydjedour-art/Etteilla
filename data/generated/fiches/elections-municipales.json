@@ -1,0 +1,77 @@
+{
+  "id": "F1952",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Élections municipales",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Les électeurs français et européens élisent les conseillers municipaux. Les conseillers élisent le maire. Les règles diffèrent selon la taille de la commune.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-08",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1952",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Élections",
+    "Élections municipales"
+  ],
+  "introduction": "Les électeurs français et les électeurs européens d'un autre État membre de l'Union européenne, lorsqu'ils sont inscrits sur les listes électorales en France, élisent les conseillers municipaux (à Paris, il s'agit des conseillers de Paris). Les règles de l'élection sont différentes selon la taille de la commune (moins ou plus de 1 000 habitants). Nous vous expliquons.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code électoral : articles L260 à L262",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006164073/"
+    },
+    {
+      "titre": "Code électoral : articles L252 à L255-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006164070/"
+    },
+    {
+      "titre": "Code électoral : article L227",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006353530"
+    },
+    {
+      "titre": "Code général des collectivités territoriales : article L2121-2-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039779068"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Vérifier votre inscription électorale et votre bureau de vote",
+      "url": "https://situation.elections.interieur.gouv.fr/",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Commune de 1 000 habitants ou plus : mode de scrutin des élections municipales",
+      "url": "https://www.vie-publique.fr/fiches/20204-municipales-quel-mode-de-scrutin-dans-les-communes-de-1000-hab-et-plus"
+    },
+    {
+      "titre": "Commune de moins de 1 000 habitants : mode de scrutin des élections municipales",
+      "url": "https://www.vie-publique.fr/fiches/20203-municipales-quel-mode-de-scrutin-dans-les-communes-de-moins-de-1000-hab"
+    },
+    {
+      "titre": "Les conseillers communautaires",
+      "url": "https://www.collectivites-locales.gouv.fr/institutions/les-conseillers-communautaires"
+    },
+    {
+      "titre": "Conseillers de la Métropole de Lyon",
+      "url": "https://www.grandlyon.com/metropole/organisation-politique.html"
+    },
+    {
+      "titre": "Résultats des élections",
+      "url": "https://www.archives-resultats-elections.interieur.gouv.fr/"
+    }
+  ],
+  "slug": "elections-municipales",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "elections",
+      "titre": "Élections"
+    }
+  ]
+}

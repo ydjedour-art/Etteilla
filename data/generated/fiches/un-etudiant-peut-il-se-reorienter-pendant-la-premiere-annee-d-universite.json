@@ -1,0 +1,56 @@
+{
+  "id": "F31063",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Un étudiant peut-il se réorienter pendant la première année d'université ?",
+  "theme": "Famille - Scolarité",
+  "description": "Si vous êtes inscrit en 1ère année de licence et que vous constatez une erreur d'orientation, vous pouvez bénéficier d'une réorientation.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-05-19",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31063",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Inscription dans l'enseignement supérieur",
+    "Un étudiant peut-il se réorienter pendant la première année d'université ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Oui. Si vous êtes inscrit à l'université et que vous constatez que vous avez fait une erreur d'orientation, vous pouvez vous réorienter.",
+        "La réorientation permet d'être affecté dans une autre filière ou dans une autre université qui correspond davantage à votre projet.",
+        "En général, l'université vous permet de vous réorienter en fin de 1er semestre de la 1re année de licence.",
+        "Certaines universités proposent également des ateliers d'aide aux étudiants dans leur démarche de réorientation.",
+        "Vous devez, avant la fin du mois de décembre, vous adresser au secrétariat de votre université pour connaître la procédure de réorientation.",
+        "Si vous souhaitez vous réorienter plus tard dans l'année, vous pouvez également utiliser la procédure Parcoursup. Elle vous permet de reprendre une nouvelle formation à la prochaine rentrée."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [
+    "Établissement d'enseignement supérieur"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "1jeune1solution : découvrez toutes les solutions pour votre avenir",
+      "url": "https://www.1jeune1solution.gouv.fr/"
+    },
+    {
+      "titre": "Savoir rebondir, se réorienter",
+      "url": "https://www.onisep.fr/formation/apres-le-bac-les-etudes-superieures/savoir-rebondir-se-reorienter"
+    }
+  ],
+  "slug": "un-etudiant-peut-il-se-reorienter-pendant-la-premiere-annee-d-universite",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "inscription-dans-l-enseignement-superieur",
+      "titre": "Inscription dans l'enseignement supérieur"
+    }
+  ]
+}

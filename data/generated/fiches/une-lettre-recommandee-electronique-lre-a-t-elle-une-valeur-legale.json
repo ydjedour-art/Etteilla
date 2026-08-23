@@ -1,0 +1,155 @@
+{
+  "id": "F31463",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Une lettre recommandée électronique (LRE) a-t-elle une valeur légale ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Oui, la lettre recommandée électronique (LRE) a exactement les mêmes effets juridiques que la lettre recommandée papier.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-09-10",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31463",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Information et protection du consommateur",
+    "Une lettre recommandée électronique (LRE) a-t-elle une valeur légale ?"
+  ],
+  "introduction": "La lettre recommandée électronique a la même valeur juridique que celle d'une lettre recommandée au format papier, dès lors qu'elle répond à certaines conditions. Vous souhaitez savoir comment procéder pour envoyer ou réceptionner une LRE, savoir qui l'achemine et si vous pouvez la refuser ? Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Qu'est-ce qu'une lettre recommandée électronique ?",
+      "contenu": [
+        "Une lettre recommandée au format électronique est la version dématérialisée d'un recommandé au format papier."
+      ]
+    },
+    {
+      "titre": "Dans quels cas peut-on utiliser une lettre recommandée électronique ?",
+      "contenu": [
+        "Une LRE peut être utilisée dans les mêmes situations que celle en version papier.",
+        "Par exemple :",
+        "• Le recommandé est obligatoire pour la notification à un salarié d'une sanction disciplinaire, la résiliation d'un bail d'habitation, la demande de renouvellement d'un bail commercial.",
+        "• Il est facultatif, mais conseillé, pour une lettre de relance pour un loyer impayé, une pension alimentaire non versée, une promesse d'embauche."
+      ]
+    },
+    {
+      "titre": "Qui peut utiliser une lettre recommandée électronique ?",
+      "contenu": [
+        "• Un particulier",
+        "• Un professionnel (tel qu'une entreprise par exemple)"
+      ]
+    },
+    {
+      "titre": "Quels prestataires peuvent acheminer une lettre recommandée électronique ?",
+      "contenu": [
+        "Seuls les prestataires de service de confiance qualifiés peuvent fournir le service d'envoi recommandé électronique.",
+        "Pour trouver un prestataire, vous pouvez consulter la liste publiée sur le site de l'Anssi, à la rubrique \"Service d'envoi recommandé électronique\"."
+      ]
+    },
+    {
+      "titre": "Comment procéder pour envoyer une lettre recommandée électronique ?",
+      "contenu": [
+        "En tant qu'expéditeur du recommandé, vous devez suivre les étapes suivantes :",
+        "• Choisir un opérateur sur une plate-forme en ligne qui se charge de l'acheminement",
+        "• Déposer la lettre sur cette plate-forme",
+        "• Remplir un formulaire et payer l'acheminement via un site sécurisé.",
+        "Pour envoyer une LRE, vous devez prouver votre identité auprès du prestataire que vous avez choisi et vous authentifier auprès de lui.",
+        "L’authentification peut se faire de différentes façons :",
+        "• par présentation d’une pièce d’identité",
+        "• via un certificat de signature électronique qualifié (pour une personne physique)",
+        "• ou via un cachet électronique qualifié (pour une personne morale).",
+        "L'opérateur en charge de l'acheminement vous délivre une preuve du dépôt de votre lettre via un mail. Vous devez conserver cette preuve pendant au moins 1 an.",
+        "[À savoir] Le ministère en charge de l'économie publie un guide pratique de la LRE."
+      ]
+    },
+    {
+      "titre": "À quelles conditions doit répondre une lettre recommandée électronique pour être juridiquement valable ?",
+      "contenu": [
+        "Pour être juridiquement valable, l'envoi d'une LRE doit remplir 3 conditions :",
+        "• Le prestataire chargé de l'acheminement se porte responsable de la bonne identité du destinataire et de celle de l'expéditeur",
+        "• Les dates d'expédition et de réception de la lettre doivent être garanties et vérifiables",
+        "• Si le destinataire n'est pas un professionnel, son accord préalable est nécessaire (en cas de refus, l'expéditeur doit envoyer le recommandé au format papier)."
+      ]
+    },
+    {
+      "titre": "Est-ce qu'un particulier peut refuser une lettre recommandée électronique ?",
+      "contenu": [
+        "Avant l'envoi de la LRE, l'émetteur doit informer le destinataire par mail qu'un recommandé électronique va lui être envoyé. Il doit également prévenir le destinataire qu'il peut accepter ou refuser le recommandé, dans un délai de 15 jours à partir du lendemain de cette information.",
+        "3 hypothèses sont possibles :",
+        "• Le destinataire accepte de recevoir la LRE : l'opérateur la lui envoie. Le destinataire est alors invité à se connecter sur la plate-forme pour prendre connaissance de son recommandé. C'est uniquement à ce moment qu'il est informé de l'identité de l'expéditeur.",
+        "• Le destinataire refuse de recevoir la LRE : l'identité de l'expéditeur et le contenu de la LRE ne lui sont pas dévoilés. Mais le destinataire peut également, à ce moment-là, refuser le format électronique et exiger un format papier.",
+        "• Le destinataire ignore la LRE : dans ce cas, le prestataire est informé passé le délai des 15 jours à compter du lendemain de la 1re notification.",
+        "Pendant ce délai, certains prestataires effectuent des relances automatiques (jusqu’à 4) afin de maximiser la probabilité de prise de connaissance.",
+        "[Attention] Le fait pour le destinataire d'une LRE de la refuser ou de l'ignorer n’empêchera pas de considérer que cette lettre lui a été régulièrement notifiée. Par exemple : la notification d'une LRE est le point de départ d'un délai de rétractation, que cette lettre ait été acceptée ou refusée.",
+        "Si l'expéditeur demande un accusé de réception, le prestataire le prévient de l'acceptation ou du refus du destinataire. Il met à sa disposition une preuve du refus, de la non-réclamation ou de l'acceptation, au plus tard le lendemain du délai de 15 jours. Cette preuve est un mail qui précise la date et l'heure du refus ou de l'acceptation.",
+        "Le prestataire conserve ce mail pendant au moins 7 ans.",
+        "L'expéditeur a accès à ces informations pendant une durée de 7 ans."
+      ]
+    },
+    {
+      "titre": "Est-ce qu'un professionnel peut refuser une lettre recommandée électronique ?",
+      "contenu": [
+        "Avant l'envoi de la LRE, le prestataire n'a pas à informer le professionnel par mail qu'un recommandé électronique va lui être envoyé. À la différence d'un particulier, le professionnel n'a pas à donner son accord pour recevoir une LRE.",
+        "Par contre, une fois la notification de la LRE reçue, il a 3 possibilités (au même titre qu'un particulier) : accepter, refuser ou ignorer la LRE."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Règlement d'exécution (UE) 2015/1502 de la commission du 8 septembre 2015",
+      "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=CELEX:32015R1502&from=SV"
+    },
+    {
+      "titre": "Règlement (UE) No 910/2014 du Parlement européen et du conseil du 23 juillet 2014 dit eIDAS",
+      "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=CELEX:32014R0910&from=hr"
+    },
+    {
+      "titre": "Code des postes et des communications électroniques : articles R53-1 à R53-4",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070987/LEGISCTA000036899750/#LEGISCTA000036899755"
+    },
+    {
+      "titre": "Code des postes et des communications électroniques : articles L100 à L103",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070987/LEGISCTA000033207395/"
+    },
+    {
+      "titre": "Décret n°2020-834 du 2 juillet 2020 pris pour l'application de l'ordonnance n°2019-1101 du 30 octobre 2019 sur le réforme du droit de la copropriété : article 48",
+      "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000042075313"
+    },
+    {
+      "titre": "Décret n°2018-347 du 9 mai 2018 relatif à la lettre recommandée électronique",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000036896852/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Service consommateur de La Poste",
+    "0809 540 550 DGCCRF - RéponseConso"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Guide pratique de la LRE (lettre recommandée électronique)",
+      "url": "https://www.entreprises.gouv.fr/la-dge/publications/la-lettre-recommandee-electronique-lre-guide-pratique"
+    },
+    {
+      "titre": "La lettre recommandée électronique (LRE), source d’efficacité et d’économies pour les TPE PME",
+      "url": "https://www.francenum.gouv.fr/guides-et-conseils/pilotage-de-lentreprise/dematerialisation-des-documents/la-lettre-recommandee?utm_source.com"
+    },
+    {
+      "titre": "Règlement eIDAS du 23 juillet 2014",
+      "url": "https://cyber.gouv.fr/reglementation/reglementation-identite-confiance-numerique/securite-echanges-voie-electronique/reglement-eidas/reglement-eidas-n9102014/"
+    },
+    {
+      "titre": "Liste des produits et services qualifiés",
+      "url": "https://cyber.gouv.fr/decouvrir-les-solutions-qualifiees"
+    }
+  ],
+  "slug": "une-lettre-recommandee-electronique-lre-a-t-elle-une-valeur-legale",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "information-et-protection-du-consommateur",
+      "titre": "Information et protection du consommateur"
+    }
+  ]
+}

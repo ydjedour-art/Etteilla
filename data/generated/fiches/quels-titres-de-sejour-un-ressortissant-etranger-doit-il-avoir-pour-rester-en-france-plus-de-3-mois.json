@@ -1,0 +1,80 @@
+{
+  "id": "F39",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quels titres de séjour un ressortissant étranger doit-il avoir pour rester en France plus de 3 mois ?",
+  "theme": "Étranger - Europe",
+  "description": "Un étranger non européen qui souhaite séjourner en France plus de 3 mois doit détenir un visa de long séjour ou un titre de séjour.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-07-08",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F39",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Titres, cartes de séjour et documents de circulation pour étranger en France",
+    "Quels titres de séjour un ressortissant étranger doit-il avoir pour rester en France plus de 3 mois ?"
+  ],
+  "introduction": "Si vous êtes ressortissant étranger majeur et souhaitez séjourner en France pour une durée de plus de 3 mois, vous devez détenir obligatoirement un visa de long séjour ou un titre de séjour. Toutefois, si vous êtes ressortissant d'un pays de l'Espace économique européen ou ou êtes suisse, cette obligation ne vous concerne pas.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Citoyen européen ou suisse",
+        "Si vous êtes citoyen d'un pays de l'Espace économique européen ou suisse, vous n'êtes pas obligé de détenir un titre de séjour. Vous pouvez toutefois en obtenir un si vous en faites la demande.",
+        "Les membres de votre famille qui vous accompagnent et qui sont de nationalité étrangère autre que celle d'un pays de l'EEE ou suisse doivent détenir l'une des cartes suivantes :",
+        "• Membre de la famille d'un citoyen de l'Union/EEE/Suisse",
+        "• Séjour permanent - Toutes activités professionnelles.",
+        "Algérien",
+        "Vous devez détenir un des titres de séjour suivants :",
+        "• Visa de long séjour",
+        "• Certificat de résidence d'1 an",
+        "• Certificat de résidence de 10 ans",
+        "• Certificat de résidence retraité.",
+        "Autre nationalité",
+        "Vous devez détenir notamment un des documents de séjour suivants :",
+        "• Visa de long séjour",
+        "• Visa de long séjour valant titre de séjour (VLS-TS)",
+        "• Autorisation provisoire de séjour (APS) : parent d'enfant malade, mission de volontariat, protection temporaire",
+        "• Carte de séjour temporaire ou pluriannuelle : vie privée et familiale, salarié/travailleur temporaire, étudiant, stagiaire, stagiaire aide familial \"au pair\", visiteur, entrepreneur/profession libérale",
+        "• Carte de séjour pluriannuelle : talent, travailleur saisonnier, salarié détaché ICT",
+        "• Carte de résident : Carte de résident, Carte de résident longue durée UE, Carte de résident permanent",
+        "• Carte de séjour retraité."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : article L233-1 à L233-6",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042770980/"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles L411-1 à L411-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042771448/"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles R233-1 à R233-18",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042800242/"
+    },
+    {
+      "titre": "Décret n°2002-1500 du 20 décembre 2002 relatif à la circulation, à l'emploi et au séjour en France des ressortissants algériens et de leurs familles",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000599731"
+    },
+    {
+      "titre": "Circulaire du 10 septembre 2010 sur le droit de séjour des citoyens européens et suisses et les membres de leur famille",
+      "url": "https://www.legifrance.gouv.fr/download/pdf/circ?id=32884"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "quels-titres-de-sejour-un-ressortissant-etranger-doit-il-avoir-pour-rester-en-france-plus-de-3-mois",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "titres-cartes-de-sejour-et-documents-de-circulation-pour-etranger-en-france",
+      "titre": "Titres, cartes de séjour et documents de circulation pour étranger en France"
+    }
+  ]
+}

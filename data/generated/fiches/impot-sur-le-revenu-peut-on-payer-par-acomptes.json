@@ -1,0 +1,110 @@
+{
+  "id": "F3120",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Impôt sur le revenu - Peut-on payer par acomptes ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "L'acompte concerne certains revenus comme les pensions alimentaires, les revenus fonciers et ceux perçus par les travailleurs indépendants.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-01-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F3120",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Impôt sur le revenu : calcul et paiement",
+    "Impôt sur le revenu - Peut-on payer par acomptes ?"
+  ],
+  "introduction": "Depuis la mise en place du prélèvement à la source, l'acompte concerne uniquement certains revenus comme les pensions alimentaires ou les revenus fonciers. C'est aussi le cas pour les revenus perçus directement par les travailleurs indépendants. Nous vous indiquons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Des acomptes sont prélevés directement par l’administration fiscale sur les revenus que vous percevez directement.",
+        "Ce sont par exemple les revenus suivants :",
+        "• Revenus fonciers",
+        "• Pensions alimentaires",
+        "• Rentes viagères à titre onéreux",
+        "• Revenus des travailleurs indépendants.",
+        "Les acomptes sont prélevés chaque mois.",
+        "Vous pouvez aussi opter pour un prélèvement trimestriel depuis votre espace personnel du site impots.gouv.fr :",
+        "Impôts : accéder à votre espace Finances publiques",
+        "Connexion avec l’identifiant fiscal du contribuable ou via FranceConnect. Ensuite, double authentification avec réception d’un code à 6 chiffres par mail.",
+        "[À noter] Cette option vaut pour l'année entière. Elle est reconduite chaque année en l'absence de modification de votre part.",
+        "Les acomptes sont prélevés directement sur votre compte bancaire à partir de l'une des dates suivantes :",
+        "• 15 janvier si vous avez choisi le prélèvement mensuel",
+        "• 15 février si vous avez choisi le prélèvement trimestriel.",
+        "Les acomptes sont prélevés sur le compte bancaire que vous avez communiqué à l’administration fiscale.",
+        "[À noter] Vous devez continuer à faire votre déclaration de revenus chaque année.",
+        "Le calcul des acomptes dépend de votre situation :",
+        "Cas général",
+        "Les acomptes sont calculés par les impôts automatiquement en fonction de la dernière situation connue par leurs services fiscaux.",
+        "Agriculteurs",
+        "Vous avez choisi l'imposition sur la moyenne triennale",
+        "L'acompte correspond au douzième de la moyenne des 3 derniers exercices.",
+        "Autres cas",
+        "Les acomptes sont calculés automatiquement par les services fiscaux, en fonction de la dernière situation dont ils ont connaissance.",
+        "Si votre situation change, vous pouvez demander à gérer votre prélèvement sur votre espace personnel du site impots.gouv.fr.",
+        "Impôts : accéder à votre espace Finances publiques",
+        "Connexion avec l’identifiant fiscal du contribuable ou via FranceConnect. Ensuite, double authentification avec réception d’un code à 6 chiffres par mail."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Bofip-Impôts n°BOI-REC-PART-10-10 relatif aux impositions établies par voie de rôle (impôt sur le revenu, impôts locaux)",
+      "url": "https://bofip.impots.gouv.fr/bofip/1756-PGP.html/identifiant=BOI-REC-PART-10-10-20200630"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Impôts : accéder à votre espace Finances publiques",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Estimer le montant de son impôt sur les revenus de 2025 (déclaration de 2026)",
+      "url": "https://simulateur-ir-ifi.impots.gouv.fr/calcul_impot/2026/",
+      "type": "simulateurNG"
+    }
+  ],
+  "contacts": [
+    "Service d'information des impôts",
+    "Service en charge des impôts (trésorerie, service des impôts...)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Site des impôts",
+      "url": "https://www.impots.gouv.fr/portail/"
+    },
+    {
+      "titre": "Brochure pratique 2026 - Déclaration des revenus de 2025",
+      "url": "https://www.impots.gouv.fr/www2/fichiers/documentation/brochure/ir_2026/accueil.htm"
+    },
+    {
+      "titre": "Calendrier fiscal des particuliers",
+      "url": "https://www.impots.gouv.fr/portail/particulier/calendrier-fiscal"
+    },
+    {
+      "titre": "Les acomptes de prélèvement à la source",
+      "url": "https://www.impots.gouv.fr/particulier/les-acomptes-de-prelevement-la-source"
+    },
+    {
+      "titre": "Paiement dématérialisé de l'impôt : quel service choisir et pour quels avantages ?",
+      "url": "https://www.economie.gouv.fr/particuliers/impots-paiement-dematerialise#le-paiement-en-ligne_1"
+    },
+    {
+      "titre": "Signaler aux impôts un changement de situation",
+      "url": "https://www.impots.gouv.fr/portail/node/4489"
+    }
+  ],
+  "slug": "impot-sur-le-revenu-peut-on-payer-par-acomptes",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "impot-sur-le-revenu-calcul-et-paiement",
+      "titre": "Impôt sur le revenu : calcul et paiement"
+    }
+  ]
+}

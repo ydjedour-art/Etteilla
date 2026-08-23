@@ -1,0 +1,104 @@
+{
+  "id": "F2149",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Assurance auto : remplir le \"constat amiable\" après un accident",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Le constat amiable d’accident est un document essentiel pour permettre aux assureurs de déterminer les responsabilités lors d’un accident de la circulation.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-04-22",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2149",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Assurance automobile (véhicule)",
+    "Assurance auto : remplir le \"constat amiable\" après un accident"
+  ],
+  "introduction": "Vous avez eu un accident de la circulation avec un ou plusieurs autres véhicules ? Vous devez remplir un constat amiable d'accident. Cela permettra aux assureurs de déterminer plus facilement qui est responsable de l'accident et de vous indemniser. Comment procéder ? Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Le constat amiable peut être rédigé via l'application e-constat auto (version numérique) ou sur support papier, selon le lieu et les circonstances de l'accident.",
+        "[Attention] Le e-constat ne peut pas être utilisé dans les cas suivants : • Accident à l’étranger ou hors territoire français • Plus de 2 véhicules impliqués • Un piéton, un cycliste ou une trottinette non assurée est concerné • Présence de blessé même léger • L’un des véhicules est immatriculé hors de France • Un des conducteurs refuse de coopérer ou n’a pas de smartphone • Zone sans réseau mobile."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code des assurances : articles L211-1 à L211-2",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006174242"
+    },
+    {
+      "titre": "Code des assurances : articles L211-4 à L211-7",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006174247"
+    },
+    {
+      "titre": "Code des assurances : articles L211-8 à L211-25",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006174255"
+    },
+    {
+      "titre": "Code des assurances : articles L211-26 à L211-27",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006174271"
+    },
+    {
+      "titre": "Code des assurances : articles L113-1 à L113-17",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006157200"
+    },
+    {
+      "titre": "Code des assurances : articles L421-1 à L421-7",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006174871"
+    },
+    {
+      "titre": "Code des assurances : articles L421-11 à L421-15",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006174893"
+    },
+    {
+      "titre": "Code des assurances : articles R*421-64 à R421-71",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006176413"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "E-constat auto",
+      "url": "https://www.franceassureurs.fr/lassurance-protege-finance-et-emploie/lassurance-protege/les-demarches-en-cas-de-sinistre/e-constat-auto-application-mobile-constat-amiable-assureurs/",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "Info Banque - Assurance",
+    "Fonds de garantie des assurances obligatoires de dommages (FGAO)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "E-constat automobile",
+      "url": "http://www.e-constat-auto.fr/"
+    },
+    {
+      "titre": "Constat amiable automobile",
+      "url": "https://www.franceassureurs.fr/assurance-protege-finance-et-emploie/assurance-protege/demarches-en-cas-de-sinistre/accident-de-la-route-constat-amiable-demarches-et-indemnisation"
+    },
+    {
+      "titre": "Nos adhérents France Assureurs",
+      "url": "https://www.franceassureurs.fr/qui-sommes-nous/nos-adherents/"
+    },
+    {
+      "titre": "Assurance automobile",
+      "url": "https://www.abe-infoservice.fr/assurance/assurance-automobile"
+    },
+    {
+      "titre": "Accident automobile en Europe : comment réagir ?",
+      "url": "http://www.europe-consommateurs.eu/fr/publications/brochures/?download=Accident_en_Europe_-FINAL_web_01.pdf&did=156"
+    }
+  ],
+  "slug": "assurance-auto-remplir-le-constat-amiable-apres-un-accident",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "assurance-automobile-vehicule",
+      "titre": "Assurance automobile (véhicule)"
+    }
+  ]
+}

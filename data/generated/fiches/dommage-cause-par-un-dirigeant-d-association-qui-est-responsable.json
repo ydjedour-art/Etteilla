@@ -1,0 +1,88 @@
+{
+  "id": "F1130",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Dommage causé par un dirigeant d'association : qui est responsable ?",
+  "theme": "Associations, fondations et fonds de dotation",
+  "description": "Si le dirigeant d'une association cause un dommage à un membre ou à un tiers, c'est en principe l'association qui est civilement responsable.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-08-26",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1130",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Associations, fondations et fonds de dotation",
+    "Assurance et responsabilité d'une association",
+    "Dommage causé par un dirigeant d'association : qui est responsable ?"
+  ],
+  "introduction": "En principe, c’est l’association qui assume la responsabilité des actes accomplis par ses dirigeants dans le cadre de leurs fonctions. Toutefois, un dirigeant peut engager sa responsabilité personnelle en cas de faute grave, d’agissement en dehors de ses attributions, ou s’il ne respecte pas certaines obligations légales, telles que la souscription à une assurance obligatoire. Selon la gravité et la nature des faits reprochés, sa responsabilité peut être de nature civile ou pénale. Nous vous donnons les informations utiles.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Si le dirigeant d'une association cause un dommage par son fait et dans le cadre de ses fonctions à un tiers (personne extérieure à l'association), c'est en principe l'association en tant que personne morale qui est civilement responsable.",
+        "Il en est de même si le dirigeant cause un dommage à un membre de l'association. C'est l'association qui indemnise la victime des dommages qu'elle a subi.",
+        "Toutefois, la responsabilité personnelle du dirigeant peut être recherchée s'il est établi qu'il n'a pas mentionné agir au nom et pour le compte de l'association ou qu'il a commis une faute détachable de ses fonctions.",
+        "Une faute détachable des fonctions est une faute commise intentionnellement et d'une particulière gravité incompatible avec l'exercice normal des fonctions de dirigeant. Par exemple, une association qui ne souscrit pas les assurances obligatoires liées à son activité.",
+        "La responsabilité personnelle du dirigeant peut également être recherchée s'il agit hors de ses attributions ou en dehors de de l'objet social de l'association. Par exemple, une association de loisirs qui va faire des investissements immobiliers.",
+        "L'association, en tant que personne morale, peut être pénalement responsable si son dirigeant commet pour son compte, un crime ou un délit.",
+        "La responsabilité pénale du dirigeant, en tant qu'auteur ou complice des faits répréhensibles, peut aussi être engagée.",
+        "Ainsi, si l'accident a pour cause un délit ou un crime, l'association et/ou son dirigeant peuvent être pénalement poursuivis. Par exemple, le dirigeant a commis une infraction au code de la route en utilisant la voiture de l'association.",
+        "Dans ce cas, l'association sera civilement responsable et/ou pénalement et le dirigeant sera également pénalement poursuivi en tant qu'auteur des faits.",
+        "[À savoir] Les associations peuvent avoir plus ou moins d'obligations en fonction de leur objet (exemple : les associations sportives ont une obligation de sécurité vis-à-vis de leur adhérent). À ce titre, elles doivent souscrire une assurance couvrant leur responsabilité civile.",
+        "Responsabilité civile du dirigeant ou de l'association",
+        "En principe, c’est l’association, en tant que personne morale, qui est responsable des dommages causés par ses dirigeants dans l’exercice de leurs fonctions.",
+        "[Exemple] • Un participant se blesse lors d’une activité organisée par l’association. • Une erreur de gestion engage la responsabilité contractuelle de l’association. Tel peut être le cas si l’association oublie de renouveler le contrat d’assurance obligatoire pour couvrir ses activités. Si un sinistre survient pendant cette période (par exemple, un participant se blesse lors d’une activité), l’association peut être tenue responsable, car cette absence d’assurance résulte d’une erreur de gestion administrative.",
+        "Dans ces cas, c’est l’association qui indemnise la victime.",
+        "Cependant, la responsabilité civile personnelle du dirigeant peut être engagée dans l'un des cas suivants :",
+        "• Il n’a pas mentionné agir au nom de l’association,",
+        "• Il a agi hors de ses attributions ou en dehors de l’objet social,",
+        "• Il a commis une faute détachable de ses fonctions (intentionnelle, particulièrement grave et incompatible avec ses fonctions).",
+        "[Exemple] • Un dirigeant engage l’association dans un contrat de location de salle très coûteux, sans vérifier la capacité financière de l’association, ce qui la conduit à un endettement important et à l’impossibilité de payer les autres charges. • Une association de loisirs réalise des investissements immobiliers sans lien avec son objet statutaire.",
+        "[À noter] Le dirigeant doit aussi veiller au respect des obligations propres à l’activité de l’association (ex. : sécurité dans les associations sportives). Il lui revient notamment de s’assurer que l’association dispose d’une assurance responsabilité civile adaptée.",
+        "Responsabilité pénale du dirigeant ou de l'association",
+        "L’association peut être pénalement responsable si le dirigeant commet une infraction pour son compte (crime ou délit).",
+        "Mais la responsabilité pénale du dirigeant peut également être engagée à titre personnel, en tant qu’auteur ou complice des faits.",
+        "[Exemple] Le dirigeant cause un accident de la route avec un véhicule de l’association après avoir enfreint le code de la route.",
+        "Dans ce cas, l’association peut être pénalement poursuivie et le dirigeant peut également être poursuivi personnellement."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : article 1240",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571"
+    },
+    {
+      "titre": "Code civil : article 1242",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041559/"
+    },
+    {
+      "titre": "Code du sport : articles L321-1 à L321-9",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006151574"
+    },
+    {
+      "titre": "Code des assurances : articles L211-1 à L211-2",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006174242"
+    },
+    {
+      "titre": "Code pénal : articles 121-1 à L121-7",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006149817"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Point ressource à la vie associative",
+    "Maison de justice et du droit"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "dommage-cause-par-un-dirigeant-d-association-qui-est-responsable",
+  "path": [
+    {
+      "slug": "associations-fondations-et-fonds-de-dotation",
+      "titre": "Associations, fondations et fonds de dotation"
+    },
+    {
+      "slug": "assurance-et-responsabilite-d-une-association",
+      "titre": "Assurance et responsabilité d'une association"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "F31329",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Doit-on assurer une voiture en leasing (ou crédit-bail ou location avec option d'achat) ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "il est obligatoire d'assurer une voiture en leasing (LOA, LLD ou crédit-bail) au minimum avec une garantie responsabilité civile.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-05-15",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31329",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Assurance automobile (véhicule)",
+    "Doit-on assurer une voiture en leasing (ou crédit-bail ou location avec option d'achat) ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Si vous prenez une voiture en leasing, crédit-bail ou location avec option d'achat, vous devez obligatoirement l'assurer au minimum avec la garantie responsabilité civile.",
+        "En tant que conducteur de la voiture, vous devez être en mesure de justifier, en cas de contrôle routier, que le véhicule est bien assuré.",
+        "Cette garantie ne couvre pas les dommages matériels au véhicule et les blessures que vous pourriez subir.",
+        "Il peut donc être utile, pour éviter de faire face à des frais importants en cas de sinistre, de souscrire des garanties complémentaires.",
+        "Vous pouvez aussi souscrire une assurance spécifique au leasing. Elle permet de prendre en charge, en cas de destruction ou de vol du véhicule, la différence entre la valeur vénale et la valeur à neuf du véhicule.",
+        "[Attention] Dans certains cas, le prêteur (c'est-à-dire l'entreprise qui vous loue le véhicule) peut vous imposer d'assurer le véhicule avec des garanties complémentaires (par exemple, assurance tout risque ou garantie perte financière) en plus de la garantie responsabilité civile. Ces obligations sont souvent mentionnées dans le contrat de location."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la route : articles L324-1 et L324-2",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006159534"
+    },
+    {
+      "titre": "Code des assurances : articles L211-26 à L211-27",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006174271"
+    },
+    {
+      "titre": "Arrêté du 17 mars 2015 relatif à l'information des consommateurs et la publicité des prix des prestations de location de véhicules",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000030375910/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Info Banque - Assurance"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "doit-on-assurer-une-voiture-en-leasing-ou-credit-bail-ou-location-avec-option-d-achat",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "assurance-automobile-vehicule",
+      "titre": "Assurance automobile (véhicule)"
+    }
+  ]
+}

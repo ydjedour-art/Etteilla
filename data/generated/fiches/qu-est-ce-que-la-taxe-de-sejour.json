@@ -1,0 +1,101 @@
+{
+  "id": "F2048",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Qu'est-ce que la taxe de séjour ?",
+  "theme": "Loisirs - Sports - Culture",
+  "description": "Certaines communes peuvent demander aux vacanciers séjournant sur leur territoire de payer une taxe de séjour.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2021-06-02",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2048",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Loisirs - Sports - Culture",
+    "Meublé de tourisme",
+    "Qu'est-ce que la taxe de séjour ?"
+  ],
+  "introduction": "Certaines communes peuvent demander aux vacanciers séjournant sur leur territoire de payer une taxe de séjour.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Comment connaître le montant de la taxe de séjour ?",
+        "La taxe de séjour est due par personne et par nuit. Son montant varie :",
+        "• selon le type d'hébergement (hôtel, meublé de tourisme, camping, etc.)",
+        "• et selon que l'hébergement est ou non classé.",
+        "Pour connaître le montant de la taxe de séjour à payer, il est possible de consulter ce téléservice :",
+        "Tarifs de la taxe de séjour par commune",
+        "Par ailleurs, le montant de la taxe doit être affiché chez le logeur, l'hôtelier ou le propriétaire du logement et figurer sur la facture remise au vacancier",
+        "Il est également consultable en la mairie ou à l'office du tourisme concerné.",
+        "Qui doit payer la taxe de séjour ?",
+        "La taxe de séjour doit être payée par le vacancier qui loge dans l'un des hébergements suivants :",
+        "• Palace",
+        "• Hôtel de tourisme",
+        "• Résidence de tourisme",
+        "• Meublé de tourisme ou location de vacances entre particuliers (dont chambre chez l'habitant)",
+        "• Chambre d'hôtes",
+        "• Village de vacances",
+        "• Hébergement de plein air (camping, caravanage, aires de camping-cars et parcs de stationnement touristique)",
+        "• Port de plaisance",
+        "Le vacancier doit payer la taxe de séjour :",
+        "• au logeur, à l'hôtelier ou au propriétaire",
+        "• ou au professionnel qui assure le service de réservation par internet pour le compte du logeur, de l'hôtelier, du propriétaire.",
+        "Le montant ainsi perçu est ensuite reversé à la commune.",
+        "Certaines personnes sont exonérées :",
+        "• Enfant de moins de 18 ans",
+        "• Titulaire d'un contrat de travail saisonnier employé dans la commune",
+        "• Bénéficiaire d'un hébergement d'urgence ou d'un relogement temporaire",
+        "• Personne occupant des locaux dont le loyer est inférieur à un montant déterminé par le conseil municipal",
+        "[À noter] si vous pouvez prouver être domicilié sur la commune, vous n'avez pas à payer la taxe de séjour sur cette commune, même si vous avez une résidence dans une autre commune.",
+        "Pour connaître les règles applicables à votre lieu de séjour, il est possible de contacter la mairie :",
+        "Mairie"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général des collectivités territoriales : articles L2333-26 à L2333-47",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070633/LEGISCTA000006192283/#LEGISCTA000006192283"
+    },
+    {
+      "titre": "Code général des collectivités territoriales : articles L2333-29 à L2333-31",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006197550"
+    },
+    {
+      "titre": "Code général des collectivités territoriales : articles R2333-43 à R2333-57",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070633/LEGISCTA000006192688/#LEGISCTA000030976045"
+    },
+    {
+      "titre": "Code général des collectivités territoriales : article L5211-21",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042913402/"
+    },
+    {
+      "titre": "Code général des collectivités territoriales : article R5211-6",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030976130"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Tarifs de la taxe de séjour par commune",
+      "url": "http://taxesejour.impots.gouv.fr",
+      "type": "Outil de recherche"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Taxe de séjour",
+      "url": "https://www.collectivites-locales.gouv.fr/finances-locales/taxe-de-sejour"
+    }
+  ],
+  "slug": "qu-est-ce-que-la-taxe-de-sejour",
+  "path": [
+    {
+      "slug": "loisirs-sports-culture",
+      "titre": "Loisirs - Sports - Culture"
+    },
+    {
+      "slug": "meuble-de-tourisme",
+      "titre": "Meublé de tourisme"
+    }
+  ]
+}

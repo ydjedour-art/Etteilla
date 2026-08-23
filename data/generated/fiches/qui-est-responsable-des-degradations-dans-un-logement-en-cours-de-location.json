@@ -1,0 +1,104 @@
+{
+  "id": "F21105",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Qui est responsable des dégradations dans un logement en cours de location ?",
+  "theme": "Logement",
+  "description": "Le responsable des dégradations dans un logement en cours varie selon les causes à l'origine de ces dégradations.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-05-21",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F21105",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Bail d’habitation : obligations du locataire",
+    "Qui est responsable des dégradations dans un logement en cours de location ?"
+  ],
+  "introduction": "Il s'agit soit du locataire, soit du propriétaire. Cela dépend de la cause de la dégradation. Il peut s'agir d'une des causes suivantes : la négligence ou le manque d'entretien du logement, la vétusté ou l'usure naturelle, un cas de force majeure, un cambriolage. Nous vous expliquons.",
+  "chapitres": [
+    {
+      "titre": "Négligence et manque d'entretien du logement",
+      "contenu": [
+        "Exemples de détériorations",
+        "La négligence ou le manque d'entretien du logement peuvent notamment être à l'origine des détériorations suivantes :",
+        "• Trou ou tache sur les murs",
+        "• Porte enfoncée",
+        "• Moquette brûlée",
+        "• Parquet abîmé.",
+        "Responsabilité",
+        "Les détériorations causées par le locataire, en raison de sa négligence ou d'un manque d'entretien du logement, sont à sa charge.",
+        "En effet, le locataire doit faire les travaux et réparations locatives durant le bail.",
+        "Le locataire est également responsable des détériorations causées durant le bail par au moins l'une des personnes suivantes :",
+        "• Personne qui réside habituellement avec lui dans le logement",
+        "• Personne qu'il héberge ou invite",
+        "• Personne qui intervient ponctuellement à sa demande (par exemple, un artisan ou un autre professionnel mandaté pour réaliser des travaux)",
+        "• Sous-locataire.",
+        "Pour ne pas être considéré comme responsable, le locataire doit démontrer par tout moyen qu'il n'est pas responsable des détériorations (c'est le cas, par exemple, lorsqu'une grosse réparation revenant au propriétaire est à l'origine des détériorations).",
+        "[À savoir] Le locataire doit souscrire une assurance habitation qui couvre au moins les risques locatifs, c'est-à-dire les dommages causés au logement par un dégât des eaux, une explosion, ou un incendie."
+      ]
+    },
+    {
+      "titre": "Vétusté (ou usure naturelle)",
+      "contenu": [
+        "Exemples de dommages par vétusté",
+        "La vétusté correspond à une usure naturelle due à un usage normal et prolongé du logement, comme par exemple :",
+        "• Peinture dont la couleur a passé",
+        "• Revêtement de sols usés.",
+        "Responsabilité",
+        "Les dommages causés par la vétusté sont à la charge du propriétaire, même si les réparations nécessaires figurent sur la liste des réparations locatives.",
+        "Pour distinguer les dommages liés à la vétusté (à la charge du propriétaire) et les détériorations (à la charge du locataire), le locataire et le propriétaire (ou l'agence immobilière) peuvent décider d'appliquer une grille de vétusté.",
+        "Cette grille définit une durée de vie théorique et un coefficient de réduction annuel pour les principaux matériaux et équipements du logement. Ces éléments (durée de vie théorique et coefficient) servent à faire varier le prix à payer par le locataire pour les réparations locatives, selon sa durée d'occupation du logement.",
+        "[À savoir] Le locataire et le propriétaire doivent choisir cette grille parmi les grilles de vétusté ayant fait l'objet d'un accord collectif."
+      ]
+    },
+    {
+      "titre": "Cas de force majeure",
+      "contenu": [
+        "Les dégradations résultant d'un cas de force majeure (par exemple, une tempête) sont à la charge du propriétaire, même si les réparations nécessaires figurent sur la liste des réparations locatives."
+      ]
+    },
+    {
+      "titre": "Cambriolage",
+      "contenu": [
+        "Lorsqu'un cambrioleur a causé des dégradations dans le logement, le locataire doit recourir à son assurance habitation. Pour cela, il doit contacter son assureur.",
+        "L'assureur lui indiquera les démarches à faire. Ces démarches varient selon le type de contrat d'assurance habitation signé par le locataire."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : articles 1714 à 1751-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006150285/"
+    },
+    {
+      "titre": "Code civil : articles 1752 à 1762",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006150287"
+    },
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 7",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038834730/"
+    },
+    {
+      "titre": "Décret n°2016-382 du 30 mars 2016 sur l'établissement de l'état des lieux et la prise en compte de la vétusté des logements loués à usage de résidence principale",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000032320564/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "État des lieux et vétusté : exemples d'accord collectif sur la grille de vétusté",
+      "url": "https://www.inc-conso.fr/node/8951"
+    }
+  ],
+  "slug": "qui-est-responsable-des-degradations-dans-un-logement-en-cours-de-location",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "bail-d-habitation-obligations-du-locataire",
+      "titre": "Bail d’habitation : obligations du locataire"
+    }
+  ]
+}

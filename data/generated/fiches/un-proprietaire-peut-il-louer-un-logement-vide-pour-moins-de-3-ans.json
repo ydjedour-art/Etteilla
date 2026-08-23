@@ -1,0 +1,55 @@
+{
+  "id": "F1614",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Un propriétaire peut-il louer un logement vide pour moins de 3 ans ?",
+  "theme": "Logement",
+  "description": "Il est possible de ne pas signer un bail minimum de 3 ans pour louer un logement vide du secteur privé sous certaines conditions.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-01-23",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1614",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Location immobilière : bail d’habitation (contrat de location)",
+    "Un propriétaire peut-il louer un logement vide pour moins de 3 ans ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Il est possible de signer un bail d'une durée de moins de 3 ans lorsque les 2 conditions suivantes sont remplies :",
+        "• Le bail est d'au moins 1 an",
+        "• Un événement professionnel ou familial justifie cette durée exceptionnelle. Par exemple, le propriétaire va reprendre le logement pour y habiter après sa mise à la retraite ou pour permettre à un de ses enfants de poursuivre ses études.",
+        "Le motif qui justifie la durée de bail doit être indiqué dans le bail.",
+        "Si ce bail fait suite à un bail de 3 ans qui avait conclu avec le même locataire pour le même logement, le nouveau loyer ne peut pas être supérieur au loyer du précédent bail (sauf révision annuelle).",
+        "Durant le bail, le propriétaire doit informer le locataire de la réalisation prochaine de l'événement, par lettre recommandée avec accusé de réception, au moins 2 mois avantl'échéance du bail.",
+        "Si la réalisation de l’événement est retardée, le propriétaire peut proposer le report de l'échéance du bail, par lettre recommandée avec accusé de réception, au moins 2 mois avant l'échéance initialement prévue du bail.",
+        "Un seul report est possible.",
+        "[À savoir] Lorsque le motif ne s'est pas produit ou n'est pas confirmé, le bail est considéré comme étant un bail de 3 ans."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 11",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000028806673/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "un-proprietaire-peut-il-louer-un-logement-vide-pour-moins-de-3-ans",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "location-immobiliere-bail-d-habitation-contrat-de-location",
+      "titre": "Location immobilière : bail d’habitation (contrat de location)"
+    }
+  ]
+}

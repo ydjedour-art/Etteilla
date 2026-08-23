@@ -1,0 +1,121 @@
+{
+  "id": "F2005",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Handicap : foyer de vie (ou foyer de vie occupationnel)",
+  "theme": "Social - Santé",
+  "description": "Le foyer de vie (ou foyer occupationnel) accueille des personnes en situation de handicap ayant une certaine autonomie pour leur proposer des activités.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2005",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Hébergement d'une personne en situation de handicap",
+    "Handicap : foyer de vie (ou foyer de vie occupationnel)"
+  ],
+  "introduction": "Vous êtes en situation de handicap et vous ne pouvez pas exercer une activité professionnelle ? Vous pouvez être accueilli en foyer de vie (ou foyer occupationnel). Ces foyers proposent des activités occupationnelles et sociales adaptées à votre situation de handicap. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Qu'est-ce qu'un foyer de vie ?",
+      "contenu": [
+        "Le foyer de vie (ou foyer occupationnel) propose à des adultes en situation de handicap ayant une certaine autonomie des activités diverses adaptées à leurs capacités (par exemple, sculpture, peinture, gymnastique).",
+        "Le foyer de vie peut proposer un accueil temporaire, de jour ou en internat.",
+        "[Attention] Le foyer de vie est destiné aux personnes ne relevant ni d'un établissement et service d'accompagnement par le travail (Ésat), ni d'une maison d'accueil spécialisée (Mas), ni d'un foyer d'accueil médicalisé (Fam)."
+      ]
+    },
+    {
+      "titre": "Quelles sont les conditions d'admission en foyer de vie ?",
+      "contenu": [
+        "Pour pouvoir être admis en foyer de vie, vous devez avoir un taux d'incapacité d'au moins 50 % et avoir une autonomie suffisante pour vous livrer à vos occupations quotidiennes (vous nourrir, vous habiller...).",
+        "Ce taux est déterminé par la commission des droits pour l'autonomie des personnes handicapées (CDAPH) de la maison départementale des personnes handicapées (MDPH) à l'occasion de votre demande d'admission.",
+        "Par ailleurs, vous devez être de nationalité française ou ressortissant d’un pays de l'Espace économique européen (EEE) (ou avoir un titre de séjour valide si vous êtes de nationalité étrangère)."
+      ]
+    },
+    {
+      "titre": "Quelle est la démarche pour être accueilli en foyer de vie ?",
+      "contenu": [
+        "Vous devez faire votre demande d'accueil auprès de la MDPH de votre département.",
+        "La demande peut être faite en ligne par le biais d'un téléservice, si la MDPH de votre lieu de résidence le propose :",
+        "Demande de prestations MDPH (AAH, PCH, admission en Ésat, hébergement...) et renouvellement",
+        "Ce service en ligne permet de faire une demande ou renouvellement de prestations Handicap auprès de la MDPH .",
+        "Vous pouvez aussi faire votre demande par courrier par le biais d'un formulaire :",
+        "Demande ou renouvellement de prestations Handicap (AEEH, AAH, PCH, CMI, hébergement, Ésat...)",
+        "Certificat médical à joindre à une demande à la maison départementale des personnes handicapées (MDPH)",
+        "À joindre à toute demande. Il doit dater d'au maximum 1 an.",
+        "Guide d'utilisation du certificat médical destiné à la MDPH",
+        "Compte rendu type pour un bilan auditif à joindre au certificat médical (volet1)",
+        "Compte rendu type pour un bilan ophtalmologique à joindre au certificat médical (volet 2)",
+        "Vous devez joindre les documents justificatifs mentionnés à l'occasion de votre demande en ligne ou sur le formulaire.",
+        "Les documents doivent être envoyés (ou scannés si vous faites votre demande en ligne) à la MDPH de votre lieu de résidence.",
+        "Maison départementale des personnes handicapées (MDPH)"
+      ]
+    },
+    {
+      "titre": "Comment est examinée la demande d’admission en foyer de vie ?",
+      "contenu": [
+        "La commission des droits et de l’autonomie des personnes handicapées (CDAPH) de la MDPH instruit la demande.",
+        "Sa réponse intervient dans un délai de 4 mois.",
+        "L’absence de réponse de la CDAPH pendant plus de 4 mois vaut décision implicite de rejet.",
+        "Ce n'est qu'une fois que vous avez obtenu une réponse favorable de la CDAPH que vous pouvez directement faire votre demande d'admission auprès d'un foyer de vie. La liste de ces structures est disponible auprès de votre mairie.",
+        "Mairie"
+      ]
+    },
+    {
+      "titre": "La décision de refus de la CDAPH d’être admis en foyer de vie peut-elle faire l’objet d’un recours ?",
+      "contenu": [
+        "Oui, la décision de refus de la CDAPH peut faire l’objet d’un recours administratif préalable obligatoire (Rapo) auprès de la MDPH. Ce recours doit être exercé avant tout recours devant le tribunal.",
+        "Le RAPO doit être déposé dans un délai de 2 mois à partir de la réception de la décision contestée. Cette décision doit être jointe à votre recours.",
+        "L’absence de réponse de la CDAPH pendant plus de 2 mois vaut décision implicite de rejet.",
+        "À partir de cette décision, explicite ou implicite, vous avez 2 mois pour faire un recours devant le tribunal judiciaire du lieu de votre résidence."
+      ]
+    },
+    {
+      "titre": "À combien s'élèvent les frais d'accueil en foyer de vie ?",
+      "contenu": [
+        "Votre participation aux frais d'hébergement est fixée en fonction de vos ressources.",
+        "Néanmoins, un minimum de revenu est laissé à votre disposition. Ce montant doit être d'au minimum égal à 312,48 € par mois."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'action sociale et des familles : articles L344-1 à L344-7",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006157638"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : articles R344-29 à R344-33",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006190130"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : articles D344-35 à D344-39",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006190129"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demande ou renouvellement de prestations Handicap (AEEH, AAH, PCH, CMI, hébergement, Ésat...)",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_15692.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Demande ou renouvellement de prestations Handicap (AAH, PCH, CMI, hébergement ...)",
+      "url": "https://mdphenligne.cnsa.fr/",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "Maison départementale des personnes handicapées (MDPH)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "handicap-foyer-de-vie-ou-foyer-de-vie-occupationnel",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "hebergement-d-une-personne-en-situation-de-handicap",
+      "titre": "Hébergement d'une personne en situation de handicap"
+    }
+  ]
+}

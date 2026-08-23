@@ -1,0 +1,115 @@
+{
+  "id": "F447",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Assainissement des eaux usées domestiques",
+  "theme": "Logement",
+  "description": "Le raccordement à l’assainissement collectif (tout-à-l’égout), et l’installation d’un assainissement non collectif sont contrôlés et taxés par la mairie.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-12-12",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F447",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Autorisations d'urbanisme",
+    "Assainissement des eaux usées domestiques"
+  ],
+  "introduction": "L’assainissement a pour objet la collecte, l’évacuation et le traitement des eaux usées domestiques : les eaux vannes (WC) et les eaux grises (cuisine, lave-linge…). L’assainissement peut être collectif (raccordement au réseau public, le tout-à-l’égout) ou non collectif (installation individuelle de type fosse toutes eaux) - ANC. Nous vous présentons les règles et démarches applicables.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "La commune met en place un zonage d’assainissement, qui vous permet de savoir si vous êtes en zone d’assainissement collectif ou non collectif. Vous avez la possibilité de le consulter en mairie.",
+        "Mairie"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général des collectivités territoriales : article L2224-8",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046783826"
+    },
+    {
+      "titre": "Code général des collectivités territoriales : article L2224-10",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046783819"
+    },
+    {
+      "titre": "Code général des collectivités territoriales : article L5214-16",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045213277/"
+    },
+    {
+      "titre": "Code général des collectivités territoriales : articles D2224-5-1 à R2224-22-6",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070633/LEGISCTA000006181440/"
+    },
+    {
+      "titre": "Code de la santé publique : articles L1331-1 à L1331-31",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006171062/"
+    },
+    {
+      "titre": "Code de la santé publique : article L1331-7",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033360845"
+    },
+    {
+      "titre": "Code civil : articles 682 à 685-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006150125"
+    },
+    {
+      "titre": "Code de la voirie routière : article R*116-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006398642/"
+    },
+    {
+      "titre": "Décret n° 2022-93 du 31 janvier 2022 fixant la liste des territoires dont les rejets d'eaux usées et pluviales",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000045097730/"
+    },
+    {
+      "titre": "Arrêté du 7 septembre 2009 fixant les obligations applicables aux installations d'assainissement non collectif",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000021125886/"
+    },
+    {
+      "titre": "Arrêté du 27 avril 2012 relatif aux modalités de l'exécution de la mission de contrôle des installations d'assainissement non collectif",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000025835036/"
+    },
+    {
+      "titre": "Arrêté du 21 juillet 2015 relatif aux systèmes d'assainissement collectif et aux installations d'assainissement non collectif",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000031052756/2021-01-01/"
+    },
+    {
+      "titre": "Tribunal des conflits, 8 octobre 2018, C4135",
+      "url": "https://www.legifrance.gouv.fr/ceta/id/CETATEXT000037478622/"
+    },
+    {
+      "titre": "Réponse ministérielle du 18 mars 2010 relative au raccordement au réseau d'assainissement",
+      "url": "https://www.senat.fr/questions/base/2009/qSEQ091211329.html"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Trouver un vidangeur agréé",
+      "url": "https://www.assainissement-non-collectif.developpement-durable.gouv.fr/liens-vers-les-listes-de-vidangeurs-agrees-a619.html",
+      "type": "outilRechercheNG"
+    }
+  ],
+  "contacts": [
+    "Mairie"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Portail interministériel sur l'assainissement non collectif",
+      "url": "https://www.assainissement-non-collectif.developpement-durable.gouv.fr/"
+    },
+    {
+      "titre": "Guide usagers - L'assainissement non collectif",
+      "url": "http://www.assainissement-non-collectif.developpement-durable.gouv.fr/IMG/pdf/12032_ANC_Guide-usagers_complet_02-10-12_light_cle1713de.pdf"
+    }
+  ],
+  "slug": "assainissement-des-eaux-usees-domestiques",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "autorisations-d-urbanisme",
+      "titre": "Autorisations d'urbanisme"
+    }
+  ]
+}

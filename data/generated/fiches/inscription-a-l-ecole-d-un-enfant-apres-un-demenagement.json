@@ -1,0 +1,65 @@
+{
+  "id": "F1881",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Inscription à l'école d'un enfant après un déménagement",
+  "theme": "Famille - Scolarité",
+  "description": "Vous devez inscrire votre enfant dans un établissement scolaire dans les 8 jours qui suivent le changement de domicile.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-09-23",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1881",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "École primaire (maternelle et élémentaire)",
+    "Inscription à l'école d'un enfant après un déménagement"
+  ],
+  "introduction": "Vous déménagez et votre enfant doit changer d'établissement scolaire ? Pour inscrire votre enfant dans sa nouvelle école, vous devrez réaliser certaines démarches. Les règles diffèrent selon que votre enfant sera inscrit dans une école publique ou privée ou suivra l'instruction dans la famille.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "[À noter] Si vous le souhaitez, votre enfant peut, sous conditions, terminer l'année scolaire dans l'établissement qu'il fréquentait avant le changement de domicile."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'éducation : articles L131-1 à L131-13",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006166564"
+    },
+    {
+      "titre": "Code de l'éducation : articles L212-1 à L212-9",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006182379"
+    },
+    {
+      "titre": "Décret n°2020-811 du 29 juin 2020 précisant les pièces pouvant être demandées à l'appui d'une demande d'inscription sur la liste des enfants soumis à l'obligation scolaire",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000042056558"
+    },
+    {
+      "titre": "Circulaire n°2014-088 du 9 juillet 2014 relative au règlement type départemental des écoles maternelles et élémentaires",
+      "url": "https://www.legifrance.gouv.fr/download/pdf/circ?id=38497"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Établissement scolaire",
+    "Mairie"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Les parents à l'école",
+      "url": "https://www.education.gouv.fr/les-parents-l-ecole-9899"
+    }
+  ],
+  "slug": "inscription-a-l-ecole-d-un-enfant-apres-un-demenagement",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "ecole-primaire-maternelle-et-elementaire",
+      "titre": "École primaire (maternelle et élémentaire)"
+    }
+  ]
+}

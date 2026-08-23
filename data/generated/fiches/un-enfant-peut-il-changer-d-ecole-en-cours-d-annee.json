@@ -1,0 +1,73 @@
+{
+  "id": "F10722",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Un enfant peut-il changer d'école en cours d'année ?",
+  "theme": "Famille - Scolarité",
+  "description": "Oui, un enfant peut changer d'école en cours d'année, si l'école d'accueil a des places disponibles et en accomplissant certaines formalités.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-07-08",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F10722",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "École primaire (maternelle et élémentaire)",
+    "Un enfant peut-il changer d'école en cours d'année ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Oui, vous pouvez changer votre enfant d'école maternelle ou primaire en cours d'année scolaire.",
+        "Pour cela, vous devez d'abord vous renseigner auprès de l'école dans laquelle vous souhaitez l'inscrire.",
+        "Les formalités d'inscription seront différentes selon que l'école est publique ou privée.",
+        "Dans tous les cas, l'inscription sera possible uniquement si l'école dispose d'une place disponible.",
+        "[Attention] Si le changement d'école intervient à la suite d'un déménagement, les formalités sont différentes."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'éducation : articles L131-1 à L131-13",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006166564"
+    },
+    {
+      "titre": "Circulaire n°2014-088 du 9 juillet 2014 relative au règlement type départemental des écoles maternelles et élémentaires",
+      "url": "https://www.legifrance.gouv.fr/download/pdf/circ?id=38497"
+    },
+    {
+      "titre": "Décret n°2014-1275 du 23 octobre 2014 relatif aux exceptions au principe \"silence vaut accord\" (éducation et enseignement supérieur)",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000029675486/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Établissement scolaire",
+    "Mairie"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Les parents à l'école",
+      "url": "https://www.education.gouv.fr/les-parents-l-ecole-9899"
+    },
+    {
+      "titre": "L'inscription à l'école maternelle",
+      "url": "https://www.education.gouv.fr/l-inscription-l-ecole-maternelle-8651"
+    },
+    {
+      "titre": "L'inscription à l'école élémentaire",
+      "url": "https://www.education.gouv.fr/l-inscription-l-ecole-elementaire-6257"
+    }
+  ],
+  "slug": "un-enfant-peut-il-changer-d-ecole-en-cours-d-annee",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "ecole-primaire-maternelle-et-elementaire",
+      "titre": "École primaire (maternelle et élémentaire)"
+    }
+  ]
+}

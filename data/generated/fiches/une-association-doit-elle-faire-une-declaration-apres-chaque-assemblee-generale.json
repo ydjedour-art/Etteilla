@@ -1,0 +1,66 @@
+{
+  "id": "F34728",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Une association doit-elle faire une déclaration après chaque assemblée générale ?",
+  "theme": "Associations, fondations et fonds de dotation",
+  "description": "Non, chaque assemblée générale des membres ne donne pas nécessairement lieu à déclaration en préfecture.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-01-22",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34728",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Associations, fondations et fonds de dotation",
+    "Dirigeants et responsables d'une association",
+    "Une association doit-elle faire une déclaration après chaque assemblée générale ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "En principe, il n'y a pas de déclaration à effectuer en préfecture à la suite de chaque assemblée générale.",
+        "Toutefois, les modifications suivantes doivent être déclarées dans les 3 mois qui suivent l'assemblée générale :",
+        "• Modification du nom ou de l'objet de l'association",
+        "• Modification de l'adresse du siège et/ou de l'adresse de gestion",
+        "• Désignation de nouveaux dirigeants (les nom, prénom, profession, domicile et nationalité et fonction doivent être déclarés)",
+        "• Modification des statuts",
+        "• Ouverture ou fermeture du lieu ou d'un des lieux où l'association exerce son activité",
+        "• Acquisition ou transfert volontaire à autrui (à titre gratuit ou onéreux) de la propriété d'un bien (par exemple, locaux consacrés à l'administration et à l'accomplissement de l'activité)",
+        "• Nouvelle composition d'une union ou d'une fédération (adhésion ou retrait d'une association membre).",
+        "La déclaration peut s'effectuer en ligne, par courrier ou sur place qu'il s'agisse d'une modification statutaire ou d'un changement dans l'administration de l'association.",
+        "Quand l'assemblée générale a décidé d'un changement de nom, d'objet ou d’adresse du siège social, les dirigeants peuvent demander la publication de ces modifications, au JOAFE, lors de leur déclaration en préfecture. Cette publication au JOAFE n'est pas obligatoire, mais conseillée.",
+        "[À noter] Pour les associations situées en Alsace‑Moselle, les règles sont les mêmes que pour les autres associations. Il n’y a pas de déclaration systématique après chaque assemblée générale. Seules les décisions entraînant des modifications importantes doivent être déclarées. La différence tient au fait que, pour ces associations, la déclaration doit être effectuée auprès du tribunal judiciaire compétent dans un délai de 3 mois, ce qui permet de garantir la transparence et la validité des changements auprès des tiers.",
+        "Tribunal judiciaire ou tribunal de proximité"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Loi du 1er juillet 1901 relative au contrat d'association",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006069570/"
+    },
+    {
+      "titre": "Décret du 16 août 1901 pris relatif au contrat d'association",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006069620/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Point ressource à la vie associative",
+    "Préfecture de police de Paris",
+    "Préfecture",
+    "Tribunal judiciaire ou tribunal de proximité"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "une-association-doit-elle-faire-une-declaration-apres-chaque-assemblee-generale",
+  "path": [
+    {
+      "slug": "associations-fondations-et-fonds-de-dotation",
+      "titre": "Associations, fondations et fonds de dotation"
+    },
+    {
+      "slug": "dirigeants-et-responsables-d-une-association",
+      "titre": "Dirigeants et responsables d'une association"
+    }
+  ]
+}

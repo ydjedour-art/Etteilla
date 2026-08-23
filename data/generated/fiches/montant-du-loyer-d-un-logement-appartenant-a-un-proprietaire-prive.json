@@ -1,0 +1,80 @@
+{
+  "id": "F1310",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Montant du loyer d'un logement appartenant à un propriétaire privé",
+  "theme": "Logement",
+  "description": "Le loyer d'un bail d'habitation est fixé librement par le propriétaire. Mais dans les communes situées en zone tendue, l'encadrement des loyers s'applique.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-08-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1310",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Bail d’habitation : loyer",
+    "Montant du loyer d'un logement appartenant à un propriétaire privé"
+  ],
+  "introduction": "À quelles règles doit répondre le montant du loyer d'un logement du secteur privé ? Le loyer d'un logement loué avec bail d'habitation est fixé librement par le propriétaire. Mais, dans les communes situées en zone tendue, l'encadrement des loyers s'applique. Dans ces communes, le propriétaire ne pas fixer librement le loyer lors du changement de locataire et lors du renouvellement du bail. Nous vous expliquons.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Pour savoir si votre commune est située en zone tendue :",
+        "Connaître les communes où l’encadrement des loyers s’applique",
+        "[Attention] Paris, Bordeaux, Lille, Hellemmes et Lomme, Lyon et Villeurbanne, Montpellier, et les communes composant Est Ensemble, Pays Basque, Plaine commune, et d'une partie du territoire de Grenoble-Alpes Métropole, appliquent des règles encore plus strictes."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 17",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000037670690/"
+    },
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 17-1",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000028778231/"
+    },
+    {
+      "titre": "Décret n°2017-1198 du 27 juillet 2017 sur l'évolution de certains loyers (d'août 2024 au 31 juillet 2027)",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000035315236"
+    },
+    {
+      "titre": "Loi n° 89-462 du 6 juillet 1989 sur les rapports locatifs : article 18",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039369552/"
+    },
+    {
+      "titre": "Décret n°2013-392 du 10 mai 2013 sur l'application de la taxe annuelle sur les logements vacants (annexe)",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000027399823/"
+    },
+    {
+      "titre": "Réponse ministérielle du 6 avril 1992 relative à la notion de \"travaux d'amélioration\" dans les parties communes et privatives",
+      "url": "http://questions.assemblee-nationale.fr/q9/9-51417QE.htm"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Connaître les communes où l’encadrement des loyers s’applique",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/encadrementDesLoyers",
+      "type": "Simulateur"
+    }
+  ],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Interdiction de location et gel des loyers des passoires énergétiques",
+      "url": "https://www.ecologie.gouv.fr/interdiction-location-et-gel-des-loyers-des-passoires-energetiques"
+    }
+  ],
+  "slug": "montant-du-loyer-d-un-logement-appartenant-a-un-proprietaire-prive",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "bail-d-habitation-loyer",
+      "titre": "Bail d’habitation : loyer"
+    }
+  ]
+}

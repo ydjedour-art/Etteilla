@@ -1,0 +1,42 @@
+{
+  "id": "F32112",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Don de jours de repos à un salarié parent d'enfant gravement malade ou proche aidant",
+  "theme": "Travail - Formation",
+  "description": "Un salarié peut renoncer à tout ou partie de ses jours de repos non pris au profit d'un collègue parent d'un enfant gravement malade ou proche aidant.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2023-10-03",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F32112",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Congés dans le secteur privé",
+    "Don de jours de repos à un salarié parent d'enfant gravement malade ou proche aidant"
+  ],
+  "introduction": "Pouvez-vous, renoncer à tout ou partie de vos jours de repos non pris au profit d'un collègue de travail dont un enfant est gravement malade ou d'un collègue proche aidant ? Nous faisons un point sur la réglementation.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code du travail : articles L1225-61-1 à L1225-65-2",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000028911591"
+    },
+    {
+      "titre": "Code du travail : articles L3142-16 à L3142-25-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033003265/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "don-de-jours-de-repos-a-un-salarie-parent-d-enfant-gravement-malade-ou-proche-aidant",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "conges-dans-le-secteur-prive",
+      "titre": "Congés dans le secteur privé"
+    }
+  ]
+}

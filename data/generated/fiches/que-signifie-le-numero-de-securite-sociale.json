@@ -1,0 +1,83 @@
+{
+  "id": "F33078",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Que signifie le numéro de Sécurité sociale ?",
+  "theme": "Social - Santé",
+  "description": "Le numéro de Sécurité sociale (NIR) est composé de 13 chiffres (sexe, année, mois et lieu de naissance...) et d'une clé de contrôle à 2 chiffres.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-08-19",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33078",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Affiliation à la sécurité sociale (assurance maladie)",
+    "Que signifie le numéro de Sécurité sociale ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "L'inscription au répertoire national d'identification des personnes physiques (RNIPP) donne lieu à l'attribution d'un numéro d'inscription au répertoire (NIR).",
+        "Le NIR est aussi appelé numéro de Sécurité sociale.",
+        "Ce numéro est composé :",
+        "• De 13 chiffres",
+        "• Et d'une clé de contrôle de 2 chiffres.",
+        "Numéro de Sécurité sociale",
+        "DILA / Service-Public.fr",
+        "Numéro de sécurité sociale à la loupe :",
+        "• Clé de contrôle",
+        "• N° d'ordre de naissance",
+        "• Code commune Insee",
+        "• Département de naissance",
+        "• Mois de naissance",
+        "• Année de naissance",
+        "• Sexe",
+        "Composition du numéro de sécurité sociale",
+        "Chiffres",
+        "Signification",
+        "1er chiffre",
+        "Sexe :",
+        "• 1 : Homme",
+        "• 2 : Femme",
+        "2 chiffres suivants",
+        "Année de naissance",
+        "2 chiffres suivants",
+        "Mois de naissance",
+        "5 chiffres suivants",
+        "• Si vous êtes né en France : 2 chiffres du code du département de naissance (ce code est celui existant au moment de la naissance), suivis des 3 chiffres du code commune officiel de l'Insee",
+        "• Si vous êtes né à l'étranger : les 2 chiffres du code du département sont remplacés par 99 et le code commune par un code Insee du pays de naissance.",
+        "• Si vous êtes né en Algérie, au Maroc ou en Tunisie avant l'indépendance de ces pays : un code spécifique peut figurer à la place du code 99 et du code INSEE du pays concerné (exemples : 91, 92, 93 ou 94 pour l'Algérie, 95 pour le Maroc et 96 pour la Tunisie).",
+        "3 chiffres suivants",
+        "Numéro d'ordre permettant de distinguer les personnes nées au même lieu à la même période"
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [
+    "Caisse primaire d'assurance maladie (CPAM)",
+    "Mutualité sociale agricole (MSA)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "À quoi correspondent les chiffres du numéro de Sécurité sociale ?",
+      "url": "https://www.ameli.fr/assure/droits-demarches/principes/numero-securite-sociale#text_68745"
+    },
+    {
+      "titre": "Règles d’identification et d’immatriculation des assurés par les organismes sociaux",
+      "url": "https://caf.fr/sites/default/files/medias/cnaf/DCOM/mentions_legales/informatique_libertes/Regles-authentification-immatriculation.pdf"
+    }
+  ],
+  "slug": "que-signifie-le-numero-de-securite-sociale",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "affiliation-a-la-securite-sociale-assurance-maladie",
+      "titre": "Affiliation à la sécurité sociale (assurance maladie)"
+    }
+  ]
+}

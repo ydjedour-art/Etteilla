@@ -1,0 +1,67 @@
+{
+  "id": "F13905",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Un demandeur d’emploi est-il remboursé de ses frais de santé en cas de maladie ?",
+  "theme": "Social - Santé",
+  "description": "Si vous êtes au chômage, vous continuez à avoir droit au remboursement de vos frais de santé en cas de maladie.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-09-05",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F13905",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Remboursement des soins par la Sécurité sociale",
+    "Un demandeur d’emploi est-il remboursé de ses frais de santé en cas de maladie ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Oui, en raison de la protection universelle maladie (Puma), si vous n'exercez pas d'activité professionnelle, vous continuez à avoir droit au remboursement de vos frais de santé en cas de maladie ou de maternité.",
+        "Cette règle s'applique sans limitation de durée tant que vous résidez en France de manière stable.",
+        "Vous résidez en France de manière stable si vous vous trouvez dans l'une ou l'autre de ces situations :",
+        "• Vous avez votre foyer permanent en France. Le foyer désigne le lieu où vous habitez normalement, c'est-à-dire le lieu de votre résidence habituelle, à condition que cette résidence en France ait un caractère permanent.",
+        "• Le lieu de votre séjour principal se trouve en France. C'est le cas si vous séjournez en France pendant plus de 6 mois (ou 180 jours) l'année concernée.",
+        "[À savoir] Vous pouvez prouver votre résidence en France par tout moyen.",
+        "[Attention] Si vous êtes étranger, vous devez, en plus, être en situation régulière au regard de la législation sur le séjour des étrangers en France."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la sécurité sociale : articles L160-1 à L160-7",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000031668675/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Caisse primaire d'assurance maladie (CPAM)",
+    "Mutualité sociale agricole (MSA)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Site de l'Assurance maladie",
+      "url": "https://www.ameli.fr/"
+    },
+    {
+      "titre": "Au chômage ou bénéficiaire du RSA : les modalités de votre prise en charge",
+      "url": "https://www.ameli.fr/assure/droits-demarches/etudes-emploi-retraite/sans-emploi/sans-emploi#text_538"
+    },
+    {
+      "titre": "Protection universelle maladie (PUMa)",
+      "url": "https://www.ameli.fr/assure/droits-demarches/principes/protection-universelle-maladie"
+    }
+  ],
+  "slug": "un-demandeur-d-emploi-est-il-rembourse-de-ses-frais-de-sante-en-cas-de-maladie",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "remboursement-des-soins-par-la-securite-sociale",
+      "titre": "Remboursement des soins par la Sécurité sociale"
+    }
+  ]
+}

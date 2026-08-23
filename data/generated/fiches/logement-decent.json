@@ -1,0 +1,33 @@
+{
+  "id": "F35978",
+  "type_publication": "Recherche guidée",
+  "titre": "Logement décent",
+  "theme": "Logement",
+  "description": "Logement décent",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2024-06-28",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35978",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Bail d’habitation : obligations du propriétaire (bailleur)",
+    "Logement décent"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "logement-decent",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "bail-d-habitation-obligations-du-proprietaire-bailleur",
+      "titre": "Bail d’habitation : obligations du propriétaire (bailleur)"
+    }
+  ]
+}

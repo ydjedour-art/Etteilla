@@ -1,0 +1,156 @@
+{
+  "id": "F36206",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Qu'est-ce qu'une attestation de demande de carte de séjour ?",
+  "theme": "Étranger - Europe",
+  "description": "L'attestation dématérialisée est un document provisoire qui vous est délivré lors de l'instruction d'une demande de carte de séjour effectuée en ligne.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2023-12-15",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F36206",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Titres, cartes de séjour et documents de circulation pour étranger en France",
+    "Qu'est-ce qu'une attestation de demande de carte de séjour ?"
+  ],
+  "introduction": "L'attestation dématérialisée est un document provisoire qui vous est délivré lors d'une 1re demande ou d'un renouvellement de carte de séjour effectuée en ligne sur le site de l'ANEF.",
+  "chapitres": [
+    {
+      "titre": "Quelles sont les différentes attestations de demande de carte de séjour ?",
+      "contenu": [
+        "Attestation de dépôt de demande de carte de séjour",
+        "Lorsque vous déposez une demande de titre de séjour par téléservice, vous recevez immédiatement une attestation dématérialisée de dépôt en ligne.",
+        "Cette attestation n'est pas un document provisoire de séjour. Il ne justifie pas de la régularité de votre séjour.",
+        "Attestation de prolongation de l'instruction de la demande de carte de séjour",
+        "Si vous déposez un dossier complet de demande de carte de séjour dans le délai qui vous est imposé par la réglementation, vous recevez, via le téléservice, une attestation de prolongation d'instruction.",
+        "Cette attestation est un document provisoire de séjour qui justifie de la régularité de votre séjour.",
+        "Attestation de décision favorable à la demande de carte de séjour",
+        "Lorsque la préfecture (ou sous-préfecture) prend une décision favorable suite à votre demande, elle vous remet une attestation de décision favorable, via le téléservice.",
+        "Cette attestation est un document provisoire de séjour qui justifie de la régularité de votre séjour."
+      ]
+    },
+    {
+      "titre": "Quelle est la durée des attestations de demande de carte de séjour ?",
+      "contenu": [
+        "L'attestation de dépôt en ligne n'est pas un document provisoire de séjour. Il n'a pas de durée de validité.",
+        "L'attestation de prolongation de l'instruction de la demande de carte de séjour est valable 3 mois maximum.",
+        "Elle est renouvelée par la préfecture (ou sous-préfecture) tant qu'une décision n'a pas été prise sur la demande de carte de séjour."
+      ]
+    },
+    {
+      "titre": "Les attestations de demande de carte de séjour permettent-elles de travailler ?",
+      "contenu": [
+        "Attestation de dépôt de demande de carte de séjour",
+        "Cette attestation ne vous autorise pas à travailler.",
+        "Attestation de prolongation de l'instruction de la demande de carte de séjour",
+        "1re demande de carte de séjour",
+        "Carte de séjour temporaire",
+        "Cette attestation vous permet de travailler uniquement si elle a été délivrée suite à une 1re demande de l'une des cartes suivantes :",
+        "• \"Salarié\"",
+        "• Travailleur temporaire\"",
+        "• Vie privée et familiale\" délivrée au parent d'un enfant français",
+        "• \"Recherche d'emploi et création d'entreprise\"",
+        "• \"Vie privée et familiale\" délivrée à l'époux ou épouse d'un français ou d'une française",
+        "• \"Vie privée et familiale\" délivrée à l'étranger né en France qui justifie avoir résidé pendant au moins 8 ans de façon continue et suivi, après l'âge de 10 ans, une scolarité d'au moins 5 ans dans un établissement scolaire français",
+        "• \"Vie privée et familiale\" délivrée dans le cadre du regroupement familial",
+        "• \"Vie privée et familiale\" délivrée à l'étranger qui a été confié au service de l'aide sociale à l'enfance au plus tard le jour de ses 16 ans",
+        "• \"Vie privée et familiale \" délivrée à l'étranger qui dépose plainte contre une personne qu'il accuse d'avoir commis à son encontre des faits constitutifs des infractions de traite des êtres humains ou de proxénétisme",
+        "• \"Vie privée et familiale \" délivrée à l'étranger touchant une rente d'accident du travail ou de maladie professionnelle",
+        "Carte de séjour pluriannuelle",
+        "Cette attestation vous permet de travailler uniquement si elle a été délivrée suite à une 1re demande de l'une des cartes suivantes :",
+        "• \"Talent\" ou \"talent (famille)\"",
+        "• \"Travailleur saisonnier\"",
+        "• \"Salarié détaché ICT\" ou \"membre de famille d'un salarié détaché ICT\"",
+        "• \"Salarié détaché mobile ICT\" ou \"membre de famille d'un salarié détaché mobile ICT\"",
+        "• \"Bénéficiaire du statut d'apatride\" ou \"membre de la famille d'un bénéficiaire du statut d'apatride\"",
+        "• \"Bénéficiaire de la protection subsidiaire\" ou \"membre de la famille d'un bénéficiaire de la protection subsidiaire\"",
+        "Carte de résident",
+        "Cette attestation vous permet de travailler uniquement si elle a été délivrée suite à une 1re demande de carte de résident aux motifs suivants :",
+        "• Époux ou épouse d'un français ou d'une française",
+        "• Ascendant à charge d'un français ou d'une française",
+        "• Enfant étranger d'un français ou d'une française",
+        "• Regroupement familial",
+        "• Réfugié ou au membre de famille d'un réfugié",
+        "• Membre de la famille d'un bénéficiaire de la protection subsidiaire",
+        "• Bénéficiaire du statut d'apatride",
+        "• Étranger qui dépose plainte contre une personne qu'il accuse d'avoir commis à son encontre des faits constitutifs des infractions de traite des êtres humains ou de proxénétisme",
+        "• Étranger qui remplit les conditions d'acquisition de la nationalité française",
+        "• Étranger qui a servi dans une unité combattante de l'armée française",
+        "• Étranger qui sert ou a servi dans la Légion étrangère",
+        "• Étranger touchant une rente d'accident du travail ou de maladie professionnelle ou à ses ayants droit",
+        "• Retraité touchant une pension de retraite d'un régime de base français de sécurité sociale",
+        "Renouvellement de carte de séjour",
+        "Cette attestation vous permet de travailler uniquement si la carte de séjour dont vous demandez le renouvellement vous autorise l'exercice d'une activité professionnelle.",
+        "Attestation de décision favorable à la demande de carte de séjour",
+        "1re demande de carte de séjour",
+        "Carte de séjour temporaire",
+        "Cette attestation vous permet de travailler uniquement si elle a été délivrée suite à une 1re demande de l'une des cartes suivantes :",
+        "• \"Salarié\"",
+        "• « Travailleur temporaire\"",
+        "• « Vie privée et familiale\" délivrée au parent d'un enfant français",
+        "• \"Recherche d'emploi et création d'entreprise\"",
+        "• \"Vie privée et familiale\" délivrée à l'époux ou épouse d'un français ou d'une française",
+        "• \"Vie privée et familiale\" délivrée à l'étranger né en France qui justifie avoir résidé pendant au moins 8 ans de façon continue et suivi, après l'âge de 10 ans, une scolarité d'au moins 5 ans dans un établissement scolaire français",
+        "• \"Vie privée et familiale\" délivrée dans le cadre du regroupement familial",
+        "• \"Vie privée et familiale\" délivrée à l'étranger qui a été confié au service de l'aide sociale à l'enfance au plus tard le jour de ses 16 ans",
+        "• \"Vie privée et familiale\" délivrée à l'étranger qui dépose plainte contre une personne qu'il accuse d'avoir commis à son encontre des faits constitutifs des infractions de traite des êtres humains ou de proxénétisme",
+        "• \"Vie privée et familiale \" délivrée à l'étranger touchant une rente d'accident du travail ou de maladie professionnelle",
+        "Carte de séjour pluriannuelle",
+        "Cette attestation vous permet de travailler uniquement si elle a été délivrée suite à une 1re demande de l'une des cartes suivantes :",
+        "• \"Talent\" ou « talent (famille)\"",
+        "• \"Travailleur saisonnier\"",
+        "• \"Salarié détaché ICT\" ou \"membre de famille d'un salarié détaché ICT\"",
+        "• \"Salarié détaché mobile ICT\" ou \"membre de famille d'un salarié détaché mobile ICT\"",
+        "• \"Bénéficiaire du statut d'apatride\" ou \"membre de la famille d'un bénéficiaire du statut d'apatride\"",
+        "• \"Bénéficiaire de la protection subsidiaire\" ou \"membre de la famille d'un bénéficiaire de la protection subsidiaire\"",
+        "Carte de résident",
+        "Cette attestation vous permet de travailler uniquement si elle a été délivrée suite à une 1re demande de carte de résident aux motifs suivants :",
+        "• Époux ou épouse d'un français ou d'une française",
+        "• Ascendant à charge d'un français ou d'une française",
+        "• Enfant étranger d'un français ou d'une française",
+        "• Regroupement familial",
+        "• Réfugié ou au membre de famille d'un réfugié",
+        "• Membre de la famille d'un bénéficiaire de la protection subsidiaire",
+        "• Bénéficiaire du statut d'apatride",
+        "• Étranger qui dépose plainte contre une personne qu'il accuse d'avoir commis à son encontre des faits constitutifs des infractions de traite des êtres humains ou de proxénétisme",
+        "• Étranger qui remplit les conditions d'acquisition de la nationalité française",
+        "• Étranger qui a servi dans une unité combattante de l'armée française",
+        "• Étranger qui sert ou a servi dans la Légion étrangère",
+        "• Étranger touchant une rente d'accident du travail ou de maladie professionnelle ou à ses ayants droit",
+        "• Retraité touchant une pension de retraite d'un régime de base français de sécurité sociale",
+        "Renouvellement de carte de séjour",
+        "Cette attestation vous permet de travailler uniquement si la carte de séjour dont vous demandez le renouvellement vous autorise l'exercice d'une activité professionnelle."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles R431-15-1 à R431-15-2",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000043288806/"
+    },
+    {
+      "titre": "Liste des documents autorisant le retour dans l'espace Schengen",
+      "url": "https://europa.eu/youreurope/citizens/travel/entry-exit/eu-citizen/index_fr.htm"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Faire une demande sur internet pour un titre de séjour, un changement de situation, un titre de voyage, une demande de naturalisation - ANEF",
+      "url": "https://administration-etrangers-en-france.interieur.gouv.fr/particuliers/#/",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "qu-est-ce-qu-une-attestation-de-demande-de-carte-de-sejour",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "titres-cartes-de-sejour-et-documents-de-circulation-pour-etranger-en-france",
+      "titre": "Titres, cartes de séjour et documents de circulation pour étranger en France"
+    }
+  ]
+}

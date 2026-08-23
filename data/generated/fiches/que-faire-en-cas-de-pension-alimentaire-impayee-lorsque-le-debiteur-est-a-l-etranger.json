@@ -1,0 +1,114 @@
+{
+  "id": "F1004",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Que faire en cas de pension alimentaire impayée lorsque le débiteur est à l'étranger ?",
+  "theme": "Famille - Scolarité",
+  "description": "Si la personne qui vous doit une pension alimentaire vit à l'étranger et ne la paie pas, il faut contacter le ministère des affaires étrangères.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-05-28",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1004",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Séparation des parents",
+    "Que faire en cas de pension alimentaire impayée lorsque le débiteur est à l'étranger ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "Quelles sont les pensions alimentaires qui peuvent être recouvrées à l'étranger ?",
+      "contenu": [
+        "Les obligations alimentaires sont notamment les suivantes :",
+        "• Pension alimentaire d'un parent envers l'autre parent pour l'entretien et l'éducation d'un enfant commun",
+        "• Prestation compensatoire versée par un ex-époux",
+        "• Obligation alimentaire versée par un ascendant ou un descendant dans le besoin.",
+        "[À noter] La pension alimentaire doit être fixée dans un titre exécutoire. Il peut s'agir d'un acte judiciaire (jugement ou convention homologuée par le juge) ou d'un acte extrajudiciaire, c'est-à-dire établi sans procédure en justice."
+      ]
+    },
+    {
+      "titre": "Comment faire la demande de recouvrement de pension alimentaire quand le débiteur vit à l'étranger ?",
+      "contenu": [
+        "Le créancier de la pension alimentaire peut faire une demande au bureau de RCA du ministère de l'Europe et des affaires étrangères.",
+        "[À savoir] Si le débiteur de la pension alimentaire habite à l'étranger et a conservé un compte bancaire, des biens ou des revenus en France, il est possible d'engager une procédure de recouvrement forcé des impayés.",
+        "Dossier à transmettre au bureau de RCA",
+        "Le créancier de la pension alimentaire doit faire parvenir son dossier de demande complet par courrier ou par mail au bureau de RCA.",
+        "En cas de besoin, ce service peut apporter son soutien pour constituer le dossier.",
+        "Bureau du recouvrement des créances alimentaires (RCA)",
+        "Par téléphone",
+        "+33 (0)1 43 17 90 01",
+        "Par courrier",
+        "Ministère de l'Europe et des affaires étrangères",
+        "Bureau du recouvrement des créances alimentaires à l'étranger (RCA)",
+        "27, rue de la Convention",
+        "CS 91 533",
+        "75732 Paris Cedex 15",
+        "Par courriel",
+        "obligation.alimentaire@diplomatie.gouv.fr",
+        "L'avocat n'est pas obligatoire pour saisir le bureau d'une procédure de recouvrement à l'étranger. Si les revenus du créancier ne lui permettent pas de payer un avocat, il peut demander à bénéficier de l'aide juridictionnelle.",
+        "Le dossier doit comprendre notamment les documents suivants :",
+        "• Courrier indiquant l'objet de la demande (identité et situation financière du créancier et du débiteur, décompte financier des sommes à verser...)",
+        "• Copie du titre exécutoire fixant la pension alimentaire",
+        "• Acte d'état civil des personnes concernées (acte de naissance des enfants, acte de mariage...)",
+        "• Procuration autorisant le RCA à agir au nom du créancier",
+        "• Décision d'aide juridictionnelle si une demande a été faite.",
+        "Le RCA peut demander d'autres documents en fonction de la demande.",
+        "Mise en œuvre du recouvrement par le bureau de recouvrement du ministère de l'Europe et des affaires étrangères",
+        "Après réception du dossier complet, le bureau du RCA l'envoie à l'autorité centrale de l’État dans lequel réside la débiteur qui doit la pension alimentaire.",
+        "Si le créancier ignore le lieu où réside le parent qui doit de l'argent et l'adresse de ses employeurs, le RCA entreprend, si besoin, des recherches avec les autorités des pays concernés.",
+        "Si les recherches n'aboutissent pas, il est possible de porter plainte pour abandon de famille.",
+        "[À savoir] L'abandon de famille est un délit puni de 2 ans d'emprisonnement et 15 000 € d'amende."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Règlement (CE) n°4/2009 du 18/12/2008 relatif à la compétence, la loi applicable, la reconnaissance et l'exécution des décisions et la coopération en matière d'obligations alimentaires",
+      "url": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:007:0001:0079:FR:PDF"
+    },
+    {
+      "titre": "Convention de New-York du 20 juin 1956 sur le recouvrement des aliments à l'étranger",
+      "url": "https://www.hcch.net/fr/instruments/conventions/publications1/?dtid=45&cid=131"
+    },
+    {
+      "titre": "Convention de la Haye du 23 novembre 2007 sur le recouvrement international des aliments",
+      "url": "https://www.hcch.net/fr/instruments/conventions/specialised-sections/child-support"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demande d'aide juridictionnelle (formulaire)",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/16146",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Bureau du recouvrement des créances alimentaires (RCA)",
+    "Permanence juridique",
+    "Département de l'entraide, du droit international privé et européen"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Pensions alimentaires à l'étranger",
+      "url": "http://www.diplomatie.gouv.fr/fr/les-francais-etranger_1296/conseils-aux-familles_3104/pensions-alimentaires-etranger_1425/presentation-generale_82911.html"
+    },
+    {
+      "titre": "Contenu du dossier de demande pour recouvrer une créance à l'étranger",
+      "url": "https://www.diplomatie.gouv.fr/fr/services-aux-francaises-et-aux-francais/famille-scolarite/recouvrement-de-creances-alimentaires-a-l-etranger/personne-creanciere"
+    },
+    {
+      "titre": "Obligations alimentaires en union européenne",
+      "url": "https://e-justice.europa.eu/topics/taking-legal-action/european-judicial-atlas-civil-matters/maintenance-obligations_fr"
+    }
+  ],
+  "slug": "que-faire-en-cas-de-pension-alimentaire-impayee-lorsque-le-debiteur-est-a-l-etranger",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "separation-des-parents",
+      "titre": "Séparation des parents"
+    }
+  ]
+}

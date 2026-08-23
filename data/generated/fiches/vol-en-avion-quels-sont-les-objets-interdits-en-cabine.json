@@ -1,0 +1,93 @@
+{
+  "id": "F16085",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Vol en avion : quels sont les objets interdits en cabine ?",
+  "theme": "Transports - Mobilité",
+  "description": "Couteau, rasoir, cutter sont interdits en cabine, sur vous ou dans un sac. Des restrictions existent aussi pour le transport de liquides.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-07-04",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F16085",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Voyage en avion",
+    "Vol en avion : quels sont les objets interdits en cabine ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "Quels sont les produits interdits en cabine lors d’un vol en avion ?",
+      "contenu": [
+        "Les objets suivants sont interdits en cabine :",
+        "• Objets coupants, tranchants ou pointus, tels que tournevis, ciseaux, couteau (si la lame dépasse 6 cm)",
+        "• Autres objets pouvant blesser, tels que bâton de marche, skate-board",
+        "• Armes (y compris jouets ou imitations d'armes)",
+        "Les produits inflammables sont interdits en cabine comme en soute.",
+        "Certains objets peuvent être refusés même s’ils ne figurent pas explicitement sur la liste, si les agents estiment qu’ils présentent un risque (par exemple, couverts métalliques, trépied photo robuste ou perche qui pourrait être considérée comme une matraque)."
+      ]
+    },
+    {
+      "titre": "Quels sont les produits autorisés sous conditions en cabine lors d’un vol en avion ?",
+      "contenu": [
+        "Si vous emportez des récipients contenant des liquides (parfum, gel douche...), vous devez respecter certaines règles de taille et d'emballage. Cela concerne aussi les gels, pâtes, aérosols...",
+        "Les liquides et aérosols doivent être contenus dans des flacons de 100 ml maximum chacun.",
+        "Ils doivent être placés dans un sac en plastique, transparent et refermable, d'une contenance maximale de 1 litre (20 x 20 cm environ).",
+        "Un seul sac est autorisé par passager.",
+        "Les valves de vaporisation des aérosols doivent être protégées pour éviter toute vaporisation accidentelle.",
+        "Si vous devez emporter des produits liquides sans pouvoir respecter les règles (quantité notamment), vous devez en justifier, par exemple par la présence d'un bébé ou une ordonnance.",
+        "Dans ce cas, vous pouvez emporter les liquides nécessaires pour votre voyage (trajet aller + séjour + trajet retour).",
+        "Les liquides achetés en duty free après le contrôle de sûreté doivent être placés dans un sac scellé avec le reçu visible.",
+        "[À noter] Certains objets autorisés (sous conditions) en cabine sont interdits en soute. Par exemple, pile, batterie au lithium, cigarette électronique (en position éteinte). Des restrictions sont aussi appliquées à certains fauteuils roulants électriques."
+      ]
+    },
+    {
+      "titre": "Quelles sont les sanctions en cas de non-respect des règles en cabine lors d’un vol en avion ?",
+      "contenu": [
+        "Si vous dissimulez un article interdit, vous risquez au minimum qu'il vous soit confisqué.",
+        "Vous pouvez aussi, selon la situation, subir les sanctions suivantes :",
+        "• Amende administrative (maximum 10 000 €)",
+        "• Interdiction d'embarquer à bord d'un avion (maximum 2 ans, et jusqu'à 4 ans en cas d'interdiction dans les 2 années précédentes).",
+        "Si vous ne respectez pas certaines consignes de sécurité (utilisation d'appareils électriques par exemple), vous risquez aussi ces sanctions.",
+        "L’amende peut être décidée par la Direction générale de l’aviation civile (DGAC) après un constat d’infraction par les agents de sûreté ou de police. Vous recevez alors une notification officielle et disposez d’un délai pour la contester.",
+        "L’interdiction d’embarquer, quant à elle, peut être prononcée par le préfet, par arrêté, lorsque le comportement présente un risque pour la sécurité aérienne. Dans certains cas plus graves (par exemple violences ou menaces), c’est le juge qui peut décider de cette interdiction."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Ordonnance n° 2022-831 du 1er juin 2022 créant un régime de sanctions administratives et pénales permettant de réprimer le comportement de passagers aériens perturbateurs",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000045848052/2023-12-28/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Bagages : vérifiez si votre article est autorisé en cabine ou en soute",
+      "url": "https://airbag.dsac.aviation-civile.gouv.fr/AirBag",
+      "type": "Outil de recherche"
+    }
+  ],
+  "contacts": [
+    "Direction générale de l'aviation civile (DGAC)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Restriction sur les liquides contenus dans les bagages en cabine",
+      "url": "https://www.ecologie.gouv.fr/articles-reglementes-ou-interdits-en-avion-et-en-helicoptere"
+    },
+    {
+      "titre": "Transport de médicaments en avion : ce qu'il faut savoir",
+      "url": "https://www.france-assos-sante.org/2014/08/04/transport-de-medicaments-en-avion-ce-quil-faut-savoir/"
+    }
+  ],
+  "slug": "vol-en-avion-quels-sont-les-objets-interdits-en-cabine",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "voyage-en-avion",
+      "titre": "Voyage en avion"
+    }
+  ]
+}

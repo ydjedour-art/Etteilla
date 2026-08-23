@@ -1,0 +1,124 @@
+{
+  "id": "F14723",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "À partir de combien d'enfants a-t-on droit aux prestations familiales ?",
+  "theme": "Famille - Scolarité",
+  "description": "La plupart des prestations familiales sont versées si vous avez au moins 1 enfant à charge (ou à naître). D’autres sont versées si vous avez 2 enfants ou plus.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-01-30",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F14723",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Allocations destinées aux familles",
+    "À partir de combien d'enfants a-t-on droit aux prestations familiales ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "La plupart des prestations familiales sont versées si vous avez au moins 1 enfant à charge (ou à naître). Certaines prestations sont versées si vous avez au moins 2 enfants ou au moins 3. Certaines sont versées même si vous n'avez pas d'enfant.",
+        "Les règles sont les mêmes que vous dépendez du régime général (Caf) ou du régime agricole (MSA).",
+        "Prestations familiales attribuées en fonction du nombre d'enfants à charge",
+        "Condition",
+        "Prestations attribuées",
+        "Sans enfant à charge",
+        "• Allocation de logement sociale (ALS)",
+        "• Aide personnalisée au logement (APL)",
+        "• Allocation de logement familiale (ALF). Attention : dans certains cas, il est nécessaire d'avoir 1 enfant à charge pour percevoir l'ALF.",
+        "Au moins 1 enfant à charge",
+        "• Prime à la naissance de la prestation d'accueil du jeune enfant (Paje)",
+        "• Prime à l'adoption de la Paje",
+        "• Prestation partagée d'éducation de l'enfant (Prépare) de la Paje",
+        "• Allocation de base de la Paje après la naissance d'un enfant",
+        "• Allocation de base de la Paje après l'adoption d'un enfant",
+        "• Complément de libre choix du mode de garde de la Paje (Cmg) « structure » : micro-chèche, organisme et crèche familiale.",
+        "• CMG « emploi direct » : assistant maternel ou garde à domicile",
+        "• Allocation de soutien familial (ASF)",
+        "• Allocation de rentrée scolaire (ARS)",
+        "• Allocation journalière de présence parentale (AJPP)",
+        "• Allocation d'éducation de l'enfant handicapé (AEEH)",
+        "• Allocation versée en cas de décès d'un enfant",
+        "• Allocation de logement familiale (ALF). Attention : dans certains cas, il n'est pas nécessaire d'avoir 1 enfant à charge pour percevoir l'ALF.",
+        "Au moins 2 enfants à charge",
+        "Allocations familiales",
+        "Au moins 3 enfants à charge",
+        "• Complément familial",
+        "• Prime de déménagement",
+        "[Attention] Les prestations familiales peuvent être soumises à conditions de revenus."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la sécurité sociale : article L511-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006156408/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles L512-1 à L512-6",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000006156161/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : article L513-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006156162"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles L521-1 à L521-3",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006156163/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles L522-1 à L522-3",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000006156164"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles L523-1 à L523-3",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006156165"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles L531-1 à L531-9",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000006156167/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles L541-1 à L541-5",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006156174"
+    },
+    {
+      "titre": "Code de la Sécurité sociale : article L545-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000041977472/#LEGISCTA000041977477"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : articles D842-1 à D842-4",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000038878689"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles L543-1 à L543-2",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006156177"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles L544-1 à L544-10",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006156179/"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : articles D823-20 à D823-22",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000038878897/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Caisse d'allocations familiales (Caf)",
+    "Mutualité sociale agricole (MSA)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "a-partir-de-combien-d-enfants-a-t-on-droit-aux-prestations-familiales",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "allocations-destinees-aux-familles",
+      "titre": "Allocations destinées aux familles"
+    }
+  ]
+}

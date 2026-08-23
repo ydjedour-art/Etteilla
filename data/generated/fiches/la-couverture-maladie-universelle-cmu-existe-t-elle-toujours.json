@@ -1,0 +1,51 @@
+{
+  "id": "F34306",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "La couverture maladie universelle (CMU) existe-t-elle toujours ?",
+  "theme": "Social - Santé",
+  "description": "Non, la couverture maladie universelle (CMU) de base est supprimée depuis janvier 2016 et est remplacée par la protection universelle maladie (Puma).",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-06-12",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34306",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Affiliation à la sécurité sociale (assurance maladie)",
+    "La couverture maladie universelle (CMU) existe-t-elle toujours ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Depuis le 1er janvier 2016, la CMU de base est supprimée compte tenu de la mise en place de la protection universelle maladie (Puma). Avec la Puma, toute personne qui travaille ou réside en France de manière stable et régulière a droit à la prise en charge de ses frais de santé.",
+        "La CMU complémentaire a été remplacée par la complémentaire santé solidaire (C2S)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la sécurité sociale : articles L160-1 à L160-7",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000031668675/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Protection universelle maladie (PUMa)",
+      "url": "https://www.ameli.fr/assure/droits-demarches/principes/protection-universelle-maladie"
+    }
+  ],
+  "slug": "la-couverture-maladie-universelle-cmu-existe-t-elle-toujours",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "affiliation-a-la-securite-sociale-assurance-maladie",
+      "titre": "Affiliation à la sécurité sociale (assurance maladie)"
+    }
+  ]
+}

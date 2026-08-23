@@ -1,0 +1,81 @@
+{
+  "id": "F36542",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Peut-on acheter un bien immobilier pendant une procédure de divorce ?",
+  "theme": "Famille - Scolarité",
+  "description": "Selon le régime matrimonial applicable à votre mariage, vous êtes propriétaire seul ou à 2 du bien acheté pendant la procédure de divorce.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-09-02",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F36542",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Divorce, séparation de corps",
+    "Peut-on acheter un bien immobilier pendant une procédure de divorce ?"
+  ],
+  "introduction": "Si vous souhaitez acquérir un bien immobilier (maison, appartement...) alors que vous n'êtes toujours pas divorcé, sachez que l'achat est toujours possible. Mais selon le régime matrimonial applicable à votre mariage, vous serez propriétaire seul ou à 2 du bien acheté. Nous vous expliquons les règles en la matière.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Communauté légale (sans contrat de mariage)",
+        "Le bien immobilier acheté pendant la procédure de divorce intègre le patrimoine commun, c'est-à-dire qu'il est la propriété de la communauté (donc la propriété des 2 époux).",
+        "En revanche, un époux peut acheter un bien immobilier uniquement avec des fonds propres. Ces fonds sont l'argent que l'époux détenait avant son mariage ou l'argent qu'il a reçu par succession ou donation. Dans ce cas, le bien immobilier n'intègre pas le patrimoine de la communauté. L'époux acheteur du bien immobilier doit veiller à ce que la clause de réemploi figure dans l'acte notarié d'acquisition.",
+        "La clause de réemploi est une déclaration contenue dans l'acte qui permet à l'époux d'indiquer qu'il utilise ses fonds propres pour acheter un nouveau bien.",
+        "[À savoir] Si la procédure de divorce arrive à son terme, la convention ou la décision de justice fixe une date à partir de laquelle les biens des époux ne sont plus des biens communs. Cela implique qu'un bien acheté après cette date par l'un des époux peut finalement être un bien à son seul nom.",
+        "Séparation de biens",
+        "Le bien immobilier acheté par un seul des époux pendant la procédure de divorce appartient uniquement à cet époux.",
+        "Communauté universelle",
+        "Le bien immobilier acheté pendant la procédure de divorce intègre le patrimoine commun, c'est-à-dire qu'il est la propriété de la communauté (donc la propriété des 2 époux).",
+        "[À savoir] Si la procédure de divorce arrive à son terme, la convention ou la décision de justice fixe une date à partir de laquelle les biens des époux ne sont plus des biens communs. Cela implique qu'un bien acheté après cette date par l'un des époux peut finalement être un bien à son seul nom."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : articles 1401 à 1408",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006181835/#LEGISCTA000006181835"
+    },
+    {
+      "titre": "Code civil : article 1406",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006439462"
+    },
+    {
+      "titre": "Code civil : article 1434",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006439640"
+    },
+    {
+      "titre": "Code civil : article 262-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038310866"
+    },
+    {
+      "titre": "Code civil : articles 1536 à 1543",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136375/#LEGISCTA000006136375"
+    },
+    {
+      "titre": "Code civil : article 1526",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006440556"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Notaire"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Vendre ou acheter un logement pendant une procédure de divorce",
+      "url": "https://www.notaires.fr/fr/couple-famille/divorce/vendre-ou-acheter-un-logement-pendant-une-procedure-de-divorce"
+    }
+  ],
+  "slug": "peut-on-acheter-un-bien-immobilier-pendant-une-procedure-de-divorce",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "divorce-separation-de-corps",
+      "titre": "Divorce, séparation de corps"
+    }
+  ]
+}

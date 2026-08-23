@@ -1,0 +1,51 @@
+{
+  "id": "F38460",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Un parent peut-il partir à l'étranger avec l'enfant pendant les vacances ou un week-end ?",
+  "theme": "Famille - Scolarité",
+  "description": "Un parent séparé peut partir avec son enfant à l'étranger pour les vacances. Il doit en informer l'autre parent.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-06-05",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F38460",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Séparation des parents",
+    "Un parent peut-il partir à l'étranger avec l'enfant pendant les vacances ou un week-end ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Pendant les week-ends ou les vacances, vous pouvez décider de partir à l'étranger (Europe et hors Europe) avec votre enfant.",
+        "Il est d'usage d'informer l'autre parent.",
+        "Ce parent peut opposer à ce voyage s'il craint que l'enfant ne revienne pas (parent ou enfant binational ou étranger) ou serait en danger (pays en guerre, risque climatique important).",
+        "S'il y a un risque que l'enfant ne revienne pas sur le territoire français, il est possible de saisir le Jaf dont dépend la résidence habituelle de l'enfant. Le juge peut prononcer une interdiction de sortie du territoire français (IST).",
+        "En cas d'urgence, il est possible d'obtenir une opposition à sortie du territoire français (OST)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Circulaire du 29 décembre 2016 relative aux conditions de sortie du territoire des mineurs",
+      "url": "https://www.legifrance.gouv.fr/download/pdf/circ?id=41689"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Avocat"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "un-parent-peut-il-partir-a-l-etranger-avec-l-enfant-pendant-les-vacances-ou-un-week-end",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "separation-des-parents",
+      "titre": "Séparation des parents"
+    }
+  ]
+}

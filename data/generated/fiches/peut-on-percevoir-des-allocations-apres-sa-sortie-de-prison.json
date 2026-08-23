@@ -1,0 +1,62 @@
+{
+  "id": "F31832",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Peut-on percevoir des allocations après sa sortie de prison ?",
+  "theme": "Justice",
+  "description": "Une personne libérée de prison peut obtenir des allocations en fonction de sa situation personnelle.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-02-04",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31832",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Prison",
+    "Peut-on percevoir des allocations après sa sortie de prison ?"
+  ],
+  "introduction": "Oui, après votre libération de prison, vous pouvez percevoir plusieurs types d'allocations en fonction de votre situation personnelle. Vous avez la possibilité de demander des aides sociales auprès de la Caisse d'allocations familiales (RSA, AAH, APL, etc.) et de France Travail (anciennement Pôle emploi). Le travail en prison vous permet aussi de bénéficier de droits à la retraite.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "[À savoir] Lorsque vous préparez votre libération, le conseiller pénitentiaire d'insertion et de probation (CPIP) qui vous suit vérifie si vous avez le droit à des aides sociales."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Décret n° 2025-8 du 4 janvier 2025 portant application des dispositions relatives à l'assurance chômage",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000050949658"
+    },
+    {
+      "titre": "Décret n° 2026-219 du 30 mars 2026 revalorisant l'allocation de solidarité spécifique, l'allocation temporaire d'attente et l'allocation équivalent retraite",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053733811"
+    },
+    {
+      "titre": "Code du travail : articles R5425-1 à R5425-10",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000018496562/#LEGISCTA000018524792"
+    },
+    {
+      "titre": "Instruction France Travail (anciennement Pôle emploi) n°2017-33 du 19 juillet 2017 relative à la suppression de l'allocation temporaire d'attente (Ata) à partir du 1er septembre 2017",
+      "url": "http://www.bo-pole-emploi.org/bulletinsofficiels/instruction-n-2017-33-du-19-juil.html?type=dossiers/2017/bope-n2017-66-du-3-aout-2017"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Allocation retour à l'emploi pour les détenus - après le 1er janvier 2025",
+      "url": "https://www.francetravail.fr/files/live/sites/PE/files/fichiers-en-telechargement/fichiers-en-telechargement---dem/2025/fly_detenus-liberes-jan25.pdf"
+    }
+  ],
+  "slug": "peut-on-percevoir-des-allocations-apres-sa-sortie-de-prison",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "prison",
+      "titre": "Prison"
+    }
+  ]
+}

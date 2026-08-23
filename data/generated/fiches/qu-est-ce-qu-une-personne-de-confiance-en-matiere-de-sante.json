@@ -1,0 +1,55 @@
+{
+  "id": "F32748",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Qu'est-ce qu'une personne de confiance en matière de santé ?",
+  "theme": "Social - Santé",
+  "description": "La personne de confiance peut notamment accompagner le patient dans les démarches d'ordre médical et l’assister lors des rendez-vous médicaux avec son accord.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-05-28",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F32748",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Hospitalisation et soins à domicile",
+    "Qu'est-ce qu'une personne de confiance en matière de santé ?"
+  ],
+  "introduction": "Le rôle d’une personne de confiance en matière de santé est différent selon votre état de santé et le contexte médical dans lequel vous vous trouvez. Si vous êtes en état d’exprimer votre volonté, cette personne peut vous accompagner dans vos démarches médicales. Dans le cas contraire, elle est notamment consultée sur les soins envisagés. Dès lors que vous êtes majeur, vous pouvez désigner une personne de confiance. Des particularités existent si vous êtes sous tutelle.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de la santé publique : article L1111-6",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041721063"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : annexe 4-10",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033275531"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Désignation d'une personne de confiance en matière de santé",
+      "url": "",
+      "type": "lettreTypeNG"
+    }
+  ],
+  "contacts": [
+    "Santé Info Droits"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "La personne de confiance",
+      "url": "https://www.france-assos-sante.org/wp-content/uploads/2023/06/Fiche-A.6_La-personne-de-confiance_2023.pdf"
+    }
+  ],
+  "slug": "qu-est-ce-qu-une-personne-de-confiance-en-matiere-de-sante",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "hospitalisation-et-soins-a-domicile",
+      "titre": "Hospitalisation et soins à domicile"
+    }
+  ]
+}

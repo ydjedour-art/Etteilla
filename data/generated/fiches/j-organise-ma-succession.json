@@ -1,0 +1,145 @@
+{
+  "id": "F17649",
+  "type_publication": "Fiche Comment faire si conditionné",
+  "titre": "J'organise ma succession",
+  "theme": "",
+  "description": "Je veux qu'après mon décès, les biens de mon patrimoine soient gérés selon mes souhaits. Pour cela, je dois d'abord déterminer la valeur de ma succession. Ensuite, je décide à qui transmettre mes biens, de mon vivant ou à mon décès, en respectant les règles de succession.",
+  "type_fiche": "Comment faire si...",
+  "date_modif": "2022-02-02",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F17649",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Comment faire si",
+    "J'organise ma succession"
+  ],
+  "introduction": "Je veux qu'après mon décès, les biens de mon patrimoine soient gérés selon mes souhaits. Pour cela, je dois d'abord déterminer la valeur de ma succession. Ensuite, je décide à qui transmettre mes biens, de mon vivant ou à mon décès, en respectant les règles de succession.",
+  "chapitres": [
+    {
+      "titre": "Évaluer la future succession",
+      "contenu": [
+        "Je détermine la valeur des biens que je possède.",
+        "Ils constitueront l'actif brut successoral entrant dans la succession après mon décès.",
+        "J’intègre dans ce calcul les éléments suivants :",
+        "• Biens immobiliers",
+        "• Objets mobiliers, bijoux et véhicules",
+        "• Comptes bancaires sur lesquels j'ai des droits",
+        "• Livrets d'épargne à mon nom",
+        "• Placements boursiers, plan d'épargne entreprise (PEE)",
+        "• Autres créances",
+        "• Valeur du plan d'épargne retraite collective (Perco) si je travaille toujours",
+        "À l'inverse, j'exclus de ce calcul les éléments suivants :",
+        "• Sommes inscrites sur un contrat d'assurance-vie",
+        "• Capital décès versé à mes ayants droit si je suis salarié du secteur privé ou fonctionnaire",
+        "• Immeubles soumis à tontine",
+        "• Immeubles pour lesquels je ne dispose que d'un usufruit intransmissible (logements vendus en viager ou occupés par un veuf ou une veuve, notamment)",
+        "Je déduis les dettes dont je suis seul responsable et dont le remboursement par une compagnie d'assurance n'est pas garanti en cas de décès. Je peux donc déduire de l'actif de la succession les éléments suivants :",
+        "• Crédit à la consommation",
+        "• Prêt sur gage",
+        "• Prêt viager hypothécaire",
+        "• Prêt conclu avec un particulier",
+        "Je déduis aussi les frais de mes obsèques.",
+        "J'obtiens alors la valeur prévisible de l'actif net successoral."
+      ]
+    },
+    {
+      "titre": "Prévoir le partage",
+      "contenu": [
+        "Je peux décider, dans un testament, à qui mes biens seront transmis au moment de mon décès.",
+        "Je peux aussi transmettre, de mon vivant, les biens de mon patrimoine à la personne de mon choix en faisant une donation.",
+        "Testament",
+        "Je détermine la part de l'actif net successoral que je peux transmettre librement.",
+        "Les règles sont différentes en présence ou en l'absence de descendants (enfants, petits-enfants...).",
+        "J'ai des enfants et/ou des petits-enfants",
+        "La part d'héritage réservée aux enfants est la suivante :",
+        "• La moitié des biens s'il y a 1 enfant",
+        "• Les 2/3 des biens s'il y a 2 enfants",
+        "• Les 3/4 des biens s'il y a 3 enfants et plus",
+        "Un petit-enfant héritera à la place de ses parents, dans les 3 cas suivants :",
+        "• Son parent est décédé",
+        "• Son parent renonce à la succession de son propre parent",
+        "• Son parent est indigne de succéder",
+        "La part de ma succession que je peux attribuer librement, appelée quotité disponible, dépend donc du nombre d'enfants.",
+        "[Exemple] J'ai un patrimoine de 200 000 € et 3 enfants. Mes enfants se partageront 75 % de ce patrimoine, soit 150 000 € à parts égales. Chaque enfant recevra donc 50 000 €. Je peux attribuer les 25 % restants, soit 50 000 € aux personnes de mon choix (héritiers ou tiers).",
+        "Je n'en ai pas",
+        "Je peux attribuer librement ma succession sauf si je suis marié. Dans ce cas, je dois réserver 1/4 des biens de mon patrimoine à mon époux.",
+        "Donation",
+        "Je détermine la part de mon patrimoine que je peux donner librement.",
+        "Les héritiers réservataires ne peuvent pas être exclus de ma succession.",
+        "Je peux donc donner librement la part qui dépasse la réserve héréditaire. On appelle cette part la quotité disponible.",
+        "Vous avez des enfants",
+        "Quotité disponible en présence d'enfants",
+        "Nombre d'enfants",
+        "Quotité disponible",
+        "1",
+        "1/2",
+        "2",
+        "1/3",
+        "3 ou plus",
+        "1/4",
+        "[À savoir] l'héritier réservataire peut renoncer par avance à contester une donation qui lui priverait de sa part d'héritage. Il doit exprimer cette volonté dans un pacte successoral.",
+        "Vous n'avez pas d'enfants",
+        "Quotité disponible en l'absence d'enfant",
+        "Situation maritale",
+        "Quotité disponible",
+        "Marié",
+        "3/4",
+        "Non marié",
+        "Tout",
+        "si vous êtes marié, le 1/4 revient à votre époux ou épouse.",
+        "[À savoir] l'héritier réservataire peut renoncer par avance à contester une donation qui lui priverait de sa part d'héritage. Il doit exprimer cette volonté dans un pacte successoral."
+      ]
+    },
+    {
+      "titre": "Évaluer la fiscalité du futur héritage",
+      "contenu": [
+        "J'évalue la fiscalité de ma succession.",
+        "Elle dépend de la valeur et de la nature des biens constituant l'actif successoral.",
+        "Elle dépend aussi des liens qui m'unissent à mes héritiers.",
+        "Je me renseigne donc sur les règles suivantes :",
+        "• Exonérations et réductions de droits de succession",
+        "• Abattements pour le calcul des droits de succession",
+        "• Droits de succession restant dus après abattements, exonérations et réductions",
+        "• Abattements pour le calcul des droits de donation"
+      ]
+    },
+    {
+      "titre": "Modification du régime matrimonial",
+      "contenu": [
+        "Si je suis marié(e) sous le régime de la séparation de biens ou de la communauté réduite aux acquêts, je peux en changer pour passer sous le régime de la communauté universelle."
+      ]
+    },
+    {
+      "titre": "Désigner une personne pour faire respecter mes volontés",
+      "contenu": [
+        "Pour faire respecter mes volontés, je peux désigner une personne pour gérer ma succession (exécuteur testamentaire ou mandataire à effet posthume).",
+        "Si je suis le seul parent d'un enfant mineur, je peux aussi indiquer officiellement qui sera chargé de s'en occuper après mon décès."
+      ]
+    },
+    {
+      "titre": "Transmission d'une entreprise",
+      "contenu": [
+        "Si je suis entrepreneur individuel ou exploitant agricole, je peux réaliser la transmission de mon entreprise ou de mon exploitation agricole."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Tontine (ou pacte tontinier)",
+      "url": "https://www.anil.org/votre-projet/vous-achetez-vous-construisez/votre-situation/union-libre/"
+    },
+    {
+      "titre": "Achat en société civile immobilière (SCI)",
+      "url": "https://www.anil.org/votre-projet/vous-achetez-vous-construisez/votre-situation/union-libre/"
+    }
+  ],
+  "slug": "j-organise-ma-succession",
+  "path": [
+    {
+      "slug": "comment-faire-si",
+      "titre": "Comment faire si"
+    }
+  ]
+}

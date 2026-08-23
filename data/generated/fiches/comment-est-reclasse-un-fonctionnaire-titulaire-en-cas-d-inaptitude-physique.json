@@ -1,0 +1,58 @@
+{
+  "id": "F549",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Comment est reclassé un fonctionnaire titulaire en cas d'inaptitude physique ?",
+  "theme": "Travail - Formation",
+  "description": "Le fonctionnaire titulaire devenu inapte à exercer ses fonctions est reclassé sur un autre emploi de son grade ou dans un autre corps ou cadre d'emplois.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-11-18",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F549",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Maladie ou accident du travail dans la fonction publique",
+    "Comment est reclassé un fonctionnaire titulaire en cas d'inaptitude physique ?"
+  ],
+  "introduction": "Vous êtes temporairement ou définitivement inapte en raison d’une altération de votre état de santé et vous vous demandez comment se déroule dans ce cas votre réaffectation dans un nouvel emploi compatible avec votre état de santé ? Nous vous présentons le dispositif de reclassement selon votre fonction publique d'appartenance (État - FPE, territoriale - FPT, hospitalière - FPH).",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code général de la fonction publique : articles L115-1 à L115-6",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044420657/"
+    },
+    {
+      "titre": "Code général de la fonction publique : articles L826-1 à L826-6",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044424087/"
+    },
+    {
+      "titre": "Code général de la fonction publique : articles L826-7 à L826-11",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044424101/"
+    },
+    {
+      "titre": "Décret n°84-1051 du 30 novembre 1984 relatif au reclassement des fonctionnaires de l'État reconnus inaptes à l'exercice de leurs fonctions (FPE)",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000885146/"
+    },
+    {
+      "titre": "Décret n°85-1054 du 30 septembre 1985 relatif au reclassement des fonctionnaires territoriaux reconnus inaptes à l'exercice de leurs fonctions (FPT)",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000682037/"
+    },
+    {
+      "titre": "Décret n°89-376 du 8 juin 1989 relatif au reclassement des fonctionnaires hospitaliers pour raisons de santé",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000885431/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "comment-est-reclasse-un-fonctionnaire-titulaire-en-cas-d-inaptitude-physique",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "maladie-ou-accident-du-travail-dans-la-fonction-publique",
+      "titre": "Maladie ou accident du travail dans la fonction publique"
+    }
+  ]
+}

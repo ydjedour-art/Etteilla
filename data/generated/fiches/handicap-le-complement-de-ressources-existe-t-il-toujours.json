@@ -1,0 +1,81 @@
+{
+  "id": "F12911",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Handicap : le complément de ressources existe-t-il toujours ?",
+  "theme": "Social - Santé",
+  "description": "Non, le complément de ressources est supprimé depuis le 1er décembre 2019, mais les personnes qui percevaient cette aide peuvent continuer à la recevoir.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-04-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F12911",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Handicap : allocations (AAH, AEEH, ...) et aides",
+    "Handicap : le complément de ressources existe-t-il toujours ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Non, le complément de ressources est supprimé depuis le 1er décembre 2019.",
+        "Toutefois, si vous perceviez cette aide jusqu'à cette date, vous continuez à la recevoir pendant 10 ans, à condition de remplir les critères d'attribution (liés à votre taux d'incapacité, à vos ressources et votre logement).",
+        "Le complément de ressources forme avec l'AAH ce que l'on appelle la garantie de ressources.",
+        "Le montant du complément de ressources est fixé à 179,31 € ce qui porte la garantie de ressources (AAH + complément de ressources) à 1 220,90 € par mois.",
+        "Taux d'incapacité",
+        "Vous devez remplir les 2 conditions suivantes :",
+        "• Avoir un taux d'incapacité permanente d'au moins 80 %",
+        "• Avoir une capacité de travail inférieure à 5 % du fait de votre handicap. Les 5 % équivalent à une incapacité de travail quasi absolue.",
+        "Le taux d’incapacité est déterminé par la commission des droits pour l’autonomie des personnes handicapées (CDAPH). Ce taux est fixé en fonction d'un guide-barème pour l'évaluation des déficiences et incapacités des personnes handicapées.",
+        "Ressources",
+        "Vous devez remplir les 2 conditions suivantes :",
+        "• Percevoir l'allocation aux adultes handicapés (AAH) à taux plein ou en complément d'une retraite, d'une pension d'invalidité ou d'une rente d'accident du travail",
+        "• Ne pas avoir perçu de revenu d’activité professionnelle depuis 1 an à la date du dépôt de la demande de complément.",
+        "[À savoir] Le complément de ressources cesse d'être versé si vous travaillez.",
+        "Logement",
+        "Vous devez résider dans un logement indépendant, c'est-à-dire un logement qui ne dépend pas d’un établissement.",
+        "Si vous êtes hébergé au domicile d’un particulier, ce logement n'est pas considéré comme indépendant. En revanche, si le logement appartient à la personne avec laquelle vous vivez en couple, il est alors considéré comme indépendant.",
+        "Si vous avez atteint l'âge légal du départ à la retraite, le complément de ressources est versé lorsque vous percevez l'AAH en complément d'une retraite. Vous devez toutefois remplir les conditions d'accès au complément de ressources."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la sécurité sociale : article D821-3",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019505277/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : article R821-7-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023097748/"
+    },
+    {
+      "titre": "Loi n°2018-1317 du 28 décembre 2018 de finances : article 266",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000037935203"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Maison départementale des personnes handicapées (MDPH)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Dossier pratique relatif à l'allocation adultes handicapés (AAH)",
+      "url": "https://www.caf.fr/allocataires/aides-et-demarches/droits-et-prestations/handicap/l-allocation-aux-adultes-handicapes-aah"
+    },
+    {
+      "titre": "Tout comprendre sur l'allocation aux adultes handicapés à Mayotte",
+      "url": "https://www.caf.fr/allocataires/aides-et-demarches/droits-et-prestations/handicap/l-allocation-aux-adultes-handicapes-aah/mayotte"
+    }
+  ],
+  "slug": "handicap-le-complement-de-ressources-existe-t-il-toujours",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "handicap-allocations-aah-aeeh-et-aides",
+      "titre": "Handicap : allocations (AAH, AEEH, ...) et aides"
+    }
+  ]
+}

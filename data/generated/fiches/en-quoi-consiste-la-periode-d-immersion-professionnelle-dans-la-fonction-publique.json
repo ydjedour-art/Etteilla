@@ -1,0 +1,60 @@
+{
+  "id": "F36642",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "En quoi consiste la période d'immersion professionnelle dans la fonction publique ?",
+  "theme": "Travail - Formation",
+  "description": "Une période d'immersion professionnelle a pour but de vous permettre d'appréhender un métier en vue de confirmer un projet d'évolution professionnelle.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-08-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F36642",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Mobilité dans la fonction publique",
+    "En quoi consiste la période d'immersion professionnelle dans la fonction publique ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Une période d'immersion professionnelle est une période au cours de laquelle vous demandez à être placé temporairement auprès d'un autre employeur public que le vôtre, pour appréhender la réalité d'un métier, observer sa pratique et son environnement professionnel.",
+        "La période d'immersion professionnelle a pour but de vous permettre de confirmer un projet d'évolution professionnelle et de faire un choix éclairé de mobilité.",
+        "L'employeur public d'accueil peut être une administration ou un établissement public de l'État de votre choix. Cela peut aussi être une collectivité ou un établissement public territorial ou un établissement public hospitalier ou tout autre organisme public.",
+        "La période d'immersion a pour but, lorsque vous êtes en recherche de mobilité ou de reconversion professionnelle, de vous mettre dans la situation professionnelle que vous envisagez de rejoindre.",
+        "La durée d'une période d'immersion professionnelle peut être de 2 à 10 jours ouvrés, consécutifs ou non.",
+        "La durée cumulée de plusieurs périodes d'immersion ne peut pas dépasser 20 jours sur 3 ans.",
+        "La période d'immersion professionnelle est assimilée à un temps de service effectif.",
+        "Qui peut bénéficier d’une période d'immersion professionnelle ?",
+        "Chaque agent public (fonctionnaire ou contractuel) peut bénéficier d'une période d'immersion professionnelle.",
+        "Comment faire la demande de période d'immersion professionnelle ?",
+        "La période d'immersion donne lieu à une convention tripartite entre vous, votre administration employeur et la structure d'accueil.",
+        "Cette convention définit les fonctions observées, le lieu, la durée et la date de la période d'immersion (ou les dates en cas de fractionnement de la période).",
+        "Pendant la période d'immersion, vous êtes considéré comme étant en mission.",
+        "Votre rémunération reste inchangée pendant la période d'immersion.",
+        "Vous pouvez bénéficier si nécessaire d'une prise en charge de vos frais de déplacement comme un agent en mission.",
+        "Si vous êtes travailleur handicapé bénéficiaire de l'obligation d'emploi et si vous disposez d'aides humaines ou matérielles contribuant à l'adaptation de votre poste de travail, votre administration employeur s'assure que vous bénéficiez des aides nécessaires au bon déroulement de la période d'immersion. Ces aides sont définies dans la convention tripartite."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général de la fonction publique : articles R421-32 à R421-37",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000054076406/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "en-quoi-consiste-la-periode-d-immersion-professionnelle-dans-la-fonction-publique",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "mobilite-dans-la-fonction-publique",
+      "titre": "Mobilité dans la fonction publique"
+    }
+  ]
+}

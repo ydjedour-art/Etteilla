@@ -1,0 +1,93 @@
+{
+  "id": "F14079",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Voyage aux USA : quelles sont les formalités (passeport, Esta, visa...) ?",
+  "theme": "Étranger - Europe",
+  "description": "Vous pouvez vous rendre aux États-Unis sans visa si vous avez un passeport biométrique (délivré depuis 2009) ou électronique, mais vous devez avoir l'Esta.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-10-20",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F14079",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Voyager à l'étranger",
+    "Voyage aux USA : quelles sont les formalités (passeport, Esta, visa...) ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les formalités pour se rendre aux États-Unis pour un séjour inférieur à 90 jours dépendent du type de passeport que vous possédez. Mais, dans tous les cas, votre passeport doit être en cours de validité.",
+        "Vous avez un passeport classique",
+        "Si vous avez un passeport français valide ou que vous êtes européen et que vous partez aux USA pour une durée maximum de 90 jours, vous n'avez pas besoin de visa.",
+        "En revanche, avant votre départ, vous devez solliciter une autorisation électronique de voyage (Esta).",
+        "La demande d'Esta se fait sur internet :",
+        "Demande d'une autorisation de voyage aux États-Unis (Esta)",
+        "Vous devez avoir votre passeport et une carte bancaire.",
+        "En général, la décision est prise dans les 72 heures qui suivent votre demande.",
+        "La délivrance de l'Esta coûte 40 $.",
+        "L'Esta est valable 2 ans et permet de se rendre aux États-Unis plusieurs fois sans avoir besoin d'une nouvelle autorisation. Si votre passeport expire avant ce délai, l'autorisation n'est valable que jusqu'à sa date d'expiration.",
+        "[À noter] Si vous arrivez aux États-Unis par la route ou par le train (via le Canada ou le Mexique), l'Esta est exigée. Ainsi, vous devez recevoir une Esta avant de demander l'admission aux USA et continuer à payer les frais I-94W de 6 $, sauf si vous entrez dans la période d’admission de 90 jours. Si vous entrez aux États-Unis par avion ou par bateau, le formulaire I-94 est généré automatiquement à votre arrivée et vous n'avez pas de frais supplémentaire à payer.",
+        "Toutefois, vous devrez être en possession d'un visa apposé sur votre passeport français par les autorités américaines avant votre départ si vous êtes dans l'une des situations suivantes :",
+        "• Vous avez une double nationalité avec certains pays et/ou vous y avez voyagé après février 2011",
+        "• Vous vous êtes rendus à Cuba depuis le 12 janvier 2021 ou vous avez l'intention d'y aller avant d'entrer aux États-Unis.",
+        "• Vous vous rendez aux USA en bateau ou en avion privé en passant par Porto Rico ou par les iles vierges américaines",
+        "Il est vivement recommandé de contacter l'ambassade ou le consulat des États-Unis préalablement à votre départ.",
+        "Ambassade ou consulat des États-Unis en France",
+        "[À noter] L'obtention du visa peut prendre plusieurs semaines.",
+        "Vous avez obtenu un passeport en urgence",
+        "Vous avez besoin d'un visa quel que soit le type de voyage (touristique, professionnel ou simple transit sur le sol américain)",
+        "Pour l'obtenir, vous devez faire la demande auprès de l'ambassade des États-Unis."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [
+    {
+      "titre": "Demande d'une autorisation de voyage aux États-Unis (Esta)",
+      "url": "https://esta.cbp.dhs.gov/",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "Ambassade ou consulat des États-Unis en France"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Ai-je besoin d'un visa pour les États-Unis ?",
+      "url": "https://fr.usembassy.gov/fr/visas-fr/"
+    },
+    {
+      "titre": "Procédure de demande de visa - Séjour temporaire aux États-Unis",
+      "url": "https://fr.usembassy.gov/fr/visas-fr/visas-de-sejour-temporaire/"
+    },
+    {
+      "titre": "Questions-Réponses sur le visa de séjour temporaire aux États-Unis",
+      "url": "https://ais.usvisa-info.com/fr-fr/niv/information/faqs"
+    },
+    {
+      "titre": "Conditions d'entrée et de séjour aux États-Unis",
+      "url": "http://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays/etats-unis-12311/"
+    },
+    {
+      "titre": "Parafe : passage rapide des frontières",
+      "url": "https://www.parisaeroport.fr/passagers/preparation-vol/formalites-embarquement/controle-frontieres"
+    },
+    {
+      "titre": "Validité du passeport",
+      "url": "https://fr.usembassy.gov/fr/visas-fr/validite-des-passeports/"
+    }
+  ],
+  "slug": "voyage-aux-usa-quelles-sont-les-formalites-passeport-esta-visa",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "voyager-a-l-etranger",
+      "titre": "Voyager à l'étranger"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "F1826",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Limitations de liberté du mineur avant le prononcé d’une sanction pénale",
+  "theme": "Justice",
+  "description": "La liberté du mineur peut être limitée par un contrôle judiciaire, une assignation à résidence ou une détention provisoire.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-03-19",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1826",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Justice pénale des mineurs",
+    "Limitations de liberté du mineur avant le prononcé d’une sanction pénale"
+  ],
+  "introduction": "La liberté d’un mineur peut-elle être limitée avant qu’il soit sanctionné ? Oui, plusieurs mesures limitent la liberté du mineur : le contrôle judiciaire, l’assignation à résidence et la détention provisoire. Ces mesures sont ordonnées lors d’une audience au cours de laquelle les représentants légaux du mineur sont convoqués. Les conditions dans lesquelles elles sont mises en place et exécutées dépendent de l’âge du mineur. Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de la justice pénale des mineurs : articles L12-1 à L12-6",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000039087877/2021-09-30"
+    },
+    {
+      "titre": "Code de justice pénale des mineurs : articles L331-1 à L331-7",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000039086952/LEGISCTA000039088135/2021-10-01/#LEGISCTA000039088135"
+    },
+    {
+      "titre": "Code de la justice pénale des mineurs : articles L333-1 à L333-2",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000039086952/LEGISCTA000039088157/#LEGISCTA000039088157"
+    },
+    {
+      "titre": "Code de la justice pénale des mineurs : articles L334-1 à L334-6",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000039086952/LEGISCTA000039088163/2021-10-01/#LEGISCTA000039088163"
+    },
+    {
+      "titre": "Code de justice pénale des mineurs : articles L 434-5 à L 434-9",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000039086952/LEGISCTA000039088331/2021-10-01/#LEGISCTA000039088331"
+    },
+    {
+      "titre": "Loi n° 2025-568 du 23 juin 2025 visant à renforcer l'autorité de la justice à l'égard des mineurs délinquants et de leurs parents",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051782996"
+    },
+    {
+      "titre": "Code de la justice pénale des mineurs : article L433-6",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039088313"
+    },
+    {
+      "titre": "Code de justice pénale des mineurs : article D241-14",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053673981/2026-03-15"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Avocat",
+    "Maison de justice et du droit"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Les représentants légaux",
+      "url": "http://www.justice.gouv.fr/art_pix/cjpm_ft_representants_legaux.pdf"
+    },
+    {
+      "titre": "Justice pénale des mineurs",
+      "url": "https://www.justice.gouv.fr/cjpm-outils-pratiques-fiches-techniques"
+    }
+  ],
+  "slug": "limitations-de-liberte-du-mineur-avant-le-prononce-d-une-sanction-penale",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "justice-penale-des-mineurs",
+      "titre": "Justice pénale des mineurs"
+    }
+  ]
+}

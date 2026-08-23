@@ -1,0 +1,73 @@
+{
+  "id": "F968",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Déclaration de grossesse",
+  "theme": "Social - Santé",
+  "description": "Une fois la grossesse confirmée, l'Assurance maladie doit en être informée pour permettre la prise en charge des frais liés à la grossesse.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-10-24",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F968",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Grossesse, assistance à la procréation",
+    "Déclaration de grossesse"
+  ],
+  "introduction": "Si votre grossesse est confirmée, l'Assurance maladie doit en être informée. Déclarer sa grossesse permet la prise en charge de votre grossesse par l'Assurance maladie et le versement des futures prestations familiales. Les démarches à entreprendre varient selon qu'elles se font sur internet ou avec un formulaire papier. Nous vous exposons les règles à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Vous devez effectuer un 1er examen prénatal auprès de votre médecin (généraliste ou gynécologue) ou de votre sage-femme avant la fin du 3e mois de grossesse, c’est-à-dire au cours du 1er trimestre de grossesse.",
+        "En général, le médecin ou la sage-femme effectue la déclaration de grossesse en ligne, vous n’avez alors pas de démarche à faire.",
+        "Si le médecin ou la sage-femme utilise la déclaration papier, ils vous remettront le formulaire de déclaration de grossesse en 3 volets intitulé « Premier examen médical prénatal ».",
+        "Pour faciliter vos remboursements, pensez à mettre à jour votre carte Vitale. Pour cela, des bornes sont disponibles dans la plupart des pharmacies, organismes d'Assurance maladie et certains établissements de santé."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Loi n°2018-1203 du 22 décembre 2018 (LFSS pour 2019) : article 74",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000037849580"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Caisse primaire d'assurance maladie (CPAM)",
+    "Mutualité sociale agricole (MSA)",
+    "Centre de protection maternelle et infantile (PMI)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Le guide « Ma maternité - Je prépare l'arrivée de mon enfant »",
+      "url": "https://www.ameli.fr/sites/default/files/Documents/guide-maternite-2023.pdf"
+    },
+    {
+      "titre": "Grossesse : démarches et accompagnement",
+      "url": "https://www.ameli.fr/assure/droits-demarches/famille/maternite-paternite-adoption/grossesse"
+    },
+    {
+      "titre": "Un parcours dédié aux parents et futurs parents",
+      "url": "https://www.caf.fr/allocataires/parcours-naissance"
+    },
+    {
+      "titre": "Préparez votre prochaine consultation",
+      "url": "https://www.ameli.fr/sites/default/files/Documents/4898/document/preparation-consultation-grossesse_assurance-maladie.pdf"
+    },
+    {
+      "titre": "La doudou liste - Ce qu’il faut faire à chaque étape (grossesse et naissance)",
+      "url": "https://www.ameli.fr/sites/default/files/Documents/Doudou%20liste_Caf-assurance-maladie.pdf"
+    }
+  ],
+  "slug": "declaration-de-grossesse",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "grossesse-assistance-a-la-procreation",
+      "titre": "Grossesse, assistance à la procréation"
+    }
+  ]
+}

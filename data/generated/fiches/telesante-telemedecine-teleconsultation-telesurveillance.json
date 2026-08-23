@@ -1,0 +1,76 @@
+{
+  "id": "F34696",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Télésanté : télémédecine (téléconsultation, télésurveillance...)",
+  "theme": "Social - Santé",
+  "description": "La télémédecine est une pratique médicale à distance. Elle se traduit notamment par la téléconsultation et la télésurveillance.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-06-27",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34696",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Remboursement des soins par la Sécurité sociale",
+    "Télésanté : télémédecine (téléconsultation, télésurveillance...)"
+  ],
+  "introduction": "La télémédecine est une pratique médicale à distance via la voie de nouvelles technologies. Elle permet notamment d'établir un diagnostic, d'assurer un suivi médical, de prescrire des produits de santé. Elle se traduit notamment par la téléconsultation et la télésurveillance. Par exemple, la téléconsultation permet au patient de consulter son médecin via un ordinateur, une tablette ou un smartphone équipés d’une webcam et reliés à internet.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "La télémédecine regroupe 5 notions :",
+        "• La téléconsultation",
+        "• La télésurveillance",
+        "• La téléexpertise",
+        "• La téléassistance",
+        "• La régulation médicale réalisée par les SAMU - centres 15."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Arrêté du 16 août 2018 organisant la télémédecine dans la convention nationale des médecins libéraux",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000037324513/"
+    },
+    {
+      "titre": "Décision du 7 décembre 2021 de l'Union nationale des caisses d'assurance maladie relative à la liste des actes et prestations pris en charge par l'assurance maladie",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000044833722"
+    },
+    {
+      "titre": "Code de la santé publique : article R6316-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000022933197"
+    },
+    {
+      "titre": "Code de la santé publique : articles R6316-2 à R6316-4",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000022933202/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles R161-39 à R161-49",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000006186377"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles L162-48 à L162-57",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000044565880/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles R162-73 à R162-111",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000046879948/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Santé Info Droits"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "telesante-telemedecine-teleconsultation-telesurveillance",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "remboursement-des-soins-par-la-securite-sociale",
+      "titre": "Remboursement des soins par la Sécurité sociale"
+    }
+  ]
+}

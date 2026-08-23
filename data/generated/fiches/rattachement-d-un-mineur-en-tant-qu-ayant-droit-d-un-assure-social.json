@@ -1,0 +1,90 @@
+{
+  "id": "F16620",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Rattachement d'un mineur en tant qu'ayant droit d'un assuré social",
+  "theme": "Social - Santé",
+  "description": "Le mineur peut bénéficier de la qualité d'ayant droit d'un assuré social auprès de l'un de ses parents ou des 2.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2024-11-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F16620",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Affiliation à la sécurité sociale (assurance maladie)",
+    "Rattachement d'un mineur en tant qu'ayant droit d'un assuré social"
+  ],
+  "introduction": "Un mineur peut-il être ayant droit d'un assuré social auprès de l'un de ses parents ou des 2 ? Oui. Cependant, à 16 ans, il peut demander à devenir un assuré social autonome. Nous vous présentons la réglementation à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de la sécurité sociale : articles L160-1 à L160-7",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000031668675/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles L161-4 à L161-15-4",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006185851"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles L161-1 à L161-1-5",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006185850"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles R161-3 à R161-8-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006186373/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles D160-1 à D160-2",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000031805892/"
+    },
+    {
+      "titre": "Arrêté du 4 mai 2007 relatif au rattachement des enfants à leurs parents et des autres ayants droit à un assuré",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006056485"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demande de rattachement des enfants à l'un ou aux deux parents - Assurances maladie et maternité",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_14445.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Demander l'ouverture des droits à l'Assurance maladie",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_15763.do",
+      "type": "formulaireNG"
+    },
+    {
+      "titre": "Ameli en ligne",
+      "url": "https://assure.ameli.fr/PortailAS/appmanager/PortailAS/assure?_somtc=true&_pageID=P1_NAISSANCE_ENFANT&utm_source=ameli.fr&utm_medium=lien_redirection&utm_campaign=NAISSANCE_ENFANT#idPopupWARecueilConsentement",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "Caisse primaire d'assurance maladie (CPAM)",
+    "Mutualité sociale agricole (MSA)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Site de l'Assurance maladie",
+      "url": "https://www.ameli.fr/"
+    },
+    {
+      "titre": "Protection universelle maladie (PUMa)",
+      "url": "https://www.ameli.fr/assure/droits-demarches/principes/protection-universelle-maladie"
+    },
+    {
+      "titre": "Dès vos 18 ans, adoptez les bons réflexes",
+      "url": "https://www.ameli.fr/assure/sante/jeunes-16-25-ans/la-sante-des-16-25-ans/des-vos-18-ans-adoptez-les-bons-reflexes"
+    }
+  ],
+  "slug": "rattachement-d-un-mineur-en-tant-qu-ayant-droit-d-un-assure-social",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "affiliation-a-la-securite-sociale-assurance-maladie",
+      "titre": "Affiliation à la sécurité sociale (assurance maladie)"
+    }
+  ]
+}

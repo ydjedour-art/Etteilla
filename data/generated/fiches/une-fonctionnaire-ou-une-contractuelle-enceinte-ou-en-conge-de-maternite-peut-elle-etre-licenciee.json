@@ -1,0 +1,62 @@
+{
+  "id": "F39467",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Une fonctionnaire ou une contractuelle enceinte ou en congé de maternité peut-elle être licenciée ?",
+  "theme": "Travail - Formation",
+  "description": "Une fonctionnaire ou une contractuelle enceinte ou en congé de maternité bénéficie d'une protection contre le licenciement.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-01-23",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F39467",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Quitter la fonction publique",
+    "Une fonctionnaire ou une contractuelle enceinte ou en congé de maternité peut-elle être licenciée ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Que vous soyez fonctionnaire ou contractuelle, aucun licenciement ne peut être prononcé à votre encontre si vous êtes en état de grossesse médicalement constaté ou en congé de maternité ou pendant une période de 10 semaines suivant la fin de votre congé de maternité.",
+        "Si le licenciement vous est notifié avant la constatation médicale de votre grossesse, vous pouvez, dans les 15 jours suivant cette notification, justifier de votre état de grossesse par l'envoi, en recommandé avec accusé de réception, d'un certificat médical.",
+        "Le licenciement est alors annulé.",
+        "Toutefois, si le licenciement intervient pour motif disciplinaire, cette interdiction de licenciement ne s’applique pas.",
+        "Cette interdiction de licenciement ne s’applique pas non plus lorsque si votre CDD arrive à son terme ou si votre administration employeur est dans l'impossibilité de continuer à vous réemployer pour un motif étranger à votre grossesse, à l'accouchement ou à la naissance.",
+        "[Attention] Le licenciement pour insuffisance professionnelle, prononcée en fin de stage, est exclu du champ de l’interdiction. Une fonctionnaire stagiaire en état de grossesse peut donc légalement être licenciée à la fin de la période de stage."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Décret n°86-83 du 17 janvier 1986 relatif aux agents contractuels de la FPE",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000699956/"
+    },
+    {
+      "titre": "Décret n°88-145 du 15 février 1988 relatif aux agents non titulaires de la FPT",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000871608"
+    },
+    {
+      "titre": "Décret n°91-155 du 6 février 1991 relatif aux agents contractuels de la FPH",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000343794"
+    },
+    {
+      "titre": "Conseil d'Etat - 9 juillet 1997 - n°158347",
+      "url": "https://www.legifrance.gouv.fr/ceta/id/CETATEXT000007948518/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "une-fonctionnaire-ou-une-contractuelle-enceinte-ou-en-conge-de-maternite-peut-elle-etre-licenciee",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "quitter-la-fonction-publique",
+      "titre": "Quitter la fonction publique"
+    }
+  ]
+}

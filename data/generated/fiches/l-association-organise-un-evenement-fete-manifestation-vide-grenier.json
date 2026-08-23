@@ -1,0 +1,66 @@
+{
+  "id": "F31613",
+  "type_publication": "Fiche Comment faire si conditionné",
+  "titre": "L'association organise un événement : fête, manifestation, vide-grenier",
+  "theme": "",
+  "description": "Vous souhaitez organiser un événement associatif et vous vous demandez comment procéder ? Vous devez faire une demande et/ou déclaration d'autorisation.",
+  "type_fiche": "Comment faire si...",
+  "date_modif": "2025-11-19",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31613",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Comment faire si",
+    "L'association organise un événement : fête, manifestation, vide-grenier"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Si, en tant que responsables d’une association, vous souhaitez organiser un événement associatif, les démarches à effectuer dépendent du type d’événement :",
+        "• Manifestation, défilé ou rassemblement sur la voie publique",
+        "• Course à pied ou marche sur la voie publique",
+        "• Course cycliste sur la voie publique",
+        "• Course de véhicules à moteur",
+        "• Loto, loterie ou tombola",
+        "• Buvette ou débit de boisson temporaire",
+        "• Braderie (ou foire-à-tout ou vide-grenier)",
+        "• Diffusion de musique lors d’une manifestation.",
+        "Quelle que soit la nature de l’événement, l’association doit respecter les règles suivantes :",
+        "• Assurer la sécurité des participants : prévoir un dispositif adapté (agents de sécurité, secouristes, pompiers)",
+        "• Gérer les déchets : mise en place de poubelles, collecte après l’événement, coordination avec la mairie",
+        "• Respecter l’accessibilité : prévoir les aménagements nécessaires pour accueillir les personnes en situation de handicap (rampes, sanitaires adaptés, dispositifs d’aide à l’audition…)",
+        "• Demander une autorisation d’occupation du domaine public si l’événement se déroule dans un espace public (parc, place, rue).",
+        "Avant toute organisation, contactez la mairie du lieu de l’événement. Elle pourra vous informer des démarches obligatoires et des règles locales applicables.",
+        "Mairie"
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [
+    {
+      "titre": "Demande d'autorisation de loterie - actes de bienfaisance – encouragement des arts – financement d'activités sportives à but non lucratif",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_11823.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Déclaration préalable d'une vente au déballage",
+      "url": "https://www.entreprendre.service-public.gouv.fr/simulateur/calcul/13939",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Déclaration d'un local hébergeant des mineurs",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_12751.do",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "l-association-organise-un-evenement-fete-manifestation-vide-grenier",
+  "path": [
+    {
+      "slug": "comment-faire-si",
+      "titre": "Comment faire si"
+    }
+  ]
+}

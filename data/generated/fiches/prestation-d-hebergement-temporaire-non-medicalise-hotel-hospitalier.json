@@ -1,0 +1,81 @@
+{
+  "id": "F35876",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Prestation d'hébergement temporaire non médicalisé (hôtel hospitalier)",
+  "theme": "Social - Santé",
+  "description": "Les établissements de santé peuvent mettre en place un dispositif d'hébergement non médicalisé avant ou après un séjour hospitalier ou d'une séance de soins.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-27",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35876",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Hospitalisation et soins à domicile",
+    "Prestation d'hébergement temporaire non médicalisé (hôtel hospitalier)"
+  ],
+  "introduction": "Qu'entend-on par hôtel hospitalier ? Les établissements de santé peuvent mettre en place un dispositif d'hébergement non médicalisé avant ou après un séjour hospitalier ou d'une séance de soins. Cela vous concerne si votre état de santé ne nécessite pas d'hébergement hospitalier pour votre prise en charge et que votre domicile est éloigné de l'établissement de santé. Le dispositif existe aussi pour les femmes enceintes vivant à plus de 45 minutes en voiture de l'établissement le plus proche.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de la santé publique : article L6111-1-6",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042680760"
+    },
+    {
+      "titre": "Code de la santé publique : articles R6111-50 à R6111-54",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000043972637/"
+    },
+    {
+      "titre": "Arrêté du 25 août 2021 fixant les conditions d'accès au financement de l'hébergement temporaire non médicalisé",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000043970855/"
+    },
+    {
+      "titre": "Arrêté du 8 octobre 2021 précisant les critères d'éligibilité à l'hébergement temporaire non médicalisé",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000044229343/"
+    },
+    {
+      "titre": "Code de la santé publique : articles R6111-55 à R6111-64",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000045583783/"
+    },
+    {
+      "titre": "Arrêté du 29 avril 2022 fixant les conditions d'accès à l'hébergement temporaire non médicalisé des femmes enceintes et à la prise en charge des transports correspondants",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000045726732"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Caisse primaire d'assurance maladie (CPAM)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Les hôtels hospitaliers",
+      "url": "https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/les-hotels-hospitaliers"
+    },
+    {
+      "titre": "Maternité éloignée : hébergement et transport",
+      "url": "https://www.ameli.fr/assure/remboursements/rembourse/maternite-eloignee-hebergement-et-transport"
+    },
+    {
+      "titre": "Le télésoin",
+      "url": "https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/article/le-telesoin"
+    },
+    {
+      "titre": "La télémédecine",
+      "url": "https://www.france-assos-sante.org/wp-content/uploads/2016/01/Fiche-A.14_Telemedecine.pdf"
+    },
+    {
+      "titre": "Communes de la métropole du Grand Paris",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000031256987/"
+    }
+  ],
+  "slug": "prestation-d-hebergement-temporaire-non-medicalise-hotel-hospitalier",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "hospitalisation-et-soins-a-domicile",
+      "titre": "Hospitalisation et soins à domicile"
+    }
+  ]
+}

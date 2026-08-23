@@ -1,0 +1,87 @@
+{
+  "id": "F31672",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "En cas de changement de syndic, que deviennent les documents de la copropriété ?",
+  "theme": "Logement",
+  "description": "Le syndic en place doit transmettre certaines informations et documents de la copropriété au nouveau syndic.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-08-04",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31672",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Documents de copropriété",
+    "En cas de changement de syndic, que deviennent les documents de la copropriété ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les documents de la copropriété n’appartiennent pas au syndic mais au syndicat des copropriétaires. Le syndic est uniquement le dépositaire de ces documents, c’est-à-dire qu’il a la charge de les conserver durant son mandat.",
+        "C’est pourquoi, lorsqu'il y a un changement de syndic, le syndic sortant doit remettre les archives de la copropriété au nouveau syndic. Cette obligation légale vise à garantir la continuité de la gestion de l'immeuble et à éviter tout dysfonctionnement.",
+        "La loi prévoit ainsi la transmission de plusieurs documents et informations entre les 2 syndics dans des délais précis (15 jours, 1 mois et 2 mois). Il s'agit de délais en jours ou mois calendaires.",
+        "Documents à remettre dans un délai de 15 jours à partir de l'arrêt des fonctions de syndic",
+        "• Situation de trésorerie de la copropriété",
+        "• Références des comptes bancaires du syndicat des copropriétaires et coordonnées de la banque",
+        "Ces documents peuvent être remis en format papier ou dématérialisé, à la condition qu'ils soient téléchargeables et imprimables.",
+        "Documents à remettre dans un délai de 1 mois à partir de l'arrêt des fonctions de syndic",
+        "Le syndic doit transmettre l'ensemble des documents et archives du syndicat de copropriétaires.",
+        "Il s'agit des documents :",
+        "• Juridiques et administratifs (règlement de copropriété, état descriptif de division, registre des procès-verbaux d'assemblée générale, liste des copropriétaires avec leurs coordonnées, carnet d’entretien de l’immeuble, contrats en cours avec les fournisseurs et les prestataires, etc.)",
+        "• Comptables et financiers (relevés bancaires et soldes des comptes de la copropriété, grands livres de la copropriété, balance comptable, documents concernant les impayés et procédures en cours, factures et justificatifs des dépenses, etc.)",
+        "• Techniques et d'entretien (diagnostics techniques obligatoires comme le diagnostic technique global, amiante, plomb, diagnostic de performance énergétique , plans de l'immeuble, documents relatifs aux sinistres et aux assurances, etc.)",
+        "• Concernant le personnel de l'immeuble (contrats de travail des employés de l’immeuble, fiches de paie, déclarations sociales et documents Urssaf).",
+        "Les éléments liés à la gestion de l'immeuble ou aux lots gérés envoyés de façon dématérialisée doivent avoir un format téléchargeable et imprimable.",
+        "Les archives doivent être accompagnées d'un bordereau récapitulatif des documents remis. Le syndic doit remettre une copie de ce bordereau au conseil syndical.",
+        "[À savoir] Lorsque le syndicat des copropriétaires a fait le choix de confier ses archives à un prestataire spécialisé, le syndic doit informer le prestataire de ce changement en communiquant les coordonnées du nouveau syndic dans le délai de 1 mois.",
+        "Les documents et archives du syndicat sont portables : c’est à l’ancien syndic d’adresser les documents au nouveau syndic, et non au nouveau syndic d’aller les chercher.",
+        "Documents à remettre dans un délai de 2 mois à partir de l'arrêt des fonctions",
+        "• État des comptes des copropriétaires et du syndicat de copropriétaires après apurement et clôture.",
+        "Ces documents peuvent être remis en format papier ou dématérialisé, à la condition qu'ils soient téléchargeables et imprimables.",
+        "Si le syndic ne remet pas les documents exigés dans les délais",
+        "En cas de refus ou de retard dans la transmission des archives de la copropriété, le nouveau syndic ou le président du conseil syndical doit mettre en demeure l'ancien syndic de transmettre les documents. Cette mise en demeure doit être faite par l'un des moyens suivants :",
+        "• Lettre recommandée avec accusé de réception ou lettre recommandée électronique",
+        "• Acte du commissaire de justice (anciennement huissier de justice et commissaire-priseur judiciaire)",
+        "• Remise contre récépissé ou émargement.",
+        "Si l'ancien syndic ne transmet pas les documents dans les délais impartis, le président du tribunal judiciaire du lieu de situation de l’immeuble peut être saisi pour obtenir :",
+        "• La remise des pièces, informations et documents sous astreinte",
+        "• Et éventuellement la condamnation à une provision à valoir sur dommages et intérêts."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Loi n°65-557 du 10 juillet 1965 : article 18-2",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039313561"
+    },
+    {
+      "titre": "Décret n°67-223 du 17 mars 1967 : article 33-1",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042078761"
+    },
+    {
+      "titre": "Décret n°67-223 du 17 mars 1967 : article 34",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039345707"
+    },
+    {
+      "titre": "Décret n°67-223 du 17 mars 1967 : article 64",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042078842"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "en-cas-de-changement-de-syndic-que-deviennent-les-documents-de-la-copropriete",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "documents-de-copropriete",
+      "titre": "Documents de copropriété"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "id": "F1864",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Inscription à l'école maternelle",
+  "theme": "Famille - Scolarité",
+  "description": "Dès l'âge de 3 ans, votre enfant doit être inscrit à l'école maternelle, sauf en cas d'instruction dans la famille.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-11-06",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1864",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "École primaire (maternelle et élémentaire)",
+    "Inscription à l'école maternelle"
+  ],
+  "introduction": "Votre enfant va entrer à l'école maternelle et vous vous demandez comment l'inscrire dans son futur établissement ? Vous pouvez l'inscrire dans une école publique, une école privée ou, sous certaines conditions, un jardin d'enfants. Obligation scolaire, modalités d'inscription : voici les informations à connaître sur le sujet.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de l'éducation : article L113-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000038901910"
+    },
+    {
+      "titre": "Code de l'éducation : articles L131-1 à L131-13",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006166564"
+    },
+    {
+      "titre": "Code de l'éducation : articles L212-1 à L212-9",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006182379"
+    },
+    {
+      "titre": "Code de l'éducation : article D113-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006151394"
+    },
+    {
+      "titre": "Aménagement de l'obligation d'assiduité en petite section",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000038874655"
+    },
+    {
+      "titre": "Décret n°2014-1275 du 23 octobre 2014 relatif aux exceptions au principe \"silence vaut accord\" (éducation et enseignement supérieur)",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000029675486/"
+    },
+    {
+      "titre": "Décret n°2020-811 du 29 juin 2020 précisant les pièces pouvant être demandées à l'appui d'une demande d'inscription sur la liste des enfants soumis à l'obligation scolaire",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000042056558"
+    },
+    {
+      "titre": "Circulaire n°2014-088 du 9 juillet 2014 relative au règlement type départemental des écoles maternelles et élémentaires",
+      "url": "https://www.legifrance.gouv.fr/download/pdf/circ?id=38497"
+    },
+    {
+      "titre": "Circulaire n°2012-202 du 18 décembre 2012 relative à la scolarisation des enfants de moins de 3 ans",
+      "url": "http://www.education.gouv.fr/pid25535/bulletin_officiel.html?cid_bo=66627"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Mairie",
+    "Établissement scolaire",
+    "Direction des services départementaux de l'Éducation nationale"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "L'inscription à l'école maternelle",
+      "url": "https://www.education.gouv.fr/l-inscription-l-ecole-maternelle-8651"
+    }
+  ],
+  "slug": "inscription-a-l-ecole-maternelle",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "ecole-primaire-maternelle-et-elementaire",
+      "titre": "École primaire (maternelle et élémentaire)"
+    }
+  ]
+}

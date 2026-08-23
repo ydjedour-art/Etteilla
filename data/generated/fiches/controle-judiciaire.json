@@ -1,0 +1,242 @@
+{
+  "id": "F2902",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Contrôle judiciaire",
+  "theme": "Justice",
+  "description": "Le contrôle judiciaire est une mesure décidée par un juge qui permet de soumettre à des obligations une personne mise en cause pour un crime ou un délit.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-04-15",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2902",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Affaire pénale",
+    "Contrôle judiciaire"
+  ],
+  "introduction": "Le contrôle judiciaire est une mesure qui permet de restreindre la liberté d'une personne soupçonnée d'une infraction pénale lorsqu'elle encourt une peine de prison. La personne placée sous contrôle judiciaire doit respecter les obligations fixées par le juge, en cours d'instruction ou dans l'attente du procès pénal. Nous vous donnons les informations utiles.",
+  "chapitres": [
+    {
+      "titre": "Qu'est-ce qu'un contrôle judiciaire ?",
+      "contenu": [
+        "Le contrôle judiciaire n'est pas une peine.",
+        "Le contrôle judiciaire est une mesure qui limite les libertés d'une personne soupçonnée d'avoir commis un crime ou un délit puni par une peine d'emprisonnement.",
+        "Il permet de soumettre la personne mise en cause à une ou plusieurs obligations et interdictions."
+      ]
+    },
+    {
+      "titre": "Dans quels cas un contrôle judiciaire peut-il être ordonné ?",
+      "contenu": [
+        "Le contrôle judiciaire est ordonné quand la personne mise en cause se trouve dans l'une des situations suivantes :",
+        "• Elle est en attente de son procès à la suite d'une enquête préliminaire ou d'une enquête de flagrance dirigée par le procureur de la République",
+        "• Elle est mise en examen au cours d'une information judiciaire du juge d'instruction.",
+        "[À noter] Un mineur peut être placé sous contrôle judiciaire à partir de 13 ans.",
+        "Les faits reprochés à la personne mise en cause doivent être punis par une peine de prison.",
+        "Le contrôle judiciaire peut être ordonné comme mesure de sûreté, pour empêcher la personne de commettre une nouvelle infraction. Il peut également être mis en place pour permettre le bon déroulement de l'enquête, éviter les pressions sur d’autres personnes et pour garantir la présence de la personne devant le juge.",
+        "[À savoir] Si le contrôle judiciaire n'est pas suffisant, la personne peut être placée en détention provisoire ou être assignée à résidence sous surveillance électronique."
+      ]
+    },
+    {
+      "titre": "Quelle est la procédure de placement initial sous contrôle judiciaire ?",
+      "contenu": [
+        "La procédure de placement sous contrôle judiciaire dépend du statut donné à la personne soupçonnée.",
+        "Le suspect peut être mis en examen dans une information judiciaire.",
+        "Le suspect peut être prévenu, c'est-à-dire en attente de son jugement par le tribunal correctionnel après une enquête dirigée par le procureur de la République ou après une information judiciaire.",
+        "[À noter] Après une information judiciaire, un accusé en attente de son procès devant la cour d’assises ou la cour criminelle peut aussi être placé sous contrôle judiciaire.",
+        "Mis en examen",
+        "Dans une information judiciaire, une personne mise en examen peut être placée sous contrôle judiciaire.",
+        "Le contrôle judiciaire peut être décidé lors de la mise en examen de la personne ou tout au long de la procédure.",
+        "Lors de la mise en examen",
+        "Le juge d'instruction peut placer sous contrôle judiciaire une personne qu'il vient de mettre en examen, s'il estime que c'est nécessaire pour l'information judiciaire. Dans ce cas, il doit recueillir l'avis du procureur de la République.",
+        "Si le juge d'instruction estime que le contrôle judiciaire n'est pas suffisant pour les besoins de l'information judiciaire, il peut demander la détention provisoire.",
+        "Dans ce cas, il doit saisir le juge des libertés et de la détention (JLD). Le JLD peut refuser la détention provisoire et placer la personne mise en examen sous contrôle judiciaire.",
+        "La personne mise en examen peut faire appel de la décision de placement sous contrôle judiciaire.",
+        "L'appel se fait dans les 10 jours à compter de la notification par une déclaration auprès du greffier du juge qui a rendu la décision.",
+        "Tribunal judiciaire ou tribunal de proximité",
+        "L'appel est examiné par la chambre de l'instruction de la cour d'appel.",
+        "Après la mise en examen",
+        "À la suite d'une demande de mise en liberté ou à la fin d'une période de détention provisoire, une personne mise en examen peut être libérée.",
+        "Le juge qui accepte la demande de mise en liberté ou qui ne prolonge pas la détention provisoire peut placer la personne sous contrôle judiciaire.",
+        "Cette décision peut être faire appel. L'appel se fait dans les 10 jours à compter de la notification de la décision par une déclaration auprès du greffier du juge qui a rendu la décision.",
+        "Tribunal judiciaire ou tribunal de proximité",
+        "L'appel est examiné par la chambre de l'instruction de la cour d'appel.",
+        "Prévenu",
+        "Un prévenu peut être placé sous contrôle judiciaire dans l'attente de l'audience à laquelle il doit être jugé.",
+        "Il peut s'agir d'une audience de comparution immédiate, qui permet au procureur de faire juger en urgence le prévenu juste après sa garde à vue.",
+        "Il peut aussi s'agir d'une audience suite à une convocation sur procès-verbal. Dans ce cas, le prévenu est jugé dans un délai maximum de 6 mois après sa garde à vue.",
+        "Il peut aussi s'agir d'un prévenu en attente de son procès après une information judiciaire.",
+        "Comparution immédiate",
+        "Lorsque l'audience de comparution immédiate ne peut pas avoir lieu immédiatement après une garde à vue, le procureur de la République peut demander la détention provisoire du prévenu.",
+        "Le juge des libertés et de la détention est saisi et doit examiner la demande, après avoir entendu le prévenu ou son avocat.",
+        "Le juge peut refuser la détention provisoire et prononcer un contrôle judiciaire. Le contrôle judiciaire reste en place jusqu'à l'audience de jugement.",
+        "Il n'y a pas de recours possible contre cette décision.",
+        "Convocation sur procès-verbal",
+        "Le procureur de la République peut demander le placement sous contrôle judiciaire du prévenu suite à une convocation sur procès-verbal.",
+        "Le juge des libertés et de la détention doit examiner la demande après avoir entendu le prévenu et son avocat.",
+        "Le juge peut accepter ou refuser la mise en place du contrôle judiciaire.",
+        "Après une instruction judiciaire",
+        "À la suite d'une demande de mise en liberté d'un prévenu placé en détention provisoire, un contrôle judiciaire peut être ordonné par le tribunal saisi de l'affaire."
+      ]
+    },
+    {
+      "titre": "Quels sont les effets du contrôle judiciaire ?",
+      "contenu": [
+        "La personne sous contrôle judiciaire doit respecter des obligations et des interdictions prévues par la loi.",
+        "Le juge décide lesquelles sont nécessaires en fonction du dossier et de la personnalité du mis en cause.",
+        "Liberté de déplacements limitée",
+        "La personne sous contrôle judiciaire peut être limitée dans sa liberté de se déplacer.",
+        "Les interdictions possibles sont les suivantes :",
+        "• Sortir de certaines limites territoriales fixées par le juge",
+        "• S’absenter du domicile sauf aux conditions fixées par le juge",
+        "• Se rendre dans certains lieux déterminés par le juge, y compris le domicile de la famille en cas de violences familiales",
+        "• Participer à des manifestations sur la voie publique dans des lieux déterminés par le juge.",
+        "Les obligations possibles sont les suivantes :",
+        "• Informer le juge de tout déplacement au-delà des limites déterminées",
+        "• Quitter le domicile de la famille en cas de violences familiales",
+        "• Remettre les papiers d'identité, notamment le passeport.",
+        "Contrôle et surveillance",
+        "La personne sous contrôle judiciaire peut être contrôlée par des interdictions et des obligations déterminées par le juge.",
+        "Les interdictions possibles sont les suivantes :",
+        "• Rencontrer certaines personnes déterminées par le juge, notamment la victime de violences commises au sein du couple (contrôle possible à l'aide d'un dispositif électronique mobile anti-rapprochement)",
+        "• Exercer certaines activités professionnelles ou sociales",
+        "• Exercer une activité en lien avec des mineurs.",
+        "Les obligations possibles sont les suivantes :",
+        "• Se rendre de façon périodique (par exemple chaque semaine ou chaque mois) au commissariat de police ou à la brigade de gendarmerie. On parle de pointage.",
+        "• Se soumettre à un suivi socio-éducatif (activité professionnelle ou formation)",
+        "• Se soumettre à un suivi médical.",
+        "Le suivi médical comprend les obligations suivantes :",
+        "• Se soumettre à des mesures d’examen, de traitement ou de soins même sous le régime de l’hospitalisation (pour la désintoxication ou le suivi psychologique / psychiatrique)",
+        "• Se soumettre à une prise en charge sanitaire, sociale ou psychologique en matière de violences familiales.",
+        "Garanties financières",
+        "Cautionnement",
+        "Le juge peut prévoir un cautionnement, c'est-à-dire le paiement d'une certaine somme d'argent par la personne sous contrôle judiciaire. Le juge doit déterminer le montant de cette somme à verser et doit la répartir en 2 parties :",
+        "• Une première partie du cautionnement doit garantir le respect des autres obligations du contrôle judiciaire et la présence de la personne aux convocations judiciaires. Cette partie de l'argent peut être rendue à la personne si elle respecte ses obligations et se rend aux convocations.",
+        "• Une seconde partie du cautionnement doit servir à l'indemnisation de la victime en cas de condamnation. Cette somme d'argent est rendue à la personne si elle n'est pas condamnée.",
+        "Paiement des charges familiales",
+        "Le juge peut demander à la personne sous contrôle judiciaire de justifier du paiement des charges familiales suivantes :",
+        "• Pension alimentaire pour des enfants",
+        "• Pension alimentaire au titre du devoir de secours pendant une procédure de divorce",
+        "• Contribution aux charges du mariage",
+        "• Prestation compensatoire après un divorce.",
+        "Autres interdictions",
+        "Les autres interdictions que le juge peut décider sont les suivantes :",
+        "• Conduire un véhicule ou conduire certains véhicules avec l'obligation de remettre le permis de conduire si besoin",
+        "• Détenir ou porter une arme",
+        "• Émettre des chèques."
+      ]
+    },
+    {
+      "titre": "Le contrôle judiciaire peut-il être modifié ?",
+      "contenu": [
+        "Le contrôle judiciaire peut être modifié tout au long de la procédure.",
+        "Le juge peut ajouter ou supprimer des obligations et interdictions ou même mettre fin au contrôle judiciaire.",
+        "À tout moment, la personne sous contrôle judiciaire peut demander la suppression ou la modification de certaines obligations ou interdictions. Elle peut également demander la mainlevée (c'est-à-dire la suppression) de son contrôle judiciaire.",
+        "[Exemple] Le contrôle judiciaire d'une personne prévoit l'obligation d'aller une fois par semaine au commissariat ou à la gendarmerie pour un pointage. La personne respecte depuis longtemps cette obligation. Elle peut alors demander une modification pour se rendre au commissariat ou à la gendarmerie seulement une fois par mois. La personne peut aussi demander la suppression de cette obligation.",
+        "La procédure diffère selon si la personne est mise en examen dans une information judiciaire ou si elle est en attente de jugement en tant que prévenue ou accusée .",
+        "Quand la personne demande la fin de son contrôle judiciaire (on parle de mainlevée), la décision doit être rendue dans un délai de 5 jours à compter de la demande.",
+        "Mis en examen",
+        "Même si le contrôle judiciaire a été décidé par le juge des libertés et de la détention, la personne mise en examen doit déposer sa demande de modification auprès du juge d'instruction.",
+        "La personne mise en examen ou son avocat doit faire la demande par déclaration auprès du greffier du juge d'instruction.",
+        "Quand la personne mise en examen ou son avocat ne réside pas dans le ressort du juge d'instruction, la demande peut se faire par lettre recommandée avec avis de réception adressée au juge d'instruction.",
+        "Tribunal judiciaire ou tribunal de proximité",
+        "Avant de rendre sa décision, le juge d'instruction demande l'avis du procureur de la République.",
+        "Le mis en examen peut faire appel dans un délai de 10 jours à compter de la notification de la décision du juge d'instruction.",
+        "L'appel se fait par une déclaration auprès du greffier du juge qui a rendu la décision.",
+        "L'appel est examiné par la chambre de l'instruction de la cour d'appel.",
+        "[Attention] En fin d'information judiciaire, le juge d'instruction peut décider de maintenir la personne sous contrôle judiciaire jusqu'au jugement devant le tribunal correctionnel ou la cour d'assises. Dans ce cas, la demande de modification du contrôle judiciaire doit être faite à la juridiction de jugement.",
+        "Prévenu",
+        "La demande de modification du contrôle judiciaire doit être adressée au JLD du tribunal qui va juger l'affaire.",
+        "Le prévenu ou son avocat doit faire la demande par déclaration auprès du greffier du JLD.",
+        "Quand le prévenu ou son avocat ne réside pas dans le ressort du tribunal, la demande peut se faire par lettre recommandée avec avis de réception adressée au JLD.",
+        "Tribunal judiciaire ou tribunal de proximité",
+        "Le prévenu peut faire appel de la décision qui refuse la modification dans les 24 heures à compter de la notification du refus.",
+        "L'appel se fait par une déclaration auprès du greffier du JLD qui a rendu la décision.",
+        "Accusé",
+        "Un accusé qui attend son procès devant la cour d'assises ou la cour criminelle peut demander la modification ou la mainlevée de son contrôle judiciaire. Cette demande doit être faite au président de la chambre de l'instruction de la cour d'appel.",
+        "L'accusé ou son avocat doit faire la demande par déclaration auprès du greffier de la chambre de l'instruction.",
+        "Quand l'accusé ou son avocat ne réside pas dans le ressort de la cour d'appel, la demande peut se faire par lettre recommandée avec avis de réception.",
+        "Cour d'appel",
+        "L'accusé peut faire appel de la décision qui refuse la modification par une déclaration auprès du greffier de la chambre de l'instruction.",
+        "[Attention] Si le procès est en cours, la demande de modification du contrôle judiciaire doit être effectuée à la cour d'assises ou la cour criminelle selon le cas."
+      ]
+    },
+    {
+      "titre": "Que se passe-t-il en cas de non-respect du contrôle judiciaire ?",
+      "contenu": [
+        "Quand une personne sous contrôle judiciaire ne respecte pas volontairement ses obligations, elle risque la révocation de son contrôle judiciaire.",
+        "La révocation du contrôle judiciaire est une décision du juge qui met fin au contrôle judiciaire et conduit à la détention provisoire.",
+        "Si une information judiciaire est en cours, le juge d'instruction peut prendre un mandat d'arrêt ou un mandat d'amener pour obliger la personne à comparaître devant le JLD qui doit décider de la placer ou non en détention provisoire.",
+        "S’il n’y a pas d’information judiciaire en cours, le mandat peut être délivré par le JLD ou la juridiction de jugement selon les cas.",
+        "Si la personne est en attente de son procès, c'est le procureur de la République qui demande le placement en détention provisoire. Le JLD peut modifier les obligations du contrôle judiciaire ou placer la personne sous bracelet électronique.",
+        "[À noter] La police ou la gendarmerie peut arrêter une personne s'il existe des raisons de penser qu'elle ne respecte pas son contrôle judiciaire. La personne peut être retenue 24 heures maximum."
+      ]
+    },
+    {
+      "titre": "Quand prend fin le contrôle judiciaire ?",
+      "contenu": [
+        "Le contrôle judiciaire du mis en examen peut prendre fin pendant l'information judiciaire ou lorsqu'elle est clôturée.",
+        "Le contrôle judiciaire du prévenu ou de l'accusé prend fin avec le procès.",
+        "Mis en examen",
+        "Le contrôle judiciaire peut prendre fin pendant l'information judiciaire ou lorsqu'elle est clôturée.",
+        "Pendant l'information judiciaire",
+        "La mainlevée du contrôle judiciaire, c'est-à-dire sa suppression, peut intervenir à tout moment de la procédure.",
+        "La mainlevée peut intervenir à l'initiative du juge d'instruction, à la demande du Procureur de la République ou à la demande de la personne mise en examen.",
+        "Le demande se fait par déclaration auprès du greffier du juge d'instruction.",
+        "Le juge demande l'avis du procureur de la République et statue dans un délai de 5 jours à compter de la demande.",
+        "En cas de non-respect de ce délai, la personne mise en examen ou son avocat peut saisir directement la chambre de l'instruction de la cour d'appel.",
+        "À la fin de l'information judiciaire",
+        "Lorsque le juge clôture l'information judiciaire, il peut rendre une décision de non-lieu ou une décision de renvoi devant la juridiction de jugement.",
+        "Quand le juge rend une décision de non-lieu, le contrôle judiciaire se termine.",
+        "Le contrôle judiciaire peut continuer après la fin de l'information judiciaire seulement quand la personne concernée doit être jugée.",
+        "S'il s'agit d'un procès devant la cour d'assises ou la cour criminelle, le contrôle judiciaire est automatiquement maintenu jusqu'au procès.",
+        "S'il s'agit d'un procès devant le tribunal correctionnel, le contrôle judiciaire prend fin. Toutefois, le juge d'instruction peut décider de maintenir le contrôle judiciaire jusqu'au procès par une décision à part qui doit indiquer les motifs du maintien.",
+        "Prévenu ou accusé",
+        "Le prévenu ou l'accusé peut demander la mainlevée du contrôle judiciaire, auprès de la juridiction de jugement.",
+        "Le contrôle judiciaire se termine à la fin du procès, que la personne soit condamnée ou non.",
+        "Toutefois, en cas de condamnation à un sursis avec mise à l'épreuve, le tribunal peut maintenir les obligations issues du contrôle judiciaire."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de procédure pénale : articles 137 à 150",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000006167427/"
+    },
+    {
+      "titre": "Code de procédure pénale : articles 138 à 142-4",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000006182889/"
+    },
+    {
+      "titre": "Code de procédure pénale : article 148-6",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006575706"
+    },
+    {
+      "titre": "Code de procédure pénale : articles 393 à 397-7",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000006182903/"
+    },
+    {
+      "titre": "Code de procédure pénale : articles R16 à R16-2",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000006193100/"
+    },
+    {
+      "titre": "Code de procédure pénale : articles R17 à R18-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000006193101/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Maison de justice et du droit",
+    "Avocat"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "controle-judiciaire",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "affaire-penale",
+      "titre": "Affaire pénale"
+    }
+  ]
+}

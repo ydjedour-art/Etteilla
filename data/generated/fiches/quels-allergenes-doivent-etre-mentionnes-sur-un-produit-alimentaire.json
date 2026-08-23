@@ -1,0 +1,187 @@
+{
+  "id": "F32192",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quels allergènes doivent être mentionnés sur un produit alimentaire ?",
+  "theme": "Argent - Impôts - Consommation, Secteurs d'activité",
+  "description": "Les allergènes doivent être mentionnés sur les aliments transformés vendus en rayon en libre service ou déjà cuisinés. Voici la liste des allergènes.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-10-23",
+  "url": "https://entreprendre.service-public.gouv.fr/vosdroits/F32192",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Alimentation, restauration",
+    "Quels allergènes doivent être mentionnés sur un produit alimentaire ?"
+  ],
+  "introduction": "Les allergènes doivent être mentionnés sur les différents types d’aliments ayant subis une transformation : préemballés ou non, déjà cuisinés, vendus en rayon ou en libre-service, ou en vrac, en magasin ou dans la restauration. Nous vous présentons les obligations des professionnels afin d’informer le consommateur avant son achat ou avant sa consommation.",
+  "chapitres": [
+    {
+      "titre": "Qu'est-ce qu'un allergène ?",
+      "contenu": [
+        "Il s'agit d'une substance qui déclenche ou favorise une allergie ou une intolérance.",
+        "Un allergène peut aussi provoquer une réaction du système immunitaire de l'organisme à la suite d'un contact (toucher le produit), d'une inhalation (respirer le produit) ou d'une ingestion (manger et avaler le produit).",
+        "Ces réactions peuvent être cutanées, digestives, ou autres :",
+        "• Œdème de Quincke",
+        "• Choc anaphylactique",
+        "• Urticaire, etc.",
+        "Les réactions allergiques peuvent être graves pour la santé, d'où l'importance de mentionner leur présence, même en faible quantité, pour informer le consommateur avant l’achat et avant la consommation.",
+        "Les allergènes sont principalement présents dans les produits alimentaires.",
+        "[À noter] Les obligations d’étiquetage sont les mêmes pour tous les États européens (UE). En revanche, pour les produits vendus dans les États hors UE, les allergènes n’étant pas exactement identiques, les mentions obligatoires diffèrent. Par exemple, au Japon, le soja, le sésame et le gluten ne sont pas considérés comme allergènes, alors que le sarrasin l’est."
+      ]
+    },
+    {
+      "titre": "Quels sont les produits alimentaires concernés par la mention obligatoire des allergènes ?",
+      "contenu": [
+        "Principe général",
+        "L’obligation d’étiquetage (sur l’emballage) et l’affichage (à proximité du produit vendu) des allergènes concerne uniquement les substances incorporées volontairement dans les produits. Il s’agit donc des produits ou aliments ayant subi une transformation.",
+        "Le fait de porter à maturation un fruit ou un légume n’est pas considéré comme une transformation.",
+        "Produits concernés",
+        "Cette obligation d’étiquetage indiquant la présence d’allergènes concerne les produits alimentaires suivants :",
+        "• Produits transformés emballés : par exemple les boîtes de céréales de petit-déjeuner, les pots de pâte à tartiner au chocolat, les conserves de plats cuisinés, les tablettes de chocolat, les pots de glace, de mayonnaise, de cornichons, etc.",
+        "• Produits transformés ou cuisinés non emballés : par exemple les plats servis dans un restaurant, le pain, les pâtisseries, les sandwichs et quiches dans une boulangerie, les chocolats chez un chocolatier, les terrines d’un charcutier, etc.",
+        "• Produits préemballés en vue de leur vente immédiate : par exemple les barquettes de plats préparés chez un traiteur, les sachets de biscuits et les salades composées chez un boulanger, etc.",
+        "• Produits conditionnés par le client lui-même au moment de l’achat : par exemple les aliments vendus en vrac (mélanges de fruits secs, amandes, noisettes, pâtes, etc.)",
+        "Article 9, § 1, point c) du règlement (UE) n°1169/2011 du parlement européen et du conseil du 25 octobre 2011",
+        "Exceptions",
+        "Si le nom de l’aliment fait clairement référence à la présence d’un allergène, l’indication de celui-ci n’est pas obligatoire dans la liste des ingrédients.",
+        "Par exemple le fromage, le beurre ou la crème qui contiennent l’allergène « lait », ne nécessitent pas d’indiquer la présence de lait.",
+        "Il en est de même pour une boîte d’oeufs, la présence de l’allergène « oeuf » étant évidente, le professionnel n’a pas besoin de le mentionner sur la boîte.",
+        "De la même manière, la mention de l’allergène « gluten » n’est pas obligatoire sur un paquet de farine de blé.",
+        "[À noter] Lorsque ces produits allergènes sont présents dans des plats servis au restaurant, le professionnel doit mettre à disposition des clients une information écrite mentionnant tous les allergènes. Il peut s’agir d’une ardoise, d’un cahier répertoriant les allergènes présents dans les plats servis, d’une mention écrite sur les plaquettes des menus, ou de tout autre système d’information directement et librement accessible aux clients."
+      ]
+    },
+    {
+      "titre": "À quels professionnels s'applique l'obligation d'étiquetage et d'affichage des allergènes ?",
+      "contenu": [
+        "L'obligation de mentionner les allergènes s'applique à tous les professionnels de la chaîne agro-alimentaire de fabrication et de vente :",
+        "• Producteur, distributeur",
+        "• Petit commerce de détails, épicerie, supermarché, etc.",
+        "• Restaurant, bar, café, bistrot, etc.",
+        "• Commerce de bouche spécialisé ou généraliste (boucher, charcutier, traiteur, boulanger, chocolatier, pâtissier, fromager, poissonnier, etc.)",
+        "• Cantine scolaire, restaurant d'entreprise.",
+        "Ces règles s'appliquent en France mais également dans tous les États de l'Union européenne (UE).",
+        "[À savoir] L'obligation d'affichage et d'étiquetage des allergènes ne s'applique pas aux ventes de charité, aux foires, aux fêtes et réunions locales ni aux soupes populaires. Elle ne s’applique pas à la restauration à emporter, mais uniquement pour les repas proposés à consommer sur place.",
+        "Code de la consommation : article R412-14",
+        "Code de la consommation : articles R412-12 à R412-16"
+      ]
+    },
+    {
+      "titre": "Quelle est la liste des ingrédients allergènes à indiquer ?",
+      "contenu": [
+        "Tous les ingrédients reconnus comme allergènes doivent être indiqués au consommateur avant l'achat ou avant la consommation.",
+        "La liste suivante présente les allergènes dont la mention est obligatoire (étiquetage ou affichage) et ceux dont l’indication est facultative :",
+        "Liste des ingrédients allergènes alimentaires devant être signalés au consommateur",
+        "Mention obligatoire de l’allergène",
+        "Produits avec mention facultative de l’allergène",
+        "Céréales contenant du gluten : blé (comme épeautre et blé de Khorasan), seigle, orge, avoine ou leurs souches hybridées et produits à base de ces céréales",
+        "• Sirops de glucose à base de blé, y compris le dextrose",
+        "• Maltodextrines à base de blé",
+        "• Sirops de glucose à base d'orge",
+        "• Céréales utilisées pour la fabrication de distillats alcooliques, y compris d’alcool éthylique d’origine agricole.",
+        "Crustacés et produits à base de crustacés",
+        "Œufs et produits à base d’œufs",
+        "Poissons et produits à base de poissons",
+        "Gélatine de poisson utilisée comme support pour les préparations de vitamines ou de caroténoïdes ou ichtyocolle utilisée comme agent de clarification dans la bière et le vin",
+        "Arachides et produits à base d’arachides.",
+        "Soja et produits à base de soja",
+        "• Huile et la graisse de soja entièrement raffinées",
+        "• Tocophérols mixtes naturels",
+        "• Phytostérols et esters de phytostérol dérivés d'huiles végétales de soja",
+        "• Ester de stanol végétal produit à partir de stérols dérivés d'huiles végétales de soja",
+        "Lait et produits à base de lait (y compris de lactose)",
+        "• Lactosérum utilisé pour la fabrication de distillats ou alcool éthylique d'origine agricole pour les boissons spiritueuses et d'autres boissons alcooliques",
+        "• Lactitol",
+        "Fruits à coques (amandes, noisettes, noix, noix de cajou, pécan, macadamia, du Brésil, du Queensland, pistaches) et produits à base de ces fruits",
+        "Fruits à coque utilisés pour la fabrication de distillats ou d'alcool éthylique d'origine agricole pour les boissons spiritueuses et d'autres boissons alcooliques.",
+        "Céleri et produits à base de céleri",
+        "Moutarde et produits à base de moutarde",
+        "Acide béhénique présentant une pureté minimale de 85 % obtenu après deux étapes de distillation utilisé dans la fabrication des émulsifiants E 470a, E 471 et E 477",
+        "Graines de sésame et produits à base de graines de sésame",
+        "Anhydride sulfureux et sulfites en concentration de plus de 10 mg/kg ou 10 mg/l",
+        "Lupin et produits à base de lupin",
+        "Mollusques et produits à base de mollusques",
+        "Règlement (UE) n°1169/2011 du parlement européen et du conseil du 25 octobre 2011, annexe II"
+      ]
+    },
+    {
+      "titre": "Comment signaler la présence de substances allergènes (étiquette, affichage) ?",
+      "contenu": [
+        "Selon le type de conditionnement des produits",
+        "La façon d’informer le consommateur diffère selon le type de conditionnement et de vente des produits :",
+        "• Produits emballés (alimentaires, frais ou non, quel que soit l'emballage)La mention de la présence d'allergènes doit être écrite sur l'emballage.",
+        "• Produits en vrac et en libre-serviceLa mention de la présence d'allergènes doit être écrite à proximité des produits de façon visible par le consommateur.",
+        "• Plats cuisinés et plats servis dans un établissementLa mention de la présence d'allergènes doit être écrite à proximité des produits proposés, ou à proximité des lieux de consommation, de façon visible.",
+        "[À savoir] Tout intermédiaire, comme par exemple un livreur, doit remettre au professionnel (à un restaurant ou à une cantine), un document mentionnant tous les allergènes présents dans chaque produit alimentaire.",
+        "Code de la consommation : article R412-14",
+        "Code de la consommation : articles R412-12 à R412-16",
+        "Mentions visibles et précises",
+        "Les allergènes doivent apparaître de façon évidente au sein de la liste des ingrédients et s’en distinguer facilement. Le but est de les rendre visibles rapidement par le consommateur.",
+        "Les mentions et étiquetages doivent respecter une forme d'écriture particulière (caractères de police d’écriture), différente du reste des informations : gras, souligné, italique.",
+        "Le consommateur ne doit pas avoir à chercher l'information ni à la demander.",
+        "[Attention] Il ne suffit pas d'écrire le mot allergènes. Il faut nommer précisément les allergènes présents : oeufs, lait, gluten, fruits à coques (noix, noisettes, etc.), moutarde, sésame, lupin, crustacés, etc.",
+        "La dénomination des allergènes ne doit pas être codifiée. Par exemple la « lécithine de soja » doit être écrite en toutes lettres et non par son code « E 322 »."
+      ]
+    },
+    {
+      "titre": "Quelles sont les mentions non obligatoires mais couramment utilisées ?",
+      "contenu": [
+        "Gluten en très faible quantité",
+        "Lorsque le gluten est présent en très faible quantité, il est possible d’utiliser des indications facultatives.",
+        "Elles ne doivent pas nuire à la visibilité des mentions obligatoires ni empiéter sur l’espace qui leur est dédié.",
+        "L'absence ou la faible présence de gluten peut être inscrite sur le produit alimentaire de la manière suivante :",
+        "• Uniquement si la teneur en gluten ne dépasse pas 100 mg/kg : « Très faible teneur en gluten » et « Convient aux personnes souffrant d'une intolérance au gluten »",
+        "• Uniquement si la teneur en gluten est inférieure à 20 mg/kg : « Sans gluten » et « Convient aux personnes atteintes de la maladie cœliaque ».",
+        "[À noter] Au-dessus de ces quantités, le gluten doit être indiqué comme allergène.",
+        "Allergènes présents de façon involontaire",
+        "Les fabricants peuvent introduire de façon involontaire des substances allergènes dans leurs produits.",
+        "Cette incorporation fortuite peut survenir lors des transports ou lors de contact résiduel dans la chaîne de fabrication.",
+        "Il est recommandé mais non obligatoire de prévenir le consommateur de cette présence éventuelle d'un allergène en faible quantité.",
+        "Pour cela, les fabricants ont pris l'habitude d'utiliser sur les étiquetages les formules de précaution suivantes :",
+        "• \"Traces éventuelles de.....\"",
+        "• \"Fabriqué dans un atelier qui utilise...\"",
+        "Règlement d'exécution (UE) n °828/2014 de la Commission du 30 juillet 2014 relatif aux exigences applicables à la fourniture d'informations aux consommateurs concernant l'absence ou la présence réduite de gluten dans les denrées alimentaires Texte présentant de l'intérêt pour l'EEE",
+        "Articles 36 et 37 du règlement (UE) n°1169/2011 du parlement européen et du conseil du 25 octobre 2011"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Règlement UE n°1169/2011 du Parlement européen et du Conseil du 25 octobre 2011",
+      "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:02011R1169-20250401"
+    },
+    {
+      "titre": "Règlement d'exécution (UE) n °828/2014 de la Commission du 30 juillet 2014 relatif aux exigences applicables à la fourniture d'informations aux consommateurs concernant l'absence ou la présence réduite de gluten dans les denrées alimentaires Texte présentant de l'intérêt pour l'EEE",
+      "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32014R0828"
+    },
+    {
+      "titre": "Code de la consommation : articles R412-12 à R412-16",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032807848/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Direction départementale de la protection des populations (DDPP) ou de l'emploi, du travail, des solidarités et de la protection des populations (DDETSPP)",
+    "Direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "L'étiquetage des allergènes, un impératif de santé publique",
+      "url": "https://www.economie.gouv.fr/files/files/directions_services/dgccrf/documentation/publications/depliants/allergenes_fr.pdf"
+    },
+    {
+      "titre": "Étiquetage des denrées alimentaires : les règles à connaître",
+      "url": "https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques-et-les-faq/etiquetage-des-denrees-alimentaires-les-regles-connaitre"
+    }
+  ],
+  "slug": "quels-allergenes-doivent-etre-mentionnes-sur-un-produit-alimentaire",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "alimentation-restauration",
+      "titre": "Alimentation, restauration"
+    }
+  ]
+}

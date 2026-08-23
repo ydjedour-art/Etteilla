@@ -1,0 +1,84 @@
+{
+  "id": "F31037",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quel est le titre de séjour délivré à un mineur étranger isolé à sa majorité ?",
+  "theme": "Étranger - Europe",
+  "description": "Un mineur étranger isolé peut obtenir un titre de séjour à sa majorité ou entre 16 et 18 ans.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-03-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31037",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Titres, cartes de séjour et documents de circulation pour étranger en France",
+    "Quel est le titre de séjour délivré à un mineur étranger isolé à sa majorité ?"
+  ],
+  "introduction": "Si vous êtes un mineur étranger (non européen) recueilli par l'Ase ou un tiers digne de confiance ou si vous êtes mineur isolé, vous pouvez obtenir une carte de séjour à votre majorité. Vous devez remplir certaines conditions. Nous vous indiquons, en fonction de votre situation, quelle carte peut vous être délivrée.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Un titre de séjour peut vous être délivré si vous êtes dans l'un des cas suivants :",
+        "Vous êtes recueilli avant l'âge de 16 ans",
+        "Si vous êtes mineur étranger entré isolé en France et confié à l'Ase ou à un tiers digne de confiance au plus tard à l'âge de 16 ans, vous pouvez obtenir une carte de séjour temporaire vie privée et familiale.",
+        "Le préfet étudie de façon globale votre situation. Il vérifie l'ensemble des conditions suivantes :",
+        "• Formation suivie (elle doit être réelle et sérieuse)",
+        "• Nature de vos liens avec la famille restée dans le pays d'origine (le préfet examine la réalité et la stabilité des liens développés sur le territoire français, au regard de vos liens que vous avez conservés dans votre pays d'origine)",
+        "• Avis de la structure d'accueil ou du tiers digne de confiance sur les garanties de votre insertion dans la société française, dont il sera tenu compte.",
+        "Un visa de long séjour n'est pas exigé pour obtenir la carte de séjour.",
+        "Cette carte vous permet de poursuivre des études ou d'exercer l'activité professionnelle de votre choix (travail salarié ou indépendant, commerce, etc.).",
+        "Vous pouvez demander la carte vie privée et familiale à vos 18 ans (ou dès l'âge de 16 ans si vous souhaitez travailler).",
+        "Lors du dépôt de votre demande de titre de séjour, vous devez vous engager à respecter les principes de la République.",
+        "Vous êtes recueilli entre 16 et 18 ans",
+        "Si vous êtes mineur étranger entré isolé en France et confié à l'Ase ou à un tiers de confiance entre 16 et 18 ans, vous pouvez être admis au séjour si vous suivez depuis au moins 6 mois une formation qualifiante.",
+        "Mais il s'agit d'une régularisation exceptionnelle, et non d'un droit automatique.",
+        "Suivant la nature de votre formation, il peut vous être délivré l'une des cartes suivantes :",
+        "• Carte salarié ou travailleur temporaire si vous suivez une formation professionnelle qualifiante depuis au moins 6 mois",
+        "• Carte étudiant si vous suivez des études secondaires ou universitaires.",
+        "Pour accepter ou refuser de délivrer la carte, le préfet examine de façon globale votre situation. Il prend en compte les éléments suivants :",
+        "• Formation que vous suivez (elle doit être réelle et sérieuse)",
+        "• Nature de vos liens avec votre famille restée dans le pays d'origine (le préfet examine la réalité et la stabilité des liens développés sur le territoire français, au regard des liens que vous avez conservés dans votre pays d'origine)",
+        "• Avis de la structure d'accueil sur les garanties de votre insertion dans la société française, dont il sera tenu compte",
+        "• Maîtrise de la langue française qui doit être suffisante.",
+        "Vous ne devez pas représenter une menace pour l'ordre public, ni vivre en situation de polygamie en France.",
+        "Lors du dépôt de votre demande de titre de séjour, vous devez vous engager à respecter les principes de la République."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles L412-7 à L412-10",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000049055586/"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles L423-22",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042771748/"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles L435-1 à L435-4",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042772028/"
+    },
+    {
+      "titre": "Circulaire du 23 janvier 2025 sur les orientations générales relatives à l'admission exceptionnelle au séjour prévue aux articles L435-1 et suivants du CESEDA",
+      "url": "https://www.legifrance.gouv.fr/download/pdf/circ?id=45584"
+    },
+    {
+      "titre": "Instruction relative à l'examen anticipé des demandes de titres de séjour des mineurs étrangers confiés à l'ASE",
+      "url": "https://www.legifrance.gouv.fr/download/pdf/circ?id=45056"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "quel-est-le-titre-de-sejour-delivre-a-un-mineur-etranger-isole-a-sa-majorite",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "titres-cartes-de-sejour-et-documents-de-circulation-pour-etranger-en-france",
+      "titre": "Titres, cartes de séjour et documents de circulation pour étranger en France"
+    }
+  ]
+}

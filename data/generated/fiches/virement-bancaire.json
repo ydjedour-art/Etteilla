@@ -1,0 +1,194 @@
+{
+  "id": "F2384",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Virement bancaire",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Le virement bancaire permet de transférer des sommes directement de compte à compte, sans passer par un moyen de paiement (carte bancaire, chèque, etc.).",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-07-29",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2384",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Opérations bancaires",
+    "Virement bancaire"
+  ],
+  "introduction": "Vous voulez régler vos dépenses en transférant les sommes directement de compte à compte, sans passer par un moyen de paiement (carte bancaire, chèque, etc.) ? Vous pouvez faire un virement bancaire. Voici les règles à respecter pour l'utiliser.",
+  "chapitres": [
+    {
+      "titre": "Qu'est-ce qu'un virement bancaire ?",
+      "contenu": [
+        "Vous pouvez donner l'ordre à votre banque de transférer des sommes de votre compte vers un autre compte.",
+        "Vous pouvez effectuer un virement vers des comptes d'autres personnes ou vers vos propres comptes (notamment vos comptes d'épargne : livrets, assurance-vie, etc.).",
+        "Il peut être réalisé vers un compte géré à l'étranger et dans une autre monnaie que l'euro.",
+        "Il existe 2 types de virements :",
+        "• Un virement est dit ponctuel si l'ordre est émis pour une transaction unique",
+        "• Un virement est dit permanent (ou automatique) si l'ordre est donné par écrit ou par internet et qu'il est répété à fréquence régulière. L'ordre est établi pour une durée déterminée ou indéterminée. Vous pouvez l'annuler à tout moment par courrier ou directement sur internet en fonction des services en ligne proposés par votre banque.",
+        "[À noter] Le virement est le moyen ordinaire de paiement des salaires."
+      ]
+    },
+    {
+      "titre": "Quelle est la différence entre un virement SEPA et un virement international ?",
+      "contenu": [
+        "Un virement peut être réalisé en euro ou dans une autre monnaie",
+        "Un virement SEPA est effectué en euro dans les pays de la zone SEPA.",
+        "Un virement international est effectué dans une autre monnaie en dehors de la zone SEPA."
+      ]
+    },
+    {
+      "titre": "Comment faire un virement bancaire ?",
+      "contenu": [
+        "L'ordre de faire un virement peut être donné au guichet de votre banque, par courrier ou par internet, selon votre convention de compte.",
+        "[À noter] Selon les banques, un délai de validation d'un nouveau bénéficiaire est nécessaire avant la mise en place d'un virement par internet.",
+        "Vous devez indiquer les informations suivantes :",
+        "• Numéro du compte à débiter",
+        "• Montant de l'opération",
+        "• Date d'exécution",
+        "• Coordonnées bancaires du compte (BIC, IBAN) à créditer.",
+        "Les informations concernant votre compte sont inscrites sur votre Rib.",
+        "Pour sécuriser l’opération, votre banque doit vérifier que le nom du bénéficiaire du virement correspond aux informations du compte bancaire communiquées avec l’IBAN. Ce dispositif est appelé Vérification du bénéficiaire ou VoP (Verification of Payee).",
+        "[À noter] Votre créancier ne peut pas vous imposer d'effectuer le virement sur un compte bancaire domicilié en France.",
+        "Dans certains pays, les coordonnées bancaires apparaissent sur les relevés de compte.",
+        "La banque ne peut pas effectuer un virement sans votre accord."
+      ]
+    },
+    {
+      "titre": "Le montant du virement bancaire est-il plafonné ?",
+      "contenu": [
+        "Oui, le montant d'un virement bancaire peut être plafonné. Ce montant maximum est fixé par votre convention de compte."
+      ]
+    },
+    {
+      "titre": "Dans quel délai le virement bancaire est-il réalisé ?",
+      "contenu": [
+        "Enregistrement par la banque : date d'opération",
+        "La date d'opération est la date à laquelle une opération de débit ou de crédit est enregistrée par votre banque.",
+        "Si l'ordre de virement est passé à une heure proche de la fin du jour ouvrable, il sera considéré comme reçu le jour ouvrable suivant.",
+        "Si le moment de réception n'est pas un jour ouvrable (par exemple en cas d'ordre passé par internet), l'ordre de virement est considéré comme reçu le jour ouvrable suivant.",
+        "Transfert des fonds sur le compte du bénéficiaire",
+        "Le délai de réception du virement sur le compte du bénéficiaire est variable. Il dépend notamment de la domiciliation en France ou à l'étranger de ce compte.",
+        "En général, le virement est réalisé entre 24 et 48h après son enregistrement par la banque.",
+        "Vous pouvez aussi faire un virement bancaire instantané. Les fonds sont alors disponibles immédiatement sur le compte du bénéficiaire.",
+        "Point de départ du calcul des intérêts : date de valeur",
+        "La date de valeur sert aux calculs des intérêts. Elle est notamment utilisée si vous virez de l'argent vers un compte épargne ou pour calculer la durée d'un découvert.",
+        "[Exemple] Le calcul des intérêts sur les comptes d'épargne se fait selon la règle de la quinzaine. Si vous faites un virement sur votre livret A entre le 1er et le 15 du mois, les intérêts dus seront calculés à partir du 16. Si le virement est réalisé entre le 16 et le 31 du mois, les intérêts dus seront calculés à partir du 1er du mois suivant."
+      ]
+    },
+    {
+      "titre": "Le virement bancaire est-il payant ?",
+      "contenu": [
+        ".",
+        "Dans la majorité des banques, le virement SEPA en euro est gratuit. Mais il peut être facturé en fonction de la convention de compte que vous avez signée.",
+        "La tarification peut varier si vous faîtes un virement depuis votre espace de banque en ligne (opération généralement gratuite) ou si vous demandez un virement manuel au guichet de votre agence. Renseignez-vous en consultant les conditions tarifaires de votre banque.",
+        "Une tarification identique doit être appliquée entre les virements classiques et les virements instantanés. Le plus souvent, les virements classiques ou les virement instantanés en euro, effectués en ligne, sont gratuits."
+      ]
+    },
+    {
+      "titre": "Comment est-on informé de la réalisation du virement bancaire ?",
+      "contenu": [
+        "L'exécution de chaque opération de paiement est notifiée aux titulaires des 2 comptes concernés (compte crédité et compte débité).",
+        "Vous pouvez convenir avec votre banque des moyens et de la fréquence des notifications (mails, SMS, relevés de comptes, etc.)."
+      ]
+    },
+    {
+      "titre": "Comment contester un virement bancaire ?",
+      "contenu": [
+        "Délais",
+        "Pour contester un virement, vous devez adresser un courrier à votre banque.",
+        "Vous pouvez utiliser le modèle suivant :",
+        "Contester une opération figurant sur son relevé de compte",
+        "Permet de contester un relevé de compte auprès de sa banque en cas d'erreur sur une opération ou de désaccord sur le montant des agios, des frais prélevés ou du décompte des dates de valeur.",
+        "Le délai de contestation dépend de la raison pour laquelle vous contestez le virement.",
+        "Le montant du virement dépasse le montant prévu",
+        "Vous devez le signaler à votre banque dans un délai de 8 semaines après la date du débit.",
+        "Virement non autorisé ou mal exécuté",
+        "Le délai varie selon que la banque du bénéficiaire du paiement se situe dans l'Union européenne, dans l'Espace économique européen (EEE) ou en dehors.",
+        "Dans l'Union européenne ou l'Espace économique européen",
+        "Vous devez le signaler à votre banque dans un délai de 13 mois après la date du débit.",
+        "En dehors de l'Union européenne ou l'Espace économique européen",
+        "Vous devez le signaler à votre banque dans un délai de 70 jours après la date du débit.",
+        "Ce délai peut être prolongé par contrat sans toutefois dépasser 120 jours.",
+        "[Attention] ces délais ne s'appliquent pas si la banque ne vous a pas fourni ou n'a pas mis à votre disposition les informations relatives à cette opération de paiement (relevé de compte).",
+        "Solutions en cas d'échec de la contestation",
+        "Si votre contestation n'aboutit pas, vous pouvez faire appel au médiateur bancaire.",
+        "Si l'intervention du médiateur n'a pas réglé le litige, vous pouvez saisir les juridictions civiles pendant 5 ans à partir de la date d'exécution de l'opération."
+      ]
+    },
+    {
+      "titre": "Quelle est la différence entre virement et prélèvement bancaire ?",
+      "contenu": [
+        "Le virement et le prélèvement bancaires sont 2 opérations sécurisées permettant un transfert d'argent de compte à compte.",
+        "Le virement est effectué par la personne qui verse l'argent.",
+        "Le prélèvement est effectué, après accord du titulaire du compte, par la personne qui reçoit l'argent.",
+        "En France, le virement bancaire est gratuit. Le prélèvement peut comporter des frais. Les tarifs sont fixés par votre convention de compte."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code monétaire et financier : article L314-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000020866787"
+    },
+    {
+      "titre": "Code monétaire et financier : articles L133-23 à L133-24",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000020861577"
+    },
+    {
+      "titre": "Code monétaire et financier : articles L133-25 à L133-25-2",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000020861571"
+    },
+    {
+      "titre": "Code monétaire et financier : articles L133-26 à L133-27",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000020861563"
+    },
+    {
+      "titre": "Arrêté du 5 septembre 2018 fixant les modalités d'information de la clientèle et du public sur les conditions générales et tarifaires applicables aux opérations bancaires",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000037373189/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Mettre en place un virement permanent",
+      "url": "",
+      "type": "Modèle de document"
+    },
+    {
+      "titre": "Annuler un virement permanent",
+      "url": "",
+      "type": "Modèle de document"
+    },
+    {
+      "titre": "Demander le versement de son salaire par virement",
+      "url": "",
+      "type": "Modèle de document"
+    }
+  ],
+  "contacts": [
+    "Info Banque - Assurance"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Bien utiliser le virement SEPA dans toute l'Europe",
+      "url": "https://www.ccsfin.fr/le-ccsf-vous-informe-bien-utiliser-le-virement-sepa-dans-toute-leurope"
+    },
+    {
+      "titre": "Le virement Sepa",
+      "url": "https://www.banque-france.fr/stabilite-financiere/comite-national-des-paiements-scripturaux/sepa"
+    },
+    {
+      "titre": "Le virement bancaire instantané",
+      "url": "https://www.lafinancepourtous.com/pratique/banque/moyens-de-paiement/virement-tip-et-prelevement/le-virement/le-virement-sepa-instantane/"
+    }
+  ],
+  "slug": "virement-bancaire",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "operations-bancaires",
+      "titre": "Opérations bancaires"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "F19261",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Durée du travail du salarié : convention de forfait en heures ou en jours",
+  "theme": "Travail - Formation",
+  "description": "La convention de forfait est un document qui prévoit une durée du travail différente de la durée légale ou conventionnelle.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-01-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F19261",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Temps de travail dans le secteur privé",
+    "Durée du travail du salarié : convention de forfait en heures ou en jours"
+  ],
+  "introduction": "La convention de forfait est un document qui prévoit pour le salarié une durée du travail différente de la durée légale ou conventionnelle, sur la base d'un forfait établi en heures (sur la semaine, le mois ou l'année) ou en jours (sur l'année). Nous vous présentons les 2 situations.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code du travail : articles L3121-53 à L3121-55",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033003095"
+    },
+    {
+      "titre": "Code du travail : articles L3121-56 et L3121-57",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033003176"
+    },
+    {
+      "titre": "Code du travail : articles L3121-58 à L3121-62",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033003217"
+    },
+    {
+      "titre": "Code du travail : articles L3121-63 et L3121-64",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033003275"
+    },
+    {
+      "titre": "Code du travail : articles L3121-65 et L3121-66",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033003367"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "duree-du-travail-du-salarie-convention-de-forfait-en-heures-ou-en-jours",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "temps-de-travail-dans-le-secteur-prive",
+      "titre": "Temps de travail dans le secteur privé"
+    }
+  ]
+}

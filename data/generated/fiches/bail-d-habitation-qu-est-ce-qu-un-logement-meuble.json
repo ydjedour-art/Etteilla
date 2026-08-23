@@ -1,0 +1,70 @@
+{
+  "id": "F34769",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Bail d’habitation : qu'est-ce qu'un logement meublé ?",
+  "theme": "Logement",
+  "description": "Pour être considéré comme meublé, un logement mis en location avec un bail d'habitation (y compris bail mobilité) doit comporter au minimum certains meubles.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-03-06",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34769",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Location immobilière : bail d’habitation (contrat de location)",
+    "Bail d’habitation : qu'est-ce qu'un logement meublé ?"
+  ],
+  "introduction": "Pour être considéré comme meublé, un logement utilisé comme résidence principale par le locataire et mis en location avec un bail d’habitation (y compris bail mobilité) doit comporter au minimum certains meubles et certains objets.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Un logement meublé utilisé comme résidence principale par le locataire, doit obligatoirement et au minimum contenir les meubles et les objets suivants :",
+        "• Literie avec couette ou couverture",
+        "• Volets ou rideaux dans les chambres",
+        "• Plaques de cuisson",
+        "• Four ou four à micro-onde",
+        "• Réfrigérateur",
+        "• Congélateur ou compartiment à congélation du réfrigérateur d'une température maximale de -6°",
+        "• Vaisselle en nombre suffisant pour que les occupants puissent prendre les repas",
+        "• Ustensiles de cuisine",
+        "• Table",
+        "• Sièges",
+        "• Étagères de rangement",
+        "• Luminaires",
+        "• Matériel d'entretien ménager adapté aux caractéristiques du logement (aspirateur s'il y a de la moquette, balai et serpillière pour du carrelage...).",
+        "En conséquence, un inventaire et un état détaillé du mobilier doivent être faits lors de la remise des clés au locataire et lors de leur restitution au propriétaire (ou à l’agent immobilier). Ces documents doivent être signés par le propriétaire (ou l’agent immobilier) et par le locataire, et être annexés au bail. L'établissement de ces documents ne peut donner lieu à aucune autre facturation que celle liée à l'établissement de l'état des lieux (état des lieux d'entrée et état des lieux de sortie).",
+        "En cas de litige sur le type de bail, le locataire ou le propriétaire (ou l'agence immobilière) doit saisir par assignation le juge des contentieux de la protection du tribunal dont dépend le logement. Le juge peut décider de requalifier le bail du logement meublé en « bail de logement vide », en cas de non-respect de cette liste de meubles et d’objets."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Loi n° 89-462 du 6 juillet 1989 sur les rapports locatifs : article 25-4",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000028779183"
+    },
+    {
+      "titre": "Loi n° 89-462 du 6 juillet 1989 sur les rapports locatifs : article 25-12",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042120921"
+    },
+    {
+      "titre": "Décret n°2015-981 du 31 juillet 2015 fixant la liste des éléments de mobilier d'un logement meublé",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000030967884/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "bail-d-habitation-qu-est-ce-qu-un-logement-meuble",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "location-immobiliere-bail-d-habitation-contrat-de-location",
+      "titre": "Location immobilière : bail d’habitation (contrat de location)"
+    }
+  ]
+}

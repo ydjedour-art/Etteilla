@@ -1,0 +1,106 @@
+{
+  "id": "F15973",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Peut-on cumuler la pension d'invalidité avec d'autres revenus ?",
+  "theme": "Social - Santé",
+  "description": "Le cumul de votre pension d'invalidité versée par la Sécurité sociale est possible avec certains revenus, le plus souvent dans une certaine limite.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-01-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F15973",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Invalidité du salarié dans le secteur privé",
+    "Peut-on cumuler la pension d'invalidité avec d'autres revenus ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Oui, vous pouvez cumuler votre pension d'invalidité versée par votre régime de Sécurité sociale (CPAM ou MSA) avec certains revenus, dans une certaine limite et à certaines conditions.",
+        "Cumul avec des revenus professionnels",
+        "Le cumul de la pension d'invalidité avec des revenus professionnels (salarié ou non salarié) est possible en fonction d'un seuil de comparaison choisi parmi 2 options. Celui-ci est fixé soit :",
+        "• Soit au niveau du salaire moyen de la dernière année d'activité avant le passage en invalidité dans la limite de 1,5 x le plafond annuel de la Sécurité sociale, soit 72 090 €",
+        "• Soit au niveau du salaire annuel moyen des 10 meilleurs années d'activité avant le passage en invalidité.",
+        "Ce seuil est fixé selon la règle la plus favorable à l'assuré.",
+        "Lorsque le seuil de comparaison est dépassé, le montant de la pension d'invalidité au-dessus de ce seuil est réduit de moitié du montant du dépassement.",
+        "Vous êtes salarié",
+        "La réduction de la pension d'invalidité intervient lorsqu'il y a un dépassement du salaire de comparaison entre les 13e et avant dernier mois précédent la déclaration.",
+        "Si des arrêts de travail étaient survenus au cours de la période, seules les périodes de travail effectif sont prises en compte.",
+        "Les montants de salaire brut et de prime utilisés pour la comparaison sont ceux perçus par trimestre au cours d'une année glissante qui se termine le 2e mois précédent la date d'examen. Le salaire brut visé est celui servant d'assiette pour le calcul des cotisations maladie, maternité, invalidité et décès.",
+        "[Exemple] Si l'examen du cumul s'effectue au 1er janvier 2026, la période annuelle de référence prise en compte s'étale du 1er décembre 2024 jusqu'au 30 novembre 2025. Ainsi, si vous aviez un salaire annuel brut de 30 000 € et que vous touchiez une pension d'invalidité de catégorie 1 de 10 000 € (soit 833,33 € par mois), vous ne pourrez pas toucher plus de 20 000 € de salaire se cumulant à votre pension (total 30 000 €). Si le cumul de votre pension d'invalidité et de revenus dépassent ce montant de 30 000 €, votre pension d'invalidité sera réduite de moitié. Par exemple : si la somme de votre pension et de votre salaire est de 100 € au-dessus de votre salaire de comparaison, votre pension d'invalidité sera réduite de 50 €.",
+        "La décision de votre organisme de Sécurité sociale (CPAM, MSA) de suspendre le versement de votre pension vous est notifiée par tout moyen (exemple : lettre recommandée avec demande d'avis de réception).",
+        "Vous êtes non salarié non agricole",
+        "Le calcul du cumul est déterminé sur la base de l'année civile qui précède le contrôle des droits. Si le contrôle des droits s'effectue le 1er janvier 2025, la période de référence s'étale du 1er janvier 2024 au 31 décembre 2024.",
+        "La déclaration annuelle s'effectue au 1er octobre.",
+        "Un contrôle est opéré chaque année par votre organisme de sécurité sociale.",
+        "Une déclaration de votre situation et de vos revenus d'activité est effectuée le 7e mois civil qui suit l'attribution de votre pension puis tous les 12 mois.",
+        "Lorsque vous avez repris une activité professionnelle, lors des 12 derniers mois, la déclaration doit s'effectuer tous les 3 mois.",
+        "La décision de votre organisme de sécurité sociale (CPAM, MSA) de suspendre le versement de votre pension vous est notifiée par tout moyen (exemple : lettre recommandée avec demande d'avis de réception).",
+        "Vous êtes non salarié agricole",
+        "Le cumul de la pension d’invalidité agricole et des revenus professionnels est possible, mais dans la limite d’un plafond. Ce seuil est fixé à 2 028 fois le montant du Smic horaire en vigueur au 1er janvier de l’année (12,02 € en 2026).",
+        "Lorsque le total des revenus et de la pension d’invalidité dépasse ce plafond, la pension est réduite. Le mécanisme appliqué consiste à diminuer la pension uniquement de la moitié du montant du dépassement constaté, de la même manière que dans le régime général.",
+        "Cumul avec une rente liée à un accident du travail",
+        "Le cumul avec une rente perçue en raison d'un accident du travail est possible en cas d'accident ou maladie non indemnisé par la caisse qui vous verse la rente et qui entraîne une incapacité totale au moins égale à 2/3.",
+        "Le montant cumulé de la pension d'invalidité et de la rente ne doit pas dépasser le salaire perçu par un travailleur valide de même catégorie socioprofessionnelle.",
+        "Cumul avec des allocations de chômage",
+        "Vous touchez une pension d'invalidité de 1re catégorie",
+        "La pension est cumulable intégralement avec l'allocation de retour à l'emploi (ARE).",
+        "Vous touchez une pension d'invalidité de 2e ou 3e catégorie",
+        "La pension est cumulable intégralement avec l'allocation de retour à l'emploi (ARE) si vous la touchiez déjà en même temps que les salaires qui ont ouvert le droit à l'ARE.",
+        "Dans le cas contraire, le montant de votre ARE versé par France Travail (anciennement Pôle emploi) est réduit du montant de votre pension d'invalidité.",
+        "Cumul avec une rente versée au titre d'un contrat de prévoyance",
+        "Il est possible de cumuler sans restriction une pension d'invalidité avec une rente versée dans le cadre d'un contrat de prévoyance.",
+        "Cumul avec une pension d'invalidité agricole",
+        "Le cumul avec une pension d'invalidité agricole est possible en cas d'invalidité ayant une autre origine (nouvel accident ou nouvelle maladie) que celle pour laquelle vous êtes déjà pensionné.",
+        "Le montant cumulé des 2 pensions ne doit pas dépasser le salaire perçu par un travailleur valide de même catégorie socioprofessionnelle.",
+        "Cumul avec une pension d'invalidité versée par un régime spécial",
+        "Le cumul avec une pension d'invalidité versée par un régime spécial est possible si l'invalidité a une autre origine (nouvel accident ou nouvelle maladie) que celle pour laquelle vous êtes déjà pensionné.",
+        "Le montant cumulé des 2 pensions ne doit pas dépasser le salaire perçu par un travailleur valide de même catégorie socioprofessionnelle.",
+        "Cumul avec une pension d'invalidité militaire",
+        "Le cumul avec une pension d'invalidité militaire est possible si l'accident ou la maladie entraîne une incapacité totale d'au moins 2/3 et n'est pas indemnisé par la caisse qui verse la pension militaire.",
+        "Le montant cumulé des 2 pensions ne doit pas dépasser le salaire perçu par un travailleur valide de même catégorie socioprofessionnelle."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la sécurité sociale : articles L371-1 à L371-5",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006172625"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles L371-6 et L371-7",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006172626"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles R341-14 à R341-21",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006173393/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles R172-1 à R172-9",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006186395"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Assurance maladie - 3646"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Allocation d'aide au retour à l'emploi (ARE)",
+      "url": "https://www.unedic.org/la-reglementation/fiches-thematiques/allocation-d-aide-au-retour-a-l-emploi-are"
+    }
+  ],
+  "slug": "peut-on-cumuler-la-pension-d-invalidite-avec-d-autres-revenus",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "invalidite-du-salarie-dans-le-secteur-prive",
+      "titre": "Invalidité du salarié dans le secteur privé"
+    }
+  ]
+}

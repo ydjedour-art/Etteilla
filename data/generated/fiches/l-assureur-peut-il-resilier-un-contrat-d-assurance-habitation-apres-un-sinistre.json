@@ -1,0 +1,57 @@
+{
+  "id": "F31459",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "L'assureur peut-il résilier un contrat d'assurance habitation après un sinistre ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Que vous soyez responsable du sinistre ou non, l'assureur peut résilier votre contrat après un sinistre, si c'est prévu dans le contrat.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-04-14",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31459",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Assurance habitation",
+    "L'assureur peut-il résilier un contrat d'assurance habitation après un sinistre ?"
+  ],
+  "introduction": "Oui, votre assureur a le droit de résilier votre contrat d'assurance habitation après un sinistre, même si vous n'en n'êtes pas responsable. Les règles varient selon votre lieu d'habitation : départements de l'Alsace-Moselle (Bas-Rhin, Haut-Rhin et Moselle) ou un autre département.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code des assurances : articles L113-1 à L113-17",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006157200"
+    },
+    {
+      "titre": "Code des assurances : articles R113-1 à R113-14",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006158221"
+    },
+    {
+      "titre": "Code des assurances : article L191-6",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006795108"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Info Banque - Assurance"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "L'assurance multirisques habitation",
+      "url": "https://www.inc-conso.fr/content/lassurance-multirisques-habitation"
+    },
+    {
+      "titre": "L'assurance dégât des eaux",
+      "url": "https://www.inc-conso.fr/content/lassurance-degats-des-eaux"
+    }
+  ],
+  "slug": "l-assureur-peut-il-resilier-un-contrat-d-assurance-habitation-apres-un-sinistre",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "assurance-habitation",
+      "titre": "Assurance habitation"
+    }
+  ]
+}

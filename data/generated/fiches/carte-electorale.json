@@ -1,0 +1,185 @@
+{
+  "id": "F1962",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Carte électorale",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "La carte électorale (appelée carte d'électeur) est un document prouvant votre inscription sur la liste électorale de la commune.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-02-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1962",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Élections",
+    "Carte électorale"
+  ],
+  "introduction": "La carte électorale (appelée aussi carte d'électeur) est un document prouvant votre inscription sur la liste électorale de la commune. Il y est notamment indiqué l'adresse de votre bureau de vote. Cette carte est généralement envoyée par courrier, mais elle peut être remise aux Français de 18 ans lors d'une cérémonie de citoyenneté. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "À quelle condition obtient-on la carte d'électorale ?",
+      "contenu": [
+        "Pour obtenir une carte électorale, il faut être inscrit sur les listes électorales.",
+        "L'inscription sur les listes électorales peut se faire :",
+        "• Soit automatiquement, comme par exemple lors de l'inscription d'office d'un Français atteignant l'âge de 18 ans",
+        "• Soit de façon volontaire, c'est-à-dire à l'initiative de l'électeur, comme par exemple à la suite d'un déménagement ou de l'obtention de la nationalité française.",
+        "Vous pouvez vérifier votre inscription électorale et connaître votre bureau de vote à l'aide de ce téléservice :",
+        "Vérifier votre inscription électorale et votre bureau de vote",
+        "Connexion avec FranceConnect ou avec vos identifiants Ma-situation-électorale"
+      ]
+    },
+    {
+      "titre": "Comment obtient-on la carte électorale ?",
+      "contenu": [
+        "La remise de la carte électorale varie selon que vous êtes déjà électeur (cas général) ou que vous venez d’atteindre l’âge de 18 ans :",
+        "Cas général",
+        "La carte électorale est envoyée par courrier à votre domicile au plus tard 3 jours avant le 1er tour de l'élection (ou référendum).",
+        "Si votre carte électorale ne vous a pas été distribuée avant l'élection ou le référendum, elle est conservée au bureau de vote. Vous pourrez la récupérer en y présentant une pièce d'identité.",
+        "Français qui atteint l’âge de 18 ans",
+        "Si vous venez d’atteindre l’âge de 18 ans, vous pouvez recevoir votre carte électorale à l’occasion d'une cérémonie de citoyenneté organisée par le maire.",
+        "En cas d’absence à cette cérémonie, la carte électorale est envoyée par courrier à votre domicile au plus tard 3 jours avant le 1er tour de l'élection (ou référendum).",
+        "Si votre carte électorale ne vous a pas été distribuée avant l'élection ou le référendum, elle est conservée au bureau de vote. Vous pourrez la récupérer en y présentant une pièce d'identité."
+      ]
+    },
+    {
+      "titre": "Quelles informations sont indiquées sur la carte électorale ?",
+      "contenu": [
+        "La carte électorale indique les informations suivantes :",
+        "• Nom de l'électeur",
+        "• Prénoms de l'électeur",
+        "• Adresse de son domicile ou de sa résidence",
+        "• Date et lieu de naissance de l'électeur",
+        "• Numéro national d'électeur",
+        "• Lieu du bureau de vote de l'électeur.",
+        "[À savoir] La signature du maire ou le cachet de la mairie sont facultatifs. La signature de l'électeur n'est pas non plus obligatoire."
+      ]
+    },
+    {
+      "titre": "Que faire en cas d’erreur sur la carte électorale ?",
+      "contenu": [
+        "Si vous constatez une erreur sur votre carte électorale, vous devez en demander la modification. La démarche varie selon la nature de l’erreur :",
+        "Erreur d’état civil",
+        "Si vous constatez une erreur d'état civil sur votre carte électorale, vous devez en demander la correction à l'aide de ce téléservice :",
+        "Demande de correction d’identité dans le répertoire de l’Insee",
+        "Avoir une adresse mail ou se connecter à son compte Service Public par identifiants ou par FranceConnect",
+        "Erreur de nom d’usage",
+        "Si vous constatez une erreur sur votre nom d’usage sur votre carte électorale, vous pouvez vous adresser à votre commune d'inscription qui effectuera la modification.",
+        "Renseignez-vous auprès de votre mairie pour connaître la démarche à suivre.",
+        "Mairie",
+        "Erreur d’adresse",
+        "Si vous constatez une erreur d'adresse sur votre carte électorale, vous devez en informer votre mairie.",
+        "Renseignez-vous auprès de votre mairie pour connaître la démarche à suivre.",
+        "Mairie"
+      ]
+    },
+    {
+      "titre": "Faut-il présenter la carte électorale pour voter ?",
+      "contenu": [
+        "Il est recommandé de présenter votre carte électorale au moment du vote.",
+        "Mais si vous ne l'avez pas, vous pourrez quand même voter.",
+        "Le jour du vote, les documents à présenter pour pouvoir voter dépendent du nombre d'habitants de la commune :",
+        "Commune de 1 000 habitants ou plus",
+        "Vous pouvez voter en présentant :",
+        "• Soit une pièce d'identité et votre carte électorale",
+        "• Soit une pièce d'identité seulement.",
+        "Si vous avez été inscrit par une décision de justice (notamment en cas d'erreur de l'administration), vous devez aussi présenter le document en attestant.",
+        "Commune de moins de 1 000 habitants",
+        "Vous pouvez voter en présentant :",
+        "• Soit une pièce d'identité et votre carte électorale",
+        "• Soit une pièce d'identité seulement",
+        "• Soit une carte électorale seulement.",
+        "Si vous avez été inscrit par une décision de justice (notamment en cas d'erreur de l'administration), vous devez aussi présenter le document en attestant."
+      ]
+    },
+    {
+      "titre": "Faut-il présenter la carte électorale de l'électeur qui a donné procuration ?",
+      "contenu": [
+        "Si vous êtes chargé d’une procuration de vote, vous n’avez pas besoin de présenter la carte électorale de l’autre électeur pour voter à sa place, ni aucun autre document le concernant.",
+        "Vous devez simplement vous rendre dans son bureau de vote.",
+        "Le seul document que vous avez besoin de présenter au bureau de vote est votre pièce d'identité."
+      ]
+    },
+    {
+      "titre": "Quelle est la durée de validité de la carte électorale ?",
+      "contenu": [
+        "La carte est valable jusqu'à son remplacement par la suivante.",
+        "Toutes les cartes électorales ont été renouvelées au début de l'année 2022.",
+        "[Rappel] La carte électorale est envoyée par courrier à votre domicile au plus tard 3 jours avant le 1er tour de l'élection (ou référendum).",
+        "Les nouvelles cartes sont établies lors des opérations de refonte des listes électorales, en général tous les 3 à 5 ans."
+      ]
+    },
+    {
+      "titre": "Que faire en cas de perte de sa carte électorale ?",
+      "contenu": [
+        "Pour remplacer votre carte, vous pouvez obtenir une attestation d'inscription sur la liste électorale.",
+        "Pour cela, vous pouvez la télécharger à l'aide d’un téléservice, ou en faire la demande à la mairie de la commune où vous êtes inscrit.",
+        "Au moment du vote, vous pourrez présenter cette attestation à votre bureau de vote.",
+        "[À savoir] Vous pouvez voter en présentant à votre bureau de vote une pièce d'identité uniquement. Pour connaître votre bureau de vote, vous pouvez utiliser ce téléservice."
+      ]
+    },
+    {
+      "titre": "Que faire en cas de vol de sa carte électorale ?",
+      "contenu": [
+        "Il est conseillé de prévenir le commissariat de police ou la brigade de gendarmerie pour éviter toute utilisation frauduleuse de votre carte.",
+        "Renseignez-vous auprès du commissariat ou de la gendarmerie de votre domicile.",
+        "Commissariat",
+        "Brigade de gendarmerie",
+        "Pour remplacer votre carte, vous pouvez obtenir une attestation d'inscription sur la liste électorale.",
+        "Pour cela, vous pouvez la télécharger à l'aide de ce téléservice, ou en faire la demande à la mairie de la commune où vous êtes inscrit.",
+        "Au moment du vote, vous pourrez présenter cette attestation à votre bureau de vote.",
+        "[À savoir] Vous pouvez voter en présentant à votre bureau de vote une pièce d'identité uniquement. Pour connaître votre bureau de vote, vous pouvez utiliser ce téléservice."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code électoral : articles R22 à R25",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070239/LEGISCTA000006164081/"
+    },
+    {
+      "titre": "Code électoral : articles R42 à R71",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070239/LEGISCTA000006164050/#LEGIARTI000043098416"
+    },
+    {
+      "titre": "Arrêté du 16 novembre 2018 relatif aux justificatifs d'identité et de domicile pour s'inscrire et pour voter en mairie",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000037627369/"
+    },
+    {
+      "titre": "Instruction INTA1830120J du 21 novembre 2018 relative à la tenue des listes électorales et des listes électorales complémentaires",
+      "url": "https://www.legifrance.gouv.fr/download/pdf/circ?id=44101"
+    },
+    {
+      "titre": "Addendum à l'instruction INTA1830120J du 21 novembre 2018 relative à la tenue des listes électorales complémentaires",
+      "url": "https://www.legifrance.gouv.fr/circulaire/id/45129?origin=list"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demande de correction d’identité dans le répertoire de l’Insee",
+      "url": "https://demarches.service-public.gouv.fr/mademarche/rnipp/demarche",
+      "type": "selNG"
+    },
+    {
+      "titre": "Vérifier votre inscription électorale et votre bureau de vote",
+      "url": "https://situation.elections.interieur.gouv.fr/",
+      "type": "selNG"
+    },
+    {
+      "titre": "Législatives 2024 : liste et programme des candidats par circonscription",
+      "url": "https://programme-candidats.interieur.gouv.fr/",
+      "type": "Outil de recherche"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "carte-electorale",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "elections",
+      "titre": "Élections"
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "id": "F1429",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Qu'est-ce qu'une mention marginale sur un acte d'état civil ?",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Une mention marginale est une annotation ajoutée en marge d'un acte de naissance, de mariage ou de décès pour le modifier ou le compléter.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-03-12",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1429",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Actes d'état civil",
+    "Qu'est-ce qu'une mention marginale sur un acte d'état civil ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "À quoi sert une mention marginale sur un acte d’état civil ?",
+      "contenu": [
+        "La mention marginale sert à indiquer un événement ultérieur qui modifie l'état civil de la personne concernée, comme un mariage, un divorce, une reconnaissance d'enfant, un changement de prénom ou de nom ou de sexe, ou encore la dissolution d'un Pacs.",
+        "Ces mentions sont importantes, car elles permettent de tenir à jour les informations officielles liées à l'état civil."
+      ]
+    },
+    {
+      "titre": "Où se situe la mention marginale sur un acte d’état civil ?",
+      "contenu": [
+        "La mention marginale est apposée dans la marge ou à la suite de l'acte d’état civil. Elle renvoie au nouvel acte ou à la décision judiciaire ou administrative ayant modifié ou complété l’état civil de la personne."
+      ]
+    },
+    {
+      "titre": "Qu’indique une mention marginale sur un acte d’état civil ?",
+      "contenu": [
+        "Les informations présentes dans la mention marginale varient en fonction de la personne dont l’acte ou la décision émane :",
+        "Acte établi directement par l’officier d’état civil",
+        "Les informations varient selon que l’officier d’état civil est en France ou à l’étranger :",
+        "Officier d’état civil en France",
+        "Les mentions marginales des actes d’état civil apposées en marge d’autres actes d’état civil énoncent la nature, la date et le lieu de l’événement qui a fait l’objet de l’acte mentionné ainsi que les principales énonciations de celui-ci.",
+        "Toute mention marginale énonce également la date à laquelle la mention est apposée, le statut de l'officier d'état civil qui a effectué la mise à jour et sa signature.",
+        "Officier d’état civil à l’étranger",
+        "Les mentions marginales des actes d’état civil apposées en marge d’autres actes d’état civil énoncent la nature, la date et le lieu de l’événement qui a fait l’objet de l’acte mentionné ainsi que les principales énonciations de celui-ci.",
+        "Elles énoncent aussi la date et le lieu de transcription ainsi que les références de l’acte lorsque celui-ci est détenu par le service central d’état civil (Scec) du ministère des affaires étrangères.",
+        "Toute mention marginale énonce également la date à laquelle la mention est apposée, le statut de l'officier d'état civil qui a effectué la mise à jour et sa signature.",
+        "Acte reçu, enregistré ou déposé par un notaire",
+        "Les mentions marginales des actes d’état civil apposées en marge d’autres actes d’état civil énoncent la nature, la date et le lieu de l’événement qui a fait l’objet de l’acte mentionné ainsi que les principales énonciations de celui-ci.",
+        "Elles comprennent aussi le nom, la qualité de l’auteur de l’acte, le lieu et le numéro « CRPCEN » de l’office notarial.",
+        "Toute mention marginale énonce également la date à laquelle la mention est apposée, le statut de l'officier d'état civil qui a effectué la mise à jour et sa signature.",
+        "Décisions judiciaires ou administratives",
+        "Les mentions marginales des actes d’état civil apposées en marge d’autres actes d’état civil énoncent la nature, la date et le lieu de l’événement qui a fait l’objet de l’acte mentionné ainsi que les principales énonciations de celui-ci.",
+        "Elles énoncent aussi la nature, l’objet et la date de la décision ainsi que la désignation de l’autorité dont elle émane.",
+        "Toute mention marginale énonce également la date à laquelle la mention est apposée, le statut de l'officier d'état civil qui a effectué la mise à jour et sa signature."
+      ]
+    },
+    {
+      "titre": "Dans quelles situations une mention marginale est apportée sur un acte d’état civil ?",
+      "contenu": [
+        "Les situations suivantes conduisent à la rédaction de mention marginale de l'acte de naissance et/ou de l'acte de mariage :",
+        "Situations impliquant une mention marginale sur un acte d'état civil",
+        "Situation",
+        "Acte où figure la mention",
+        "Précision",
+        "Reconnaissance d'un enfant",
+        "Acte de naissance de l’enfant",
+        "Mention inscrite automatiquement par le service d'état civil",
+        "Adoption",
+        "• Acte de naissance de l’adopté",
+        "• Actes d’état civil de l’intéressé, de son conjoint et de ses enfants mineurs",
+        "Mention inscrite automatiquement par le service d'état civil",
+        "Mariage",
+        "Acte de naissance de chacun des époux",
+        "Mention inscrite automatiquement par le service d'état civil",
+        "Divorce, séparation de corps",
+        "• Acte de mariage",
+        "• Acte de naissance",
+        "Mention inscrite à la demande de l'avocat ou de la personne intéressée par le service d'état civil de la commune de mariage.",
+        "Sur présentation d'une copie de la décision judiciaire ou de l'attestation de dépôt délivrée par le notaire ou de la convention de divorce (ou séparation de corps).",
+        "Pacs : conclusion, modification, dissolution",
+        "Acte de naissance de chaque partenaire",
+        "Mention inscrite automatiquement par le service d'état civil",
+        "Changement de prénom et modification du nom de famille",
+        "• Acte de naissance de l’intéressé",
+        "• Si nécessaire, les actes de votre conjoint et de vos enfants",
+        "Mention inscrite automatiquement par le service d'état civil",
+        "Changement de sexe",
+        "• Acte de naissance de l’intéressé",
+        "• Si vous êtes marié : acte de mariage et de naissance de votre époux avec son accord",
+        "• Si vous êtes pacsé : acte de naissance de votre partenaire de Pacs",
+        "• Si vous avez des enfants : acte de naissance des enfants mineurs avec l'accord de l'autre parent / acte de naissance des enfants majeurs avec leur accord",
+        "Mention inscrite automatiquement par le service d'état civil.",
+        "Dans l'acte de mariage et l'acte de naissance du conjoint, mention du changement de prénom, pas du changement de sexe.",
+        "Décès",
+        "Acte de naissance de la personne décédée",
+        "Mention inscrite automatiquement par le service d'état civil",
+        "Acquisition de la nationalité française",
+        "Acte de naissance de l’intéressé",
+        "Mention inscrite automatiquement par le service d'état civil",
+        "Décisions d’inscription au répertoire civil : changement de régime matrimonial, tutelle par exemple",
+        "Acte de naissance de l’intéressé",
+        "Acte portant une mention marginale RC et un numéro. Pour savoir à quoi il renvoie, il est possible de demander une copie de l'extrait conservé au répertoire civil.",
+        "[À noter] Si l'acte complété par la mention figure sur un livret de famille, ce livret doit également être mis à jour."
+      ]
+    },
+    {
+      "titre": "Combien de temps l'officier d'état civil a-t-il pour inscrire une mention marginale sur un acte d'état civil ?",
+      "contenu": [
+        "L’officier d’état civil dispose d’un délai de 3 jours après avoir été sollicité pour inscrire une mention marginale sur un acte d’état civil."
+      ]
+    },
+    {
+      "titre": "Que faire en cas d’erreur dans la mention marginale sur un acte d’état civil ?",
+      "contenu": [
+        "Si votre acte d’état civil contient une erreur, vous pouvez demander sa correction."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : articles 28 et 28-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006150514"
+    },
+    {
+      "titre": "Code civil : articles 60 à 61-4",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006149971/#LEGISCTA000006149971"
+    },
+    {
+      "titre": "Code civil : articles 62 et 62-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006150517/#LEGISCTA000006150517"
+    },
+    {
+      "titre": "Code de procédure civile : articles 1055-5 à 1055-10",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070716/LEGISCTA000034322762"
+    },
+    {
+      "titre": "Code civil : article 76",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033460944"
+    },
+    {
+      "titre": "Code civil : article 79",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024025785/"
+    },
+    {
+      "titre": "Code de procédure civile : article 1082",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411899/"
+    },
+    {
+      "titre": "Code civil : articles 515-1 à 515-7-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006136536/"
+    },
+    {
+      "titre": "Code de procédure civile : articles 1057 à 1061",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006135943"
+    },
+    {
+      "titre": "Circulaire du 26 août 2020 récapitulant les formules de mentions en marge des actes d'état civil",
+      "url": "http://www.justice.gouv.fr/bo/2020/20200831/JUSC2021489C.pdf"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demande d'une copie d'un extrait conservé au répertoire civil",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/13485",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Mairie",
+    "Service central d'état civil (Scec)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "qu-est-ce-qu-une-mention-marginale-sur-un-acte-d-etat-civil",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "actes-d-etat-civil",
+      "titre": "Actes d'état civil"
+    }
+  ]
+}

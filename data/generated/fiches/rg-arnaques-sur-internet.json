@@ -1,0 +1,33 @@
+{
+  "id": "F47157",
+  "type_publication": "Recherche guidée",
+  "titre": "RG Arnaques sur internet",
+  "theme": "Justice",
+  "description": "RG Arnaques sur internet",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2025-08-11",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F47157",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Arnaques sur internet (THESEE, Pharos ...)",
+    "RG Arnaques sur internet"
+  ],
+  "introduction": "Vous estimez être victime d'une infraction concernant des faits qui se sont déroulés sur internet sans aucune rencontre physique ? Il peut s'agir par exemple de courriels, sites web, e-commerce, relations virtuelles. Nous vous guidons dans votre démarche.",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "rg-arnaques-sur-internet",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "arnaques-sur-internet-thesee-pharos",
+      "titre": "Arnaques sur internet (THESEE, Pharos ...)"
+    }
+  ]
+}

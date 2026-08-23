@@ -1,0 +1,119 @@
+{
+  "id": "F2613",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Impôt sur le revenu - Revenus d'épargne et de placement",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Les livrets réglementés sont exonérés d'impôt. L'imposition des autres placements varie. Des régimes spéciaux sont prévus pour le PEA et l'assurance-vie.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-15",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2613",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Impôt sur le revenu : déclaration et revenus à déclarer",
+    "Impôt sur le revenu - Revenus d'épargne et de placement"
+  ],
+  "introduction": "Vous percevez des revenus de placements et vous souhaitez savoir comment les déclarer ? L’imposition dépend des placements. Vous n’avez pas à déclarer les revenus de vos livrets d'épargne réglementés (Livret A, LEP, LDDS, livret Jeune). Pour les autres placements, l'imposition varie selon qu'ils sont fixes (obligations, etc.) ou variables (actions, etc.). Des régimes spéciaux sont prévus, en particulier pour le PEA et l'assurance-vie. Nous vous présentons les informations à connaître pour vos revenus de placements de 2025 et de 2026.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code général des impôts : article 117 quater",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000022850359/"
+    },
+    {
+      "titre": "Code général des impôts : articles 119 bis à 119 quinquies",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000006197209/#LEGISCTA000006197209"
+    },
+    {
+      "titre": "Code général des impôts : article 125 A",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006197416/"
+    },
+    {
+      "titre": "Code général des impôts : article 242 quater",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036427348"
+    },
+    {
+      "titre": "Loi n° 2025-1403 du 30 décembre 2025 de financement de la sécurité sociale pour 2026",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000053226384/"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-RPPM-RCM relatif à la fiscalité des revenus de capitaux mobiliers",
+      "url": "http://bofip.impots.gouv.fr/bofip/3793-PGP.html"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Impôts : accéder à votre espace Finances publiques",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Estimer le montant de son impôt sur les revenus de 2025 (déclaration de 2026)",
+      "url": "https://simulateur-ir-ifi.impots.gouv.fr/calcul_impot/2026/",
+      "type": "simulateurNG"
+    },
+    {
+      "titre": "Déclarer vos revenus en ligne",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Déclaration 2026 des revenus 2025 (papier)",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/2042/declaration-des-revenus",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Déclaration complémentaire 2026 des revenus 2025",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/2042/declaration-des-revenus",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Déclaration récapitulative des opérations sur valeurs mobilières et revenus de capitaux mobiliers",
+      "url": "https://www.impots.gouv.fr/portail/node/9010",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Impôt sur les revenus mobiliers - Demande de dispense de prélèvement",
+      "url": "https://bofip.impots.gouv.fr/bofip/8729-PGP.html/identifiant=BOI-LETTRE-000214-20191220",
+      "type": "Modèle de document"
+    },
+    {
+      "titre": "Déclaration 2026 des revenus 2025 encaissés à l'étranger",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/2047/declaration-des-revenus-encaisses-letranger",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Service d'information des impôts",
+    "Service en charge des impôts (trésorerie, service des impôts...)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Site des impôts",
+      "url": "https://www.impots.gouv.fr/portail/"
+    },
+    {
+      "titre": "Brochure pratique 2026 - Déclaration des revenus de 2025",
+      "url": "https://www.impots.gouv.fr/www2/fichiers/documentation/brochure/ir_2026/accueil.htm"
+    },
+    {
+      "titre": "Impôt sur le revenu : dépliants d'information",
+      "url": "https://www.impots.gouv.fr/brochures-et-depliants"
+    },
+    {
+      "titre": "Les revenus mobiliers",
+      "url": "https://www.impots.gouv.fr/portail/particulier/les-revenus-mobiliers"
+    }
+  ],
+  "slug": "impot-sur-le-revenu-revenus-d-epargne-et-de-placement",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "impot-sur-le-revenu-declaration-et-revenus-a-declarer",
+      "titre": "Impôt sur le revenu : déclaration et revenus à déclarer"
+    }
+  ]
+}

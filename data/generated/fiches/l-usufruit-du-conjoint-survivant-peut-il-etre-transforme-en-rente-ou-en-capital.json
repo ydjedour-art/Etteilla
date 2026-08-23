@@ -1,0 +1,49 @@
+{
+  "id": "F2132",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "L'usufruit du conjoint survivant peut-il être transformé en rente ou en capital ?",
+  "theme": "Famille - Scolarité",
+  "description": "Oui, sous conditions, vous pouvez demander la transformation de l'usufruit reçu en rente viagère ou en capital.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-07-28",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2132",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Héritage : ordre et droits des héritiers",
+    "L'usufruit du conjoint survivant peut-il être transformé en rente ou en capital ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Si vous êtes l'époux ou l'épouse du défunt, vous héritez de l'usufruit de tout ou partie de la succession. Vous pouvez, sous conditions, transformer l'usufruit reçu en rente viagère. Vous pouvez aussi transformer l'usufruit en capital, mais uniquement avec l'accord de tous les héritiers."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : articles 759 à 762",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006431099"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Informations notariales",
+    "Chambre départementale des notaires",
+    "Notaire"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "l-usufruit-du-conjoint-survivant-peut-il-etre-transforme-en-rente-ou-en-capital",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "heritage-ordre-et-droits-des-heritiers",
+      "titre": "Héritage : ordre et droits des héritiers"
+    }
+  ]
+}

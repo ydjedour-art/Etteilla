@@ -1,0 +1,294 @@
+{
+  "id": "F36437",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Montpellier : montant du loyer pour un bail d'habitation",
+  "theme": "Logement",
+  "description": "À Montpellier, le loyer d'un logement dont le bail d'habitation signé ou renouvelé depuis juillet 2022 est encadré par des loyers de référence minoré et majoré.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-07-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F36437",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Bail d’habitation : loyer",
+    "Montpellier : montant du loyer pour un bail d'habitation"
+  ],
+  "introduction": "Votre logement situé à Montpellier est-il soumis à l'encadrement des loyers ? Le loyer d'un logement loué avec un bail mobilité ou un bail d'habitation (vide ou meublé) signé ou renouvelé entre juillet 2022 et le 24 novembre 2026 est encadré par des loyers de référence minoré et majoré. Ces montants dépendent de la catégorie du logement (location vide ou meublée, nombre de pièces, époque de construction). Nous vous expliquons.",
+  "chapitres": [
+    {
+      "titre": "1re mise en location",
+      "contenu": [
+        "Le loyer (hors charges) peut se composer de 2 éléments : le loyer de base et un complément de loyer.",
+        "Loyer de base",
+        "Le bail doit indiquer les montants suivants :",
+        "• Le loyer de base (montant du loyer hors charges et hors complément de loyer),",
+        "• le loyer de référence et le loyer de référence majoré en vigueur à la date de signature du bail et qui correspondent à la catégorie du logement (localisation, nombre de pièces...).",
+        "Le loyer de base (montant du loyer hors charges et hors complément de loyer) ne doit pas dépasser le loyer de référence majoré en vigueur à la date de signature du bail.",
+        "Vous pouvez connaître les loyers de référence majorés à l'aide de ce simulateur :",
+        "Montpellier : estimer les loyers de référence (bail signé depuis juillet 2022)",
+        "Si le bail ne mentionne pas le montant du loyer de référence majoré, le locataire a 1 mois à partir de la date de prise d'effet du bail pour adresser au propriétaire par courrier recommandé avec accusé de réception une mise en demeure de le faire.",
+        "Le propriétaire a 1 mois pour répondre à partir de la date de réception de la proposition du locataire.",
+        "En l'absence de réponse ou en cas de refus du propriétaire dans ce délai, le locataire peut saisir dans les 3 mois suivants le juge des contentieux de la protection du tribunal dont dépend le logement, pour obtenir une diminution du loyer, si nécessaire.",
+        "Si le loyer de base dépasse le loyer de référence majoréen vigueur à la date de signature du bail (mentionné ou non dans le bail), le locataire peut demander une diminution de loyer et le remboursement des trop-perçus au propriétaire. Pour cela, il peut faire les démarches suivants :",
+        "• Saisir la commission départementale de conciliation. En cas d’échec, il peut saisir le juge des contentieux de la protection du tribunal dont dépend le logement loué.",
+        "• Signaler le non-respect de l’encadrement des loyers à la préfecture. Le propriétaire encourt une amende administrative de 5 000 € s’il s’agit d’une personne physique, et de 15 000 € s’il s’agit d’une personne morale.",
+        "Préfecture",
+        "Complément de loyer",
+        "Dans quels cas s'applique un complément de loyer ?",
+        "Le propriétaire (ou l'agence immobilière/notaire) peut appliquer un complément de loyer si les 2 conditions suivantes sont réunies :",
+        "• Le logement a des caractéristiques particulières (localisation, confort)",
+        "• Le loyer de base (hors charges) est égal au loyer de référence majoré.",
+        "Si un complément de loyer s'applique, le loyer est égal au total du loyer de base et du complément de loyer.",
+        "Le montant du complément de loyer et les caractéristiques du logement qui le justifient doivent être indiqués dans le bail.",
+        "[Attention] Pour un bail signé depuis le 18 août 2022, le complément de loyer est interdit si le logement a au moins 1 de ces caractéristiques suivantes : sanitaires sur le palier, signes d'humidité sur certains murs, DPE de classe F ou G, fenêtres laissant anormalement passer l'air (hors grille de ventilation), vis-à-vis à moins de 10 m, infiltrations ou inondations provenant de l'extérieur, problèmes d'évacuation d'eau au cours des 3 derniers mois, installation électrique dégradée, mauvaise exposition de la pièce principale.",
+        "Comment contester le complément de loyer ?",
+        "Pour contester le complément de loyer, le locataire doit saisir la commission départementale de conciliation (CDC) dans un délai de 3 mois à partir de la date de signature du bail. C'est au propriétaire (ou à l'agence immobilière) de prouver que le complément de loyer est justifié.",
+        "Si la CDC parvient à un accord, le montant du loyer est celui fixé par le document de conciliation délivré par la CDC. Ce nouveau montant s'applique à partir de la date d'entrée en vigueur du bail.",
+        "Mais si le désaccord persiste, le locataire a 3 mois à partir de la réception de l'avis de la CDC pour saisir le juge des contentieux de la protection du tribunal dont dépend le logement. Il peut lui demander d'annuler ou de diminuer le complément de loyer. Le montant du loyer fixé par le juge s'applique à partir de la date d'entrée en vigueur du bail."
+      ]
+    },
+    {
+      "titre": "Renouvellement de bail",
+      "contenu": [
+        "[Attention] Un bail mobilité ne peut pas être renouvelé.",
+        "À l'approche du renouvellement du bail :",
+        "• Lorsque le loyer de base (hors charges et hors complément de loyer) est inférieur au loyer de référence minoré, le propriétaire peut engager une action en réévaluation de loyer,",
+        "• Lorsque le loyer de base est supérieur au loyer de référence majoré, le locataire peut engager une action en diminution de loyer.",
+        "Vous pouvez connaître les loyers de référence majorés à l'aide de ce simulateur :",
+        "Montpellier : estimer les loyers de référence (bail signé depuis juillet 2022)",
+        "Action en réévaluation de loyer",
+        "Quelles sont les conditions ?",
+        "Il faut respecter 3 conditions :",
+        "1. Le nouveau loyer (hors charges et hors complément de loyer) doit être inférieur ou égal au loyer de référence minoré en vigueur au moment où le propriétaire informe le locataire.",
+        "2. L'augmentation du loyer proposée doit être inférieure ou égale à la plus élevée des 2 limites suivantes :",
+        "• 50 % de la différence entre le loyer qui correspond aux loyers pratiqués dans le voisinage pour des logements comparables et le dernier loyer appliqué au locataire avant le renouvellement du bail (éventuellement révisé si cela n'avait pas été fait dans les 12 derniers mois)",
+        "• Une majoration du loyer annuel égale à 15 % du coût réel des travaux faits depuis le dernier renouvellement du bail (travaux d’amélioration ou travaux de mise aux normes), lorsque le montant de ces travaux est au moins égal au montant de la dernière année de loyer.",
+        "3. Depuis le 22 août 2024, il est interdit d'augmenter le loyer d'un logement classé F ou G (classement indiqué sur le DPE) lors du renouvellement du bail.",
+        "Comment informer le locataire ?",
+        "Le propriétaire doit informer le locataire du nouveau loyer, au moins 6 mois avant la fin du bail.",
+        "Le propriétaire doit lui adresser une notification :",
+        "• Soit par lettre recommandée avec accusé de réception",
+        "• Soit par acte de commissaire de justice (anciennement acte d'huissier de justice)",
+        "• Soit par remise en main propre contre récépissé ou émargement.",
+        "Cette notification doit contenir les éléments suivants :",
+        "• Intégralité de l'article 140 VI de la loi du 23 novembre 2018",
+        "• Nouveau montant du loyer proposé et loyer de référence minoré ayant servi à le déterminer.",
+        "[À savoir] Lorsque le propriétaire engage une action de réévaluation de loyer, il ne peut pas donner son préavis (congé) au locataire pour l'échéance du bail.",
+        "Comment contester ?",
+        "Le locataire peut contester l'action en réévaluation de loyer.",
+        "Pour cela, il doit fournir au propriétaire 6 références de loyer de logements comparables, situés :",
+        "• Soit dans le même groupe d'immeubles",
+        "• Soit dans tout autre groupe d'immeubles comportant des caractéristiques similaires et situés dans la même zone géographique.",
+        "Ces références de loyers sont consultables sur le site de l'observatoire des loyers.",
+        "En cas de désaccord ou en l'absence de réponse du locataire ou du propriétaire à la demande de réévaluation du loyer, l'un ou l'autre doit saisir, 4 mois avant la fin du bail, la commission départementale de conciliation (CDC).",
+        "Si le désaccord persiste en dépit de l'action de la CDC, le juge des contentieux de la protection peut être saisi avant la fin du bail.",
+        "[Attention] Si le juge n'est pas saisi avant la fin du bail, le bail est reconduit aux conditions antérieures du loyer. Toutefois, si l'ancien loyer n'a pas été révisé au cours des 12 mois précédents, le propriétaire peut le réviser pour fixer le nouveau loyer.",
+        "Comment appliquer le nouveau loyer ?",
+        "Il faut distinguer si le logement est loué vide ou meublé :",
+        "• Pour un logement vide, lorsqu'un nouveau loyer est décidé par le locataire et le propriétaire (ou l'agence immobilière), ou par le juge, ce nouveau loyer ne s'applique que progressivement à partir du renouvellement du bail. Si la hausse est d'au plus 10 %, elle est étalée par 1/3 annuel ou par 1/6 annuel, selon la durée du nouveau bail. Mais si la hausse est de plus de 10 %, et que le nouveau bail est de moins de 3 ans, elle s'applique par 1/6 annuel pendant ce nouveau bail, puis par 1/6 annuel lors du renouvellement ultérieur.",
+        "[Exemple] Pour un bail est de 3 ans, le dernier loyer mensuel appliqué est de 600 € (hors charges et hors complément de loyer) et la hausse à appliquer est de 50 € mensuels : • Cette hausse est inférieure à 10 % du loyer, car 600 x 10 % = 60 €, alors son application sera d'1/3 par an • Le loyer mensuel sera augmenté la 1re année de 16,67 € par mois (car 50 € x 1/3 = 16,67 €), puis la 2e année de 33,33 € par mois (car 50 € x 2/3 = 33,33 €), et la 3e année de 50 € par mois.",
+        "• Pour un logement meublé, lorsqu'un nouveau loyer est décidé par le locataire et le propriétaire (ou l'agence immobilière), ou par le juge, ce nouveau loyer s'applique au contrat renouvelé. Mais, si la hausse est de plus de 10 %, elle s'applique par 1/3 annuel au contrat renouvelé et lors des renouvellements ultérieurs.",
+        "Action en diminution de loyer",
+        "Si le loyer de base (hors charges et hors complément de loyer) inscrit dans le bail est supérieur au loyer de référence majoré, le locataire peut proposer au propriétaire (ou à l'agence immobilière) la diminution du loyer de base.",
+        "Les 2 conditions suivantes doivent être respectées :",
+        "• Le locataire fait sa demande au moins 5 mois avant l'échéance du bail",
+        "• Le loyer de référence majoré pris en considération est celui en vigueur à la date de la demande du locataire",
+        "Vous pouvez connaître le loyer de référence majoré à l'aide de ce simulateur :",
+        "Montpellier : estimer les loyers de référence (bail signé depuis juillet 2022)",
+        "Le locataire doit adresser sa demande écrite au propriétaire (ou à l'agence immobilière) :",
+        "• Soit par lettre recommandée avec accusé de réception",
+        "• Soit par acte de commissaire de justice",
+        "• Soit par remise en main propre contre récépissé ou émargement.",
+        "La demande doit contenir les éléments suivants :",
+        "• Intégralité de l'article 140 VI de la loi du 23 novembre 2018",
+        "• Nouveau montant du loyer proposé et loyer de référence majoré en vigueur à la date de la proposition du locataire",
+        "Si le propriétaire (ou l'agence immobilière) refuse, ou s'il ne répond pas au locataire, le locataire doit saisir la commission départementale de conciliation (CDC) au plus tard 4 mois avant l'échéance du bail.",
+        "Si aucun accord n'est trouvé en dépit de l'intervention de la CDC, le locataire peut saisir le juge des contentieux de la protection avant l'échéance du bail.",
+        "[Attention] Si le locataire ne saisit pas le juge dans ce délai, le bail est reconduit aux conditions antérieures du loyer. Si l'ancien loyer n'a pas été révisé au cours des 12 mois précédents, le propriétaire (ou l'agence immobilière) peut le réviser."
+      ]
+    },
+    {
+      "titre": "Nouvelle mise en location après moins de 18 mois d'inoccupation",
+      "contenu": [
+        "Le loyer (hors charges) peut se composer de 2 éléments : le loyer de base et un complément de loyer.",
+        "Loyer de base",
+        "Le loyer de base (hors charges et hors complément de loyer) d'un logement remis sur le marché après moins de 18 mois d'inoccupation peut être augmenté dans certains cas seulement :",
+        "• Le loyer n'a pas été révisé au cours des 12 mois précédents",
+        "• Des travaux d'amélioration ou de mise aux normes de décence ont été faits depuis le départ de l'ancien locataire",
+        "• Le loyer est sous-évalué.",
+        "Mais le nouveau loyer de base ne doit pas dépasser le loyer de référence majoré en vigueur à la date de signature du bail.",
+        "Vous pouvez connaître les loyers de référence majorés à l'aide de ce simulateur :",
+        "Montpellier : estimer les loyers de référence (bail signé depuis juillet 2022)",
+        "[Attention] Lorsque le bail est signé depuis le 24 août 2022 et concerne un logement de classe F ou G (classe indiquée sur le DPE), le loyer de base ne doit pas dépasser le loyer appliqué au précédent locataire.",
+        "Loyer non révisé",
+        "Le montant du nouveau loyer ne doit pas dépasser le montant du dernier loyer appliqué au précédent locataire.",
+        "Toutefois, il peut être augmenté de la variation annuelle de l'IRL publié à la date de signature du nouveau bail, si aucune révision n'est intervenue au cours des 12 derniers mois.",
+        "Dans tous les cas, le nouveau loyer ne doit pas dépasser le loyer de référence majoré en vigueur à la date de signature du bail.",
+        "Vous pouvez connaître les loyers de référence majorés à l'aide de ce simulateur :",
+        "Montpellier : estimer les loyers de référence (bail signé depuis juillet 2022)",
+        "Si le nouveau loyer dépasse le loyer de référence majoré en vigueur à la date de signature du bail, le locataire peut le contester en envoyant au propriétaire (ou à l'agence immobilière) une lettre recommandée avec accusé de réception.",
+        "En cas d'échec, il peut saisir :",
+        "• La commission départementale de conciliation (CDC) dont dépend le logement (démarche est gratuite)",
+        "• Ou directement le juge des contentieux de la protection du tribunal dont dépend le logement.",
+        "[Attention] Le montant du loyer appliqué au dernier locataire doit être inscrit dans le bail.",
+        "Travaux",
+        "Les règles dépendent du montant des travaux :",
+        "Montant des travaux au moins égal à 50 % de la dernière année de loyer",
+        "Quelles sont les conditions ?",
+        "Le nouveau loyer peut être supérieur au dernier loyer appliqué au précédent locataire, si le propriétaire a financé des travaux.",
+        "Ces travaux peuvent être :",
+        "• Des travaux d'amélioration (hors travaux d'économie d'énergie ayant donné lieu à une majoration de loyer pour réduction de charges)",
+        "• Ou des travaux de mise aux normes de décence.",
+        "Ces travaux doivent :",
+        "• Avoir été réalisés (dans les parties communes ou privatives) depuis le départ du dernier locataire",
+        "• Et être d'un montant au moins égal à 50 % de la dernière année de loyer (hors charges).",
+        "Quel nouveau loyer fixer ?",
+        "Si ces conditions sont respectées, le loyer annuel pratiqué au précédent locataire peut être augmenté :",
+        "• D'un montant égal à 15 % du montant des travaux TTC",
+        "• Dans la limite du loyer de référence majoré en vigueur à la date de signature du bail.",
+        "Vous pouvez connaître les loyers de référence majorés à l'aide de ce simulateur :",
+        "Montpellier : estimer les loyers de référence (bail signé depuis juillet 2022)",
+        "Comment contester le nouveau loyer ?",
+        "Si le nouveau loyer dépasse le loyer de référence majoré en vigueur à la date de signature du bail, le locataire peut le contester en envoyant au propriétaire (ou à l'agence immobilière) une lettre recommandée avec accusé de réception.",
+        "En cas d'échec, il peut saisir :",
+        "• La commission départementale de conciliation (CDC) dont dépend le logement (démarche est gratuite)",
+        "• Ou directement le juge des contentieux de la protection du tribunal dont dépend le logement.",
+        "Montant des travaux au moins égal à la dernière année de loyer",
+        "Quelles sont les conditions ?",
+        "Le nouveau loyer peut être supérieur au dernier loyer appliqué au précédent locataire si des travaux d'amélioration ont été réalisés :",
+        "• Depuis moins de 6 mois",
+        "• Et pour un montant au moins égal à la dernière année de loyer.",
+        "Quel nouveau loyer fixer ?",
+        "Si ces conditions sont respectées, le loyer annuel pratiqué au précédent locataire peut être augmenté, mais le nouveau loyer ne peut pas dépasser le loyer de référence majoré en vigueur à la date de signature du bail.",
+        "Vous pouvez connaître les loyers de référence majorés à l'aide de ce simulateur :",
+        "Montpellier : estimer les loyers de référence (bail signé depuis juillet 2022)",
+        "Comment contester le nouveau loyer ?",
+        "Si le nouveau loyer dépasse le loyer de référence majoré en vigueur à la date de signature du bail, le locataire peut le contester en envoyant au propriétaire (ou à l'agence immobilière) une lettre recommandée avec accusé de réception.",
+        "En cas d'échec, il peut saisir :",
+        "• La commission départementale de conciliation (CDC) dont dépend le logement (démarche est gratuite)",
+        "• Ou directement le juge des contentieux de la protection du tribunal dont dépend le logement.",
+        "Loyer sous-évalué",
+        "Si le loyer pratiqué avec l'ancien locataire était sous-évalué, le nouveau loyer peut être augmenté.",
+        "Comment savoir si l'ancien loyer est sous-évalué ?",
+        "Il est possible d'estimer la sous-évaluation d'un loyer à partir de loyers habituellement constatés pour des logements comparables situés dans la même zone géographique. Ces références de loyers sont consultables sur le site de l'observatoire des loyers.",
+        "Comment fixer le nouveau loyer ?",
+        "Il faut respecter les 2 règles suivantes :",
+        "1re règle, l'augmentation du loyer ne doit pas dépasser 50 % de la différence entre les sommes suivantes :",
+        "• Montant d'un loyer déterminé par référence aux loyers pratiqués dans le voisinage pour des logements comparables",
+        "• Dernier loyer appliqué au précédent locataire, éventuellement révisé sur l'IRL si cela n'a pas été fait dans les 12 derniers mois.",
+        "2de règle, le nouveau loyer ne peut pas dépasser le loyer de référence majoré en vigueur à la date de signature du bail.",
+        "Vous pouvez connaître les loyers de référence majorés à l'aide de ce simulateur :",
+        "Montpellier : estimer les loyers de référence (bail signé depuis juillet 2022)",
+        "Comment contester le nouveau loyer ?",
+        "Si le nouveau loyer dépasse le loyer de référence majoré en vigueur à la date de signature du bail, le locataire peut le contester en envoyant au propriétaire (ou à l'agence immobilière) une lettre recommandée avec accusé de réception.",
+        "En cas d'échec, il peut saisir :",
+        "• La commission départementale de conciliation (CDC) dont dépend le logement (démarche est gratuite)",
+        "• Ou directement le juge des contentieux de la protection du tribunal dont dépend le logement.",
+        "Complément de loyer",
+        "Dans quels cas s'applique un complément de loyer ?",
+        "Le propriétaire (ou l'agence immobilière/notaire) peut appliquer un complément de loyer si les 2 conditions suivantes sont réunies :",
+        "• Le logement a des caractéristiques particulières (localisation, confort)",
+        "• Le loyer de base (hors charges) est égal au loyer de référence majoré.",
+        "Si un complément de loyer s'applique, le loyer est égal au total du loyer de base et du complément de loyer.",
+        "Le montant du complément de loyer et les caractéristiques du logement qui le justifient doivent être indiqués dans le bail.",
+        "[Attention] Pour un bail signé depuis le 18 août 2022, le complément de loyer est interdit si le logement a au moins 1 de ces caractéristiques suivantes : sanitaires sur le palier, signes d'humidité sur certains murs, DPE de classe F ou G, fenêtres laissant anormalement passer l'air (hors grille de ventilation), vis-à-vis à moins de 10 m, infiltrations ou inondations provenant de l'extérieur, problèmes d'évacuation d'eau au cours des 3 derniers mois, installation électrique dégradée, mauvaise exposition de la pièce principale.",
+        "Comment contester le complément de loyer ?",
+        "Pour contester le complément de loyer, le locataire doit saisir la commission départementale de conciliation (CDC) dans un délai de 3 mois à partir de la date de signature du bail. C'est au propriétaire (ou à l'agence immobilière) de prouver que le complément de loyer est justifié.",
+        "Si la CDC parvient à un accord, le montant du loyer est celui fixé par le document de conciliation délivré par la CDC. Ce nouveau montant s'applique à partir de la date d'entrée en vigueur du bail.",
+        "Mais si le désaccord persiste, le locataire a 3 mois à partir de la réception de l'avis de la CDC pour saisir le juge des contentieux de la protection du tribunal dont dépend le logement. Il peut lui demander d'annuler ou de diminuer le complément de loyer. Le montant du loyer fixé par le juge s'applique à partir de la date d'entrée en vigueur du bail."
+      ]
+    },
+    {
+      "titre": "Nouvelle mise en location après 18 mois et plus d'inoccupation",
+      "contenu": [
+        "Le loyer (hors charges) peut se composer de 2 éléments : le loyer de base et un complément de loyer.",
+        "Loyer de base",
+        "Le bail doit indiquer les montants suivants :",
+        "• Le loyer de base (montant du loyer hors charges et hors complément de loyer)",
+        "• Le loyer de référence et le loyer de référence majoré en vigueur à la date de signature du bail et qui correspondent à la catégorie du logement (localisation, nombre de pièces...).",
+        "Le loyer de base (montant du loyer hors charges et hors complément de loyer) ne doit pas dépasser le loyer de référence majoré en vigueur à la date de signature du bail.",
+        "[Attention] Lorsque le bail est signé depuis le 24 août 2022 et concerne un logement de classe F ou G (classe indiquée sur le DPE), le loyer de base ne doit pas dépasser le loyer appliqué au précédent locataire.",
+        "Vous pouvez connaître les loyers de référence majorés à l'aide de ce simulateur :",
+        "Montpellier : estimer les loyers de référence (bail signé depuis juillet 2022)",
+        "Si le loyer de base dépasse le loyer de référence majoré, le locataire peut demander une diminution de loyer devant la commission départementale de conciliation (CDC), dans les 3 ans qui suivent la signature du bail.",
+        "Complément de loyer",
+        "Dans quels cas s'applique un complément de loyer ?",
+        "Le propriétaire (ou l'agence immobilière/notaire) peut appliquer un complément de loyer si les 2 conditions suivantes sont réunies :",
+        "• Le logement a des caractéristiques particulières (localisation, confort)",
+        "• Le loyer de base (hors charges) est égal au loyer de référence majoré.",
+        "Si un complément de loyer s'applique, le loyer est égal au total du loyer de base et du complément de loyer.",
+        "Le montant du complément de loyer et les caractéristiques du logement qui le justifient doivent être indiqués dans le bail.",
+        "[Attention] Pour un bail signé depuis le 18 août 2022, le complément de loyer est interdit si le logement a au moins 1 de ces caractéristiques suivantes : sanitaires sur le palier, signes d'humidité sur certains murs, DPE de classe F ou G, fenêtres laissant anormalement passer l'air (hors grille de ventilation), vis-à-vis à moins de 10 m, infiltrations ou inondations provenant de l'extérieur, problèmes d'évacuation d'eau au cours des 3 derniers mois, installation électrique dégradée, mauvaise exposition de la pièce principale.",
+        "Comment contester le complément de loyer ?",
+        "Pour contester le complément de loyer, le locataire doit saisir la commission départementale de conciliation (CDC) dans un délai de 3 mois à partir de la date de signature du bail. C'est au propriétaire (ou à l'agence immobilière) de prouver que le complément de loyer est justifié.",
+        "Si la CDC parvient à un accord, le montant du loyer est celui fixé par le document de conciliation délivré par la CDC. Ce nouveau montant s'applique à partir de la date d'entrée en vigueur du bail.",
+        "Mais si le désaccord persiste, le locataire a 3 mois à partir de la réception de l'avis de la CDC pour saisir le juge des contentieux de la protection du tribunal dont dépend le logement. Il peut lui demander d'annuler ou de diminuer le complément de loyer. Le montant du loyer fixé par le juge s'applique à partir de la date d'entrée en vigueur du bail."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Décret n° 2021-1144 du 2 septembre 2021 fixant le périmètre du territoire de la métropole Montpellier Méditerranée Métropole sur lequel est mis en place le dispositif d'encadrement des loyers",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000044015026/"
+    },
+    {
+      "titre": "Loi n° 89-462 du 6 juillet 1989 sur les rapports locatifs : article 18",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039369552/"
+    },
+    {
+      "titre": "Loi n°2018-1021 du 23 novembre 2018 sur l'évolution du logement, de l'aménagement et du numérique : article 140",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000037642425/"
+    },
+    {
+      "titre": "Montpellier : arrêté préfectoral sur les loyers de référence du 1er juillet au 24 novembre 2026",
+      "url": "https://www.herault.gouv.fr/contenu/telechargement/56681/414967/file/2026-07-01_AP_EncadrementLoyers-Montpellier.pdf"
+    },
+    {
+      "titre": "Décret n° 2019-437 du 13 mai 2019 sur les modalités d'application de la mise en demeure en cas de non-respect du dispositif expérimental d'encadrement du niveau des loyers et le recouvrement des amendes administratives",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000038465840"
+    },
+    {
+      "titre": "Décret n°2017-1198 du 27 juillet 2017 sur l'évolution de certains loyers (d'août 2024 au 31 juillet 2027)",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000035315236"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Montpellier : estimer les loyers de référence (bail signé depuis juillet 2022)",
+      "url": "https://eservices.montpellier3m.fr/habitat/encadrement-des-loyers/",
+      "type": "Simulateur"
+    }
+  ],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Tout savoir sur l'encadrement des loyers à Montpellier",
+      "url": "https://www.montpellier3m.fr/lencadrement-des-loyers-entre-en-application-montpellier-compter-du-1er-juillet-2022#:~:text=Chaque%20ann%C3%A9e%2C%20le%20Pr%C3%A9fet%20de,loyer%20de%20r%C3%A9f%C3%A9rence%20%E2%80%93%2030%25"
+    },
+    {
+      "titre": "Observatoires des loyers - Réseau des observatoires locaux",
+      "url": "https://www.observatoires-des-loyers.org/2/accueil.htm"
+    },
+    {
+      "titre": "Article 140 de la loi n°2018-1021 du 23 novembre 2018",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000037642425/"
+    },
+    {
+      "titre": "Interdiction de location et gel des loyers des passoires énergétiques",
+      "url": "https://www.ecologie.gouv.fr/interdiction-location-et-gel-des-loyers-des-passoires-energetiques"
+    }
+  ],
+  "slug": "montpellier-montant-du-loyer-pour-un-bail-d-habitation",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "bail-d-habitation-loyer",
+      "titre": "Bail d’habitation : loyer"
+    }
+  ]
+}

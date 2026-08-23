@@ -1,0 +1,74 @@
+{
+  "id": "F21573",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Comment se fixe l'ordre du jour de l'assemblée générale d'une association ?",
+  "theme": "Associations, fondations et fonds de dotation",
+  "description": "Il revient à chaque association de fixer les conditions d'établissement de l'ordre du jour de ses assembles générales.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-02-20",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F21573",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Associations, fondations et fonds de dotation",
+    "Création d'une association",
+    "Comment se fixe l'ordre du jour de l'assemblée générale d'une association ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Pour la tenue de chaque assemblée générale (ordinaire ou extraordinaire), un ordre du jour doit être établi.",
+        "Il correspond aux différents points, appelés résolutions, qui seront soumis au vote des membres de l'association.",
+        "Les conditions dans lesquelles l'ordre du jour est arrêté sont définies dans les statuts de l'association. Par conséquent, il est recommandé d'y prévoir ou d'indiquer dans le règlement intérieur des dispositions concernant les points suivants :",
+        "• Personnes ou instance ayant autorité pour déterminer l'ordre du jour",
+        "• Conditions dans lesquelles des membres peuvent demander l'inscription d'une question à l'ordre du jour.",
+        "Il est également recommandé de prévoir dans les statuts ou dans le règlement intérieur les sujets devant être inscrits périodiquement à l'ordre du jour de l'assemblée générale. Par exemple :",
+        "• Approbation des comptes et du rapport d'activités",
+        "• Vote du budget prévisionnel",
+        "• Désignation des dirigeants (membres du bureau).",
+        "Cependant, certaines règles en la matière ont été établies par les tribunaux. Elles concernent les éléments suivants :",
+        "• Le libellé des questions inscrites à l'ordre du jour doit être précis pour permettre aux membres de préparer les débats.",
+        "• Le libellé des points inscrits à l'ordre du jour ne peut pas être à la fois positif et négatif. Par exemple, maintien ou non de monsieur/madame X en tant que directeur, car le vote pourrait être interprété positivement ou négativement et serait en conséquence inapplicable.",
+        "• L'ordre du jour peut comporter une rubrique « questions diverses », mais elle ne doit porter que sur des points mineurs n'ayant pas d'incidence sur le fonctionnement et l'activité de l'association.",
+        "• L'assemblée générale doit délibérer uniquement sur les points inscrits à l'ordre du jour et qui figurent dans la convocation de la réunion.",
+        "• L'assemblée générale doit délibérer sur tous les points inscrits à l'ordre du jour. Le président de séance ne peut pas décider d'écarter des débats une question prévue. Il peut lever la séance que lorsque l'ordre du jour a été épuisé.",
+        "Une décision prise sur un point qui ne figurait pas à l'ordre du jour peut être contestée en justice et annulée.",
+        "De même, une question insuffisamment précise peut entraîner l'annulation de la délibération si les membres n'ont pas été en mesure de se prononcer en connaissance de cause.",
+        "[À noter] Pour les associations ayant leur siège dans le Bas-Rhin, le Haut-Rhin ou la Moselle, l’assemblée générale est un organe obligatoire. Les statuts déterminent les conditions de convocation et les règles relatives à la fixation de l’ordre du jour. L’assemblée générale peut uniquement délibérer que sur les points inscrits à l’ordre du jour figurant dans la convocation, et les questions doivent être formulées de manière suffisamment précise. Certaines décisions importantes (par exemple la modification des statuts ou la dissolution) relèvent obligatoirement de la compétence de l’assemblée générale."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Loi du 1er juillet 1901 relative au contrat d'association",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006069570/"
+    },
+    {
+      "titre": "Code civil local d'Alsace-Moselle : articles 21 à 79-IV",
+      "url": "https://idl-am.org/documents-sur-le-droit-local/code-civil-local-extraits-articles-21-a-79-iv/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Modèle de règlement intérieur d'une association",
+      "url": "https://www.interieur.gouv.fr/content/download/32911/245384/file/Exemple_de_Reglement_interieur.pdf",
+      "type": "Modèle de document"
+    }
+  ],
+  "contacts": [
+    "Point ressource à la vie associative"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "comment-se-fixe-l-ordre-du-jour-de-l-assemblee-generale-d-une-association",
+  "path": [
+    {
+      "slug": "associations-fondations-et-fonds-de-dotation",
+      "titre": "Associations, fondations et fonds de dotation"
+    },
+    {
+      "slug": "creation-d-une-association",
+      "titre": "Création d'une association"
+    }
+  ]
+}

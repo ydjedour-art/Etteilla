@@ -1,0 +1,108 @@
+{
+  "id": "F34643",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Aide à la mobilité Parcoursup",
+  "theme": "Famille - Scolarité",
+  "description": "Les lycéens boursiers qui changent d'académie pour entrer dans l'enseignement supérieur peuvent bénéficier de l’aide à la mobilité Parcoursup.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-05-11",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34643",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Bourses et aides pour étudiant",
+    "Aide à la mobilité Parcoursup"
+  ],
+  "introduction": "Vous êtes bachelier et vous entrez dans l'enseignement supérieur en dehors de votre académie de résidence ? Vous pouvez, sous conditions, bénéficier de l'aide à la mobilité Parcoursup. Vous devez en faire la demande en ligne. Son montant est de 500 €. Voici les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Qui est concerné par l'aide à la mobilité Parcoursup ?",
+      "contenu": [
+        "Pour bénéficier de l'aide à la mobilité Parcoursup, vous devez, à la rentrée universitaire, remplir toutes les conditions suivantes :",
+        "• Avoir été bénéficiaire d'une bourse de lycée l'année scolaire précédente",
+        "• Être inscrit sur Parcoursup cette année et avoir confirmé au moins un vœu en dehors de votre académie de résidence",
+        "• Avoir accepté définitivement une proposition d'admission (OUI ou OUI-SI) pour un vœu confirmé hors de votre académie de résidence.",
+        "[À noter] Vous pouvez bénéficier de l'aide quelle que soit votre nationalité."
+      ]
+    },
+    {
+      "titre": "Comment faire la demande d'aide à la mobilité Parcoursup ?",
+      "contenu": [
+        "Vous devez déposer en ligne votre demande d'aide à la mobilité en ligne à partir du 1er juin 2026 et jusqu'au 15 janvier 2027 :",
+        "Mes services étudiant : demande d’aide à la mobilité Parcoursup",
+        "Connexion avec l'identifiant (adresse mail) et le mot de passe renseignés au moment de la création du compte",
+        "Vous devez fournir les documents suivants :",
+        "• Justificatif d'inscription dans l'établissement situé en dehors de l'académie de résidence et correspondant au vœu que vous avez accepté dans Parcoursup",
+        "• Relevé d'identité bancaire à votre nom.",
+        "La demande est examinée en tenant compte de vos difficultés financières et de votre situation globale.",
+        "Elle est ensuite transmise à la commission d'attribution des aides spécifiques. La commission émet un avis d'attribution ou de non attribution de l'aide. Le directeur du Crous vous notifie la décision.",
+        "L'aide est définitivement accordée lorsque votre inscription dans l'enseignement supérieur est validée par l'établissement d'inscription.",
+        "[À noter] La décision du directeur du Crous ne peut pas faire l'objet d'un recours."
+      ]
+    },
+    {
+      "titre": "Quel est le montant de l'aide à la mobilité Parcoursup ?",
+      "contenu": [
+        "Le montant de l'aide est de 500 €."
+      ]
+    },
+    {
+      "titre": "Quand l'aide à la mobilité Parcoursup est-elle versée ?",
+      "contenu": [
+        "L'aide est versée par le Crous d'accueil en 1 seule fois, en début d'année universitaire."
+      ]
+    },
+    {
+      "titre": "Peut-on cumuler l'aide à la mobilité Parcoursup avec d'autres aides ?",
+      "contenu": [
+        "L'aide à la mobilité Parcoursup est cumulable avec les aides suivantes :",
+        "• Bourse sur critères sociaux",
+        "• Allocation annuelle",
+        "• Aide ponctuelle",
+        "• Aide à la mobilité internationale",
+        "• Aide au mérite."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Circulaire n°2014-0016 du 8 octobre 2014 relative aux aides spécifiques",
+      "url": "http://www.education.gouv.fr/pid25535/bulletin_officiel.html?cid_bo=83045"
+    },
+    {
+      "titre": "Arrêté du 26 mars 2026 fixant les plafonds de ressources relatifs aux bourses d'enseignement supérieur du ministère chargé de l'enseignement supérieur et de la recherche pour l'année universitaire 2026-2027",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053788150"
+    },
+    {
+      "titre": "Circulaire du 16 juin 2021 relative aux aides spécifiques à certains bacheliers",
+      "url": "https://www.education.gouv.fr/bo/21/Hebdo25/ESRS2117148C.htm"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Mes services étudiant : demande d’aide à la mobilité Parcoursup",
+      "url": "https://amp.etudiant.gouv.fr/",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "Centre régional des œuvres universitaires et scolaires (Crous)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Aide à la mobilité Parcoursup",
+      "url": "https://www.etudiant.gouv.fr/fr/aide-la-mobilite-parcoursup-1447"
+    }
+  ],
+  "slug": "aide-a-la-mobilite-parcoursup",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "bourses-et-aides-pour-etudiant",
+      "titre": "Bourses et aides pour étudiant"
+    }
+  ]
+}

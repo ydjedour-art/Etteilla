@@ -1,0 +1,59 @@
+{
+  "id": "F34547",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Est-il possible de bénéficier du dispositif de l'emploi franc ?",
+  "theme": "Travail - Formation, Ressources humaines",
+  "description": "Non. Le dispositif des emplois francs permet à un employeur de bénéficier d'une aide lorsqu'il embauche un habitant résidant dans un quartier prioritaire de la politique de la ville (QPV). Ce dispositif a pris fin : il s'appliquait aux contrats signés jusqu'au 31 décembre 2024.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-12-18",
+  "url": "https://entreprendre.service-public.gouv.fr/vosdroits/F34547",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Contrats d'insertion",
+    "Est-il possible de bénéficier du dispositif de l'emploi franc ?"
+  ],
+  "introduction": "Non. Le dispositif des emplois francs permet à un employeur de bénéficier d'une aide lorsqu'il embauche un habitant résidant dans un quartier prioritaire de la politique de la ville (QPV). Ce dispositif a pris fin : il s'appliquait aux contrats signés jusqu'au 31 décembre 2024.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Il existe d’autres dispositifs d'insertion professionnelle. Consultez la page sur les contrats de travail spécifiques pour en savoir plus."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Décret n°2019-1471 du 26 décembre 2019 portant généralisation des emplois francs et création d'une expérimentation à La Réunion",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000039682979/"
+    },
+    {
+      "titre": "Décret n° 2018-230 du 30 mars 2018 relatif à l'expérimentation d'emplois francs",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000036756484/"
+    },
+    {
+      "titre": "Arrêté du 30 mars 2018 fixant la liste des territoires éligibles au dispositif expérimental « emplois francs »",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000036756512/"
+    },
+    {
+      "titre": "Arrêté du 22 mars 2019 fixant la liste des territoires éligibles au dispositif expérimental « emplois francs »",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000038272455/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "PDE - Recruter un ou plusieurs salariés"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "est-il-possible-de-beneficier-du-dispositif-de-l-emploi-franc",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "contrats-d-insertion",
+      "titre": "Contrats d'insertion"
+    }
+  ]
+}

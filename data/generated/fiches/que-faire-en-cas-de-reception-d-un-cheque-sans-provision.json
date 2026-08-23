@@ -1,0 +1,91 @@
+{
+  "id": "F1537",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Que faire en cas de réception d'un chèque sans provision ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Pour essayer de se faire payer le chèque sans provision, il faut s'adresser à son émetteur. En cas d'échec, il est possible de saisir un commissaire de justice.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-01-28",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1537",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Moyens de paiement",
+    "Que faire en cas de réception d'un chèque sans provision ?"
+  ],
+  "introduction": "Si vous avez reçu un chèque sans provision, vous devez d'abord essayer d'en obtenir le paiement en vous adressant à la personne qui vous a remis le chèque (procédure amiable). Si cette démarche échoue, vous pouvez saisir un commissaire de justice (anciennement huissier de justice et commissaire-priseur judiciaire) pour obtenir le règlement du chèque (procédure forcée).",
+  "chapitres": [
+    {
+      "titre": "Procédure amiable",
+      "contenu": [
+        "Si vous recevez un chèque sans provision, la banque de la personne qui vous a remis le chèque (l'émetteur) informe votre banque que le paiement ne peut pas être fait.",
+        "Votre banque vous adresse une attestation de rejet de chèque pour défaut de provision.",
+        "Vous pouvez alors, pendant un délai de 30 jours, demander une nouvelle fois à votre banque d'encaisser le chèque. Pendant ce même délai, vous pouvez aussi demander par écrit à l'émetteur du chèque qu'il régularise la situation en alimentant son compte bancaire ou en payant par un autre moyen. Pour cela, vous pouvez utiliser le modèle de lettre suivant :",
+        "Demander la régularisation amiable d'un chèque sans provision à son émetteur",
+        "Permet de tenter l'encaissement d'une créance avant de faire appel à un commissaire de justice (anciennement huissier de justice et commissaire-priseur judiciaire).",
+        "La suite de la procédure diffère selon le montant du chèque.",
+        "Supérieur à 15 €",
+        "Si le chèque d'un montant supérieur à 15 € n'est toujours pas payé à la fin du délai de 30 jours, la banque de l'émetteur du chèque vous délivre gratuitement un certificat de non-paiement. Si l'encaissement du chèque est rejeté pour la seconde fois, le certificat vous est remis d'office. Sinon, vous devez le demander par écrit.",
+        "Pour cela, vous pouvez utiliser le modèle de lettre suivant :",
+        "Demander un certificat de non-paiement",
+        "La demande doit être adressée à la banque de l'émetteur du chèque.",
+        "Le certificat de non-paiement doit être signé par le banquier du débiteur.",
+        "La remise du certificat de non-paiement vous permet de passer de la procédure amiable au recouvrement forcé avec appel à un commissaire de justice.",
+        "Inférieur ou égal à 15 €",
+        "Si le chèque d'un montant inférieur ou égal à 15 € n'est toujours pas payé à la fin du délai de 30 jours, la banque de votre débiteur doit vous régler la somme."
+      ]
+    },
+    {
+      "titre": "Procédure forcée",
+      "contenu": [
+        "Quand la procédure amiable a échoué, vous pouvez demander à un commissaire de justice de signifier à l'émetteur du chèque le certificat de non-paiement.",
+        "Le débiteur est alors obligé de régler sa dette dans les 15 jours.",
+        "Si le paiement n'est pas régularisé sous 15 jours, le commissaire de justice peut alors engager toute procédure pour contraindre le débiteur à payer (une saisie sur salaire, par exemple). On parle alors d'exécution forcée.",
+        "Les frais de la procédure forcée sont à la charge de votre débiteur.",
+        "Commissaire de justice (anciennement huissier de justice et commissaire-priseur judiciaire)"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code monétaire et financier : articles L131-47 à L131-55",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006645095"
+    },
+    {
+      "titre": "Code monétaire et financier : articles L131-69 à L131-87",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006170833"
+    },
+    {
+      "titre": "Code monétaire et financier : articles R131-46 à R131-51",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006185330"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demander la régularisation amiable d'un chèque sans provision à son émetteur",
+      "url": "",
+      "type": "Modèle de document"
+    },
+    {
+      "titre": "Demander un certificat de non-paiement",
+      "url": "",
+      "type": "Modèle de document"
+    }
+  ],
+  "contacts": [
+    "Info Banque - Assurance",
+    "Commissaire de justice (anciennement huissier de justice et commissaire-priseur judiciaire)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "que-faire-en-cas-de-reception-d-un-cheque-sans-provision",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "moyens-de-paiement",
+      "titre": "Moyens de paiement"
+    }
+  ]
+}

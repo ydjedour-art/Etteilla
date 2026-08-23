@@ -1,0 +1,100 @@
+{
+  "id": "F34158",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Congé pour l'annonce du handicap ou d'une pathologie d'un enfant d'un salarié du secteur privé",
+  "theme": "Travail - Formation",
+  "description": "Le salarié a droit à 5 jours de congés rémunérés en cas d'annonce de la survenue d'un handicap, d'une pathologie chronique ou d'un cancer de son enfant.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-06-15",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34158",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Congés dans le secteur privé",
+    "Congé pour l'annonce du handicap ou d'une pathologie d'un enfant d'un salarié du secteur privé"
+  ],
+  "introduction": "Tout salarié (en CDI, en CDD ou en intérim, travaillant à temps plein ou à temps partiel) a droit à un congé spécifique à la survenue d'un handicap, d'une pathologie chronique nécessitant un apprentissage thérapeutique ou d'un cancer de son enfant. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Qui a droit au congé pour l'annonce du handicap ou d'une pathologie d'un enfant ?",
+      "contenu": [
+        "Tout salarié (en CDI, en CDD ou en intérim, travaillant à temps plein ou à temps partiel) a droit à un congé spécifique à la survenue d'un handicap, d'une pathologie chronique nécessitant un apprentissage thérapeutique ou d'un cancer de son enfant (sans limitation d'âge).",
+        "Aucune condition d'ancienneté n'est exigée pour avoir droit au congé.",
+        "[À noter] L'employeur ne peut pas refuser ce congé au salarié. En cas de litige avec l'employeur, le salarié peut saisir le conseil de prud'hommes (CPH)."
+      ]
+    },
+    {
+      "titre": "Quelles sont les pathologies chroniques ouvrant droit au congé pour l'annonce du handicap ou d'une pathologie d'un enfant ?",
+      "contenu": [
+        "Il s'agit de pathologies de longue durée, évolutives, ayant un fort retentissement sur la vie quotidienne :",
+        "• Tout type de handicap",
+        "• Accident vasculaire cérébral invalidant",
+        "• Diabète de type 1 et diabète de type 2",
+        "• Formes graves des affections neurologiques et musculaires (dont myopathie), épilepsie grave",
+        "• Insuffisance respiratoire chronique grave",
+        "• Maladie d'Alzheimer et autres démences",
+        "• Maladie de Parkinson",
+        "• Mucoviscidose",
+        "• Sclérose en plaques",
+        "• Cancer."
+      ]
+    },
+    {
+      "titre": "Quelle sont les démarches à effectuer en cas de l'annonce du handicap ou d'une pathologie d'un enfant ?",
+      "contenu": [
+        "Un diagnostic doit d'abord être établi par un professionnel de santé (généraliste, pédopsychiatre...) pour faire reconnaître le handicap, la pathologie chronique ou le cancer de l'enfant.",
+        "Le salarié doit remettre par la suite un justificatif à son employeur."
+      ]
+    },
+    {
+      "titre": "Quelle est la durée du congé pour l'annonce du handicap ou d'une pathologie d'un enfant ?",
+      "contenu": [
+        "La durée du congé est de 10 jours ouvrables.",
+        "Des dispositions conventionnelles peuvent prévoir une durée plus élevée.",
+        "Un simulateur permet de consulter la convention collective en vigueur dans l'entreprise :",
+        "Trouver sa convention collective",
+        "[À savoir] La durée du congé n'est pas déduite du nombre de jours de congés payés annuels du salarié."
+      ]
+    },
+    {
+      "titre": "Quand doit être pris le congé pour l'annonce du handicap ou d'une pathologie d'un enfant ?",
+      "contenu": [
+        "Le salarié doit prendre le congé dans la période de l'annonce du handicap, de la pathologie chronique ou du cancer de son enfant, mais pas nécessairement le jour même."
+      ]
+    },
+    {
+      "titre": "Le salarié est-il rémunéré pendant le congé pour l'annonce du handicap ou d'une pathologie d'un enfant ?",
+      "contenu": [
+        "Oui, les 10 jours de congés sont payés normalement, comme s'ils avaient été travaillés."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code du travail : articles L3142-1 à L3142-3",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033002888"
+    },
+    {
+      "titre": "Code du travail : article L3142-4",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033002890"
+    },
+    {
+      "titre": "Code du travail : article L3142-5",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033002892"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "conge-pour-l-annonce-du-handicap-ou-d-une-pathologie-d-un-enfant-d-un-salarie-du-secteur-prive",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "conges-dans-le-secteur-prive",
+      "titre": "Congés dans le secteur privé"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "id": "F2604",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Vente d'un logement en copropriété",
+  "theme": "Logement",
+  "description": "Avant la vente d’un lot de copropriété, le vendeur doit remettre à l’acquéreur des informations financières, techniques et des diagnostics.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-08-21",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2604",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Achat ou vente d'un logement",
+    "Vente d'un logement en copropriété"
+  ],
+  "introduction": "Vous vendez votre appartement en copropriété et souhaitez connaître vos obligations à chaque étape de la vente. De nombreuses informations et diagnostics sont à transmettre à l’acquéreur avant la signature de l’acte de vente. Nous vous présentons la démarche par étapes.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "La procédure de vente est différente si vous vous engagez par la signature d'une promesse de vente avant de signer l'acte de vente ou si vous décidez de le signer directement."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la construction et de l'habitation : articles L711-1 à L711-7",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000028779396"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : articles L721-1 à L721-3",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000028778240"
+    },
+    {
+      "titre": "Loi n°65-557 du 10 juillet 1965 : article 46",
+      "url": "http://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000029946555/"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : articles L271-1 à L271-3",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000006176357/"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : article L271-4",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041586781/"
+    },
+    {
+      "titre": "Décret n°67-223 du 17 mars 1967 : article 5",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042078599/"
+    },
+    {
+      "titre": "Décret n°67-223 du 17 mars 1967 : article 6",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042078621/"
+    },
+    {
+      "titre": "Loi n°65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006068256/"
+    },
+    {
+      "titre": "Décret n° 2022-93 du 31 janvier 2022 fixant la liste des territoires dont les rejets d'eaux usées et pluviales",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000045097730/"
+    },
+    {
+      "titre": "Réponse ministérielle n°57834 du 16 septembre 2014 relative aux informations financières à fournir à l'acheteur d'un lot de copropriété",
+      "url": "http://questions.assemblee-nationale.fr/q14/14-57834QE.htm"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "État des nuisances sonores aériennes",
+      "url": "https://www.ecologique-solidaire.gouv.fr/sites/default/files/Modele_etat_nuisances_sonores_aeriennes.pdf",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Site d'information sur l'assainissement communal",
+      "url": "https://assainissement.developpement-durable.gouv.fr"
+    }
+  ],
+  "slug": "vente-d-un-logement-en-copropriete",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "achat-ou-vente-d-un-logement",
+      "titre": "Achat ou vente d'un logement"
+    }
+  ]
+}

@@ -2,21 +2,201 @@
 @tailwind components;
 @tailwind utilities;
 
+/* ================================================================
+   TOKENS — pilotés par [data-theme] sur <html>. Charte "Signal" v5 :
+   identité sombre/brutaliste inspirée d'une maquette de référence
+   (rouge signal, cyan, jaune néon, Barlow Condensed en display, coins
+   nets, bordures fines). Sombre par défaut — c'est l'identité que la
+   référence incarne ; le clair reste disponible via le bouton de thème
+   mais en dérive (section tarifs de la référence, seule fois où elle
+   passe en clair). Tailwind ne fait que lire ces variables (voir
+   tailwind.config.ts) : aucune classe dark: nulle part dans l'app.
+
+   Le rouge de la référence (#E30613) est repris à #D1050F — un nudge
+   à peine perceptible qui fait passer le texte crème dessus de 4.37:1
+   à 5.02:1 (AA). Même logique que partout ailleurs dans ce projet :
+   les couleurs de la maquette sont respectées, pas copiées à l'aveugle
+   quand elles échouent au contraste. */
+:root,
+[data-theme="dark"] {
+  --font-sans: var(--font-inter), Inter, ui-sans-serif, system-ui, sans-serif;
+  --font-display: var(--font-barlow), "Barlow Condensed", sans-serif;
+  --font-mono: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+
+  --bg: #0a0a0a;
+  --surface: #111111;
+  --surface-2: #0d0d0d;
+  --border: rgba(245, 242, 235, 0.1);
+  --text: #f5f2eb;
+  --muted: #84837f;
+  --primary: #d1050f;
+  --primary-hover: #b80410;
+  --accent: #d1050f;
+  --on-accent: #f5f2eb;
+  --on-vivid: #0a0a0a; /* texte sur fond cyan/jaune plein */
+  --cyan: #00f0ff;
+  --yellow: #f7ff00;
+  --danger: #d1050f;
+  --warning: #00f0ff;
+  --success: #f7ff00;
+  --glow: rgba(211, 5, 15, 0.08);
+  --ease: cubic-bezier(0.4, 0, 0.2, 1);
+  /* Décélération marquée — pour les reveals au scroll, plus "pesée" que
+     --ease (réservée aux interactions ponctuelles : boutons, nav). */
+  --ease-reveal: cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+/* Mode clair — dérivé de la seule section claire de la référence (les
+   tarifs) : crème/noir, même rouge signal. Cyan et jaune n'y survivent
+   pas en tant que texte (1.26:1 sur crème) : on les réserve au sombre
+   et on leur substitue des teintes lisibles pour success/warning ici. */
+[data-theme="light"] {
+  --bg: #f5f2eb;
+  --surface: #ffffff;
+  --surface-2: #efebe0;
+  --border: rgba(10, 10, 10, 0.1);
+  --text: #0a0a0a;
+  --muted: #636260;
+  --primary: #d1050f;
+  --primary-hover: #b80410;
+  --accent: #d1050f;
+  --on-accent: #f5f2eb;
+  --on-vivid: #0a0a0a;
+  --cyan: #00f0ff;
+  --yellow: #f7ff00;
+  --danger: #d1050f;
+  --warning: #8a5a00;
+  --success: #0b5a4d;
+  --glow: rgba(211, 5, 15, 0.06);
+}
+
 html {
   scroll-behavior: smooth;
 }
 
 body {
-  background-color: #f7f7f5;
-  color: #14181f;
+  background: var(--bg);
+  color: var(--text);
+  transition: background-color 0.25s ease, color 0.25s ease;
 }
 
-/* Halo dégradé discret pour la landing — bleu marine institutionnel, palette
- * "confiance officielle" (docs/05-design-system.md). */
+h1,
+h2,
+h3,
+h4 {
+  letter-spacing: -0.01em;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  body {
+    transition: none;
+  }
+}
+
+/* Grain discret sur tout le site — texture plutôt que fond plat. */
+.grain-overlay {
+  position: fixed;
+  inset: 0;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='300' height='300'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='300' height='300' filter='url(%23n)' opacity='1'/%3E%3C/svg%3E");
+  opacity: 0.03;
+  pointer-events: none;
+  z-index: 60;
+}
+
+/* Scanlines — réservées au hero, en overlay léger. */
+.scanlines {
+  position: relative;
+}
+.scanlines::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: repeating-linear-gradient(
+    to bottom,
+    transparent,
+    transparent 3px,
+    rgb(0 0 0 / 0.05) 3px,
+    rgb(0 0 0 / 0.05) 4px
+  );
+  pointer-events: none;
+}
+
+/* ── Typographie d'impact — Barlow Condensed, 900, capitales serrées. ── */
+.hero-title {
+  font-family: var(--font-display);
+  font-size: clamp(2.75rem, 7.5vw, 6.5rem);
+  font-weight: 900;
+  line-height: 0.92;
+  letter-spacing: -0.01em;
+  text-transform: uppercase;
+}
+.section-title {
+  font-family: var(--font-display);
+  font-size: clamp(2.25rem, 5.5vw, 4.25rem);
+  font-weight: 900;
+  line-height: 0.95;
+  letter-spacing: -0.01em;
+  text-transform: uppercase;
+}
+.outline-text {
+  -webkit-text-stroke: 2px var(--text);
+  color: transparent;
+}
+
+/* Glitch discret sur un mot du hero — bref, rare, jamais intrusif. */
+.glitch-text {
+  position: relative;
+  animation: glitch 7s infinite;
+}
+@keyframes glitch {
+  0%,
+  92%,
+  100% {
+    text-shadow: none;
+    transform: none;
+  }
+  93% {
+    text-shadow: 3px 0 var(--cyan), -3px 0 var(--primary);
+  }
+  94% {
+    text-shadow: -3px 0 var(--cyan), 3px 0 var(--yellow);
+    transform: skewX(-2deg);
+  }
+  95% {
+    text-shadow: none;
+    transform: none;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .glitch-text {
+    animation: none;
+  }
+}
+
+/* Eyebrow : petit label au-dessus d'un titre — mono, majuscules,
+ * tracking large, précédé d'un tiret de 24px en accent. */
+.eyebrow {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-family: var(--font-mono), ui-monospace, monospace;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.26em;
+  text-transform: uppercase;
+  color: var(--cyan);
+}
+.eyebrow::before {
+  content: "";
+  display: inline-block;
+  width: 24px;
+  height: 2px;
+  background: var(--cyan);
+}
+
+/* Halo dégradé discret pour la landing. */
 .hero-glow {
-  background:
-    radial-gradient(45% 55% at 20% 0%, rgba(15, 44, 89, 0.08), transparent 70%),
-    radial-gradient(35% 45% at 85% 10%, rgba(29, 95, 214, 0.07), transparent 70%);
+  background: radial-gradient(60% 60% at 85% 0%, var(--glow), transparent 70%);
 }
 
 /* Masque la navigation et les actions non pertinentes à l'impression — utilisé
@@ -27,14 +207,14 @@ body {
   }
   body {
     background: white;
+    color: black;
   }
 }
 
-/* Motif "document officiel" utilisé en attendant une vraie photographie
- * (voir README pour comment remplacer par une photo réelle). */
+/* Motif "signature" utilisé en attendant une vraie photographie (voir README
+ * pour comment remplacer par une photo réelle). */
 .official-photo-placeholder {
-  background:
-    linear-gradient(155deg, #0f2c59 0%, #163a70 55%, #1d5fd6 100%);
+  background: linear-gradient(155deg, var(--primary) 0%, var(--primary-hover) 55%, var(--cyan) 130%);
   position: relative;
   overflow: hidden;
 }
@@ -42,8 +222,219 @@ body {
   content: "";
   position: absolute;
   inset: 0;
-  background-image: radial-gradient(rgba(255, 255, 255, 0.08) 1px, transparent 1px);
+  background-image: radial-gradient(rgba(255, 255, 255, 0.12) 1px, transparent 1px);
   background-size: 18px 18px;
+}
+
+/* Surlignage signature derrière un mot clé, façon marqueur — réservé à UN mot
+ * ou groupe de mots par titre, jamais une phrase entière. */
+.underline-accent {
+  background-image: linear-gradient(var(--accent), var(--accent));
+  background-repeat: no-repeat;
+  background-position: 0 62%;
+  background-size: 100% 0.6em;
+  color: var(--on-accent);
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+
+/* Carte statique : base commune à toutes les cartes du site. Coins nets,
+ * bordure fine — la retenue "signal", pas d'ombre portée décorative. */
+.card-surface {
+  background-color: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 0;
+  transition: background-color 0.2s var(--ease), border-color 0.2s var(--ease);
+}
+
+/* Carte cliquable (démarches, offres) : même base, avec un hover unifié
+ * (bordure qui s'éclaircit + très léger lift) partagé par toutes les
+ * cartes interactives du site. */
+.card-interactive {
+  background-color: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 0;
+  transition: transform 0.25s var(--ease), border-color 0.25s var(--ease), background-color 0.25s var(--ease);
+}
+.card-interactive:hover {
+  transform: translateY(-2px);
+  border-color: var(--accent);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .card-surface,
+  .card-interactive {
+    transition: none;
+  }
+  .card-interactive:hover {
+    transform: none;
+  }
+}
+
+/* Puce de situation (chips triage) — passe en cyan à l'survol/actif. */
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  border: 1px solid var(--border);
+  padding: 0.5rem 1rem;
+  font-size: 0.8rem;
+  white-space: nowrap;
+  transition: all 0.2s var(--ease);
+}
+.chip:hover,
+.chip--active {
+  border-color: var(--cyan);
+  background: rgb(0 240 255 / 0.08);
+  color: var(--cyan);
+}
+
+/* Bandeau défilant (DemarchesTicker) — le contenu est dupliqué en JS, cette
+ * animation glisse exactement de moitié pour boucler sans à-coup. */
+@keyframes marquee {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+.marquee-track {
+  display: flex;
+  width: max-content;
+  gap: 2.5rem;
+  animation: marquee 24s linear infinite;
+}
+.marquee-track:hover {
+  animation-play-state: paused;
+}
+@keyframes marquee-rev {
+  from {
+    transform: translateX(-50%);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+.marquee-track-rev {
+  display: flex;
+  width: max-content;
+  gap: 2.5rem;
+  animation: marquee-rev 30s linear infinite;
+}
+@media (prefers-reduced-motion: reduce) {
+  .marquee-track,
+  .marquee-track-rev {
+    animation: none;
+  }
+}
+
+/* Halo animé — réservé aux sections d'impact (bandeau CTA), en complément
+ * du halo fixe. */
+@keyframes float-glow {
+  0%,
+  100% {
+    transform: translate(0, 0) scale(1);
+    opacity: 0.45;
+  }
+  50% {
+    transform: translate(-8%, 10%) scale(1.2);
+    opacity: 0.8;
+  }
+}
+.animate-float-glow {
+  animation: float-glow 6s ease-in-out infinite;
+}
+
+/* Flottement doux de la carte "Ton espace" en hero. */
+@keyframes card-float {
+  0%,
+  100% {
+    transform: translateY(0) rotate(-1.5deg);
+  }
+  50% {
+    transform: translateY(-9px) rotate(-1.5deg);
+  }
+}
+.animate-card-float {
+  animation: card-float 6s ease-in-out infinite;
+}
+
+/* Badges flottants pop-in (voir EspaceCard). */
+@keyframes badge-pop {
+  0% {
+    transform: scale(0) rotate(-8deg);
+    opacity: 0;
+  }
+  70% {
+    transform: scale(1.08) rotate(-8deg);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1) rotate(-8deg);
+    opacity: 1;
+  }
+}
+.animate-badge-pop {
+  animation: badge-pop 0.7s cubic-bezier(0.34, 1.56, 0.64, 1) 0.4s both;
+}
+
+/* Point de statut clignotant (live, en cours...). */
+@keyframes pulse-dot {
+  0%,
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.3;
+  }
+}
+.pulse-dot {
+  animation: pulse-dot 2s ease-in-out infinite;
+}
+
+/* Halo de focus pulsé pour une étape active (Comment ça marche). */
+@keyframes step-pulse {
+  0%,
+  100% {
+    box-shadow: 0 0 0 0 rgb(0 240 255 / 0.4);
+  }
+  50% {
+    box-shadow: 0 0 0 8px rgb(0 240 255 / 0);
+  }
+}
+.step-active {
+  animation: step-pulse 2s ease-in-out infinite;
+}
+
+/* Anneau de chargement — décrypteur, triage, tout endroit avec un état
+ * "en cours" (voir CTA clés en accent). */
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+.spinner {
+  width: 1.1em;
+  height: 1.1em;
+  border-radius: 9999px;
+  border: 2px solid currentColor;
+  border-top-color: transparent;
+  opacity: 0.9;
+  animation: spin 0.7s linear infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-float-glow,
+  .animate-card-float,
+  .animate-badge-pop,
+  .pulse-dot,
+  .step-active {
+    animation: none;
+  }
+  .spinner {
+    animation-duration: 1.4s;
+  }
 }
 
 /* Cible tactile confortable par défaut pour un public parfois fatigué / peu à l'aise
@@ -51,4 +442,15 @@ body {
 button,
 a {
   -webkit-tap-highlight-color: transparent;
+}
+
+/* Ascenseur fin — détail repris de la référence. */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: var(--bg);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--border);
 }

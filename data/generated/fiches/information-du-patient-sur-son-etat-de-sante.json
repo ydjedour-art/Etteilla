@@ -1,0 +1,129 @@
+{
+  "id": "F17180",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Information du patient sur son état de santé",
+  "theme": "Social - Santé",
+  "description": "Toute personne a le droit d'être informée sur son état de santé. Cette information peut être délivrée avant, pendant et après les soins.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-20",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F17180",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Information du patient : dossier médical, montant des prestations, ...",
+    "Information du patient sur son état de santé"
+  ],
+  "introduction": "En tant que patient, vous avez le droit d'obtenir des informations sur votre état de santé,, mais l'accès à l'information varie selon que vous soyez majeur ou mineur. Ces informations peuvent être délivrées avant, pendant et après les soins. Vous pouvez demander d'être tenu dans l'ignorance d'un diagnostic ou d’un pronostic, sauf si votre entourage est exposé à un risque de transmission. Nous vous présentons la réglementation à connaître.",
+  "chapitres": [
+    {
+      "titre": "Quelles informations liées à son état de santé doivent être données au patient ?",
+      "contenu": [
+        "Informations avant les soins",
+        "Avant tout soin, le professionnel de santé doit vous délivrer certaines informations pouvant porter sur :",
+        "• Les investigations, les traitements ou les actions de prévention qui vous sont proposés",
+        "• Leur utilité",
+        "• Leur urgence éventuelle",
+        "• Leurs conséquences",
+        "• Les risques fréquents ou graves normalement prévisibles",
+        "• Les autres solutions possibles",
+        "• Et les conséquences prévisibles en cas de refus.",
+        "Si votre état de santé le permet, vous êtes aussi informé de la possibilité de recevoir les soins sous forme ambulatoire au à domicile.",
+        "Votre volonté de bénéficier de l'une de ces formes de prise en charge est prise en compte.",
+        "Informations pendant les soins",
+        "Lors de la prise en charge, vous êtes informé par le professionnel que celui-ci dispose des diplômes adéquats pour exercer son activité.",
+        "Cette information peut être aussi communiquée par :",
+        "• Les établissements de santé",
+        "• Les services de santé",
+        "• Ou toute autre personne morale, autre que l’État, exerçant des activités de prévention, de diagnostic ou de soins.",
+        "Ces professionnels ou personnes vous informent aussi du respect de leur obligation de s'assurer contre toute responsabilité civile ou administrative.",
+        "[À noter] Lors de toute hospitalisation dans un établissement de santé, vous pouvez désigner une personne de confiance. Cette personne peut être un parent, un proche ou le médecin traitant. Cette désignation est faite par écrit et cosignée par la personne désignée. Elle est valable sans limitation de durée. Cependant, vous et la personne de confiance pouvez prévoir une durée. La désignation est révisable et révocable à tout moment.",
+        "Informations après les soins",
+        "Le droit d'être informé sur votre état de santé ne s'arrête pas après l’exécution des investigations, traitements ou actions de prévention.",
+        "Si des risques nouveaux sont apparus, vous devez en être informé, sauf en cas d'impossibilité de vous retrouver (exemple : découverte des effets secondaires d'un médicament qui a été prescrit il y a longtemps).",
+        "Par ailleurs, vous pouvez, à tout moment, demander la consultation de votre dossier médical.",
+        "[Attention] Seules l'urgence ou l'impossibilité d'informer peuvent dispenser le professionnel de cette obligation."
+      ]
+    },
+    {
+      "titre": "Quelles personnes peuvent demander des informations liées à l'état de santé ?",
+      "contenu": [
+        "Les règles varient selon votre situation :",
+        "Cas général",
+        "Vous avez accès à l'ensemble des informations concernant votre santé détenues, à quelque titre que ce soit, par des professionnels et établissement de santé.",
+        "Mineur",
+        "Ce droit à l'information est exercé par le(s) titulaire(s) de l'autorité parentale (exemples : les parents, le tuteur).",
+        "[À savoir] Le mineur a aussi le droit de recevoir l'information d'une manière adaptée à son degré de maturité.",
+        "Majeur sous tutelle",
+        "L'information liée à l'état de santé est délivrée à la personne sous tutelle de façon adaptée à sa capacité de compréhension.",
+        "Elle est aussi délivrée au tuteur.",
+        "Majeur sous curatelle",
+        "L'information liée à l'état de santé est délivrée à la personne sous curatelle de façon adaptée à sa capacité de compréhension.",
+        "Elle est aussi délivrée au curateur avec l'accord explicite du majeur protégé.",
+        "Majeur sous sauvegarde de justice",
+        "L'information liée à l'état de santé est délivrée au majeur sous sauvegarde de justice de façon adaptée à sa capacité de compréhension.",
+        "Majeur sous habilitation familiale",
+        "L'information liée à l'état de santé est délivrée au majeur faisant l’objet d’une habilitation familiale de façon adaptée à sa capacité de compréhension."
+      ]
+    },
+    {
+      "titre": "Comment le patient peut-il accéder aux informations liées à son état de santé ?",
+      "contenu": [
+        "Vous avez accès à l'ensemble des informations concernant votre santé détenues, à quelque titre que ce soit, par des professionnels et établissement de santé.",
+        "Vous pouvez consulter les informations sur votre état de santé sur place (dans l'établissement de santé ou le cabinet du praticien).",
+        "La consultation sur place des informations est gratuite.",
+        "Il peut s'agir d'informations formalisées ou d'échanges écrits entre professionnels de santé :",
+        "• Résultats d'examen, comptes rendus de consultation, d'intervention, d'exploration ou d'hospitalisation",
+        "• Protocoles et prescriptions thérapeutiques mis en œuvre",
+        "• Feuilles de surveillance",
+        "• Correspondance entre professionnels de santé."
+      ]
+    },
+    {
+      "titre": "Dans quel cadre le patient obtient-il l'information liée à son état de santé ?",
+      "contenu": [
+        "Cette information doit être délivrée au cours d’un entretien individuel.",
+        "[Rappel] Seules l'urgence ou l'impossibilité d'informer peuvent dispenser le professionnel de cette obligation."
+      ]
+    },
+    {
+      "titre": "Un patient peut-il refuser d'avoir des informations sur son état de santé ?",
+      "contenu": [
+        "Oui. Si vous le souhaitez, vous pouvez être tenu dans l’ignorance d’un diagnostic ou d’un pronostic, sauf lorsque des tiers (par exemple, votre enfant ou votre conjoint ) sont exposés à un risque de transmission."
+      ]
+    },
+    {
+      "titre": "Qui doit apporter la preuve que les informations ont bien été délivrées au patient ?",
+      "contenu": [
+        "En cas de litige, il appartient au professionnel ou à l'établissement de santé d'apporter la preuve que les informations sur votre état de santé vous ont été délivrées.",
+        "Cette preuve peut être apportée par tout moyen."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la santé publique : articles L1111-1 à L1111-9",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000006185255/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Santé Info Droits"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Droit à l'information sur les soins",
+      "url": "https://www.france-assos-sante.org/publication_document/a-2-le-droit-a-linformation-sur-les-soins/"
+    }
+  ],
+  "slug": "information-du-patient-sur-son-etat-de-sante",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "information-du-patient-dossier-medical-montant-des-prestations",
+      "titre": "Information du patient : dossier médical, montant des prestations, ..."
+    }
+  ]
+}

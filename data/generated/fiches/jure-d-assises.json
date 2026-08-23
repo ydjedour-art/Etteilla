@@ -1,0 +1,182 @@
+{
+  "id": "F1540",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Juré d'assises",
+  "theme": "Justice",
+  "description": "Tout citoyen français qui répond à certaines conditions peut être juré devant la cour d'assises",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-03-27",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1540",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Acteurs du monde judiciaire",
+    "Juré d'assises"
+  ],
+  "introduction": "Vous êtes un citoyen français inscrit sur les listes électorales ? Vous pouvez être tiré au sort pour être juré devant la cour d'assises. En tant que juré d'assises, vous participez aux côtés des magistrats professionnels au procès des personnes accusées de crimes. Si vous êtes sélectionné pour être juré, vous devez respecter certaines obligations. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Qui peut être sélectionné comme juré d'assises ?",
+      "contenu": [
+        "Tout citoyen français inscrit sur les listes électorales peut être juré d'assises. Néanmoins, vous devez remplir certaines conditions et ne pas être placé dans un cas d'incapacité, d'incompatibilité professionnelle ou d'exclusion.",
+        "Conditions",
+        "Vous pouvez être tiré au sort pour exercer la fonction de juré d'assises si vous remplissez toutes les conditions suivantes :",
+        "• Vous êtes de nationalité française",
+        "• Vous êtes âgé de plus de 23 ans",
+        "• Vous savez lire et écrire en français",
+        "• Vous avez l’ensemble de vos droits politiques, civils et de famille (par exemple, le droit de vote)",
+        "• Vous ne vous trouvez dans aucun cas d’incapacité ou d’incompatibilité.",
+        "Cas d'incapacité",
+        "Certaines catégories de personnes ne peuvent pas être juré. Il s’agit notamment des personnes suivantes :",
+        "• Personnes qui ont été condamnées pour un crime ou un délit",
+        "• Personnes en état d’accusation ou qui sont soumises à un mandat de dépôt ou d’arrêt",
+        "• Agents publics révoqués de leurs fonctions",
+        "• Officiers ministériels destitués",
+        "• Membres d’un ordre professionnel faisant l’objet d’une interdiction définitive d’exercer leur profession prononcée par une décision de justice",
+        "• Personnes auxquelles ont été retirés certains droits civiques, civils et de famille (par exemple, le droit de vote)",
+        "• Personnes majeures protégées.",
+        "Cas d'incompatibilité professionnelle",
+        "La mission de juré est incompatible avec l'exercice des fonctions suivantes :",
+        "• Membre du gouvernement",
+        "• Parlementaires (député ou sénateur)",
+        "• Magistrat",
+        "• Agent des services de police, de l'administration pénitentiaire ou de la gendarmerie en activité.",
+        "Cas d'exclusion",
+        "Certaines personnes peuvent être exclues de la liste des jurés :",
+        "• Personnes proches de l'accusé, de son avocat ou de l'un des magistrats présents à la cour d'assises (époux, partenaire de Pacs, concubin, parents, enfants, etc.)",
+        "• Personnes ayant participé à la procédure judiciaire (victime, interprète, témoin, etc.).",
+        "• Personnes qui, au cours des 5 dernières années, a participé à une session d'assises au sein du même département",
+        "• Personnes âgées de plus de 70 ans",
+        "• Personnes dont la résidence principale ne se trouve pas dans le département de la cour d'assises."
+      ]
+    },
+    {
+      "titre": "Comment sont sélectionnés les jurés d'assises ?",
+      "contenu": [
+        "Les jurés qui siégeront pendant un procès d'assises sont sélectionnés parmi un grand nombre de personnes tirées au sort sur les listes électorales. Cette sélection se fait en 4 étapes.",
+        "Établissement de la liste préparatoire par le maire",
+        "Il y a une cour d'assises par département.",
+        "Chaque année, le maire d'une commune ou le maire désigné pour un groupement de communes fait un tirage au sort à partir des listes électorales. Le nombre de personnes tirées au sort est égal à 3 fois le nombre fixé par l’arrêté préfectoral pour la circonscription. Par exemple, si l’arrêté préfectoral prévoit la désignation de 10 jurés pour la circonscription, le maire devra tirer au sort 30 personnes sur les listes électorales.",
+        "[À noter] À Paris, le tirage au sort est effectué dans chaque arrondissement.",
+        "Le maire supprime ensuite de cette liste les noms des personnes qui n'auront pas atteint l'âge de 23 ans au cours de l'année civile qui suit l'année du tirage.",
+        "La liste préparatoire est alors établie en 2 exemplaires originaux. Un exemplaire est déposé à la mairie et l’autre est tranmis au greffe de la cour d’assises.",
+        "Le maire envoie également un avis d’information aux électeurs concernés, leur indiquant qu’ils ont été tirés au sort pour être juré et qu’ils peuvent faire une demande de dispense.",
+        "Établissement de la liste annuelle des jurés par la commission spéciale",
+        "Une commission spéciale auprès de chaque cour d'assises se réunit une fois par an. Elle a pour rôle de :",
+        "• Exclure de la liste préparatoire les personnes qui ne remplissent pas les conditions pour être juré",
+        "• Se prononcer sur les demandes de dispense qui lui sont présentées",
+        "• Procéder à un nouveau tirage au sort et établir, pour chaque commune (ou groupement de communes), la liste annuelle des jurés et la liste spéciale des jurés suppléants",
+        "[À noter] Les jurés suppléants sont choisis parmi les personnes qui résident dans la commune dans laquelle se tient la cour d'assises.",
+        "Les listes annuelle et spéciale sont communiquées aux maires de chacune des communes du département.",
+        "Les maires doivent alerter la cour d'assises de tout changement qui affecte une des personnes retenues sur l'une des 2 listes : décès, incapacité, incompatibilité ou exclusion. Leur nom sera alors retiré de la liste.",
+        "Désignation des jurés",
+        "Par principe, pour chaque session d'assises, 35 jurés titulaires et 10 jurés suppléants sont tirés au sort à partir de la liste annuelle précédemment établie.",
+        "Néanmoins, dans certaines cours d'assises (notamment celles de Paris, des Bouches-du-Rhône, de la Charente, du Gard, de la Gironde, de la Guyane, de la Martinique, du Morbihan, du Rhône, de la Seine-Saint-Denis, du Var), 45 jurés titulaires et 15 jurés suppléants sont tirés au sort.",
+        "Dans tous les cas, ces tirages sont publics.",
+        "Si vous êtes tiré pour être juré titulaire ou suppléant, le greffe de la cour d'assises vous convoque par courrier au moins 15 jours avant le début de la session d'assises. La convocation précise la date et l'heure d'ouverture de la session d'assises, sa durée prévisible et le lieu où elle se tiendra.",
+        "Vous devez renvoyer, par courrier, le récépissé de cette convocation au greffe de la Cour d'assises.",
+        "Cour d'appel",
+        "Formation du jury de jugement",
+        "La cour d'assises est composée de 3 magistrats professionnels et de 6 jurés d'assises (ou de 9 jurés devant la cour d'assises d'appel).",
+        "Une session d'assises permet de juger plusieurs affaires.",
+        "Pour chaque affaire, un dernier tirage au sort est effectué à l'ouverture du procès.",
+        "Si votre nom est tiré, vous êtes juré titulaire pour l'affaire en cours.",
+        "Néanmoins, l’accusé, son avocat ou l’avocat général peuvent s’opposer à ce que vous fassiez partie du jury d'assises. Dans ce cas, vous êtes récusé et ne pouvez pas être juré.",
+        "Les 6 premiers jurés non récusés forment le jury de jugement. S'il s'agit d'une affaire jugée en appel, ce sont les 9 premiers jurés qui forment le jury de jugement.",
+        "Des jurés supplémentaires sont tirés au sort pour pouvoir remplacer les jurés qui pourraient être subitement empêchés en cours de procès (raisons de santé, impératifs professionnels, etc.).",
+        "[À savoir] L'accusé, son avocat et l'avocat général ont uniquement connaissance de vos noms et prénoms, de votre âge et de votre profession. La récusation a lieu sur la base de ces éléments."
+      ]
+    },
+    {
+      "titre": "Comment est formé un juré ?",
+      "contenu": [
+        "En tant que juré, vous suivez une courte formation pendant laquelle le président de la cour d'assises, le greffier et l'avocat général fournissent des explications sur la juridiction et sur le fonctionnement d’un procès d’assises. Vous regardez également un film qui présente la fonction que vous allez assumer. Cette présentation se tient à la cour d’assises, la veille du tirage au sort."
+      ]
+    },
+    {
+      "titre": "Quel est le rôle d’un juré ?",
+      "contenu": [
+        "En tant que juré, vous assistez à l’intégralité des débats : vous écoutez ainsi les témoins, les experts, les parties et les plaidoiries des avocats.",
+        "Vous avez également la possibilité de poser des questions aux témoins ou à l’accusé, sous le contrôle du président.",
+        "Vous siégez ainsi aux audiences et, une fois les débats terminés, vous participez aux délibérations. Les délibérations sont un moment d’échange au cours duquel chaque juré exprime son opinion, confronte ses arguments à ceux des autres et participe à la recherche d’une décision commune.",
+        "La décision est ensuite prise par un vote à bulletin écrit, organisé en plusieurs scrutins successifs sur chaque question posée (fait principal, circonstances aggravantes, etc.), avec l’ensemble des jurés et des magistrats.",
+        "Un premier vote porte sur la culpabilité de l'accusé et, s'il est déclaré coupable, un second vote est effectué sur la peine. Votre voix compte autant que celle des magistrats.",
+        "À la suite de ces délibérations, vos notes personnelles et vos bulletins de vote sont détruits.",
+        "[À savoir] Seuls les jurés titulaires participent au délibéré. Toutefois, si un juré suppléant est appelé pour remplacer un juré titulaire, il prendra part aux délibérations."
+      ]
+    },
+    {
+      "titre": "Quelles sont les obligations d’un juré ?",
+      "contenu": [
+        "En tant que juré, vous devez prêter serment et respecter les obligations suivantes :",
+        "• Être attentif lors des débats. Vous avez la possibilité de prendre des notes manuscrites et de poser des questions",
+        "• Être impartial, c'est-à-dire indépendant, neutre et objectif, et ne pas manifester votre opinion",
+        "• Ne pas communiquer avec d'autres personnes sur l'affaire, ce qui implique également l’obligation de se tenir à l’écart de toute pression extérieure ou influence médiatique",
+        "• Voter sur la culpabilité de l'accusé selon votre intime conviction",
+        "• Respecter le secret du délibéré (y compris une fois que vous avez cessé d'être juré). En cas de non-respect du secret du délibéré, vous encourez une peine d'un an d'emprisonnement et de 15 000 € d'amende.",
+        "[Attention] Vous devez également respecter les horaires d'audience. Les procès durent du matin au soir, avec une pause déjeuner. Vous pouvez rentrer chez vous chaque soir. Si vous rencontrez des difficultés pour vous rendre à la cour d'assises (exemple : une panne de transports en commun), vous devez prévenir le greffe de la cour d'assises. Toutefois, il faut que vous puissiez vous déplacer, même à des heures tardives."
+      ]
+    },
+    {
+      "titre": "Quelle est la durée des fonctions d’un juré ?",
+      "contenu": [
+        "De manière générale, une session d'assises dure entre 15 jours et 3 semaines. Au cours d'une session, plusieurs affaires peuvent avoir lieu. Dès lors que vous êtes tiré au sort pour une affaire, vous êtes obligé de siéger. Vous exercez vos fonctions de juré à temps plein.",
+        "[À savoir] Vous pouvez être sélectionné pour participer à plusieurs affaires au cours de la session d'assises."
+      ]
+    },
+    {
+      "titre": "Les jurés sont-ils rémunérés ?",
+      "contenu": [
+        "En tant que juré d'assises, vous ne percevez pas de rémunération. Toutefois, vous pouvez percevoir des indemnités."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de procédure pénale : articles 255 à 258-2",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000044569488"
+    },
+    {
+      "titre": "Code de procédure pénale : articles 259 à 267",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000044569486"
+    },
+    {
+      "titre": "Code de procédure pénale : articles 293 à 305-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000044569168"
+    },
+    {
+      "titre": "Code de procédure pénale : article 353",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024461707/"
+    },
+    {
+      "titre": "Code de procédure pénale : article 304",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044569072"
+    },
+    {
+      "titre": "Code du travail : articles L1132-1 à L1132-4",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006177836/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Tribunal judiciaire ou tribunal de proximité",
+    "Mairie"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Le juré d’assises, un citoyen-juge",
+      "url": "https://www.justice.gouv.fr/justice-france/acteurs-justice/juges-non-professionnels/jure-dassises"
+    }
+  ],
+  "slug": "jure-d-assises",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "acteurs-du-monde-judiciaire",
+      "titre": "Acteurs du monde judiciaire"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "F1725",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quels sont les droits du conjoint sur le logement du défunt ?",
+  "theme": "Famille - Scolarité",
+  "description": "Le droit de rester dans la résidence principale dépend du lien avec le défunt (mariage, Pacs, union libre) et de la nature du contrat (location ou propriété).",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-01-27",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1725",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Héritage : ordre et droits des héritiers",
+    "Quels sont les droits du conjoint sur le logement du défunt ?"
+  ],
+  "introduction": "Votre droit de rester dans le logement dépend de votre lien avec le défunt (mariage, Pacs ou union libre). Il dépend également du contrat qui vous lie au logement (location ou propriété). Selon votre situation, vous pourrez soit rester temporairement dans les lieux, soit habiter le logement à vie. L'occupation du logement peut aussi vous être interdite. Dans tous les cas, le droit de rester dans le logement est valable uniquement s’il s’agit de votre résidence principale.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code civil : article 1751",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028806626/"
+    },
+    {
+      "titre": "Code civil : articles 763 à 766",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006431113"
+    },
+    {
+      "titre": "Code civil : articles 831 à 834",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006181794"
+    },
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 14",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006475111/"
+    },
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 40",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038834701/"
+    },
+    {
+      "titre": "Loi n°48-1360 du 1er septembre 1948 sur les rapports locatifs : article 5",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000029336923/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Notaire",
+    "Agence départementale pour l'information sur le logement (Adil)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "quels-sont-les-droits-du-conjoint-sur-le-logement-du-defunt",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "heritage-ordre-et-droits-des-heritiers",
+      "titre": "Héritage : ordre et droits des héritiers"
+    }
+  ]
+}

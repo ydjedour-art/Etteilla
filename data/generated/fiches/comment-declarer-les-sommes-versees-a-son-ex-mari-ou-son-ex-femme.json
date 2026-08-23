@@ -1,0 +1,33 @@
+{
+  "id": "F35229",
+  "type_publication": "Recherche guidée",
+  "titre": "Comment déclarer les sommes versées à son ex-mari ou son ex-femme ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Comment déclarer les sommes versées à son ex-mari ou son ex-femme ?",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2025-10-29",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35229",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Impôt sur le revenu : déductions, réductions et crédits d'impôt",
+    "Comment déclarer les sommes versées à son ex-mari ou son ex-femme ?"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "comment-declarer-les-sommes-versees-a-son-ex-mari-ou-son-ex-femme",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "impot-sur-le-revenu-deductions-reductions-et-credits-d-impot",
+      "titre": "Impôt sur le revenu : déductions, réductions et crédits d'impôt"
+    }
+  ]
+}

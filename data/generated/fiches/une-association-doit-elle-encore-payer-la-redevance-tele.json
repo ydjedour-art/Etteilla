@@ -1,0 +1,53 @@
+{
+  "id": "F34901",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Une association doit-elle encore payer la redevance télé ?",
+  "theme": "Associations, fondations et fonds de dotation",
+  "description": "Non, une association qui possède un téléviseur n'est plus redevable de la contribution à l'audiovisuel public.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-08-07",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34901",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Associations, fondations et fonds de dotation",
+    "Activités commerciales d'une association",
+    "Une association doit-elle encore payer la redevance télé ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Non. Depuis le 1er janvier 2022, une association qui a un ou plusieurs téléviseur(s) n’a plus à payer la contribution à l'audiovisuel public (redevance télé).",
+        "[À noter] La suppression de la redevance télé ne modifie pas les autres obligations éventuelles de l'association. Par exemple, si elle diffuse de la musique ou organise des manifestations ouvertes au public, d'autres règles ou redevances peuvent s'appliquer."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Loi n° 2022-1157 du 16 août 2022 de finances rectificative pour 2022",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000046186661/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Service d'information des impôts"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Suppression de la contribution à l'audiovisuel public (ou redevance télé) dès 2022",
+      "url": "https://entreprendre.service-public.gouv.fr/actualites/A15905"
+    }
+  ],
+  "slug": "une-association-doit-elle-encore-payer-la-redevance-tele",
+  "path": [
+    {
+      "slug": "associations-fondations-et-fonds-de-dotation",
+      "titre": "Associations, fondations et fonds de dotation"
+    },
+    {
+      "slug": "activites-commerciales-d-une-association",
+      "titre": "Activités commerciales d'une association"
+    }
+  ]
+}

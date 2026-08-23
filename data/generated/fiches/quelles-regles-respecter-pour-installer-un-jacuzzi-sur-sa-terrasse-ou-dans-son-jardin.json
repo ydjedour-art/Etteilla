@@ -1,0 +1,131 @@
+{
+  "id": "F31475",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quelles règles respecter pour installer un jacuzzi sur sa terrasse ou dans son jardin ?",
+  "theme": "Logement",
+  "description": "Pour installer un jacuzzi à l’extérieur, il faut obtenir l’autorisation du propriétaire, de la copropriété et respecter les règles d’urbanisme et de voisinage.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-06-05",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31475",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Autorisations d'urbanisme",
+    "Quelles règles respecter pour installer un jacuzzi sur sa terrasse ou dans son jardin ?"
+  ],
+  "introduction": "Pour installer un jacuzzi (bain à remous ou bouillonnant, bassin à bulles, spa) sur votre terrasse ou dans votre jardin, vous devez respecter des règles d’urbanisme, de voisinage et de sécurité. Nous vous présentons la réglementation qui est différente si vous installez votre jacuzzi de manière temporaire ou permanente. Les règles sont identiques que votre jacuzzi soit gonflable ou non.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 7",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038834730/"
+    },
+    {
+      "titre": "Loi n°65-557 du 10 juillet 1965 : article 8",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000041587248"
+    },
+    {
+      "titre": "Loi n°65-557 du 10 juillet 1965 fixant le statut de la copropriété : article 25",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039313590"
+    },
+    {
+      "titre": "Code civil : article 1253",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006437138"
+    },
+    {
+      "titre": "Code de l'urbanisme : article R*421-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025542764"
+    },
+    {
+      "titre": "Code de l'urbanisme : article R*421-5",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034722169/"
+    },
+    {
+      "titre": "Code de l'urbanisme : article R*421-7",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034355427"
+    },
+    {
+      "titre": "Code de l'urbanisme : article R421-9",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037799137/"
+    },
+    {
+      "titre": "Code de l'urbanisme : article R421-11",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034355402"
+    },
+    {
+      "titre": "Code de l'urbanisme : article R*421-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006188285/"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : article L134-10",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041566140/"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : articles D134-51 à D134-54",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000043818857/"
+    },
+    {
+      "titre": "Réponse ministérielle du 24 septembre 2013 relative aux autorisations d'urbanisme pour l'installation d'une piscine hors sol",
+      "url": "http://questions.assemblee-nationale.fr/q14/14-28734QE.htm"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Méthode de calcul de la surface de plancher",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/getAnnexe.do?cerfaAnnexe=2&cerfaFormulaire=16700",
+      "type": "Simulateur"
+    },
+    {
+      "titre": "Assistance pour votre demande d'autorisation d'urbanisme",
+      "url": "https://demarches.service-public.gouv.fr/mademarche/DAUA/demarche",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Bureau accueil et service à l'usager (Basu) de Paris : guichet électronique unique",
+      "url": "https://teleservices.paris.fr/demarchesurbanisme/jsp/site/Portal.jsp?page=accueil",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Déclaration préalable constructions et travaux non soumis à permis de construire",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_16702.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Demande de permis de construire pour une maison individuelle et/ou ses annexes (PCMI)",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_13406.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Demande de permis de construire (autre que portant sur une maison individuelle ou ses annexes)",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_13409.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Estimer le montant des taxes d'urbanisme (taxe d’aménagement et taxe d’archéologie préventive)",
+      "url": "https://www.impots.gouv.fr/simulateur-des-taxes-urbanisme",
+      "type": "Simulateur"
+    }
+  ],
+  "contacts": [
+    "Mairie",
+    "Paris : Bureau accueil et service à l'usager (Basu)",
+    "Centre départemental des impôts fonciers (CDIF)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Piscines : respectez les exigences de sécurité !",
+      "url": "https://www.economie.gouv.fr/dgccrf/Publications/Vie-pratique/Fiches-pratiques/Piscine-securite"
+    }
+  ],
+  "slug": "quelles-regles-respecter-pour-installer-un-jacuzzi-sur-sa-terrasse-ou-dans-son-jardin",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "autorisations-d-urbanisme",
+      "titre": "Autorisations d'urbanisme"
+    }
+  ]
+}

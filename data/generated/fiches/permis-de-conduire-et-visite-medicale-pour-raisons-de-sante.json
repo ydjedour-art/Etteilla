@@ -1,0 +1,33 @@
+{
+  "id": "F36483",
+  "type_publication": "Recherche guidée",
+  "titre": "[Permis de conduire et visite médicale pour raisons de santé]",
+  "theme": "Transports - Mobilité",
+  "description": "[Permis de conduire et visite médicale pour raisons de santé]",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2022-07-11",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F36483",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Permis de conduire",
+    "[Permis de conduire et visite médicale pour raisons de santé]"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "permis-de-conduire-et-visite-medicale-pour-raisons-de-sante",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "permis-de-conduire",
+      "titre": "Permis de conduire"
+    }
+  ]
+}

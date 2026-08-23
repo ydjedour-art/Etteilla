@@ -1,0 +1,95 @@
+{
+  "id": "F2865",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Coût d'une inscription dans l'enseignement supérieur",
+  "theme": "Famille - Scolarité",
+  "description": "Les droits d'inscription pour la préparation des diplômes nationaux de licence, master ou doctorat (LMD) sont fixés chaque année au niveau national.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-07-07",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2865",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Inscription dans l'enseignement supérieur",
+    "Coût d'une inscription dans l'enseignement supérieur"
+  ],
+  "introduction": "Vous êtes étudiant et vous vous posez des questions sur les frais d'inscription dans l'enseignement supérieur ? Voici les informations à retenir : elles diffèrent selon votre situation.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de l'éducation : articles L612-1 et L612-1-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006166658"
+    },
+    {
+      "titre": "Code de l'éducation : articles L841-1 à L841-5",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006166714"
+    },
+    {
+      "titre": "Code de l'éducation : articles D841-2 à D841-7",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000037140207"
+    },
+    {
+      "titre": "Arrêté du 19 avril 2019 relatif aux droits d'inscription dans les établissements publics d'enseignement supérieur relevant du ministre chargé de l'enseignement supérieur",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000038396885/"
+    },
+    {
+      "titre": "Arrêté du 4 août 2023 fixant le montant des droits de scolarité dans les établissements d'enseignement supérieur agricole publics pour l'année universitaire 2023-2024",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047948813"
+    },
+    {
+      "titre": "Arrêté du 30 août 2019 fixant les montants des droits de scolarité, d'examen et d'inscription aux concours dans les établissements d'enseignement supérieur relevant du ministère de la culture",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000039079825/"
+    },
+    {
+      "titre": "Circulaire n°2019-029 relative à la contribution à la vie étudiante et de campus",
+      "url": "https://www.enseignementsup-recherche.gouv.fr/pid20536/bulletin-officiel.html?cid_bo=139902&cbo=1"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Parcoursurp : inscription dans l'enseignement supérieur",
+      "url": "https://dossier.parcoursup.fr/Candidat/authentification",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "Établissement d'enseignement supérieur"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Site contribution Vie étudiante et campus",
+      "url": "https://cvec.etudiant.gouv.fr/"
+    },
+    {
+      "titre": "CVEC : démarche obligatoire pour s'inscrire",
+      "url": "https://www.etudiant.gouv.fr/fr/cvec-une-demarche-de-rentree-incontournable-955"
+    },
+    {
+      "titre": "Plateforme Crous",
+      "url": "https://www.messervices.etudiant.gouv.fr/envole/"
+    },
+    {
+      "titre": "CVEC : obtenir votre attestation",
+      "url": "https://cvec.etudiant.gouv.fr/"
+    },
+    {
+      "titre": "Droits d'inscription dans l’enseignement supérieur",
+      "url": "https://www.etudiant.gouv.fr/fr/droits-d-inscription-1489"
+    },
+    {
+      "titre": "Droits d'inscription dans l'enseignement supérieur pour les étudiants non européens",
+      "url": "https://www.campusfrance.org/fr/cout-etudes-superieures-france-frais-inscription"
+    }
+  ],
+  "slug": "cout-d-une-inscription-dans-l-enseignement-superieur",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "inscription-dans-l-enseignement-superieur",
+      "titre": "Inscription dans l'enseignement supérieur"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "F19364",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Accueil de l'enfant à l'école en cas de grève du professeur",
+  "theme": "Famille - Scolarité",
+  "description": "À l'école primaire (maternelle ou élémentaire), l'élève doit être accueilli même si l'enseignant est absent.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-03-26",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F19364",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "École primaire (maternelle et élémentaire)",
+    "Accueil de l'enfant à l'école en cas de grève du professeur"
+  ],
+  "introduction": "Votre enfant est à l'école primaire (maternelle ou élémentaire) et son enseignant fait grève ? Dans ce cas, votre enfant doit être accueilli pendant le temps de la classe, même si son maître ou sa maîtresse est absent(e). Ce service d'accueil est gratuit. Il est assuré différemment à l'école publique et à l'école privée sous contrat. Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de l'éducation : articles L133-2 à L133-10",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071191/LEGISCTA000019345268/"
+    },
+    {
+      "titre": "Code de l'éducation : articles L133-11 à L133-12",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000019346712"
+    },
+    {
+      "titre": "Circulaire du 26 août 2008 relative au droit d'accueil en école primaire",
+      "url": "http://circulaire.legifrance.gouv.fr/pdf/2009/04/cir_657.pdf"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Mairie",
+    "Établissement scolaire",
+    "Direction des services départementaux de l'Éducation nationale"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Le service d'accueil",
+      "url": "https://eduscol.education.fr/document/41881/download"
+    }
+  ],
+  "slug": "accueil-de-l-enfant-a-l-ecole-en-cas-de-greve-du-professeur",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "ecole-primaire-maternelle-et-elementaire",
+      "titre": "École primaire (maternelle et élémentaire)"
+    }
+  ]
+}

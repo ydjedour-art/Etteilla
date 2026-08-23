@@ -1,0 +1,94 @@
+{
+  "id": "F14154",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Prison : droits familiaux, sociaux, sanitaires et civiques des détenus",
+  "theme": "Justice",
+  "description": "Un détenu a des droits familiaux, sociaux, civiques et sanitaires.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-05-07",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F14154",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Prison",
+    "Prison : droits familiaux, sociaux, sanitaires et civiques des détenus"
+  ],
+  "introduction": "Un détenu a-t-il les mêmes droits que toute autre personne ? Même s'il est privé de liberté, un détenu dispose de droits familiaux (droit de se marier, de voir ses enfants, etc.) et de droits civiques (droit de vote). Il peut aussi obtenir des aides sociales et avoir accès à des soins médicaux. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les droits dont bénéficient les détenus condamnés ne sont pas les mêmes que ceux accordés aux personnes placées en détention provisoire (appelés « prévenu » ou « accusé »)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code pénitentiaire : article D343-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000045492529/"
+    },
+    {
+      "titre": "Code pénitentiaire : articles D216-21 à D216-24",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000045476241/LEGISCTA000045488382/#LEGISCTA000045493396"
+    },
+    {
+      "titre": "Code pénitentiaire : article R322-34",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045492778"
+    },
+    {
+      "titre": "Code pénitentiaire : articles D424-22 à D424-30",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000045476241/LEGISCTA000045489660/"
+    },
+    {
+      "titre": "Code de procédure pénale : article D147",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033121930"
+    },
+    {
+      "titre": "Code de procédure pénale : article 723-6",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006578009"
+    },
+    {
+      "titre": "Code de procédure pénale : article 148-5",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038312176"
+    },
+    {
+      "titre": "Code pénitentiaire : articles D333-1 à D333-3",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045282209/"
+    },
+    {
+      "titre": "Code pénitentiaire : article R324-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045492760"
+    },
+    {
+      "titre": "Code électoral : article L12-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041409417"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Service pénitentiaire d'insertion et de probation (Spip)",
+    "Tribunal judiciaire ou tribunal de proximité",
+    "Défenseur des droits"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Guide du détenu arrivant",
+      "url": "https://www.justice.gouv.fr/sites/default/files/2024-07/dap_guide_je_suis_en_detention.pdf"
+    },
+    {
+      "titre": "Faire respecter mes droits en prison",
+      "url": "https://www.defenseurdesdroits.fr/sites/default/files/2024-11/ddd_guide_faire-respecter-les-droits-en-prison_20241106.pdf"
+    }
+  ],
+  "slug": "prison-droits-familiaux-sociaux-sanitaires-et-civiques-des-detenus",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "prison",
+      "titre": "Prison"
+    }
+  ]
+}

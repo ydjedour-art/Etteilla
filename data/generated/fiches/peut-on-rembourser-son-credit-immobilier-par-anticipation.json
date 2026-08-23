@@ -1,0 +1,60 @@
+{
+  "id": "F1669",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Peut-on rembourser son crédit immobilier par anticipation ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Il est possible de rembourser par anticipation tout ou partie d'un crédit immobilier, c'est-à-dire avant la fin du contrat de prêt, sous certaines conditions.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2024-12-11",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1669",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Crédit immobilier",
+    "Peut-on rembourser son crédit immobilier par anticipation ?"
+  ],
+  "introduction": "Oui, vous pouvez rembourser une partie ou la totalité de votre crédit immobilier par anticipation, c'est-à-dire avant la fin du contrat de prêt. Mais votre contrat de prêt peut vous imposer des conditions pour le faire. Nous vous expliquons.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Ces conditions dépendent de la date de signature de votre contrat de prêt :"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la consommation : articles L313-47 à L313-49",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069565/LEGISCTA000032222295/"
+    },
+    {
+      "titre": "Code de la consommation : article R313-25",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032807572/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Info Banque - Assurance"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Rembourser son crédit immobilier avant son terme : comment ça marche ?",
+      "url": "https://www.economie.gouv.fr/particuliers/rembourser-credit-immobilier-avant-terme-anticipation?xtor=ES-39-%5bBI_205_20210212_NonOuvreurs%5d-20210212-%5bhttps://www.economie.gouv.fr/particuliers/rembourser-credit-immobilier-avant-terme-anticipation#"
+    },
+    {
+      "titre": "Rembourser un crédit immobilier par anticipation, comment ça marche ?",
+      "url": "https://www.abe-infoservice.fr/fr/banque/credit/credit-immobilier/rembourser-un-credit-immobilier-par-anticipation-comment-ca-marche"
+    }
+  ],
+  "slug": "peut-on-rembourser-son-credit-immobilier-par-anticipation",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "credit-immobilier",
+      "titre": "Crédit immobilier"
+    }
+  ]
+}

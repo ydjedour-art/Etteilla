@@ -1,0 +1,54 @@
+{
+  "id": "F16536",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Peut-on choisir son adresse sur la carte grise ?",
+  "theme": "Transports - Mobilité",
+  "description": "Non, vous ne pouvez pas choisir l'adresse qui figurera sur votre carte grise.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-04-09",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F16536",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Carte grise (certificat d'immatriculation)",
+    "Peut-on choisir son adresse sur la carte grise ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Non, vous ne pouvez pas choisir l'adresse qui figurera sur votre carte grise (désormais appelée certificat d'immatriculation).",
+        "En effet, la carte grise doit obligatoirement indiquer l'adresse du domicile principal du titulaire. Vous ne pouvez donc pas immatriculer votre véhicule dans le département où vous possédez une résidence secondaire.",
+        "Vous devez régler la taxe correspondant au département de votre domicile principal.",
+        "La carte grise sera envoyée à cette adresse.",
+        "[À savoir] Vous pouvez cependant indiquer le département de votre choix (identifiant territorial) sur vos plaques d'immatriculation. Ce n'est pas nécessairement celui de votre résidence principale.",
+        "En cas de déménagement, vous avez 1 mois pour effectuer le changement d'adresse sur votre certificat d'immatriculation."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la route : articles R322-1 à R322-14",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074228/LEGISCTA000006177098"
+    },
+    {
+      "titre": "Arrêté du 9 février 2009 relatif aux démarches d'immatriculation des véhicules",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000020237165"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "peut-on-choisir-son-adresse-sur-la-carte-grise",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "carte-grise-certificat-d-immatriculation",
+      "titre": "Carte grise (certificat d'immatriculation)"
+    }
+  ]
+}

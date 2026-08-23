@@ -1,0 +1,48 @@
+{
+  "id": "F34687",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Liste électorale, bureau de vote... : comment vérifier son inscription ?",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Pour savoir sur quelle liste électorale vous êtes inscrit, pour vérifier votre bureau de vote et vos procurations en cours, vous devez utiliser un téléservice.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-10-08",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34687",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Élections",
+    "Liste électorale, bureau de vote... : comment vérifier son inscription ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Pour vérifier votre inscription, vous pouvez utiliser ce téléservice :",
+        "Vérifier votre inscription électorale et votre bureau de vote",
+        "Connexion avec FranceConnect ou avec vos identifiants Ma-situation-électorale",
+        "Ce téléservice vous permet de connaître :",
+        "• La liste électorale sur laquelle vous êtes inscrit (inscription d'office ou inscription volontaire)",
+        "• L’adresse de votre bureau de vote",
+        "• Votre numéro national d'électeur",
+        "• Les procurations en cours.",
+        "[À noter] Si vous êtes inscrit sur une liste électorale de Nouvelle-Calédonie, vous devez utiliser un autre service en ligne."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "liste-electorale-bureau-de-vote-comment-verifier-son-inscription",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "elections",
+      "titre": "Élections"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "F33481",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "L'instance unique des représentants du personnel (IRP) existe-t-elle toujours ?",
+  "theme": "Travail - Formation",
+  "description": "Les attributions de l'instance unique des représentants du personnel sont confiées depuis le 1er janvier 2020 au comité social et économique (CSE).",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-05-09",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33481",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Représentation du personnel dans l'entreprise",
+    "L'instance unique des représentants du personnel (IRP) existe-t-elle toujours ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Non. Les attributions de l'instance unique des représentants du personnel (IRP) sont confiées désormais depuis le 1er janvier 2020 au comité social et économique (CSE)."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "l-instance-unique-des-representants-du-personnel-irp-existe-t-elle-toujours",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "representation-du-personnel-dans-l-entreprise",
+      "titre": "Représentation du personnel dans l'entreprise"
+    }
+  ]
+}

@@ -2,10 +2,10 @@ import { formatDate } from "@/lib/format";
 import type { TimelineEvent } from "@/lib/types";
 
 const ACTOR_LABELS: Record<TimelineEvent["actor"], string> = {
-  systeme: "Sérénio",
+  systeme: "IZY/D",
   utilisateur: "Vous",
-  concierge: "Votre conseiller Sérénio",
-  assistant_ia: "Assistant Sérénio",
+  concierge: "Votre conseiller IZY/D",
+  assistant_ia: "Assistant IZY/D",
 };
 
 /** Frise des événements d'un dossier, toujours rédigée en langage humain — jamais

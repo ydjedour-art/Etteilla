@@ -1,0 +1,94 @@
+{
+  "id": "F1527",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Victime de terrorisme : indemnisation par le Fonds de garantie des victimes",
+  "theme": "Justice",
+  "description": "Les victimes d'un acte de terrorisme et leurs proches peuvent demander une indemnisation au FGTI.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-08-07",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1527",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Indemnisation du préjudice",
+    "Victime de terrorisme : indemnisation par le Fonds de garantie des victimes"
+  ],
+  "introduction": "Vous ou l'un de vos proches avez été victime d'un acte terroriste ? Vous pouvez demander une indemnisation au Fonds de garantie des victimes des actes de terrorisme et d'autres infractions (FGTI). Le versement de l'indemnité a pour but de réparer les préjudices subis, que vous soyez une victime directe ou l'un de ses proches. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les règles applicables dépendent de votre situation : vous avez été blessé, un de vos proches a été blessé, un de vos proches est décédé."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code pénal : articles 421-1 à 421-8",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006149845"
+    },
+    {
+      "titre": "Code des assurances : article L126-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038312684/2019-04-01/"
+    },
+    {
+      "titre": "Code des assurances : articles L422-1 à L422-6",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000019113080"
+    },
+    {
+      "titre": "Code civil : article 2226",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019017259"
+    },
+    {
+      "titre": "Code des assurances : article R422-6",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034511541"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demande d’indemnisation par une victime d’acte de terrorisme",
+      "url": "https://moncompte.fondsdegarantie.fr/portail",
+      "type": "selNG"
+    },
+    {
+      "titre": "Formulaire de demande d’indemnisation - victime de terrorisme",
+      "url": "https://www.fondsdegarantie.fr/sites/default/files/documents/2025-12/Forumlaire%20de%20demande%20d%27indemnisation%20TERRO%20-%20Victime.pdf",
+      "type": "formulaireNG"
+    },
+    {
+      "titre": "Formulaire de demande d’indemnisation - proche d’une victime de terrorisme",
+      "url": "https://www.fondsdegarantie.fr/mediatheque/formulaire-indemnisation-des-ayants-droit-d-une-victime-d-un-acte-de-terrorisme",
+      "type": "formulaireNG"
+    }
+  ],
+  "contacts": [
+    "Fonds de garantie des victimes des actes de terrorisme et d'autres infractions (FGTI)",
+    "Médiateur du Fonds de garantie des victimes des actes de terrorisme (FGTI)",
+    "Avocat"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Guide sur l’indemnisation des victimes de terrorisme",
+      "url": "https://www.fondsdegarantie.fr/mediatheque/guide-indemnisation-des-victimes-d-acte-de-terrorisme"
+    },
+    {
+      "titre": "Guichet unique d'information et déclaration pour les victimes de terrorisme",
+      "url": "http://www.gouvernement.fr/guide-victimes"
+    },
+    {
+      "titre": "Indemnisation des victimes de terrorisme par l'Assurance maladie",
+      "url": "https://www.ameli.fr/professionnel-de-la-lpplatm/exercice-professionnel/presciption-prise-charge/situation-patient-victime-terrorisme"
+    }
+  ],
+  "slug": "victime-de-terrorisme-indemnisation-par-le-fonds-de-garantie-des-victimes",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "indemnisation-du-prejudice",
+      "titre": "Indemnisation du préjudice"
+    }
+  ]
+}

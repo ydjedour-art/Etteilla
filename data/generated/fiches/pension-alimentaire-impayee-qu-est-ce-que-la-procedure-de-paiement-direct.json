@@ -1,0 +1,108 @@
+{
+  "id": "F998",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Pension alimentaire impayée : qu'est-ce que la procédure de \"paiement direct\" ?",
+  "theme": "Justice",
+  "description": "En cas de pension alimentaire impayée, le paiement direct permet au créancier d'obtenir le paiement auprès du détenteur de sommes destinées au débiteur.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2024-11-18",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F998",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Saisies et recouvrements",
+    "Pension alimentaire impayée : qu'est-ce que la procédure de \"paiement direct\" ?"
+  ],
+  "introduction": "En cas de pension alimentaire impayée, le créancier peut recourir au paiement direct pour obtenir le paiement auprès d'un tiers (employeur, banque…) de sommes destinées au débiteur et saisissables. Le créancier peut engager cette procédure dès que le 1er versement n'a pas lieu à la date prévue (1 seul jour de retard suffit). Nous vous expliquons.",
+  "chapitres": [
+    {
+      "titre": "À quelle condition peut-on recourir à la procédure de paiement direct ?",
+      "contenu": [
+        "Le créancier doit posséder un document (décision de justice ou convention immédiatement exécutoire) fixant la pension alimentaire.",
+        "Le créancier peut engager cette procédure dès le 1er impayé (1 seul jour de retard suffit).",
+        "[À savoir] La procédure de paiement direct s'applique aux impayés des 6 mois précédant la notification de la procédure, et à l'ensemble des impayés à venir.",
+        "Le créancier qui, de mauvaise foi, fait usage de la procédure de paiement direct peut être condamné par le tribunal à une amende civile allant jusqu'à 10 000 €."
+      ]
+    },
+    {
+      "titre": "Comment se déroule une procédure de paiement direct ?",
+      "contenu": [
+        "La procédure comporte plusieurs étapes :",
+        "1. Le créancier fait appel à un commissaire de justice",
+        "Le créancier doit s'adresser à un commissaire de justice (anciennement huissier de justice et commissaire-priseur judiciaire) de son lieu de résidence et lui fournir les documents ou informations suivants :",
+        "• Original du jugement ou de la convention relatif à la pension alimentaire",
+        "• Décompte des sommes dues",
+        "• Tous renseignements concernant le débiteur (identité, domicile, adresse de l'employeur, immatriculation à la Sécurité sociale)",
+        "Dans les 8 jours, le commissaire de justice notifie au tiers, par lettre recommandée avec accusé réception, la procédure de paiement direct. La lettre doit comporter les informations suivantes :",
+        "• L'indication du nom et domicile du débiteur",
+        "• L'énonciation du titre exécutoire",
+        "• Le décompte des sommes dues",
+        "• Le rappel des dispositions de l'article L. 213-2 du code des procédures civiles d'exécution.",
+        "Simultanément, le commissaire de justice informe le débiteur, par lettre recommandée avec accusé de réception. Cette lettre doit comporter les éléments suivants :",
+        "• La demande de paiement direct",
+        "• Le décompte des sommes dues en principal, intérêts et frais",
+        "• Le rappel des dispositions de l'article R. 213-6 du code des procédures civiles d'exécution.",
+        "Lorsque le créancier ne connaît pas l'adresse du débiteur ou celle de son employeur, le commissaire de justice contacte dans le même délai, les organismes tenus de l'en informer. Il s'agit notamment de l'administration fiscale, de la sécurité sociale, du fichier national des chèques irréguliers.",
+        "[À savoir] Les frais de procédure sont à la charge du débiteur. Aucune avance ne peut être demandée au bénéficiaire de la pension alimentaire.",
+        "2. Le tiers rend sa réponse",
+        "Le tiers peut être soit l'employeur du débiteur, soit l'un des dépositaires de ses fonds (sa banque, par exemple).",
+        "Dans les 8 jours qui suivent la notification de la procédure de paiement direct, le tiers doit en accuser réception auprès du commissaire de justice et préciser par écrit s'il est en mesure ou non de donner suite à la demande de paiement direct.",
+        "3. Le tiers réalise le paiement",
+        "Le tiers qui est en mesure de rembourser le créancier, doit mettre en place la procédure de paiement direct. S'il ne verse pas le montant de la pension alimentaire due au créancier, il encourt une amende de 1 500 € maximum (3 000 € en cas de récidive).",
+        "Le tiers n'a pas à verser pas au créancier les sommes qui lui sont dues en 1 seule fois. Le versement est étalé en 12 mensualités d'un montant égal."
+      ]
+    },
+    {
+      "titre": "Peut-on contester une procédure de paiement direct ?",
+      "contenu": [
+        "La procédure de paiement direct des pensions alimentaires peut être contestée par le débiteur de la pension alimentaire devant le juge de l'exécution du tribunal dont dépend son domicile.",
+        "Tribunal judiciaire ou tribunal de proximité",
+        "[À savoir] Tant que le juge de l'exécution n'a pas rendu sa décision, le tiers qui a reçu l'avis de paiement direct doit continuer à payer."
+      ]
+    },
+    {
+      "titre": "Quand prend fin la procédure de paiement direct ?",
+      "contenu": [
+        "La procédure de paiement direct prend fin lorsque le commissaire de justice du créancier en notifie au tiers la mainlevée par lettre recommandée avec accusé de réception.",
+        "Elle peut également prendre fin à la demande du débiteur, au moyen d'un certificat délivré par un commissaire de justice. Ce certificat doit :",
+        "• Soit attester que la pension alimentaire est supprimée par un nouveau jugement ou convention",
+        "• Soit constater que la pension alimentaire cessé d'être due."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code des procédures civiles d'exécution : L213-1 à L213-6",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000025024948/LEGISCTA000025025828/"
+    },
+    {
+      "titre": "Code des procédures civiles d'exécution : R213-1 à R213-10",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000025938547"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Maison de justice et du droit"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Code des procédures civiles d'exécution : article L213-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025025834?idSecParent=LEGISCTA000025026604"
+    },
+    {
+      "titre": "Code des procédures civiles d'exécution : article R213-6",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042385888?idSecParent=LEGISCTA000025938547"
+    }
+  ],
+  "slug": "pension-alimentaire-impayee-qu-est-ce-que-la-procedure-de-paiement-direct",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "saisies-et-recouvrements",
+      "titre": "Saisies et recouvrements"
+    }
+  ]
+}

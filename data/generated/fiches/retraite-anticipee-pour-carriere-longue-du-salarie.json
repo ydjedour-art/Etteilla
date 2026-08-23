@@ -1,0 +1,98 @@
+{
+  "id": "F13845",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Retraite anticipée pour carrière longue du salarié",
+  "theme": "Travail - Formation",
+  "description": "Pour en bénéficier, il faut avoir commencé à travailler jeune et justifier d’une certaine durée d’assurance cotisée (tous régimes confondus).",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-08-29",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F13845",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Retraite d'un salarié du secteur privé",
+    "Retraite anticipée pour carrière longue du salarié"
+  ],
+  "introduction": "Si vous avez commencé à travailler jeune, vous pouvez partir à la retraite avant l’âge de départ minimum normal (fixé entre 62 et 64 ans selon votre année de naissance) si vous justifiez d’une certaine durée d’assurance cotisée (tous régimes confondus). Nous vous présentons les conditions à remplir pour bénéficier de ce départ en retraite anticipé.",
+  "chapitres": [
+    {
+      "titre": "Quelles conditions le salarié doit-il remplir pour partir en retraite anticipée pour carrière longue ?",
+      "contenu": [
+        "Pour bénéficier d'une retraite anticipée pour carrière longue, vous devez remplir les conditions suivantes :",
+        "• Avoir commencé à travailler avant 16, 18, 20 ou 21 ans",
+        "• Et avoir un nombre déterminé de trimestres d'assurance retraite cotisés (tous régimes confondus) dont un certain nombre avant 16, 18, 20 ou 21 ans.",
+        "Vous pouvez retrouver les conditions de durée d'assurance à remplir selon votre situation personnelle à l'aide d’un simulateur :",
+        "Connaître les conditions de départ en retraite anticipée pour carrière longue",
+        "[Complement] La durée d'assurance cotisée comprend toutes les périodes d’activité professionnelle au cours desquelles vous avez cotisé à l'Assurance retraite et, éventuellement, à un ou plusieurs autres régimes de retraite obligatoires. Certaines périodes sont considérées comme des périodes cotisées, notamment les périodes suivantes : • Service national, dans la limite de 4 trimestres • Périodes de chômage dans la limite de 4 trimestres • Périodes de maladie et d'accident du travail au cours desquelles vous avez perçu des indemnités journalières, dans la limite de 4 trimestres • Périodes de maternité et d'adoption au cours desquelles vous avez perçu des indemnités journalières • Périodes au cours desquelles vous avez perçu une pension d'invalidité, dans la limite de 2 trimestres • Trimestres de majoration de durée d'assurance attribués dans le cadre du compte professionnel de prévention • Trimestres obtenus grâce à l'assurance vieillesse des parents au foyer et à l'assurance vieillesse des aidants dans la limite de 4 trimestres."
+      ]
+    },
+    {
+      "titre": "Comment le salarié doit-il demander la retraite anticipée pour carrière longue ?",
+      "contenu": [
+        "Avant toute demande, assurez-vous que vous remplissez les conditions d’assurance nécessaires pour pouvoir bénéficier d'une retraite anticipée pour carrière longue en vous connectant à votre compte retraite sur le site Info Retraite en utilisant le service Ma carrière / Voir ma carrière).",
+        "Info Retraite - Mon compte retraite",
+        "Connexion via FranceConnect",
+        "Si vous n'avez pas internet, vous pouvez aussi contacter votre caisse de retraite.",
+        "Caisse d'assurance retraite et de la santé au travail (Carsat)",
+        "Si vous remplissez les conditions requises, vous pouvez, à partir de votre compte retraite, faire une demande unique de retraite valable auprès de l'ensemble de vos régimes de retraite en utilisant le service Mes démarches / Demander ma retraite.",
+        "[À noter] N’arrêtez pas de travailler avant d'avoir obtenu confirmation de votre situation auprès de tous vos régimes de retraite de base et complémentaires."
+      ]
+    },
+    {
+      "titre": "Quel est le montant de la pension en cas de retraite anticipée du salarié pour carrière longue ?",
+      "contenu": [
+        "Votre retraite anticipée pour carrière longue est calculée dans les mêmes conditions que toute retraite accordée à un salarié.",
+        "Vous pouvez obtenir une simulation du montant de votre pension de retraite en utilisant le service Mon estimation retraite / Estimer le montant de ma retraite :",
+        "Info Retraite - Mon compte retraite",
+        "Connexion via FranceConnect"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la sécurité sociale : article L351-1-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028498678/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles D351-1-1 à D351-1-14",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000028136151/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Connaître les conditions de départ en retraite anticipée pour carrière longue",
+      "url": "https://les-simulateurs.info-retraite.fr/carriere-longue",
+      "type": "simulateurNG"
+    },
+    {
+      "titre": "Info Retraite - Mon compte retraite",
+      "url": "https://www.info-retraite.fr/portail-services/login",
+      "type": "selNG"
+    },
+    {
+      "titre": "Demande unique de retraite anticipée de base pour carrière longue",
+      "url": "https://www.lassuranceretraite.fr/portail-info/files/live/sites/pub/files/PDF/demande-racl.pdf",
+      "type": "formulaireNG"
+    }
+  ],
+  "contacts": [
+    "Assurance retraite - 39 60"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Assurance Retraite : mes droits, mes démarches, ma retraite",
+      "url": "https://www.lassuranceretraite.fr/portail-info/accueil"
+    }
+  ],
+  "slug": "retraite-anticipee-pour-carriere-longue-du-salarie",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "retraite-d-un-salarie-du-secteur-prive",
+      "titre": "Retraite d'un salarié du secteur privé"
+    }
+  ]
+}

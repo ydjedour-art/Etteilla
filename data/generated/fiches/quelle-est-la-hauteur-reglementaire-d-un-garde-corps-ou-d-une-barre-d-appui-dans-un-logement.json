@@ -1,0 +1,65 @@
+{
+  "id": "F481",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quelle est la hauteur réglementaire d'un garde-corps ou d'une barre d'appui dans un logement ?",
+  "theme": "Logement",
+  "description": "Il est obligatoire d'installer une protection devant une fenêtre, une terrasse, une loggia, une galerie ou un balcon situés en étage d'un bâtiment d'habitation.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-06-26",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F481",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Autorisations d'urbanisme",
+    "Quelle est la hauteur réglementaire d'un garde-corps ou d'une barre d'appui dans un logement ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les bâtiments (y compris les structures provisoires) sont construits de manière à éviter les chutes accidentelles de hauteur des personnes. Dans les bâtiments d'habitation, il est obligatoire d'installer une protection devant une fenêtre, une terrasse, une loggia, une galerie ou un balcon situés en étage (hors rez-de-chaussée). Ce dispositif de sécurité peut être un garde-corps pour un balcon ou une terrasse et une barre d'appui devant une fenêtre.",
+        "Le dispositif de sécurité est différent pour les fenêtres et pour les balcons, terrasses, galeries ou loggias situés en étage :",
+        "Fenêtre à l'étage",
+        "Les règles varient selon que la partie basse de la fenêtre est à moins ou plus de 90 cm de hauteur du plancher. Ce dispositif n'est pas obligatoire lorsque la fenêtre se trouve au rez-de-chaussée.",
+        "Hauteur de moins de 90 cm",
+        "Une barre d'appui doit être installée à une hauteur minimum d'1 mètre mesurée à partir du plancher. Lorsque la fenêtre s'ouvre sur un balcon, une terrasse ou une galerie, cette barre n’est pas obligatoire.",
+        "L'ajout d'un élément de protection (barreau, panneau ...) est obligatoire pour remplir l'espace vide entre la barre d'appui et le bas de la fenêtre.",
+        "Hauteur de 90 cm et plus",
+        "Il n'est pas obligatoire d'installer un dispositif de protection.",
+        "Balcon, terrasse, galerie ou loggia à l'étage",
+        "À l'étage d'un bâtiment, un garde-corps doit être installé autour d'un balcon, d'une terrasse, d'une galerie ou d'une loggia.",
+        "La hauteur minimale du garde-corps dépend de son épaisseur : inférieure ou égale à 50 cm ou plus de 50 cm.",
+        "Ce dispositif n'est pas obligatoire au rez-de-chaussée.",
+        "Épaisseur inférieure ou égale à 50 cm",
+        "Il est obligatoire d'installer un garde-corps d'une hauteur minimum d'1 m à partir du sol.",
+        "[Exemple] Votre balcon est entouré d'une barrière de 10 cm d'épaisseur. Cette barrière doit mesurer au moins 1 m de haut par rapport au sol du balcon.",
+        "Épaisseur de plus de 50 cm",
+        "Il est obligatoire d'installer un garde-corps d'une hauteur minimum de 80 cm à partir du sol.",
+        "[Exemple] Votre balcon est entouré d'un muret de plus de 50 cm d'épaisseur. Ce muret doit mesurer au moins 80 cm de haut par rapport au sol du balcon."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la construction et de l'habitation : article R134-59",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000043818878"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "quelle-est-la-hauteur-reglementaire-d-un-garde-corps-ou-d-une-barre-d-appui-dans-un-logement",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "autorisations-d-urbanisme",
+      "titre": "Autorisations d'urbanisme"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "F34717",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Comment obtenir la nationalité française ?",
+  "theme": "Étranger - Europe",
+  "description": "Il y a 2 principales manières de devenir Français(e) : la déclaration de nationalité et la naturalisation.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-04-24",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34717",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Nationalité française",
+    "Comment obtenir la nationalité française ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Il y a 2 principales manières d'obtenir la nationalité française : la déclaration de nationalité et la naturalisation.",
+        "La déclaration vous concerne si vous êtes marié(e) ou si vous avez un lien de parenté avec une personne française (descendant(e), frère ou sœur).",
+        "La naturalisation est soumise à plusieurs conditions, en particulier de durée de résidence en France.",
+        "Des règles particulières s'appliquent si vous êtes né en France de parents étrangers.",
+        "Enfin, vous pouvez redevenir Français(e) si vous avez perdu la nationalité française.",
+        "La démarche varie selon que vous êtes né à l'étranger ou en France."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [
+    "Plateformes de naturalisation"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "comment-obtenir-la-nationalite-francaise",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "nationalite-francaise",
+      "titre": "Nationalité française"
+    }
+  ]
+}

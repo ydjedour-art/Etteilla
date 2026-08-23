@@ -1,0 +1,84 @@
+{
+  "id": "F35129",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Qu'est-ce que le référent déontologue dans la fonction publique ?",
+  "theme": "Travail - Formation",
+  "description": "Le référent déontologue est chargé d'apporter à tout agent public qui le demande des conseils utiles au respect des principes déontologiques.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-10-20",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35129",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Conditions de travail dans la fonction publique",
+    "Qu'est-ce que le référent déontologue dans la fonction publique ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "Quels sont les principes déontologiques ?",
+      "contenu": [
+        "Tout agent public est soumis aux obligations générales suivantes :",
+        "• Exercer ses fonctions avec dignité, impartialité, intégrité et probité",
+        "• Respecter une obligation de neutralité dans l'exercice de ses fonctions",
+        "• Exercer ses fonctions dans le respect du principe de laïcité. À ce titre, l’agent public s'abstient notamment de manifester ses opinions religieuses",
+        "• Traiter de façon égale toutes les personnes et respecter leur liberté de conscience et leur dignité",
+        "• Consacrer l'intégralité de son activité professionnelle aux tâches qui lui sont confiées, sauf s'il s'agit d'une activité autorisée",
+        "• Veiller à prévenir ou à faire cesser immédiatement les situations de conflit d'intérêts dans lesquelles il se trouve ou pourrait se trouver. Un conflit d'intérêts est constitué par toute situation d'interférence entre un intérêt public et des intérêts publics ou privés de nature à influencer ou paraître influencer l'exercice indépendant, impartial et objectif des fonctions de l'agent public",
+        "• Respecter une obligation de secret professionnel c’est-à-dire ne pas révéler les informations secrètes dont il a connaissance en raison de sa profession (sauf dans les cas où la loi impose ou autorise la révélation du secret)",
+        "• Faire preuve de discrétion professionnelle pour tous les faits, informations ou documents dont il a connaissance dans l'exercice ou à l'occasion de l'exercice de ses fonctions",
+        "• Satisfaire aux demandes d'information du public (sous réserve des obligations de discrétion et de secret professionnels)",
+        "• Être responsable de l'exécution des tâches qui lui sont confiées, quel que soit son rang dans la hiérarchie",
+        "• Se conformer aux instructions de son supérieur hiérarchique, sauf dans le cas où l'ordre donné est manifestement illégal et de nature à compromettre gravement un intérêt public",
+        "• Informer sans délai le procureur de la République de tout crime ou délit dont il a connaissance dans l'exercice de ses fonctions et transmettre à ce magistrat tous les renseignements, procès-verbaux et actes relatifs à ce crime ou délit",
+        "• Déclarer de manière exhaustive, exacte et sincère sa situation patrimoniale lorsqu’il occupe un emploi soumis à une telle déclaration."
+      ]
+    },
+    {
+      "titre": "Comment est désigné le référent déontologue ?",
+      "contenu": [
+        "Un référent déontologue est désigné dans les administrations suivantes :",
+        "• Administrations de l’État, autorités administratives et autorité publiques indépendantes, établissements publics de l’État et établissements publics industriels et commerciaux dans lesquels des fonctionnaires de l'Etat sont affectés en application de dispositions législatives spéciales",
+        "• Collectivités territoriales et établissements publics qui en relèvent",
+        "• Établissements publics de santé.",
+        "Les missions de référent déontologue peuvent être assurées par une ou plusieurs personnes qui relèvent ou ont relevé de l'administration, l'autorité, la collectivité territoriale ou l'établissement concerné.",
+        "Elles peuvent aussi être assurées par un collège dont la composition et les attributions sont fixées par un arrêté du chef de service. Ce collège peut comprendre des personnes extérieures à l'administration concernée ou à la fonction publique. Elles sont choisies en raison de leur compétence ou expérience particulière jugée utiles pour la mise en œuvre des missions du référent déontologue.",
+        "À l'exception des personnes extérieures à la fonction publique, les référents déontologues sont choisis parmi les magistrats et fonctionnaires, en activité ou retraités, ou parmi les agents contractuels en CDI.",
+        "La désignation du référent déontologue et les informations utiles pour pouvoir le contacter sont communiquées aux agents par tout moyen par le chef de service.",
+        "Le référent déontologue est soumis à une obligation de secret et de discrétion professionnels."
+      ]
+    },
+    {
+      "titre": "À quel moment le référent déontologue intervient-il ?",
+      "contenu": [
+        "Lorsqu'un agent envisage de créer ou de reprendre une entreprise, l'administration peut demander l'avis du référent déontologue si elle a un doute sérieux sur la compatibilité de l'activité envisagée avec les fonctions exercées au cours des 3 années précédentes.",
+        "Il en est de même lorsqu'un agent envisage d'aller travailler dans le secteur privé lors d'une cessation temporaire ou définitive de fonctions.",
+        "Un agent public peut signaler au référent déontologue une situation de conflits d'intérêt. Le référent déontologue peut alors apporter aux personnes concernées les conseils pour faire cesser ce conflit."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général de la fonction publique : article L124-2",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044420801/"
+    },
+    {
+      "titre": "Code général de la fonction publique : articles R124-2 à R124-12",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000050546399"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "qu-est-ce-que-le-referent-deontologue-dans-la-fonction-publique",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "conditions-de-travail-dans-la-fonction-publique",
+      "titre": "Conditions de travail dans la fonction publique"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "F34742",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Comment suivre l'état d'avancement de la fabrication d'une carte grise ?",
+  "theme": "Transports - Mobilité",
+  "description": "Vous pouvez suivre l'état d'avancement de votre dossier sur le téléservice de l'Agence nationale des titres sécurisés (ANTS).",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2024-07-31",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34742",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Carte grise (certificat d'immatriculation)",
+    "Comment suivre l'état d'avancement de la fabrication d'une carte grise ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Vous pouvez suivre l'état d'avancement de votre dossier en utilisant le téléservice de l'Agence nationale des titres sécurisés (ANTS) :",
+        "Suivre la demande de certificat d’immatriculation",
+        "Connexion via France Connect, France Identité ou via votre compte ANTS",
+        "Si vous n'obtenez pas d'information via le téléservice, contactez l'ANTS avec son formulaire de contact sur internet.",
+        "France Titres - Carte grise particuliers",
+        "Par messagerie",
+        "Accès au formulaire en ligne",
+        "Attention :",
+        "• Il n'est pas possible d'accélérer la production d'une carte grise. Les demandes sont traitées chronologiquement par un système informatique. Une intervention extérieure est impossible.",
+        "• Une fois que la production du titre est lancée, on ne peut pas l'arrêter."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [
+    {
+      "titre": "Suivre la demande de certificat d’immatriculation",
+      "url": "https://moncompte.ants.gouv.fr/connexion",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "comment-suivre-l-etat-d-avancement-de-la-fabrication-d-une-carte-grise",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "carte-grise-certificat-d-immatriculation",
+      "titre": "Carte grise (certificat d'immatriculation)"
+    }
+  ]
+}

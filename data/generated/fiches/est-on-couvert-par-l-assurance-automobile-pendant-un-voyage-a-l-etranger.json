@@ -1,0 +1,151 @@
+{
+  "id": "F2694",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Est-on couvert par l'assurance automobile pendant un voyage à l'étranger ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Avant de partir à l'étranger (pour des vacances ou un déplacement professionnel), vérifiez auprès de votre assureur que votre véhicule est bien assuré",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2024-04-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2694",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Assurance automobile (véhicule)",
+    "Est-on couvert par l'assurance automobile pendant un voyage à l'étranger ?"
+  ],
+  "introduction": "Oui, votre assurance auto peut vous couvrir lors d'un déplacement à l'étranger. Mais, avant le départ, vous devez vérifier votre contrat ou interroger votre assureur pour savoir dans quels pays vous êtes couvert. La situation est différente pour un voyage en Europe et un voyage hors d'Europe. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Quelles vérifications faire avant de partir à l'étranger avec son propre véhicule ?",
+      "contenu": [
+        "Validité territoriale de l'assurance",
+        "L'assurance auto responsabilité civile souscrite en France couvre tous les pays de l'Union européenne.",
+        "Cette assurance couvre également les autres pays pour lesquels les bureaux nationaux de tous les pays de l'Union européenne se portent individuellement garants du règlement des sinistres survenus sur leur territoire.",
+        "Pour connaître la liste des pays non membres de l'Union européenne qui sont couverts par votre assurance véhicule, vous devez demander à votre assureur de vous délivrer une carte internationale d'assurance automobile.",
+        "Il y a sur ce document la liste des pays dans lesquels votre assurance auto vous couvre.",
+        "Si le nom d'un pays est rayé dans cette liste, cela signifie que votre assurance ne fonctionne pas dans ce pays.",
+        "Si vous souhaitez malgré tout vous rendre dans un pays où votre assurance ne fonctionne pas, vous devez souscrire localement une assurance spécifique.",
+        "Risques couverts à l'étranger",
+        "Les risques couverts à l'étranger dépendent des garanties que vous avez souscrites.",
+        "Si votre véhicule est garanti uniquement pour la responsabilité civile, vous ne serez couvert que pour les dommages que votre véhicule peut causer aux tiers.",
+        "Si vous avez souscrit des garanties supplémentaires (par exemple dans la formule \"tous risques\"), il est possible que leur application soit limitée en fonction du pays visité.",
+        "Il faut donc vérifier auprès de votre assureur les garanties qui s'appliquent et celles qui sont limitées dans votre pays de destination.",
+        "Vous devez particulièrement vérifier si, en cas de vol ou d'accident du véhicule, l'assurance prend en charge les frais suivants :",
+        "• Frais de remorquage du véhicule",
+        "• Frais de rapatriement des passagers, voire du véhicule",
+        "• Frais d’hébergement pendant la durée des réparations",
+        "• Paiement d'un chauffeur pour rapatrier le véhicule et ses occupants"
+      ]
+    },
+    {
+      "titre": "Quelles preuves d'assurance utiliser quand on voyage en Europe avec son propre véhicule ?",
+      "contenu": [
+        "Documents permettant de prouver que le véhicule est assuré",
+        "La situation varie suivant que le véhicule est immatriculé ou non.",
+        "Les véhicules immatriculés et soumis à l'obligation d'assurance sont les suivants :",
+        "• Voiture (voiture particulière, véhicule utilitaire, voiture sans-permis), tracteur et engin agricole",
+        "• Camion",
+        "• Engin à 2 ou 3 roues motorisé (moto, scooters) et quad, même non-homologué (mini-moto par exemple)",
+        "• Remorque attelée ou non attelée",
+        "Les véhicules non immatriculés mais soumis à l'obligation d'assurance sont les suivants :",
+        "• Cyclomobile léger : draisienne, vélo à assistance électrique dont la puissance dépasse 250w ou dont la vitesse dépasse 25 km/h etc..",
+        "• EDPM : trottinette électrique, monoroue, gyropode, hoverboard, etc...",
+        "• Tondeuse auto-portée, munie d'un siège qui permet au conducteur de les manœuvrer",
+        "Le véhicule est immatriculé",
+        "Si vous circulez dans un pays membre de l'Union européenne avec un véhicule immatriculé, vous pouvez prouver présenter comme preuve le document que l'assureur vous a remis au moment de la souscription, ou la carte internationale d'assurance.",
+        "Document d'assurance",
+        "L'assureur a l'obligation de vous remettre au moment de la souscription un document qui contient les éléments essentiels du contrat suivants :",
+        "• Nom et adresse de l'entreprise d'assurance",
+        "• Nom, prénoms et adresse du souscripteur du contrat",
+        "• Numéro de la police d'assurance",
+        "• Date de délivrance du document",
+        "• Date d'effectivité de la garantie",
+        "• Numéro d'immatriculation du véhicule",
+        "• Marque et le modèle du véhicule",
+        "• Si la garantie du contrat s'applique à la fois à un véhicule à moteur et à ses remorques ou semi-remorques, mention du type des remorques ou semi-remorques qui peuvent être utilisées avec le véhicule",
+        "• Si nécessaire, mention du fait que le véhicule est utilisé dans le cadre d'une activité de transport public particulier de personne à titre onéreux",
+        "Carte internationale d'assurance",
+        "La carte internationale d'assurance est le justificatif d'assurance adopté par les pays qui participent au système de la carte verte.",
+        "Le système de la carte verte est un accord signé par plusieurs pays qui reconnaissent tous les justificatifs d'assurance automobile délivrés par l'un d'entre eux.",
+        "Il s'agit d'un véhicule non immatriculé",
+        "Si vous circulez dans un pays membre de l'Union européenne avec un véhicule non immatriculé soumis à l'obligation d'assurance, vous pouvez présenter comme preuve l'attestation d'assurance ou la carte internationale d'assurance.",
+        "Attestation d'assurance",
+        "L'attestation d'assurance est un justificatif que l'assureur doit vous délivrer dans les 15 jours suivant la souscription ou le renouvellement du contrat, et qui mentionne les éléments suivants :",
+        "• Nom et adresse de l'entreprise d'assurance",
+        "• Nom, prénoms et adresse du souscripteur du contrat",
+        "• Numéro de la police d'assurance",
+        "• Période d'assurance correspondant à la prime ou portion de prime payée",
+        "• Caractéristiques du véhicule, notamment son numéro de châssis ou de série",
+        "[À savoir] si l'assureur ne peut pas vous délivrer l'attestation immédiatement lors de la souscription, il doit vous délivrer une attestation provisoire.",
+        "Carte internationale d'assurance",
+        "La carte internationale d'assurance est le justificatif d'assurance adopté par les pays qui participent au système de la carte verte.",
+        "Le système de la carte verte est un accord signé par plusieurs pays qui reconnaissent les justificatifs d'assurance automobile délivrés par l'un d'entre eux.",
+        "Documents à prévoir en cas d'accident",
+        "En cas d'accident, vous devez produire un justificatif d'assurance.",
+        "Pour faciliter la déclaration du sinistre, vous pouvez utiliser le constat européen d'accident, qui est valable dans les pays de l'Union européenne.",
+        "Vous pouvez en obtenir un ou plusieurs exemplaires auprès de votre assureur avant le voyage.",
+        "[Attention] Le e-constat, qui permet de remplir un constat sous forme numérique avec son smartphone, ne fonctionne pas en cas d'accident à l'étranger.",
+        "Le constat à l'amiable doit être complété en cas d'accident de façon la plus complète.",
+        "Chaque conducteur impliqué dans l'accident doit disposer d'un exemplaire rempli.",
+        "Ce constat étant standardisé au niveau européen, il peut être facilement complété quelle que soit la langue dans laquelle il est écrit.",
+        "[À noter] Vous pouvez remplir le constat avec les informations concernant l'assuré et la voiture, dès que l'assureur vous le remet, ou tout au moins avant votre voyage."
+      ]
+    },
+    {
+      "titre": "Quelles preuves d'assurance utiliser quand on voyage en dehors de l'Europe avec son propre véhicule ?",
+      "contenu": [
+        "Documents permettant de justifier que le véhicule est assuré",
+        "La situation varie suivant que le pays de destination participe ou non au système de la carte verte ou carte internationale d'assurance automobile.",
+        "Le système de la carte verte est un accord signé par plusieurs pays en matière d'assurance automobile, pour faciliter la circulation internationale.",
+        "Le pays de destination participe au système de la carte verte",
+        "Vous pouvez présenter la carte internationale d'assurance automobile comme preuve d'assurance.",
+        "Le pays de destination ne participe pas au système de la carte verte",
+        "Vous devez présenter un document qui prouve que vous avez souscrit une assurance qui vous permet de circuler dans le pays. Par exemple, un contrat d'assurance auto frontière ou un contrat d'assurance avec une compagnie locale.",
+        "Documents à prévoir en cas d'accident",
+        "En cas d'accident, vous devez produire un justificatif d'assurance.",
+        "Pour faciliter la déclaration du sinistre, vous pouvez utiliser le constat européen d'accident, mais le document n'aura pas la même valeur qu'en France ou dans l'Union européenne, où il est reconnu par les compagnies d'assurance.",
+        "Vous pouvez en obtenir un ou plusieurs exemplaires auprès de votre assureur avant le voyage.",
+        "[Attention] Le e-constat, qui permet de remplir un constat sous forme numérique avec son smartphone, ne fonctionne pas en cas d'accident à l'étranger."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code des assurances : articles R211-14-0 à R211-21-6",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073984/LEGISCTA000006175432/2024-04-01/#LEGISCTA000006175432"
+    },
+    {
+      "titre": "Code des assurances : articles R*211-22 à R211-27",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073984/LEGISCTA000006175444/#LEGISCTA000006175444"
+    },
+    {
+      "titre": "Directive 2000/26/CE du 16 mai 2000 concernant le rapprochement des législations européennes relatives à l'assurance responsabilité civile des véhicules automoteurs",
+      "url": "http://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32000L0026"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Info Banque - Assurance"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Pays de l'Union européenne",
+      "url": "https://european-union.europa.eu/principles-countries-history/eu-countries_fr"
+    },
+    {
+      "titre": "Accident automobile en Europe : comment réagir ?",
+      "url": "http://www.europe-consommateurs.eu/fr/publications/brochures/?download=Accident_en_Europe_-FINAL_web_01.pdf&did=156"
+    }
+  ],
+  "slug": "est-on-couvert-par-l-assurance-automobile-pendant-un-voyage-a-l-etranger",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "assurance-automobile-vehicule",
+      "titre": "Assurance automobile (véhicule)"
+    }
+  ]
+}

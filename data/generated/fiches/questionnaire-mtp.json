@@ -1,0 +1,33 @@
+{
+  "id": "F36489",
+  "type_publication": "Recherche guidée",
+  "titre": "[Questionnaire - MTP]",
+  "theme": "Social - Santé",
+  "description": "[Questionnaire - MTP]",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2022-07-12",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F36489",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Invalidité du salarié dans le secteur privé",
+    "[Questionnaire - MTP]"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "questionnaire-mtp",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "invalidite-du-salarie-dans-le-secteur-prive",
+      "titre": "Invalidité du salarié dans le secteur privé"
+    }
+  ]
+}

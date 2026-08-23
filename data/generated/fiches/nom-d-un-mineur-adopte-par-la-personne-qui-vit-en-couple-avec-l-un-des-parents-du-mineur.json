@@ -1,0 +1,67 @@
+{
+  "id": "F38505",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Nom d'un mineur adopté par la personne qui vit en couple avec l'un des parents du mineur",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Le nom d'un mineur adopté par la personne qui vit en couple avec l'un des parents du mineur est différent entre une adoption simple et plénière.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-01-15",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F38505",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Nom et prénom",
+    "Nom d'un mineur adopté par la personne qui vit en couple avec l'un des parents du mineur"
+  ],
+  "introduction": "Vous adoptez l'enfant de votre époux, partenaire de Pacs ou concubin, et souhaitez savoir si cet enfant peut porter votre nom ? Les possibilités de choix du nom de famille sont différentes entre une adoption simple et plénière. Nous vous présentons les informations à connaître sur le nom d'un mineur adopté par la personne qui vit en couple avec l'un des parents du mineur.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "[À noter] Une page spécifique présente la procédure d'adoption.",
+        "L'adoption crée un lien de filiation entre l'adoptant et l'adopté. L'adoption peut être simple ou plénière.",
+        "Dans le cas de l'adoption simple, les liens avec la famille d'origine sont maintenus.",
+        "Dans le cas de l'adoption plénière, il y a une rupture totale des liens de l'adopté avec sa famille d'origine."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : articles 370-1 à 370-1-2",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000046369926/"
+    },
+    {
+      "titre": "Code civil : articles 370-1-3 à 370-1-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000046369928/"
+    },
+    {
+      "titre": "Code civil : articles 370-1-6 à 370-1-8",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000046369934/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Requête en adoption simple de l'enfant mineur du conjoint, partenaire ou concubin",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_15741_06.do",
+      "type": "formulaireNG"
+    },
+    {
+      "titre": "Requête en adoption plénière de l'enfant mineur du conjoint, partenaire ou concubin",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_15743.do",
+      "type": "formulaireNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "nom-d-un-mineur-adopte-par-la-personne-qui-vit-en-couple-avec-l-un-des-parents-du-mineur",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "nom-et-prenom",
+      "titre": "Nom et prénom"
+    }
+  ]
+}

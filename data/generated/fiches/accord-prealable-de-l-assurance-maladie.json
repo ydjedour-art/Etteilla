@@ -1,0 +1,163 @@
+{
+  "id": "F168",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Accord préalable de l'Assurance maladie",
+  "theme": "Social - Santé",
+  "description": "L'accord préalable est l'accord donné, avant l'exécution de l'acte ou traitement, par l'Assurance maladie pour sa prise en charge.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-12-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F168",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Remboursement des soins par la Sécurité sociale",
+    "Accord préalable de l'Assurance maladie"
+  ],
+  "introduction": "Qu'est-ce que l'accord préalable de l'Assurance maladie ? C'est l'accord donné, avant l'exécution de l'acte ou traitement, par l'Assurance maladie pour sa prise en charge. Ce sont souvent des actes coûteux, rares ou qui durent longtemps. Le professionnel de santé doit d'abord remplir une demande pour certains actes. Ensuite, vous complétez et envoyez le formulaire à votre caisse de Sécurité sociale. Elle répond par courrier uniquement en cas de refus. Nous vous exposons la règlementation.",
+  "chapitres": [
+    {
+      "titre": "Quels sont les actes concernés par l'accord préalable de l'Assurance maladie ?",
+      "contenu": [
+        "Les actes concernés par l'accord préalable de l'Assurance maladie sont notamment les suivants :",
+        "• Traitements d'orthopédie dento-faciale (ODF)",
+        "• Certaines pathologies inhabituelles",
+        "• Certains médicaments contre le cholestérol",
+        "• Certains appareillages médicaux",
+        "• Certains examens et analyses de laboratoire",
+        "• Certains transports. Exemples : transports de longue distance (plus de 150 km), les transports en série, les transports en avion ou en bateau de ligne régulière, les transports liés aux soins ou traitements des enfants et adolescents dans les centres d'action médico-sociale précoce (CAMSP) et les centres médico-psycho-pédagogiques (CMPP)."
+      ]
+    },
+    {
+      "titre": "Comment adresser la demande préalable à l'Assurance maladie ?",
+      "contenu": [
+        "En principe, c'est vous qui envoyez à l'Assurance maladie la demande d'accord préalable. Cependant, dans certains, c'est au professionnel de santé de le faire.",
+        "Cas général",
+        "En pratique, c’est le professionnel de santé consulté qui vous informe de la nécessité de formuler une demande d'accord préalable (encore appelée parfois demande d'entente préalable).",
+        "Il remplit un formulaire spécifique en fonction des soins prescrits et vous le remet.",
+        "Vous devez le compléter, puis l'envoyer au service médical :",
+        "• De votre CPAM si vous dépendez du régime général",
+        "• De votre MSA si vous dépendez du régime agricole.",
+        "Caisse primaire d'assurance maladie (CPAM)",
+        "Mutualité sociale agricole (MSA)",
+        "Vous devez obligatoirement joindre la prescription médicale ou sa copie pour les actes ou traitements réalisés par un :",
+        "• Auxiliaire médical (masseur-kinésithérapeute, orthophoniste, orthoptiste)",
+        "• Transporteur sanitaire",
+        "• Prestataire d'analyses ou d'examens de laboratoire",
+        "• Prestataire d'appareillage médicaux.",
+        "Médicaments contre le cholestérol",
+        "Pour certains médicaments contre le cholestérol, c'est votre médecin qui effectue la demande d'accord préalable auprès du service médical de votre caisse d'Assurance maladie.",
+        "Actes de masso-kinésithérapie",
+        "Dans certaines situations (exemples : rééducation de l'épaule, du coude, du poignet, de la hanche, du genou, de la cheville), la prolongation des séances implique une demande préalable auprès de l'Assurance maladie.",
+        "C'est le masseur-kinésithérapeute qui procède à cette démarche.",
+        "En cas d'urgence",
+        "Le médecin ou le professionnel de santé dispense l'acte.",
+        "Il doit toutefois établir une demande d'accord préalable en y indiquant la mention « Acte d'urgence »."
+      ]
+    },
+    {
+      "titre": "Quel est le délai de réponse de l'Assurance maladie ?",
+      "contenu": [
+        "L'absence de réponse de votre CPAM ou votre MSA dans le délai de 15 jours à partir de la réception de la demande vaut accord.",
+        "Ce délai peut être porté à une durée maximale de 21 jours lorsque la prestation concernée justifie un délai supérieur (exemple : complexité de l'analyse de la demande d'accord).",
+        "[À savoir] Depuis le 1er décembre 2025, les fauteuils roulants sont pris en charge intégralement. Des ajouts ou des options spécifiques peuvent être pris en charge sur devis, en envoyant une demande d'accord préalable à l'Assurance Maladie. Cette dernière dispose de 2 mois pour vous répondre une fois reçue la demande complète.",
+        "En cas de refus de prise en charge, vous recevez une réponse écrite.",
+        "Dans ce cas, l'Assurance maladie vous indique les voies et délai de recours dont vous disposez pour contester la décision."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la sécurité sociale : articles L162-1 à L162-58",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000006156028/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles L315-1 à L315-4",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000006156082/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles D315-1 à D315-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000006155819/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles R322-10 à R322-10-9",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000006186455/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demande d'accord préalable (Assurance maladie, maternité, accident du travail, maladie professionnelle)",
+      "url": "https://www.ameli.fr/sites/default/files/formulaires/150/s3108.cnam_homol_avril_2018_spec_non_remp_sec.pdf",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Demande d'accord préalable - Examens de biologie médicale",
+      "url": "https://www.ameli.fr/sites/default/files/formualires/151/s3132.pdf",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Traitement d'orthopédie dento-faciale - Demande d'entente préalable chirurgien-dentiste",
+      "url": "https://www.ameli.fr/sites/default/files/formualires/226/s3150.pdf",
+      "type": "formulaireNG"
+    },
+    {
+      "titre": "Traitements d'orthopédie dento-maxillo-faciale - Demande d'entente préalable - Médecin",
+      "url": "https://www.ameli.fr/sites/default/files/formualires/227/s3155.pdf",
+      "type": "formulaireNG"
+    },
+    {
+      "titre": "Traitements bucco-dentaires - Demande d'entente préalable - Médecin (remplissage informatique)",
+      "url": "https://www.ameli.fr/sites/default/files/formualires/224/s3157.pdf",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Traitements bucco-dentaires - Demande d'entente préalable chirurgien dentiste (remplissage informatique)",
+      "url": "https://www.ameli.fr/sites/default/files/formualires/223/s3151.pdf",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Demande d'accord préalable pour grand appareillage",
+      "url": "https://www.ameli.fr/sites/default/files/formualires/154/s3604.pdf",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Prescription médicale pour grand appareillage",
+      "url": "https://www.ameli.fr/sites/default/files/formualires/209/s3135.pdf",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Demande d'accord préalable de transport - prescription médicale de transport",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_11575.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Demande d'entente préalable pour un traitement d'assistance respiratoire de longue durée à domicile",
+      "url": "https://www.ameli.fr/sites/default/files/formulaires/165/629.cnam_non_remp_sec_spec.pdf",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Caisse primaire d'assurance maladie (CPAM)",
+    "Mutualité sociale agricole (MSA)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "L'accord préalable",
+      "url": "https://www.ameli.fr/assure/remboursements/etre-bien-rembourse/accord-prealable"
+    },
+    {
+      "titre": "Nomenclature générale des actes professionnels",
+      "url": "https://www.ameli.fr/medecin/exercice-liberal/facturation-remuneration/nomenclatures-codage/ngap"
+    }
+  ],
+  "slug": "accord-prealable-de-l-assurance-maladie",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "remboursement-des-soins-par-la-securite-sociale",
+      "titre": "Remboursement des soins par la Sécurité sociale"
+    }
+  ]
+}

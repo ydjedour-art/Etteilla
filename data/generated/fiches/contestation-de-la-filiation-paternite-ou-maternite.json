@@ -1,0 +1,68 @@
+{
+  "id": "F940",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Contestation de la filiation (paternité ou maternité)",
+  "theme": "Famille - Scolarité",
+  "description": "La filiation paternelle ou maternelle d'un enfant peut être contestée devant le juge uniquement par certaines personnes et dans certains délais.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-03-25",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F940",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Naissance et filiation",
+    "Contestation de la filiation (paternité ou maternité)"
+  ],
+  "introduction": "Vous souhaitez contester le lien de filiation entre un enfant et un parent (marié ou non marié) ? La filiation paternelle ou maternelle d'un enfant peut être contestée devant le juge uniquement par certaines personnes et dans certains délais. Les règles varient selon que la filiation est établie par l'acte de naissance de l'enfant ou par un acte de notoriété. Nous vous indiquons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "La contestation est possible dans les cas suivants :",
+        "• Filiation par le sang, établie par l'acte de naissance de l'enfant",
+        "• Filiation établie par un acte de notoriété rédigé par un notaire.",
+        "La contestation est impossible dans les cas suivants :",
+        "• Filiation adoptive",
+        "• Filiation à la suite d'une AMP."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : article 61-3",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006421039/"
+    },
+    {
+      "titre": "Code civil : articles 332 à 337",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006150526/"
+    },
+    {
+      "titre": "Code civil : articles 388 à 388-2",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136228/#LEGISCTA000031345343"
+    },
+    {
+      "titre": "Code civil : articles 311-19 et 311-20",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006150522"
+    },
+    {
+      "titre": "Circulaire du 28 octobre 2011 portant sur divers actes de l'état civil relatifs à la naissance et à la filiation",
+      "url": "https://www.legifrance.gouv.fr/circulaire/id/34124"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Maison de justice et du droit"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "contestation-de-la-filiation-paternite-ou-maternite",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "naissance-et-filiation",
+      "titre": "Naissance et filiation"
+    }
+  ]
+}

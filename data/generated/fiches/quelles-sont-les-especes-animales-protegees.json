@@ -1,0 +1,168 @@
+{
+  "id": "F34977",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quelles sont les espèces animales protégées ?",
+  "theme": "Loisirs - Sports - Culture",
+  "description": "Une espèce animale protégée est une espèce non domestique qui fait l'objet de mesures de conservation.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-04-28",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34977",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Loisirs - Sports - Culture",
+    "Animal de compagnie",
+    "Quelles sont les espèces animales protégées ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Une espèce animale protégée est une espèce non domestique (communément appelée espèce sauvage) qui fait l'objet de mesures de conservation.",
+        "Un animal non domestique est un animal appartenant à une espèce qui n'a pas subi de modification par sélection de la part de l'homme.",
+        "Les espèces domestiques sont limitativement listées dans un arrêté ministériel.",
+        "Toute espèce ne figurant pas dans cette liste est une espèce non domestique.",
+        "En France, les espèces protégées sont listées par arrêtés ministériels.",
+        "Les actions suivantes sont interdites :",
+        "• Détruire ou enlever les œufs ou les nids des animaux de ces espèces non domestiques protégées",
+        "• Mutiler ces animaux, les tuer ou les capturer",
+        "• Perturber intentionnellement ces animaux dans leur milieu naturel",
+        "• Les naturaliser",
+        "• Transporter, colporter, utiliser, détenir des animaux de ces espèces vivants ou morts",
+        "• Mettre en vente, vendre ou acheter des animaux appartenant à une espèce non domestique protégée.",
+        "Il est également interdit de détruire, de modifier ou de dégrader les habitats naturels de ces espèces.",
+        "Le fait de ne pas respecter ces mesures de protection, de manière intentionnelle ou par négligence grave, est puni de 3 ans d'emprisonnement et de 150 000 € d'amende.",
+        "Au niveau international, la protection des espèces sauvages est organisée par la Convention sur le commerce international des espèces de faune et de flore sauvages menacées d'extinction (Cites).",
+        "Cette convention, également appelée Convention de Washington, organise la protection des espèces de faune (et de flore) sauvages par le contrôle de leur commerce et réglemente le commerce international des spécimens des espèces inscrites à ses annexes.",
+        "Les espèces couvertes par la Cites sont inscrites à l'une de ses 3 annexes eelon le degré de protection dont elles ont besoin :",
+        "• L'annexe I comprend toutes les espèces menacées d'extinction. La CITES interdit en règle générale le commerce international de leurs spécimens sauf dérogations particulières, portant notamment sur les transactions non commerciales (importations à des fins scientifiques, éducatives).",
+        "• L'annexe II comprend toutes les espèces qui ne sont pas nécessairement menacées d'extinction, mais dont le commerce des spécimens est réglementé pour éviter une exploitation incompatible avec leur survie.",
+        "• L'annexe III comprend toutes les espèces protégées dans un pays qui a demandé aux autres pays ayant rejoint la convention leur assistance pour en contrôler le commerce.",
+        "Au niveau européen, la convention Cites est mise en œuvre au travers d'un règlement du Conseil de l'Union européenne.",
+        "La convention Cites s'applique en France.",
+        "Ainsi, le commerce d'animaux vivants ou morts inscrits aux différentes annexes de la Convention est réglementé. Il en est de même du commerce de produits issus de ces animaux (peaux, plumes, dents,...) et de marchandises issus ou contenant des produits de ces animaux (cuirs, produits cosmétiques,...)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'environnement : articles L411-1 à L411-3",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033035415"
+    },
+    {
+      "titre": "Code de l'environnement : article L415-3",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047088101"
+    },
+    {
+      "titre": "Arrêté du 24 avril 1979 fixant la liste des escargots dont le ramassage et la cession à titre gratuit ou onéreux peuvent être interdits ou autorisés",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006074396"
+    },
+    {
+      "titre": "Arrêté ministériel du 21 juillet 1983 relatif à la protection des écrevisses autochtones",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000471000"
+    },
+    {
+      "titre": "Arrêté du 8 décembre 1988 fixant la liste des espèces de poissons protégées sur l'ensemble du territoire national",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000327373"
+    },
+    {
+      "titre": "Arrêté du 20 décembre 2004 fixant la liste des animaux de la faune marine protégés sur l'ensemble du territoire",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000440697"
+    },
+    {
+      "titre": "Arrêté du 23 avril 2007 fixant la liste des mammifères terrestres protégés sur l'ensemble du territoire et les modalités de leur protection",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000649682"
+    },
+    {
+      "titre": "Arrêté du 23 avril 2007 fixant les listes des insectes protégés sur l'ensemble du territoire et les modalités de leur protection",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000465500"
+    },
+    {
+      "titre": "Arrêté du 23 avril 2007 fixant les listes des mollusques protégés sur l'ensemble du territoire et les modalités de leur protection",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000645048"
+    },
+    {
+      "titre": "Arrêté du 29 avril 2008 relatif à la protection et à la commercialisation de certaines espèces de mammifères sur le territoire national",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000018783580"
+    },
+    {
+      "titre": "Arrêté du 29 octobre 2009 fixant la liste des oiseaux protégés sur l'ensemble du territoire et les modalités de leur protection",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000021384277"
+    },
+    {
+      "titre": "Arrêté du 1er juillet 2011 fixant la liste des mammifères marins protégés sur le territoire national et les modalités de leur protection",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000024396902"
+    },
+    {
+      "titre": "Arrêté du 8 janvier 2021 fixant la liste des amphibiens et des reptiles représentés sur le territoire métropolitain protégés sur l'ensemble du territoire national et les modalités de leur protection",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043113964"
+    },
+    {
+      "titre": "Arrêté du 10 novembre 2022 fixant la liste des tortues marines protégées sur le territoire national et les modalités de leur protection",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000046683396"
+    },
+    {
+      "titre": "Arrêté du 7 mars 2025 fixant la liste des oiseaux représentés dans le département de la Guadeloupe protégés sur l'ensemble du territoire national et les modalités de leur protection",
+      "url": "https://www.legifrance.gouv.fr/Ioda/id/JORFTEXT000051330783"
+    },
+    {
+      "titre": "Arrêté du 7 mars 2025 fixant la liste des oiseaux représentés dans la collectivité de Saint-Martin sur l'ensemble du territoire national et les modalités de leur protection",
+      "url": "https://www.legifrance.gouv.fr/Ioda/id/JORFTEXT000051330807"
+    },
+    {
+      "titre": "Arrêté du 7 mars 2025 fixant la liste des oiseaux représentés dans la collectivité de Saint-Pierre-et-Miquelon protégés sur l'ensemble du territoire national et les modalités de leur protection",
+      "url": "https://www.legifrance.gouv.fr/Ioda/id/JORFTEXT000051330824"
+    },
+    {
+      "titre": "Arrêté du 7 mars 2025 fixant la liste des mammifères représentés dans la collectivité de Saint-Pierre-et-Miquelon protégés sur l'ensemble du territoire national et les modalités de leur protection",
+      "url": "https://www.legifrance.gouv.fr/Ioda/id/JORFTEXT000051330847"
+    },
+    {
+      "titre": "Arrêté du 8 juillet 2025 fixant la liste des invertébrés de la faune marine protégés sur l'ensemble du territoire national et les modalités de leur protection",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000051862641"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Espèces, races et variétés d'animaux domestiques",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000789087#JORFARTI000002254536"
+    },
+    {
+      "titre": "Convention de Washington CITES : site officiel",
+      "url": "https://cites.org/fra"
+    },
+    {
+      "titre": "Annexes de la Convention Cites",
+      "url": "https://cites.org/fra/app/appendices.php"
+    },
+    {
+      "titre": "Garantir un commerce protecteur de la faune et de la flore sauvages",
+      "url": "https://eur-lex.europa.eu/FR/legal-content/summary/ensuring-trade-in-wild-fauna-and-flora-does-not-threaten-their-survival.html"
+    },
+    {
+      "titre": "Espèces de la faune et de la flore sauvages menacées d'extinction",
+      "url": "https://www.douane.gouv.fr/fiche/especes-de-la-faune-et-de-la-flore-sauvages-menacees-dextinction"
+    },
+    {
+      "titre": "La douane et la protection des espèces menacées d’extinction",
+      "url": "https://www.douane.gouv.fr/sites/default/files/uploads/files/Documentations-Brochures/Particuliers/protection-des-especes-sauvages-menacees-d-extinction.pdf"
+    },
+    {
+      "titre": "Les espèces",
+      "url": "https://ofb.gouv.fr/les-especes"
+    }
+  ],
+  "slug": "quelles-sont-les-especes-animales-protegees",
+  "path": [
+    {
+      "slug": "loisirs-sports-culture",
+      "titre": "Loisirs - Sports - Culture"
+    },
+    {
+      "slug": "animal-de-compagnie",
+      "titre": "Animal de compagnie"
+    }
+  ]
+}

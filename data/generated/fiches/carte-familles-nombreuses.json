@@ -1,0 +1,55 @@
+{
+  "id": "F15292",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Carte familles nombreuses",
+  "theme": "Transports - Mobilité",
+  "description": "La carte familles nombreuses permet d'obtenir des réductions sur les voyages en train et auprès de certaines enseignes partenaires de la carte.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-04-29",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F15292",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Cartes de transport",
+    "Carte familles nombreuses"
+  ],
+  "introduction": "Vous avez au minimum 3 enfants dont au moins 1 mineur (ou vous avez élevé 5 enfants ou plus et ils ne sont plus à votre charge) ? Vous pouvez bénéficier, sous conditions, de la carte familles nombreuses. Elle permet d'obtenir des réductions sur les voyages en train. Elle permet aussi d'obtenir des réductions auprès de certaines enseignes partenaires de la carte. Nous vous expliquons les conditions et la démarche pour bénéficier de la carte.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Décret n°80-956 du 1 décembre 1980 relatif aux réductions accordées aux familles nombreuses sur les tarifs de la SNCF",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006063361/"
+    },
+    {
+      "titre": "Réponse ministérielle du 31 juillet 1986 relative à l'extension dans le temps du bénéfice des réductions de la carte familles nombreuses",
+      "url": "https://www.senat.fr/questions/base/1986/qSEQ860601500.html"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Centre de contact Carte familles nombreuses",
+    "SNCF",
+    "Imprimerie Nationale"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Site de la carte familles nombreuses",
+      "url": "https://www.carte-familles-nombreuses.gouv.fr/home"
+    },
+    {
+      "titre": "Liste des partenaires et avantages de la carte familles nombreuses",
+      "url": "https://www.reductions-carte-familles-nombreuses.fr/"
+    }
+  ],
+  "slug": "carte-familles-nombreuses",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "cartes-de-transport",
+      "titre": "Cartes de transport"
+    }
+  ]
+}

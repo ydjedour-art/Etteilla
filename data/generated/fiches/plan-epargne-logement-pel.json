@@ -1,0 +1,103 @@
+{
+  "id": "F16140",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Plan épargne logement (PEL)",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Le PEL est un produit d’épargne réglementé permettant de bénéficier, sous certaines conditions, d'un prêt épargne logement.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-05-27",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F16140",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Livrets, plans et comptes d'épargne",
+    "Plan épargne logement (PEL)"
+  ],
+  "introduction": "Vous souhaitez épargner pour acheter un bien immobilier d'habitation ? Le plan d'épargne logement (PEL) peut vous intéresser. Le PEL a pour objet l'octroi de prêts aux personnes qui ont épargné pendant au moins 4 ans et qui affectent leur épargne au financement de dépenses principalement liées à l'habitation principale. Les règles applicables au PEL varient en fonction de la date d'ouverture : à partir de 2018 ou avant 2018. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les PEL souscrits à partir du 1ermars 2011 ont une durée limitée à 15 ans. Les premiers PEL d’une durée de 15 ans arriveront à échéance à partir du 1er mars 2026.",
+        "Seuls les PEL souscrits avant le 1er mars 2011 peuvent être maintenus pendant une durée illimitée."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Avis relatif au taux de rémunération des plans d'épargne-logement",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053095350"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : articles L315-1 à L315-6",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000006176368/"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : articles R315-25 à R315-33",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006189235"
+    },
+    {
+      "titre": "Code général des impôts : articles 156 à 163 quinvicies",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000006191588/"
+    },
+    {
+      "titre": "Code monétaire et financier : article L312-1-4-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051588993"
+    },
+    {
+      "titre": "Code monétaire et financier : article D312-1-3",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052097695"
+    },
+    {
+      "titre": "Arrêté du 27 juillet 2016 relatif au plan d'épargne-logement",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000032944919"
+    },
+    {
+      "titre": "Arrêté du 10 février 2016 relatif à la prorogation des plans d'épargne-logement",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000032074630/"
+    },
+    {
+      "titre": "Arrêté du 29 janvier 2015 relatif au plan d'épargne logement",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000030160593/"
+    },
+    {
+      "titre": "Arrêté du 25 février 2011 relatif à la prime d'épargne-logement du PEL et à sa majoration",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000023631212/"
+    },
+    {
+      "titre": "Arrêté du 1er avril 1992 fixant les conditions des opérations d'épargne-logement pour les plans et comptes d'épargne-logement",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000874060"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Ciclade (recherche des sommes oubliées provenant des comptes inactifs)",
+      "url": "https://ciclade.caissedesdepots.fr/",
+      "type": "outilRechercheNG"
+    }
+  ],
+  "contacts": [
+    "Info Banque - Assurance"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Plan d'épargne logement (PEL)",
+      "url": "https://www.abe-infoservice.fr/epargne/epargne-bancaire/plan-depargne-logement-pel"
+    },
+    {
+      "titre": "Épargne Logement (PEL et CEL)",
+      "url": "https://www.lafinancepourtous.com/pratique/placements/epargne-logement/"
+    }
+  ],
+  "slug": "plan-epargne-logement-pel",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "livrets-plans-et-comptes-d-epargne",
+      "titre": "Livrets, plans et comptes d'épargne"
+    }
+  ]
+}

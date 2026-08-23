@@ -1,0 +1,45 @@
+{
+  "id": "F1381",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Demander la révision d'une décision de justice (pénale ou civile)",
+  "theme": "Justice",
+  "description": "La procédure de révision est possible après une décision définitive pénale ou civile et permet de demander un nouvel examen de l'affaire déjà jugée.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-05-02",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1381",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Contestation d'un jugement",
+    "Demander la révision d'une décision de justice (pénale ou civile)"
+  ],
+  "introduction": "La procédure de révision est possible après une décision définitive pénale ou civile. Elle permet de demander un nouvel examen de l'affaire déjà jugée, seulement dans des cas limités. C'est une voie de recours extraordinaire. Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de procédure pénale : articles 622 à 626-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000006138099/2014-10-01/#LEGISCTA0000291"
+    },
+    {
+      "titre": "Code de procédure civile : articles 593 à 603",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070716/LEGISCTA000006149680/#LEGISCTA000006149680"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Maison de justice et du droit",
+    "Avocat"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "demander-la-revision-d-une-decision-de-justice-penale-ou-civile",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "contestation-d-un-jugement",
+      "titre": "Contestation d'un jugement"
+    }
+  ]
+}

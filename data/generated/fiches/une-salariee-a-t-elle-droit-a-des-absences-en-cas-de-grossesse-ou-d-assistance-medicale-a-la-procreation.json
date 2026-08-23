@@ -1,0 +1,42 @@
+{
+  "id": "F2330",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Une salariée a-t-elle droit à des absences en cas de grossesse ou d’assistance médicale à la procréation ?",
+  "theme": "Travail - Formation",
+  "description": "Une salariée a le droit de s'absenter pour passer des examens médicaux en cas de grossesse ou d’assistance médicale à la procréation (AMP).",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-09-05",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2330",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Conditions de travail dans le secteur privé",
+    "Une salariée a-t-elle droit à des absences en cas de grossesse ou d’assistance médicale à la procréation ?"
+  ],
+  "introduction": "Pendant la grossesse, une salariée peut bénéficier d’autorisations d’absence pour se rendre à certains examens médicaux. Elle bénéficie également d’autorisations d’absence dans le cadre de l’assistance médicale à la procréation (AMP), anciennement appelée procréation médicalement assistée (PMA). Nous vous présentons les règles concernant ces différentes autorisations d’absence.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code du travail : article L1225-16",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051829294"
+    },
+    {
+      "titre": "Code de la santé publique : articles R2122-1 à R2122-3",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006190389"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "une-salariee-a-t-elle-droit-a-des-absences-en-cas-de-grossesse-ou-d-assistance-medicale-a-la-procreation",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "conditions-de-travail-dans-le-secteur-prive",
+      "titre": "Conditions de travail dans le secteur privé"
+    }
+  ]
+}

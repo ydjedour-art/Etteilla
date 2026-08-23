@@ -1,0 +1,245 @@
+{
+  "id": "F34800",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Hameçonnage (phishing ou vishing)",
+  "theme": "Justice",
+  "description": "Quelle que soit la forme qu'il prend, le hameçonnage (phishing ou vishing) est un délit.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-10",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34800",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Arnaques sur internet (THESEE, Pharos ...)",
+    "Hameçonnage (phishing ou vishing)"
+  ],
+  "introduction": "Vous avez reçu un message (courriel/SMS) ou un appel suspect de la part de votre banque ou d'une administration (par exemple, la caisse d'Assurance maladie) ? Il peut s'agir d'un acte de hameçonnage (phishing ou vishing). Quelles que soient les intentions de l'auteur, le hameçonnage est considéré comme un délit. Si vous êtes témoin ou victime de tels agissements, vous pouvez faire un signalement. En tant que victime, vous pouvez déposer plainte. Nous vous présentons les étapes à suivre.",
+  "chapitres": [
+    {
+      "titre": "Savoir reconnaître un acte de hameçonnage",
+      "contenu": [
+        "Le hameçonnage consiste, pour un ou plusieurs individus malveillants, à se faire passer pour un site familier (exemple : grand site de vente en ligne), pour un organisme officiel (exemple : banque, impôts, Caf, Ameli) ou pour l'un de vos contacts dont le compte a été piraté.",
+        "Son objectif est de vous dérober certaines de vos données personnelles et/ou vos coordonnées bancaires pour en faire un usage frauduleux (exemple : escroquerie, usurpation d'identité).",
+        "L'individu peut utiliser plusieurs techniques de hameçonnage telles que :",
+        "• Des courriels, des SMS alarmistes (qui contiennent généralement un lien cliquable) ou des spams. On parle alors de phishing.",
+        "• Des appels téléphoniques. Il s'agit donc de vishing.",
+        "Les procédés les plus courants pour obtenir vos informations personnelles et/ou bancaires sont les suivants :",
+        "• Fausse annonce de remboursement",
+        "• Demande urgente de règlement d'un impayé (dette aux impôts, paiement d'une contravention, etc.)",
+        "• Renforcement de la sécurité d'un compte (par exemple, un compte bancaire ou de plateforme de paiement)",
+        "• Problème d'acheminement d'un colis",
+        "• Tirage au sort dans le but de gagner une somme d'argent.",
+        "Dans la plupart des cas, l'auteur du hameçonnage a l'intention de collecter et d'utiliser vos données personnelles et/ou bancaires (en débitant votre compte ou en effectuant des achats sur internet)."
+      ]
+    },
+    {
+      "titre": "Réagir face à un acte de hameçonnage",
+      "contenu": [
+        "Détecter une tentative ou un acte de hameçonnage",
+        "Plusieurs indices vous permettent de confirmer que vous êtes face à un message (courriel/SMS) ou à un appel malveillant :",
+        "• Votre antivirus (à jour) peut vous envoyer une notification en cas de réception d'un message de phishing",
+        "• Vous êtes contacté par un service ou une société dont vous n'êtes pas client",
+        "• L'adresse mail ou le numéro de téléphone utilisé ne ressemble pas à ceux d'un service familier ou officiel",
+        "• L'orthographe, la grammaire et la signature utilisés par l'émetteur du message vous paraissent étranges.",
+        "Par ailleurs, votre fournisseur de navigateurs internet (exemple : Google Chrome, Safari) peut publier un message clair et lisible permettant de vous indiquer que vous allez atterrir sur un site frauduleux. Ce message renvoie vers un site officiel de l’État et apparaît pendant une durée maximale de 3 mois à compter de sa publication sur internet.",
+        "Si vous recevez un message ou un appel suspect, il est conseillé de prendre 3 mesures :",
+        "• Vous devez vous abstenir de communiquer vos informations personnelles par message, mail ou téléphone. En effet, les administrations et grandes plateformes en ligne ne demandent jamais de renseignements sensibles par message ou par téléphone.",
+        "• Si le message contient un lien, vous ne devez pas cliquer dessus. Depuis votre ordinateur, vous pouvez placer le curseur de votre souris sur ce lien. Dans ce cas, l'adresse vers laquelle vous risquez d'être renvoyée s'affichera entièrement. Vous pourrez comparer cette adresse internet (URL) avec celle du véritable site.",
+        "• Si vous avez reçu un message suspect sur votre ordinateur ou sur votre portable professionnel, vous devez le service informatique de l'entreprise/l'administration pour laquelle vous travaillez.",
+        "Collecter des preuves du hameçonnage",
+        "Si vous êtes victime d'un acte de hameçonnage (phishing ou vishing), vous devez conserver toutes les preuves de cet agissement.",
+        "Il peut notamment s'agir :",
+        "• Du message (courriel ou SMS) que vous avez reçu",
+        "• D'une capture d'écran du site de phishing",
+        "• Numéro de téléphone ayant servi au vishing",
+        "• De l'adresse internet (URL) du site de phishing.",
+        "Ces éléments sont essentiels si vous signalez l'acte de hameçonnage (phishing ou vishing) ou que vous déposez plainte contre son auteur."
+      ]
+    },
+    {
+      "titre": "Prévenir la banque de l'acte de hameçonnage",
+      "contenu": [
+        "De manière générale, l'auteur du hameçonnage a pour objet de vous tromper afin que vous lui divulguiez vos données personnelles et/ou bancaires.",
+        "S'il détient certaines de vos informations bancaires et que des débits ont eu lieu sur votre compte, vous devez contacter votre banque afin de faire opposition, de contester les opérations effectuées et d'obtenir un remboursement.",
+        "La façon de procéder dépend des informations communiquées à l'auteur des faits :",
+        "• Numéro de carte bancaire",
+        "• Numéro de compte grâce auquel l'individu peut faire des virements bancaires."
+      ]
+    },
+    {
+      "titre": "Signaler l’acte de hameçonnage aux autorités compétentes",
+      "contenu": [
+        "Si vous êtes victime ou témoin d'un acte de hameçonnage (phishing ou vishing), vous pouvez faire un signalement aux organismes compétents.",
+        "Les services de signalement ne sont pas les mêmes en fonction du service de communication utilisé par l'auteur de ce délit.",
+        "[À savoir] Tous ces services sont ouverts aux majeurs comme aux mineurs.",
+        "Par internet (mail, message sur un réseau social, etc.)",
+        "L’autorité compétente pour recevoir votre signalement dépend du contenu que vous souhaitez dénoncer : un courriel suspect (exemple : un spam) ou un site de phishing vers lequel vous renverrait un message frauduleux.",
+        "Courriel suspect (spam)",
+        "Si vous avez reçu un spam sur l'une de vos messageries électroniques (adresse mail, réseau social, etc.), vous pouvez faire un signalement :",
+        "Signal spam",
+        "Avoir une adresse mail",
+        "Pour faire votre signalement, vous devez d'abord créer un compte « Signal Spam » (en renseignant notamment une adresse mail) puis renseigner le code source du spam que vous avez reçu.",
+        "Votre signalement est transmis aux experts de « Signal Spam » chargés de lutter contre les courriels non sollicités et la cybercriminalité.",
+        "Vous n'êtes pas informé des suites données à votre signalement.",
+        "Néanmoins, si vous le souhaitez, les experts de « Signal Spam » peuvent transmettre votre signalement aux autorités compétentes (exemple : le procureur de la République ou la DGCCRF). Dans ce cas, le signalement reste anonyme.",
+        "[À savoir] Certains courriels de phishing peuvent être signalés sur la plateforme PHAROS. Cette plateforme peut uniquement être utilisée si vous êtes victime ou témoin d'une escroquerie à la livraison de colis ou d'une escroquerie à la loterie.",
+        "Site de phishing",
+        "Si vous avez reçu un lien cliquable et que vous suspectez qu'il peut vous conduire vers un site de phishing, vous pouvez faire un signalement sur la plateforme « Phishing Initiative » :",
+        "Signaler un site de phishing",
+        "Pour effectuer votre signalement, vous devez renseigner le lien (l'adresse internet) propre à vous conduire vers un site de phishing. Vous pouvez également expliquer la situation aux experts de cette plateforme.",
+        "À la suite de votre signalement, ces experts analysent le site concerné et peuvent le bloquer des navigateurs internet (exemple : Google Chrome, Safari, Yahoo).",
+        "Par SMS ou par appel téléphonique",
+        "Si vous êtes victime ou témoin d'un acte de hameçonnage par SMS ou par appel téléphonique, vous pouvez contacter la plateforme de lutte contre les SMS et appels indésirables au 33 700.",
+        "Vous avez également la possibilité de faire votre signalement grâce à un formulaire en ligne ou à l'aide d'une capture d'écran d'un QR code.",
+        "33 700 - Spam vocal ou par SMS",
+        "Lorsque vous faites un signalement au 33 700, celui-ci est transmis à l’opérateur de téléphonie mobile de l'émetteur du message/de l'appel et à votre opérateur mobile (si ce n’est pas le même). Ils peuvent alors mener diverses actions :",
+        "• Couper le numéro surtaxé auquel le SMS ou l'appel vous incitent à envoyer un message",
+        "• Couper le numéro de téléphone surtaxé que le SMS ou l'appel vous incitent à contacter",
+        "• Couper le numéro émetteur du SMS ou de l'appel.",
+        "[À noter] Vous pouvez uniquement signaler les faits de hameçonnage commis sur un téléphone mobile (exemple : smartphone)."
+      ]
+    },
+    {
+      "titre": "Déposer plainte contre l'auteur d'un hameçonnage",
+      "contenu": [
+        "Si vous êtes victime d'un acte de hameçonnage, vous pouvez déposer plainte contre l'auteur des faits. Si vous ne connaissez pas son identité, vous pouvez déposer plainte contre X.",
+        "Pour porter plainte, vous devez vous déplacer au commissariat de police ou à la brigade de gendarmerie de votre choix. Vous avez également la possibilité d'écrire au procureur de la République.",
+        "[À noter] Plusieurs infractions peuvent être retenues contre l'auteur du hameçonnage, notamment l’escroquerie ou l'usurpation d'identité.",
+        "Sur place",
+        "Pour déposer plainte, vous devez vous rendre dans un commissariat de police ou à la gendarmerie de votre choix.",
+        "Commissariat",
+        "Brigade de gendarmerie",
+        "Les services de police ou de gendarmerie sont obligés d'enregistrer votre plainte si vous êtes victime d'une infraction.",
+        "Lors du dépôt de plainte, vous êtes reçu et entendu par la police ou la gendarmerie. À la fin de cet entretien, vous recevez un récépissé et une copie de votre plainte si vous la demandez.",
+        "Le dépôt de plainte mène à une enquête de police qui peut aboutir à la condamnation de l'auteur du hameçonnage.",
+        "Si vous vous constituez partie civile, vous pouvez obtenir des dommages et intérêts.",
+        "[À noter] Si vous êtes mineur, vous pouvez porter plainte au commissariat de police ou à la brigade de gendarmerie de votre choix. Si vous souhaitez obtenir une indemnisation, vous devez obligatoirement être accompagné par vos représentants légaux (exemple : vos parents) qui se constitueront partie civile à votre place.",
+        "Par courrier postal",
+        "Vous pouvez porter plainte auprès du procureur de la République.",
+        "Pour cela, vous devez envoyer un courrier au tribunal judiciaire du lieu de l'infraction ou du domicile de l'auteur de l'infraction.",
+        "Tribunal judiciaire ou tribunal de proximité",
+        "Votre courrier doit préciser les éléments suivants :",
+        "• Informations d'état civil (vos noms, prénoms, etc.) et vos coordonnées complètes (adresse et numéro de téléphone)",
+        "• Récit détaillé des faits, date et lieu de l'infraction",
+        "• Nom de l'auteur supposé si vous le connaissez (sinon, la plainte sera déposée contre X)",
+        "• Nom et adresse des éventuels témoins de l'infraction",
+        "• Description et estimation provisoire ou définitive du préjudice",
+        "• Documents de preuve (exemple : factures diverses, capture d'écran d'un message)",
+        "• Éventuelle volonté de vous constituer partie civile.",
+        "Vous pouvez utiliser un modèle de courrier :",
+        "Porter plainte auprès du procureur de la République",
+        "Vous pouvez envoyer votre plainte par lettre recommandée avec accusé de réception, par lettre simple ou par lettre suivie.",
+        "Un récépissé vous est remis dès que les services du procureur de la République ont enregistré votre plainte.",
+        "Le dépôt de plainte mène à une enquête qui peut aboutir à la condamnation de l'auteur du hameçonnage.",
+        "Si vous vous constituez partie civile, vous pouvez obtenir des dommages et intérêts.",
+        "[À noter] Si vous êtes mineur, vous pouvez porter plainte auprès du procureur de la République. Si vous souhaitez obtenir une indemnisation, vous devez obligatoirement être accompagné par vos représentants légaux (exemple : vos parents) qui se constitueront partie civile à votre place."
+      ]
+    },
+    {
+      "titre": "Obtenir la condamnation des responsables d’un acte de hameçonnage",
+      "contenu": [
+        "À la suite de votre plainte, l'auteur du hameçonnage (phishing ou vishing) peut être poursuivi pour plusieurs infractions, notamment :",
+        "• Usurpation d'identité",
+        "• Escroquerie",
+        "• Collecte de données à caractère personnel par un moyen frauduleux.",
+        "Dans tous les cas, il peut être condamné à des sanctions pénales par le tribunal correctionnel mais les peines diffèrent selon l'infraction commise.",
+        "Usurpation d'identité",
+        "Les sanctions encourues par une personne physique sont différentes de celles que risque une personne morale :",
+        "Personne physique",
+        "L'usurpation d'identité commise sur un service de communication en ligne est punie d'une peine :",
+        "• D'1 an de prison",
+        "• Et de 15 000 € d’amende.",
+        "[À savoir] L'auteur d'une usurpation d'identité commise sur internet encourt des peines complémentaires telles que le bannissement de la plateforme en ligne (exemple : un réseau social) à partir de laquelle elle a commis cette infraction. Ce bannissement est valable pour une durée maximale de 6 mois. Cette période peut être portée à un an en cas de récidive.",
+        "Personne morale",
+        "L'auteur d'une usurpation d'identité commise sur un service de communication en ligne encourt une peine de 75 000 € d'amende.",
+        "Il peut également être condamné à des peines complémentaires telles que l'affichage de la décision de justice dans la presse ou en ligne.",
+        "Escroquerie",
+        "Les sanctions encourues par une personnes physique sont différentes de celles que risque une personne morale :",
+        "Personne physique",
+        "L'auteur d'une escroquerie par le biais d'un acte de hameçonnage encourt une peine de :",
+        "• 5 ans de prison",
+        "• Et de 375 000 € d'amende.",
+        "Le tribunal correctionnel peut également prononcer des peines complémentaires telles que l'interdiction d'exercer l'activité professionnelle au cours de laquelle l'infraction a été commise.",
+        "[À noter] Si l'individu a tenté de vous tromper pour vous subtiliser vos données personnelles et/ou bancaires et les utiliser, il encourt les mêmes peines que si l'escroquerie avait eu lieu. On parle alors de tentative d'escroquerie.",
+        "Personne morale",
+        "L'auteur d'une escroquerie par le biais d'un acte de hameçonnage encourt une peine d'amende égale à 1 875 000 €.",
+        "Il peut également être condamné à des peines complémentaires telles que l'affichage de la décision de justice dans la presse écrite ou en ligne.",
+        "[À noter] Si l'individu a tenté de vous tromper pour vous subtiliser vos données personnelles et/ou bancaires et les utiliser, il encourt les mêmes peines que si l'escroquerie avait eu lieu. On parle alors de tentative d'escroquerie.",
+        "Collecte frauduleuse de données personnelles",
+        "Les sanctions encourues par une personnes physique sont différentes de celles que risque une personne morale.",
+        "Personne physique",
+        "L'auteur du hameçonnage qui a subtilisé certaines de vos données personnelles encourt une peine de :",
+        "• 5 ans de prison",
+        "• Et de 300 000 € d'amende.",
+        "Personne morale",
+        "L'auteur du hameçonnage qui a subtilisé certaines de vos données personnelles encourt une peine d'amende égale 1 500 000 €.",
+        "Il peut également être condamné à des peines complémentaires telles que l'affichage de la décision de justice dans la presse écrite ou en ligne."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code pénal : articles 313-1 à 313-3",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006165331/"
+    },
+    {
+      "titre": "Code pénal : article 313-9",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025494719"
+    },
+    {
+      "titre": "Code pénal : article 226-18",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417968/2024-07-24/"
+    },
+    {
+      "titre": "Code pénal : article 226-24",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020630874/2024-07-24/"
+    },
+    {
+      "titre": "Code pénal : article 226-4-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042193593"
+    },
+    {
+      "titre": "Loi n°2024-449 du 21 mai 2024 : article 16",
+      "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000049563402"
+    },
+    {
+      "titre": "Loi n°2004-575 du 21 juin 2004 : article 12",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049571684"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Signaler un site de phishing",
+      "url": "https://phishing-initiative.eu/contrib/",
+      "type": "selNG"
+    },
+    {
+      "titre": "Assistance pour les victimes de cybermalveillance - 17Cyber",
+      "url": "https://17cyber.gouv.fr/",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Signaler un contenu internet illégal (internet-signalement : Pharos)",
+      "url": "https://internet-signalement.gouv.fr/",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Réagir face à un acte de phishing (hameçonnage)",
+      "url": "https://www.cybermalveillance.gouv.fr/tous-nos-contenus/fiches-reflexes/hameconnage-phishing#victime-phishinghttps://www.cybermalveillance.gouv.fr/tous-nos-contenus/actualites/comment-signaler-un-mail-de-phishing"
+    }
+  ],
+  "slug": "hameconnage-phishing-ou-vishing",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "arnaques-sur-internet-thesee-pharos",
+      "titre": "Arnaques sur internet (THESEE, Pharos ...)"
+    }
+  ]
+}

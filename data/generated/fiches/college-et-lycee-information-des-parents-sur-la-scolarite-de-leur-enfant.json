@@ -1,0 +1,183 @@
+{
+  "id": "F21287",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Collège et lycée : information des parents sur la scolarité de leur enfant",
+  "theme": "Famille - Scolarité",
+  "description": "Chaque parent qui exerce l'autorité parentale doit être informé de la scolarité de son enfant.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-09-15",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F21287",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Collège et lycée",
+    "Collège et lycée : information des parents sur la scolarité de leur enfant"
+  ],
+  "introduction": "Votre enfant est au collège ou au lycée et vous vous demandez comment vous allez être informé de l'évolution de sa scolarité et de la vie de son établissement ? Ces informations doivent vous être transmises par les enseignants et les représentants des parents d'élèves. Les moyens d'information sont variés (bulletin scolaire, carnet de correspondance, réunions etc.). Voici les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "À qui sont transmises les informations sur la scolarité de l'enfant ?",
+      "contenu": [
+        "Vous devez mentionner les coordonnées des 2 parents dans la fiche de renseignement qui vous est adressée en début d'année.",
+        "Les règles diffèrent selon que l’autorité parentale est exercée par les 2 parents ou non :",
+        "Autorité parentale conjointe",
+        "Vous vivez avec l'autre parent",
+        "Lorsque les parents exerçant l'autorité parentale en commun vivent ensemble (mariés, en union libre ou pacsés), l'information transmise à un parent est considérée comme étant transmise aux 2 parents.",
+        "Vous êtes séparés",
+        "Dans la plupart des cas, si vous êtes divorcés ou séparés, vous continuez d'exercer en commun l'autorité parentale.",
+        "[Attention] Dans le cas où l'enfant habite chez un des ses parents, l'autre parent continue d'exercer l'autorité parentale, sauf décision contraire du Jaf.",
+        "L'école transmet les mêmes informations à chaque parent, en main propre ou aux adresses indiquées en début d'année dans la fiche de renseignement.",
+        "Autorité parentale exercée par un seul parent",
+        "L'autorité parentale peut être exercée par un seul parent. C'est le cas d'un enfant qui n'a pas été reconnu par son père ou d'un retrait de l'autorité parentale par le Jaf.",
+        "Si vous exercez seul l'autorité parentale, l'autre parent peut cependant avoir un droit de surveillance sur son enfant. La copie du jugement doit être fournie au directeur d'école.",
+        "Pour permettre au parent d'exercer son droit de surveillance, le directeur d'école lui transmet les décisions concernant la scolarité de l'enfant. Cependant, il ne lui communique pas tous les détails de la vie scolaire de l'enfant.",
+        "Seul le parent qui exerce l'autorité parentale peut prendre des décisions concernant l'éducation de l'enfant (choisir son établissement scolaire, signer son livret scolaire, autoriser ses absences).",
+        "[Attention] Vous devez signaler à l'école tout changement de situation familiale, d'adresse et toute décision du Jaf concernant l'enfant. Cela vous permettra de recevoir les décisions importantes concernant sa scolarité."
+      ]
+    },
+    {
+      "titre": "Quels sont les outils pour suivre la scolarité de l'enfant ?",
+      "contenu": [
+        "Cahier de textes numérique",
+        "Le cahier de textes numérique est un outil d'aide à l'élève. Il remplace le cahier de textes papier de la classe. Il peut être intégré à un espace numérique de travail (Gepi, Scolinfo, Pronote, etc.).",
+        "Il vous permet de suivre le travail et la scolarité de votre enfant.",
+        "Il est accessible par internet, avec une connexion sécurisée, sur le site internet de l'établissement ou via une application spécifique.",
+        "Le cahier de textes numérique est organisé par discipline. Il est complété par chaque professeur de la classe.",
+        "L'accès au contenu se fait par l'emploi du temps ou par la discipline.",
+        "On y retrouve les informations suivantes :",
+        "• Contenu de chaque séance",
+        "• Devoirs",
+        "• Documents à utiliser",
+        "• Conseils du professeur",
+        "• Contrôles",
+        "• Exercices ou activités qui ne figurent pas dans le manuel scolaire.",
+        "[À noter] L'élève peut aussi avoir un cahier de textes individuel.",
+        "Consultation de notes",
+        "Vous pouvez consulter en ligne les notes de votre enfant, tout au long de l'année scolaire.",
+        "Le service en ligne peut être intégré à un espace numérique de travail (Gepi, Scolinfo, Pronote, etc.).",
+        "Bulletin scolaire",
+        "Le bulletin trimestriel contient les informations suivantes :",
+        "• Résultats et appréciations dans chaque discipline, renseignés par l'enseignant de la discipline",
+        "• Appréciation générale et des conseils formulés par le chef d'établissement.",
+        "Il vous est généralement envoyé par courrier (un exemplaire par parent en cas de séparation de ceux-ci).",
+        "Il peut aussi vous être remis en mains propres lors de réunion avec les enseignants.",
+        "Livret scolaire (au collège)",
+        "L'évaluation de l'élève est réalisée par l'enseignant.",
+        "Elle permet de connaître ses compétences et de l'aider à progresser.",
+        "Vous êtes informés des objectifs, des formalités et des résultats de l'évaluation de votre enfant.",
+        "Le livret scolaire unique permet de suivre l'évolution des compétences de l'élève.",
+        "Il regroupe pour chaque élève et pour chaque cycle les documents suivants :",
+        "• Bilans périodiques du cycle en cours",
+        "• Bilans de fin des cycles précédents et, en 1re année d'un cycle, les bilans périodiques de l'année précédente",
+        "• Attestations déjà obtenues (formation aux premiers secours, attestation de sécurité routière, attestation scolaire \"savoir-nager\" etc.).",
+        "Le niveau de maîtrise des 5 domaines du socle commun est évalué à la fin de chaque cycle selon 4 échelons :",
+        "1. Maîtrise insuffisante",
+        "2. Maîtrise fragile",
+        "3. Maîtrise satisfaisante",
+        "4. Très bonne maîtrise",
+        "Vous pouvez consulter en ligne le livret scolaire unique de votre enfant :",
+        "Consulter le livret scolaire de son enfant",
+        "Connexion avec vos identifiant et mot de passe ÉduconnectEduconnect : aide à la 1ère connexion des parents ou via France Connect",
+        "Communication avec les représentants des parents d'élèves",
+        "Les représentants des parents d'élèves participent notamment aux conseils de classe, au conseil d'administration et aux conseils de discipline.",
+        "Ils peuvent donc vous fournir des informations sur la scolarité de votre enfant.",
+        "Les représentants des parents d'élèves élus doivent pouvoir se faire connaître et vous informer de leur action. Le chef d'établissement doit notamment mettre des salles de réunion à leur disposition."
+      ]
+    },
+    {
+      "titre": "Par quels moyens les parents peuvent-ils communiquer avec les enseignants ?",
+      "contenu": [
+        "Cahier de correspondance",
+        "Le cahier de correspondance est fourni à votre enfant au début de l'année scolaire.",
+        "Il vous permet d'échanger avec les enseignants sur le fonctionnement de l'établissement (sorties scolaires, absence d'un enseignant, etc.) ou sur le comportement de votre enfant.",
+        "Vous pouvez également y faire une demande de rendez-vous avec un enseignant.",
+        "Le cahier de correspondance est aussi composé du règlement intérieur de l'établissement, de la liste des professeurs et de l'emploi du temps de la classe.",
+        "[À noter] Le cahier de correspondance peut être numérique et intégré à un espace numérique de travail (ENT).",
+        "Réunions individuelles ou collectives",
+        "Si votre enfant est nouveau dans un établissement, vous devez participer à une réunion d'information dans les jours qui suivent la rentrée scolaire.",
+        "Des réunions peuvent aussi être organisées au cours de l'année scolaire, notamment pour vous informer sur la situation de la classe, sur une procédure spécifique ou sur les possibilités d'orientation.",
+        "Si votre enfant est en grande difficulté scolaire, son établissement peut également vous convier à des réunions pour envisager ensemble des solutions.",
+        "Si vous rencontrez un problème lié à la pédagogie, adressez-vous au professeur principal de la classe.",
+        "Si votre problème concerne les absences et les questions de comportement, adressez-vous au conseiller principal d'éducation (CPE).",
+        "Le chef d'établissement et les enseignants doivent faire le nécessaire pour répondre à vos demandes d'information et de rendez-vous. Toute réponse négative doit présenter les motifs."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'éducation : articles D111-1 à D111-5",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006182457"
+    },
+    {
+      "titre": "Code de l'éducation : articles D111-6 à D111-9",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006182458"
+    },
+    {
+      "titre": "Code de l'éducation : articles D311-6 à D311-9",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000038895269"
+    },
+    {
+      "titre": "Code civil : articles 372 à 373-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006165785/"
+    },
+    {
+      "titre": "Code civil : articles 373-2 à 373-2-5",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006165499"
+    },
+    {
+      "titre": "Circulaire n°2006-137 du 25 août 2006 relative au rôle et à la place des parents à l'école",
+      "url": "https://www.legifrance.gouv.fr/circulaire/id/324"
+    },
+    {
+      "titre": "Circulaire n°2010-136 du 6-9-2010 relative au cahier de textes numérique",
+      "url": "http://www.education.gouv.fr/cid53060/mene1020076c.html"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Consulter le livret scolaire de son enfant",
+      "url": "https://educonnect.education.gouv.fr",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "Établissement scolaire"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "La mallette des parents",
+      "url": "https://www.ac-montpellier.fr/bienvenue-sur-la-mallette-des-parents-126510"
+    },
+    {
+      "titre": "Les parents à l'école",
+      "url": "https://www.education.gouv.fr/les-parents-l-ecole-9899"
+    },
+    {
+      "titre": "L'exercice de l'autorité parentale en milieu scolaire",
+      "url": "http://eduscol.education.fr/cid48224/autorite-parentale.html"
+    },
+    {
+      "titre": "Le livret scolaire unique du CP à la troisième",
+      "url": "https://www.education.gouv.fr/le-livret-scolaire-unique-du-cp-la-troisieme-1979"
+    },
+    {
+      "titre": "Le livret scolaire unique du CP à la 3e (brochure)",
+      "url": "https://www.education.gouv.fr/sites/default/files/document/Le%20livret%20scolaire%20unique%20de%20votre%20enfant%20-%20Brochure-234825.pdf"
+    },
+    {
+      "titre": "Qu'est-ce qu'un espace numérique de travail (ENT) ?",
+      "url": "https://eduscol.education.fr/cid55726/qu-est-ent.html"
+    }
+  ],
+  "slug": "college-et-lycee-information-des-parents-sur-la-scolarite-de-leur-enfant",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "college-et-lycee",
+      "titre": "Collège et lycée"
+    }
+  ]
+}

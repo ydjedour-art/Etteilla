@@ -1,0 +1,74 @@
+{
+  "id": "F39753",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quelles sont les ressources prises en compte pour le calcul du droit à la prime d’activité ?",
+  "theme": "Social - Santé",
+  "description": "Les ressources prises en compte sont notamment les revenus d'activité salariée, les indemnités journalières de maternité et de maladie.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-07-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F39753",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Prime d'activité",
+    "Quelles sont les ressources prises en compte pour le calcul du droit à la prime d’activité ?"
+  ],
+  "introduction": "Les ressources prises en compte sont notamment les revenus d'activité salariée, les indemnités journalières de maternité, les indemnités journalières de maladie.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Le montant de la prime d’activité est calculé selon vos ressources et de celles des membres de votre foyer.",
+        "Les ressources prises en compte sont les suivantes :",
+        "• Revenus d'activité salariée (salaires, primes, heures supplémentaires, rémunérations par Cesu préfinancés, indemnité de licenciement, indemnité compensatrice de congés payés, indemnité compensatrice de préavis, etc.)",
+        "• Revenus d'activité non salariée",
+        "• Indemnité de volontariat dans certains cas",
+        "• Indemnités journalières de maternité, paternité, adoption",
+        "• Indemnités journalières de congé supplémentaire de naissance à compter du 1er juillet 2026",
+        "• Indemnités journalière de maladie, accident du travail, maladie professionnelle",
+        "• Indemnités de chômage partiel",
+        "• Allocations chômage (allocation d'aide au retour à l'emploi, allocation de sécurisation professionnelle)",
+        "• Pension de retraite",
+        "• Rentes et capitaux versés en cas de décès",
+        "• Pensions alimentaires et prestations compensatoires",
+        "• Dédommagement versé aux victimes de l'amiante",
+        "• Ressources exceptionnelles (vente d'une maison, vente d'un immeuble, vente d'un terrain, héritage, gains aux jeux, etc.)",
+        "• Capitaux placés (les biens non productifs de revenu réel sont considérés comme produisant fictivement un revenu annuel égal à 3 % de leur montant (contrat d'assurance-vie par exemple). En revanche, le livret A n'est pas concerné par le taux de 3 % : vous devez uniquement déclarer les intérêts annuellement perçus. Les sommes figurant sur les comptes courants ne sont pas retenues dans le calcul de la prime d’actvité",
+        "• Certaines prestations familiales (par exemple : allocations familiales, complément familial, allocation de soutien familial)",
+        "• Allocation aux adultes handicapés (AAH)",
+        "• Allocation supplémentaire d'invalidité (ASI)",
+        "• Prime forfaitaire mensuelle pour reprise d'activité",
+        "• Loyers d'un logement ou d'un immeuble loué",
+        "• Valeur locative d'un logement, d'un immeuble, d'un local ou d'un terrain non loué",
+        "• Allocation de l'aide sociale à l'enfance en tant que tiers digne de confiance.",
+        "[À noter] Le montant net social est pris en compte pour déterminer le montant forfaitaire de la prime d’activité.",
+        "Ces ressources sont différemment prises en compte selon votre situation personnelle.",
+        "Vous devez vérifier votre déclaration trimestrielle de ressources préremplie, la valider et, si besoin, la compléter avec vos autres ressources perçues sur la période (pension alimentaire par exemple).",
+        "Pour en savoir plus :",
+        "Régime général (Caf)",
+        "Vous pouvez obtenir une estimation de vos droits en utilisant un simulateur :",
+        "Vérifier vos droits à la prime d'activité",
+        "Vous pouvez vous renseigner auprès de votre Caf.",
+        "Caisse d'allocations familiales (Caf)",
+        "Régime agricole (MSA)",
+        "Vous pouvez vous renseigner auprès de la MSA.",
+        "Mutualité sociale agricole (MSA)"
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "quelles-sont-les-ressources-prises-en-compte-pour-le-calcul-du-droit-a-la-prime-d-activite",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "prime-d-activite",
+      "titre": "Prime d'activité"
+    }
+  ]
+}

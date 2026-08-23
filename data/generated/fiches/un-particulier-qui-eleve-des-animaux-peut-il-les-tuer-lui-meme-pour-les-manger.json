@@ -1,0 +1,116 @@
+{
+  "id": "F34981",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Un particulier qui élève des animaux peut-il les tuer lui-même pour les manger ?",
+  "theme": "Loisirs - Sports - Culture",
+  "description": "Un particulier peut tuer lui-même certains animaux qu'il a élevé pour sa consommation personnelle",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-01-30",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34981",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Loisirs - Sports - Culture",
+    "Animal de compagnie",
+    "Un particulier qui élève des animaux peut-il les tuer lui-même pour les manger ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "L'abattage des animaux destiné à la consommation humaine doit être réalisé dans un abattoir agréé, où chaque carcasse fait l'objet d'une inspection sanitaire.",
+        "Toutefois, le particulier qui élève un mouton, une chèvre, un porc, des poules ou des lapins peut abattre lui-même un animal s'il est exclusivement destiné à sa consommation personnelle :",
+        "• Un particulier peut abattre lui-même uniquement des animaux qu'il a préalablement élevés et entretenus sur place. Il ne peut pas acheter un animal juste pour l'abattre.",
+        "• Et les viandes et abats de l'animal abattu ne peuvent pas être vendus ou donnés à un tiers. Ils doivent être réservés à la consommation personnelle du particulier qui a procédé à l'abattage.",
+        "L’abattage d'une vache, d'un veau ou d'un cheval hors abattoir agréé est interdit.",
+        "Conditions d'abattage",
+        "L'abattage doit être réalisé de manière à éviter toute douleur, détresse ou souffrance évitable aux animaux.",
+        "L'abattage hors abattoir agréé doit respecter les mêmes règles qu'en abattoir agréé en ce qui concerne les opérations d'étourdissement, d'abattage ou de mise à mort.",
+        "L'animal doit être étourdi avant d'être mis à mort selon des méthodes autorisées par la réglementation (l'abattage sans étourdissement préalable est interdit). L'animal doit être saigné immédiatement après son étourdissement, dans tous les cas avant qu'il ne reprenne conscience.",
+        "Le fait d'exercer des sévices graves ou actes de cruauté envers un animal domestique, apprivoisé ou captif est une infraction.",
+        "[Rappel] Le particulier peut aussi faire abattre son animal dans un abattoir agréé, puis récupérer la carcasse.",
+        "Obligation de déclaration des animaux",
+        "Selon l'espèce animale détenue, le particulier peut être soumis à une obligation de déclaration :",
+        "Moutons, chèvres ou porcs",
+        "Le particulier qui élève un ou plusieurs moutons, chèvres ou porcs doit faire identifier ses animaux et se déclarer auprès de la chambre d’agriculture de son département.",
+        "Chambre d'agriculture",
+        "Le particulier doit informer la chambre d’agriculture, dans les 7 jours, en cas d'acquisition ou de cession d'un animal. Il doit aussi informer de la chambre d’agriculture en cas de mort d'un animal au plus tard lors de l'enlèvement de la dépouille.",
+        "De plus, le particulier doit aussi désigner un vétérinaire sanitaire, dès le 1er animal détenu au moyen d'un formulaire :",
+        "Désignation du vétérinaire sanitaire par le détenteur d'animaux",
+        "La liste des vétérinaires disposant de l'habilitation sanitaire dans un département est disponible sur le site internet de la préfecture ou sur demande auprès de la direction départementale de protection des populations (DDPP).",
+        "Le formulaire complété et signé par le vétérinaire est à adresser à la direction départementale de la protection des populations (DDPP) de la préfecture.",
+        "Direction départementale de la protection des populations (DDPP) ou de l'emploi, du travail, des solidarités et de la protection des populations (DDETSPP)",
+        "Poules",
+        "Le particulier qui élève une ou plusieurs poules peut se faire recenser auprès de sa mairie.",
+        "Mairie",
+        "Toute suspicion ou apparition de signes cliniques évocateurs de la grippe aviaire doit faire l’objet d’une déclaration.",
+        "La déclaration peut être effectuée par internet :",
+        "Déclaration en ligne de détention d'oiseaux dans le cadre d'un foyer d'influenza aviaire"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code rural et de la pêche maritime : article L654-3",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006584932"
+    },
+    {
+      "titre": "Code rural : article R231-6",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000021547376"
+    },
+    {
+      "titre": "Code rural et de la pêche maritime : articles D212-24 à D212-33",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006193361"
+    },
+    {
+      "titre": "Code rural et de la pêche maritime : article D212-37",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029994508"
+    },
+    {
+      "titre": "Arrêté du 25 septembre 2023 relatif aux mesures de surveillance, de prévention, de lutte et de vaccination contre l'influenza aviaire hautement pathogène (IAHP)",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGIARTI000048112524"
+    },
+    {
+      "titre": "Arrêté du 23 juillet 2012 relatif aux conditions d'exercice du vétérinaire sanitaire",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000026227715"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Désignation du vétérinaire sanitaire par le détenteur d'animaux",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_15983.do",
+      "type": "formulaireNG"
+    },
+    {
+      "titre": "Déclaration en ligne de détention d'oiseaux dans le cadre d'un foyer d'influenza aviaire",
+      "url": "https://agriculture-portail.6tzen.fr/default/requests/cerfa0/",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Déclaration de détention d'oiseaux dans le cadre d'un foyer d'influenza aviaire",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/showFormulaireSignaletiqueConsulter.do?numCerfaAndExtension=15472*03",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Chambre d'agriculture",
+    "Direction départementale de la protection des populations (DDPP) ou de l'emploi, du travail, des solidarités et de la protection des populations (DDETSPP)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "L'influenza aviaire, foire aux questions",
+      "url": "https://agriculture.gouv.fr/linfluenza-aviaire-foire-aux-questions"
+    }
+  ],
+  "slug": "un-particulier-qui-eleve-des-animaux-peut-il-les-tuer-lui-meme-pour-les-manger",
+  "path": [
+    {
+      "slug": "loisirs-sports-culture",
+      "titre": "Loisirs - Sports - Culture"
+    },
+    {
+      "slug": "animal-de-compagnie",
+      "titre": "Animal de compagnie"
+    }
+  ]
+}

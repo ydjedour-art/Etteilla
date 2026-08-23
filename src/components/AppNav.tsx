@@ -3,6 +3,8 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import type { ReactNode } from "react";
+import { BrandMark } from "@/components/BrandMark";
+import { ThemeToggle } from "@/components/ThemeToggle";
 
 function HomeIcon() {
   return (
@@ -63,9 +65,15 @@ export function AppNav() {
   const pathname = usePathname();
 
   return (
-    <nav className="no-print fixed inset-x-0 bottom-0 z-10 border-t border-ink/10 bg-white/95 backdrop-blur sm:sticky sm:top-0 sm:h-screen sm:w-56 sm:border-r sm:border-t-0">
-      <div className="hidden px-6 py-6 sm:block">
-        <span className="font-serif text-lg font-semibold text-primary">Sérénio</span>
+    <nav className="no-print fixed inset-x-0 bottom-0 z-10 border-t border-ink/10 bg-bg/80 backdrop-blur-xl sm:sticky sm:top-0 sm:h-screen sm:w-56 sm:border-r sm:border-t-0">
+      <div className="hidden items-center justify-between gap-2.5 px-6 py-6 sm:flex">
+        <div className="flex items-center gap-2.5">
+          <BrandMark className="h-8 w-8 shrink-0" />
+          <span className="font-display text-base font-black uppercase tracking-tight text-ink">
+            IZY<span className="text-primary">/</span>D
+          </span>
+        </div>
+        <ThemeToggle />
       </div>
       {/* pb-[env(safe-area-inset-bottom)] : évite que la barre passe sous l'indicateur
           d'accueil des iPhone récents. */}
@@ -79,9 +87,9 @@ export function AppNav() {
             <li key={link.href} className="flex-1 sm:flex-none">
               <Link
                 href={link.href}
-                className={`flex flex-col items-center gap-0.5 whitespace-nowrap rounded-xl px-1 py-2.5 text-[11px] font-medium sm:flex-row sm:gap-3 sm:px-3 sm:text-sm ${
+                className={`flex flex-col items-center gap-0.5 whitespace-nowrap rounded-pill px-1 py-2.5 text-[11px] font-medium transition-colors duration-200 ease-apple sm:flex-row sm:gap-3 sm:px-3.5 sm:text-sm ${
                   active
-                    ? "text-primary sm:bg-primary-light"
+                    ? "text-primary sm:bg-primary/10"
                     : "text-ink-soft hover:text-ink"
                 }`}
               >

@@ -1,0 +1,109 @@
+{
+  "id": "F10424",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Tutelle, curatelle, sauvegarde de justice d'un majeur : quelles différences ?",
+  "theme": "Famille - Scolarité",
+  "description": "La mise en place d'une mesure de protection juridique (tutelle, curatelle, sauvegarde de justice) diffère selon les actes que la personne peut exécuter seule.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-05-05",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F10424",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Protection juridique (tutelle, curatelle...)",
+    "Tutelle, curatelle, sauvegarde de justice d'un majeur : quelles différences ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "La mise en place d’une mesure de protection juridique (tutelle, curatelle ou sauvegarde de justice) dépend du degré d’altération des facultés personnelles d’une personne majeure. Cela signifie que la mesure choisie tient compte de la capacité de la personne à réaliser seule les gestes quotidiens, comme gérer son argent, signer des contrats ou prendre des décisions importantes, sans que cela mette en danger ses intérêts ou sa sécurité.",
+        "Le juge des contentieux de la protection (ex juge des tutelles) décide si une telle mesure est nécessaire. Celle-ci permet de désigner une personne qui aura pour mission d'accompagner, assister ou représenter le majeur en perte d'autonomie dans ses démarches importantes. Cette personne peut être un proche ou, si cela n’est pas possible, un professionnel agréé.",
+        "3 mesures principales peuvent être mises en place :",
+        "• La sauvegarde de justice, qui est une mesure temporaire et légère. La personne protégée conserve la capacité de réaliser l’ensemble de ses actes, mais certains actes importants (comme la vente d’un bien immobilier ou la souscription d’un prêt élevé) peuvent être confiés à un mandataire spécial.",
+        "• La curatelle, qui est une mesure d'assistance. La personne continue à accomplir seule les actes de la vie courante, mais doit être assistée pour les actes plus importants (actes de disposition), comme vendre ou acheter un bien. Par exemple, elle peut signer un bail, mais ne peut pas vendre seule son appartement.",
+        "• La tutelle, qui est une mesure de représentation. Elle s’applique lorsque la personne à protéger est dans l’incapacité complète de gérer son patrimoine. Le tuteur intervient systématiquement pour tous les actes, qu’ils relèvent de l’administration ou de la disposition des biens",
+        "La tutelle est la mesure la plus contraignante, tandis que la curatelle et la sauvegarde de justice permettent à la personne protégée une plus grande autonomie dans ses décisions.",
+        "Différences entre les mesures de protections juridiques",
+        "Type de protection",
+        "Qui peut la demander ?",
+        "Ce que la personne protégée peut faire ?",
+        "Rôle de la personne désignée",
+        "La personne protégée peut-elle voter ?",
+        "Sauvegarde de justice",
+        "• Majeur lui-même",
+        "• Personne avec qui le majeur à protéger vit en couple",
+        "• Parent ou un allié",
+        "• Personne qui entretient, avec le majeur, des liens étroits et stables",
+        "• Personne qui exerce déjà une autre mesure de protection juridique (curateur ou tuteur)",
+        "• Procureur de la République, de sa propre initiative",
+        "• Tiers (médecin, directeur d'établissement de santé, par exemple)",
+        "La personne sous sauvegarde de justice conserve le droit d'accomplir tous les actes de la vie courante, sauf ceux confiés au mandataire spécial.",
+        "Le mandataire spécial intervient pour certains actes (par exemple, vente de bien, prêt important).",
+        "Oui",
+        "Curatelle",
+        "• Majeur lui-même",
+        "• Personne avec qui le majeur à protéger vit en couple",
+        "• Parent ou un allié",
+        "• Personne qui entretient, avec le majeur, des liens étroits et stables",
+        "• Personne qui exerce déjà une autre mesure de protection juridique (curateur ou tuteur)",
+        "• Procureur de la République, de sa propre initiative",
+        "• Tiers (médecin, directeur d'établissement de santé, par exemple)",
+        "La personne sous curatelle peut gérer et administrer ses biens librement.",
+        "Mais elle doit être assistée de son curateur pour tous les actes de disposition.",
+        "Le curateur intervient pour l’assistance aux actes de disposition.",
+        "Oui.",
+        "Mais la personne protégée ne peut pas être élue.",
+        "Tutelle",
+        "• Majeur lui-même",
+        "• Personne avec qui le majeur à protéger vit en couple",
+        "• Parent ou un allié",
+        "• Personne qui entretient, avec le majeur, des liens étroits et stables",
+        "• Personne qui exerce déjà une autre mesure de protection juridique (curateur ou tuteur)",
+        "• Procureur de la République, de sa propre initiative",
+        "• Tiers (médecin, directeur d'établissement de santé, ...)",
+        "La personne protégée ne peut pas réaliser seule ses démarches et prendre des décisions importantes.",
+        "Le tuteur agit systématiquement en son nom pour tous les actes qu’il s’agisse de la gestion de son patrimoine, de la signature de contrats ou de toute autre action juridique.",
+        "Oui.",
+        "Toutefois, la personne protégée ne peut pas donner procuration aux personnes suivantes :",
+        "• Mandataire en charge de sa protection",
+        "• Salarié à domicile",
+        "• Salarié ou bénévole de l'établissement d'accueil.",
+        "La personne protégée ne peut pas être élue."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : article 440",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006427481"
+    },
+    {
+      "titre": "Code électoral : article L72-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038267438"
+    },
+    {
+      "titre": "Code électoral : article L200",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006353475"
+    },
+    {
+      "titre": "Code civil : articles 500 à 502",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006150533"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "tutelle-curatelle-sauvegarde-de-justice-d-un-majeur-quelles-differences",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "protection-juridique-tutelle-curatelle",
+      "titre": "Protection juridique (tutelle, curatelle...)"
+    }
+  ]
+}

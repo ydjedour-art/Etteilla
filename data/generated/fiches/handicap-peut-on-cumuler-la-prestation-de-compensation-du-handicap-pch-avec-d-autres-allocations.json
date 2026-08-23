@@ -1,0 +1,40 @@
+{
+  "id": "F14764",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Handicap : peut-on cumuler la prestation de compensation du handicap (PCH) avec d'autres allocations ?",
+  "theme": "Social - Santé",
+  "description": "La prestation de compensation du handicap (PCH) peut être cumulée avec d'autres allocations (AAH, AEEH...). Les règles sont spécifiques pour chaque allocation.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-01-15",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F14764",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Handicap : allocations (AAH, AEEH, ...) et aides",
+    "Handicap : peut-on cumuler la prestation de compensation du handicap (PCH) avec d'autres allocations ?"
+  ],
+  "introduction": "Oui, il est possible de cumuler la prestation de compensation du handicap (PCH) avec d’autres allocations. Le mode de cumul varie selon que la personne bénéficiaire de la PCH est un adulte ou un enfant. Nous vous présentons les informations à connaître selon cette distinction.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de l'action sociale et des familles : articles L245-1 à L245-14",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006157603/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Maison départementale des personnes handicapées (MDPH)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "handicap-peut-on-cumuler-la-prestation-de-compensation-du-handicap-pch-avec-d-autres-allocations",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "handicap-allocations-aah-aeeh-et-aides",
+      "titre": "Handicap : allocations (AAH, AEEH, ...) et aides"
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "id": "F415",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Impôt sur le revenu - Déclarer les pensions de retraite",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Une pension de retraite ou un autre avantage vieillesse sont soumis à l'impôt sur le revenu. Toutefois, certaines pensions sont exonérées.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-15",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F415",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Impôt sur le revenu : déclaration et revenus à déclarer",
+    "Impôt sur le revenu - Déclarer les pensions de retraite"
+  ],
+  "introduction": "Vous percevez une pension de retraite ou un autre avantage vieillesse ? Ces sommes sont soumises à l'impôt sur le revenu. Toutefois, certaines pensions sont exonérées. Nous vous indiquons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Retraites de base et complémentaires",
+      "contenu": [
+        "Vous devez déclarer les pensions de retraite versées par les organismes suivants :",
+        "• Régimes obligatoires de base",
+        "• Régimes obligatoires complémentaires",
+        "• Régimes spéciaux (SNCF par exemple)",
+        "• État.",
+        "Vous devez déclarer les pensions de réversion versées par les organismes suivants :",
+        "• Régimes obligatoires de base",
+        "• Régimes obligatoires complémentaires",
+        "• Régimes spéciaux (SNCF par exemple)",
+        "• État.",
+        "Vous devez aussi déclarer les pensions suivantes :",
+        "• Pensions versées par les régimes de retraite supplémentaire d'entreprise obligatoires",
+        "• Pensions versées aux élus locaux par l'Ircantec.",
+        "Le montant des pensions de retraite que vous avez touchées est prérempli sur votre déclaration de revenus en ligne.",
+        "Il vous suffit de vérifier ce montant, et de le corriger s'il est inexact.",
+        "L'administration fiscale applique automatiquement un abattement de 10 % sur le montant total déclaré des pensions et rentes de votre foyer fiscal.",
+        "Le montant de l'abattement doit se situer dans la fourchette suivante :",
+        "• Minimum : 454 € par pensionné",
+        "• Maximum : 4 439 € par foyer fiscal.",
+        "[À savoir] Les allocations de préretraite sont imposées selon les règles des traitements et salaires."
+      ]
+    },
+    {
+      "titre": "Majorations et avantages accessoires",
+      "contenu": [
+        "Vous devez déclarer les éléments suivants :",
+        "• Majorations pour charges de famille",
+        "• Bonifications pour campagne de guerre (majoration de la pension attribuée aux anciens combattants)",
+        "• Allocations supplémentaires versées par les régimes de retraite (par exemple, allocations éducation, allocation décès)",
+        "• Avantages en nature (logement, électricité gratuite ou à prix réduit par exemple).",
+        "Le montant des pensions de retraite que vous avez touchées est prérempli sur votre déclaration de revenus en ligne.",
+        "Il vous suffit de vérifier ce montant, et de le corriger s'il est inexact.",
+        "[À savoir] La majoration pour assistance d'une tierce personne n'est pas à déclarer.",
+        "L'administration fiscale applique automatiquement un abattement de 10 % sur le montant total déclaré des pensions et rentes de votre foyer fiscal.",
+        "Le montant de l'abattement doit se situer dans la fourchette suivante :",
+        "• Minimum : 454 € par pensionné",
+        "• Maximum : 4 439 € par foyer fiscal."
+      ]
+    },
+    {
+      "titre": "Minimum vieillesse, Aspa, Asi",
+      "contenu": [
+        "Vous n'avez pas à déclarer les revenus suivants :",
+        "• Allocation de solidarité aux personnes âgées (Aspa)",
+        "• Allocation supplémentaire d'invalidité (Asi)",
+        "• Allocations du minimum vieillesse.",
+        "Toutefois, vous devez déclarer une pension versée par la Sécurité sociale dont le montant ne dépasse pas 4 023,51 € par an, uniquement si vos ressources annuelles dépassent :",
+        "• 12 411,44 € pour une personne seule",
+        "• 19 268,80 € pour un couple."
+      ]
+    },
+    {
+      "titre": "Retraite versée en capital",
+      "contenu": [
+        "Vous devez déclarer les prestations de retraite versées sous forme de capital, en particulier le versement forfaitaire unique (qui remplace une pension de faible montant, par exemple dans le régime complémentaire Agirc-Arrco).",
+        "Si les prestations de retraite sont versées sous forme de capital, vous pouvez opter pour l'un des modes d'imposition suivants :",
+        "• Imposition au système du quotient",
+        "• Prélèvement au taux de 7,5 %, sous certaines conditions.",
+        "Le prélèvement au taux de 7,5 % est possible si vous remplissez les conditions suivantes :",
+        "• Le versement du capital se fait en 1 fois",
+        "• Les cotisations que vous avez versées étaient déductibles de votre revenu imposable.",
+        "Le prélèvement de 7,5 % est calculé sur le montant du capital après un abattement de 10 %.",
+        "[À savoir] Cela vaut aussi pour le versement en capital à la sortie d'un plan d'épargne retraite populaire (Perp)."
+      ]
+    },
+    {
+      "titre": "Allocation veuvage",
+      "contenu": [
+        "Vous devez déclarer les allocations de veuvage.",
+        "L'administration fiscale applique automatiquement un abattement de 10 % sur le montant total déclaré des pensions et rentes de votre foyer fiscal.",
+        "Le montant de l'abattement doit se situer dans la fourchette suivante :",
+        "• Minimum : 454 € par pensionné",
+        "• Maximum : 4 439 € par foyer fiscal."
+      ]
+    },
+    {
+      "titre": "Allocation versée aux anciens combattants",
+      "contenu": [
+        "Les allocations versées à certains anciens combattants sont à déclarer.",
+        "L'administration fiscale applique automatiquement un abattement de 10 % sur le montant total déclaré des pensions et rentes de votre foyer fiscal.",
+        "Le montant de l'abattement doit se situer dans la fourchette suivante :",
+        "• Minimum : 454 € par pensionné",
+        "• Maximum : 4 439 € par foyer fiscal.",
+        "[À savoir] La retraite du combattant et la retraite mutualiste des anciens combattants (dans la limite d'un plafond) sont exonérées d'impôt sur le revenu."
+      ]
+    },
+    {
+      "titre": "Allocation de reconnaissance versée aux harkis",
+      "contenu": [
+        "Vous ne devez pas déclarer l'allocation de reconnaissance (versée en rente ou en capital)."
+      ]
+    },
+    {
+      "titre": "Allocation de vétérance des sapeurs-pompiers volontaires",
+      "contenu": [
+        "Vous ne devez pas déclarer l'allocation de vétérance."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général des impôts : articles 79 à 81 quater",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006197199/"
+    },
+    {
+      "titre": "Code général des impôts : articles 156 à 163 quinvicies",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000006191588/"
+    },
+    {
+      "titre": "Décret n°2000-657 du 13 juillet 2000 instituant une mesure de réparation pour les orphelins dont les parents ont été victimes de persécutions antisémites",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000582825/"
+    },
+    {
+      "titre": "Décret n°2004-751 du 27 juillet 2004 instituant une aide financière pour les orphelins dont les parents ont été victimes d'actes de barbarie durant la 2ème guerre mondiale",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000250836"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-RSA-PENS-10-10-10 relatif aux pensions de vieillesse et de retraite imposables",
+      "url": "http://bofip.impots.gouv.fr/bofip/362-PGP.html"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-RSA-PENS-20-10 relatif aux pensions de vieillesse et de retraite exonérées",
+      "url": "http://bofip.impots.gouv.fr/bofip/372-PGP.html"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-RSA-PENS-10-10-10-20 relatif au régime fiscal de certaines pensions et allocations de vieillesse (Aspa, ASI, etc.)",
+      "url": "http://bofip.impots.gouv.fr/bofip/359-PGP"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Impôts : accéder à votre espace Finances publiques",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Déclarer vos revenus en ligne",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Déclaration 2026 des revenus 2025 (papier)",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/2042/declaration-des-revenus",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Estimer le montant de son impôt sur les revenus de 2025 (déclaration de 2026)",
+      "url": "https://simulateur-ir-ifi.impots.gouv.fr/calcul_impot/2026/",
+      "type": "simulateurNG"
+    }
+  ],
+  "contacts": [
+    "Service d'information des impôts",
+    "Service en charge des impôts (trésorerie, service des impôts...)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Site des impôts",
+      "url": "https://www.impots.gouv.fr/portail/"
+    },
+    {
+      "titre": "Brochure pratique 2026 - Déclaration des revenus de 2025",
+      "url": "https://www.impots.gouv.fr/www2/fichiers/documentation/brochure/ir_2026/accueil.htm"
+    },
+    {
+      "titre": "Impôt sur le revenu : dépliants d'information",
+      "url": "https://www.impots.gouv.fr/brochures-et-depliants"
+    }
+  ],
+  "slug": "impot-sur-le-revenu-declarer-les-pensions-de-retraite",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "impot-sur-le-revenu-declaration-et-revenus-a-declarer",
+      "titre": "Impôt sur le revenu : déclaration et revenus à déclarer"
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "id": "F19460",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Vitesse au volant",
+  "theme": "Transports - Mobilité",
+  "description": "Un conducteur doit respecter des limitations de vitesse sous peine de devoir payer une amende et de perdre 1 ou plusieurs points sur son permis de conduire.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-12-29",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F19460",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Infractions routières",
+    "Vitesse au volant"
+  ],
+  "introduction": "Vous vous demandez quelle est la vitesse maximale autorisée sur les différents types de routes ? Nous vous indiquons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Quelles sont les vitesses maximales autorisées ?",
+      "contenu": [
+        "Les règles varient selon les conditions météorologiques.",
+        "En général",
+        "Limitations de vitesse",
+        "Voie de circulation",
+        "Règle générale",
+        "Jeune conducteur",
+        "(permis probatoire)",
+        "Autoroute",
+        "130 km/h",
+        "110 km/h (100 km/h sur les sections d'autoroute où la vitesse maximale autorisée est inférieure à 130 km/h)",
+        "Route à 2 chaussées séparées par 1 terre-plein central",
+        "110 km/h",
+        "100 km/h",
+        "Section de route comportant au moins 2 voies affectées à un même sens de circulation",
+        "90 km/h",
+        "80 km/h",
+        "Route à double-sens, sans séparateur central",
+        "80 km/h",
+        "80 km/h",
+        "Agglomération",
+        "50 km/h",
+        "50 km/h",
+        "Toutefois, l'autorité locale chargée de la circulation peut fixer à 90 km/h (au lieu de 80 km/h) la vitesse maximale autorisée sur les sections de routes à double-sens et sans séparateur central qui dépendent de sa compétence.",
+        "[À noter] L’autorité locale chargée de la circulation peut réduire ces vitesses.",
+        "Par temps de pluie ou autres précipitations",
+        "Limitations de vitesse",
+        "Voie de circulation",
+        "Par temps de pluie",
+        "Autoroute",
+        "110 km/h",
+        "Route à 2 chaussées séparées par 1 terre-plein central",
+        "100 km/h",
+        "Section de route comportant au moins 2 voies affectées à un même sens de circulation",
+        "80 km/h",
+        "Route à double-sens, sans séparateur central",
+        "80 km/h",
+        "Agglomération",
+        "50 km/h",
+        "Toutefois, l'autorité locale chargée de la circulation peut fixer à 90 km/h (au lieu de 80 km/h) la vitesse maximale autorisée sur les sections de routes à double-sens et sans séparateur central qui dépendent de sa compétence.",
+        "[À noter] L'autorité locale chargée de la circulation peut réduire ces vitesses.",
+        "En cas de visibilité inférieure à 50 m",
+        "Limitation de vitesse",
+        "Voie de circulation",
+        "Visibilité inférieure à 50 m",
+        "Autoroute",
+        "50 km/h",
+        "Route à 2 chaussées séparées par 1 terre-plein central",
+        "50 km/h",
+        "Section de route comportant au moins 2 voies affectées à un même sens de circulation",
+        "50 km/h",
+        "Route à double-sens, sans séparateur central",
+        "50 km/h",
+        "Agglomération",
+        "50 km/h",
+        "[À noter] L’autorité locale chargée de la circulation peut réduire ces vitesses."
+      ]
+    },
+    {
+      "titre": "Quelles sont les sanctions en cas d'excès de vitesse (amende, retrait de points…) ?",
+      "contenu": [
+        "Les sanctions varient sont l’importance de l’excès de vitesse :",
+        "Excès de vitesse inférieur à 5 km/h",
+        "La sanction varie selon la vitesse maximale autorisée :",
+        "Vitesse maximale autorisée supérieure à 50 km/h",
+        "L’excès de vitesse inférieur à 5 km/h lorsque la vitesse maximale autorisée est supérieure à 50 km/h est une contravention de 3e classe.",
+        "Vous devez payer une amende forfaitaire de 68 €.",
+        "Aucun point n’est retiré sur votre permis de conduire.",
+        "Vitesse maximale autorisée inférieure ou égale à 50 km/h",
+        "L’excès de vitesse inférieur à 5 km/h lorsque la vitesse maximale autorisée est inférieure ou égale à 50 km/h est une contravention de 4e classe.",
+        "Vous devez payer une amende forfaitaire de 135 €.",
+        "Aucun point n’est retiré sur votre permis de conduire.",
+        "Excès de vitesse entre 5 et 19 km/h",
+        "La sanction varie selon la vitesse maximale autorisée :",
+        "Vitesse maximale autorisée supérieure à 50 km/h",
+        "L’excès de vitesse inférieur à 20 km/h lorsque la vitesse maximale autorisée est supérieure à 50 km/h est une contravention de 3e classe.",
+        "Vous devez payer une amende forfaitaire de 68 €.",
+        "Vous perdez 1 point sur votre permis de conduire.",
+        "Vitesse maximale autorisée inférieure ou égale à 50 km/h",
+        "L’excès de vitesse inférieur à 20 km/h lorsque la vitesse maximale autorisée est inférieure ou égale à 50 km/h est une contravention de 4e classe.",
+        "Vous devez payer une amende forfaitaire de 135 €.",
+        "Vous perdez 1 point sur votre permis de conduire.",
+        "Excès de vitesse entre 20 km/h et 29 km/h",
+        "L’excès de vitesse entre 20 km/h et 29 km/h est une contravention de 4e classe.",
+        "Vous devez payer une amende forfaitaire de 135 €.",
+        "Vous perdez 2 points sur votre permis de conduire.",
+        "Excès de vitesse entre 30 km/h et 39 km/h",
+        "L’excès de vitesse entre 30 km/h et 39 km/h est une contravention de 4e classe.",
+        "Vous devez payer une amende forfaitaire de 135 €.",
+        "Vous perdez 3 points sur votre permis de conduire.",
+        "Vous risquez également les peines complémentaires suivantes :",
+        "• Suspension du permis pour une durée de 3 ans maximum, avec aménagement possible en dehors de l'activité professionnelle",
+        "• Interdiction de conduire certains véhicules, y compris les véhicules sans permis, pour une durée de 3 ans maximum",
+        "• Obligation d'accomplir, à vos frais, un stage de sensibilisation à la sécurité routière.",
+        "Excès de vitesse entre 40 km/h et 49 km/h",
+        "L’excès de vitesse entre 40 km/h et 49 km/h est une contravention de 4e classe.",
+        "Vous devez payer une amende forfaitaire de 135 €.",
+        "Vous perdez 4 points sur votre permis de conduire.",
+        "Vous risquez également les peines complémentaires suivantes :",
+        "• Suspension du permis pour une durée de 3 ans maximum, avec aménagement possible en dehors de l'activité professionnelle",
+        "• Interdiction de conduire certains véhicules, y compris les véhicules sans permis, pour une durée de 3 ans maximum",
+        "• Obligation d'accomplir, à vos frais, un stage de sensibilisation à la sécurité routière.",
+        "Excès de vitesse de 50 km/h ou plus",
+        "L’excès de vitesse supérieur ou égal à 50 km/h est un délit sanctionné par une peine de 3 mois de prison maximum et par une amende pouvant aller jusqu'à 3 750 € d'amende.",
+        "Votre véhicule peut être immobilisé et mis en fourrière sur autorisation du préfet ou du procureur de la République.",
+        "6 points sont retirés du permis de conduire.",
+        "Vous risquez également les peines complémentaires suivantes :",
+        "• Confiscation de votre véhicule. La confiscation est obligatoire en cas de récidive. La juridiction peut toutefois ne pas prononcer cette peine, par une décision spécialement motivée",
+        "• Suspension du permis de conduire pour une durée de 3 ans maximum, sans aménagement possible en dehors de l'activité professionnelle",
+        "• Interdiction de conduire certains véhicules pour une durée de 5 ans maximum",
+        "• Obligation d'accomplir, à vos frais, un stage de sensibilisation à la sécurité routière",
+        "• Annulation du permis et interdiction de demander un nouveau permis pendant 3 ans maximum.",
+        "[Complement] Un dépassement de la vitesse maximale autorisée égal ou supérieur à 30 km/h est une circonstance aggravante en cas d'accident. En cas d’excès de vitesse égal ou supérieur à 30 km/h : • Le fait de causer la mort d'autrui, sans intention de la donner, constitue un homicide routier puni de 7 ans d'emprisonnement et de 100 000 € d'amende. • Le fait de causer à autrui, sans intention de nuire, une incapacité totale de travail (ITT) pendant plus de 3 mois, constitue des blessures routières ayant entraîné une ITT supérieure à 3 mois punies de 5 ans d'emprisonnement et et 75 000 € d'amende. • Le fait de causer à autrui, sans intention de nuire, une ITT pendant une durée inférieure ou égale à 3 mois constitue des blessures routières ayant entraîné une ITT inférieure ou égale à 3 mois punies de 3 ans d'emprisonnement et de 45 000 € d'amende. Vous risquez également des peines complémentaires. En cas de pluralité de circonstances aggravantes, les peines sont renforcées. Par exemple, conduite en état d’ivresse manifeste et excès de vitesse égal ou supérieur à 30 km/h. De plus, en cas d'homicide routier ou de blessures routières, lorsque les circonstances laissent supposer que vous pourriez ne plus être apte à conduire, vous devez passer un examen médical, à vos frais. L’examen médical doit être réalisé dans un délai de 72 heures à compter de l'accident routier ou à compter du moment où votre état de santé le permet. Vous devez vous adresser à un médecin de ville agréé. La liste des médecins agréés est disponible sur les sites internet des préfectures."
+      ]
+    },
+    {
+      "titre": "Un conducteur peut-il utiliser un détecteur de radar ?",
+      "contenu": [
+        "La détention, le transport et l'usage d'un détecteur de radar est interdit.",
+        "Vous risquez une amende pouvant aller jusqu'à 1 500 €.",
+        "6 points sont retirés du permis de conduire.",
+        "Le détecteur de radar est saisi. S'il est placé, adapté ou appliqué sur le véhicule, le véhicule est saisi.",
+        "Vous risquez également les peines complémentaires suivantes :",
+        "• Suspension du permis de conduire pour une durée de 3 ans au plus. La suspension peut être limitée à la conduite en dehors de l'activité professionnelle.",
+        "• Confiscation du véhicule lorsque l'avertisseur de radar est placé, adapté ou appliqué sur le véhicule."
+      ]
+    },
+    {
+      "titre": "Un conducteur est-il sanctionné s’il ne maîtrise pas sa vitesse ?",
+      "contenu": [
+        "Vous devez adapter votre vitesse en fonction de l'état de la chaussée, des difficultés de la circulation, notamment sur les voies adjacentes, et des obstacles prévisibles.",
+        "Vous devez réduire votre vitesse notamment dans les situations suivantes :",
+        "• Lors du croisement ou du dépassement de piétons y compris ceux ayant quitté un véhicule ou de cyclistes isolés ou en groupe",
+        "• Lors du croisement ou du dépassement de tout véhicule, immobilisé ou circulant à faible allure sur un accotement, une bande d'arrêt d'urgence ou une chaussée, équipé des feux spéciaux ou dont le conducteur fait usage de ses feux de détresse",
+        "• Lors du dépassement de convois à l'arrêt",
+        "• Lors du croisement ou du dépassement de véhicules de transport en commun ou de véhicules affectés au transport d'enfants, au moment de la descente et de la montée des voyageurs",
+        "• Dans tous les cas où la route ne vous apparaît pas entièrement dégagée, ou risque d'être glissante",
+        "• Lorsque les conditions de visibilité sont insuffisantes (temps de pluie et autres précipitations, brouillard…)",
+        "• Dans les virages",
+        "• Dans les descentes rapides",
+        "• Dans les sections de routes étroites ou encombrées ou bordées d'habitations",
+        "• À l'approche des sommets de côtes et des intersections où la visibilité n'est pas assurée",
+        "• Lorsque vous utilisez des dispositifs spéciaux d'éclairage et en particulier de vos feux de croisement",
+        "• Lors du croisement ou du dépassement d'animaux.",
+        "Ne pas respecter ces règles est une contravention de 4e classe sanctionné par une amende forfaitaire de 135 €."
+      ]
+    },
+    {
+      "titre": "Un conducteur est-il sanctionné s’il roule trop lentement ?",
+      "contenu": [
+        "Vous ne devez pas gêner la marche normale des autres véhicules en circulant sans raison valable à une vitesse anormalement réduite.",
+        "Ainsi, sur autoroute, si vous utilisez la voie la plus à gauche, vous devez circuler au minimum à 80 km/h lorsque la circulation est fluide et que les conditions atmosphériques sont bonnes.",
+        "Ne pas respecter ces règles est une contravention de 2e classe sanctionné par une amende forfaitaire de 35 €."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général des collectivités territoriales : articles L2213-1 à L2213-6-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070633/LEGISCTA000006180977"
+    },
+    {
+      "titre": "Code général des collectivités territoriales : articles L3221-1 à L3221-13",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070633/LEGISCTA000006164631"
+    },
+    {
+      "titre": "Code de la route : articles L413-1 à L413-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074228/LEGISCTA000006159544"
+    },
+    {
+      "titre": "Code de la route : articles R412-6 à R412-16",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074228/LEGISCTA000006177121"
+    },
+    {
+      "titre": "Code de la route : articles R413-1 à R413-16",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074228/LEGISCTA000006177128"
+    },
+    {
+      "titre": "Code de la route : articles R413-17 à R413-19",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074228/LEGISCTA000006177129"
+    },
+    {
+      "titre": "Décret n° 2025-1269 du 22 décembre 2025 - mise en œuvre du délit d'excès de vitesse en application de la loi du 9 juillet 2025 créant l'homicide routier et visant à lutter contre la violence routière",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000053157318"
+    },
+    {
+      "titre": "Instruction relative à la mise en œuvre de la loi d'orientation des mobilités pour les vitesses maximales autorisées sur les routes hors agglomération",
+      "url": "https://www.legifrance.gouv.fr/circulaire/id/44908"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Consulter et télécharger les informations du permis de conduire : solde de points, relevé intégral, attestation de droit à conduire sécurisée...",
+      "url": "https://mespoints.permisdeconduire.gouv.fr",
+      "type": "selNG"
+    },
+    {
+      "titre": "Consulter son dossier d'infraction routière et l’avancement de ses démarches",
+      "url": "https://www.usagers.antai.gouv.fr/fr/consultation",
+      "type": "selNG"
+    },
+    {
+      "titre": "Localiser un radar",
+      "url": "https://radars.securite-routiere.gouv.fr/#/",
+      "type": "outilRechercheNG"
+    }
+  ],
+  "contacts": [
+    "Maison de justice et du droit"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "La vitesse et la conduite",
+      "url": "https://www.securite-routiere.gouv.fr/dangers-de-la-route/la-vitesse-et-la-conduite"
+    },
+    {
+      "titre": "Radars",
+      "url": "https://www.securite-routiere.gouv.fr/radars"
+    },
+    {
+      "titre": "Site de la sécurité routière",
+      "url": "http://www.securite-routiere.gouv.fr"
+    }
+  ],
+  "slug": "vitesse-au-volant",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "infractions-routieres",
+      "titre": "Infractions routières"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "id": "F1227",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Une personne détenue en prison a-t-elle le droit de voter ?",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Si vous êtes un détenu, cela ne vous empêche pas de voter. Le fait d'être détenu ne prive pas obligatoirement du droit de vote.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-03-12",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1227",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Élections",
+    "Une personne détenue en prison a-t-elle le droit de voter ?"
+  ],
+  "introduction": "Vous êtes placé dans un établissement pénitentiaire et vous souhaitez savoir si vous pouvez toujours voter ? Cela dépend de votre situation (détenu condamné ou personne en détention provisoire, aussi appelée « prévenu » ou « accusé ») et de la conservation ou non de vos droits civiques. Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code électoral : articles L1 à L6",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006148454"
+    },
+    {
+      "titre": "Code électoral : articles L9 à L15-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070239/LEGISCTA000006164051/"
+    },
+    {
+      "titre": "Code électoral : articles L16 à L29",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006164052/"
+    },
+    {
+      "titre": "Code électoral : articles L79 à L82",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070239/LEGISCTA000021064671/#LEGISCTA000041412358"
+    },
+    {
+      "titre": "Code électoral : articles R81 à R85",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070239/LEGISCTA000021086233/#LEGISCTA000042588410"
+    },
+    {
+      "titre": "Code de procédure pénale : article D143-4",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041828386/"
+    },
+    {
+      "titre": "Code de procédure pénale : articles D147",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033121930/"
+    },
+    {
+      "titre": "Code pénitentiaire : articles D424-22 à D424-30",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000045476241/LEGISCTA000045489660/"
+    },
+    {
+      "titre": "Code pénitentiaire : articles R361-1 à R363-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000045476241/LEGISCTA000045489332/#LEGISCTA000045492418"
+    },
+    {
+      "titre": "Loi n° 2025-658 du 18 juillet 2025 relative au droit de vote par correspondance des personnes détenues",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000051919380/"
+    },
+    {
+      "titre": "Décret n° 2021-1501 du 18 novembre 2021 relatif à l'inscription sur les listes électorales et au vote par correspondance des personnes détenues dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000044340344"
+    },
+    {
+      "titre": "Instruction INTA1830120J du 21 novembre 2018 relative à la tenue des listes électorales et des listes électorales complémentaires",
+      "url": "https://www.legifrance.gouv.fr/download/pdf/circ?id=44101"
+    },
+    {
+      "titre": "Circulaire INTA2031723J du 4/02/2021 relative à la création d'un bureau de vote centralisateur et au vote par correspondance des détenus",
+      "url": "https://www.legifrance.gouv.fr/circulaire/id/45130?init=true&page=1&query=INTA2031715J&searchField=ALL&tab_selection=all"
+    },
+    {
+      "titre": "Addendum à l'instruction INTA1830120J du 21 novembre 2018 relative à la tenue des listes électorales complémentaires",
+      "url": "https://www.legifrance.gouv.fr/circulaire/id/45129?origin=list"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Vérifier votre inscription électorale et votre bureau de vote",
+      "url": "https://situation.elections.interieur.gouv.fr/",
+      "type": "selNG"
+    },
+    {
+      "titre": "Nouvelle-Calédonie : vérifier son inscription sur la liste électorale et son bureau de vote",
+      "url": "https://electeur-nc.fr/",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Demande d'inscription sur les listes électorales",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_12669.do",
+      "type": "formulaireNG"
+    },
+    {
+      "titre": "Voter par procuration",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_14952.do",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Guide du détenu arrivant",
+      "url": "https://www.justice.gouv.fr/sites/default/files/2024-07/dap_guide_je_suis_en_detention.pdf"
+    }
+  ],
+  "slug": "une-personne-detenue-en-prison-a-t-elle-le-droit-de-voter",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "elections",
+      "titre": "Élections"
+    }
+  ]
+}

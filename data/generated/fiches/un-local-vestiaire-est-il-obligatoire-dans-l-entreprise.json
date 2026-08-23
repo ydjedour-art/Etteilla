@@ -1,0 +1,50 @@
+{
+  "id": "F1738",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Un local vestiaire est-il obligatoire dans l'entreprise ?",
+  "theme": "Travail - Formation",
+  "description": "Un local vestiaire collectif est obligatoire en cas de travail nécessitant le port de vêtements spécifiques ou d'équipements de protection individuelle.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-12-05",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1738",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Conditions de travail dans le secteur privé",
+    "Un local vestiaire est-il obligatoire dans l'entreprise ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "L'employeur doit mettre à la disposition des travailleurs les moyens d'assurer leur propreté individuelle, notamment des toilettes et des lavabos.",
+        "L'obligation de mettre en place un local vestiaire dans l'entreprise diffère selon que les salariés portent des vêtements de travail spécifiques ou des EPI ou n'en portent pas."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code du travail : article R4228-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018532006"
+    },
+    {
+      "titre": "Code du travail : articles R4228-2 à R4228-6",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000018489211"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "un-local-vestiaire-est-il-obligatoire-dans-l-entreprise",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "conditions-de-travail-dans-le-secteur-prive",
+      "titre": "Conditions de travail dans le secteur privé"
+    }
+  ]
+}

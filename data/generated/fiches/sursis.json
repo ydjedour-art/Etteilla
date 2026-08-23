@@ -1,0 +1,86 @@
+{
+  "id": "F1531",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Sursis",
+  "theme": "Justice",
+  "description": "Il existe 2 types de sursis : le sursis simple et le sursis probatoire.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-10-31",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1531",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Condamnations et peines",
+    "Sursis"
+  ],
+  "introduction": "Vous avez commis une infraction et vous allez être jugé ? En cas de condamnation, vous pouvez peut-être bénéficier d’un sursis. Dans ce cas, la peine prononcée contre vous sera suspendue et vous n’aurez pas à l’exécuter. Cependant, vous devrez respecter des règles pendant un certain temps. Si vous ne les respectez pas, le sursis peut être révoqué en tout ou en partie. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les conditions d’obtention et les conséquences du sursis dépendent de sa nature : sursis simple ou sursis probatoire.",
+        "Le sursis simple est un mode d’exécution d’une peine. Il vous permet d’être dispensé d’effectuer une peine prononcée à votre encontre, à condition de ne commettre aucune nouvelle infraction pendant un certain délai.",
+        "Le sursis probatoire est un mode d’exécution d’une peine d’emprisonnement. Il vous permet d’être dispensé d’exécuter la peine de prison prononcée contre vous, à condition que vous respectiez les obligations déterminées par la juridiction qui vous a jugé et/ou par le juge de l’application des peines."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de procédure pénale : articles 734 à 747-4",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006138147"
+    },
+    {
+      "titre": "Code pénal : articles 132-29 à 132-39",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029370668"
+    },
+    {
+      "titre": "Code pénal : articles 132-40 à 132-42",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038313559"
+    },
+    {
+      "titre": "Code de la justice pénale des mineurs : article L122-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442286"
+    },
+    {
+      "titre": "Code pénal : articles 132-43 à 132-46",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000038313547"
+    },
+    {
+      "titre": "Code de la justice pénale des mineurs : article L122-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043203871/2025-10-20"
+    },
+    {
+      "titre": "Code pénal : articles 132-47 à 132-51",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000038313522"
+    },
+    {
+      "titre": "Code pénal : articles 132-52 à 132-53",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000038313562"
+    },
+    {
+      "titre": "Code pénal : article 712-20",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038313618"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Service pénitentiaire d'insertion et de probation (Spip)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Services territoriaux éducatifs de milieu ouvert (STEMO)",
+      "url": "https://www.justice.gouv.fr/annuaire/etablissements-services-protection-judiciaire-jeunesse/stemo"
+    }
+  ],
+  "slug": "sursis",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "condamnations-et-peines",
+      "titre": "Condamnations et peines"
+    }
+  ]
+}

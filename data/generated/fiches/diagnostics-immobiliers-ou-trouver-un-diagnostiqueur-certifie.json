@@ -1,0 +1,56 @@
+{
+  "id": "F17376",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Diagnostics immobiliers : où trouver un diagnostiqueur certifié ?",
+  "theme": "Logement",
+  "description": "La liste des diagnostiqueurs certifiés est consultable sur l’annuaire du site internet du ministère en charge du logement.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-03-10",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F17376",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Diagnostic immobilier",
+    "Diagnostics immobiliers : où trouver un diagnostiqueur certifié ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "La liste des diagnostiqueurs certifiés est consultable sur l’annuaire du site internet du ministère en charge du logement :",
+        "Rechercher un diagnostiqueur immobilier certifié ou vérifier les certificats de son diagnostiqueur",
+        "Bien que les diagnostiqueurs répertoriés soient certifiés, il est recommandé de vérifier que leur assurance responsabilité civile professionnelle est bien en cours de validité au moment de l’intervention. L’impartialité (absence de parti pris) et l’indépendance (absence de tout lien d’intérêt ou d’influence) du diagnostiqueur vis-à-vis de vous même relèvent également des critères essentiels à respecter.",
+        "[À savoir] Vous pouvez faire appel à plusieurs professionnels pour faire réaliser vos diagnostics immobiliers. Les prix des diagnostics ne sont pas réglementés, les tarifs peuvent donc varier d'un professionnel à un autre pour un même diagnostic."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Arrêté du 1er juillet 2024 définissant les critères de certification des diagnostiqueurs intervenant dans les domaines de l'amiante, électricité, gaz, plomb et termites, de leurs organismes de formation et les exigences applicables aux organismes de certification",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000049890008"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Rechercher un diagnostiqueur immobilier certifié ou vérifier les certificats de son diagnostiqueur",
+      "url": "http://diagnostiqueurs.din.developpement-durable.gouv.fr/index.action",
+      "type": "outilRechercheNG"
+    }
+  ],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "diagnostics-immobiliers-ou-trouver-un-diagnostiqueur-certifie",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "diagnostic-immobilier",
+      "titre": "Diagnostic immobilier"
+    }
+  ]
+}

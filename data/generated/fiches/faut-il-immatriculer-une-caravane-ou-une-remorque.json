@@ -1,0 +1,70 @@
+{
+  "id": "F21112",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Faut-il immatriculer une caravane ou une remorque ?",
+  "theme": "Transports - Mobilité",
+  "description": "Si son PTAC est supérieur à 500 kg, une caravane ou une remorque doit avoir sa propre carte grise (ou certificat d'immatriculation).",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-03-11",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F21112",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Carte grise (certificat d'immatriculation)",
+    "Faut-il immatriculer une caravane ou une remorque ?"
+  ],
+  "introduction": "Oui, une remorque ou une caravane doit être immatriculée. En fonction du poids total autorisé en charge du véhicule (PTAC), elle doit avoir son propre numéro d'immatriculation ou peut avoir le numéro d'immatriculation du véhicule qui la tracte. La réglementation diffère selon que le PTAC est supérieur à 500 kg ou non.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "PTAC de plus de 500 kg",
+        "Si votre remorque ou votre caravane a un PTAC supérieur à 500 kg, vous devez faire une demande de certificat d’immatriculation (appelé auparavant carte grise) pour que la remorque soit autorisée à circuler.",
+        "Les démarches sont identiques à celles prévues pour les véhicules particuliers neufs ou d'occasion.",
+        "La caravane ou remorque doit alors porter une plaque d’immatriculation reprenant le numéro indiqué sur son propre certifcat d’immatriculation.",
+        "L'identifiant territorial peut être différent de celui du véhicule tractant.",
+        "PTAC inférieur ou égal à 500 kg",
+        "La remorque ou la caravane doit avoir une plaque d'immatriculation identique à celle du véhicule qui la tracte. La caravane ou la remorque n'a pas besoin d'un certificat d’immatriculation propre.",
+        "Si vous avez fabriqué une remorque de moins de 500 kg, vous devez la faire homologuer pour qu'elle puisse circuler. Pour l'homologation, vous devez contacter la Dreal dont vous dépendez.",
+        "Direction régionale de l'environnement, de l'aménagement et du logement (Dreal) - Unité territoriale",
+        "Attention : si vous habitez dans les départements 75, 77, 78, 91, 92, 93, 94 et 95, vous devez faire la demande auprès de la plate-forme régionale de réception de véhicules de la DRIEE Île-de-France.",
+        "Réception des véhicules pour les constructeurs, professionnels et les particuliers - Île-de-France"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la route : articles R322-1 à R322-14",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074228/LEGISCTA000006177098"
+    },
+    {
+      "titre": "Arrêté du 9 février 2009 relatif aux démarches d'immatriculation des véhicules",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000020237165"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demande de certificat d'immatriculation d'un véhicule",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/13750",
+      "type": "formulaireNG"
+    },
+    {
+      "titre": "Calculer le coût du certificat d'immatriculation",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/cout-certificat-immatriculation",
+      "type": "Simulateur"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "faut-il-immatriculer-une-caravane-ou-une-remorque",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "carte-grise-certificat-d-immatriculation",
+      "titre": "Carte grise (certificat d'immatriculation)"
+    }
+  ]
+}

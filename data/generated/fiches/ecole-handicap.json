@@ -1,0 +1,33 @@
+{
+  "id": "F35025",
+  "type_publication": "Recherche guidée",
+  "titre": "École handicap",
+  "theme": "Famille - Scolarité",
+  "description": "École handicap",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2019-10-15",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35025",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "École et handicap",
+    "École handicap"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "ecole-handicap",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "ecole-et-handicap",
+      "titre": "École et handicap"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "F34904",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Animal domestique, non domestique, apprivoisé, de compagnie : quelles différences ?",
+  "theme": "Loisirs - Sports - Culture",
+  "description": "Animal domestique, non domestique et de compagnie sont des catégories d'animaux différentes définies par la loi.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-01-30",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34904",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Loisirs - Sports - Culture",
+    "Animal de compagnie",
+    "Animal domestique, non domestique, apprivoisé, de compagnie : quelles différences ?"
+  ],
+  "introduction": "Vous vous demandez quels sont les différences entre animal domestique, non domestique, animal apprivoisé, de compagnie ? Nous vous les présentons.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Animal domestique",
+        "Un animal domestique est un animal appartenant à une espèce ayant subi des modifications, par sélection, de la part de l'homme. C'est un animal qui, élevé de génération en génération sous la surveillance de l'homme, a évolué de façon à constituer une espèce ou une race, différente de la forme sauvage primitive dont il est issu.",
+        "Une espèce domestique est une espèce dont tous les représentants appartiennent à des populations animales sélectionnées ou sont issus de parents appartenant à des populations animales sélectionnées.",
+        "La liste des espèces domestiques d'animaux est limitativement fixée par arrêté ministériel. Ainsi, par exemple, les chiens, les chats, les chevaux sont des animaux domestiques mais aussi les porcs, les dromadaires, le paon blanc, la carpe Koï, le ver à soie, etc.",
+        "Animal non domestique",
+        "Un animal non domestique est un animal appartenant à une espèce qui n'a pas subi de modification par sélection de la part de l'homme.",
+        "Les espèces domestiques sont limitativement listées dans un arrêté ministériel.",
+        "Toute espèce ne figurant pas dans cette liste est une espèce non domestique.",
+        "Animal apprivoisé",
+        "Un animal apprivoisé est un animal habitué au contact de l'homme.",
+        "Un animal apprivoisé n'est pas nécessairement un animal domestique. Un animal non domestique peut être apprivoisé.",
+        "Animal de compagnie",
+        "Un animal de compagnie est un animal détenu ou destiné à être détenu par l'homme pour son agrément. Ce n'est pas nécessairement un animal domestique, ni même nécessairement un animal apprivoisé."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code rural et de la pêche maritime : articles L214-6 à L214-8-2",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000031281488"
+    },
+    {
+      "titre": "Code de l'environnement : article R411-5",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006837703"
+    },
+    {
+      "titre": "Arrêté du 11 août 2006 fixant la liste des espèces, races ou variétés d'animaux domestiques",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000789087"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Espèces, races et variétés d'animaux domestiques",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000789087#JORFARTI000002254536"
+    },
+    {
+      "titre": "Faune sauvage captive",
+      "url": "https://www.ecologie.gouv.fr/faune-sauvage-captive"
+    }
+  ],
+  "slug": "animal-domestique-non-domestique-apprivoise-de-compagnie-quelles-differences",
+  "path": [
+    {
+      "slug": "loisirs-sports-culture",
+      "titre": "Loisirs - Sports - Culture"
+    },
+    {
+      "slug": "animal-de-compagnie",
+      "titre": "Animal de compagnie"
+    }
+  ]
+}

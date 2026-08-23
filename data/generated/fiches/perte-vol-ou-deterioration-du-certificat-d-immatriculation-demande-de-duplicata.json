@@ -1,0 +1,81 @@
+{
+  "id": "F1726",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Perte, vol ou détérioration du certificat d’immatriculation : demande de duplicata",
+  "theme": "Transports - Mobilité",
+  "description": "Un duplicata du certificat d’immatriculation (auparavant appelé carte grise) peut être obtenu s’il a été volé, perdu ou abîmé.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-06-19",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1726",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Carte grise (certificat d'immatriculation)",
+    "Perte, vol ou détérioration du certificat d’immatriculation : demande de duplicata"
+  ],
+  "introduction": "Si vous avez perdu votre certificat d’immatriculation (auparavant appelé carte grise) ou s’il a été volé ou s’il est détérioré, vous devez demander un duplicata. Cette démarche peut être effectuée sur internet ou chez un professionnel de l’automobile habilité. Nous vous expliquons la démarche à suivre.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "[À savoir] Si votre véhicule a été acheté en leasing, le certificat d’immatriculation est au nom de l'organisme propriétaire (société de financement ou société de location). C'est lui qui doit faire les démarches pour la demande de duplicata. Le représentant de la société peut néanmoins vous transmettre un mandat pour vous permettre de réaliser vous-même la démarche sur internet ou chez un professionnel de l’automobile habilité."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la route : articles R322-1 à R322-14",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074228/LEGISCTA000006177098"
+    },
+    {
+      "titre": "Arrêté du 9 février 2009 relatif aux démarches d'immatriculation des véhicules",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000020237165"
+    },
+    {
+      "titre": "Code des impositions sur les biens et services : articles L421-37 à L421-40 (taxe fixe)",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044595989/LEGISCTA000044598993/"
+    },
+    {
+      "titre": "Arrêté du 21 septembre 2015 portant fixation du tarif de la redevance d'acheminement des certificats d'immatriculation des véhicules",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000031194838/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Refaire son certificat d’immatriculation (auparavant appelé carte grise) en cas de perte, vol ou détérioration",
+      "url": "https://immatriculation.ants.gouv.fr/demarches-en-ligne/refaire-votre-certificat-dimmatriculation",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Suivre la demande de certificat d’immatriculation",
+      "url": "https://moncompte.ants.gouv.fr/connexion",
+      "type": "selNG"
+    },
+    {
+      "titre": "Calculer le coût du certificat d'immatriculation",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/cout-certificat-immatriculation",
+      "type": "Simulateur"
+    }
+  ],
+  "contacts": [
+    "France Services / Maison de services au public",
+    "Point d'accueil numérique"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Points numériques",
+      "url": "https://immatriculation.ants.gouv.fr/services-et-formulaires/carte-des-points-numeriques"
+    }
+  ],
+  "slug": "perte-vol-ou-deterioration-du-certificat-d-immatriculation-demande-de-duplicata",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "carte-grise-certificat-d-immatriculation",
+      "titre": "Carte grise (certificat d'immatriculation)"
+    }
+  ]
+}

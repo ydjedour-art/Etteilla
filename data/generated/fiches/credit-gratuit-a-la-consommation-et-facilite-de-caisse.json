@@ -1,0 +1,63 @@
+{
+  "id": "F2438",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Crédit gratuit à la consommation et facilité de caisse",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Le paiement en plusieurs fois sans frais peut correspondre soit à une facilité de caisse, soit à un crédit gratuit à la consommation (au-delà de 3 mois).",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-12-05",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2438",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Crédit à la consommation",
+    "Crédit gratuit à la consommation et facilité de caisse"
+  ],
+  "introduction": "Vous avez besoin de faire un achat imprévu ? Vous pouvez peut-être bénéficier d’un paiement en plusieurs fois sans frais. Selon la durée de remboursement, il s’agit d’une facilité de caisse (moins de 3 mois) ou d’un crédit gratuit à la consommation (plus de 3 mois). Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Le paiement en plusieurs fois sans frais peut prendre 2 formes : la facilité de caisse ou le crédit gratuit à la consommation. Ces 2 solutions permettent d’étaler un achat sans intérêts, mais le niveau de protection du consommateur diffère.",
+        "• La facilité de caisse, utilisée pour un remboursement de 3 mois maximum, n’est pas soumise aux règles du crédit à la consommation : elle peut inclure des frais, n’impose pas d’examen de solvabilité, ne nécessite pas la remise d’une offre écrite et ne donne pas automatiquement droit à rétractation.",
+        "• À l’inverse, le crédit gratuit à la consommation, proposé au-delà de 3 mois, est strictement encadré. Le professionnel ne peut pas augmenter le prix du produit pour compenser l’absence d’intérêts, mais des frais de dossier peuvent être prévus. Il doit également fournir toutes les informations précontractuelles obligatoires."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la consommation : article L311-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034072668/"
+    },
+    {
+      "titre": "Code de la consommation : articles L312-1 à L312-4",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069565/LEGISCTA000032221971/"
+    },
+    {
+      "titre": "Code de la consommation : articles L312-41 à L312-43",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032226102"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Modèle de lettre - Rétractation d'un crédit à la consommation (prêt personnel, crédit renouvelable, etc.)",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/RetractationCreditPretPersonnelCreditConso",
+      "type": "lettreTypeNG"
+    }
+  ],
+  "contacts": [
+    "0809 540 550 DGCCRF - RéponseConso"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "credit-gratuit-a-la-consommation-et-facilite-de-caisse",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "credit-a-la-consommation",
+      "titre": "Crédit à la consommation"
+    }
+  ]
+}

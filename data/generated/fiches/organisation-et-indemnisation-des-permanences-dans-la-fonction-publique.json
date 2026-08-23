@@ -1,0 +1,83 @@
+{
+  "id": "F21423",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Organisation et indemnisation des permanences dans la fonction publique",
+  "theme": "Travail - Formation",
+  "description": "Les permanences sont des périodes au cours desquels il vous est imposé d'être sur votre lieu de travail habituel en dehors de votre temps de travail habituel.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-04-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F21423",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Temps de travail dans la fonction publique",
+    "Organisation et indemnisation des permanences dans la fonction publique"
+  ],
+  "introduction": "En tant que fonctionnaire ou contractuel, vous pouvez occuper un emploi dans lequel vous devez effectuer des permanences. Les permanences sont des périodes au cours desquels il vous est imposé d'être sur votre lieu de travail habituel, pour nécessité de service, en dehors de votre temps de travail habituel (la nuit, un samedi, un dimanche ou un jour férié).",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "La permanence ne doit pas être confondue avec l'astreinte.",
+        "La permanence s'effectue sur le lieu de travail. L'agent de permanence est à la disposition de son administration employeur et ne peut pas vaquer librement à ses occupations personnelles. Le temps de la permanence est considéré comme du temps de travail effectif.",
+        "L'astreinte est une période pendant laquelle l'agent, sans être à la disposition permanente et immédiate de son administration employeur, doit rester, en-dehors de son temps de travail habituel, à son domicile ou à proximité et joignable à tout moment, pour pouvoir intervenir rapidement à la demande de son administration.",
+        "L'agent d'astreinte peut vaquer à ses occupations personnelles. Seules les périodes d'intervention au cours desquelles il exécute une tache (et, s'il y a lieu, les temps de déplacement entre le domicile et le lieu d'intervention) sont considérées comme du temps de travail effectif.",
+        "L'agent qui doit être sur son lieu de travail un dimanche à l'occasion d'une manifestation particulière (fête locale, concert,...) pour répondre à d'éventuelles demandes urgentes est de permanence.",
+        "L'agent qui doit rester joignable à son domicile pour pouvoir participer à tout moment au déneigement des voies publiques en cas d'intempéries est d'astreinte.",
+        "Nous vous expliquons quels sont les agents concerné par des permanences et comment les permanences sont indemnisées selon votre fonction publique d'appartenance (État - FPE, territoriale - FPT, hospitalière - FPH)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Décret n°2000-815 du 25 août 2000 relatif à l'aménagement et à la réduction du temps de travail dans la fonction publique de l'État",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000005629863/"
+    },
+    {
+      "titre": "Décret n°2001-623 du 12 juillet 2001 relatif à l'aménagement et à la réduction du temps de travail dans la fonction publique territoriale",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000005631213/"
+    },
+    {
+      "titre": "Décret n°2002-148 du 7 février 2002 relatif aux modalités de rémunération ou de compensation des permanences au ministère de l'intérieur",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000005632206"
+    },
+    {
+      "titre": "Décret n°2003-545 du 18 juin 2003 relatif à l'indemnité de permanence au ministère de l'équipement, des transports, du logement, du tourisme et de la mer",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000419275"
+    },
+    {
+      "titre": "Décret n°2005-542 du 19 mai 2005 relatif à la rémunération ou la compensation des astreintes et des permanences dans la FPT",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000813342/"
+    },
+    {
+      "titre": "Arrêté du 7 février 2002 fixant les taux des indemnités de permanence dans la direction générale de l'administration du ministère de l'intérieur",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000019594547/"
+    },
+    {
+      "titre": "Arrêté du 30 avril 2003 relatif à l'organisation et à l'indemnisation de la continuité des soins et de la permanence pharmaceutique dans les établissements publics de santé",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000602745/"
+    },
+    {
+      "titre": "Arrêté du 14 avril 2015 fixant les montants de l'indemnité d'astreinte et la rémunération horaire des interventions aux ministères chargés du développement durable et du logement",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000030483579/"
+    },
+    {
+      "titre": "Arrêté du 8 juillet 2022 relatif à l'indemnisation de la permanence et de la continuité des soins des personnels de santé",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGIARTI000046032384"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "organisation-et-indemnisation-des-permanences-dans-la-fonction-publique",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "temps-de-travail-dans-la-fonction-publique",
+      "titre": "Temps de travail dans la fonction publique"
+    }
+  ]
+}

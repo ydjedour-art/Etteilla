@@ -1,0 +1,65 @@
+{
+  "id": "F640",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Ravalement de façade d'un immeuble : à quelle fréquence doit-il être réalisé ?",
+  "theme": "Logement",
+  "description": "Un arrêté préfectoral peut obliger propriétaires ou syndicats des copropriétaires d'un immeuble en copropriété à faire un ravalement de façade périodiquement.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-03-06",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F640",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Budget et charges de copropriété",
+    "Ravalement de façade d'un immeuble : à quelle fréquence doit-il être réalisé ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Le ravalement est une remise en état des murs extérieurs des immeubles et des éléments apparents des façades tels que les menuiseries extérieures (fenêtres, volets, persiennes) ou la ferronnerie.",
+        "La périodicité d’un ravalement dépend de l'existence ou non d'un arrêté préfectoral.",
+        "En effet, dans certaines communes, un arrêté préfectoral peut obliger les propriétaires d'immeuble (ou syndicats des copropriétaires lorsque l'immeuble est en copropriété) à faire réaliser un ravalement de façade à une fréquence régulière. Cela concerne notamment Paris, Lyon, Nantes.",
+        "Il faut se renseigner auprès du service de l'urbanisme de la mairie (ou consulter son site internet) pour savoir si l'on est concerné par cette obligation.",
+        "Mairie",
+        "Existence d'un arrêté préfectoral",
+        "Le ravalement doit être réalisé au moins 1 fois tous les 10 ans.",
+        "Entre les ravalements, les façades doivent rester en bon état de propreté. Cette exigence peut impliquer des interventions intermédiaires, telles que des réparations ponctuelles, un nettoyage ou des travaux localisés visant à prévenir toute dégradation.",
+        "Le ravalement est imposé par le maire, par voie d’injonction. Cette décision doit être motivée et tient compte de l’état de l’immeuble ainsi que de son insertion dans l’environnement urbain.",
+        "[À savoir] Lorsque l'immeuble est en copropriété, les frais de ravalement sont répartis entre les copropriétaires selon leurs tantièmes.",
+        "Si le ravalement de façade n'est pas fait dans un délai de 6 mois à partir de l’injonction, le maire peut exiger du propriétaire ou du syndicat des copropriétaires qu'il réalise ce ravalement dans un délai d'au maximum 1 an.",
+        "Sans action du propriétaire ou du syndicat des copropriétaires dans ce délai, le maire peut demander au président du tribunal judiciaire du lieu de situation de l’immeuble, l’autorisation de faire procéder le ravalement de façade à leur place et à leurs frais.",
+        "Le propriétaire ou le syndicat des copropriétaires risque également une amende de 3 750 €.",
+        "Absence d'arrêté préfectoral",
+        "Dans les communes non visées par un arrêté préfectoral, aucune périodicité n’est prévue pour faire réaliser le ravalement de façade."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la construction et de l'habitation : articles L126-1 à L126-6",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000041565060"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : article L183-12",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041570619"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Mairie"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "ravalement-de-facade-d-un-immeuble-a-quelle-frequence-doit-il-etre-realise",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "budget-et-charges-de-copropriete",
+      "titre": "Budget et charges de copropriété"
+    }
+  ]
+}

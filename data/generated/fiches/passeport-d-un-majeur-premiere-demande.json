@@ -1,0 +1,107 @@
+{
+  "id": "F14929",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Passeport d'un majeur : première demande",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Pour demander un passeport, il faut se rendre dans une mairie équipée avec les documents justificatifs. Une pré-demande peut être faite sur internet.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-08",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F14929",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Passeport",
+    "Passeport d'un majeur : première demande"
+  ],
+  "introduction": "Vous êtes de nationalité française, vous êtes majeur et vous souhaitez demander votre premier passeport ? Nous vous présentons les étapes de la démarche. Elles varient selon le lieu où vous faites la demande.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code général des impôts : articles 953 à 955",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006179981/"
+    },
+    {
+      "titre": "Code général des impôts : article 1043 A - Montant en Guyane",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006305785"
+    },
+    {
+      "titre": "Décret n°81-778 du 13 août 1981 fixant le tarif des droits à percevoir dans les chancelleries diplomatiques et consulaires et, en France, par le ministère des relations extérieures",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000335104/"
+    },
+    {
+      "titre": "Décret n°2005-1726 du 30 décembre 2005 relatif au passeport : article 4 - Durée de validité",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000018763637"
+    },
+    {
+      "titre": "Décret n°2005-1726 du 30 décembre 2005 relatif au passeport : article 5 - Pièces à fournir pour une première demande",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000033333825"
+    },
+    {
+      "titre": "Décret n°2005-1726 du 30 décembre 2005 relatif au passeport : article 6-1 - Empreintes et photo",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000033333857"
+    },
+    {
+      "titre": "Décret n°2005-1726 du 30 décembre 2005 relatif au passeport : article 10 - Retrait du passeport",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000033333863"
+    },
+    {
+      "titre": "Arrêté du 5 février 2009 relatif aux photos d'identité produites pour une demande de passeport",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000020246797/"
+    },
+    {
+      "titre": "Arrêté du 27 avril 2017 relatif aux conditions d'envoi d'un passeport à l'étranger",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000034518557/"
+    },
+    {
+      "titre": "Arrêté du 20 avril 2016 autorisant la création d'un système de téléservices destinés à la prédemande et à la demande de titres officiels",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000032445878/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Rechercher un rendez-vous pour une demande de passeport",
+      "url": "https://rendezvouspasseport.ants.gouv.fr/",
+      "type": "Outil de recherche"
+    },
+    {
+      "titre": "Pré-demande pour une demande de 1er passeport",
+      "url": "https://passeport.ants.gouv.fr/demarches-en-ligne/faire-une-premiere-demande-de-passeport",
+      "type": "selNG"
+    },
+    {
+      "titre": "Achat en ligne du timbre fiscal - Passeport",
+      "url": "https://timbres.impots.gouv.fr",
+      "type": "selNG"
+    },
+    {
+      "titre": "Suivre l'état d'avancement d'une demande de passeport",
+      "url": "https://moncompte.ants.gouv.fr/suivi_cni_passeport",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "France Services / Maison de services au public",
+    "Point d'accueil numérique"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Vérifier si l'état civil de votre ville de naissance est dématérialisé",
+      "url": "https://passeport.ants.gouv.fr/services/villes-adherentes-a-la-dematerialisation"
+    },
+    {
+      "titre": "Consuls honoraires habilités à remettre les cartes d'identité et les passeports",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052295016"
+    }
+  ],
+  "slug": "passeport-d-un-majeur-premiere-demande",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "passeport",
+      "titre": "Passeport"
+    }
+  ]
+}

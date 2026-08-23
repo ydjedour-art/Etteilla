@@ -1,0 +1,42 @@
+{
+  "id": "F12410",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Un salarié peut-il reporter ses jours de congés non pris sur l'année suivante ?",
+  "theme": "Travail - Formation",
+  "description": "Le report des congés payés non pris est possible mais sous conditions.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-01-20",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F12410",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Congés dans le secteur privé",
+    "Un salarié peut-il reporter ses jours de congés non pris sur l'année suivante ?"
+  ],
+  "introduction": "Le salarié du secteur privé peut reporter des congés payés non pris durant la période de prise de congés, du 1er mai au 31 octobre de l'année, mais sous conditions. Cela dépend si le salarié effectue un temps de travail annualisé ou pas. Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code du travail : articles L3141-1 à L3141-2",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000006189647"
+    },
+    {
+      "titre": "Code du travail : article L3141-22",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033020709"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "un-salarie-peut-il-reporter-ses-jours-de-conges-non-pris-sur-l-annee-suivante",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "conges-dans-le-secteur-prive",
+      "titre": "Congés dans le secteur privé"
+    }
+  ]
+}

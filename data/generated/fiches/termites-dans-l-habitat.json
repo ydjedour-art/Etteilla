@@ -1,0 +1,79 @@
+{
+  "id": "F285",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Termites dans l'habitat",
+  "theme": "Logement",
+  "description": "En présence de termites dans son logement ou dans son immeuble, il faut faire une déclaration en mairie sous peine de sanctions pénales.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2024-10-23",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F285",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Risques sanitaires et sécurité du logement",
+    "Termites dans l'habitat"
+  ],
+  "introduction": "Que faire en cas de présence de termites dans un logement ou immeuble ? Tout dépend si le logement est situé dans un secteur identifié comme étant contaminé par les termites ou non. Ces secteurs sont définis par un arrêté du préfet. Nous vous expliquons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Pour savoir si un logement ou un immeuble est situé dans un secteur contaminé par les termites, il est possible de consulter une carte :",
+        "Départements couverts par un arrêté délimitant les zones de termites",
+        "Il est également possible de contacter sa mairie pour en avoir connaissance.",
+        "Mairie"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la construction et de l'habitation : articles L126-1 à L126-6",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000041565060"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : articles R126-2 à R126-4",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000043818551/#LEGISCTA000043818551"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : article R184-7 et article R184-8",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000043819577/#LEGISCTA000043819577"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Départements couverts par un arrêté délimitant les zones de termites",
+      "url": "https://www.ecologie.gouv.fr/sites/default/files/dgaln_dpts_termites_2016_0.pdf",
+      "type": "Outil de recherche"
+    },
+    {
+      "titre": "Déclaration de la présence de termites dans un logement ou immeuble",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_12010.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Déclaration des opérations d'incinération ou de traitement des bois et matériaux contaminés par les termites",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_12012.do",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Mairie"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Comment identifier la présence de termites ?",
+      "url": "https://www.ecologie.gouv.fr/sites/default/files/documents/dgaln_guide_prevention_termite_janvier_2013.pdf"
+    }
+  ],
+  "slug": "termites-dans-l-habitat",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "risques-sanitaires-et-securite-du-logement",
+      "titre": "Risques sanitaires et sécurité du logement"
+    }
+  ]
+}

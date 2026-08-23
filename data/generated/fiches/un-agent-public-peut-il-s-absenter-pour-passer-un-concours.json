@@ -1,0 +1,41 @@
+{
+  "id": "F34537",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Un agent public peut-il s'absenter pour passer un concours ?",
+  "theme": "Travail - Formation",
+  "description": "Oui, il est d'usage d'accorder aux agents publics des autorisations d'absence pour participer aux épreuves d'un concours.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-10-09",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34537",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Recrutement dans la fonction publique",
+    "Un agent public peut-il s'absenter pour passer un concours ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Oui. Aucun texte ne le prévoit, mais il est d’usage d'accorder aux fonctionnaires et aux contractuels des autorisations d'absence pour participer aux épreuves d'un concours sur présentation de leur convocation.",
+        "Chaque administration fixe ses propres règles en la matière. Renseignez-vous auprès de votre direction des ressources humaines pour connaître les conditions d'absence autorisée."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "un-agent-public-peut-il-s-absenter-pour-passer-un-concours",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "recrutement-dans-la-fonction-publique",
+      "titre": "Recrutement dans la fonction publique"
+    }
+  ]
+}

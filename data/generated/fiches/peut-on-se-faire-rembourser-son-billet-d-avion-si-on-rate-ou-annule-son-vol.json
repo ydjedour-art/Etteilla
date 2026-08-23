@@ -1,0 +1,74 @@
+{
+  "id": "F32396",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Peut-on se faire rembourser son billet d'avion si on rate ou annule son vol ?",
+  "theme": "Transports - Mobilité",
+  "description": "Vous n'avez pas droit au remboursement de votre billet, mais vous pouvez être remboursé des taxes et redevances qui y sont incluses.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-07-07",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F32396",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Voyage en avion",
+    "Peut-on se faire rembourser son billet d'avion si on rate ou annule son vol ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "En principe, le prix du billet n’est pas remboursable si vous ne prenez pas votre vol. Cela vaut notamment dans l’un des cas suivants :",
+        "• Vous avez raté le décollage à cause d'un retard dans les transports",
+        "• Vous n'aviez pas les bons documents de voyage (passeport par exemple) et vous n'avez pas pu embarquer",
+        "• Vous avez raté un vol en raison de retards aux contrôles de sécurité",
+        "• Vous n'avez pas respecté l'heure d'embarquement du vol.",
+        "Certaines compagnies appliquent en plus des frais appelés « no-show » (non-présentation), qui correspondent à des pénalités forfaitaires, des frais de dossier ou de réémission, voire des frais liés à la remise en vente de votre place. Ces frais viennent s’ajouter à la perte du billet.",
+        "Cependant, si votre annulation est liée à un motif légitime (par exemple, une maladie, un empêchement professionnel ou un décès dans votre famille), vous pouvez, sous certaines conditions, être indemnisé grâce à une assurance annulation. Cette assurance peut être souscrite séparément ou être incluse dans certaines cartes bancaires (Visa Premier, Mastercard Gold, par exemple).",
+        "Les conditions (par exemple avoir payé le billet avec la carte bleue), les justificatifs et les délais de déclaration dépendent du contrat. Il est vivement conseillé de se renseigner auprès de votre assureur ou de votre banque avant d’engager des frais.",
+        "Même si le billet n’est pas remboursable, en cas d’absence d’embarquement, vous pouvez demander le remboursement de la taxe et de la redevance suivantes comprises dans le prix du billet :",
+        "• Taxe sur le transport aérien de passagers (TTAP) composée des 4 tarifs suivants : tarif de l’aviation civile, tarif de sûreté et de sécurité, tarif de péréquation (ces 3 premiers tarifs sont signalés par le code FR sur le billet d’avion), tarif de solidarité (ex-taxe de solidarité sur les billets d’avion TSBA, code 04 sur le billet d’avion). Les majorations territoriales de la TTAP en Corse et en outre-mer peuvent également être remboursées (codes GP, MQ, GF, RE et YT/F9 sur le billet d’avion).",
+        "• Redevance passager (signalée par les lettres QX sur votre billet).",
+        "La demande doit être adressée au vendeur du billet (compagnie aérienne ou agence de voyages) :",
+        "• soit en ligne via leur site internet (gratuit),",
+        "• soit par courrier recommandé avec accusé de réception et copie du billet non utilisé (des frais de gestion, jusqu’à 20 % du montant remboursé, peuvent être facturés).",
+        "Ce remboursement intervient au plus tard 30 jours à compter de la date de réception de la demande.",
+        "Pour ce faire, vous pouvez utiliser un modèle de lettre :",
+        "Réclamer le remboursement de la taxe d'aéroport et de la redevance passager"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la consommation : article L224-66",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069565/LEGISCTA000032221625"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Réclamer le remboursement de la taxe d'aéroport et de la redevance passager",
+      "url": "https://www.inc-conso.fr/content/vous-annulez-votre-vol-et-souhaitez-recuperer-les-taxes-et-redevances",
+      "type": "Modèle de document"
+    }
+  ],
+  "contacts": [
+    "0809 540 550 DGCCRF - RéponseConso"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Guide des taxes aériennes payées par le consommateur",
+      "url": "https://www.europe-consommateurs.eu/tourisme-transports/voyage-en-avion/conseils-pour-reserver-un-vol.html"
+    }
+  ],
+  "slug": "peut-on-se-faire-rembourser-son-billet-d-avion-si-on-rate-ou-annule-son-vol",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "voyage-en-avion",
+      "titre": "Voyage en avion"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "F379",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Comment faire reconnaître un diplôme français à l'étranger ?",
+  "theme": "Famille - Scolarité",
+  "description": "Les critères de reconnaissance d'un diplôme français pour étudier ou travailler à l'étranger diffèrent selon le pays d'accueil",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-01-15",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F379",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Étudier à l'étranger",
+    "Comment faire reconnaître un diplôme français à l'étranger ?"
+  ],
+  "introduction": "Vous voulez faire reconnaître votre diplôme français pour étudier ou travailler à l'étranger ? Les critères de reconnaissance des diplômes sont différents selon le pays d'accueil. Ces informations vous concernent quelle que soit votre nationalité.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Directive 2005/36/CE du 7 septembre 2005 relative à la reconnaissance des qualifications professionnelles",
+      "url": "http://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=CELEX:02005L0036-20140117&from=FR"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Centres Enic-Naric à l'étranger"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Reconnaissance des diplômes dans l'Union européenne",
+      "url": "http://www.enseignementsup-recherche.gouv.fr/cid20949/la-reconnaissance-des-diplomes-dans-union-europeenne.html"
+    },
+    {
+      "titre": "Système européen de crédits (ECTS)",
+      "url": "https://education.ec.europa.eu/fr/systeme-europeen-de-transfert-et-daccumulation-de-credits-ects"
+    },
+    {
+      "titre": "Site du réseau Euroguidance France",
+      "url": "http://www.euroguidance-france.org"
+    },
+    {
+      "titre": "Le centre Enic-Naric",
+      "url": "https://www.france-education-international.fr/expertises/enic-naric"
+    }
+  ],
+  "slug": "comment-faire-reconnaitre-un-diplome-francais-a-l-etranger",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "etudier-a-l-etranger",
+      "titre": "Étudier à l'étranger"
+    }
+  ]
+}

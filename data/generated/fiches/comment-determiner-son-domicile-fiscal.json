@@ -1,0 +1,143 @@
+{
+  "id": "F62",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Comment déterminer son domicile fiscal ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Votre domicile fiscal est en France notamment si vous y avez votre foyer, votre résidence habituelle ou votre activité professionnelle.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-01-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F62",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Impôt sur le revenu : déclaration et revenus à déclarer",
+    "Comment déterminer son domicile fiscal ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Que vous soyez français ou non, les services fiscaux considèrent que votre domicile fiscal est en France si vous remplissez l'un des critères suivants :",
+        "Votre foyer est en France",
+        "Votre domicile fiscal est en France si la résidence habituelle de votre foyer est France.",
+        "Votre foyer est constitué de votre famille et de vous.",
+        "L'administration fiscale retient les personnes suivantes :",
+        "• Votre conjoint marié, pacsé ou concubin",
+        "• Vos enfants.",
+        "En revanche, elle ne retient pas vos autres proches (parents, frères et sœurs, etc.)",
+        "Si vous êtes célibataire sans enfant, votre foyer est le lieu où vous résidez habituellement, en dehors de vos déplacements professionnels.",
+        "Votre lieu de séjour principal est en France",
+        "Votre domicile fiscal est en France si c'est le lieu de votre séjour principal, c'est-à-dire que vous y séjournez au moins 183 jours au cours de l'année, donc plus de 6 mois.",
+        "Pour l'impôt sur le revenu, la France s'entend des territoires suivants :",
+        "• France continentale, îles du littoral et Corse",
+        "• Départements d'outre-mer (avec des particularités).",
+        "Vous travaillez en France",
+        "Votre domicile fiscal est en France si vous y avez votre activité principale.",
+        "L'activité principale est celle à laquelle vous consacrez le plus de temps effectif ou celle qui vous procure l'essentiel de vos revenus.",
+        "Si vous exercez plusieurs activités, c'est l'activité principale qui est prise en compte.",
+        "Une activité exercée de façon accessoire n'est pas concernée.",
+        "[À noter] Votre domicile fiscal est en France si vous êtes dirigeant d'une entreprise dont le siège est en France et qu'elle y réalise plus de 250 millions d'euros de chiffre d'affaires.",
+        "Pour l'impôt sur le revenu, la France s'entend des territoires suivants :",
+        "• France continentale, îles du littoral et Corse",
+        "• Départements d'outre-mer (avec des particularités).",
+        "Le centre de vos intérêts économiques se trouve en France",
+        "Votre domicile fiscal est considéré en France si vous y avez effectué vos principaux investissements.",
+        "De même, si le siège de vos affaires, d'où vous administrez vos biens, est en France.",
+        "Pour l'impôt sur le revenu, la France s'entend des territoires suivants :",
+        "• France continentale, îles du littoral et Corse",
+        "• Départements d'outre-mer (avec des particularités).",
+        "Une convention internationale conclue entre la France et un pays étranger peut prévoir des règles différentes. Si nécessaire, vérifiez aussi votre situation auprès des autorités fiscales de l'État étranger concerné.",
+        "Si vous résidez en France et que votre époux(se) ou partenaire de Pacs a son domicile fiscal hors de France (en application d'une convention fiscale), vous devez déclarer les revenus suivants :",
+        "• Vos revenus et ceux des enfants et personnes à charge qui ont leur domicile en France",
+        "• Les revenus de source française de votre époux(se) ou partenaire de Pacs domicilié hors de France (à condition que l'imposition soit attribuée à la France par la convention fiscale).",
+        "[À savoir] Des règles particulières s'appliquent à la détermination du domicile fiscal des fonctionnaires internationaux.",
+        "Pour connaître votre résidence fiscale, vérifiez votre situation auprès de votre service des impôts.",
+        "Vous êtes encore en France",
+        "Consultez votre service des impôts des particuliers :",
+        "Service des impôts des particuliers (SIP)",
+        "Vous pouvez le contacter directement depuis votre espace en ligne :",
+        "Impôts : accéder à votre espace Finances publiques",
+        "Connexion avec l’identifiant fiscal du contribuable ou via FranceConnect. Ensuite, double authentification avec réception d’un code à 6 chiffres par mail.",
+        "Vous êtes à l'étranger",
+        "Si vous percevez des revenus de source française, renseignez-vous auprès du service des impôts des non résidents.",
+        "Service des impôts des particuliers non résidents",
+        "Par téléphone",
+        "+33 (0) 1 72 95 20 42",
+        "Du lundi au vendredi de 9h à 16h",
+        "Par messagerie",
+        "Via votre messagerie sécurisée sur votre compte personnel",
+        "Par courrier",
+        "10 rue du Centre",
+        "TSA 10010",
+        "93465 Noisy-Le-Grand Cedex"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général des impôts : articles 4A à 8 quinquies",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006179569/"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-IR-CHAMP-10 relatif aux personnes imposables et domicile fiscal",
+      "url": "http://bofip.impots.gouv.fr/bofip/1911-PGP.html"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Impôts : accéder à votre espace Finances publiques",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Déclarer vos revenus en ligne",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Déclaration 2026 des revenus 2025 (papier)",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/2042/declaration-des-revenus",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Estimer le montant de son impôt sur les revenus de 2025 (déclaration de 2026)",
+      "url": "https://simulateur-ir-ifi.impots.gouv.fr/calcul_impot/2026/",
+      "type": "simulateurNG"
+    }
+  ],
+  "contacts": [
+    "Service des impôts des particuliers (SIP)",
+    "Service d'information des impôts",
+    "Service en charge des impôts (trésorerie, service des impôts...)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Brochure pratique 2026 - Déclaration des revenus de 2025",
+      "url": "https://www.impots.gouv.fr/www2/fichiers/documentation/brochure/ir_2026/accueil.htm"
+    },
+    {
+      "titre": "Départements d'outre-mer - Modalités particulières d'imposition",
+      "url": "https://bofip.impots.gouv.fr/bofip/4618-PGP.html/identifiant=BOI-IR-LIQ-20-30-10-20190226"
+    },
+    {
+      "titre": "Conventions fiscales signées par la France",
+      "url": "https://www.impots.gouv.fr/les-conventions-internationales"
+    },
+    {
+      "titre": "Statut fiscal des fonctionnaires internationaux",
+      "url": "https://www.diplomatie.gouv.fr/fr/emplois-stages-concours/travailler-dans-les-organisations-internationales/etre-ou-devenir-fonctionnaire-international/statut-de-fonctionnaire-international/article/statut-fiscal-des-fonctionnaires-internationaux"
+    }
+  ],
+  "slug": "comment-determiner-son-domicile-fiscal",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "impot-sur-le-revenu-declaration-et-revenus-a-declarer",
+      "titre": "Impôt sur le revenu : déclaration et revenus à déclarer"
+    }
+  ]
+}

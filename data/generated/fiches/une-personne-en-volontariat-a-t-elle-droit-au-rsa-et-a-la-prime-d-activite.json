@@ -1,0 +1,107 @@
+{
+  "id": "F13866",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Une personne en volontariat a-t-elle droit au RSA et à la prime d'activité ?",
+  "theme": "Social - Santé",
+  "description": "Une personne qui exerce une activité de volontaire peut bénéficier du RSA ou de la prime d'activité, sous conditions.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-01-21",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F13866",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Revenu de solidarité active (RSA)",
+    "Une personne en volontariat a-t-elle droit au RSA et à la prime d'activité ?"
+  ],
+  "introduction": "Si vous exercez une activité de volontaire, vous pouvez bénéficier du RSA ou de la prime d'activité. Les conditions d'attribution du RSA ou de la prime d'activité varient en fonction du type de volontariat effectué.",
+  "chapitres": [
+    {
+      "titre": "Volontariat dans les armées",
+      "contenu": [
+        "Vous pouvez avoir droit au RSA et à la prime d'activité.",
+        "[À savoir] si vous bénéficiez déjà du RSA, la conclusion d'un contrat de volontariat par un membre de votre foyer n'a pas d'impact sur vos droits.",
+        "Calcul des ressources",
+        "Le contrat de volontariat dans les armées est considéré comme un contrat de travail.",
+        "Votre rémunération est donc prise en compte dans le calcul de vos droits.",
+        "Si vous êtes logé gratuitement dans le cadre de votre volontariat, une aide au logement (APL) peut vous être versée, sous conditions.",
+        "Si vous bénéficiez d'un versement en espèces, vous devez le déclarer trimestriellement comme autres ressources sur votre déclaration.",
+        "Ce versement est pris en compte dans le calcul de vos droits.",
+        "Si vous bénéficiez d'un avantage en nature, vous devez le déclarer aux organismes payeurs (Caf ou MSA).",
+        "Cet avantage est pris en compte dans le calcul de vos droits.",
+        "Prise en compte des heures d'activité",
+        "Le contrat de volontariat dans les armées est considéré comme une activité professionnelle.",
+        "Les heures de volontariat réalisées sont prises en compte pour l'étude du droit au RSA jeune actif.",
+        "[Attention] les heures de formation ne sont pas prises en compte."
+      ]
+    },
+    {
+      "titre": "Sapeur-pompier volontaire",
+      "contenu": [
+        "Vous pouvez avoir droit au RSA et à la prime d'activité.",
+        "[À savoir] si vous bénéficiez déjà du RSA, la conclusion d'un contrat de volontariat par un membre de votre foyer n'a pas d'impact sur vos droits.",
+        "Calcul des ressources",
+        "Vos indemnités de sapeur-pompier volontaire ne sont pas prise en compte pour le calcul des droits.",
+        "Si vous êtes logé gratuitement dans le cadre de votre volontariat, une aide au logement (APL) peut vous être versée, sous conditions.",
+        "Si vous bénéficiez d'un versement en espèces, vous devez le déclarer trimestriellement comme autres ressources sur votre déclaration.",
+        "Ce versement est pris en compte dans le calcul de vos droits.",
+        "Si vous bénéficiez d'un avantage en nature, vous devez le déclarer aux organismes payeurs (Caf ou MSA).",
+        "Cet avantage est pris en compte dans le calcul de vos droits.",
+        "Prise en compte des heures d'activité",
+        "Les heures de volontariat réalisées ne sont pas prises en compte pour l'ouverture du droit au RSA jeune actif."
+      ]
+    },
+    {
+      "titre": "Volontariat associatif",
+      "contenu": [
+        "Vous ne pouvez pas bénéficier du RSA, ni de la prime d'activité.",
+        "Si vous bénéficiez de ces dispositifs avant votre engagement dans le volontariat associatif, vous ne les percevez plus pendant la durée du contrat.",
+        "Les versements reprennent à la fin du volontariat associatif."
+      ]
+    },
+    {
+      "titre": "Volontariat de service civique",
+      "contenu": [
+        "Vous ne pouvez pas bénéficier du RSA, ni de la prime d'activité.",
+        "Si vous bénéficiez de ces dispositifs avant votre engagement dans le volontariat de service civique, vous ne les percevez plus pendant la durée du contrat.",
+        "Les versements reprennent à la fin du volontariat de service civique."
+      ]
+    },
+    {
+      "titre": "Service civique",
+      "contenu": [
+        "Vous ne pouvez pas bénéficier du RSA, ni de la prime d'activité.",
+        "Si vous bénéficiez de ces dispositifs avant la signature de votre engagement de service civique, vous ne les percevez plus pendant la durée du contrat.",
+        "Les versements reprennent à la fin du service civique."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Circulaire du 18 octobre 2012 relative aux conditions d'accès et aux modalités de calcul du RSA des personnes exerçant une activité de volontaire",
+      "url": "http://circulaire.legifrance.gouv.fr/pdf/2012/10/cir_35973.pdf"
+    },
+    {
+      "titre": "Code du service national : article L120-11",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031088125"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Guide du volontaire",
+      "url": "https://www.service-civique.gouv.fr/uploads/content/files/cc7ce6a1dc022fceb56ca912febd174b02fef661.pdf"
+    }
+  ],
+  "slug": "une-personne-en-volontariat-a-t-elle-droit-au-rsa-et-a-la-prime-d-activite",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "revenu-de-solidarite-active-rsa",
+      "titre": "Revenu de solidarité active (RSA)"
+    }
+  ]
+}

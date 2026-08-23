@@ -1,0 +1,59 @@
+{
+  "id": "F1412",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Copie certifiée conforme d'un document délivré par une administration française",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Une administration française ne peut pas exiger une copie certifiée conforme d’un document délivré par une autre administration. Une copie lisible suffit.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-08-28",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1412",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Certificat, copie, légalisation et conservation de documents",
+    "Copie certifiée conforme d'un document délivré par une administration française"
+  ],
+  "introduction": "Vous avez une démarche à faire et vous vous demandez si une copie certifiée conforme des documents à fournir est nécessaire ou si une simple copie suffit ? Nous vous indiquons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les règles en matière de copie certifiée conforme à l’original d’un document délivré par une administration française varient selon que vous faites une démarche auprès d’une administration française ou étrangère."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code des relations entre le public et l'administration : articles R113-10 à R113-11",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000031370029/"
+    },
+    {
+      "titre": "Circulaire du 1er octobre 2001 relative à la certification conforme des copies de documents délivrés par l'administration",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000224865"
+    },
+    {
+      "titre": "Réponse ministérielle du 21 octobre 2004 relative aux services délivrant des copies certifiées conformes",
+      "url": "http://www.senat.fr/basile/visio.do?id=qSEQ040813406"
+    },
+    {
+      "titre": "Réponse ministérielle du 25 mai 2000 relative à la certification conforme de documents écrits en langue étrangère",
+      "url": "http://www.senat.fr/questions/base/2000/qSEQ000323823.html"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Maison de justice et du droit"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "copie-certifiee-conforme-d-un-document-delivre-par-une-administration-francaise",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "certificat-copie-legalisation-et-conservation-de-documents",
+      "titre": "Certificat, copie, légalisation et conservation de documents"
+    }
+  ]
+}

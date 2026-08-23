@@ -1,0 +1,76 @@
+{
+  "id": "F1766",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Qu'est-ce que la légitime défense ?",
+  "theme": "Justice",
+  "description": "La légitime défense est l'autorisation donnée par la loi, de se défendre, de protéger quelqu'un ou un bien, lors d'une attaque.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-06-05",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1766",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Affaire pénale",
+    "Qu'est-ce que la légitime défense ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "Quelles sont les conditions obligatoires pour qu'il y ait légitime défense ?",
+      "contenu": [
+        "Pour que la légitime défense existe, les 5 conditions suivantes doivent être réunies :",
+        "• L'attaque doit être injustifiée, c'est-à-dire sans motif valable",
+        "• La défense doit se faire pour soi ou pour une autre personne",
+        "• La défense doit être immédiate, c’est à dire que l’acte de défense doit intervenir dans le temps de l’agression",
+        "• La défense doit être nécessaire à sa protection, c'est-à-dire que la seule solution est la riposte",
+        "• La défense doit être proportionnelle, c'est-à-dire égale à la gravité de l'attaque.",
+        "Dans le cas d'une attaque aux biens, la défense doit être strictement proportionnelle. La légitime défense des biens ne peut ainsi jamais justifier un homicide volontaire, c'est-à-dire entraîner la mort d'une personne.",
+        "[À savoir] La légitime défense concerne toutes les parties : auteur, coauteur et complice.",
+        "Légitime défense : exemples de situations jugées par les tribunaux",
+        "Cas de figure",
+        "Légitime défense ?",
+        "Un gendarme utilise son arme pour assurer la protection de son collègue en danger de mort",
+        "Oui",
+        "Pour dégager son proche d'un groupe hostile, une personne lance une bouteille et atteint un de ses membres à la tête",
+        "Oui",
+        "Une personne donne des coups de couteau après avoir été insultée et sans avoir été victime de violence",
+        "Non",
+        "Une personne donne des coups de poing à un policier lors de son arrestation",
+        "Non",
+        "Une personne tire un 1er coup de feu en l'air puis un 2e en direction des pieds de 4 agresseurs armés de projectiles",
+        "Oui"
+      ]
+    },
+    {
+      "titre": "Qui doit rapporter la preuve de l'état de légitime défense ?",
+      "contenu": [
+        "C'est à celui qui invoque l'état de légitime défense d'en rapporter la preuve.",
+        "Néanmoins, la légitime défense est présumée existante dans les cas suivants :",
+        "• La nuit, dans un lieu habité, une personne repousse une autre personne entrée par effraction, violence ou ruse",
+        "• Une personne lutte contre le vol ou le pillage fait avec violence."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code pénal : articles 122-1 à 122-8",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006149818/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "116 006 - Numéro d'aide aux victimes"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "qu-est-ce-que-la-legitime-defense",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "affaire-penale",
+      "titre": "Affaire pénale"
+    }
+  ]
+}

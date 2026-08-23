@@ -1,0 +1,33 @@
+{
+  "id": "F34680",
+  "type_publication": "Recherche guidée",
+  "titre": "Surendettement (particuliers/EI)",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Surendettement (particuliers/EI)",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2024-10-07",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34680",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Surendettement",
+    "Surendettement (particuliers/EI)"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "surendettement-particuliers-ei",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "surendettement",
+      "titre": "Surendettement"
+    }
+  ]
+}

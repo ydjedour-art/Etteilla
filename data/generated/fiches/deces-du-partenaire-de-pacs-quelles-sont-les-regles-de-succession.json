@@ -1,0 +1,69 @@
+{
+  "id": "F1621",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Décès du partenaire de Pacs : quelles sont les règles de succession ?",
+  "theme": "Famille - Scolarité",
+  "description": "En cas de décès, les droits du partenaire survivant de Pacs sur la succession sont différents selon que le défunt a fait un testament ou non.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-06-16",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1621",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Héritage : ordre et droits des héritiers",
+    "Décès du partenaire de Pacs : quelles sont les règles de succession ?"
+  ],
+  "introduction": "En cas de décès de votre partenaire, votre Pacs prend fin. Vous n'êtes pas héritier. Vos droits sur la succession diffèrent selon que le défunt a fait un testament ou non. Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code civil : articles 515-1 à 515-7-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006136536/"
+    },
+    {
+      "titre": "Code général des impôts : article 796-0 bis",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006305480"
+    },
+    {
+      "titre": "Code civil : article 1751-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028777681/"
+    },
+    {
+      "titre": "Code civil : article 1751",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028806626/"
+    },
+    {
+      "titre": "Circulaire du 10 mai 2017 relative au transfert des Pacs aux officiers d'état civil",
+      "url": "http://www.textes.justice.gouv.fr/art_pix/JUSC1711700C.pdf"
+    },
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 14",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006475111/"
+    },
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 40",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038834701/"
+    },
+    {
+      "titre": "Loi n°48-1360 du 1er septembre 1948 sur les rapports locatifs : article 5",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000029336923/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Permanence juridique",
+    "Notaire"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "deces-du-partenaire-de-pacs-quelles-sont-les-regles-de-succession",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "heritage-ordre-et-droits-des-heritiers",
+      "titre": "Héritage : ordre et droits des héritiers"
+    }
+  ]
+}

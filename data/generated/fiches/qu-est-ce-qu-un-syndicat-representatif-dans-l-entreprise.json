@@ -1,0 +1,65 @@
+{
+  "id": "F34774",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Qu'est-ce qu'un syndicat représentatif dans l'entreprise ?",
+  "theme": "Travail - Formation",
+  "description": "Pour parler au nom des salariés et signer des accords collectifs, le syndicat doit être représentatif dans l'entreprise. Il existe 7 critères à remplir.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-02-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34774",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Représentation du personnel dans l'entreprise",
+    "Qu'est-ce qu'un syndicat représentatif dans l'entreprise ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Un syndicat peut être présent dans l'entreprise. Pour parler au nom des salariés et signer des accords collectifs en toute légitimité, le syndicat doit être représentatif dans l'entreprise.",
+        "Le syndicat est représentatif s'il réunit l'ensemble des 7 critères suivants :",
+        "• Respect des valeurs républicaines (respect de la liberté d'opinion politique par exemple)",
+        "• Indépendance (financière par exemple)",
+        "• Transparence financière (respect des obligations comptables par exemple)",
+        "• Ancienneté de 2 ans minimum dans le champ professionnel et géographique couvrant le niveau de négociation (à compter de la date de dépôt légal des statuts)",
+        "• Influence, déterminée principalement par l'activité et l'expérience",
+        "• Effectifs d'adhérents et cotisations (nombre suffisant d'adhérents pour que leurs cotisations représentent la partie principale de leurs ressources, ce qui garantit le critère d'indépendance)",
+        "• Audience suffisante aux élections professionnelle (le syndicat doit avoir obtenu au moins 10 % des suffrages exprimés lors du 1er tour des dernières élections des titulaires au CSE)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code du travail : article L2121-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019353505"
+    },
+    {
+      "titre": "Code du travail : articles L2122-1 à L2122-3-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000019353561/"
+    },
+    {
+      "titre": "Code du travail : article L2122-4",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000019353551/"
+    },
+    {
+      "titre": "Code du travail : articles L2135-1 à L2135-6",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000019353809/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "qu-est-ce-qu-un-syndicat-representatif-dans-l-entreprise",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "representation-du-personnel-dans-l-entreprise",
+      "titre": "Représentation du personnel dans l'entreprise"
+    }
+  ]
+}

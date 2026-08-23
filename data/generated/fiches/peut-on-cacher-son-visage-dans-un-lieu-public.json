@@ -1,0 +1,61 @@
+{
+  "id": "F21613",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Peut-on cacher son visage dans un lieu public ?",
+  "theme": "Justice",
+  "description": "Sauf exceptions, il est interdit de cacher son visage dans un lieu public ou de forcer une personne à le dissimuler.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-03-30",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F21613",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Violence - Atteinte à l'intégrité",
+    "Peut-on cacher son visage dans un lieu public ?"
+  ],
+  "introduction": "Sauf exceptions, il est interdit de cacher votre visage dans l'espace public (dans un jardin public, un café, un magasin, etc.). En outre, personne ne peut vous forcer à dissimuler votre visage en raison de votre sexe. Ces agissements constituent des infractions. Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Loi n°2010-1192 du 11 octobre 2010 interdisant la dissimulation du visage dans l'espace public",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000022911670/2024-08-06/"
+    },
+    {
+      "titre": "Code pénal : article R645-14",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020775356/2024-08-06/"
+    },
+    {
+      "titre": "Code pénal : article 431-9-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038382669"
+    },
+    {
+      "titre": "Code pénal : article 225-4-10",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000022913252"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Signaler des violences conjugales, sexuelles ou sexistes aux forces de l’ordre",
+      "url": "https://www.service-public.gouv.fr/cmi",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "Maison de justice et du droit",
+    "Avocat",
+    "116 006 - Numéro d'aide aux victimes",
+    "Violences Femmes Info - 3919"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "peut-on-cacher-son-visage-dans-un-lieu-public",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "violence-atteinte-a-l-integrite",
+      "titre": "Violence - Atteinte à l'intégrité"
+    }
+  ]
+}

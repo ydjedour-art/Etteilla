@@ -1,0 +1,61 @@
+{
+  "id": "F20423",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "A-t-on droit au RSA quand on est en congé maternité ?",
+  "theme": "Social - Santé",
+  "description": "Si vous êtes en congé de maternité, vous pouvez demander le RSA si vous remplissez les conditions générales pour en bénéficier.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-03-06",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F20423",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Revenu de solidarité active (RSA)",
+    "A-t-on droit au RSA quand on est en congé maternité ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Oui, si vous êtes en congé de maternité, vous pouvez percevoir le RSA.",
+        "Pour cela, vous devez remplir les conditions pour y prétendre comme jeune parent ou parent isolé.",
+        "Si votre congé maternité est indemnisé par la Sécurité sociale, les indemnités journalières que vous percevez sont considérées comme un revenu. Elles sont alors prises en compte pour calculer le RSA que vous percevrez.",
+        "Pour en savoir plus, vous devez contacter votre Caf ou, si vous relevez du régime agricole, votre MSA.",
+        "Caf",
+        "Un simulateur vous permet d'obtenir une estimation de vos droits :",
+        "Estimer son droit au RSA (Caf)",
+        "MSA",
+        "Un simulateur vous permet d'obtenir une estimation de vos droits :",
+        "Mutualité sociale agricole (MSA)",
+        "[À noter] Les remboursements de vos frais de santé (examens médicaux et soins) ne sont pas pris en compte dans le calcul du montant du RSA."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'action sociale et des familles : articles L262-2 à L262-12",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000019869120"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Estimer son droit au RSA (Caf)",
+      "url": "https://wwwd.caf.fr/wps/portal/caffr/aidesetdemarches/mesdemarches/faireunesimulation/lersa#/",
+      "type": "Simulateur"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "a-t-on-droit-au-rsa-quand-on-est-en-conge-maternite",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "revenu-de-solidarite-active-rsa",
+      "titre": "Revenu de solidarité active (RSA)"
+    }
+  ]
+}

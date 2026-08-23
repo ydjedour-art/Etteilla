@@ -1,0 +1,54 @@
+{
+  "id": "F24661",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Indemnité compensatrice de congés payés",
+  "theme": "Travail - Formation",
+  "description": "Le salarié qui ne prend pas tous ses congés payés acquis avant son départ de l'entreprise a droit au bénéfice d'une indemnité.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-01-23",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F24661",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Licenciement d'un salarié du secteur privé pour motif personnel",
+    "Indemnité compensatrice de congés payés"
+  ],
+  "introduction": "Le contrat de travail peut être rompu ou peut arriver à son terme avant que le salarié ait pris la totalité de ses droits à congés payés. Dans ce cas, l'employeur doit lui verser une indemnité compensatrice de congés payés. Elle diffère selon que le salarié est en CDI, en CDD ou en contrat de mission dans une entreprise de travail temporaire. Nous faisons un point sur la réglementation.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code du travail : article L1242-16",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901210"
+    },
+    {
+      "titre": "Code du travail : article L1251-19",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901270"
+    },
+    {
+      "titre": "Code du travail : article L3141-28",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033020681"
+    },
+    {
+      "titre": "Code du travail : article D3141-9",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033515929"
+    },
+    {
+      "titre": "Code du travail : article D3141-34",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018534233"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "indemnite-compensatrice-de-conges-payes",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "licenciement-d-un-salarie-du-secteur-prive-pour-motif-personnel",
+      "titre": "Licenciement d'un salarié du secteur privé pour motif personnel"
+    }
+  ]
+}

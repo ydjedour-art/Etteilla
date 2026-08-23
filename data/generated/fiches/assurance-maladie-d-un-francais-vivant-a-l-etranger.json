@@ -1,0 +1,121 @@
+{
+  "id": "F407",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Assurance maladie d'un Français vivant à l'étranger",
+  "theme": "Social - Santé",
+  "description": "Vous voulez connaître vos droits à l'assurance maladie en cas d'installation à l'étranger ? Ils dépendent du pays de résidence (pays de l'Espace économique européen - EEE ou Suisse ou autre pays) et de votre statut (salarié, étudiant, retraité,...). Nous vous présentons les informations à connaître.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2023-01-11",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F407",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Assurance maladie et santé d'un Français à l'étranger",
+    "Assurance maladie d'un Français vivant à l'étranger"
+  ],
+  "introduction": "Vous voulez connaître vos droits à l'assurance maladie en cas d'installation à l'étranger ? Ils dépendent du pays de résidence (pays de l'Espace économique européen - EEE ou Suisse ou autre pays) et de votre statut (salarié, étudiant, retraité,...). Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Règlement n°883/2004 du 29 avril 2004 sur la coordination des systèmes de sécurité sociale",
+      "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:02004R0883-20140101&from=FR"
+    },
+    {
+      "titre": "Règlement n°987/2009 du 16 septembre 2009 relatif à la coordination des systèmes de sécurité sociale",
+      "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:02009R0987-20140101&from=FR"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles L761-1 et L761-2",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006172810"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles R761-1 à R761-6",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000006173605"
+    },
+    {
+      "titre": "Arrêté du 9 décembre 2021 modifiant l'arrêté du 3 janvier 2019 fixant la cotisation forfaitaire à la Caisse des Français de l'étranger",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000044537807"
+    },
+    {
+      "titre": "Arrêté du 25 juin 2019 modifié fixant les prestations servies aux adhérents volontaires de la Caisse des Français de l'étranger pour les soins dispensés à l'étranger",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGIARTI000047243328/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Ameli en ligne",
+      "url": "https://assure.ameli.fr/PortailAS/appmanager/PortailAS/assure?_somtc=true&_pageID=P1_NAISSANCE_ENFANT&utm_source=ameli.fr&utm_medium=lien_redirection&utm_campaign=NAISSANCE_ENFANT#idPopupWARecueilConsentement",
+      "type": "selNG"
+    },
+    {
+      "titre": "Feuille de soins - Soins reçus à l'étranger par le travailleur salarié détaché",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_11790.do",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Centre des liaisons européennes et internationales de sécurité sociale (Cleiss)",
+    "Renseignements sur les soins à l'étranger et la C2S",
+    "Mutualité sociale agricole (MSA)",
+    "Caisse des Français de l'étranger (CFE)",
+    "Malakoff Humanis International Agirc-Arrco",
+    "France Travail (anciennement Pôle emploi) services - Service expatriés"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Vous partez travailler à l'étranger",
+      "url": "http://www.cleiss.fr/particuliers/je_pars_travailler.html"
+    },
+    {
+      "titre": "Communes en zone tendue pour un bail signé, reconduit ou renouvelé entre le 16 octobre 2015 et le 27 août 2023",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGIARTI000031327191/2015-10-16/#LEGIARTI000031327191"
+    },
+    {
+      "titre": "Pays sous convention de sécurité sociale",
+      "url": "https://www.cleiss.fr/docs/textes/"
+    },
+    {
+      "titre": "Protection sociale à l'étranger",
+      "url": "https://www.ameli.fr/assure/droits-demarches/europe-international/protection-sociale-etranger"
+    },
+    {
+      "titre": "Coordination de la Sécurité sociale dans l'Union européenne",
+      "url": "https://ec.europa.eu/social/main.jsp?catId=849&langId=fr"
+    },
+    {
+      "titre": "Couverture santé des citoyens résidant dans un autre pays de l’UE",
+      "url": "http://europa.eu/youreurope/citizens/health/when-living-abroad/index_fr.htm"
+    },
+    {
+      "titre": "Travailler dans la fonction publique à l'étranger",
+      "url": "http://europa.eu/youreurope/citizens/work/work-abroad/civil-servants/index_fr.htm"
+    },
+    {
+      "titre": "Vivre dans un autre pays de l'UE : couverture santé",
+      "url": "https://europa.eu/youreurope/citizens/health/when-living-abroad/health-insurance-cover/index_fr.htm"
+    },
+    {
+      "titre": "Site de la Caisse des Français de l'étranger (CFE)",
+      "url": "http://www.cfe.fr"
+    },
+    {
+      "titre": "Salarié expatrié hors Europe : assurance chômage",
+      "url": "https://www.francetravail.fr/employeur/vos-declarations-et-cotisations/lexpatriation-de-vos-salaries/lexpatriation-en-dehors-de-lespa.html"
+    },
+    {
+      "titre": "Travail à l’étranger : le service Mobilité internationale",
+      "url": "https://www.urssaf.fr/accueil/services/travail-etranger-mobilite.html"
+    }
+  ],
+  "slug": "assurance-maladie-d-un-francais-vivant-a-l-etranger",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "assurance-maladie-et-sante-d-un-francais-a-l-etranger",
+      "titre": "Assurance maladie et santé d'un Français à l'étranger"
+    }
+  ]
+}

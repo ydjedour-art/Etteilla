@@ -1,0 +1,112 @@
+{
+  "id": "F10027",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Complémentaire santé solidaire (ex-CMU-C)",
+  "theme": "Social - Santé",
+  "description": "La complémentaire santé solidaire est une aide pour payer les dépenses de santé en cas de faibles ressources.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-07-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F10027",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Complémentaire santé (mutuelle) et complémentaire santé solidaire",
+    "Complémentaire santé solidaire (ex-CMU-C)"
+  ],
+  "introduction": "Vous avez de faibles ressources ? La complémentaire santé solidaire (C2S) vous aide pour vos dépenses de santé. Elle remplace la couverture maladie universelle complémentaire (CMU-C). Elle permet de vous faire rembourser la part complémentaire de vos dépenses de santé. Cela signifie que cette aide prend en charge ce qui n'est pas remboursé par l'Assurance maladie. La C2S est gratuite ou payante selon vos revenus. Nous vous exposons les règles en métropole et dans les Dom.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de la sécurité sociale : articles L861-1 à L861-12",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000006156280/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles R861-2 à R861-10",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000018041063"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles R111-1 à R111-4",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006156792/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles R861-16 à R861-18",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000006173745"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles D861-1 à D861-8",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000030818921/"
+    },
+    {
+      "titre": "Décret n°2016-7 du 5 janvier 2016 relatif aux exceptions à l'application du principe \"silence vaut rejet\"",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000031783036"
+    },
+    {
+      "titre": "Circulaire CNAM 30/2019 du 21 août 2019 présentant la réforme sur la complémentaire santé solidaire",
+      "url": "https://circulaires.ameli.fr/sites/default/files/directives/cir/2019/CIR-30-2019.PDF"
+    },
+    {
+      "titre": "Circulaire CNAM 33/2019 du 19 septembre 2019 revalorisant les plafonds CMU-C/ACS/AME des forfaits logement",
+      "url": "https://circulaires.ameli.fr/sites/default/files/directives/cir/2019/CIR-33-2019.PDF"
+    },
+    {
+      "titre": "Arrêté du 10 avril 2015 fixant la liste des contrats donnant droit au crédit d'impôt en application de l'article L863-6 du code de la sécurité sociale",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000030467452/"
+    },
+    {
+      "titre": "Article 92 de la loi n° 2022-1616 du 23 décembre 2022 de financement de la sécurité sociale pour 2023",
+      "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000046791879"
+    },
+    {
+      "titre": "Décret n°2004-942 du 3 septembre 2004 portant application de l'ordonnance n° 2002-411 du 27 mars 2002 relative à la protection sanitaire et sociale à Mayotte (partie Assurance maladie)",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000253592/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Estimer ses droits à la complémentaire santé solidaire",
+      "url": "https://www.mesdroitssociaux.gouv.fr/votre-simulateur/accueil",
+      "type": "simulateurNG"
+    },
+    {
+      "titre": "Demande de complémentaire santé solidaire",
+      "url": "https://assure.ameli.fr/PortailAS/appmanager/PortailAS/assure?_nfpb=true&_pageLabel=as_demander_cmuc_page#idPopupWARecueilConsentement",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Demande de complémentaire santé solidaire (Mayotte)",
+      "url": "https://www.cssm.fr/uploads//s3711.pdf",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Demande de complémentaire santé solidaire",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_12504.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Ameli : faire une procuration",
+      "url": "https://assure.ameli.fr/PortailAS/appmanager/PortailAS/assure?_somtc=true",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "France Services / Maison de services au public",
+    "Renseignements sur les soins à l'étranger et la C2S"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Complémentaire santé solidaire",
+      "url": "https://www.complementaire-sante-solidaire.gouv.fr/"
+    }
+  ],
+  "slug": "complementaire-sante-solidaire-ex-cmu-c",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "complementaire-sante-mutuelle-et-complementaire-sante-solidaire",
+      "titre": "Complémentaire santé (mutuelle) et complémentaire santé solidaire"
+    }
+  ]
+}

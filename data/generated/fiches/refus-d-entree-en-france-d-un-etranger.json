@@ -1,0 +1,61 @@
+{
+  "id": "F2190",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Refus d'entrée en France d'un étranger",
+  "theme": "Étranger - Europe",
+  "description": "Un refus d'entrer en France peut être opposé à un étranger dans certains cas.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2024-04-23",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2190",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Entrée d'un étranger en France",
+    "Refus d'entrée en France d'un étranger"
+  ],
+  "introduction": "Un étranger peut se voir refuser le droit d'entrer en France dans certains cas. Une décision de refus d'entrée est alors prise à son encontre par l'administration. Durant la procédure, il bénéficie de droits, notamment celui de former un recours contre le refus d'entrée devant le juge administratif. Les règles sont différentes pour un demandeur d'asile. Voici les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de l'Union relatif au régime de franchissement des frontières par les personnes",
+      "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=CELEX:32016R0399&from=EN"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles L311-1 et L311-2",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042771138/"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles L333-1 à L333-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042771232/"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles L352-1 à L352-9",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042771364/"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles R351-1 à R351-6",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042800722/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Ambassade ou consulat français à l'étranger"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Carte de l'Espace Schengen",
+      "url": "https://www.touteleurope.eu/les-pays-membres-de-l-espace-schengen.html"
+    }
+  ],
+  "slug": "refus-d-entree-en-france-d-un-etranger",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "entree-d-un-etranger-en-france",
+      "titre": "Entrée d'un étranger en France"
+    }
+  ]
+}

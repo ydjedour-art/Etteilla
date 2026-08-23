@@ -1,0 +1,102 @@
+{
+  "id": "F1010",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Aide au mérite pour étudiant boursier",
+  "theme": "Famille - Scolarité",
+  "description": "L'aide au mérite est un complément de la bourse sur critères sociaux de l'étudiant (enseignement supérieur) ayant obtenu la mention « Très bien » au bac.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-07-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1010",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Bourses et aides pour étudiant",
+    "Aide au mérite pour étudiant boursier"
+  ],
+  "introduction": "Vous avez obtenu une mention « Très bien » au bac et vous intégrez l'enseignement supérieur à la rentrée ? Vous pouvez, sous conditions, bénéficier de l'aide au mérite. Cette aide est un complément à la bourse sur critères sociaux. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Qui peut bénéficier de l'aide au mérite ?",
+      "contenu": [
+        "Vous pouvez en bénéficier si vous remplissez les 3 conditions suivantes :",
+        "• Vous percevez une bourse sur critères sociaux ou une allocation spécifique annuelle pour l'année 2026-2027",
+        "• Vous avez obtenu une mention Très bien au bac",
+        "• Vous intégrez un établissement supérieur à la rentrée 2026.",
+        "Vous pouvez bénéficier de l'aide quelle que soit votre nationalité.",
+        "[À noter] En cas de redoublement, vous ne pourrez plus bénéficier de l'aide au mérite. Toutefois, si ce redoublement est fondé sur des raisons médicales, l'aide pourra vous être accordée.",
+        "Un étudiant ne peut pas bénéficier de l'aide au mérite plus de 3 fois."
+      ]
+    },
+    {
+      "titre": "Quelles sont les démarches à faire pour bénéficier de l'aide au mérite ?",
+      "contenu": [
+        "Vous devez avoir déposé un dossier social étudiant (DSE).",
+        "Si votre DSE est accepté, vous n'avez pas d'autre démarche à effectuer.",
+        "Le rectorat transmet directement au Crous la liste des bacheliers avec une mention Très bien.",
+        "Le Crous vous informera si vous pouvez bénéficier de l'aide au mérite.",
+        "La décision définitive d'attribution ou de maintien de l'aide au mérite est prise par le recteur d'académie d'accueil. Elle vous sera notifiée."
+      ]
+    },
+    {
+      "titre": "Comment contester un refus d'aide au mérite ?",
+      "contenu": [
+        "Pour contester la décision de refus, vous pouvez adresser un recours gracieux auprès du recteur d'académie.",
+        "Rectorat",
+        "Si vous n'avez pas obtenu satisfaction, vous pouvez adresser un recours hiérarchique auprès du ministre de l'enseignement supérieur, obligatoirement par l'intermédiaire du recteur d'académie.",
+        "Vous pouvez également faire un recours contentieux auprès du tribunal administratif rattaché à votre académie.",
+        "Tribunal administratif",
+        "Vous devez faire ces recours dans les 2 mois qui suivent la notification de refus."
+      ]
+    },
+    {
+      "titre": "Quel est le montant de l'aide au mérite ?",
+      "contenu": [
+        "Le montant annuel de l'aide est de 900 €.",
+        "Elle est versée en 9 mensualités de 100 €."
+      ]
+    },
+    {
+      "titre": "Peut-on cumuler l'aide au mérite avec d'autres aides ?",
+      "contenu": [
+        "L'aide au mérite est cumulable avec une aide à la mobilité internationale et une aide spécifique ponctuelle."
+      ]
+    },
+    {
+      "titre": "Le versement de l'aide au mérite peut-il être suspendu ?",
+      "contenu": [
+        "Si vous ne respectez pas les conditions d'inscription pédagogique, d'assiduité aux cours et de présentation aux examens, l'aide au mérite pourra être retirée."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'éducation : articles D821-1 à R821-5",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000030722211"
+    },
+    {
+      "titre": "Arrêté du 26 mars 2026 fixant les taux des bourses d'enseignement supérieur du ministère de l'enseignement supérieur, de la recherche et de l'espace pour l'année universitaire 2026-2027",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053788130"
+    },
+    {
+      "titre": "Circulaire du 13 février 2026 relative aux bourses d'enseignement supérieur sur critères sociaux, des aides au mérite et des aides à la mobilité internationale pour 2026-2027",
+      "url": "https://www.education.gouv.fr/sites/default/files/document/Bulletin%20officiel%20n°%209%20du%2026%20février%202026-480515.pdf"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Centre régional des œuvres universitaires et scolaires (Crous)",
+    "Établissement d'enseignement supérieur"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "aide-au-merite-pour-etudiant-boursier",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "bourses-et-aides-pour-etudiant",
+      "titre": "Bourses et aides pour étudiant"
+    }
+  ]
+}

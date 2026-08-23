@@ -1,0 +1,103 @@
+{
+  "id": "F780",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Qu'est-ce qu'une grâce présidentielle ?",
+  "theme": "Justice",
+  "description": "La grâce présidentielle est une décision prise par le Président de la République qui permet à un condamné d’être dispensé d’exécuter sa peine.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-10-31",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F780",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Condamnations et peines",
+    "Qu'est-ce qu'une grâce présidentielle ?"
+  ],
+  "introduction": "La grâce présidentielle est une décision prise par le Président de la République. Elle permet de dispenser une personne condamnée d’exécuter la peine prononcée contre elle. Le Président de la République peut accorder la grâce pour tout ou partie de la peine. Il n'est pas obligé de justifier sa décision d'accorder ou de refuser la grâce à une personne condamnée. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Comment distinguer la grâce présidentielle de l’amnistie ?",
+      "contenu": [
+        "La grâce ne doit pas être confondue avec l'amnistie.",
+        "Contrairement à l’amnistie, la grâce présidentielle :",
+        "• N’entraîne pas l’effacement de la condamnation sur le casier judiciaire",
+        "• Concerne une seule personne",
+        "• Et est décidée par le Président de la République (et non par le Parlement français)."
+      ]
+    },
+    {
+      "titre": "Qui peut bénéficier d’une grâce présidentielle ?",
+      "contenu": [
+        "Tout condamné a la possibilité de demander une grâce présidentielle, quel que soit son âge, ses antécédents judiciaires ou le stade de l’exécution de sa peine (sauf si elle a été entièrement exécutée).",
+        "La grâce est possible quelle que soit la sanction pénale prononcée (peine privative de liberté, peine restrictive de liberté, amendes, etc.).",
+        "[À savoir] Elle peut même être sollicitée par une personne condamnée à une peine de prison assortie d’une période de sûreté.",
+        "Cependant, la grâce présidentielle est accordée sous certaines conditions strictes (par exemple, le condamné doit prouver qu’il a fait un effort très important pour indemniser la victime)."
+      ]
+    },
+    {
+      "titre": "Comment faire une demande de grâce présidentielle ?",
+      "contenu": [
+        "La demande de grâce présidentielle doit être effectuée par le condamné lui-même ou par ses proches (parents, héritiers, amis, etc.).",
+        "Elle doit obligatoirement être faite par écrit et être accompagnée de la décision de condamnation ou de l’avis de contravention (en cas d’amende forfaitaire).",
+        "Il est nécessaire de la transmettre au Président de la République ou à la Direction des affaires criminelles et des grâces (DACG) qui dépend du ministère de la Justice.",
+        "Présidence de la République",
+        "Direction des affaires criminelles et des grâces",
+        "[À noter] Si la personne qui fait la demande le souhaite, elle peut être assistée d’un avocat. Ce professionnel peut l’aider à constituer le dossier et déposer la demande à sa place."
+      ]
+    },
+    {
+      "titre": "Comment est traitée la demande de grâce présidentielle ?",
+      "contenu": [
+        "La Direction des affaires criminelles et des grâces (DACG) est compétente pour traiter la demande. Elle recueille l'ensemble des informations et avis lui permettant de déterminer si la demande peut être acceptée ou non.",
+        "L’instruction du dossier est totalement secrète : le condamné (ou la personne qui fait la demande pour lui) n’est pas informé de l’évolution de la procédure. Il n’est pas convoqué devant la DACG.",
+        "[À savoir] Le délai de traitement de la demande peut être très long.",
+        "Si la DACG estime que la demande peut être acceptée, elle transmet le dossier au Président de la République. Il prend la décision finale.",
+        "Si la décision est favorable, un décret de grâce est adopté. Il est signé par le Président de la République et contresigné par le Premier ministre, le ministre de la Justice et par le (ou les) ministres qui ont étudié le dossier.",
+        "[À savoir] Les décrets de grâce ne sont pas publiés au Journal officiel.",
+        "Le décret de grâce est notifié au condamné et/ou à la personne qui a fait la demande.",
+        "Ce décret ne peut pas être contesté."
+      ]
+    },
+    {
+      "titre": "Quels sont les effets d’une grâce présidentielle ?",
+      "contenu": [
+        "La grâce présidentielle dispense le condamné d'exécuter la part de la peine pour laquelle elle est accordée. Il peut s’agir de la totalité ou d’une partie de la peine.",
+        "La grâce peut aussi permettre de remplacer la peine initialement prononcée par une peine plus légère (par exemple, il est possible de passer de la réclusion criminelle à perpétuité à une peine temporaire).",
+        "Cependant, qu’elle soit totale ou partielle, la grâce ne dispense pas le condamné d’indemniser la victime afin de réparer le préjudice qui lui a été causé.",
+        "De plus, même si le condamné bénéficie d’une grâce présidentielle, la condamnation :",
+        "• Reste inscrite sur son casier judiciaire. Toutefois, la grâce présidentielle est le point de départ du délai permettant d’obtenir une réhabilitation légale ou de faire une demande de réhabilitation judiciaire.",
+        "• Peut être prise en compte pour déterminer si le condamné est en état de récidive, s’il commet une nouvelle infraction",
+        "• Peut empêcher le condamné de bénéficier d’une peine assortie d’un sursis, s’il commet une nouvelle infraction.",
+        "[À savoir] Si le condamné a bénéficié d’une grâce présidentielle, il peut faire une demande de révision de la décision de condamnation. Si cette demande est acceptée, la condamnation peut être annulée et le condamné peut être jugé de nouveau."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Constitution du 4 octobre 1958 : article 17",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000019241010"
+    },
+    {
+      "titre": "Code pénal : articles 133-7 et 133-8",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006165271"
+    },
+    {
+      "titre": "Code pénal : article R133-1 et R133-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006419427"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "qu-est-ce-qu-une-grace-presidentielle",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "condamnations-et-peines",
+      "titre": "Condamnations et peines"
+    }
+  ]
+}

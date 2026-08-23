@@ -1,0 +1,96 @@
+{
+  "id": "F2112",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Apa à domicile : son versement peut-il être suspendu ?",
+  "theme": "Social - Santé",
+  "description": "Le versement de l'allocation personnalisée d'autonomie (Apa) à domicile peut être suspendue, dans certains cas.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-01-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2112",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Allocations et aides aux personnes âgées",
+    "Apa à domicile : son versement peut-il être suspendu ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Oui, le versement de l'Apa à domicile peut être suspendu, dans certains cas.",
+        "Le versement de l'Apa à domicile peut être suspendu dans au moins l'un des cas suivants :",
+        "• Si vous ne faites pas la déclaration de votre aide à domicile ou de la famille d'accueil qui vous héberge, dans le mois qui suit la notification d'attribution de l'Apa. Pour faire cette déclaration aux services du département, vous devez utiliser le formulaire cerfa n°10544.",
+        "• Si vous ne fournissez pas les justificatifs de dépenses demandés par les services du département, dans le mois qui suit cette demande",
+        "• Si vous ne payez pas votre participation",
+        "• Si l'équipe médico-sociale constate que le service rendu n'est pas celui prescrit, ou qu'il présente un risque pour votre santé, votre sécurité ou votre bien-être physique ou moral",
+        "• Si vous êtes hospitalisé plus de 30 jours. La suspension commence le 31e jour d'hospitalisation.",
+        "Mais vous pouvez contester la suspension du versement de l'Apa à domicile.",
+        "Vous devez d'abord faire un recours amiable pour pouvoir ensuite faire un recours contentieux.",
+        "Recours administratif préalable obligatoire (Rapo)",
+        "Si vous contestez une décision concernant l'Apa, vous pouvez faire un recours administratif préalable obligatoire devant les services du département. Vous devez faire ce recours dans les 2 mois qui suivent la notification de la décision que vous contestez.",
+        "Pour cela, vous devez rédiger une lettre expliquant pourquoi vous n’êtes pas d’accord avec la décision liée à votre APA. Vous devez joindre à votre lettre la copie de la notification de la décision, ainsi que tout document que vous estimez utile.",
+        "Vous devez soit envoyer ces documents par courrier recommandée avec avis de réception, soit les déposer à l’accueil des services du département.",
+        "Services du département",
+        "Le président du conseil départemental a 2 mois pour vous répondre, après avoir réceptionné votre recours.",
+        "Recours contentieux",
+        "Vous pouvez faire appel de la décision rendue dans le cadre du recours administratif préalable obligatoire.",
+        "Pour cela, vous devez déposer un recours contentieux devant le tribunal administratif.",
+        "Tribunal administratif",
+        "Vous devez faire ce recours dans les 2 mois qui suivent la notification de la décision que vous contestez.",
+        "Si vous le souhaitez, vous pouvez contester la décision du tribunal administratif par un pourvoi devant le Conseil d'État."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'action sociale et des familles : article L232-7",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031727686/"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : article L232-12 à L232-20",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074069/LEGISCTA000006174429/"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : articles L232-22 à L232-28",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074069/LEGISCTA000006174351/"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : articles R232-30 à R232-32",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074069/LEGISCTA000006196014/"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : articles L134-1 à L134-2",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074069/LEGISCTA000033425308"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Déclaration d'une allocation personnalisée d'autonomie",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_10544.do",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Services du département",
+    "Paris - Centre d'action sociale de la ville de Paris (CASVP)",
+    "Point d'information local dédié aux personnes âgées"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Portail national d'information pour les personnes âgées et leurs proches",
+      "url": "https://www.pour-les-personnes-agees.gouv.fr/"
+    }
+  ],
+  "slug": "apa-a-domicile-son-versement-peut-il-etre-suspendu",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "allocations-et-aides-aux-personnes-agees",
+      "titre": "Allocations et aides aux personnes âgées"
+    }
+  ]
+}

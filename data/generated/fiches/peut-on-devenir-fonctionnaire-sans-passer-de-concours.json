@@ -1,0 +1,63 @@
+{
+  "id": "F34827",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Peut-on devenir fonctionnaire sans passer de concours ?",
+  "theme": "Travail - Formation",
+  "description": "Oui, différents dispositifs permettent de devenir fonctionnaire sans passer de concours.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-10-21",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34827",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Recrutement dans la fonction publique",
+    "Peut-on devenir fonctionnaire sans passer de concours ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Oui, vous pouvez être recruté en tant que fonctionnaire stagiaire sans passer de concours, puis être titularisé dans les cas suivants :",
+        "• Vous êtes recruté dans un corps ou un cadre d'emplois de catégorie C dont le grade de début est doté de l'échelle de rémunération la moins élevée de la fonction publique (échelle de rémunération C1)",
+        "• Vous êtes recruté sur un emploi réservé.",
+        "Vous pouvez également être recruté, sous certaines conditions, en tant que contractuel en CDD, puis titularisé dans les cas suivants :",
+        "• Vous êtes en situation de handicap",
+        "• Vous êtes recruté par la voie du Parcours d'accès aux carrières de la fonction publique (Pacte)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général de la fonction publique : article L326-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044421766/"
+    },
+    {
+      "titre": "Code général de la fonction publique : article L352-5",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044426488"
+    },
+    {
+      "titre": "Code général de la fonction publique : articles L326-10 à L326-19",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044421794/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Le dispositif dérogatoire de solidarité nationale (emplois réservés)",
+      "url": "https://www.defense.gouv.fr/defense-mobilite/candidats/offre-service/travailler-public/dispositif-derogatoire-solidarite-nationale-emplois-reserves"
+    }
+  ],
+  "slug": "peut-on-devenir-fonctionnaire-sans-passer-de-concours",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "recrutement-dans-la-fonction-publique",
+      "titre": "Recrutement dans la fonction publique"
+    }
+  ]
+}

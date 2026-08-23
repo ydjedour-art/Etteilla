@@ -1,0 +1,33 @@
+{
+  "id": "F36488",
+  "type_publication": "Recherche guidée",
+  "titre": "[Caution du locataire (ou colocataire) dans un logement privé]",
+  "theme": "Logement",
+  "description": "[Caution du locataire (ou colocataire) dans un logement privé]",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2022-07-12",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F36488",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Devenir locataire d'un logement privé",
+    "[Caution du locataire (ou colocataire) dans un logement privé]"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "caution-du-locataire-ou-colocataire-dans-un-logement-prive",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "devenir-locataire-d-un-logement-prive",
+      "titre": "Devenir locataire d'un logement privé"
+    }
+  ]
+}

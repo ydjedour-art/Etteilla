@@ -1,0 +1,68 @@
+{
+  "id": "F144",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Arrêt maladie : reprise du travail du salarié",
+  "theme": "Travail - Formation",
+  "description": "Selon la durée et la date de votre arrêt, vous pouvez être soumis ou non à une visite médicale de reprise du travail.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-06-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F144",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Maladie ou accident du travail dans le secteur privé",
+    "Arrêt maladie : reprise du travail du salarié"
+  ],
+  "introduction": "Vous vous demandez comment votre reprise du travail va s'effectuer à la suite de votre arrêt maladie ? Vous souhaitez notamment savoir si vous allez être soumis ou non à une visite médicale ? Les informations diffèrent selon la durée de votre arrêt maladie : moins de 60 jours ou au moins 60 jours. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Attention : cette fiche ne présente que le cas d'un arrêt maladie ayant débuté à compter du 1er avril 2022."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la sécurité sociale : articles L323-1 à L323-7",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000006156085/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles R323-1 à R323-12",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006156609/"
+    },
+    {
+      "titre": "Code du travail : articles R4624-29 à R4624-33-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000018493164/#LEGISCTA000045371010"
+    },
+    {
+      "titre": "Code du travail : article R4624-34",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033769125"
+    },
+    {
+      "titre": "Code du travail : articles R4624-39 à R4624-41",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033769135/"
+    },
+    {
+      "titre": "Code du travail : article L1226-8",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033024860"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Caisse primaire d'assurance maladie (CPAM)",
+    "Mutualité sociale agricole (MSA)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "arret-maladie-reprise-du-travail-du-salarie",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "maladie-ou-accident-du-travail-dans-le-secteur-prive",
+      "titre": "Maladie ou accident du travail dans le secteur privé"
+    }
+  ]
+}

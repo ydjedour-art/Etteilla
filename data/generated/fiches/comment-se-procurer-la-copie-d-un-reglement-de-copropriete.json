@@ -1,0 +1,98 @@
+{
+  "id": "F2127",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Comment se procurer la copie d'un règlement de copropriété ?",
+  "theme": "Logement",
+  "description": "Il est possible d'obtenir une copie du règlement de copropriété notamment auprès du service de publicité foncière, syndic de copropriété, agence immobilière....",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-07-11",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2127",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Documents de copropriété",
+    "Comment se procurer la copie d'un règlement de copropriété ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "La démarche diffère selon qu'elle est faite par le propriétaire du logement ou le locataire.",
+        "Propriétaire",
+        "Lors de l'acte d'achat, le propriétaire du lot reçoit une copie du règlement de copropriété. Il s’agit d’une annexe obligatoire à l’acte de vente qu’il faut conserver.",
+        "En cas de perte du règlement de copropriété, il est possible d'obtenir une copie de plusieurs manières, à savoir :",
+        "• Demander l’exemplaire du règlement de copropriété à un autre copropriétaire, notamment un membre du conseil syndical, pour en faire une copie",
+        "• Télécharger le règlement de copropriété sur l’extranet mis en place par le syndic professionnel",
+        "• En cas de difficulté d’accès en ligne ou d’un syndicat des copropriétaire géré par un syndic non professionnel, adresser une demande écrite (courrier recommandé de préférence) au syndic afin d’obtenir une copie du règlement de copropriété. Toutefois, le syndic peut prévoir une facturation pour rendre ce service (frais variables en fonction du contrat de syndic de copropriété).",
+        "• Faire une demande auprès du service de publicité foncière. La copie coûte 30. La demande doit être faite par le biais d'un formulaire. Ce formulaire diffère selon la date d'enregistrement du règlement de copropriété (après 1956 ou avant).",
+        "Règlement de copropriété enregistré en 1956 ou après",
+        "Un formulaire est à remplir :",
+        "Copie de documents (acte de vente, donation, règlement de copropriété...) enregistrés après le 1er janvier 1956",
+        "Notice - Formulaires de publicité foncière",
+        "Ce formulaire doit être envoyé en 2 exemplaires (courrier simple ou recommandé) au service de publicité foncière du lieu de situation du logement.",
+        "Service de la publicité foncière et de l'enregistrement",
+        "Règlement de copropriété enregistré avant 1956",
+        "Un formulaire est à remplir :",
+        "Copie de documents (acte de vente, donation, règlement de copropriété...) enregistrés avant le 1er janvier 1956",
+        "Notice - Formulaires de publicité foncière",
+        "Ce formulaire doit être envoyé en 2 exemplaires (courrier simple ou recommandé) au service de publicité foncière du lieu de situation du logement.",
+        "Service de la publicité foncière et de l'enregistrement",
+        "Locataire",
+        "Une copie du règlement de copropriété est remise au locataire lors de la signature du bail. Cette copie est généralement sous le format dématérialisé (envoi électronique).",
+        "En cas de perte du règlement de copropriété, il est possible d'obtenir une copie auprès du propriétaire bailleur.",
+        "Si le propriétaire bailleur n'a pu fournir de copie du règlement, il est possible de la demander au syndic de copropriété (qui n'est pas obligé d'accepter) ou à l'agence immobilière qui assure la gestion du bien. Cette copie peut être facturée.",
+        "Il est également possible d'obtenir une copie du règlement de copropriété auprès du service de publicité foncière. La copie coûte 30. La demande doit être faite par le biais d'un formulaire. Ce formulaire diffère selon la date d'enregistrement du règlement de copropriété (après 1956 ou avant).",
+        "Règlement de copropriété enregistré en 1956 ou après",
+        "Un formulaire est à remplir :",
+        "Copie de documents (acte de vente, donation, règlement de copropriété...) enregistrés après le 1er janvier 1956",
+        "Notice - Formulaires de publicité foncière",
+        "Ce formulaire doit être envoyé en 2 exemplaires (courrier simple ou recommandé) au service de publicité foncière du lieu de situation du logement.",
+        "Service de la publicité foncière et de l'enregistrement",
+        "Règlement de copropriété enregistré avant 1956",
+        "Un formulaire est à remplir :",
+        "Copie de documents (acte de vente, donation, règlement de copropriété...) enregistrés avant le 1er janvier 1956",
+        "Notice - Formulaires de publicité foncière",
+        "Ce formulaire doit être envoyé en 2 exemplaires (courrier simple ou recommandé) au service de publicité foncière du lieu de situation du logement.",
+        "Service de la publicité foncière et de l'enregistrement"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Décret n°67-223 du 17 mars 1967 : article 4",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006488221"
+    },
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 3",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039369598/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Copie de documents (acte de vente, donation, règlement de copropriété...) enregistrés avant le 1er janvier 1956",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/3231-sd/demande-de-copie-de-documents-pour-la-periode-anterieure-au-1er-janvier-1956",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Copie de documents (acte de vente, donation, règlement de copropriété...) enregistrés après le 1er janvier 1956",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/3236-sd/demande-de-copie-de-documents-pour-la-periode-compter-du-1er-janvier-1956",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Service de la publicité foncière et de l'enregistrement"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "comment-se-procurer-la-copie-d-un-reglement-de-copropriete",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "documents-de-copropriete",
+      "titre": "Documents de copropriété"
+    }
+  ]
+}

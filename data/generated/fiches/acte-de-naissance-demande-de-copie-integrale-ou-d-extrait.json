@@ -1,0 +1,101 @@
+{
+  "id": "F1427",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Acte de naissance : demande de copie intégrale ou d'extrait",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Si vous avez besoin d'un acte de naissance, vous pouvez demander une copie intégrale ou un extrait avec ou sans filiation. La demande est gratuite.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-08-14",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1427",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Actes d'état civil",
+    "Acte de naissance : demande de copie intégrale ou d'extrait"
+  ],
+  "introduction": "Vous avez besoin d'un acte de naissance et vous voulez savoir comment faire la demande ? Nous vous guidons dans votre démarche. Elle varie en fonction du lieu de naissance de la personne concernée par l'acte (en France ou à l'étranger). Dans tous les cas, la demande d'un acte de naissance est gratuite.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "[À noter] Si la personne concernée par l'acte est née dans un État devenu indépendant (par exemple, Algérie, Tunisie, Maroc), il faut faire la demande d'acte de naissance via le service en ligne dédié aux personnes nées à l'étranger."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : articles 34 à 54",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006136100"
+    },
+    {
+      "titre": "Code civil : articles 55 à 59",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006149970"
+    },
+    {
+      "titre": "Code des relations entre le public et l'administration : articles L311-9 à R311-15",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000031367725/"
+    },
+    {
+      "titre": "Ordonnance n°2019-724 du 10 juillet 2019 relative à l'expérimentation de la dématérialisation des actes de l'état civil établis par le ministère des affaires étrangères",
+      "url": "https://www.legifrance.gouv.fr/dossierlegislatif/JORFDOLE000038748352/"
+    },
+    {
+      "titre": "Décret n°2017-890 du 6 mai 2017 relatif à l'état civil",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000034708016/"
+    },
+    {
+      "titre": "Décret n°2019-993 du 26 septembre 2019 relatif à l'expérimentation de la dématérialisation des actes de l'état civil établis par le ministère des affaires étrangères",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000039145874"
+    },
+    {
+      "titre": "Circulaire du 28 octobre 2011 portant sur divers actes de l'état civil relatifs à la naissance et à la filiation",
+      "url": "https://www.legifrance.gouv.fr/circulaire/id/34124"
+    },
+    {
+      "titre": "Circulaire du 23 juillet 2014 relative à l'état civil",
+      "url": "https://www.legifrance.gouv.fr/circulaire/id/38565"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demande d'acte de naissance : copie intégrale ou extrait (naissance en France) - Service gratuit",
+      "url": "https://demarches.service-public.gouv.fr/mademarche/EtatCivil/demarche?action=NAISSANCE",
+      "type": "selNG"
+    },
+    {
+      "titre": "Demande d'acte de naissance : copie intégrale ou extrait (naissance à l'étranger) - Service gratuit",
+      "url": "https://demarches.service-public.gouv.fr/mademarche/delivrance_demat/demarche?action=NAISSANCE",
+      "type": "selNG"
+    },
+    {
+      "titre": "Demande de rectification d'une erreur ou d'une omission matérielle contenue dans un acte de l'état civil",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/11531",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Mairie",
+    "Service central d'état civil (Scec)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "État civil et nationalité française",
+      "url": "http://www.diplomatie.gouv.fr/fr/services-aux-citoyens/etat-civil-et-nationalite-francaise/"
+    },
+    {
+      "titre": "Les naissances à l'étranger",
+      "url": "https://www.diplomatie.gouv.fr/fr/services-aux-francais/etat-civil-et-nationalite-francaise/etat-civil/article/declarer-la-naissance-ou-la-reconnaissance-d-un-enfant-a-l-etranger"
+    }
+  ],
+  "slug": "acte-de-naissance-demande-de-copie-integrale-ou-d-extrait",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "actes-d-etat-civil",
+      "titre": "Actes d'état civil"
+    }
+  ]
+}

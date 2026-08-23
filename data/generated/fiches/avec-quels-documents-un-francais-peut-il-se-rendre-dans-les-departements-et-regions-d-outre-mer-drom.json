@@ -1,0 +1,40 @@
+{
+  "id": "F398",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Avec quels documents un Français peut-il se rendre dans les départements et régions d’outre-mer (Drom) ?",
+  "theme": "Transports - Mobilité",
+  "description": "Une carte d'identité valide est suffisante pour voyager dans un Drom. En cas de transit par un pays étranger (hors UE et espace Schengen), il faut un passeport.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-08-26",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F398",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Voyage en avion",
+    "Avec quels documents un Français peut-il se rendre dans les départements et régions d’outre-mer (Drom) ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Si vous vous rendez dans un département ou une région d’outre-mer, le document à présenter varie selon que vous êtes majeur ou mineur :"
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "avec-quels-documents-un-francais-peut-il-se-rendre-dans-les-departements-et-regions-d-outre-mer-drom",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "voyage-en-avion",
+      "titre": "Voyage en avion"
+    }
+  ]
+}

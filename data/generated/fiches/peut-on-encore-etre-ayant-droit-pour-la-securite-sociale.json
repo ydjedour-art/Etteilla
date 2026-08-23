@@ -1,0 +1,67 @@
+{
+  "id": "F16622",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Peut-on encore être ayant droit pour la Sécurité sociale ?",
+  "theme": "Social - Santé",
+  "description": "La notion d'ayant droit disparaît au profit de la protection universelle maladie (Puma) du régime général de la Sécurité sociale.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-07-24",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F16622",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Affiliation à la sécurité sociale (assurance maladie)",
+    "Peut-on encore être ayant droit pour la Sécurité sociale ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "La question de savoir si vous pouvez être rattaché à un assuré social pour la prise en charge de vos frais de santé par la Sécurité sociale dépend de votre âge :",
+        "Vous êtes majeur",
+        "Non, vous ne pouvez plus être ayant droit depuis la mise en place de la protection universelle maladie (Puma).",
+        "En effet, toute personne majeure sans activité professionnelle a droit à la prise en charge de ses frais de santé, si elle vit en France de manière stable et régulière.",
+        "Il n'y a donc plus besoin d'être rattaché à un assuré ouvrant droit. La notion d'ayant droit a disparu pour les personnes de 18 ans et plus du régime général de la Sécurité sociale.",
+        "Vous êtes mineur",
+        "Oui, vous pouvez être ayant droit d'un assuré social auprès de l'un de vos parents ou des 2.",
+        "En effet, seuls les mineurs continuent d'avoir le statut d'ayant droit.",
+        "Ce statut d'ayant droit prend fin l'année de vos 18 ans.",
+        "À partir de 16 ans, vous pouvez demander à être assuré à titre personnel. Dans ce cas, vos frais médicaux seront remboursés sur votre propre compte bancaire.",
+        "[À noter] Toute personne qui refuse délibérément de s'affilier ou qui persiste à ne pas engager les démarches pour son affiliation obligatoire à un régime de Sécurité sociale est punie d'un emprisonnement de 6 mois et d'une amende de 15 000 € (ou seulement de l'une de ces peines)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la sécurité sociale : articles L160-1 à L160-7",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000031668675/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles D160-1 à D160-2",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000031805892/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Caisse primaire d'assurance maladie (CPAM)",
+    "Mutualité sociale agricole (MSA)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Protection universelle maladie (PUMa)",
+      "url": "https://www.ameli.fr/assure/droits-demarches/principes/protection-universelle-maladie"
+    }
+  ],
+  "slug": "peut-on-encore-etre-ayant-droit-pour-la-securite-sociale",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "affiliation-a-la-securite-sociale-assurance-maladie",
+      "titre": "Affiliation à la sécurité sociale (assurance maladie)"
+    }
+  ]
+}

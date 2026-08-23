@@ -1,0 +1,59 @@
+{
+  "id": "F34849",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Renonciation à la succession : qui s'occupe des dettes et biens du défunt ?",
+  "theme": "Famille - Scolarité",
+  "description": "Si tous les héritiers renoncent à la succession, le Domaine est désigné comme curateur. Lui seul peut alors gérer les biens et les dettes du défunt.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-01-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34849",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Règlement d'une succession",
+    "Renonciation à la succession : qui s'occupe des dettes et biens du défunt ?"
+  ],
+  "introduction": "Si vous renoncez à la succession d'un proche, les personnes qui doivent s'occuper des biens et des dettes du défunt différent selon que la succession a été acceptée ou non par un autre héritier. Voici les règles à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code civil : articles 804 à 808",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006150536"
+    },
+    {
+      "titre": "Code civil : articles 809 à 809-3",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006165521"
+    },
+    {
+      "titre": "Code civil : articles 810 à 810-6",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006165522"
+    },
+    {
+      "titre": "Code civil : articles 810-7 à 810-12",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006165523"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Que se passe-t-il si tous les héritiers renoncent à une succession ?",
+      "url": "https://www.economie.gouv.fr/cedef/succession-vacante"
+    },
+    {
+      "titre": "La vente des biens issus des successions vacantes",
+      "url": "https://www.impots.gouv.fr/particulier/la-vente-des-biens-issus-des-successions-vacantes"
+    }
+  ],
+  "slug": "renonciation-a-la-succession-qui-s-occupe-des-dettes-et-biens-du-defunt",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "reglement-d-une-succession",
+      "titre": "Règlement d'une succession"
+    }
+  ]
+}

@@ -1,0 +1,431 @@
+{
+  "id": "F2367",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Livret d'épargne populaire (LEP)",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Le Livret d'épargne populaire (LEP) est un compte d'épargne réglementé, rémunéré et defiscalisé, réservé aux personnes à revenus modestes.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-08-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2367",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Livrets, plans et comptes d'épargne",
+    "Livret d'épargne populaire (LEP)"
+  ],
+  "introduction": "Vous avez des revenus modestes et vous souhaitez ouvrir un livret d'épargne ? Le livret d'épargne populaire (LEP) est fait pour vous. C'est un placement dont le taux d'intérêt attractif est fixé par l'État. Votre épargne ne court aucun risque. Vous n'avez pas d'impôt à payer sur les intérêts mais vous devez remplir des conditions de revenus pour ouvrir et détenir un LEP. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Qui peut ouvrir un LEP ?",
+      "contenu": [
+        "Le livret d'épargne populaire (LEP) est réservé aux personnes ayant leur domicile fiscal en France et sous condition de revenus.",
+        "Condition de domicile fiscal",
+        "Pour ouvrir et détenir un LEP, il faut être fiscalement domicilié en France.",
+        "Il n'y a pas de condition de nationalité.",
+        "Conditions liées au foyer fiscal",
+        "Dans le même foyer fiscal, chaque époux ou chaque partenaire de Pacs peut détenir un LEP.",
+        "Les autres personnes rattachées à ce foyer fiscal ne peuvent pas détenir un LEP tant qu'elles n'ont pas une imposition séparée.",
+        "Une personne majeure (ou mineure) ne peut pas détenir un LEP tant qu'elle est fiscalement à la charge de ses parents. C'est le cas par exemple d'un apprenti ou d'un étudiant rattaché au foyer fiscal de ses parents, d'un majeur handicapé s'il n'a pas sa propre déclaration d'impôt.",
+        "Conditions de revenus",
+        "Pour pouvoir ouvrir et détenir un LEP, votre revenu fiscal de référence (RFR) ne doit pas dépasser certains plafonds.",
+        "Ces plafonds sont révisés chaque année. Ils tiennent compte de la composition de la famille (nombre de parts) et sont différents selon le lieu de résidence.",
+        "En métropole",
+        "Pour ouvrir un LEP, l'établissement bancaire examine le revenu fiscal de référence (RFR) de l'année N-2 ou N-1.",
+        "Par exemple, pour ouvrir un LEP en 2026, en fonction de la date de la demande d'ouverture, la banque vérifiera le revenu fiscal de référence de l'année 2024 (sur l'avis d'imposition 2025) ou le revenu fiscal de référence de l'année 2025 (sur l'avis d'imposition 2026). Ce revenu fiscal ne doit pas dépasser les limites suivantes :",
+        "LEP éligibilité 2026 - Revenu fiscal de référence à ne pas dépasser selon la situation familiale - Métropole",
+        "Nombre de parts de quotient familial",
+        "Plafond de RFR",
+        "1",
+        "23 028 €",
+        "1,25",
+        "26 103 €",
+        "1,5",
+        "29 177 €",
+        "1,75",
+        "32 252 €",
+        "2",
+        "35 326 €",
+        "2,25",
+        "38 401 €",
+        "2,5",
+        "41 475 €",
+        "2,75",
+        "44 550 €",
+        "3",
+        "47 624 €",
+        "3,25",
+        "50 699 €",
+        "3,5",
+        "53 773 €",
+        "3,75",
+        "56 848 €",
+        "4",
+        "59 922 €",
+        "4,25",
+        "62 997 €",
+        "4,5",
+        "66 071 €",
+        "4,75",
+        "69 146 €",
+        "5",
+        "72 220 €",
+        "5,25",
+        "75 295 €",
+        "5,5",
+        "78 369 €",
+        "5,75",
+        "81 444 €",
+        "6",
+        "84 518 €",
+        "Pour chaque demi-part supplémentaire",
+        "6 149 €",
+        "Pour quart de part",
+        "3 075 €",
+        "Lorsque le revenu fiscal de référence du foyer fiscal dépasse ces plafonds au cours d'une année, il est possible de conserver le LEP si le revenu fiscal de référence de l'année suivante repasse en dessous des plafonds.",
+        "En outre-mer",
+        "Pour ouvrir un LEP, l'établissement bancaire examine le revenu fiscal de référence (RFR) de l'année N-2 ou N-1.",
+        "Par exemple, pour ouvrir un LEP en 2026, en fonction de la date de la demande d'ouverture, la banque vérifiera le revenu fiscal de référence de l'année 2024 (sur l'avis d'imposition 2025) ou le revenu fiscal de référence de l'année 2025 (sur l'avis d'imposition 2026). Ce revenu fiscal ne doit pas dépasser les limites suivantes :",
+        "LEP éligibilité 2026 - Revenu fiscal de référence à ne pas dépasser selon la situation familiale et géographique - Outre-mer",
+        "Nombre de parts de quotient familial",
+        "Guadeloupe, Martinique, ou Réunion",
+        "Guyane ou",
+        "Mayotte",
+        "1",
+        "27 251 €",
+        "28 489 €",
+        "1,25",
+        "30 505 €",
+        "32 410 €",
+        "1.5",
+        "33 758 €",
+        "36 330 €",
+        "1,75",
+        "37 012 €",
+        "40 251 €",
+        "2",
+        "39 907 €",
+        "42 479 €",
+        "2,25",
+        "43 161 €",
+        "46 400 €",
+        "2.5",
+        "46 056 €",
+        "48 628 €",
+        "2,75",
+        "49 310 €",
+        "52 549 €",
+        "3",
+        "52 205 €",
+        "54 777 €",
+        "3,25",
+        "55 459 €",
+        "58 698 €",
+        "3.5",
+        "58 354 €",
+        "60 926 €",
+        "3,75",
+        "61 608 €",
+        "64 847 €",
+        "4",
+        "64 503 €",
+        "67 075 €",
+        "4,25",
+        "67 757 €",
+        "70 996 €",
+        "4,5",
+        "70 652 €",
+        "73 224 €",
+        "4,75",
+        "73 906 €",
+        "77 145 €",
+        "5",
+        "76 801 €",
+        "79 373 €",
+        "5,25",
+        "80 055 €",
+        "83 294 €",
+        "5,5",
+        "82 950 €",
+        "85 522 €",
+        "5,75",
+        "86 204 €",
+        "89 443 €",
+        "6",
+        "89 099 €",
+        "91 671 €",
+        "+ Pour chaque demi-part supplémentaire",
+        "6 149 €",
+        "6 149 €",
+        "+ Pour quart de part",
+        "3 254 €",
+        "3 921 €",
+        "Lorsque le revenu fiscal de référence du foyer fiscal dépasse ces plafonds au cours d'une année, il est possible de conserver le LEP si le revenu fiscal de référence de l'année suivante repasse en dessous des plafonds."
+      ]
+    },
+    {
+      "titre": "Est-il possible de détenir plusieurs LEP ?",
+      "contenu": [
+        "Non, une personne ne peut pas ouvrir ou détenir plusieurs LEP, car chaque contribuable a droit à 1 seul LEP.",
+        "Avant d'ouvrir un LEP, la banque doit vérifier si la personne détient déjà ce produit et si elle remplit les conditions.",
+        "[Rappel] Il peut y avoir 2 LEP dans un même foyer fiscal si les époux ou partenaires de Pacs, soumis à imposition commune, en détiennent 1 chacun."
+      ]
+    },
+    {
+      "titre": "Peut-on cumuler un LEP avec d'autres livrets d'épargne ?",
+      "contenu": [
+        "Oui, il est possible de cumuler un LEP avec d'autres comptes sur livret (par exemple, le livret de développement durable ou le livret A)."
+      ]
+    },
+    {
+      "titre": "Où peut-on ouvrir un LEP ?",
+      "contenu": [
+        "Un LEP peut être ouvert dans les banques habilitées à commercialiser ce produit d'épargne.",
+        "Il n'y a aucun frais bancaire pour l'ouverture, la gestion et la clôture du LEP."
+      ]
+    },
+    {
+      "titre": "Comment la banque vérifie que les conditions d'ouverture et de détention d'un LEP sont remplies ?",
+      "contenu": [
+        "Il est interdit pour la banque d'ouvrir ou de maintenir un LEP si les conditions ne sont pas remplies.",
+        "Pour vérifier les conditions de revenus, la banque a le choix entre 2 possibilités : soit interroger l'administration fiscale, soit interroger directement le client (ou futur client) qui doit justifier de son revenu fiscal de référence.",
+        "La banque interroge l'administration fiscale",
+        "La demande de la banque porte sur le respect ou non du plafond de revenus par son client. La banque ne peut pas demander d'autres informations sur la situation fiscale personnelle de son client.",
+        "La demande de la banque est réalisée par une personne spécialement habilitée. Elle est transmise à l'administration fiscale par voie électronique. La demande comporte les éléments d'identification du client (nom de naissance, prénoms, sexe, date et lieu de naissance, adresse).",
+        "Si la 1re recherche n'aboutit pas, la banque peut faire une nouvelle demande à l'administration fiscale en lui transmettant le numéro d'identification fiscale que son client lui aura communiqué.",
+        "La banque demande au client de justifier de son revenu fiscal de référence",
+        "Pour prouver qu'il remplit les conditions de revenus, le client doit présenter à la banque son avis d'imposition sur le revenu (ou avis de non imposition).",
+        "Si la personne n'a pas encore rempli sa 1re déclaration d'impôt personnelle (après un décès, un divorce ou si elle quitte le domicile fiscal de ses parents), la banque peut lui demander de fournir une déclaration sur l'honneur pour certifier que le montant de ses revenus sera inférieur ou égal au plafond du LEP. Elle devra, par la suite, fournir à la banque l'avis d'imposition (ou de non-imposition) dès qu'elle l'aura reçu.",
+        "Si la personne ne peut pas justifier de son revenu fiscal de référence ou en cas de fausses déclarations, la banque fermera le LEP. L'argent qui est sur le LEP sera versé sur un autre compte du même établissement ouvert à son nom ou sur un compte d'attente.",
+        "[À savoir] Toute infraction commise par le titulaire du LEP sur les conditions de détention peut entrainer la perte des intérêts acquis."
+      ]
+    },
+    {
+      "titre": "Quel est le montant minimum à verser sur un LEP ?",
+      "contenu": [
+        "Lors de l'ouverture du LEP, le versement initial est d'un montant minimum de 30 €.",
+        "Par la suite, les versements sont libres avec un minimum de 10 €."
+      ]
+    },
+    {
+      "titre": "Quels sont les modes d'alimentation du LEP ?",
+      "contenu": [
+        "Le LEP peut être alimenté par :",
+        "• Versement en espèces uniquement au guichet où le compte a été ouvert",
+        "• Virement depuis un compte ouvert au nom du même titulaire que le LEP",
+        "• Ou chèque.",
+        "Depuis le 1er juillet 2023, il est possible de faire un virement sur son LEP à partir d'un compte ouvert dans une autre banque que celle où se trouve le LEP."
+      ]
+    },
+    {
+      "titre": "Quel est le plafond de dépôt sur un LEP ?",
+      "contenu": [
+        "Le plafond des versements sur le LEP est fixé à 10 000 €.",
+        "La comptabilisation des intérêts versés par la banque peut entraîner un dépassement du plafond.",
+        "Lorsque le montant inscrit sur le livret atteint 10 000 €, il n'est plus possible d'effectuer de nouveau versement.",
+        "[Exemple] Le total des versements est de 9 850 €. La banque comptabilise des intérêts pour 180 €. Le solde du LEP atteint la somme de 10 030 € (9 850 €+ 180 €). Il n'est plus possible de faire des nouveaux versements. Si la banque n'avait pas comptabilisé les intérêts, il serait possible de faire encore des versements pour 150 €."
+      ]
+    },
+    {
+      "titre": "Y-a-t-il des versements périodiques obligatoires sur un LEP ?",
+      "contenu": [
+        "Non, il n'y a pas d'obligation de versements périodiques. Les dépôts d'argent sont possibles à tout moment dans la limite du plafond."
+      ]
+    },
+    {
+      "titre": "Est-il possible de retirer les sommes versées sur le LEP ?",
+      "contenu": [
+        "Oui, les retraits sont possibles gratuitement à tout moment.",
+        "Ils peuvent porter sur la totalité du compte sans entraîner la clôture du LEP. Mais le solde du livret ne peut jamais être débiteur.",
+        "Les retraits en espèces doivent être faits au guichet de la banque où le LEP été ouvert.",
+        "Ils peuvent aussi être faits à un distributeur du réseau de la banque si une carte de retrait est associée au LEP."
+      ]
+    },
+    {
+      "titre": "Quelle est la rémunération du LEP ?",
+      "contenu": [
+        "Taux d'intérêts",
+        "Taux actuel",
+        "Le taux d'intérêt du LEP est de 2,50 %.",
+        "Anciens taux",
+        "Anciens taux du LEP",
+        "Période",
+        "Taux",
+        "Du 1er février 2026 au 31 juillet 2026",
+        "2,5 %",
+        "Du 1er août 2025 au 31 janvier 2026",
+        "2,7 %",
+        "Du 1er février 2025 au 31 juillet 2025",
+        "3,5 %",
+        "Du 1er août 2024 au 31 janvier 2025",
+        "4 %",
+        "Du 1er février 2024 au 31 juillet 2024",
+        "5 %",
+        "Du 1er août 2023 au 31 janvier 2024",
+        "6 %",
+        "Du 1er février 2023 au 31 juillet 2023",
+        "6,1 %",
+        "Du 1er août 2022 au 31 janvier 2023",
+        "4,6 %",
+        "Du 1er février 2022 au 31 juillet 2022",
+        "2,2 %",
+        "Du 1er février 2020 au 31 janvier 2022",
+        "1 %",
+        "Du 1er août 2014 au 31 janvier 2020",
+        "1,25 %",
+        "Du 1er août 2013 au 31 juillet 2014",
+        "1,50 %",
+        "Du 1er février 2013 au 31 juillet 2013",
+        "2,25 %",
+        "Du 1er août 2011 au 31 janvier 2013",
+        "2,75 %",
+        "Du 1er février 2011 au 31 juillet 2011",
+        "2,50 %",
+        "Du 1er août 2010 au 31 janvier 2011",
+        "2,25 %",
+        "Comment sont calculés les intérêts ?",
+        "Les intérêts du LEP sont calculés le 1er et le 16 de chaque mois.",
+        "Les intérêts de la première quinzaine du mois sont calculés le 16 du mois, et ceux de la seconde quinzaine sont calculés le 1er du mois suivant.",
+        "La date de la valeur prise en compte pour le calcul des intérêts varie suivant la date de l'opération (dépôt ou retrait) :",
+        "Date de la valeur prise en compte pour le calcul des intérêts du LEP",
+        "Opération",
+        "Jusqu'au 15 du mois courant",
+        "À partir du 16 du mois courant",
+        "Dépôt",
+        "16 du mois",
+        "1er jour du mois suivant",
+        "Retrait",
+        "Dernier jour du mois précédent",
+        "15 du mois",
+        "Les sommes déposées produisent des intérêts si elles sont placées par quinzaines entières.",
+        "Au 31 décembre de chaque année, les intérêts cumulés sur l'année s'ajoutent au capital.",
+        "La somme produite par ces intérêts peut être retirée à partir du 1er janvier de l'année suivante."
+      ]
+    },
+    {
+      "titre": "Quel est le régime fiscal des intérêts ?",
+      "contenu": [
+        "Les intérêts versés par la banque sont exonérés d'impôt sur le revenu et de prélèvements sociaux."
+      ]
+    },
+    {
+      "titre": "Un LEP peut-il être saisi ?",
+      "contenu": [
+        "Le LEP peut faire l'objet d'une saisie administrative à tiers-détenteur."
+      ]
+    },
+    {
+      "titre": "Est-il possible de transférer un LEP dans un autre établissement bancaire ?",
+      "contenu": [
+        "Oui, il est possible de transférer un LEP, sans perdre les intérêts, vers une autre banque qui a le droit de commercialiser les LEP.",
+        "À la suite de la demande de transfert, la banque attendra la fin du mois en cours pour arrêter le calcul des intérêts. Le transfert sera donc effectif le mois suivant."
+      ]
+    },
+    {
+      "titre": "Combien de temps est ouvert le LEP ?",
+      "contenu": [
+        "Il n'y a pas de durée imposée.",
+        "Le livret reste ouvert tant que les conditions de revenus exigées sont remplies et que le titulaire les justifie à la banque.",
+        "Si les revenus de l'avant-dernière année (N-2) dépassent les plafonds, la personne ne perd pas automatiquement le droit de détenir un LEP.",
+        "Elle pourra conserver le LEP si l'année suivante ses revenus N-2 repassent en dessous des plafonds.",
+        "Mais si ses revenus N-2 dépassent les plafonds sur 2 années consécutives, le LEP sera obligatoirement clôturé."
+      ]
+    },
+    {
+      "titre": "Comment est clôturé le LEP ?",
+      "contenu": [
+        "La clôture du LEP est possible à tout moment.",
+        "Le contrat d'ouverture de LEP précise la démarche à suivre auprès de l'établissement bancaire (formulaire à remplir, etc.) pour clôturer le LEP.",
+        "Si le titulaire du LEP est un majeur protégé, la clôture doit être faite par le représentant légal, selon les conditions posées par le régime juridique applicable.",
+        "[À noter] Le titulaire du LEP doit demander lui-même la clôture du LEP s'il cesse de remplir les conditions de revenu pendant 2 années de suite.",
+        "La banque a l'obligation de clôturer d'office un LEP dans les cas suivants :",
+        "• Le titulaire détient plusieurs LEP",
+        "• Le titulaire ne remplit plus les conditions de revenus ou de domicile fiscal pour bénéficier du LEP",
+        "• Le LEP est considéré comme inactif",
+        "• Le titulaire du LEP est décédé."
+      ]
+    },
+    {
+      "titre": "Quels sont les frais bancaires applicables en cas de succession ?",
+      "contenu": [
+        "Quand la banque est informée du décès du titulaire du LEP, elle doit clôturer le compte.",
+        "Les frais de succession sont desormais plafonnés dans toutes les banques pour les comptes de dépôt et les comptes sur livret.",
+        "La banque peut vous facturer des frais pour les démarches qu’elle effectue dans le cadre de la succession (inventaire des fonds, vérification des pouvoirs et de l’identité des héritiers, transfert d’argent aux héritiers...).",
+        "Le montant des frais est plafonné à 1 % du solde total des comptes et des produits d’épargne du défunt. Ce montant ne peut pas dépasser 857 €."
+      ]
+    },
+    {
+      "titre": "Comment faire pour retrouver un ancien LEP et récupérer les fonds ?",
+      "contenu": [
+        "Si le titulaire du LEP ne se manifeste plus auprès de la banque qui détient le livret, ce compte d'épargne est considéré comme inactif. La banque a l'obligation de conserver les fonds pendant un certain délai. Mais passé ce délai, elle devra fermer le compte et transférer les fonds à la Caisse des Dépôts.",
+        "Il est possible de demander à récupérer les fonds en utilisant le service en ligne Ciclade :",
+        "Ciclade (recherche des sommes oubliées provenant des comptes inactifs)"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code monétaire et financier : articles L221-13 à L221-17-2",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006184650"
+    },
+    {
+      "titre": "Code monétaire et financier : articles R221-33 à R221-39",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006194107"
+    },
+    {
+      "titre": "Code monétaire et financier : articles R221-40 à R211-58",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006193882"
+    },
+    {
+      "titre": "Code monétaire et financier : article L312-1-4-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051588993"
+    },
+    {
+      "titre": "Code monétaire et financier : article D312-1-3",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052097695"
+    },
+    {
+      "titre": "Bofip-impôts n°BOI-RPPM-RCM-10-10-50 relatif aux revenus des créances, dépôts, cautionnements et comptes courants exonérés (livrets A, LEP, CEL, PEL, etc.)",
+      "url": "https://bofip.impots.gouv.fr/bofip/857-PGP.html/identifiant=BOI-RPPM-RCM-10-10-50-20220317"
+    },
+    {
+      "titre": "Livre des procédures fiscales : articles R*166AA-1 à R*166AA-2",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069583/LEGISCTA000043248782/"
+    },
+    {
+      "titre": "Arrêté du 29 juillet 2026 relatif au taux d'intérêt du livret d'épargne populaire",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054569438"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Impôts : accéder à votre espace Finances publiques",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Ciclade (recherche des sommes oubliées provenant des comptes inactifs)",
+      "url": "https://ciclade.caissedesdepots.fr/",
+      "type": "outilRechercheNG"
+    }
+  ],
+  "contacts": [
+    "Info Banque - Assurance"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Livret d'épargne populaire (LEP)",
+      "url": "https://www.abe-infoservice.fr/epargne/epargne-bancaire/livret-depargne-populaire-lep"
+    }
+  ],
+  "slug": "livret-d-epargne-populaire-lep",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "livrets-plans-et-comptes-d-epargne",
+      "titre": "Livrets, plans et comptes d'épargne"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "F2672",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Un étranger en transit en France doit-il demander un visa ?",
+  "theme": "Étranger - Europe",
+  "description": "Si vous êtes non européen et transitez par la France lors d'un voyage, vous devez peut-être demander préalablement un visa.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-10-12",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2672",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Entrée d'un étranger en France",
+    "Un étranger en transit en France doit-il demander un visa ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Si vous êtes non européen et transitez par la France lors d'un voyage, vous devez peut-être demander préalablement un visa.",
+        "Un téléservice permet de savoir si vous devez demander un visa :",
+        "Savoir si un visa est nécessaire pour un transit aéroportuaire",
+        "[À savoir] Depuis le 12 octobre 2025, le système européen d’entrée/sortie (EES) est déployé progressivement sur 6 mois aux points de passage frontaliers (aéroports, gares et ports). Ce système enregistre les données personnelles ainsi que les données concernant les entrées, sorties et refus d’entrées des voyageurs ressortissants de pays tiers qui viennent en France pour un séjour de moins de 3 mois."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles L311-1 et L311-2",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042771138/"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles R311-1 à R311-3",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042800418/"
+    },
+    {
+      "titre": "Arrêté du 10 mai 2010 relatif aux documents et visas exigés pour l'entrée des étrangers sur le territoire européen de la France",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000022235577"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "France-Visas",
+      "url": "https://france-visas.gouv.fr/web/france-visas"
+    },
+    {
+      "titre": "Carte de l'Espace Schengen",
+      "url": "https://www.touteleurope.eu/les-pays-membres-de-l-espace-schengen.html"
+    }
+  ],
+  "slug": "un-etranger-en-transit-en-france-doit-il-demander-un-visa",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "entree-d-un-etranger-en-france",
+      "titre": "Entrée d'un étranger en France"
+    }
+  ]
+}

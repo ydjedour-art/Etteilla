@@ -1,0 +1,182 @@
+{
+  "id": "F99",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Impôt sur le revenu - À quoi sert l'avis d'impôt ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Votre avis d'impôt justifie de vos revenus auprès des banques et administrations. Si vous êtes non imposable, il permet de prétendre à certains droits sociaux.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-01-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F99",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Impôt sur le revenu : calcul et paiement",
+    "Impôt sur le revenu - À quoi sert l'avis d'impôt ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "Quand faut-il fournir un avis d'impôt ?",
+      "contenu": [
+        "Votre avis d'impôt justifie du montant des revenus que vous avez déclarés.",
+        "Vous devez le fournir notamment à la demande d'une administration, d'une banque ou d'un particulier (propriétaire d'un logement mis en location, par exemple).",
+        "Si vous n'êtes pas imposable, vous recevez aussi un avis d'impôt (ou avis de situation). Il vous permet de prétendre à certains droits sociaux.",
+        "Si des organismes vous demandent votre dernier avis d'impôt, vous devez fournir celui de 2025 basé sur vos revenus de 2024, jusqu'à la réception de votre avis d'impôt 2026 sur les revenus 2025.",
+        "[À savoir] L’organisme ou le particulier auquel vous fournissez une copie de votre avis peut vérifier qu'il est conforme en utilisant le service de vérification en ligne des avis disponible sur le site des impôts."
+      ]
+    },
+    {
+      "titre": "Quelles sont les informations figurant sur l'avis d'impôt ?",
+      "contenu": [
+        "Votre avis d'impôt sur les revenus comporte notamment les informations suivantes :",
+        "• Revenus déclarés",
+        "• Nombre de parts de quotient familial",
+        "• Revenu fiscal de référence",
+        "• Date de mise en recouvrement et date limite de paiement",
+        "• Montant de l'impôt.",
+        "Votre avis d'impôt indique aussi vos taux d'imposition suivants :",
+        "• Taux moyen",
+        "• Taux marginal.",
+        "Votre taux marginal d'imposition est le taux auquel vous êtes imposé pour la tranche la plus élevée de vos revenus.",
+        "[À savoir] Votre taux moyen est différent de votre taux de prélèvement à la source (PAS). Votre taux de PAS ne tient pas compte de vos réductions ou crédits d'impôt, ni de certains revenus (par exemple, plus-values de cession de valeurs mobilières ou revenus taxés à un taux forfaitaire)."
+      ]
+    },
+    {
+      "titre": "Comment obtenir son avis d'impôt ou son avis de situation déclarative ?",
+      "contenu": [
+        "Avis de situation déclarative",
+        "Si vous avez déclaré vos revenus en ligne, vous pouvez obtenir un avis de situation déclarative à l'impôt sur le revenu dès que votre déclaration est terminée.",
+        "Toutefois, ce document ne constitue pas un avis d'impôt.",
+        "Vous recevez votre avis d'impôt durant l'été qui suit votre déclaration de revenus (en ligne ou en papier).",
+        "Avis d'impôt",
+        "Durant l'été qui suit votre déclaration de revenus, vous recevez un avis d'impôt sur le revenu.",
+        "Si vous n'êtes pas imposable, vous recevez aussi un avis d'impôt (ou avis de situation).",
+        "La réception de votre avis dépend de votre choix :",
+        "Vous avez opté pour le « zéro papier »",
+        "Vous recevez votre avis dans votre espace en ligne.",
+        "Impôts : accéder à votre espace Finances publiques",
+        "Connexion avec l’identifiant fiscal du contribuable ou via FranceConnect. Ensuite, double authentification avec réception d’un code à 6 chiffres par mail.",
+        "[À noter] Un mail d'information vous est adressé quand l'avis est mis à votre disposition.",
+        "Vous n'avez pas opté pour le « zéro papier »",
+        "Vous avez demandé à recevoir un avis au format papier",
+        "Votre avis d'imposition ou de situation vous est envoyé par courrier.",
+        "Si vous n'avez pas reçu votre avis d'impôt, vous pouvez l'obtenir dans votre espace Finances publiques du site des impôts :",
+        "Impôts : accéder à votre espace Finances publiques",
+        "Connexion avec l’identifiant fiscal du contribuable ou via FranceConnect. Ensuite, double authentification avec réception d’un code à 6 chiffres par mail.",
+        "[À noter] Pour ne plus recevoir de document papier, vous devez opter pour le « zéro papier » dans votre espace en ligne (rubrique « Mes options »).",
+        "Vous n’avez pas demandé à recevoir un avis au format papier",
+        "Vous recevez votre avis dans votre espace en ligne.",
+        "Impôts : accéder à votre espace Finances publiques",
+        "Connexion avec l’identifiant fiscal du contribuable ou via FranceConnect. Ensuite, double authentification avec réception d’un code à 6 chiffres par mail.",
+        "[À noter] Un mail d'information vous est adressé quand l'avis est mis à votre disposition.",
+        "[Complement] Durant l'été qui suit votre déclaration de revenus, vous recevez un avis d'impôt sur le revenu. Si vous n'êtes pas imposable, vous recevez aussi un avis d'impôt (ou avis de situation). L'avis d'imposition ou de situation vous est envoyé par courrier. Si vous ne l'avez pas reçu, vous pouvez l'obtenir dans votre espace Finances publiques du site des impôts : Impôts : accéder à votre espace Finances publiques Connexion avec l’identifiant fiscal du contribuable ou via FranceConnect. Ensuite, double authentification avec réception d’un code à 6 chiffres par mail."
+      ]
+    },
+    {
+      "titre": "Comment retrouver un ancien avis d'impôt ?",
+      "contenu": [
+        "Vous pouvez retrouver vos anciens avis d'impôt sur votre espace personnel en ligne :",
+        "Impôts : accéder à votre espace Finances publiques",
+        "Connexion avec l’identifiant fiscal du contribuable ou via FranceConnect. Ensuite, double authentification avec réception d’un code à 6 chiffres par mail.",
+        "[À noter] Vous pouvez retrouver dans votre espace en ligne tous les avis d'impôt pour lesquels vous avez fait une déclaration de revenus en ligne (au plus tôt, avis d'impôt 2015 sur les revenus 2014). Ils sont classés par année."
+      ]
+    },
+    {
+      "titre": "Peut-on consulter l'avis d'impôt d'un autre contribuable ?",
+      "contenu": [
+        "Non, vous ne pouvez pas consulter l'avis d'impôt d'un autre contribuable.",
+        "Toutefois, vous pouvez obtenir des informations concernant d'autres contribuables dont le domicile fiscal est situé dans votre département.",
+        "Ces informations sont les suivantes :",
+        "• Nom, initiale du prénom",
+        "• Nombre de parts de quotient familial",
+        "• Revenu fiscal de référence",
+        "• Montant de l'impôt sur le revenu.",
+        "Pour obtenir ces informations, vous devez vous déplacer dans votre direction départementale (ou régionale) des finances publiques et justifier de votre identité.",
+        "Les informations sont communiquées oralement et doivent rester confidentielles.",
+        "Direction départementale des finances publiques (DDFIP)",
+        "[À noter] En cas de non-respect de la confidentialité de ces informations, vous risquez des poursuites pénales et une amende administrative égale au montant des impôts divulgués."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général des impôts : articles 170 à 175 A",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006162524/"
+    },
+    {
+      "titre": "Livre des procédures fiscales : article L253",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043643843/"
+    },
+    {
+      "titre": "Livre des procédures fiscales : article R111-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006316620"
+    },
+    {
+      "titre": "Loi n° 2022-1499 du 1er décembre 2022 de finances rectificative pour 2022",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000046672407/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Impôts : accéder à votre espace Finances publiques",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Estimer le montant de son impôt sur les revenus de 2025 (déclaration de 2026)",
+      "url": "https://simulateur-ir-ifi.impots.gouv.fr/calcul_impot/2026/",
+      "type": "simulateurNG"
+    },
+    {
+      "titre": "Déclarer vos revenus en ligne",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Déclaration 2026 des revenus 2025 (papier)",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/2042/declaration-des-revenus",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Service d'information des impôts",
+    "Service en charge des impôts (trésorerie, service des impôts...)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Site des impôts",
+      "url": "https://www.impots.gouv.fr/portail/"
+    },
+    {
+      "titre": "Brochure pratique 2026 - Déclaration des revenus de 2025",
+      "url": "https://www.impots.gouv.fr/www2/fichiers/documentation/brochure/ir_2026/accueil.htm"
+    },
+    {
+      "titre": "Impôt sur le revenu : dépliants d'information",
+      "url": "https://www.impots.gouv.fr/brochures-et-depliants"
+    },
+    {
+      "titre": "Avis d'impôt sur le revenu",
+      "url": "https://www.impots.gouv.fr/particulier/avis-dimpot-sur-le-revenu"
+    },
+    {
+      "titre": "Qu'est-ce que l'avis de situation déclarative à l'impôt sur le revenu (Asdir) ?",
+      "url": "https://www.impots.gouv.fr/particulier/questions/quest-ce-que-lavis-de-situation-declarative-asdir"
+    },
+    {
+      "titre": "Le service de vérification des avis",
+      "url": "https://www.impots.gouv.fr/precisions-sur-le-service-de-verification-en-ligne"
+    }
+  ],
+  "slug": "impot-sur-le-revenu-a-quoi-sert-l-avis-d-impot",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "impot-sur-le-revenu-calcul-et-paiement",
+      "titre": "Impôt sur le revenu : calcul et paiement"
+    }
+  ]
+}

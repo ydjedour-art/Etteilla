@@ -1,0 +1,63 @@
+{
+  "id": "F38245",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Vous élevez seul votre enfant ou vos enfants : aides financières",
+  "theme": "Social - Santé",
+  "description": "Si vous attendez votre premier enfant, vous pouvez bénéficier d'aides pendant la grossesse et après la naissance, sous certaines conditions.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-30",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F38245",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Aides financières",
+    "Vous élevez seul votre enfant ou vos enfants : aides financières"
+  ],
+  "introduction": "Si vous élevez seul votre enfant ou vos enfants, vous pouvez bénéficier de plusieurs aides, sous certaines conditions.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Allocation de soutien familial",
+        "Vous pouvez avoir droit à l'allocation de soutien familial (ASF) si vous êtes dans l'une des situations suivantes :",
+        "• L'autre parent ne participe plus à l'entretien de l'enfant depuis au moins 1 mois (ou l'autre parent vous verse une pension alimentaire inférieure à 200,78 €)",
+        "• L'autre parent n'a pas reconnu l'enfant",
+        "• L'autre parent est décédé.",
+        "Aide pour l'entretien et l'éducation de l'enfant",
+        "Vous avez peut-être droit à l'allocation de base de la prestation d'accueil du jeune enfant (Paje). Elle est versée sous condition de ressources. L'allocation vise à aider au financement des dépenses liées à l'entretien et l'éducation d'un enfant.",
+        "Allocations familiales",
+        "Si vous avez au moins 2 enfants, vous pouvez avoir droit aux allocations familiales. Leur montant dépend de vos ressources, du nombre d'enfants à charge et de leur âge.",
+        "Prime de déménagement s'il s'agit de votre 3e enfant",
+        "Si vous avez au moins 3 enfants à charge (nés ou à naître) et que vous déménagez au plus tard le dernier jour du mois précédant le 2e anniversaire de votre dernier enfant, vous avez droit à une prime de déménagement. Mais, pour cela, il faut que vous ayez droit à l'aide personnalisée au logement (APL) ou à l'allocation de logement familiale (ALF) pour votre nouveau logement.",
+        "Aide pour faire garder votre enfant",
+        "• Vous avez peut-être droit au complément de libre choix du mode de garde (CMG) si vous passez par une structure pour garder votre ou vos enfants (organisme, micro-crèche ou crèche familiale) ou si vous employez vous-même une assistante maternelle ou une garde à domicile.",
+        "• Vous pouvez également bénéficier d'un crédit d'impôt.",
+        "Aide si vous interrompez votre activité professionnelle pour vous occuper de votre enfant",
+        "Si vous interrompez totalement ou partiellement votre activité professionnelle pour vous occuper de votre enfant et que vous justifiez de 8 trimestres de cotisation vieillesse au cours des 2 dernières années, vous avez droit à la prestation partagée d'éducation de l'enfant (PreParE) tant que votre enfant a moins de 3 ans.",
+        "Aide si votre enfant tombe gravement malade ou est accidenté ou devient handicapé",
+        "Vous pouvez avoir droit à l'allocation journalière de présence parentale (AJPP). Elle permet de cesser temporairement votre activité pour vous occuper de votre enfant.",
+        "Si votre enfant est en situation de handicap, il peut y avoir un impact sur votre impôt sur le revenu.",
+        "Aides financières à la scolarité",
+        "Vous pouvez avoir droit à plusieurs aides.",
+        "Aide éventuelle de votre mairie",
+        "Certaines mairies proposent des aides à l'occasion de la naissance d'un enfant. Vous pouvez vous renseigner auprès de votre mairie (ou centre communal d'action sociale).",
+        "Mairie"
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "vous-elevez-seul-votre-enfant-ou-vos-enfants-aides-financieres",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "aides-financieres",
+      "titre": "Aides financières"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "F2713",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Un étudiant non européen peut-il travailler en France ?",
+  "theme": "Étranger - Europe",
+  "description": "Un étudiant étranger peut travailler à titre accessoire ou être en alternance (apprentissage, professionnalisation) avec ou sans autorisation de travail.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-10-07",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2713",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Travail d'un étranger en France",
+    "Un étudiant non européen peut-il travailler en France ?"
+  ],
+  "introduction": "Lorsqu'un étudiant non européen fait ses études en France, il peut exercer une activité salariée sous certaines conditions. Nous faisons un point sur la réglementation. Elle diffère selon que l'étudiant est de nationalité algérienne ou non.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code du travail : article L5221-9",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006903741"
+    },
+    {
+      "titre": "Code du travail : article R5221-1 à R5221-7",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000018495562/"
+    },
+    {
+      "titre": "Code du travail : articles R5221-26 à R5221-28",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000038189475"
+    },
+    {
+      "titre": "Décret n°2002-1500 du 20 décembre 2002 relatif à la circulation, à l'emploi et au séjour en France des ressortissants algériens et de leurs familles",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000599731"
+    },
+    {
+      "titre": "Circulaire du 22 août 2007 relative aux autorisations de travail des étrangers",
+      "url": "http://www.immigration.interieur.gouv.fr/content/download/34565/259204/file/01_circulaire22082007.pdf"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demander en ligne une autorisation de travail pour embaucher un salarié étranger",
+      "url": "https://administration-etrangers-en-france.interieur.gouv.fr/immiprousager/#/authentification",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "Préfecture"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "un-etudiant-non-europeen-peut-il-travailler-en-france",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "travail-d-un-etranger-en-france",
+      "titre": "Travail d'un étranger en France"
+    }
+  ]
+}

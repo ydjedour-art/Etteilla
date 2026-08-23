@@ -1,0 +1,87 @@
+{
+  "id": "F2003",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quelles solutions d’hébergement existent pour les personnes en situation de précarité ?",
+  "theme": "Social - Santé",
+  "description": "Plusieurs solutions d’hébergement existent pour les personnes en situation de précarité : centre d’hébergement d’urgence, foyer de travailleurs migrants...",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-08-06",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2003",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Hébergement social",
+    "Quelles solutions d’hébergement existent pour les personnes en situation de précarité ?"
+  ],
+  "introduction": "Plusieurs solutions d’hébergement existent pour les personnes en situation de précarité (difficultés financières, isolement...). La durée de l’accueil varie selon la situation et le type d’établissement.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Catégorie d'hébergement accueillant des personnes en situation de précarité",
+        "Structure",
+        "Personnes concernées",
+        "Durée d’hébergement",
+        "Centre d'hébergement d'urgence",
+        "Tous publics.",
+        "À savoir : le centre doit prendre en compte, de la manière la plus adaptée possible, les besoins de la personne accueillie, y compris lorsqu'elle est accompagnée d’un animal de compagnie.",
+        "Variable (de 1 à plusieurs nuits)",
+        "Centre d’hébergement et de réinsertion sociale (CHRS)",
+        "Personne en grande difficulté sociale (par exemple, jeune en rupture, personne victime de violences, personne sans logement stable)",
+        "Variable (de quelques mois à plusieurs années)",
+        "Centre maternel",
+        "Femme enceinte et mère isolée (mineure ou majeure) avec un enfant de moins de 3 ans, nécessitant un soutien matériel et psychologique. Le centre dispose d’une crèche.",
+        "Variable (de quelques semaines à plusieurs mois, jusqu'aux 3 ans de l’enfant)",
+        "Foyer de jeunes travailleurs (FJT) ou Habitat jeunes",
+        "Jeune de 16 à 25 ans (parfois jusqu’à 30 ans) en activité professionnelle ou en formation (stage, apprentissage...). Certains FJT accueillent aussi des étudiants ou des demandeurs d'emploi.",
+        "Variable (de quelques mois à maximum 2 ans)",
+        "Foyer de travailleurs migrants (FTM)",
+        "Travailleur immigré vivant seul, en situation régulière et exerçant une activité professionnelle.",
+        "Certains FTM accueillent également des personnes rencontrant de fortes difficultés pour se loger (familles monoparentales, personnes isolées...).",
+        "Indéterminée",
+        "Résidence sociale (par exemple, résidence hôtelière à vocation sociale, pension de famille...)",
+        "Personne en difficulté d’accès au logement, pouvant vivre de manière autonome mais nécessitant un hébergement stable et accompagné",
+        "Variable (de quelques mois à plusieurs années)",
+        "[Attention] Cette liste présente les principales catégories d'établissements, mais elle n’est pas exhaustive.",
+        "Les coordonnées de ces structures peuvent être obtenues notamment auprès de la mairie ou du Samu social (en composant notamment le numéro 115, accessible 24h/24).",
+        "Mairie",
+        "Samu social - 115",
+        "Numéro d'urgence et d'accueil des personnes sans abri",
+        "Par téléphone",
+        "115 (gratuit depuis un fixe et un mobile en France métropolitaine et en outre-mer)",
+        "Ouvert du lundi au dimanche et fonctionnant 24h/24",
+        "Un appel sur ce numéro est géolocalisé, identifié et priorisé. Il n'apparait pas sur les factures.",
+        "Certaines associations proposent également des hébergements d’urgence. Il faut se renseigner directement auprès d'elles.",
+        "[À noter] Lorsque aucune solution d’hébergement ou de logement adaptée n’est proposée à la suite d’une demande, le droit à un hébergement opposable (Daho) ou le droit à un logement opposable (Dalo) peut être exercé, à condition de remplir les conditions prévues."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'action sociale et des familles : articles L345-1 à L345-4",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006157691"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Samu social - 115",
+    "Mairie"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Services intégrés d’accueil et d’orientation (SIAO) : service public de l’hébergement et de l’accès au logement",
+      "url": "https://www.drihl.ile-de-france.developpement-durable.gouv.fr/siao-un-veritable-service-public-de-l-hebergement-a58.html"
+    }
+  ],
+  "slug": "quelles-solutions-d-hebergement-existent-pour-les-personnes-en-situation-de-precarite",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "hebergement-social",
+      "titre": "Hébergement social"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "F827",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Faut-il signaler un changement de situation (déménagement, séparation, chômage...) quand on perçoit des prestations familiales ?",
+  "theme": "Famille - Scolarité",
+  "description": "Une personne percevant des prestations familiales doit signaler tout changement lié à sa situation : déménagement, concubinage, séparation, divorce, mariage...",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-03-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F827",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Allocations destinées aux familles",
+    "Faut-il signaler un changement de situation (déménagement, séparation, chômage...) quand on perçoit des prestations familiales ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Si vous percevez des prestations familiales, vous devez signaler tout changement de situation personnelle, familiale ou professionnelle. Cela peut concerner un déménagement, un concubinage, la conclusion d'un Pacs, un mariage, une séparation ou encore un divorce. Il peut aussi s'agir de l'arrivée ou du départ du foyer d'un enfant ou d'une personne à charge.",
+        "La démarche à suivre varie selon que vous dépendez du régime général (Caf) ou du régime agricole (MSA) :"
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [
+    {
+      "titre": "Allocations et prestations familiales - Déclaration de situation (Caf)",
+      "url": "https://connect.caf.fr/connexionappli/dist/?forceReload=20211220&contexteAppel=caffr&urlredirect=%2Fwps%2Fmyportal%2Fcaffr%2Fmoncompte%2Fmonprofil#/login",
+      "type": "selNG"
+    },
+    {
+      "titre": "Allocations et prestations familiales - Déclaration de situation (MSA)",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_11423.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Déclaration de changement d'adresse",
+      "url": "https://demarches.service-public.gouv.fr/mademarche/JeChangeDeCoordonnees/demarche",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "MSA - Espace particuliers",
+      "url": "https://monespaceprive.msa.fr/lfp/web/msa/espace-prive",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "Caisse d'allocations familiales (Caf)",
+    "Mutualité sociale agricole (MSA)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Guide des prestations Caf",
+      "url": "https://kiosque-viesdefamille.fr/#guidedesprestations"
+    },
+    {
+      "titre": "Droit à l'erreur",
+      "url": "https://www.plus.transformation.gouv.fr/oups-jai-fait-une-erreur-en-effectuant-une-demarche-administrative-que-faire"
+    }
+  ],
+  "slug": "faut-il-signaler-un-changement-de-situation-demenagement-separation-chomage-quand-on-percoit-des-prestations-familiales",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "allocations-destinees-aux-familles",
+      "titre": "Allocations destinées aux familles"
+    }
+  ]
+}

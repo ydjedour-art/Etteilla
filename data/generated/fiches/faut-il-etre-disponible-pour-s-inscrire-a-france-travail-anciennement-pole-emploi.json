@@ -1,0 +1,63 @@
+{
+  "id": "F35445",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Faut-il être disponible pour s'inscrire à France Travail (anciennement Pôle emploi) ?",
+  "theme": "Social - Santé",
+  "description": "Pour vous inscrire à France Travail (anciennement Pôle emploi), vous devez être disponible pour travailler ou rechercher un emploi.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-10-02",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35445",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Chômage : démarches auprès de France Travail (anciennement Pôle emploi)",
+    "Faut-il être disponible pour s'inscrire à France Travail (anciennement Pôle emploi) ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Oui, pour vous inscrire à France Travail, vous devez être disponible pour effectuer une recherche d'emploi.",
+        "Vous ne devez pas être salarié à temps plein, en formation professionnelle ou en service civique.",
+        "Vous ne pouvez pas vous inscrire à France Travail si votre contrat de travail est suspendu.",
+        "Si vous êtes en situation de préavis, vous devez attendre le lendemain de la fin de votre préavis pour vous inscrire à France Travail."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code du travail : articles L5411-6 à L5411-7",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000006189818/"
+    },
+    {
+      "titre": "Code du travail : articles R5411-9 à R5411-10",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000018525201"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "France Travail pour demandeurs d'emploi - 3949"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "France Travail (anciennement Pôle emploi) : foire aux questions - candidat",
+      "url": "https://www1.pole-emploi.fr/faq/faqcandidat?question=0&rubrique=4&soustheme=5270&theme=5246"
+    },
+    {
+      "titre": "Aides de retour à l'emploi France Travail",
+      "url": "https://www.francetravail.fr/faq/candidat/mes-allocations---mes-aides/les-aides.html"
+    }
+  ],
+  "slug": "faut-il-etre-disponible-pour-s-inscrire-a-france-travail-anciennement-pole-emploi",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "chomage-demarches-aupres-de-france-travail-anciennement-pole-emploi",
+      "titre": "Chômage : démarches auprès de France Travail (anciennement Pôle emploi)"
+    }
+  ]
+}

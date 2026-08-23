@@ -1,0 +1,46 @@
+{
+  "id": "F2103",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Dégradations causées lors d'un cambriolage : que doit faire le locataire ?",
+  "theme": "Logement",
+  "description": "Les réparations à faire à la suite d'un cambriolage ne sont pas à la charge du locataire, qui doit se tourner vers son assureur.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-05-21",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2103",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Bail d’habitation : obligations du locataire",
+    "Dégradations causées lors d'un cambriolage : que doit faire le locataire ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Lorsqu'un cambrioleur a causé des dégradations dans le logement, le locataire doit recourir à son assurance habitation. Pour cela, il doit contacter son assureur.",
+        "L'assureur lui indiquera les démarches à faire. Ces démarches varient selon le type de contrat d'assurance habitation signé par le locataire."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : article 1725",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006442832"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "degradations-causees-lors-d-un-cambriolage-que-doit-faire-le-locataire",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "bail-d-habitation-obligations-du-locataire",
+      "titre": "Bail d’habitation : obligations du locataire"
+    }
+  ]
+}

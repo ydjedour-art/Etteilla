@@ -1,0 +1,69 @@
+{
+  "id": "F92",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Comment un salarié peut-il prendre un congé de solidarité internationale ?",
+  "theme": "Travail - Formation, Papiers - Citoyenneté - Élections",
+  "description": "Le congé de solidarité internationale permet à un salarié du secteur privé de participer à une mission d'entraide à l'étranger. L'employeur peut refuser.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-02-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F92",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Volontariats",
+    "Comment un salarié peut-il prendre un congé de solidarité internationale ?"
+  ],
+  "introduction": "Si vous êtes salarié du secteur privé, le congé de solidarité internationale (CSI) vous permet de participer à une mission d'entraide à l'étranger. Ce congé n’est pas rémunéré. Il peut être refusé par l'employeur. Les règles diffèrent selon que l'entreprise relève ou non d'un accord collectif, convention collective ou accord d'entreprise ou de branche. Nous vous indiquons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code du travail : articles L3142-67 à L3142-72",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033005154/"
+    },
+    {
+      "titre": "Code du travail : article L3142-73",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033005156/"
+    },
+    {
+      "titre": "Code du travail : article L3142-74",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033005158/"
+    },
+    {
+      "titre": "Code du travail : articles D3142-54 et R3142-55",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033444738/"
+    },
+    {
+      "titre": "Code du travail : articles D3142-56 et D3142-57",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033510625/"
+    },
+    {
+      "titre": "Arrêté du 16 juillet 1996 fixant la liste des associations de solidarité internationale bénéficiaires des dispositions relatives au congé de solidarité internationale",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000549920"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "3939 Allô Service Public"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Le congé de solidarité internationale",
+      "url": "https://france-volontaires.org/le-conge-de-solidarite-internationale/"
+    },
+    {
+      "titre": "Liste des associations de solidarité internationale",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000549920"
+    }
+  ],
+  "slug": "comment-un-salarie-peut-il-prendre-un-conge-de-solidarite-internationale",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "volontariats",
+      "titre": "Volontariats"
+    }
+  ]
+}

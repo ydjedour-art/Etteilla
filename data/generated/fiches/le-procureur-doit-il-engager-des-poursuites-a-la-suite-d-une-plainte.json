@@ -1,0 +1,97 @@
+{
+  "id": "F1154",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Le procureur doit-il engager des poursuites à la suite d'une plainte ?",
+  "theme": "Justice",
+  "description": "Non. Le procureur peut refuser de donner suite à une plainte. On parle de classement sans suite. Le procureur a l'opportunité des poursuites.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-06-26",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1154",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Affaire pénale",
+    "Le procureur doit-il engager des poursuites à la suite d'une plainte ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "Pour quel motif la plainte peut-elle être classée sans suite ?",
+      "contenu": [
+        "Le procureur de la République peut classer une plainte sans suite pour différents motifs :",
+        "• Les faits signalés ne constituent pas une infraction (c'est-à-dire que le procureur considère que les faits dénoncés par le plaignant ne violent pas la loi)",
+        "• L'auteur de l'infraction n'est pas identifié par manque d'indice pour le retrouver",
+        "• Le plaignant a retiré sa plainte ou a été dédommagé par l'auteur des faits à la demande du procureur de la République",
+        "• L'auteur des faits s'est mis en conformité avec la loi à la demande du procureur de la République",
+        "• Le préjudice causé par l'infraction n'est pas très important et le procureur estime que l'affaire n'est pas assez grave pour y donner suite."
+      ]
+    },
+    {
+      "titre": "Le classement sans suite est-il définitif ?",
+      "contenu": [
+        "Le classement sans suite n'est pas une décision définitive.",
+        "Le procureur de la République peut revenir à tout moment sur sa décision et décider d'engager des poursuites (par exemple si la police trouve de nouveaux éléments ou identifie l'auteur des faits). Mais le procureur ne peut plus engager des poursuites si les faits sont prescrits ou si l'auteur des faits est décédé."
+      ]
+    },
+    {
+      "titre": "Le classement sans suite peut-il être contesté ?",
+      "contenu": [
+        "Le plaignant peut contester le classement de la plainte par le procureur de la République pour qu'une suite soit donnée aux faits dont il s'estime victime. La contestation doit être faite avant l'expiration du délai de prescription pénale.",
+        "La contestation d'un classement sans suite se fait en adressant un courrier au procureur général de la cour d'appel.",
+        "Cour d'appel",
+        "Le courrier peut être déposé contre récépissé ou envoyé en lettre simple ou par lettre recommandée avec accusé de réception.",
+        "Le procureur général peut ordonner au procureur de la République d'engager des poursuites.",
+        "Il peut également rejeter la demande pour la même raison que le procureur de la République. S’il estime le recours infondé, il en informe le plaignant."
+      ]
+    },
+    {
+      "titre": "Le classement sans suite empêche-t-il d'engager une procédure devant le tribunal ?",
+      "contenu": [
+        "Lorsque le plaignant veut faire convoquer l'auteur présumé des faits pour qu'il soit jugé, il peut saisir directement le tribunal en utilisant une des 3 procédures suivantes :",
+        "• Plainte avec constitution de partie civile auprès du juge d'instruction",
+        "• Citation directe si l'auteur des faits est identifié",
+        "• Demande de dommages-intérêts en réparation du préjudice subi."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de procédure pénale : article 7",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043409351"
+    },
+    {
+      "titre": "Code de procédure pénale : article 8",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049531911"
+    },
+    {
+      "titre": "Code de procédure pénale : article 9",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034099775/"
+    },
+    {
+      "titre": "Code de procédure pénale : articles 34 à 38",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000006167417"
+    },
+    {
+      "titre": "Code de procédure pénale : articles 39 à 44-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006167418/"
+    },
+    {
+      "titre": "Code de procédure pénale : articles 75 à 78",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006151877/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "le-procureur-doit-il-engager-des-poursuites-a-la-suite-d-une-plainte",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "affaire-penale",
+      "titre": "Affaire pénale"
+    }
+  ]
+}

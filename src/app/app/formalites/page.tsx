@@ -16,7 +16,7 @@ export default async function FormalitesPage() {
       <div>
         <h1 className="text-2xl font-semibold text-ink">Catalogue de démarches</h1>
         <p className="mt-1 text-ink-soft">
-          Toutes les démarches qu&apos;Sérénio peut prendre en charge pour vous.
+          Toutes les démarches qu&apos;IZY/D peut prendre en charge pour vous.
         </p>
       </div>
 
@@ -32,7 +32,7 @@ export default async function FormalitesPage() {
                 <Link
                   key={template.slug}
                   href={`/app/formalites/${template.slug}`}
-                  className="block rounded-2xl border border-ink/10 bg-white p-5 transition-shadow hover:shadow-md"
+                  className="block rounded-2xl border border-ink/10 bg-card p-5 transition-shadow hover:shadow-md"
                 >
                   <div className="flex items-start justify-between gap-4">
                     <div>
@@ -41,7 +41,7 @@ export default async function FormalitesPage() {
                         {template.name}
                       </h3>
                     </div>
-                    <span className="whitespace-nowrap rounded-full bg-primary-light px-3 py-1 text-xs font-medium text-primary">
+                    <span className="whitespace-nowrap bg-primary/10 px-3 py-1 text-xs font-medium text-primary">
                       {AUTOMATION_LABELS[template.automationLevel]}
                     </span>
                   </div>

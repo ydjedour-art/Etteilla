@@ -1,0 +1,75 @@
+{
+  "id": "F2868",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Surface de plancher, emprise au sol et surface taxable d'une construction : quelles sont les règles de calcul ?",
+  "theme": "Logement",
+  "description": "La surface de plancher, l'emprise au sol et la surface taxable sont calculées à partir de critères précis. Leurs définitions et déductions sont différentes.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2024-11-27",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2868",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Autorisations d'urbanisme",
+    "Surface de plancher, emprise au sol et surface taxable d'une construction : quelles sont les règles de calcul ?"
+  ],
+  "introduction": "Vous souhaitez calculer la surface de plancher, l'emprise au sol ou la surface taxable de votre construction. À quoi servent ces différentes surfaces ? Nous vous expliquons.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de l'urbanisme : article L111-14",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031210207/"
+    },
+    {
+      "titre": "Code de l'urbanisme : article R111-22",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031721274/"
+    },
+    {
+      "titre": "Code de l'urbanisme : article R*420-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028678466/"
+    },
+    {
+      "titre": "Code général des impôts - Article 1635 quater H",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047623411/"
+    },
+    {
+      "titre": "Code général des impôts : article 318 J de l'annexe II",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047278825"
+    },
+    {
+      "titre": "Code général des impôts : article 1635 quater J",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049641209"
+    },
+    {
+      "titre": "Circulaire du 3 février 2012 relative au respect des modalités de calcul de la surface de plancher des constructions",
+      "url": "https://www.legifrance.gouv.fr/download/pdf/circ?id=34719"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Méthode de calcul de la surface de plancher",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/getAnnexe.do?cerfaAnnexe=2&cerfaFormulaire=16700",
+      "type": "Simulateur"
+    }
+  ],
+  "contacts": [
+    "Centre départemental des impôts fonciers (CDIF)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Que devez-vous savoir sur le contrat de location de vacances ?",
+      "url": "https://www.anil.org/parole-expert-logement-location-vacances-contrat/"
+    }
+  ],
+  "slug": "surface-de-plancher-emprise-au-sol-et-surface-taxable-d-une-construction-quelles-sont-les-regles-de-calcul",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "autorisations-d-urbanisme",
+      "titre": "Autorisations d'urbanisme"
+    }
+  ]
+}

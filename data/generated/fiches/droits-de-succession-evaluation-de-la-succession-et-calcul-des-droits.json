@@ -1,0 +1,99 @@
+{
+  "id": "F14198",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Droits de succession - Évaluation de la succession et calcul des droits",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Pour le calcul des droits de succession, on applique d'abord un abattement puis un barème selon le lien de l'héritier avec le défunt.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-02-09",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F14198",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Droits de succession et de donation",
+    "Droits de succession - Évaluation de la succession et calcul des droits"
+  ],
+  "introduction": "Vous souhaitez estimer le montant des droits de succession à payer ? Si votre situation est simple, vous pouvez le faire en suivant plusieurs étapes. L'abattement et le barème applicables tiennent compte de votre lien avec le défunt. Mieux vaut le plus souvent faire appel à un notaire. Nous vous indiquons les informations à connaître selon qu'il y a un seul ou plusieurs héritiers.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code général des impôts : articles 768 à 774",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006199543/"
+    },
+    {
+      "titre": "Code général des impôts : article 775",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006199548/"
+    },
+    {
+      "titre": "Code général des impôts : article 775 bis",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006199545/"
+    },
+    {
+      "titre": "Code général des impôts : articles 777 à 778 bis",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000006191748/"
+    },
+    {
+      "titre": "Code général des impôts : articles 779 à 787 C",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006199106/"
+    },
+    {
+      "titre": "Code général des impôts : articles 788 à 789",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006199107/"
+    },
+    {
+      "titre": "Arrêté du 28 janvier 2021 portant création du service national de l'enregistrement",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000043099925/"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-ENR-DMTG-10-50 relatif au calcul des droits de succession",
+      "url": "http://bofip.impots.gouv.fr/bofip/3354-PGP.html"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-ENR-DMTG-20-30-20-20 relatif aux abattements communs aux donations et aux successions et à ceux applicables uniquement aux donations",
+      "url": "http://bofip.impots.gouv.fr/bofip/3351-PGP.html"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Déclaration de succession",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/2705-sd/declaration-de-succession",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Estimer le montant des droits de succession",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/droits-succession",
+      "type": "simulateurNG"
+    },
+    {
+      "titre": "Connaître les valeurs fiscales d’un usufruit et d’une nue-propriété",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/bareme-fiscal-usufruit",
+      "type": "simulateurNG"
+    }
+  ],
+  "contacts": [
+    "Service en charge des impôts (trésorerie, service des impôts...)",
+    "Service des impôts des particuliers non résidents",
+    "Notaire"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Déclarer une succession",
+      "url": "https://www.impots.gouv.fr/particulier/declarer-une-succesion"
+    },
+    {
+      "titre": "Comment calculer les droits de succession ?",
+      "url": "https://www.impots.gouv.fr/particulier/questions/comment-dois-je-calculer-les-droits-de-succession"
+    }
+  ],
+  "slug": "droits-de-succession-evaluation-de-la-succession-et-calcul-des-droits",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "droits-de-succession-et-de-donation",
+      "titre": "Droits de succession et de donation"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "id": "F10619",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quelle photo fournir pour un titre d'identité (passeport, carte d'identité...) ?",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "La photo d'identité doit avoir été prise il y a moins de 6 mois et être ressemblante. Elle doit respecter plusieurs caractéristiques.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-03-11",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F10619",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Carte d'identité",
+    "Quelle photo fournir pour un titre d'identité (passeport, carte d'identité...) ?"
+  ],
+  "introduction": "La photo d'identité doit avoir été prise il y a moins de 6 mois et être ressemblante. Pour une demande de carte d'identité ou de passeport, il n'y a qu'une seule photo à fournir.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "La photo doit être prise par un professionnel habilité ou dans une cabine utilisant un système agréé par le ministère de l'intérieur.",
+        "L'ANTS met à disposition un outil de recherche pour connaître les lieux proches de votre domicile où faire les photos :",
+        "Trouver les coordonnées des photographes habilités et des cabines agréées",
+        "La photo doit respecter plusieurs caractéristiques :",
+        "Photo d'identité : normes à respecter",
+        "Sujet",
+        "Obligations",
+        "Qualité",
+        "La photo doit être nette, sans pliure, ni traces.",
+        "Format",
+        "• Largeur : 3,5 cm",
+        "• Hauteur : 4,5 cm",
+        "• Taille du visage : entre 3,2 et 3,6 cm (soit 70 à 80% de la photo), du bas du menton au sommet du crâne (hors cheveux)",
+        "Luminosité, contraste et couleurs",
+        "La photo ne doit présenter ni surexposition, ni sous-exposition.",
+        "Elle doit être correctement contrastée, sans ombre portée sur le visage ou en arrière-plan.",
+        "Une photo en couleurs est fortement recommandée.",
+        "Fond",
+        "Le fond doit être uni, de couleur claire (bleu clair ou gris clair par exemple).",
+        "Le fond blanc est interdit.",
+        "Tête",
+        "La tête doit être nue (pas de chapeau, foulard ou serre-tête par exemple).",
+        "La tête doit être droite et le visage dirigé face à l'objectif.",
+        "Regard et expression",
+        "Il faut fixer l'objectif.",
+        "L'expression doit être neutre et la bouche doit être fermée.",
+        "Visage et yeux",
+        "Le visage doit être dégagé.",
+        "Le port de boucles d'oreilles ou le port d'un piercing sont autorisés dès lors qu'ils permettent de distinguer clairement les traits du visage.",
+        "Les yeux doivent être parfaitement visibles et ouverts.",
+        "Cheveux",
+        "Les cheveux ne doivent pas recouvrir le visage.",
+        "Une frange peut être acceptée si elle ne recouvre pas les yeux.",
+        "Les oreilles doivent être dégagées.",
+        "Lunettes et montures",
+        "Si vous avez des lunettes, vous n'êtes pas obligé de les porter sur les photos.",
+        "En revanche, si vous les portez :",
+        "• La monture ne doit pas être épaisse et ne pas masquer les yeux",
+        "• Les verres ne doivent être ni teintés, ni colorés et sans reflet.",
+        "[Attention] Si la photo ne respecte pas les caractéristiques, elle sera rejetée et le titre d'identité ne sera pas délivré."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Arrêté du 10 avril 2007 relatif aux photos pour les documents d'identité - Photographes professionnels",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006056182/"
+    },
+    {
+      "titre": "Arrêté du 5 février 2009 relatif aux photos d'identité exigées pour le passeport",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000020248522/"
+    },
+    {
+      "titre": "Décret n°2005-1726 du 30 décembre 2005 relatif au passeport : article 6-1 - Empreintes et photo",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000033333857"
+    },
+    {
+      "titre": "Décret n°55-1397 du 22 octobre 1955 relatif à la carte d'identité : article 4-3 - Empreintes et photo",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000034729482"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Trouver les coordonnées des photographes habilités et des cabines agréées",
+      "url": "https://passeport.ants.gouv.fr/services/geolocaliser-les-photographes-habilites",
+      "type": "outilRechercheNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "quelle-photo-fournir-pour-un-titre-d-identite-passeport-carte-d-identite",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "carte-d-identite",
+      "titre": "Carte d'identité"
+    }
+  ]
+}

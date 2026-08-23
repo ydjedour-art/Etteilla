@@ -1,0 +1,79 @@
+{
+  "id": "F562",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Impôt sur la fortune immobilière (IFI) : à quelle date évaluer le patrimoine ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "La composition et valeur du patrimoine pour l'établissement de l'IFI s'apprécient au 1er janvier.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-03-06",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F562",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Impôt sur la fortune immobilière (IFI)",
+    "Impôt sur la fortune immobilière (IFI) : à quelle date évaluer le patrimoine ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "L'IFI prend en compte la composition du patrimoine immobilier pour sa valeur netteau 1er janvier de l'année d'imposition.",
+        "Pour l'IFI payé en 2026, il s'agit du patrimoine détenu au 1er janvier 2026.",
+        "Si vous avez vendu un bien sous condition suspensive avant le 1er janvier 2026, vous êtes toujours propriétaire tant que la condition ne s'est pas réalisée.",
+        "Les modifications du patrimoine immobilier intervenant entre le 1er janvier et la date de la déclaration IFI ne sont pas prises en compte.",
+        "Toutefois, si un événement survenu après le 1er janvier modifie rétroactivement votre patrimoine, vous devez en tenir compte et, si besoin déposer une déclaration complémentaire ou rectificative.",
+        "Par exemple, un partage de succession signé en 2026 ayant une date d'effet rétroactif antérieur au 1er janvier 2026."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Bofip-Impôts n°BOI-PAT-IFI-10 relatif au fait générateur de l'IFI",
+      "url": "http://bofip.impots.gouv.fr/bofip/11290-PGP"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Simulateur de l'impôt de la fortune immobilière (IFI)",
+      "url": "https://www3.impots.gouv.fr/simulateur/ifi/2024/calcul_ifi/index.htm",
+      "type": "Simulateur"
+    },
+    {
+      "titre": "Impôts : accéder à votre espace Finances publiques",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Déclaration 2026 des revenus 2025 (papier)",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/2042/declaration-des-revenus",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Accéder au service de paiement de l’impôt en ligne",
+      "url": "https://www.telepaiement.dgfip.finances.gouv.fr/stl/satelit.web?templatename=accueilcharpente&contexteinitial=2",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "Service d'information des impôts",
+    "Service en charge des impôts (trésorerie, service des impôts...)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Site des impôts",
+      "url": "https://www.impots.gouv.fr/portail/"
+    }
+  ],
+  "slug": "impot-sur-la-fortune-immobiliere-ifi-a-quelle-date-evaluer-le-patrimoine",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "impot-sur-la-fortune-immobiliere-ifi",
+      "titre": "Impôt sur la fortune immobilière (IFI)"
+    }
+  ]
+}

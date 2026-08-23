@@ -1,0 +1,235 @@
+{
+  "id": "F33314",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "En quoi consiste l'allocation pour demandeur d'asile (Ada) ?",
+  "theme": "Étranger - Europe",
+  "description": "L'allocation de demandeur d'asile (ADA) est versée sous certaines conditions.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-04-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33314",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Demande d'asile (réfugié, protection subsidiaire, apatride)",
+    "En quoi consiste l'allocation pour demandeur d'asile (Ada) ?"
+  ],
+  "introduction": "Si vous êtes demandeur d'asile, vous n'êtes pas autorisé à travailler avant un délai de 6 mois. Si vous êtes majeur et sous certaines conditions, une allocation pour demandeur d'asile (Ada) peut vous être versée. Son montant dépend notamment de votre situation familiale. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Quel demandeur d'asile peut percevoir l'Ada ?",
+      "contenu": [
+        "En tant que demandeur d'asile, vous pouvez avoir droit à l'Ada si vous remplissez toutes les conditions suivantes :",
+        "• Avoir accepté les conditions matérielles d'accueil proposées par l'Ofii",
+        "• Avoir au moins 18 ans",
+        "• Être en possession de l'attestation de demandeur d'asile",
+        "• Avoir déposé votre demande d'asile auprès de l'Ofpra dans un délai de 21 jours (sauf procédure Dublin)",
+        "• Avoir des ressources mensuelles inférieures au montant du RSA.",
+        "Le montant du RSA varie selon votre situation personnelle :",
+        "Vous vivez seul(e)",
+        "Le montant du RSA pour une personne seule est de 651,69 €.",
+        "Vous vivez en couple",
+        "Montant du RSA pour un couple en fonction du nombre de personnes au foyer",
+        "Nombre d'enfant/personne à charge",
+        "Montant",
+        "0",
+        "977,54 €",
+        "1",
+        "1 173,05 €",
+        "2",
+        "1 368,55 €",
+        "Par enfant ou personne à charge supplémentaire",
+        "260,68 €",
+        "Famille monoparentale",
+        "Montant du RSA pour une personne seule en fonction du nombre de personnes au foyer",
+        "Nombre d'enfant/personne à charge",
+        "Personne seule",
+        "Parent isolé",
+        "0 (femme isolée enceinte)",
+        "-",
+        "836,85 €",
+        "1",
+        "977,54 €",
+        "1 115,80 €",
+        "2",
+        "1 173,05 €",
+        "1 394,75 €",
+        "Par enfant ou personne à charge supplémentaire",
+        "260,68 €",
+        "278,95 €",
+        "Vous êtes considéré comme parent isolé si vous êtes une femme enceinte ou si vous avez au moins 1 enfant ou 1 personne à charge et que vous vous retrouvez seul(e) suite à un événement de vie. C'est le cas, par exemple, si votre conjoint décède ou si vous vous en séparez.",
+        "Vous pouvez alors bénéficier d'une augmentation du montant du RSA. Cette augmentation est aussi appelée majoration.",
+        "La durée de cette majoration varie en fonction de la date de survenue de l'événement :",
+        "• Si l’événement intervient après les 3 ans de l'enfant à charge, la majoration dure 12 mois et doit être versée durant les 18 mois qui suivent la date de l’événement. Il faut donc déclarer ce type d'événement à votre Caf dans un délai de 6 mois après sa survenue.",
+        "• Si l'événement intervient avant les 3 ans de l'enfant à charge, la majoration dure jusqu'à ses 3 ans.",
+        "[Attention] Ces montants sont donnés à titre indicatif et peuvent varier en fonction de votre situation personnelle. Utilisez le simulateur afin d'obtenir une estimation plus précise.",
+        "Les ressources prises en compte sont les vôtres et celles de la personne avec qui vous vivez en couple.",
+        "[À noter] Si vous bénéficiez de la protection temporaire (par exemple les Ukrainiens depuis le 3 mars 2022), vous pouvez également avoir droit à l'Ada."
+      ]
+    },
+    {
+      "titre": "Comment demander l'allocation pour demandeur d'asile ?",
+      "contenu": [
+        "Vous pouvez faire votre demande d'Ada lors de votre passage en préfecture (guichet unique) ou exceptionnellement auprès de l'Ofii.",
+        "Vous devez fournir les documents suivants :",
+        "• Attestation ou récépissé de demande d'asile",
+        "• Justificatifs des ressources et de la composition familiale",
+        "• Relevé d'identité bancaire.",
+        "Vous devez également déclarer à l'Ofii les informations suivantes :",
+        "• Domicile",
+        "• Situation de famille",
+        "• Activités professionnelles",
+        "• Ressources",
+        "• Biens que vous possédez et ceux des membres de votre famille.",
+        "Vous devez signaler à l'Ofii tout changement intervenu dans l'un ou l'autre de ces éléments.",
+        "Préfecture",
+        "Préfecture de police de Paris - Service des titres de séjour",
+        "Office français de l'immigration et de l'intégration (Ofii)",
+        "[Attention] En cas de fraude ou de dissimulation d'une partie de vos ressources, votre droit à l'Ada est suspendu."
+      ]
+    },
+    {
+      "titre": "Quel est le montant de l'allocation pour demandeur d'asile ?",
+      "contenu": [
+        "L'Ada est composée d'un montant forfaitaire journalier, dont le niveau varie en fonction du nombre de personnes composant le foyer.",
+        "Un montant supplémentaire peut vous être versé si vous avez manifesté un besoin d'hébergement et n'avez pas bénéficié gratuitement d'un hébergement (ou logement).",
+        "Montant journalier de l'Ada",
+        "Taille de la famille",
+        "Montant journalier",
+        "Montant journalier + montant supplémentaire",
+        "1 personne",
+        "6,80 €",
+        "14,20 €",
+        "2 personnes",
+        "10,20 €",
+        "17,60 €",
+        "3 personnes",
+        "13,60 €",
+        "21,00 €",
+        "4 personnes",
+        "17,00 €",
+        "24,40 €",
+        "5 personnes",
+        "20,40 €",
+        "27,80 €",
+        "6 personnes",
+        "23,80 €",
+        "31,20 €",
+        "7 personnes",
+        "27,20 €",
+        "34,60 €",
+        "8 personnes",
+        "30,60 €",
+        "38,00 €",
+        "9 personnes",
+        "34,00 €",
+        "41,40 €",
+        "10 personnes",
+        "37,40 €",
+        "44,80 €",
+        "Si aucune place d'hébergement ne vous a été proposée, le montant supplémentaire est de 7,40 €.",
+        "[Attention] Ces montants sont différents en Guyane et à Saint-Martin."
+      ]
+    },
+    {
+      "titre": "Comment est versée l'allocation pour demandeur d'asile ?",
+      "contenu": [
+        "L'allocation est gérée par l'Ofii et son paiement est assuré par l’Agence de services et de paiement.",
+        "Elle est versée sur une carte de paiement délivrée par l'Ofii.",
+        "[À noter] Dans les départements d'outre-mer, l'allocation peut également être versée par virement sur un compte bancaire.",
+        "Quand débute le versement de l'allocation pour demandeur d'asile ?",
+        "Le versement de l'Ada ne débute qu'après le dépôt de votre demande d'asile auprès de l'Ofpra (dans un délai maximum de 21 jours après l'enregistrement de votre demande d'asile)."
+      ]
+    },
+    {
+      "titre": "Quand le versement de l'allocation pour demandeur d'asile prend-il fin ?",
+      "contenu": [
+        "Le versement de l'Ada cesse dans l'une des situations suivantes :",
+        "• À la fin du mois de la notification de la décision définitive sur votre demande d'asile",
+        "• Lorsque vous quittez la France."
+      ]
+    },
+    {
+      "titre": "Dans quels cas l'allocation pour demandeur d'asile est-elle retirée ?",
+      "contenu": [
+        "L'Ofii vous retire le bénéfice de l'Ada si vous vous trouvez notamment dans l'une des situations suivantes :",
+        "• Dissimulation de tout ou partie de vos ressources",
+        "• Fourniture d'informations mensongères sur votre situation familiale",
+        "• Présentation de plusieurs demandes d’asile sous différentes identités",
+        "• Comportement violent ou manquements graves au règlement du lieu d'hébergement",
+        "Cette décision de retrait doit être motivée. Elle est prise après que vous ayez été mis en mesure de faire part de vos observations."
+      ]
+    },
+    {
+      "titre": "Dans quels cas l'allocation pour demandeur d'asile est-elle suspendue ?",
+      "contenu": [
+        "Le versement de l'Ada est suspendu dans l'un des cas suivants :",
+        "• Refus d'une proposition d'hébergement",
+        "• Non respect de l'obligation de vous présenter aux autorités ou non présentation aux entretiens personnels",
+        "• Abandon, sans motif légitime, de votre lieu d'hébergement",
+        "• Conditions pour percevoir l'Ada qui ne sont plus remplies",
+        "• Absence de production des documents qui vous sont demandés.",
+        "• Incarcération ou placement en rétention du bénéficiaire de l’Ada",
+        "Vous êtes informé de ces cas de refus ou de suspension du versement dès la décision d'attribution de cette aide."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile L551-15",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042775860/"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile L551-16",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042775858"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile L553-1 à L553-3",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042772518/"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles L554-1 à L554-4",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042772526/#LEGISCTA000042775808"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles R581-1 à D581-7",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042802254/"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles D553-1 à D553-28",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042802110/#LEGISCTA000042806148"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles D553-1 à D553-7",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042802112/#LEGISCTA000042806146"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles D553-8 à D553-17",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042802128/#LEGISCTA000042806130"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : Annexe 8",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042906933/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Service d'information sur l'Ada"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Guide du demandeur d'asile",
+      "url": "https://www.immigration.interieur.gouv.fr/Asile/Guide-du-demandeur-d-asile-en-France"
+    }
+  ],
+  "slug": "en-quoi-consiste-l-allocation-pour-demandeur-d-asile-ada",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "demande-d-asile-refugie-protection-subsidiaire-apatride",
+      "titre": "Demande d'asile (réfugié, protection subsidiaire, apatride)"
+    }
+  ]
+}

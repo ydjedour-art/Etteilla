@@ -1,0 +1,54 @@
+{
+  "id": "F3137",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Certificat de résidence pour Algérien - Retraité/Conjoint de retraité",
+  "theme": "Étranger - Europe",
+  "description": "Un ressortissant Algérien retraité peut obtenir un certificat de résidence portant la mention « retraité » sous certaines conditions.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-05-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F3137",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Titres, cartes de séjour et documents de circulation pour étranger en France",
+    "Certificat de résidence pour Algérien - Retraité/Conjoint de retraité"
+  ],
+  "introduction": "Si vous êtes algérien et retraité, vous pouvez obtenir, sous conditions, un certificat de résidence portant la mention retraité. Il permet des séjours d'une durée maximum d'1 an, sans avoir à demander de visa. Votre époux ou épouse de nationalité algérienne peut obtenir un certificat de résidence mention conjoint de retraité. La procédure diffère selon que vous êtes en France ou à l'étranger. Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles L412-7 à L412-10",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000049055586/"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles L436-1 à L436-13",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042772036/"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles R433-1 à 433-6",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042801402/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles D254-1 à D254-6",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006155967/"
+    },
+    {
+      "titre": "Décret n°2002-1500 du 20 décembre 2002 relatif à la circulation, à l'emploi et au séjour en France des ressortissants algériens et de leurs familles",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000599731"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "certificat-de-residence-pour-algerien-retraite-conjoint-de-retraite",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "titres-cartes-de-sejour-et-documents-de-circulation-pour-etranger-en-france",
+      "titre": "Titres, cartes de séjour et documents de circulation pour étranger en France"
+    }
+  ]
+}

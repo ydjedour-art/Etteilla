@@ -1,0 +1,171 @@
+{
+  "id": "F924",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Peut-on construire ou aménager un terrain en zone agricole ?",
+  "theme": "Logement",
+  "description": "En zone agricole vous pouvez construire un bâtiment d'habitation ou agricole, un camping, une serre, des panneaux photovoltaïques ou des équipements collectifs.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-04-11",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F924",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Autorisations d'urbanisme",
+    "Peut-on construire ou aménager un terrain en zone agricole ?"
+  ],
+  "introduction": "Les zones agricoles (zone A d'un plan local d'urbanisme) ne sont pas constructibles. Toutefois, certains projets strictement encadrés peuvent être autorisés par le règlement du PLU de votre commune ou par le règlement national d'urbanisme (RNU), qui est annexé à votre carte communale. Nous vous présentons les exceptions.",
+  "chapitres": [
+    {
+      "titre": "Peut-on construire ou modifier un bâtiment d'habitation en zone agricole ?",
+      "contenu": [
+        "Les règles applicables aux bâtiments d'habitation en secteur agricole varient selon s'il s'agit d'une construction nouvelle ou de travaux sur un bâtiment existant :",
+        "Construction nouvelle",
+        "Il est possible de construire un bâtiment d'habitation neuf si la présence de l'agriculteur sur l'exploitation est indispensable à l'exercice de son activité. Par exemple, la construction d'une maison pour un éleveur nécessitant une surveillance nocturne des troupeaux sur place. La demande doit être justifiée et respecter les règles locales d'urbanisme.",
+        "Il est également possible de construire un nouveau bâtiment à usage d'habitation à l'intérieur du périmètre regroupant les bâtiments d'une ancienne exploitation agricole, dans le respect des traditions architecturales locales. Par exemple, si vous souhaitez construire une maison à l'intérieur d'une ancienne exploitation agricole en pierre de Jaumont, votre maison devra elle aussi être en pierre de Jaumont.",
+        "Construction sur un bâtiment existant",
+        "Les projets suivants peuvent être autorisés :",
+        "• Extension mesurée des constructions et installations existantes",
+        "• Annexes des constructions et installations existantes (par exemple, garage attenant à votre maison).",
+        "• Modification de l'aspect extérieur (par exemple, remplacement de fenêtres en bois par des fenêtres en aluminium)",
+        "• Changement de destination",
+        "• Adaptation (par exemple, transformation d'un garage ou d'une grange).",
+        "[À savoir] Les constructions et les changements de destination doivent être compatibles avec l'exercice d'une activité agricole, pastorale ou forestière sur le terrain et sauvegarder les espaces naturels et les paysages."
+      ]
+    },
+    {
+      "titre": "Peut-on construire un bâtiment lié à l'activité agricole en zone agricole ?",
+      "contenu": [
+        "Les règles applicables aux bâtiments liés à une activité agricole varient selon qu'il s'agit d'une nouvelle construction ou de travaux sur un bâtiment existant :",
+        "Nouvelle construction",
+        "Le PLU peut autoriser les constructions et les installations suivantes :",
+        "• Constructions et installations nécessaires à l'entretien du matériel agricole par les coopératives d'utilisation de matériel agricole (par exemple, construction d'un atelier pour la réparation et l'entretien des moissonneuses et semoirs appartenant à une coopération d'utilisation de matériel agricole)",
+        "• Constructions et installations nécessaires à l'exploitation agricole ou au stockage (granges, silos, hangars, ...)",
+        "• Constructions et installations nécessaires à la transformation, au conditionnement et à la commercialisation des produits agricoles, prolongement de l'acte de production.",
+        "Travaux sur un bâtiment agricole existant",
+        "Il est possible de modifier des bâtiments agricoles si la modification est compatible avec une activité agricole.",
+        "[Exemple] Le maire peut autoriser l'agrandissement d'un hangar pour stocker des récoltes ou du matériel agricole."
+      ]
+    },
+    {
+      "titre": "Peut-on installer un camping en zone agricole ?",
+      "contenu": [
+        "Votre commune peut, dans son PLU, autoriser l'activité d'accueil touristique dans les zones agricoles. Vous pouvez accueillir des touristes de 2 manières :",
+        "• Vous pouvez faire un changement de destination sur un de vos bâtiments ou sur une partie de vos bâtiments dès lors que ce changement ne compromet pas l'activité agricole ou la qualité paysagère du site.",
+        "• Vous pouvez délimiter des secteurs de taille de capacité d'accueil limitée (STECAL) pour mettre en place des résidences démontables.",
+        "[Exemple] Vous souhaitez installer quelques emplacements de tentes et de caravanes pour accueillir des touristes. Ce camping peut être autorisé par votre mairie.",
+        "Mairie"
+      ]
+    },
+    {
+      "titre": "Peut-on installer une serre en zone agricole ?",
+      "contenu": [
+        "Vous pouvez construire une serre en zone agricole seulement si elle est en lien avec votre activité agricole.",
+        "La réglementation est différente si vous êtes en secteur protégé. Vous devez vérifier auprès de votre mairie si vous vous trouvez dans un secteur protégé.",
+        "Mairie",
+        "Cas général",
+        "La démarche est différente selon le type de serre :",
+        "Serre dont la hauteur au-dessus du sol est inférieure ou égale à 1,80 m",
+        "Vous n'avez aucune autorisation d'urbanisme à demander à la mairie.",
+        "Serre dont la hauteur au-dessus du sol est comprise entre 1,80 et 4 m et jusqu'à 2 000 m² de surface",
+        "Vous devez déposer une déclaration préalable de travaux.",
+        "Serre dont la hauteur au-dessus du sol dépasse 4 m ou d'une surface de plus de 2 000 m²",
+        "Vous devez demander un permis de construire.",
+        "[Attention] Vous devez recourir à un architecte si votre serre dépasse 4 m de hauteur du pied droit (montant vertical droit), 2 000 m2 de surface de plancher, ou 2 000 m2 d'emprise au sol.",
+        "Secteur protégé",
+        "La démarche est différente selon le type de serre :",
+        "Serre dont la hauteur au-dessus du sol est inférieure à 4 m et jusqu'à 2 000 m² de surface",
+        "Vous devez déposer une déclaration préalable de travaux (DP).",
+        "Serre d'une hauteur au-dessus du sol de 4 m et plus ou d'une surface de plus de 2 000 m²",
+        "Vous devez demander un permis de construire.",
+        "[Attention] Vous devez recourir à un architecte si votre serre dépasse 4 m de hauteur du pied droit (montant vertical droit), 2 000 m2 de surface de plancher, ou 2 000 m2 d'emprise au sol."
+      ]
+    },
+    {
+      "titre": "Peut-on installer des panneaux photovoltaïques en zone agricole ?",
+      "contenu": [
+        "Vous pouvez installer des panneaux photovoltaïques sur le toit d'un de vos bâtiments ou au sol :",
+        "Panneaux sur le toit d'un bâtiment",
+        "Vous avez la possibilité de poser des panneaux photovoltaïques sur une installation ou une construction à usage agricole.",
+        "Pour cela, il faudra déposer une déclaration préalable auprès de votre mairie, car l'installation de panneaux photovoltaïques modifie l'aspect extérieur de votre bâtiment.",
+        "[Exemple] Vous possédez une serre et vous souhaitez y poser des panneaux photovoltaïques. La mairie peut accepter votre projet.",
+        "Vous devez vous renseigner auprès de votre mairie pour connaître vos droits à construire.",
+        "Mairie",
+        "Panneaux sur le sol",
+        "Seuls certains terrains peuvent recevoir des panneaux photovoltaïques au sol. Pour savoir si votre terrain peut accueillir des panneaux photovoltaïques au sol, vous devez contacter la préfecture de votre département.",
+        "Préfecture",
+        "Si la préfecture de votre département autorise l'installation de panneaux photovoltaïques sur votre terrain, vous devez demander une autorisation à votre mairie."
+      ]
+    },
+    {
+      "titre": "Peut-on installer des équipements collectifs en zone agricole ?",
+      "contenu": [
+        "Votre mairie peut installer des équipements collectifs en zone agricole. Les constructions et aménagements suivants peuvent être autorisés :",
+        "• Station de traitement des eaux usées",
+        "• Châteaux d'eau",
+        "• Lignes électriques",
+        "• Éoliennes",
+        "• Aires d'accueil ou terrains de passage des gens du voyage."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'urbanisme : articles L111-3 à L111-5",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000047303702/"
+    },
+    {
+      "titre": "Code de l'urbanisme : articles L111-27 à L111-34",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074075/LEGISCTA000047298099/#LEGISCTA000047298099"
+    },
+    {
+      "titre": "Code de l'urbanisme : articles L151-11 à L151-13",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000047303685/"
+    },
+    {
+      "titre": "Code de l'urbanisme : article L161-4",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037667288"
+    },
+    {
+      "titre": "Code de l'urbanisme : articles R151-17 à R151-26",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000031720619"
+    },
+    {
+      "titre": "Code de l'urbanisme : article R151-23",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031720605"
+    },
+    {
+      "titre": "Code de l'urbanisme : article R*421-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025542764"
+    },
+    {
+      "titre": "Code de l'urbanisme : articles R421-9 à R*421-12",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006188272"
+    },
+    {
+      "titre": "Code de l'urbanisme : article R*431-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038682379"
+    },
+    {
+      "titre": "Réponse ministérielle du 23 mai 2023 sur le développement de l'agro-tourisme et règlementation d'urbanisme",
+      "url": "https://questions.assemblee-nationale.fr/q16/16-7212QE.htm"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Mairie",
+    "Paris : Bureau accueil et service à l'usager (Basu)",
+    "Préfecture"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "peut-on-construire-ou-amenager-un-terrain-en-zone-agricole",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "autorisations-d-urbanisme",
+      "titre": "Autorisations d'urbanisme"
+    }
+  ]
+}

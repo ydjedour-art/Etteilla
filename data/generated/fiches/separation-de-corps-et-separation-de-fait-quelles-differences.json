@@ -1,0 +1,91 @@
+{
+  "id": "F36109",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Séparation de corps et séparation de fait : quelles différences ?",
+  "theme": "Famille - Scolarité",
+  "description": "La séparation de corps est une procédure prévue par la loi qui concerne uniquement les couples mariés. La séparation de fait n'existe pas dans la loi.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-03-20",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F36109",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Divorce, séparation de corps",
+    "Séparation de corps et séparation de fait : quelles différences ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "La séparation de corps est une procédure prévue par la loi. Elle concerne uniquement les couples mariés. Elle permet aux époux de rester mariés tout en étant autorisés à ne plus vivre ensemble. Le lien conjugal n'est pas rompu.",
+        "La séparation de fait n'existe pas dans la loi. C'est une situation dans laquelle les époux choisissent de ne plus vivre ensemble. Toutes les obligations liées au mariage sont maintenues. Le devoir de cohabitation et le devoir de secours existent toujours, mêmes si les époux ont fait le choix de vivre séparément.",
+        "Différences entre une séparation de corps et une séparation de fait",
+        "Situations",
+        "Séparation de corps",
+        "Séparation de fait",
+        "Valeur juridique",
+        "Oui",
+        "Non",
+        "Nécessité d'une procédure",
+        "Oui",
+        "Non, c'est une décision prise par les époux en commun ou par un seul époux.",
+        "Nécessité d'un avocat",
+        "Oui",
+        "Non, car aucune procédure n'est nécessaire.",
+        "Devoir de cohabitation",
+        "Non",
+        "Oui, c'est une obligation du mariage.",
+        "Devoir de fidélité",
+        "Oui",
+        "Oui, c'est une obligation du mariage.",
+        "Devoir de secours",
+        "Oui",
+        "Oui, c'est une obligation du mariage.",
+        "Séparation des biens",
+        "Oui",
+        "Non, sauf si les époux ont un contrat de mariage de séparation de biens.",
+        "Contribution aux charges du mariage",
+        "Non",
+        "Oui",
+        "Pension alimentaire pour un enfant",
+        "Possible.",
+        "Elle peut être fixée dans une convention ou dans un jugement.",
+        "Possible.",
+        "Elle peut être fixée dans une convention ou dans un jugement.",
+        "Héritier de l'époux",
+        "Oui, sauf indication contraire dans la convention de séparation de corps par consentement mutuel",
+        "Oui",
+        "Usage du nom d'époux",
+        "Oui, sauf indication contraire dans la convention de séparation de corps par consentement mutuel ou dans un jugement",
+        "Oui",
+        "Possibilité de reprendre la vie commune",
+        "Oui",
+        "Oui",
+        "Déclaration de revenus conjointe",
+        "Non",
+        "Possible"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : articles 299 à 304",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006150009/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "separation-de-corps-et-separation-de-fait-quelles-differences",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "divorce-separation-de-corps",
+      "titre": "Divorce, séparation de corps"
+    }
+  ]
+}

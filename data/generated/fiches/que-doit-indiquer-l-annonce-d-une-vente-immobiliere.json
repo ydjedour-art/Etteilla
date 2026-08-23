@@ -1,0 +1,76 @@
+{
+  "id": "F32061",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Que doit indiquer l'annonce d'une vente immobilière ?",
+  "theme": "Logement",
+  "description": "Une annonce immobilière de vente contient des informations sur le logement, son prix, ses diagnostics et sur l’agence en charge de la vente.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-09-12",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F32061",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Achat ou vente d'un logement",
+    "Que doit indiquer l'annonce d'une vente immobilière ?"
+  ],
+  "introduction": "Vous souhaitez acheter un logement, vous consultez les annonces immobilières et vous voulez connaître les informations qui doivent y figurer ? Qu’elle soit publiée sur internet, dans la presse ou affichée dans l’agence immobilière, l’annonce doit contenir des informations sur le bien vendu et sur l’agent immobilier. Le contenu de l'annonce immobilière est identique pour tous les types de logement. Pour un bien situé en copropriété, l'annonce est complétée par des informations concernant la copropriété. Nous faisons un point sur la réglementation.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de la consommation : Article L. 132-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049532070"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : articles L721-1 à L721-3",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000028778240"
+    },
+    {
+      "titre": "Code de la construction : articles R126-21 à R126-25",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000043818607"
+    },
+    {
+      "titre": "Code de l'environnement : articles R125-23 à R125-27",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074220/LEGISCTA000006176683/"
+    },
+    {
+      "titre": "Code de commerce : articles R123-237 à R123-238",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000005634379/LEGISCTA000006178891"
+    },
+    {
+      "titre": "Article 6-1 de la loi du 2 janvier 1970 règlementant les conditions d’exercice des activités relatives à certaines opérations portant sur les immeubles et fonds de commerce",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000028777458"
+    },
+    {
+      "titre": "Arrêté du 10 janvier 2017 relatif à l'information des consommateurs par les professionnels intervenant dans une transaction immobilière",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000033888549/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Signal Conso",
+      "url": "https://signal.conso.gouv.fr/fr",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Déposer une plainte relative au contenu d'une publicité",
+      "url": "http://www.jdp-pub.org/deposer-une-plainte-relative-au-contenu-dune-publicite/",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "0809 540 550 DGCCRF - RéponseConso",
+    "Médiateurs de la consommation"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "que-doit-indiquer-l-annonce-d-une-vente-immobiliere",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "achat-ou-vente-d-un-logement",
+      "titre": "Achat ou vente d'un logement"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "F967",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Visites médicales de l'enfant : examens obligatoires",
+  "theme": "Social - Santé",
+  "description": "De sa naissance jusqu'à l'âge de 16 ans, l'enfant bénéficie de 20 examens. Ils sont pris en charge à 100 % quel que soit le médecin qui les réalise.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-07-29",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F967",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Santé de l'enfant",
+    "Visites médicales de l'enfant : examens obligatoires"
+  ],
+  "introduction": "De combien d'examens médicaux obligatoires un enfant bénéficie ? De sa naissance jusqu'à l'âge de 16 ans, il bénéficie de 20 examens. Ces examens contribuent au suivi de la santé de votre enfant jusqu'à l'adolescence. Ils sont pris en charge à 100 % quel que soit le médecin qui les réalise. Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de la santé publique : articles L2132-1 à L2132-5",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006171130/"
+    },
+    {
+      "titre": "Code de la santé publique : articles R2132-1 à R2132-3",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006190395/"
+    },
+    {
+      "titre": "Code de l'éducation : articles L541-1 à L541-6",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006166649/"
+    },
+    {
+      "titre": "Arrêté du 14 novembre 2024 lié aux modèles d'imprimés pour les certificats de santé (examens médicaux préventifs réalisés dans les 8 jours suivant la naissance et au cours du 9ème et du 24 ème mois)",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000050500774/"
+    },
+    {
+      "titre": "Arrêté du 14 novembre 2024 relatif à la forme et au mode d'utilisation du carnet de santé",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000050500762/"
+    },
+    {
+      "titre": "Arrêté du 26 février 2019 relatif au calendrier des examens médicaux obligatoires de l'enfant",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000038175215/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Premier certificat de santé",
+      "url": "https://sante.gouv.fr/IMG/pdf/pdf-cerfa_cs8_bleu-recto-verso-140x202mm.pdf",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Deuxième certificat de santé",
+      "url": "https://sante.gouv.fr/IMG/pdf/cerfa_cs9_vert-recto-verso-140x202mm-cs24.pdf",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Troisième certificat de santé",
+      "url": "https://sante.gouv.fr/IMG/pdf/cerfa_cs24_orange-recto-verso-140x202mm-cs24.pdf",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Caisse primaire d'assurance maladie (CPAM)",
+    "Mutualité sociale agricole (MSA)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "J'accompagne mon enfant de 0 à 3 ans",
+      "url": "https://www.ameli.fr/sites/default/files/Documents/4086/document/guide_de_0_a_3_ans_j_accompagne_les_premiers_pas_de_mon_enfant_assurance_maladie.pdf"
+    },
+    {
+      "titre": "20 examens de suivi médical de l’enfant et de l’adolescent",
+      "url": "https://www.ameli.fr/assure/sante/themes/suivi-medical-de-l-enfant-et-de-l-adolescent/enfant-et-adolescent-20-examens-de-suivi-medical"
+    }
+  ],
+  "slug": "visites-medicales-de-l-enfant-examens-obligatoires",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "sante-de-l-enfant",
+      "titre": "Santé de l'enfant"
+    }
+  ]
+}

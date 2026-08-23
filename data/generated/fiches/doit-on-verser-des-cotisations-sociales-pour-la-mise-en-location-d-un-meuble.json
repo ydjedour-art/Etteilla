@@ -1,0 +1,88 @@
+{
+  "id": "F34102",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Doit-on verser des cotisations sociales pour la mise en location d'un meublé ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Le versement de cotisations sociales dépend du type de logement meublé (longue durée, tourisme classé ou non) et du montant des revenus tirés de l'activité.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-02-20",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34102",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Prélèvements sociaux (CSG, CRDS)",
+    "Doit-on verser des cotisations sociales pour la mise en location d'un meublé ?"
+  ],
+  "introduction": "Vous louez un bien en meublé et vous vous interrogez sur les contributions sociales à payer. Le versement de cotisations sociales dépend du montant des revenus que vous tirez de cette activité. Il varie aussi en fonction du type de logement meublé (location de longue durée, meublé de tourisme classé ou non). Nous vous indiquons les informations à connaître pour vos revenus de 2025 et de 2026.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Le versement de cotisations sociales dépend de votre situation.",
+        "Si vous êtes considéré comme loueur professionnel, vous devez verser des cotisations sociales en fonction du montant des revenus perçus.",
+        "Pour le paiement des cotisations sociales, vous êtes considéré comme loueur professionnel si les recettes annuelles tirées de votre activité dépassent 23 000 € (sauf pour les chambres d'hôtes).",
+        "Pour les services fiscaux, vous êtes considéré comme loueur non professionnel si au moins l'une des 2 conditions suivantes est remplie :",
+        "• Les recettes annuelles tirées de cette activité par l'ensemble des membres de votre foyer fiscal sont inférieures à 23 000 €",
+        "• Les recettes (les loyers des meublés ) sont inférieures au montant total des autres revenus d'activité de votre foyer fiscal (salaires, autres BIC...).",
+        "[À noter] Pour les contribuables non résidents, les recettes retenues intègrent les revenus imposés dans le pays de résidence à partir des revenus de 2026.",
+        "[Complement] Les différences concernent notamment les éléments suivants : • Déficits retirés de la location meublée • Plus-values immobilières. Les déficits retirés d'une location meublée non professionnelle peuvent être reportés pendant 10 ans sur les revenus provenant de la location meublée non professionnelle. Les déficits retirés d'une location meublée professionnelle peuvent être déduits du revenu global du contribuable sans limitation de montant. Si ce revenu est insuffisant, le déficit peut être reporté pendant 6 ans. En cas de vente d'un bien immobilier, vous pouvez bénéficier du régime des plus-values immobilières des particuliers (notamment de l'abattement pour durée de détention du bien) uniquement si vous êtes loueur non professionnel. Pour l’Urssaf, l’activité de loueur relève de la gestion de votre patrimoine privé et ne donne pas lieu au paiement de cotisations sociales, si vos recettes annuelles sont inférieures ou égales à 23 000 €. Vous payez uniquement des prélèvements sociaux. Au-delà du seuil de 23 000 €, la location meublée professionnelle impose le paiement de cotisations sociales."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la sécurité sociale : articles L311-1 à L315-3",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000006141616/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : article L611-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000036391024"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles L613-7 à L613-10",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000037051840/"
+    },
+    {
+      "titre": "Code général des impôts : article 155",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006197230/"
+    },
+    {
+      "titre": "Code général des impôts : articles 293 B à 293 G",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006162567/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Guichet des formalités des entreprises",
+      "url": "https://procedures.inpi.fr/?/",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "Service d'information des impôts",
+    "Service en charge des impôts (trésorerie, service des impôts...)",
+    "Service des impôts des entreprises (SIE)",
+    "Urssaf"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "La location de logement meublé",
+      "url": "https://www.urssaf.fr/portail/home/espaces-dedies/activites-relevant-de-leconomie/quelles-activites/la-location-de-logement-meuble.html"
+    },
+    {
+      "titre": "Le statut de microentrepreneur (changements 2025 et 2026)",
+      "url": "https://www.autoentrepreneur.urssaf.fr/portail/accueil/sinformer-sur-le-statut/lessentiel-du-statut.html#auto-entrepreneurs-exercant-une"
+    }
+  ],
+  "slug": "doit-on-verser-des-cotisations-sociales-pour-la-mise-en-location-d-un-meuble",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "prelevements-sociaux-csg-crds",
+      "titre": "Prélèvements sociaux (CSG, CRDS)"
+    }
+  ]
+}

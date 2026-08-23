@@ -1,0 +1,100 @@
+{
+  "id": "F33667",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Chèque énergie",
+  "theme": "Logement",
+  "description": "Le chèque énergie est une aide financière qui permet de payer ses dépenses d'énergie (factures d’énergie, achat de combustibles) ou charges d’énergie.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-10-17",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33667",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Aides au paiement des factures : eau, téléphone, électricité, gaz",
+    "Chèque énergie"
+  ],
+  "introduction": "Le chèque énergie est une aide financière destinée aux personnes ayant des revenus modestes. Il permet de régler des dépenses d’énergie : facture d’électricité ou de gaz, achat de combustibles de chauffage, ou encore charges d’énergie incluses dans le loyer de votre logement social ou redevance en logement-foyer ou établissement pour personnes âgées. Nous vous présentons les informations sur le chèque énergie, que vous soyez nouveau bénéficiaire, déjà bénéficiaire ou que vous découvrez ce dispositif.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "[Attention] Le chèque énergie ne doit pas être confondu avec l’aide spécifique (sorte de chèque énergie) qui est versée aux gestionnaires de résidence sociale (par exemple, logement-foyer) sur leur demande pour leurs résidents."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'énergie : articles L124-1 à L124-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000023983208/LEGISCTA000031057534/#LEGISCTA000031057537"
+    },
+    {
+      "titre": "Code de l'énergie : articles R124-1 à R124-16",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033514621"
+    },
+    {
+      "titre": "Réponse ministérielle du 29 octobre 2019 relative au chèque énergie",
+      "url": "http://questions.assemblee-nationale.fr/q15/15-7698QE.htm"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Savoir si on a droit au chèque énergie et à quel montant",
+      "url": "https://guichet.chequeenergie.gouv.fr/guichetchq/verifier-mon-eligibilite",
+      "type": "Simulateur"
+    },
+    {
+      "titre": "Faire une demande de chèque énergie en ligne",
+      "url": "https://chequeenergie.gouv.fr/sso/realms/beneficiary/protocol/openid-connect/auth?client_id=app-login&scope=openid+email+profile&response_type=code&state=beneficiaire&redirect_uri=https%3A%2F%2Fchequeenergie.gouv.fr%2Fapi%2Flogin%2Fcallback%2Fbeneficiary",
+      "type": "selNG"
+    },
+    {
+      "titre": "Faire une demande de chèque énergie par courrier",
+      "url": "https://chequeenergie.gouv.fr/uploads/Formulaire_CHEQ_25_e42dcb3c8c.pdf",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Rechercher un professionnel acceptant les chèques énergies en format papier ou en ligne",
+      "url": "https://chequeenergie.gouv.fr/beneficiaire/annuaire-acceptants",
+      "type": "Outil de recherche"
+    },
+    {
+      "titre": "Calculer l'évolution de sa facture d'électricité",
+      "url": "https://calculettes.energie-info.fr/calculettes/evolution-electricite",
+      "type": "Simulateur"
+    },
+    {
+      "titre": "Calculer l'évolution de sa facture de gaz",
+      "url": "https://comparateur-offres.energie-info.fr/calculette/process/gas-consumption",
+      "type": "Simulateur"
+    }
+  ],
+  "contacts": [
+    "Chèque énergie",
+    "France Services / Maison de services au public"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Site dédié au chèque énergie",
+      "url": "https://chequeenergie.gouv.fr/"
+    },
+    {
+      "titre": "Tout savoir sur le chèque énergie",
+      "url": "https://www.inc-conso.fr/content/tout-savoir-sur-le-cheque-energie"
+    },
+    {
+      "titre": "Aide spécifique versée aux gestionnaires de résidence sociale",
+      "url": "https://chequeenergie.gouv.fr/residence-sociale"
+    }
+  ],
+  "slug": "cheque-energie",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "aides-au-paiement-des-factures-eau-telephone-electricite-gaz",
+      "titre": "Aides au paiement des factures : eau, téléphone, électricité, gaz"
+    }
+  ]
+}

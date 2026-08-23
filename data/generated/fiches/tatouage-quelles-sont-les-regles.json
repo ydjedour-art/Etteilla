@@ -1,0 +1,137 @@
+{
+  "id": "F22481",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Tatouage : quelles sont les règles ?",
+  "theme": "Social - Santé",
+  "description": "Pour un tatouage, le mineur doit avoir l'accord de ses parents. Le tatoueur doit être formé, déclarer son activité à l'ARS et informer son client des risques.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-11-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F22481",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Prévention - Vaccinations",
+    "Tatouage : quelles sont les règles ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "À quel âge peut-on se faire tatouer ?",
+      "contenu": [
+        "Il est possible de se faire tatouer à tout âge.",
+        "Cependant, si vous êtes mineur, il faut l'accord écrit de votre parent ou de votre tuteur.",
+        "[À savoir] Le tatoueur doit être en mesure, pendant 3 ans, de présenter la preuve de ce consentement aux autorités de contrôle."
+      ]
+    },
+    {
+      "titre": "Quelles règles doit respecter le tatoueur ?",
+      "contenu": [
+        "Le professionnel qui réalise le tatouage doit respecter les règles suivantes :",
+        "• Avoir suivi une formation initiale avec une formation pratique",
+        "• Déclarer son activité auprès du directeur général de l'ARS",
+        "• Vous informer avant la réalisation du tatouage des risques auxquels vous vous exposez et des précautions à respecter après cette réalisation. Cette information est affichée de manière visible dans le local où ces techniques sont pratiquées et vous est remise par écrit.",
+        "[À savoir] Si vous êtes mineur, cette information est aussi communiquée à votre parent ou tuteur avant qu'il ne donne son accord.",
+        "Le contenu de l'information que le professionnel doit vous délivrer oralement comporte :",
+        "• Le caractère irréversible des tatouages impliquant une modification corporelle définitive",
+        "• Le caractère éventuellement douloureux des actes",
+        "• Les risques d'infections",
+        "• Les risques allergiques notamment liés aux encres de tatouage",
+        "• Les recherches de contre-indications au geste liées au terrain ou aux traitements en cours",
+        "• Le temps de cicatrisation adapté à la technique qui a été mise en œuvre et les risques cicatriciels",
+        "• Les précautions à respecter après la réalisation des techniques, notamment pour permettre une cicatrisation rapide.",
+        "[À noter] Ces risques et informations données au client sont détaillés par le ministère de la santé."
+      ]
+    },
+    {
+      "titre": "Dans quelles conditions doit se réaliser un tatouage ?",
+      "contenu": [
+        "Le professionnel doit réaliser le tatouage exclusivement dans une salle dédiée à cette opération.",
+        "Cette salle doit être nettoyée par décontamination tous les jours. Entre chaque client, toutes les surfaces utilisées sont nettoyées et désinfectées.",
+        "Le professionnel doit retirer ses bijoux avant la désinfection des mains et porter des gants à usage unique. Les gants sont changés entre 2 clients, et, au minimum, toutes les 2 heures au cours d'une même intervention.",
+        "Il doit préparer la zone à tatouer en utilisant un antiseptique.",
+        "Un protocole de stérilisation du matériel doit être respecté."
+      ]
+    },
+    {
+      "titre": "Que faire en cas d'effet indésirable sur l'état de santé ?",
+      "contenu": [
+        "Vous êtes encouragé à signaler tout effet indésirable lié au tatouage :",
+        "• À un professionnel de santé",
+        "• Ou directement sur le portail www.signalement-sante.gouv.fr.",
+        "L'effet indésirable peut consister en une réaction nocive et non recherchée (exemples : réaction autour de la zone de tatouage, allergie, conséquences néfastes sur la santé au-delà de la zone tatouée).",
+        "Signalement santé",
+        "Avoir une adresse mail",
+        "Une fois sur ce portail, vous précisez que vous êtes un particulier puis vous cliquez sur la catégorie « un autre produit ».",
+        "[À savoir] Les produits pour tatouages temporaires (henné, encre, ...) sont à signaler dans la case Cosmétique. Une autre case est intitulée « produit de tatouage ».",
+        "Un modèle de formulaire vous est proposé. Il peut vous aider à effectuer ce signalement.",
+        "Ensuite, par exemple, les autorités peuvent :",
+        "• Ajouter un pictogramme sur l’emballage ou une mise en garde sur la notice",
+        "• Rappeler des lots",
+        "• Retirer le produit concerné du marché."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la santé publique : articles R1311-1 à R1311-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000018150108/"
+    },
+    {
+      "titre": "Code de la santé publique : article R1311-11",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018150775"
+    },
+    {
+      "titre": "Arrêté du 3 décembre 2008 relatif à l'information préalable à la mise en œuvre des techniques de tatouage par effraction cutanée, de maquillage permanent et de perçage corporel",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000019917687/"
+    },
+    {
+      "titre": "Arrêté du 11 mars 2009 relatif aux bonnes pratiques d'hygiène et de salubrité",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000020414235"
+    },
+    {
+      "titre": "Arrêté du 5 mars 2024 relatif à la formation des personnes mettant en œuvre les techniques de tatouage par effraction cutanée, y compris la technique du maquillage permanent, et de perçage corporel",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000049268085/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Signalement santé",
+      "url": "https://signalement.social-sante.gouv.fr",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Actes de tatouages : se faire tatouer en toute sécurité : ce qu’il faut savoir !",
+      "url": "https://www.centre-val-de-loire.ars.sante.fr/les-actes-de-tatouages-se-faire-tatouer-en-toute-securite-ce-quil-faut-savoir"
+    },
+    {
+      "titre": "Tatouage et piercing",
+      "url": "https://sante.gouv.fr/soins-et-maladies/qualite-des-soins-et-pratiques/securite/securite-des-pratiques-esthetiques/article/tatouage-et-piercing"
+    },
+    {
+      "titre": "Signaler un effet indésirable lié à un produit de tatouage",
+      "url": "https://solidarites-sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/article/signaler-un-effet-indesirable-lie-a-un-produit-de-tatouage"
+    },
+    {
+      "titre": "FAQ - Tatouage par effraction cutanée et perçage corporel",
+      "url": "https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/reglementation-de-securite-sanitaire-dans-les-etablissements-de-sante/securite-des-pratiques-esthetiques/article/faq-tatouage-par-effraction-cutanee-et-percage-corporel"
+    },
+    {
+      "titre": "Vérifier les encres signalées comme présentant de graves risques",
+      "url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport"
+    }
+  ],
+  "slug": "tatouage-quelles-sont-les-regles",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "prevention-vaccinations",
+      "titre": "Prévention - Vaccinations"
+    }
+  ]
+}

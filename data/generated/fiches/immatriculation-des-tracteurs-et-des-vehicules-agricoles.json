@@ -1,0 +1,62 @@
+{
+  "id": "F10522",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Immatriculation des tracteurs et des véhicules agricoles",
+  "theme": "Transports - Mobilité",
+  "description": "Les tracteurs et les véhicules agricoles et forestiers doivent être immatriculés. Ils doivent avoir un certificat d’immatriculation.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-03-06",
+  "url": "https://entreprendre.service-public.gouv.fr/vosdroits/F10522",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Carte grise (certificat d'immatriculation)",
+    "Immatriculation des tracteurs et des véhicules agricoles"
+  ],
+  "introduction": "Tous les engins agricoles et forestiers doivent être immatriculés, qu'ils appartiennent à un particulier ou qu'ils soient rattachés à une exploitation agricole. Pour circuler, leur propriétaire doit détenir un certificat d’immatriculation (appelé auparavant carte grise) La démarche peut être effectuée sur internet ou chez un professionnel habilité. Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de la route : articles R317-8 à R317-14-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074228/LEGISCTA000006177090/"
+    },
+    {
+      "titre": "Arrêté du 9 février 2009 fixant les caractéristiques et le mode de pose des plaques d'immatriculation des véhicules",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000020237128"
+    },
+    {
+      "titre": "Réponse ministérielle du 11 juin 2020 relative à l'immatriculation des matériels agricoles",
+      "url": "http://www.senat.fr/basile/visio.do?id=qSEQ200113898"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Calculer le coût du certificat d'immatriculation",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/cout-certificat-immatriculation",
+      "type": "Simulateur"
+    },
+    {
+      "titre": "Demander la carte grise d'un véhicule agricole",
+      "url": "https://immatriculation.ants.gouv.fr/demarches-en-ligne",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "MSA - Mon espace privé (inscription)",
+      "url": "https://monespaceprive.msa.fr/z84dmdinsc/ria/#/choix-profil",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "immatriculation-des-tracteurs-et-des-vehicules-agricoles",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "carte-grise-certificat-d-immatriculation",
+      "titre": "Carte grise (certificat d'immatriculation)"
+    }
+  ]
+}

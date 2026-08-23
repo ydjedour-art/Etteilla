@@ -1,0 +1,92 @@
+{
+  "id": "F2473",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Obligation de motivation d'une décision administrative",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "La motivation d'une décision administrative consiste à présenter et à expliquer les raisons qui ont amené l'administration à prendre la décision.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-05-22",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2473",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Obligations de l'administration vis-à-vis des usagers",
+    "Obligation de motivation d'une décision administrative"
+  ],
+  "introduction": "L'administration a l'obligation de motiver certaines décisions. La motivation d'une décision administrative consiste à présenter et à expliquer les raisons qui ont amené l'administration à prendre la décision. Nous vous indiquons dans quels cas l'administration doit motiver sa décision et quelles démarches vous pouvez entreprendre lorsque cette obligation n'est pas remplie.",
+  "chapitres": [
+    {
+      "titre": "Qu'est-ce que la motivation d'une décision de l'administration ?",
+      "contenu": [
+        "La motivation d'une décision administrative consiste à présenter et à expliquer les raisons qui ont amené l'administration à prendre la décision.",
+        "La motivation doit indiquer les dispositions juridiques sur lesquelles repose la décision, ainsi que les faits qui justifient la décision prise.",
+        "La motivation doit être écrite."
+      ]
+    },
+    {
+      "titre": "Quelles sont les décisions que l'administration a l'obligation de motiver ?",
+      "contenu": [
+        "L'administration a l'obligation de motiver les décisions individuelles suivantes :",
+        "• Mesure qui restreint l'exercice d'une liberté publique (par exemple, privation de liberté)",
+        "• Décision infligeant une sanction (par exemple, sanction disciplinaire d'un fonctionnaire)",
+        "• Autorisation soumise à des conditions restrictives (par exemple, permis de construire soumis à des prescriptions spéciales)",
+        "• Annulation ou suppression d'une décision qui a créé des droits (par exemple, résiliation du contrat d'un agent non titulaire de la fonction publique)",
+        "• Prescription, forclusion ou déchéance (par exemple, péremption d'un permis de construire)",
+        "• Refus d'un avantage qui est un droit pour le demandeur (par exemple, refus de versement d'une allocation à une personne qui remplit les conditions d'obtention)",
+        "• Refus d'une autorisation (il y a une exception si la communication des motifs pourrait porter atteinte à un secret d'État)",
+        "• Rejet d'un recours administratif dont la présentation est obligatoire avant tout contentieux (par exemple, litige portant sur un contrat avec l'administration)",
+        "• Décision qui ne respecte pas une règle générale fixée par la loi ou le règlement (décision dérogatoire)."
+      ]
+    },
+    {
+      "titre": "Que faire si l'administration ne respecte pas son obligation de motivation d'une décision ?",
+      "contenu": [
+        "La situation varie suivant que l'administration vous a envoyé une décision écrite ou non :",
+        "Vous avez reçu une décision écrite",
+        "Lorsque l'urgence absolue a empêché qu'une décision soit motivée, l'absence de motivation ne rend pas cette décision illégale.",
+        "Toutefois, en l'absence de motivation, vous pouvez demander les motifs de la décision dans les délais du recours contentieux.",
+        "L'administration doit vous communiquer les motifs de la décision dans un délai de 1 mois suivant votre demande.",
+        "Vous n'avez pas reçu de décision écrite",
+        "L'absence de motivation ne rend pas illégale une décision implicite de refus. Par exemple, une décision implicite de refus d'une administration à une demande d'accès à un emploi relevant de l'État.",
+        "Toutefois, vous pouvez demander les motifs de la décision dans les délais du recours contentieux.",
+        "L'administration doit vous communiquer les motifs de la décision dans un délai de 1 mois suivant votre demande.",
+        "Le délai pour faire un recours contentieux contre cette décision de refus est prolongé.",
+        "Vous avez 2 mois à partir du jour où les motifs vous auront été communiqués."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code des relations entre le public et l'administration : articles L211-2 à L211-4",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000031366350/LEGISCTA000031367503"
+    },
+    {
+      "titre": "Code des relations entre le public et l'administration : articles L211-5 à L211-6",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000031366350/LEGISCTA000031367511"
+    },
+    {
+      "titre": "Code des relations entre le public et l'administration : articles L231-4 à L231-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000031366350/LEGISCTA000031367617"
+    },
+    {
+      "titre": "Code des relations entre le public et l'administration : article L232-4",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000031366350/LEGISCTA000031367637"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Maison de justice et du droit"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "obligation-de-motivation-d-une-decision-administrative",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "obligations-de-l-administration-vis-a-vis-des-usagers",
+      "titre": "Obligations de l'administration vis-à-vis des usagers"
+    }
+  ]
+}

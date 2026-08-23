@@ -1,0 +1,58 @@
+{
+  "id": "F31621",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Diffusion de musique par une association pendant un événement public : quelles sont les règles ?",
+  "theme": "Associations, fondations et fonds de dotation",
+  "description": "Pour diffuser de la musique lors d'une manifestation, une association doit obtenir une autorisation de la Sacem et payer des droits de diffusion.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-03-06",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31621",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Associations, fondations et fonds de dotation",
+    "Organisation d'événements par une association",
+    "Diffusion de musique par une association pendant un événement public : quelles sont les règles ?"
+  ],
+  "introduction": "En principe, les responsables d’une association n'ont pas le droit de diffuser de la musique gratuitement lors d'un événement public. Pour pouvoir le faire, ils doivent obtenir une autorisation de la Sacem et, sauf exception, lui payer des droits d'auteurs. Comment procéder et à quelle sanction s’ils ne le font pas ? Les règles diffèrent selon qu'il s'agit de musique enregistrée ou de l'interprétation par des musiciens (concert ou bal). Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "[À noter] Les responsables de l’association peuvent avoir à se rapprocher d'autres sociétés de gestion des droits d'auteurs ou sociétés de perception et de répartition des droits (SPRD) telles que la SACD, l'AGADP, la Sofia. Notre page se limite à présenter les règles concernant la Sacem, celle-ci étant la principale SPRD."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la propriété intellectuelle : article L122-4",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006278911"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Sacem : demandes d'autorisation de diffusion de musique",
+      "url": "https://clients.sacem.fr/autorisations",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "Délégations régionales de la Sacem"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Société de perception et de répartition de droits (SPRD)",
+      "url": "https://metiers.philharmoniedeparis.fr/sprd-societes-perception-repartition-droits.aspx"
+    }
+  ],
+  "slug": "diffusion-de-musique-par-une-association-pendant-un-evenement-public-quelles-sont-les-regles",
+  "path": [
+    {
+      "slug": "associations-fondations-et-fonds-de-dotation",
+      "titre": "Associations, fondations et fonds de dotation"
+    },
+    {
+      "slug": "organisation-d-evenements-par-une-association",
+      "titre": "Organisation d'événements par une association"
+    }
+  ]
+}

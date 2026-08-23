@@ -1,0 +1,73 @@
+{
+  "id": "F303",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Arrêt maladie : démarches à effectuer par le salarié",
+  "theme": "Travail - Formation",
+  "description": "Lorsque votre état de santé ne vous permet pas de travailler pour cause de maladie, vous devez prévenir, sans délais, votre employeur et ce, par tous moyens.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-07-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F303",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Maladie ou accident du travail dans le secteur privé",
+    "Arrêt maladie : démarches à effectuer par le salarié"
+  ],
+  "introduction": "Lorsque vous êtes en arrêt de travail pour maladie, certaines démarches doivent être réalisées auprès de votre employeur et de votre organisme de Sécurité sociale (CPAM ou MSA). Ces démarches s’appliquent en cas de premier arrêt ou de prolongation. Nous vous présentons les renseignements utiles et vous expliquons comment effectuer les démarches dans les délais.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de la sécurité sociale : articles L323-1 à L323-7",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000006156085/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles L162-2 à L162-4-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000006172513/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles R321-2 à R321-6",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000006156607/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : article D323-1 à D323-5",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006155821/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles R162-1-7 à R162-1-15",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006173263/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Avis d'arrêt de travail",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_10170.do",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Caisse primaire d'assurance maladie (CPAM)",
+    "Mutualité sociale agricole (MSA)",
+    "Médecin"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Attestation de salaire",
+      "url": "https://www.ameli.fr/entreprise/vos-salaries/arret-de-travail"
+    },
+    {
+      "titre": "Démarches de l'employeur en cas d'arrêt de travail",
+      "url": "https://www.ameli.fr/entreprise/vos-salaries/arret-de-travail/formalites-employeur/formalites-employeur"
+    }
+  ],
+  "slug": "arret-maladie-demarches-a-effectuer-par-le-salarie",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "maladie-ou-accident-du-travail-dans-le-secteur-prive",
+      "titre": "Maladie ou accident du travail dans le secteur privé"
+    }
+  ]
+}

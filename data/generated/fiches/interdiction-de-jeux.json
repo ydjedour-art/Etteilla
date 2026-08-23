@@ -1,0 +1,80 @@
+{
+  "id": "F15814",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Interdiction de jeux",
+  "theme": "Social - Santé",
+  "description": "La demande d'interdiction de jeux peut être volontaire ou être faite par un tiers (juge, ministre de l'intérieur ou représentant légal).",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-10-28",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F15814",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Addictions",
+    "Interdiction de jeux"
+  ],
+  "introduction": "Vous pensez avoir une addiction aux jeux (casinos physiques, clubs de jeux, jeux en ligne...) ? Pour vous protéger, vous pouvez demander à être interdit de jeux (on parle d'interdiction volontaire de jeux). Vous serez alors inscrit dans un fichier spécifique, qui est transmis aux casinos physiques, cercles de jeux et opérateurs légaux de jeux en ligne. L'interdiction peut aussi être demandée par un tiers (juge, ministre de l'intérieur ou tuteur). Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de la sécurité intérieure : article L320-9-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039169754"
+    },
+    {
+      "titre": "Code de la sécurité intérieure : article R321-28",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034672294/"
+    },
+    {
+      "titre": "Arrêté du 29 avril 2021 relatif aux contenu et modalités d'affichage du message d'information relatif à la procédure d'interdiction volontaire de jeux",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043482528"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demander à être interdit de jeux",
+      "url": "https://ressources.anj.fr/idj/formulaires/formulaire_interdiction_de_jeux.pdf",
+      "type": "lettreTypeNG"
+    },
+    {
+      "titre": "Demander la levée d'interdiction de jeux à l’Autorité nationale des jeux (ANJ)",
+      "url": "https://interdictiondejeux.anj.fr/demande-levee-interdiction",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "Joueurs info service"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "M'auto-exclure ou m'interdire de jeu",
+      "url": "https://www.evalujeu.fr/mauto-exclure-ou-minterdire-de-jeu"
+    },
+    {
+      "titre": "Joueurs info service",
+      "url": "https://www.joueurs-info-service.fr/"
+    },
+    {
+      "titre": "Comment savoir si un proche a un problème de jeu ?",
+      "url": "https://www.joueurs-info-service.fr/Le-jeu-et-vos-proches/Aborder-le-probleme/Comment-savoir-si-un-proche-a-un-probleme-de-jeu"
+    },
+    {
+      "titre": "Site d'évaluation et de conseils personnalisés sur vos pratiques de jeu",
+      "url": "https://www.evalujeu.fr/ou-en-etes-vous-avec-les-jeux-dargent"
+    },
+    {
+      "titre": "Jeux : obtenir des conseils pour prévenir l'addiction",
+      "url": "https://www.evalujeu.fr/comment-faire-en-sorte-que-le-jeu-reste-un-loisir"
+    }
+  ],
+  "slug": "interdiction-de-jeux",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "addictions",
+      "titre": "Addictions"
+    }
+  ]
+}

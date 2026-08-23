@@ -1,0 +1,45 @@
+{
+  "id": "F34796",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Certificat d’immatriculation perdu, puis retrouvé après une demande de duplicata : que faire ?",
+  "theme": "Transports - Mobilité",
+  "description": "Si vous retrouvez votre certificat d’immatriculation (ex carte grise), après une demande d’annulation, il n'est plus valide.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-01-12",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34796",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Carte grise (certificat d'immatriculation)",
+    "Certificat d’immatriculation perdu, puis retrouvé après une demande de duplicata : que faire ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Si vous retrouvez le certificat d’immatriculation (appelé auparavant carte grise) après avoir demandé un duplicata, vous ne pouvez pas annuler la procédure.",
+        "En effet, une fois le duplicata demandé, la fabrication du nouveau certificat d’immatriculation (duplicata) est lancée.",
+        "Le certificat d’immatriculation retrouvé (appelée primata) est alors invalidé.",
+        "Vous devez ainsi le détruire."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [
+    "34 00 - Informations sur le certificat d’immatriculation ou le permis de conduire"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "certificat-d-immatriculation-perdu-puis-retrouve-apres-une-demande-de-duplicata-que-faire",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "carte-grise-certificat-d-immatriculation",
+      "titre": "Carte grise (certificat d'immatriculation)"
+    }
+  ]
+}

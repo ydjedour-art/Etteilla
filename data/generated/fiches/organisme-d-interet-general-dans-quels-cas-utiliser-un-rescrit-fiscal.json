@@ -1,0 +1,94 @@
+{
+  "id": "F34246",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Organisme d'intérêt général : dans quels cas utiliser un rescrit fiscal ?",
+  "theme": "Associations, fondations et fonds de dotation",
+  "description": "La procédure du rescrit fiscal permet à une association, fondation ou organisme d'intérêt général de poser une question à l'administration fiscale.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-11-19",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34246",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Associations, fondations et fonds de dotation",
+    "Ressources financières d'une association",
+    "Organisme d'intérêt général : dans quels cas utiliser un rescrit fiscal ?"
+  ],
+  "introduction": "La procédure du rescrit fiscal permet à une association, fondation ou organisme d'intérêt général de poser une question à l'administration fiscale. Le terme rescrit correspond à la réponse fournie par l'administration. La réponse donnée engage l’administration et ne lui permet plus de changer de position sur la question formulée. Il existe différents types de rescrits fiscaux, dont le rescrit général (appelé rescrit fiscalité) et le rescrit spécial (appelé rescrit mécénat).",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les règles suivantes s’appliquent également aux associations situées en Alsace-Moselle."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général des impôts : article 200",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000006191957"
+    },
+    {
+      "titre": "Code général des impôts : article 238 bis",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041470858"
+    },
+    {
+      "titre": "Code général des impôts : article 1740 A",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037993667"
+    },
+    {
+      "titre": "Livre des procédures fiscales : article L80 C",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006315087"
+    },
+    {
+      "titre": "Bofip-impôts n°BOI-SJ-RES-10-20-20-70 relatif au rescrit au profit d'organismes recevant des dons",
+      "url": "http://bofip.impots.gouv.fr/bofip/634-PGP.html"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Formulaire de demande de rescrit lucrativité L. 80 B du LPF : demande relative à la situation de l’organisme au regard des impôts commerciaux.",
+      "url": "https://demarche.numerique.gouv.fr/commencer/ea0760b7-8354-45c0-b97e-ed1f6fa7e230",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Formulaire de demande de rescrit mécénat L. 80 C du livre des procédures fiscales (LPF)",
+      "url": "https://demarche.numerique.gouv.fr/commencer/d996ffa8-c0a9-45fb-82bf-23431d5b125f",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Modèle de demande de rescrit général",
+      "url": "https://www.impots.gouv.fr/portail/files/media/1_metier/2_professionnel/EV/4_difficultes/410_rescrit/modele_rescrit-1.odt",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Modèle de demande de rescrit au profit d'organisme recevant des dons",
+      "url": "http://bofip.impots.gouv.fr/bofip/635-PGP",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Reçu des dons et versements effectués par un particulier à un organisme d'intérêt général",
+      "url": "https://www.impots.gouv.fr/formulaire/2041-rd/recu-des-dons-et-versements-effectues-par-les-particuliers-au-titre-des-articles",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Direction régionale des finances publiques (DRFIP)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Coordonnées de la direction compétente pour votre demande de rescrit",
+      "url": "https://www.impots.gouv.fr/sites/default/files/media/1_metier/2_professionnel/EV/4_difficultes/410_rescrit/dir_competentes/rescrits_adresses_directions_locales.pdf"
+    }
+  ],
+  "slug": "organisme-d-interet-general-dans-quels-cas-utiliser-un-rescrit-fiscal",
+  "path": [
+    {
+      "slug": "associations-fondations-et-fonds-de-dotation",
+      "titre": "Associations, fondations et fonds de dotation"
+    },
+    {
+      "slug": "ressources-financieres-d-une-association",
+      "titre": "Ressources financières d'une association"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "id": "F2315",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quelles sont les règles de location que le propriétaire d'un logement meublé doit respecter ?",
+  "theme": "Logement",
+  "description": "Selon l'usage que fera le locataire du logement mis en location, le contrat à signer est différent.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-03-06",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2315",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Location immobilière : bail d’habitation (contrat de location)",
+    "Quelles sont les règles de location que le propriétaire d'un logement meublé doit respecter ?"
+  ],
+  "introduction": "Les règles sont différentes selon que le logement est destiné à être soit la résidence principale du locataire, soit sa résidence secondaire ou une location de vacances. Selon l'usage choisi, le bail à signer est différent : bail de logement meublé, bail mobilité ou contrat de location d’un meublé de tourisme. À chaque type de bail correspond des règles particulières. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Règles applicables à un meublé selon le bail signé",
+        "Eléments de comparaison",
+        "Bail de logement meublé",
+        "Bail mobilité",
+        "Contrat de location d’un meublé de tourisme",
+        "Usage du logement",
+        "Résidence principale du locataire",
+        "Résidence principale du locataire",
+        "Résidence secondaire ou location de vacances du locataire",
+        "Contenu du bail",
+        "Il existe un modèle type de bail à respecter",
+        "Certaines mentions sont obligatoires, d’autres sont interdites",
+        "Il existe des mentions obligatoires, ou interdites",
+        "Pour quel locataire ?",
+        "Toute personne peut être locataire",
+        "Le locataire doit être dans une des situations suivantes :",
+        "• Formation professionnelle",
+        "• Études supérieures",
+        "• Contrat d'apprentissage",
+        "• Stage",
+        "• Engagement volontaire dans le cadre d'un service civique",
+        "• Mutation professionnelle",
+        "• Mission temporaire dans le cadre de l'activité professionnelle",
+        "Toute personne peut être locataire",
+        "Durée du bail",
+        "• 1 an minium. Le bail est renouvelable.",
+        "• Ou 9 mois minimum si le locataire est étudiant",
+        "De 1 mois minimum à 10 mois maximum. Au-delà de 10 mois, le bail n’est pas renouvelable.",
+        "Location à la journée, à la semaine ou au mois. Un même locataire ne doit pas habiter le logement plus de 90 jours par an.",
+        "Dépôt de garantie",
+        "2 mois maximum de loyer (hors charges)",
+        "Interdit",
+        "Libre",
+        "Consommation énergétique",
+        "En métropole, le logement doit avoir une consommation énergétique modérée",
+        "Dans certaines communes de métropole, le logement doit être classé de A à E (classement indiqué sur le DPE)",
+        "Ameublement",
+        "Certains meubles doivent obligatoirement être mis à disposition du locataire",
+        "Il n'existe pas de meubles obligatoires à mettre disposition. Mais l'ameublement est 1 des critères pour obtenir le classement du meublé (démarche facultative).",
+        "Déclarations préalables",
+        "Aux impôts : déclarer un début d'activité et obtenir un numéro SIRET",
+        "Aux impôts : déclarer un début d'activité et obtenir un numéro SIRET",
+        "• À la mairie : une déclaration peut être obligatoire, voire une autorisation de changement d'usage (selon la commune)",
+        "• Aux impôts : déclarer un début d'activité et obtenir un numéro SIRET",
+        "Contenu de l'annonce immobilière",
+        "Certaines mentions sont obligatoires",
+        "Contenu libre",
+        "Loyer",
+        "Selon la commune, l’encadrement des loyers s’applique ou non",
+        "Le propriétaire fixe librement le montant",
+        "Fiscalité du propriétaire",
+        "• Impôt sur le revenu",
+        "• Prélèvement sociaux",
+        "• Taxe foncière et taxes accessoires",
+        "• Cotisation foncière des entreprises (dans certains cas)",
+        "• Cotisations sociales(dans certains cas)",
+        "Fin du bail à l'initiative du locataire",
+        "• À tout moment",
+        "• Congé à donner avec un délai de préavis d'un mois",
+        "• À tout moment",
+        "• Congé à donner avec un délai de préavis d'un mois",
+        "Les règles de congé et de préavis sont à définir dans le contrat de location",
+        "Fin du bail à l'initiative du propriétaire",
+        "• À l'échéance du bail et pour 1 des motifs autorisés (reprise pour habiter, reprise pour vendre, ou motif légitime et sérieux).",
+        "• Congé à donner avec un délai de préavis d'au moins 3 mois.",
+        "• À l'échéance du bail",
+        "• Pas de congé à donner, ni de délai de préavis à respecter",
+        "Les règles de congé et de préavis sont à définir dans le contrat de location"
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Je fais de la location meublée, dois-je payer la cotisation foncière des entreprises (CFE) ?",
+      "url": "https://www.impots.gouv.fr/particulier/questions/je-fais-de-la-location-meublee-dois-je-payer-de-la-cfe-cotisation-fonciere-des"
+    },
+    {
+      "titre": "Si je mets en location un meublé, dois-je déclarer un début d'activité et avoir un numéro SIRET ?",
+      "url": "https://www.impots.gouv.fr/particulier/questions/si-je-mets-en-location-un-meuble-dois-je-minscrire-au-greffe-du-tribunal-de"
+    },
+    {
+      "titre": "Location meublée : quels revenus déclarer ?",
+      "url": "https://www.economie.gouv.fr/particuliers/location-meublee-declaration-revenus-impot"
+    },
+    {
+      "titre": "Investissement locatif : comment choisir entre location courte et longue durée ?",
+      "url": "https://www.economie.gouv.fr/particuliers/investissement-locatif-location-courte-saisonniere-longue-duree"
+    }
+  ],
+  "slug": "quelles-sont-les-regles-de-location-que-le-proprietaire-d-un-logement-meuble-doit-respecter",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "location-immobiliere-bail-d-habitation-contrat-de-location",
+      "titre": "Location immobilière : bail d’habitation (contrat de location)"
+    }
+  ]
+}

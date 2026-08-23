@@ -1,0 +1,54 @@
+{
+  "id": "F37401",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Comment s'informer sur la réglementation de la navigation de plaisance, sports et loisirs nautiques ?",
+  "theme": "Loisirs - Sports - Culture",
+  "description": "Le site du ministère chargé de la mer propose de nombreuses fiches d'information présentant les règles pour naviguer en eaux intérieures ou en mer.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-02-10",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F37401",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Loisirs - Sports - Culture",
+    "Sport",
+    "Comment s'informer sur la réglementation de la navigation de plaisance, sports et loisirs nautiques ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Le site du ministère chargé de la mer propose de nombreuses fiches d'information présentant les règles pour naviguer en eaux intérieures (rivières, lacs et canaux) ou en mer :",
+        "S'informer sur la réglementation de la navigation de plaisance et des loisirs nautiques",
+        "Le site demarches-plaisance.gouv.fr vous permet de réaliser des démarches concernant votre navire de plaisance à usage personnel enregistré pour naviguer en mer. Par exemple :",
+        "• Demander un duplicata du permis plaisance",
+        "• Changer le nom du navire",
+        "• Vendre ou acheter votre bateau de plaisance entre particuliers ou entre copropriétaires.",
+        "Démarches en ligne pour les navires de plaisance (enregistrement, changement de situation...)"
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [
+    {
+      "titre": "Estimer le montant de la taxe annuelle sur les engins maritimes à usage personnel (TAEMUP)",
+      "url": "https://simulateur-taxe-plaisance.mer.gouv.fr/",
+      "type": "Simulateur"
+    }
+  ],
+  "contacts": [
+    "Délégation à la mer et au littoral (services d'accueil des plaisanciers)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "comment-s-informer-sur-la-reglementation-de-la-navigation-de-plaisance-sports-et-loisirs-nautiques",
+  "path": [
+    {
+      "slug": "loisirs-sports-culture",
+      "titre": "Loisirs - Sports - Culture"
+    },
+    {
+      "slug": "sport",
+      "titre": "Sport"
+    }
+  ]
+}

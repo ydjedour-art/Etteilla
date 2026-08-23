@@ -1,0 +1,129 @@
+{
+  "id": "F20443",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Peut-on perdre des points sur son permis en commettant une infraction à vélo ?",
+  "theme": "Transports - Mobilité",
+  "description": "Une infraction au code de la route commise à vélo n'entraîne pas de retrait de points sur le permis de conduire mais peut être sanctionnée par une amende.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-06-23",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F20443",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Infractions routières",
+    "Peut-on perdre des points sur son permis en commettant une infraction à vélo ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Non, si vous commettez à vélo une infraction au code de la route, vous ne perdez pas de points sur votre permis de conduire. Toutefois, vous pouvez être sanctionné par une amende. De plus, en cas d'infraction grave, le juge peut suspendre votre permis de conduire. Par exemple, en cas de conduite en état d'ivresse ou de mise en danger de la vie d'autrui.",
+        "Le code de la route s'applique aux cyclistes comme aux autres usagers de la route. Vous devez respecter les règles de circulation et d'équipement pour circuler en toute sécurité.",
+        "Un simulateur vous informe sur les amendes encourues en cas d'infraction routière à vélo :",
+        "Que risque-t-on en cas d'infraction routière ?",
+        "[Complement] À vélo, les panneaux de signalisation à connaître Ministère de l'intérieur/www.securite-routiere.gouv.fr Descriptif des panneaux de signalisation dédiés aux cyclistes"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la route : articles R412-1 à R412-52",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074228/LEGISCTA000006159599"
+    },
+    {
+      "titre": "Code de la route : articles R414-1 à R414-17",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074228/LEGISCTA000006159601"
+    },
+    {
+      "titre": "Code de la route : articles R415-1 à R415-15",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074228/LEGISCTA000006159602"
+    },
+    {
+      "titre": "Code de la route : articles R416-1 à R416-20",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074228/LEGISCTA000006159603"
+    },
+    {
+      "titre": "Code de la route : articles R417-1 à R417-13",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074228/LEGISCTA000006159604"
+    },
+    {
+      "titre": "Code pénal : articles 131-12 à 131-18",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070719/LEGISCTA000006181730/#LEGISCTA000006181730"
+    },
+    {
+      "titre": "Code de procédure pénale : articles R48-1 à R49-8",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000006151009"
+    },
+    {
+      "titre": "Code de procédure pénale : articles R49-8-5 à R49-20",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000006151011"
+    },
+    {
+      "titre": "Code de procédure pénale : articles 529 à 529-2-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000006167556"
+    },
+    {
+      "titre": "Code de procédure pénale : articles 530 à 530-6",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000006167493"
+    },
+    {
+      "titre": "Code de la route : articles R234-1 à R234-7",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074228/LEGISCTA000006159570/"
+    },
+    {
+      "titre": "Circulaire du 11 mars 2004 relative au régime général du permis de conduire à points et au permis probatoire",
+      "url": "https://www.legifrance.gouv.fr/circulaire/id/36943"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Que risque-t-on en cas d'infraction routière ?",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/Infraction",
+      "type": "Simulateur"
+    },
+    {
+      "titre": "Consulter et télécharger les informations du permis de conduire : solde de points, relevé intégral, attestation de droit à conduire sécurisée...",
+      "url": "https://mespoints.permisdeconduire.gouv.fr",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Règles de circulation pour les cyclistes",
+      "url": "https://www.securite-routiere.gouv.fr/reglementation-liee-aux-modes-de-deplacements/velo/regles-de-circulation-pour-les-cyclistes"
+    },
+    {
+      "titre": "Circuler à vélo en toute sécurité",
+      "url": "https://www.securite-routiere.gouv.fr/sites/default/files/2022-09/sr_velo_depliant_bd_2022.pdf"
+    },
+    {
+      "titre": "Vélo : les équipements obligatoires",
+      "url": "https://www.securite-routiere.gouv.fr/reglementation-liee-aux-modes-de-deplacements/velo/equipements-obligatoires-velo"
+    },
+    {
+      "titre": "Transporter des enfants à vélo",
+      "url": "https://www.securite-routiere.gouv.fr/chacun-son-mode-de-deplacement-1-2"
+    },
+    {
+      "titre": "Le vélo et l'assurance",
+      "url": "https://www.franceassureurs.fr/assurance-protege-finance-et-emploie/assurance-protege/lassurance-en-pratique-pour-les-particuliers/le-velo-et-assurance/"
+    },
+    {
+      "titre": "Identification des cycles",
+      "url": "https://www.ecologie.gouv.fr/identification-des-cycles#scroll-nav__2"
+    }
+  ],
+  "slug": "peut-on-perdre-des-points-sur-son-permis-en-commettant-une-infraction-a-velo",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "infractions-routieres",
+      "titre": "Infractions routières"
+    }
+  ]
+}

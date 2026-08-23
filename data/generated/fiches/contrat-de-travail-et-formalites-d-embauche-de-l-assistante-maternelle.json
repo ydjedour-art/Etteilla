@@ -1,0 +1,102 @@
+{
+  "id": "F16841",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Contrat de travail et formalités d'embauche de l'assistante maternelle",
+  "theme": "Travail - Formation",
+  "description": "Le contrat de travail de l'assistante maternelle et du particulier employeur doit être écrit et signé. Il peut être précédé d'un engagement réciproque.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-09-08",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F16841",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Assistante maternelle",
+    "Contrat de travail et formalités d'embauche de l'assistante maternelle"
+  ],
+  "introduction": "Le contrat de travail entre un particulier employeur et une assistante maternelle est un contrat écrit. Il peut être précédé d'un engagement réciproque. Le contrat de travail comporte des mentions obligatoires et doit être complété par des documents à fournir. Une période d’essai peut être prévue au contrat. Des formalités déclaratives sont également obligatoires lors de l'embauche. Nous faisons le point sur la réglementation.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Le contrat de travail conclu entre le particulier employeur et l'assistante maternelle est, en principe, un CDI. Le principal motif de recours au CDD est celui du remplacement de l’assistante maternelle absente."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'action sociale et des familles : articles L423-1 et L423-2",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000006798025"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : article L423-3",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000006798027"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : articles L423-17 à L423-22",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000027572665"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : articles D423-5 à D423-13",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000018261020"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : articles D423-14 à D423-16",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000018260994"
+    },
+    {
+      "titre": "Convention collective nationale des particuliers employeurs et de l'emploi à domicile du 15 mars 2021",
+      "url": "https://www.legifrance.gouv.fr/conv_coll/id/KALITEXT000043941642"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Espace Particulier-employeur : création et gestion des attestations employeur France Travail",
+      "url": "https://particulieremployeur.francetravail.fr/particulieremployeur/authentification/authentification",
+      "type": "selNG"
+    },
+    {
+      "titre": "Urssaf Service Pajemploi en ligne",
+      "url": "https://www.urssaf.fr/accueil/services/services-particuliers/service-pajemploi.html",
+      "type": "selNG"
+    },
+    {
+      "titre": "Modèle d'engagement réciproque - Assistante maternelle agréée",
+      "url": "https://www.pajemploi.urssaf.fr/pajewebinfo/files/live/sites/pajewebinfo/files/contributed/pdf/employeur_ama/1924-Paje-Engagement-AMA.pdf",
+      "type": "lettreTypeNG"
+    },
+    {
+      "titre": "Modèle de contrat de travail à durée indéterminée (CDI) - Assistante maternelle agréée",
+      "url": "https://www.pajemploi.urssaf.fr/pajewebinfo/files/live/sites/pajewebinfo/files/contributed/pdf/contrats-de-travail/6237-PE-Contrat-CDI-Pajemploi-Ama-FORMULAIRE.pdf",
+      "type": "lettreTypeNG"
+    },
+    {
+      "titre": "Modèle de contrat de travail à durée déterminée (CDD) - Assistante maternelle agréée",
+      "url": "https://www.pajemploi.urssaf.fr/pajewebinfo/files/live/sites/pajewebinfo/files/contributed/pdf/contrats-de-travail/6237-PE-Contrat-CDD-Pajemploi-Ama-FORMULAIRE.pdf",
+      "type": "lettreTypeNG"
+    }
+  ],
+  "contacts": [
+    "Urssaf service Pajemploi"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Site officiel du particulier employeur et du salarié",
+      "url": "https://www.urssaf.fr/accueil/particulier/particulier-employeur.html"
+    },
+    {
+      "titre": "Urssaf service Pajemploi",
+      "url": "https://www.urssaf.fr/accueil/services/services-particuliers/service-pajemploi.html"
+    }
+  ],
+  "slug": "contrat-de-travail-et-formalites-d-embauche-de-l-assistante-maternelle",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "assistante-maternelle",
+      "titre": "Assistante maternelle"
+    }
+  ]
+}

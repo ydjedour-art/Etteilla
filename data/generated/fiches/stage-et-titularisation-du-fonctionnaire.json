@@ -1,0 +1,47 @@
+{
+  "id": "F18933",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Stage et titularisation du fonctionnaire",
+  "theme": "Travail - Formation",
+  "description": "Lors de son recrutement, le fonctionnaire est soumis à une période probatoire de stage avant d'être titularisé.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-06-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F18933",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Carrière dans la fonction publique",
+    "Stage et titularisation du fonctionnaire"
+  ],
+  "introduction": "Vous venez d'être recruté en tant que fonctionnaire ? Vous êtes soumis à une période de stage avant d'être titularisé. Si vous êtes déjà fonctionnaire titulaire, vous pouvez aussi être soumis à une période de stage en cours de carrière si vous changez de corps ou de cadre d'emplois à la suite d'un concours ou d'une promotion interne. Nous vous présentons les informations à connaître selon votre fonction publique d'appartenance (État - FPE, territoriale - FPT, hospitalière - FPH).",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code général de la fonction publique : articles L327-1 à L327-12",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044421816/"
+    },
+    {
+      "titre": "Code général de la fonction publique : articles R327-1 à R327-75",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000051962244/#LEGISCTA000051962244"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Écoles de formation de la fonction publique d'État",
+      "url": "https://www.fonction-publique.gouv.fr/score/ecoles-de-formation"
+    }
+  ],
+  "slug": "stage-et-titularisation-du-fonctionnaire",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "carriere-dans-la-fonction-publique",
+      "titre": "Carrière dans la fonction publique"
+    }
+  ]
+}

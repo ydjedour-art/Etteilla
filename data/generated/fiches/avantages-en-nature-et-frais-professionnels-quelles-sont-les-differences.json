@@ -1,0 +1,72 @@
+{
+  "id": "F2408",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Avantages en nature et frais professionnels : quelles sont les différences ?",
+  "theme": "Travail - Formation, Ressources humaines",
+  "description": "Les frais professionnels sont des dépenses remboursées par l'employeur. Les avantages en nature sont des prestations fournies par l'employeur.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-08-12",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2408",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Rémunération dans le secteur privé",
+    "Avantages en nature et frais professionnels : quelles sont les différences ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les frais professionnels sont des dépenses faites par le salarié pour les besoins de son activité professionnelle qui lui sont ensuite remboursées par son employeur : frais de restauration, de déplacement, de frais vestimentaires, etc.",
+        "Les avantages en nature sont des prestations fournies par l'employeur au salarié. Cela peut concerner les frais de voiture de fonction, d’ordinateur portable, de logement de fonction, de titres-restaurants.",
+        "Les frais professionnels et les avantages en nature ne sont pas pris en compte de la même manière en termes de rémunération et en matière de prélèvements sociaux :",
+        "Différences entre frais professionnels et avantages en nature",
+        "Frais ou avantage",
+        "Intégré à la rémunération ?",
+        "Soumis aux cotisations sociales, CSG et CRDS",
+        "Frais professionnels",
+        "Non",
+        "Non",
+        "Avantages en nature",
+        "Oui",
+        "Oui (sauf réglementation particulière)",
+        "[À savoir] Le salarié peut être entièrement rémunéré en avantages en nature (cas d'un salarié au pair, par exemple)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la sécurité sociale : article L136-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042683568"
+    },
+    {
+      "titre": "Code général des impôts : articles 79 à 81 quater",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006197199/"
+    },
+    {
+      "titre": "Code du travail : articles R3231-4 à D3231-6",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000018533880"
+    },
+    {
+      "titre": "Code du travail : articles L3221-1 à L3221-10",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006178022"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Urssaf"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "avantages-en-nature-et-frais-professionnels-quelles-sont-les-differences",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "remuneration-dans-le-secteur-prive",
+      "titre": "Rémunération dans le secteur privé"
+    }
+  ]
+}

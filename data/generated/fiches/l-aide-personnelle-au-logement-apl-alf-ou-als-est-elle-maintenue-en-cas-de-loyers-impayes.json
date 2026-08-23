@@ -1,0 +1,56 @@
+{
+  "id": "F32037",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "L'aide personnelle au logement (APL, ALF ou ALS) est-elle maintenue en cas de loyers impayés ?",
+  "theme": "Logement",
+  "description": "En cas de loyers impayés, l'aide personnelle au logement (APL, ALF et ALS) peut être maintenue pour alléger une dette de loyer et éviter l'expulsion.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-01-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F32037",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Aides personnelles au logement",
+    "L'aide personnelle au logement (APL, ALF ou ALS) est-elle maintenue en cas de loyers impayés ?"
+  ],
+  "introduction": "En cas de loyers impayés, l'aide personnelle au logement (APL, ALS et ALF) peut être maintenue pour alléger une dette de loyer et éviter l'expulsion. La situation varie selon que l'aide est versée au bailleur ou au locataire.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de la construction et de l'habitation : articles R824-1 à R824-3",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000038878879"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : articles R824-4 à R824-10",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000038878869"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : articles R824-11 à R824-13",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000038878853"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : articles R824-20 à R824-22",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000038850328/#LEGISCTA000038878830"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : articles R824-27 à R824-30",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000038878812"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "SOS loyers impayés"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "l-aide-personnelle-au-logement-apl-alf-ou-als-est-elle-maintenue-en-cas-de-loyers-impayes",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "aides-personnelles-au-logement",
+      "titre": "Aides personnelles au logement"
+    }
+  ]
+}

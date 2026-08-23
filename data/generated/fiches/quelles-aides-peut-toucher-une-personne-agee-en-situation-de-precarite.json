@@ -1,0 +1,80 @@
+{
+  "id": "F32057",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quelles aides peut toucher une personne âgée en situation de précarité ?",
+  "theme": "Social - Santé",
+  "description": "À partir d'un certain âge, certaines aides peuvent être attribuées à la personne âgée vivant à domicile et ayant de faibles ressources.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-04-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F32057",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Allocations et aides aux personnes âgées",
+    "Quelles aides peut toucher une personne âgée en situation de précarité ?"
+  ],
+  "introduction": "À partir d'un certain âge, certaines aides peuvent vous être attribuées si vous vivez chez vous et avec de faibles ressources. Leur montant est différent selon que vous vivez seul ou en couple.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Vous pouvez estimer les aides auxquelles vous pouvez avoir droit à l'aide d’un simulateur :",
+        "Connaître les prestations sociales auxquelles vous pouvez avoir droit",
+        "[À noter] Quel que soit votre besoin, n'hésitez pas à contacter votre mairie, votre caisse de retraite ou votre caisse de retraite complémentaire."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'action sociale et des familles : article L231-3",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006796956"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Connaître les prestations sociales auxquelles vous pouvez avoir droit",
+      "url": "https://www.mesdroitssociaux.gouv.fr",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "Point d'information local dédié aux personnes âgées"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Les aides financières pour les personnes âgées vivant à domicile",
+      "url": "https://www.pour-les-personnes-agees.gouv.fr/annuaires-et-services/fiches-pratiques/fiche-pratique-les-aides-financieres-pour-les-personnes-agees-vivant-a-domicile"
+    },
+    {
+      "titre": "L’aide-ménagère à domicile",
+      "url": "https://www.pour-les-personnes-agees.gouv.fr/vivre-a-domicile/aides-financieres/l-aide-menagere-a-domicile"
+    },
+    {
+      "titre": "J'ai besoin d'être aidé à domicile. Comment faire ? (facile à lire et à comprendre)",
+      "url": "https://www.pour-les-personnes-agees.gouv.fr/annuaires-et-services/facile-a-lire-et-a-comprendre/jai-besoin-detre-aide-a-domicile-comment-faire"
+    },
+    {
+      "titre": "Portail national d'information pour les personnes âgées et leurs proches",
+      "url": "https://www.pour-les-personnes-agees.gouv.fr/"
+    },
+    {
+      "titre": "Pour bien vieillir.fr",
+      "url": "http://www.pourbienvieillir.fr/"
+    },
+    {
+      "titre": "Que faire en cas de difficultés financières ?",
+      "url": "https://www.inc-conso.fr/content/que-faire-en-cas-de-difficultes-financieres-0#:~:text=Vous%20pouvez%20aussi%20solliciter%20un,et%20%C3%A0%20trouver%20les%20solutions."
+    }
+  ],
+  "slug": "quelles-aides-peut-toucher-une-personne-agee-en-situation-de-precarite",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "allocations-et-aides-aux-personnes-agees",
+      "titre": "Allocations et aides aux personnes âgées"
+    }
+  ]
+}

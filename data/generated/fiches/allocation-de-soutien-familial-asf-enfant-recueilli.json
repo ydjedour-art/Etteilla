@@ -1,0 +1,125 @@
+{
+  "id": "F33647",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Allocation de soutien familial (ASF) : enfant recueilli",
+  "theme": "Famille - Scolarité",
+  "description": "L'ASF est versée pour élever un enfant privé de l'aide de l'un ou de ses deux parents.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33647",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Allocations destinées aux familles",
+    "Allocation de soutien familial (ASF) : enfant recueilli"
+  ],
+  "introduction": "L'allocation de soutien familial (ASF) est versée par la caisse d'allocations familiales (Caf) ou la Mutualité sociale agricole (MSA) à la personne qui a recueilli un enfant, qu'elle vive seule ou en couple.",
+  "chapitres": [
+    {
+      "titre": "Quelles sont les conditions pour avoir droit à l'allocation de soutien familial (ASF) ?",
+      "contenu": [
+        "Pour avoir droit à l'ASF, vous devez remplir les 2 conditions suivantes :",
+        "• Résider en France",
+        "• Avoir au moins 1 enfant à charge qui vous a été confié par décision judiciaire (jugement de placement, kafala, etc.) ou par acte notarié."
+      ]
+    },
+    {
+      "titre": "Comment demander l'allocation de soutien familial (ASF) ?",
+      "contenu": [
+        "La démarche diffère selon que vous dépendez du régime général (Caf) ou agricole (MSA) :",
+        "Cas général (Caf)",
+        "Vous devez remplir et envoyer à votre Caf les formulaires cerfa n°12038 (demande d'ASF) et n°11423 (déclaration de situation) :",
+        "Demande d'allocation de soutien familial (ASF) : enfant recueilli",
+        "Régime agricole (MSA)",
+        "Vous devez remplir et envoyer à votre MSA le formulaire cerfa de demande d'ASF (et le formulaire cerfa de déclaration de situation qui l'accompagne).",
+        "Demande d'allocation de soutien familial (ASF), d'intermédiation et d'aide au recouvrement (MSA)"
+      ]
+    },
+    {
+      "titre": "Quel est le montant de l'allocation de soutien familial (ASF) ?",
+      "contenu": [
+        "Le montant de l'ASF s'élève à 267,63 € par mois et par enfant."
+      ]
+    },
+    {
+      "titre": "Comment procéder en cas de changement de situation ?",
+      "contenu": [
+        "Il faut distinguer selon que vous dépendez de la Caf ou de la MSA :",
+        "Caf",
+        "Plusieurs changements peuvent intervenir.",
+        "Changement de situation familiale",
+        "Déclarez rapidement tout changement dans votre situation familiale (exemples : naissance d'un enfant, mise en couple, séparation, chômage).",
+        "Allocations et prestations familiales - Déclaration de situation (Caf)",
+        "Connexion avec France Connect ou connexion avec un compte Caf",
+        "Caisse d'allocations familiales (Caf)",
+        "Changement de domicile",
+        "Vous pouvez signaler votre changement de domicile en utilisant le service de changement d'adresse en ligne :",
+        "Déclaration de changement d'adresse",
+        "MSA",
+        "Changement de situation familiale",
+        "Déclarez rapidement tout changement dans votre situation familiale (exemples : naissance d'un enfant, mise en couple, séparation, chômage).",
+        "[Exemple] Être en couple peut vous ouvrir de nouveaux droits. Renseignez-vous auprès de votre MSA.",
+        "MSA - Espace particuliers",
+        "Avec vos identifiants MSA ou avec FranceConnect",
+        "Vous pouvez aussi vous rendre sur place ou envoyer le formulaire cerfa n°11423 par courrier.",
+        "Allocations et prestations familiales - Déclaration de situation (MSA)",
+        "Mutualité sociale agricole (MSA)",
+        "Changement de domicile",
+        "Vous pouvez signaler votre changement de domicile en utilisant le service de changement d'adresse en ligne :",
+        "Déclaration de changement d'adresse",
+        "[À noter] Si vous changez de département, la MSA de votre domicile de départ s'occupera automatiquement du transfert du dossier vers votre nouvelle caisse. Ce transfert se fera dès l'enregistrement de votre nouvelle adresse."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la sécurité sociale : articles L523-1 à L523-3",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006156165"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles R523-1 à R523-8",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006156683"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles R552-1 à R552-3",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000006156694/"
+    },
+    {
+      "titre": "Instruction interministérielle du 20 mars 2026 relative à la revalorisation au 1er avril 2026 des prestations familiales servies en métropole et outre-mer",
+      "url": "https://bulletins-officiels.social.gouv.fr/sites/textes-officiels/files/2026-03/SFHS2607952J.pdf"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demande d'allocation de soutien familial (ASF)",
+      "url": "https://wwwd.caf.fr/wps/portal/caffr/aidesetservices/lesservicesenligne/faireunedemandedeprestation#/enfants/dasf",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Demande d'allocation de soutien familial (ASF), d'intermédiation et d'aide au recouvrement (MSA)",
+      "url": "https://service-pensionalimentaire.msa.fr/aripa/accueil",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Connaître les prestations sociales auxquelles vous pouvez avoir droit",
+      "url": "https://www.mesdroitssociaux.gouv.fr",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "Caisse d'allocations familiales (Caf)",
+    "Mutualité sociale agricole (MSA)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "allocation-de-soutien-familial-asf-enfant-recueilli",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "allocations-destinees-aux-familles",
+      "titre": "Allocations destinées aux familles"
+    }
+  ]
+}

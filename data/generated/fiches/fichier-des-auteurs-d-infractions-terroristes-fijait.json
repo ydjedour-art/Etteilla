@@ -1,0 +1,67 @@
+{
+  "id": "F34846",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Fichier des auteurs d'infractions terroristes (Fijait)",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Le Fijait est un fichier de police judiciaire qui recense des informations sur des personnes mises en cause ou condamnées pour une infraction liée au terrorisme",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-02-05",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34846",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Fichiers judiciaires et de police judiciaire",
+    "Fichier des auteurs d'infractions terroristes (Fijait)"
+  ],
+  "introduction": "Qu’est-ce que le Fijait ? Il s’agit d’un fichier judiciaire qui centralise des informations sur des personnes mises en cause ou condamnées pour des infractions liées au terrorisme. Le Fijait peut être consulté par plusieurs autorités judiciaires et administratives. Par ailleurs, les personnes qui y sont inscrites peuvent demander la communication des données qui les concernent, leur rectification et leur effacement. Voici les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "[À savoir] Les mineurs de moins de 13 ans ne peuvent pas être inscrits au Fijait. Pour les autres personnes, les règles diffèrent en fonction de leur âge."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Directive (UE) 2016/680 \"Police-Justice\" : traitement des données personnelles en matière d'infractions pénales",
+      "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32016L0680"
+    },
+    {
+      "titre": "Code de procédure pénale : articles 706-25-3 à 706-25-14",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000030938452/2023-07-18/"
+    },
+    {
+      "titre": "Code de procédure pénale : articles R50-30 à R50-68",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000031788710"
+    },
+    {
+      "titre": "Code de justice pénale des mineurs : articles L633-1 à L633-4",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000039086952/LEGISCTA000039088567/#LEGISCTA000039088567"
+    },
+    {
+      "titre": "Code pénal : articles 421-1 à 421-8",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006149845"
+    },
+    {
+      "titre": "Circulaire du 30 juin 2016 relative au fonctionnement du Fijait",
+      "url": "http://www.textes.justice.gouv.fr/art_pix/JUSD1618322C.pdf"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Maison de justice et du droit"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "fichier-des-auteurs-d-infractions-terroristes-fijait",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "fichiers-judiciaires-et-de-police-judiciaire",
+      "titre": "Fichiers judiciaires et de police judiciaire"
+    }
+  ]
+}

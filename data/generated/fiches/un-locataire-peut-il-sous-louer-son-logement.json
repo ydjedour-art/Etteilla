@@ -1,0 +1,79 @@
+{
+  "id": "F2449",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Un locataire peut-il sous-louer son logement ?",
+  "theme": "Logement",
+  "description": "Selon le bail signé, elle peut être interdite ou, en général, nécessiter au préalable d'en informer le propriétaire ou d'obtenir son autorisation écrite.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-07-24",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2449",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Bail d’habitation : obligations du locataire",
+    "Un locataire peut-il sous-louer son logement ?"
+  ],
+  "introduction": "Sous-louer consiste à mettre en location tout ou une partie du logement dont on est locataire. Selon le bail d'habitation signé, la sous-location peut-être interdite, ou autorisée à certaines conditions. En général, il faut en informer au préalable le propriétaire, voire obtenir son autorisation écrite. Des conditions peuvent aussi restreindre le choix du sous-locataire. Nous vous expliquons la règlementation selon que le logement loué dépend du parc privé ou social.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 8",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000028806569/"
+    },
+    {
+      "titre": "Loi n°48-1360 du 1er septembre 1948 sur les rapports locatifs : article 78",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006463766/"
+    },
+    {
+      "titre": "Loi n°48-1360 du 1er septembre 1948 sur les rapports locatifs : article 39",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006463378/"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : article L442-3-5",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033939742/"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : article L442-8-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037670096/"
+    },
+    {
+      "titre": "Code de la construction et de l’habitation : articles L631-17 à L631-19",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000037649970/#LEGISCTA000037649976"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : article L118-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037649943"
+    },
+    {
+      "titre": "Arrêté du 13 janvier 2020 relatif à la charte de la cohabitation intergénérationnelle solidaire",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000041400365/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demander l'autorisation du propriétaire pour sous-louer son logement",
+      "url": "https://www.inc-conso.fr/content/vous-demandez-votre-bailleur-lautorisation-de-sous-louer-tout-ou-partie-de-votre-logement",
+      "type": "Modèle de document"
+    }
+  ],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "La cohabitation intergénérationnelle solidaire",
+      "url": "https://www.anil.org/fileadmin/ANIL/Proprietaires_locataires/Cohabitation_intergenerationnelle_solidaire_fiche_de_presentation.pdf"
+    }
+  ],
+  "slug": "un-locataire-peut-il-sous-louer-son-logement",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "bail-d-habitation-obligations-du-locataire",
+      "titre": "Bail d’habitation : obligations du locataire"
+    }
+  ]
+}

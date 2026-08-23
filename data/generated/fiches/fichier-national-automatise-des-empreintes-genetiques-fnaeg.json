@@ -1,0 +1,294 @@
+{
+  "id": "F34834",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Fichier national automatisé des empreintes génétiques (Fnaeg)",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Le Fnaeg est une base de données d'empreintes génétiques. Il sert à l'identification des auteurs de certaines infractions et des personnes disparues.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-07-29",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34834",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Fichiers judiciaires et de police judiciaire",
+    "Fichier national automatisé des empreintes génétiques (Fnaeg)"
+  ],
+  "introduction": "Dans quels cas vos empreintes génétiques peuvent-elles être conservées ? C’est principalement dans le cadre d’enquêtes pénales que le service national de police scientifique peut prendre vos empreintes et les enregistrer. Elles sont ensuite centralisées et conservées dans le Fnaeg. Si vos données sont inscrites dans ce fichier, vous pouvez y accéder, demander à ce qu’elles soient rectifiées et, dans certaines conditions, demander à ce qu’elles soient effacées. Voici les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "À quoi sert le Fnaeg ?",
+      "contenu": [
+        "Le Fnaeg a pour objet de faciliter la recherche et l'identification des personnes mises en causes ou déclarées coupables de certaines infractions telles que :",
+        "• Infractions sexuelles (par exemple viol, agression sexuelle)",
+        "• Meurtre",
+        "• Actes de torture et de barbarie",
+        "• Violences volontaires",
+        "• Proxénétisme",
+        "• Trafic de drogues",
+        "• Aide à l’entrée, à la circulation ou au séjour de personnes en situation irrégulière",
+        "• Infractions contre les biens (par exemple, vol, destruction de biens, extorsion)",
+        "• Infractions contre la Nation (par exemple, acte de terrorisme)",
+        "• Homicide routier",
+        "• Maltraitance animale.",
+        "Le Fnaeg permet également de rechercher et d'identifier une personne décédée dont l'identité est inconnue, une victime de catastrophe naturelle ou une personne disparue."
+      ]
+    },
+    {
+      "titre": "Quelles données sont enregistrées au Fnaeg ?",
+      "contenu": [
+        "Personnes pouvant voir leurs données enregistrées au Fnaeg",
+        "Les données enregistrées au Fnaeg concernent :",
+        "• Les personnes mises en examen ou déclarées coupables de certaines infractions (meurtre, trafic de drogues, vol, terrorisme, etc.)",
+        "• Les personnes poursuivies pour une infraction, mais qui n'ont pas été condamnées car elles ont été déclarées irresponsables pénalement",
+        "• Les personnes décédées dont l'identité n'a pas pu être établie",
+        "• Les victimes de catastrophes naturelles",
+        "• Les mineurs ou les majeurs protégés qui ont disparu",
+        "• Les personnes dont la disparition est inquiétante.",
+        "Ce fichier répertorie également les données personnelles des ascendants , descendants et collatéraux de personnes disparues et de victimes de catastrophes naturelles, à condition qu'elles aient donné leur accord par écrit.",
+        "Lorsqu'ils donnent leur accord, les ascendants, descendants et collatéraux autorisent la comparaison de leurs empreintes génétiques avec celles enregistrées (ou qui peuvent être enregistrées) dans le Fnaeg.",
+        "[À savoir] Un officier de police judiciaire peut prendre les empreintes d’une personne uniquement soupçonnée d’avoir commis certaines infractions (viol, trafic de drogues, proxénétisme, etc.) afin de les comparer aux empreintes qui figurent déjà dans le Fnaeg. Néanmoins, les empreintes seront supprimées si la personne n’est pas mise en examen.",
+        "Type de données enregistrées au Fnaeg",
+        "Les données suivantes sont enregistrées au Fnaeg :",
+        "• Empreinte génétique",
+        "• Numéro de l'affaire dans le cadre de laquelle l'enregistrement au Fnaeg a été demandé",
+        "• Service ayant demandé l'enregistrement au Fnaeg",
+        "• Date de la demande d'enregistrement au Fnaeg",
+        "• Nom de la personne ayant réalisé l'analyse génétique",
+        "• Infraction pour laquelle un enregistrement au Fnaeg a eu lieu",
+        "• Date de la commission des faits",
+        "• Nom, prénoms, filiation, date et lieu de naissance des personnes dont les empreintes génétiques ont été recueillies."
+      ]
+    },
+    {
+      "titre": "Quelles autorités peuvent avoir accès au Fnaeg ?",
+      "contenu": [
+        "Les autorités suivantes peuvent avoir accès au Fnaeg de manière plus ou moins étendue :",
+        "• Personnel du service national de police scientifique",
+        "• Magistrat chargé du contrôle du Fnaeg",
+        "• Officier de police judiciaire et agent de police judiciaire",
+        "• Personnel affecté au service central de préservation des prélèvements biologiques",
+        "• Personne agréée ayant réalisé les analyses d'identification par empreintes génétique",
+        "• Agent d'un organisme de coopération internationale concernant la police judiciaire dans les conditions prévues par les traités internationaux",
+        "• Agent d'un service de police ou de justice d'un pays étranger dans les conditions prévues par les traités internationaux."
+      ]
+    },
+    {
+      "titre": "Combien de temps sont conservées les données figurant au Fnaeg ?",
+      "contenu": [
+        "La durée de conservation des données au Fnaeg dépend de la raison pour laquelle l'inscription a eu lieu.",
+        "Lorsque l'enregistrement est dû à la commission d'une infraction, le délai de conservation varie notamment en fonction de l'âge de la personne poursuivie ou condamnée.",
+        "Durée de conservation des empreintes génétiques au Fnaeg",
+        "Personnes concernées",
+        "Durée maximale de conservation",
+        "personne majeure",
+        "Durée maximale de conservation",
+        "Personne mineure",
+        "Personne déclarée coupable d'avoir commis certaines infractions",
+        "Exemples : viol, meurtre, tortures, vol, extorsion, destruction de biens, acte de terrorisme.",
+        "De 25 à 40 ans selon la gravité des faits",
+        "De 15 à 25 ans selon la gravité des faits",
+        "Personne déclarée irresponsable pénalement pour certaines infractions",
+        "De 25 à 40 ans selon la gravité des faits",
+        "De 15 à 25 ans selon la gravité des faits",
+        "Personne mise en examen pour certaines infractions",
+        "De 15 à 25 ans, selon la gravité des faits",
+        "De 10 à 15 ans, selon la gravité des faits",
+        "Personne inconnue",
+        "De 25 à 40 ans",
+        "Personne décédée non identifiée",
+        "Jusqu'à l'identification de la personne décédée ou pendant 40 ans",
+        "Personne disparue",
+        "Jusqu'à la découverte de la personne disparue ou pendant 40 ans",
+        "Ascendant, descendant ou collatéral d'une personne disparue ou d'une victime de catastrophe naturelle",
+        "Jusqu'à la découverte de la personne disparue ou pendant 40 ans",
+        "De manière générale, ces délais courent à compter de la date d'enregistrement des données au Fnaeg.",
+        "Néanmoins, si la personne est déclarée coupable ou irresponsable pénalement, le délai commence à courir au jour où la décision de culpabilité ou d'irresponsabilité pénale est devenue définitive."
+      ]
+    },
+    {
+      "titre": "Peut-on demander la communication des données conservées dans le Fnaeg ?",
+      "contenu": [
+        "Vous pouvez demander la communication de vos données enregistrées au Fnaeg en adressant un courrier postal au service national de police scientifique.",
+        "Service national de police scientifique",
+        "Votre demande doit préciser les raisons pour lesquelles vous souhaitez obtenir ces informations.",
+        "Vous devez y joindre une copie recto-verso de votre pièce d'identité (carte nationale d'identité, passeport, etc.).",
+        "En cas de refus ou en l'absence de réponse dans un délai de 2 mois, vous pouvez adresser une demande à la Cnil :",
+        "Fichiers de police (Taj, FPR) : recours auprès de la Commission nationale informatique et libertés (Cnil)",
+        "Connexion avec FranceConnect",
+        "[À savoir] Si vous n'êtes pas certain que vos empreintes génétiques sont répertoriées dans le Fnaeg, vous pouvez également écrire au service national de police scientifique. Votre demande doit être accompagnée de la copie recto-verso de votre pièce d'identité. En cas d'absence de réponse dans un délai de 2 mois, vous pouvez faire une demande à la Cnil."
+      ]
+    },
+    {
+      "titre": "Peut-on demander la rectification des données inscrites au Fnaeg ?",
+      "contenu": [
+        "Si vous constatez que des données qui vous concernent sont incomplètes ou inexactes, vous pouvez faire une demande de rectification du Fnaeg.",
+        "Votre demande doit être effectuée par écrit.",
+        "Elle doit être adressée au procureur de la République du lieu dans lequel s'est déroulée l'affaire qui a entraîné l'enregistrement au Fnaeg.",
+        "Tribunal judiciaire ou tribunal de proximité",
+        "[À savoir] Votre demande doit être accompagnée de tous justificatifs prouvant que les mentions inscrites au fichier sont inexactes ou incomplètes.",
+        "Si une erreur est constatée, le procureur de la République procède à une rectification des données du Fnaeg, dans les meilleurs délais.",
+        "En cas de rejet de votre demande, il doit vous informer des motifs de ce refus."
+      ]
+    },
+    {
+      "titre": "Peut-on demander l'effacement des données inscrites au Fnaeg ?",
+      "contenu": [
+        "Vous pouvez demander l'effacement de vos données du Fnaeg avant la fin de la durée de conservation.",
+        "La procédure pour faire cette demande d'effacement dépend de votre situation :",
+        "Vous êtes poursuivi pour une infraction",
+        "Demande d'effacement au procureur de la République",
+        "Vous devez faire une demande au procureur de la République de la juridiction où vous avez été mis en cause ou de votre domicile.",
+        "Tribunal judiciaire ou tribunal de proximité",
+        "La demande se fait par lettre RAR ou par déclaration au greffe.",
+        "Vous pouvez utiliser un formulaire :",
+        "Demande d'effacement du fichier national automatisé des empreintes génétiques (Fnaeg) - Procureur de la République",
+        "Demande d’effacement des données enregistrées au Fichier national automatisé des empreintes génétiques (Fnaeg)",
+        "Vous devez joindre les documents suivants à votre demande :",
+        "• Copie recto/verso de votre pièce d'identité (carte nationale d'identité, passeport ou titre de séjour)",
+        "• Copie d'un document concernant l'affaire (convocation devant les services d'enquête ou devant le juge d'instruction, jugement, décision de classement sans suite, décision de non-lieu, etc.).",
+        "Le procureur de la République doit vous répondre dans un délai de 3 mois suivant votre demande.",
+        "Il est obligé de faire effacer les données inscrites au Fnaeg si vous avez fait l'objet d'un classement sans suite ou d'un non-lieu.",
+        "Dans les autres cas, il peut s'opposer à l'effacement de ces mentions.",
+        "[Attention] En cas de refus, aucune nouvelle demande ne peut être effectuée avant un délai d'1 an suivant la décision du procureur de la République.",
+        "Recours en cas d'absence de réponse ou de refus de la demande",
+        "En l'absence de réponse ou si le procureur s'est opposé à l'effacement, vous pouvez faire un recours auprès du président de la chambre de l'instruction.",
+        "Ce recours doit être fait par courrier RAR ou par déclaration au greffe, dans les 10 jours suivant l'expiration du délai de 3 mois. Il doit être adressé au président de la chambre de l’instruction de la cour d’appel dont dépend la juridiction qui a rendu la décision ayant entraîné l’enregistrement au Fnaeg.",
+        "Cour d'appel",
+        "[Exemple] Vous avez fait une demande le 9 janvier 2025. Le procureur de la République avait jusqu'au 9 avril 2025 pour vous répondre. S'il ne l'a pas fait ou s'il a refusé l'effacement, vous avez jusqu'au 19 avril 2025 pour faire un recours.",
+        "Ce recours doit être motivé : vous devez expliquer les raisons qui fondent votre demande.",
+        "Vous pouvez utiliser un formulaire :",
+        "Demande d’effacement des données enregistrées au fichier national automatisé des empreintes génétiques (Fnaeg) - Président de la chambre de l’instruction",
+        "Vous devez y joindre les éléments suivants :",
+        "• Copie recto/verso de votre pièce d'identité (carte nationale d'identité, passeport ou titre de séjour)",
+        "• Copie de la décision de refus d'effacement du procureur de la République. Si vous ne l'avez pas, copie d'un document concernant l'affaire : convocation devant les services d'enquête ou devant le juge d'instruction, jugement, décision de classement sans suite, etc.",
+        "À compter de la réception de votre recours, le président de la chambre de l'instruction dispose d'un délai de 3 mois pour vous donner une réponse.",
+        "Sa décision vous est notifiée par courrier RAR.",
+        "[À noter] Si la chambre de l'instruction n'a pas respecté certaines règles de droit, vous pouvez vous pourvoir en cassation.",
+        "Vous avez été déclaré coupable ou avez fait l'objet d'une décision d'irresponsabilité pénale",
+        "Demande d'effacement au procureur de la République",
+        "Vous pouvez demander l'effacement anticipé de vos données à la fin des délais suivants :",
+        "• 3 ans quand le délai légal de conservation de vos empreintes est de 15 ans",
+        "• 7 ans quand ce délai est de 25 ans",
+        "• 10 ans quand ce délai est de 40 ans.",
+        "Vous devez faire une demande au procureur de la République de la juridiction où la procédure a été menée ou de votre domicile.",
+        "Tribunal judiciaire ou tribunal de proximité",
+        "La demande se fait par lettre RAR ou par déclaration au greffe.",
+        "Vous pouvez utiliser un formulaire :",
+        "Demande d'effacement du fichier national automatisé des empreintes génétiques (Fnaeg) - Procureur de la République",
+        "Vous devez joindre les documents suivants à votre demande :",
+        "• Copie recto/verso de votre pièce d'identité (carte nationale d'identité, passeport ou titre de séjour)",
+        "• Copie d'un document concernant l'affaire : convocation devant les services d'enquête ou devant le juge d'instruction, jugement du tribunal correctionnel, décision d'acquittement, etc.",
+        "Le procureur de la République doit vous répondre dans un délai de 3 mois suivant votre demande.",
+        "Si vous avez fait l'objet d'une décision de relaxe ou d'acquittement devenue définitive, l'effacement a obligatoirement lieu.",
+        "Dans les autres cas, le procureur peut s'y opposer.",
+        "[Attention] En cas de refus, aucune nouvelle demande ne peut être effectuée avant un délai d'1 an suivant la décision du procureur de la République.",
+        "Recours en cas d'absence de réponse ou de refus de la demande",
+        "En l'absence de réponse ou si le procureur s'est opposé à l'effacement, vous pouvez faire un recours auprès du président de la chambre de l'instruction.",
+        "Ce recours doit être fait par courrier RAR ou par déclaration au greffe, dans les 10 jours suivant l'expiration du délai de 3 mois. Il doit être adressé au président de la chambre de l’instruction de la cour d’appel dont dépend la juridiction qui a rendu la décision ayant entraîné l’enregistrement au Fnaeg.",
+        "Cour d'appel",
+        "[Exemple] Vous avez fait une demande le 9 janvier 2025. Le procureur de la République avait jusqu'au 9 avril 2025 pour vous répondre. S'il ne l'a pas fait ou s'il a refusé l'effacement, vous avez jusqu'au 19 avril 2025 pour faire un recours.",
+        "Ce recours doit être motivé : vous devez expliquer les raisons qui fondent votre demande.",
+        "Vous pouvez utiliser un formulaire :",
+        "Demande d’effacement des données enregistrées au fichier national automatisé des empreintes génétiques (Fnaeg) - Président de la chambre de l’instruction",
+        "Vous devez y joindre les éléments suivants :",
+        "• Copie recto/verso de votre pièce d'identité (carte nationale d'identité, passeport ou titre de séjour)",
+        "• Copie de la décision de refus d'effacement du procureur de la République. Si vous ne l'avez pas, copie d'un document concernant l'affaire : convocation devant les services d'enquête ou devant le juge d'instruction, jugement, décision de classement sans suite, etc.",
+        "À compter de la réception de votre recours, le président de la chambre de l'instruction dispose d'un délai de 3 mois pour vous donner une réponse.",
+        "Sa décision vous est notifiée par courrier RAR.",
+        "[À noter] Si la chambre de l'instruction n'a pas respecté certaines règles de droit, vous pouvez vous pourvoir en cassation.",
+        "Vous êtes un parent d'une personne disparue",
+        "Demande d'effacement au procureur de la République",
+        "Vous devez faire une demande au procureur de la République de la juridiction au sein de laquelle la procédure qui a donné lieu à l'enregistrement a été menée ou de votre domicile.",
+        "Tribunal judiciaire ou tribunal de proximité",
+        "La demande se fait par lettre RAR ou par déclaration au greffe.",
+        "Vous pouvez utiliser un formulaire",
+        "Demande d'effacement du fichier national automatisé des empreintes génétiques - Parents de personnes disparues",
+        "Vous devez joindre les documents suivants à votre demande :",
+        "• Copie recto/verso de votre pièce d'identité (carte nationale d'identité, passeport ou titre de séjour)",
+        "• Copie d'un document concernant l'affaire : convocation devant les services d'enquête ou devant le juge d'instruction, jugement, décision de classement sans suite, décision de non-lieu, etc.",
+        "Le procureur de la République doit vous répondre dans un délai de 3 mois suivant votre demande.",
+        "Si la personne a été retrouvée, il doit obligatoirement accepter que vos données soient effacées du Fnaeg.",
+        "Dans les autres cas, il peut s'opposer à l'effacement.",
+        "[À noter] L'effacement de vos données au Fnaeg rend impossible toute comparaison avec d'autres empreintes enregistrées dans ce fichier.",
+        "Recours en cas d'absence de réponse ou de refus de la demande",
+        "En l'absence de réponse ou si le procureur s'est opposé à l'effacement, vous pouvez faire un recours auprès du président de la chambre de l'instruction.",
+        "Ce recours doit être fait par courrier RAR ou par déclaration au greffe, dans les 10 jours suivant l'expiration du délai de 3 mois. Il doit être adressé au président de la chambre de l’instruction de la cour d’appel dont dépend la juridiction qui a rendu la décision ayant entraîné l’enregistrement au Fnaeg.",
+        "Cour d'appel",
+        "[Exemple] Vous avez fait une demande le 9 janvier 2025. Le procureur de la République avait jusqu'au 9 avril 2025 pour vous répondre. S'il ne l'a pas fait ou s'il a refusé l'effacement, vous avez jusqu'au 19 avril 2025 pour faire un recours.",
+        "Ce recours doit être motivé : vous devez expliquer les raisons qui fondent votre demande.",
+        "Vous pouvez utiliser un formulaire :",
+        "Demande d’effacement des données enregistrées au fichier national automatisé des empreintes génétiques (Fnaeg) - Président de la chambre de l’instruction",
+        "Vous devez y joindre les éléments suivants :",
+        "• Copie recto/verso de votre pièce d'identité (carte nationale d'identité, passeport ou titre de séjour)",
+        "• Copie de la décision de refus d'effacement du procureur de la République. Si vous ne l'avez pas, copie d'un document concernant l'affaire : convocation devant les services d'enquête ou devant le juge d'instruction, jugement, décision de classement sans suite, etc.",
+        "À compter de la réception de votre recours, le président de la chambre de l'instruction dispose d'un délai de 3 mois pour vous donner une réponse.",
+        "Sa décision vous est notifiée par courrier RAR.",
+        "[À noter] Si la chambre de l'instruction n'a pas respecté certaines règles de droit, vous pouvez vous pourvoir en cassation."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de procédure pénale : articles 706-54 à 706-56-1-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000006138132"
+    },
+    {
+      "titre": "Code de procédure pénale : articles R53-9 à R53-21",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000006137412"
+    },
+    {
+      "titre": "Décret n°2012-125 du 30 janvier 2012",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000025241330"
+    },
+    {
+      "titre": "Arrêté du 22 novembre 2023 relatif au conditionnement normalisé et au traitement subséquent des scellés adressés au service central de préservation des prélèvements biologiques",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000048460380"
+    },
+    {
+      "titre": "Directive (UE) 2016/680 \"Police-Justice\" : traitement des données personnelles en matière d'infractions pénales",
+      "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32016L0680"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demande d'effacement du fichier national automatisé des empreintes génétiques - Parents de personnes disparues",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_12414.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Demande d’effacement des données enregistrées au fichier national automatisé des empreintes génétiques (Fnaeg) - Président de la chambre de l’instruction",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_12413.do",
+      "type": "formulaireNG"
+    },
+    {
+      "titre": "Demande d'effacement du fichier national automatisé des empreintes génétiques (Fnaeg) - Procureur de la République",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_12411_03.do",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Service national de police scientifique",
+    "Avocat"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "FNAEG : Fichier national des empreintes génétiques",
+      "url": "https://www.cnil.fr/fr/fnaeg-fichier-national-des-empreintes-genetiques"
+    },
+    {
+      "titre": "Service national de police scientifique",
+      "url": "https://www.police-nationale.interieur.gouv.fr/nous-decouvrir/notre-organisation/organisation/service-national-de-police-scientifique-snps"
+    }
+  ],
+  "slug": "fichier-national-automatise-des-empreintes-genetiques-fnaeg",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "fichiers-judiciaires-et-de-police-judiciaire",
+      "titre": "Fichiers judiciaires et de police judiciaire"
+    }
+  ]
+}

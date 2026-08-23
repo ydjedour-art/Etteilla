@@ -1,0 +1,198 @@
+{
+  "id": "F1780",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Exécution d'une décision du juge civil",
+  "theme": "Justice",
+  "description": "En principe, un jugement civil doit s'exécuter dès son prononcé, soit volontairement, soit de force en faisant intervenir un commissaire de justice.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-07-22",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1780",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Affaire civile",
+    "Exécution d'une décision du juge civil"
+  ],
+  "introduction": "Vous souhaitez savoir comment une décision rendue en matière civile s'exécute ? Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "À quel moment une décision civile peut-elle être exécutée ?",
+      "contenu": [
+        "L’exécution d'une décision civile peut être exigée à partir du moment où elle est exécutoire.",
+        "Ce caractère exécutoire (ou force exécutoire) est immédiat. Mais, parfois, il faut attendre le moment où la décision ne peut plus être contestée (on dit alors qu'elle passe en force de chose de jugée).",
+        "Le juge a le pouvoir d'accorder des délais supplémentaires pour l'exécution.",
+        "Exécution provisoire de droit (immédiate)",
+        "Le principe est qu’on peut obtenir l’exécution d'une décision dès lors qu'elle est prononcée et notifiée et qu'elle porte mention de la formule exécutoire. C’est la règle de l’exécution provisoire de droit.",
+        "Cette règle concerne l’ensemble des jugements civils rendus en première intance (jugement du juge aux affaires familiales, du tribunal de proximité...). Elle permet de faire exécuter une décision même si les délais de recours ne sont pas expirés, et même si la partie condamnée fait un recours.",
+        "[À savoir] Le juge peut, dans sa décision, écarter totalement ou partiellement l'exécution provisoire si elle est incompatible avec la nature de l'affaire. Il peut le faire à son initiative ou à la demande d’une partie, en précisant les raisons pour lesquelles il décide d'écarter l'exécution provisoire.",
+        "Exécution quand la décision est passée en force de chose jugée",
+        "Certaines décisions ne bénéficient pas de l'exécution provisoire de droit.",
+        "Dans ce cas, la décision devient exécutoire quand elle passe en force de chose jugée, c’est-à-dire après l’expiration des délais de recours (appel, opposition), et si aucun recours n’est exercé.",
+        "Cela concerne les décisions suivantes :",
+        "• Décisions statuant sur la nationalité",
+        "• Décisions concernant la rectification ou l'annulation des actes d'état civil",
+        "• Décisions statuant sur le choix du prénom lors de la déclaration de naissance",
+        "• Décisions concernant les demandes de changement de nom ou de prénoms",
+        "• Décisions concernant les demandes en modification de sexe sur les actes d'état civil",
+        "• Décisions de déclaration d'absence d'une personne",
+        "• Décisions sur la filiation et les subsides",
+        "• Décisions concernant l'adoption",
+        "• Décisions prononçant le divorce ou la séparation de corps et de biens.",
+        "Pour toutes ces décisions, c'est la règle de l’exécution provisoire facultative qui s'applique. C’est le juge qui décide, à son initiative ou à la demande d’une partie, si la décision est exécutoire immédiatement ou pas.",
+        "Le juge doit préciser dans la décision les raisons pour lesquelles il décide d'ordonner l'exécution provisoire.",
+        "Exécution reportée par un délai de grâce",
+        "Le juge peut accorder un délai supplémentaire pour l'exécution de la décision. C'est ce qu'on appelle un délai de grâce. Il faut attendre l'expiration de ce délai pour pouvoir exiger l'exécution.",
+        "Quand le jugement doit être notifié ou signifié, le délai de grâce court à compter de la date de notification ou de signification. Dans les autres cas, il court à compter de la date du prononcé du jugement."
+      ]
+    },
+    {
+      "titre": "Est-ce que l'appel suspend l'exécution d'une décision civile ?",
+      "contenu": [
+        "Les effets de l'appel sont différents pour les décisions avec exécution provisoire et celles sans exécution provisoire.",
+        "Décision avec exécution provisoire",
+        "Avec l'exécution provisoire (de droit ou ordonnée par le juge), l'appel n'a pas d'effet suspensif : le débiteur doit exécuter la décision même s'il fait appel.",
+        "Si le débiteur fait appel et n'exécute pas la décision, il risque des sanctions. Le créancier peut notamment demander la radiation de l'appel, c'est-à-dire le retrait du dossier du registre des audiences.",
+        "En cas de radiation de l'appel, le débiteur a 2 ans pour exécuter la décision (ou consigner les sommes dues) et demander la poursuite de la procédure. Sinon, la péremption d'instance peut être constatée par le juge : le dossier est alors définitivement clôturé et un nouvel appel est impossible.",
+        "[Attention] Si la cour d'appel annule une décision déjà exécutée, il faut rembourser les sommes et/ou restituer les biens gagnés en première instance.",
+        "En cas d'appel, le débiteur peut demander au premier président de la cour d'appel de suspendre l'exécution provisoire.",
+        "[Complement] Pour obtenir la suspension de l'exécution provisoire, il faut présenter une demande de sursis à exécution en référé au premier président de la cour d'appel. La demande de suspension doit reposer sur un motif sérieux. Le débiteur doit avoir de sérieuses chances de gagner son procès en appel. Il doit également démontrer que l'exécution risque d'entrainer des conséquences manifestement excessives (destruction d'un bien, graves difficultés financières par exemple). [À savoir] En cas d'opposition, la suspension de l'exécution provisoire peut être demandée au juge qui a rendu la décision attaquée.",
+        "Décision sans exécution provisoire",
+        "L'appel a un effet suspensif pour les décisions sans exécution provisoire : l'exécution forcée est impossible pendant le délai d'appel et pendant la procédure en appel.",
+        "Le créancier qui veut que la décision soit exécutée, malgré l'appel du débiteur, peut demander au premier président de la cour d'appel d'ordonner en référé l'exécution provisoire.",
+        "Celle-ci doit être compatible avec la nature de l'affaire. Elle ne doit pas risquer d'entraîner des conséquences manifestement excessives.",
+        "[Attention] Si l'exécution provisoire a déjà été refusée dans la décision attaquée, le créancier doit en plus démontrer qu'il y a urgence."
+      ]
+    },
+    {
+      "titre": "Y a-t-il une date limite pour faire exécuter une décision civile ?",
+      "contenu": [
+        "Les décisions civiles se prescrivent dans un délai de 10 ans. Passé ce délai, l'exécution forcée n'est plus possible.",
+        "Les actes d'exécution forcée (saisie bancaire, saisie-vente d'un bien par exemple, ou simple commandement de payer) réalisés pendant le délai de 10 ans vont interrompre le délai prescription. Dans ce cas, un nouveau délai de 10 ans commence à courir à compter de cet acte d’exécution forcée.",
+        "Quand une partie est condamnée par une décision devenue exécutoire à verser une somme d’argent, un taux d’intérêt légal s’applique à cette somme. C’est une contrainte financière qui pèse sur cette personne pour l’obliger à exécuter la décision le plus rapidement possible. Si la décision n’est pas exécutée totalement dans les 2 mois à compter du jour où elle est devenue exécutoire, le taux d’intérêt légal est majoré de 5 %."
+      ]
+    },
+    {
+      "titre": "Peut-on exécuter une décision civile sans commissaire de justice ?",
+      "contenu": [
+        "Pour une exécution volontaire de la décision, les parties n'ont pas besoin de faire intervenir un commissaire de justice.",
+        "Le débiteur (celui qui a perdu) peut exécuter la décision spontanément sans attendre la réclamation du créancier ou d'un commissaire de justice.",
+        "Le créancier (celui qui a gagné) peut s'adresser directement au débiteur en vue d'une exécution amiable du jugement.",
+        "Les parties peuvent fixer amiablement les conditions d'exécution du jugement (notamment prévoir un délai, un échéancier).",
+        "[À noter] Si les parties sont représentées par des avocats, ils peuvent servir d'intermédiaires.",
+        "Si l'exécution amiable échoue, le créancier peut envisager l'exécution forcée de la décision avec un commissaire de justice."
+      ]
+    },
+    {
+      "titre": "Comment obtenir l'exécution forcée d'une décision civile ?",
+      "contenu": [
+        "L'exécution forcée nécessite une notification préalable de la décision au débiteur.",
+        "Le créancier doit être en possession d'une copie exécutoire de la décision et la remettre à un commissaire de justice afin qu'il procède à l'exécution forcée.",
+        "Notification de la décision",
+        "Notification par le greffe ou signification",
+        "Dans certaines procédures, le greffe notifie la décision aux parties. C'est le cas, par exemple, en matière prud'homale, en matière de sécurité sociale ou de fixation de pension alimentaire.",
+        "La notification par le greffe se fait par lettre recommandée avec demande d'avis de réception (LRAR).",
+        "Quand la notification n'est pas effectuée par le greffe ou en cas d'échec de la notification par le greffe (LRAR non distribuée ou non réclamée), les parties doivent procéder par voie de signification.",
+        "[Complement] Si la décision n'a pas été notifiée ou signifiée, l'acte d'exécution forcée (une saisie par exemple) n'est pas valable et peut être contesté devant le juge. Dans cette situation, la partie ne peut pas exécuter la décision si elle n’en a pas eu connaissance. Dans le cas particulier d'une décision sans exécution provisoire, l'absence de notification ou de signification retarde le moment où la décision devient exécutoire. En effet, sans notification ou signification, les recours restent possibles. De ce fait, la décision ne peut pas passer en force de chose jugée et ne devient pas exécutoire. L'exécution forcée est alors impossible. Sans exécution provisoire, une décision qui n'a jamais été notifiée, ni signifiée ne devient exécutoire qu'après un délai de 2 ans. [Attention] Quand une partie est jugée en son absence alors qu'elle n'a pas reçu sa convocation en justice, la notification ou signification doit intervenir dans les 6 mois du prononcé. Sinon, la décision est considérée non avenue (c'est-à-dire qu'elle est censée n'avoir jamais existé).",
+        "Exécution sur présentation de la minute",
+        "Le juge peut exceptionnellement permettre l'exécution de la décision au seul vu de la minute, si cela est nécessaire. Cela concerne notamment les ordonnances de référé ou ordonnances sur requête.",
+        "Dans ce cas, un original de la décision de justice est remis au bénéficiaire et la présentation de l'original à l'adversaire vaut notification.",
+        "Délivrance de la copie exécutoire de la décision",
+        "La copie exécutoire est une copie certifiée conforme sur laquelle est apposée la formule exécutoire. Sans cette copie, l'exécution forcée est impossible.",
+        "Chaque partie peut obtenir la copie exécutoire gratuitement auprès du greffe du tribunal qui a rendu la décision.",
+        "Il est possible d'obtenir une seconde copie exécutoire pour un motif légitime (par exemple, perte du document, plusieurs débiteurs).",
+        "[À savoir] Si la décision est notifiée par le greffe, la copie exécutoire doit mentionner les dates de cette notification.",
+        "Intervention du commissaire de justice",
+        "L'intervention d'un commissaire de justice est obligatoire.",
+        "Il a le monopole de l'exécution forcée des décisions exécutoires.",
+        "[Attention] Faire soi-même une exécution forcée est interdit et parfois sévèrement sanctionné. Par exemple, un propriétaire qui expulse lui-même un locataire risque jusqu'à 3 ans de prison et 30 000 € d'amende.",
+        "Le commissaire de justice a une compétence territoriale délimitée pour procéder à une exécution forcée. Il faut choisir un commissaire de justice qui exerce dans le ressort de la cour d'appel du domicile du débiteur. Par exemple, un commissaire de justice de Lille ne peut pas faire une exécution forcée auprès d’un débiteur domicilié à Marseille.",
+        "Le commissaire de justice peut récupérer l'argent que le débiteur doit en faisant saisir et vendre ses biens ou en pratiquant une saisie sur compte bancaire ou une saisie sur salaire.",
+        "C'est aussi le commissaire de justice qui procède aux expulsions locatives.",
+        "En cas de revenus insuffisants pour payer un commissaire de justice pour signifier et exécuter une décision, il est possible de bénéficier de l'aide juridictionnelle.",
+        "[Complement] Les frais de commissaire de justice pour la signification et l'exécution des décisions de justice sont des dépens (une catégorie de frais de justice). Normalement, les dépens sont à la charge de celui qui a perdu la procédure mais le juge peut en décider autrement. En cas de revenus insuffisants pour payer un commissaire de justice pour signifier et exécuter une décision, il est possible de bénéficier de l'aide juridictionnelle. [Attention] Dans le cas d'une dette, le créancier reste obligé de payer des droits de recouvrement au commissaire de justice."
+      ]
+    },
+    {
+      "titre": "Que faire en cas de difficultés d'exécution d'une décision civile ?",
+      "contenu": [
+        "En cas de difficultés d'exécution, Le juge de l'exécution peut être saisi par le débiteur ou le créancier.",
+        "Par le créancier",
+        "Quand le créancier a une décision favorable et qu’il rencontre des difficultés pour la faire exécuter, il peut saisir le juge de l’exécution.",
+        "C'est le cas lorsque que la personne condamnée n’exécute pas la décision ou que l’inexécution cause un préjudice (matériel, financier...) au créancier.",
+        "Il peut alors demander réparation de ce préjudice ou obtenir une astreinte, une mesure conservatoire, une saisie sur rémunération.",
+        "Par le débiteur",
+        "Le débiteur peut saisir le juge de l'exécution s’il conteste la mesure d'exécution forcée (par exemple, une saisie sur compte bancaire, une saisie des meubles).",
+        "Le juge de l'exécution peut suspendre l’exécution de la décision ou accorder un échelonnement de la dette pendant 2 ans au maximum.",
+        "Il peut également accorder des délais (de 1 mois à 1 an) en cas d'expulsion locative."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : article 1343-5",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032035267/"
+    },
+    {
+      "titre": "Code de procédure civile : articles 467 à 479",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070716/LEGISCTA000006149674/"
+    },
+    {
+      "titre": "Code de procédure civile : articles 502 à 508",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070716/LEGISCTA000006135889/#LEGISCTA000006135889"
+    },
+    {
+      "titre": "Code de procédure civile : articles 510 à 513",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070716/LEGISCTA000006135983/#LEGISCTA000006135983"
+    },
+    {
+      "titre": "Code de procédure civile : articles 514 à 524",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070716/LEGISCTA000006135893/"
+    },
+    {
+      "titre": "Code de procédure civile : 514-1 à 514-6",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000039485041"
+    },
+    {
+      "titre": "Code de procédure civile : 515 à 517-4",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000039485046"
+    },
+    {
+      "titre": "Code de procédure civile : articles 528 à 537",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006135894/"
+    },
+    {
+      "titre": "Code de procédure civile : articles 1079 à 1080",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006181716"
+    },
+    {
+      "titre": "Code des procédures civiles d'exécution : articles L111-1 à L111-11",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000025026751/"
+    },
+    {
+      "titre": "Code des procédures civiles d'exécution : articles L412-1 à L412-8",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000025024948/LEGISCTA000025026032"
+    },
+    {
+      "titre": "Code monétaire et financier : articles L313-2 et L313-3",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072026/LEGISCTA000006193925/"
+    },
+    {
+      "titre": "Code pénal : article 226-4-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028776961"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "execution-d-une-decision-du-juge-civil",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "affaire-civile",
+      "titre": "Affaire civile"
+    }
+  ]
+}

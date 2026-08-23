@@ -1,0 +1,110 @@
+{
+  "id": "F35266",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Diagnostic immobilier sur les bruits des aéroports",
+  "theme": "Logement",
+  "description": "Le diagnostic Bruit est un document obligatoire pour toute vente ou location d'un bien immobilier situé dans une zone dite « d'exposition au bruit d'aéroport ».",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2024-06-21",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35266",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Diagnostic immobilier",
+    "Diagnostic immobilier sur les bruits des aéroports"
+  ],
+  "introduction": "Vous souhaitez vendre ou mettre en location un bien immobilier proche d'un aéroport ? Vous devez réaliser un diagnostic Bruit des aéroports (ou état des nuisances sonores aériennes). Nous faisons le point sur la réglementation.",
+  "chapitres": [
+    {
+      "titre": "Qui doit réaliser le diagnostic Bruit des aéroports ?",
+      "contenu": [
+        "Le diagnostic Bruit (ou état des nuisances sonores aériennes) est un document qui permet d'informer le futur acquéreur ou locataire d'un bien de l'existence de nuisances sonores aériennes.",
+        "En tant que propriétaire, vous devez réaliser obligatoirement un diagnostic Bruit pour toute vente ou location de votre bien immobilier situé dans une zone dite d'exposition au bruit d'aéroport.",
+        "Pour savoir si le bien immobilier est situé dans une zone dite d'exposition au bruit des aéroports., vous devez consulter, en ligne, le plan d'exposition au bruit (PEB) :",
+        "Consulter les plans d'exposition au bruit (PEB) des aéroports",
+        "Vous pouvez également contacter la mairie pour en avoir connaissance.",
+        "Mairie",
+        "[À savoir] vous pouvez bénéficier d'une aide financière pour insonoriser votre logement si vous respectez certains critères."
+      ]
+    },
+    {
+      "titre": "Quels sont les biens concernés par le diagnostic Bruits des aéroports ?",
+      "contenu": [
+        "Les biens concernés par le diagnostic Bruit des aéroports sont les suivants :",
+        "• Immeuble d'habitation (maison...) ou mixte (professionnel et habitation)",
+        "• Terrain constructible"
+      ]
+    },
+    {
+      "titre": "Comment réaliser le diagnostic Bruit des aéroports ?",
+      "contenu": [
+        "Vous devez remplir un formulaire :",
+        "État des nuisances sonores aériennes",
+        "Notice - État des nuisances sonores aériennes",
+        "Ce document comporte les informations suivantes :",
+        "• L'indication claire et précise de la zone de bruit",
+        "• L'adresse du service d'information en ligne permettant de consulter le plan d'exposition au bruit (PEB)",
+        "• La mention de la possibilité de consulter le plan d'exposition au bruit à la mairie de la commune où est situé l'immeuble",
+        "Ce document doit être :",
+        "• Intégré au dossier de diagnostic technique (DDT) qui est annexé, selon le cas, à la promesse de vente (ou, à en son absence, à l'acte authentique de vente), au contrat de location ou annexé à ces actes si la vente porte sur un immeuble non bâti",
+        "• Ou annexé à l'acte authentique de vente et, s'il existe, au contrat préliminaire en cas de vente en l'état futur d'achèvement"
+      ]
+    },
+    {
+      "titre": "Quelles sont les sanctions possibles en cas de non-respect de l'obligation de fournir un diagnostic Bruit des aéroports ?",
+      "contenu": [
+        "Des sanctions sont prévues à l'égard du propriétaire vendeur ou bailleur et du notaire.",
+        "Pour le vendeur",
+        "Votre responsabilité peut être engagée si vous ne transmettez pas le diagnostic ou si vous mentionnez de fausses informations dans l'annonce de vente pour induire le futur acquéreur en erreur.",
+        "L'acquéreur peut faire un recours auprès du tribunal judiciaire du lieu de situation du bien pour demander :",
+        "• L'annulation de la vente",
+        "• Ou des dommages et intérêts",
+        "• Ou une réduction du prix de la vente.",
+        "Pour le bailleur",
+        "Votre responsabilité peut être engagée si vous ne transmettez pas le diagnostic ou si vous mentionnez de fausses informations dans l'annonce de location pour induire le futur locataire en erreur.",
+        "Le locataire peut faire un recours auprès du tribunal judiciaire du lieu de situation du bien pour demander des dommages et intérêts.",
+        "Pour le notaire",
+        "La responsabilité du notaire peut notamment être engagée s'il a validé la vente en l'absence du diagnostic ou en ayant connaissance d'informations mensongères induisant le futur acquéreur en erreur.",
+        "L'acquéreur peut faire un recours auprès du tribunal judiciaire du lieu de situation de l'immeuble et obtenir des dommages et intérêts."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'urbanisme : article L112-11",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039785320/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "État des nuisances sonores aériennes",
+      "url": "https://www.ecologique-solidaire.gouv.fr/sites/default/files/Modele_etat_nuisances_sonores_aeriennes.pdf",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Consulter les plans d'exposition au bruit (PEB) des aéroports",
+      "url": "https://cartes.gouv.fr/rechercher-une-donnee/dataset/DGAC_Plan_d_Exposition_au_Bruit_PEB",
+      "type": "Outil de recherche"
+    }
+  ],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Portail cartes.gouv.fr",
+      "url": "https://cartes.gouv.fr/explorer-les-cartes/"
+    }
+  ],
+  "slug": "diagnostic-immobilier-sur-les-bruits-des-aeroports",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "diagnostic-immobilier",
+      "titre": "Diagnostic immobilier"
+    }
+  ]
+}

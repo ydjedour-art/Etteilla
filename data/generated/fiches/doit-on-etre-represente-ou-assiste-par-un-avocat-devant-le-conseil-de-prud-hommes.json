@@ -1,0 +1,88 @@
+{
+  "id": "F1667",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Doit-on être représenté ou assisté par un avocat devant le conseil de prud'hommes ?",
+  "theme": "Travail - Formation",
+  "description": "Le salarié et l'employeur peuvent se défendre seuls devant le conseil de prud'hommes. Ils peuvent également être représentés par une personne habilitée.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-02-25",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1667",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Conflits du travail dans le secteur privé",
+    "Doit-on être représenté ou assisté par un avocat devant le conseil de prud'hommes ?"
+  ],
+  "introduction": "Le conseil de prud'hommes (CPH) règle les litiges individuels entre un employeur et un salarié survenus à l'occasion de tout contrat de travail. Les parties sont convoquées par le CPH à une audience. Qui peut assister ou représenter le salarié et l'employeur ? Nous vous présentons les informations à retenir.",
+  "chapitres": [
+    {
+      "titre": "La présence d'un avocat est-elle obligatoire au conseil de prud'hommes ?",
+      "contenu": [
+        "Non, la présence d'un avocat devant le conseil de prud'hommes n'est pas obligatoire. Les parties peuvent se défendre elles-mêmes."
+      ]
+    },
+    {
+      "titre": "Le salarié peut-il être assisté ou représenté au conseil de prud'hommes ?",
+      "contenu": [
+        "Oui, le salarié peut être assisté ou représenté.",
+        "Les personnes habilitées à assister ou représenter le salarié sont les suivantes :",
+        "• Salarié ou employeur appartenant à la même branche d'activité",
+        "• Défenseur syndical",
+        "• Personne avec qui le salarié vit en couple",
+        "• Père, mère ou tuteur pour un salarié mineur",
+        "• Avocat.",
+        "Le représentant doit justifier d'un document écrit lui permettant d'intervenir au nom et pour le compte du salarié durant la procédure prud'homale. Cet écrit s'appelle pouvoir spécial.",
+        "Devant le bureau de conciliation et d'orientation, cet écrit doit l'autoriser à concilier au nom et pour le compte du mandant.",
+        "Si c'est un avocat qui représente le salarié, il n'a pas besoin de ce pouvoir.",
+        "Les mineurs qui ne peuvent pas être assistés de leur père, mère ou tuteur peuvent être autorisés par le conseil de prud'hommes à se défendre seuls.",
+        "Le président et le vice-président du conseil de prud'hommes ne peuvent pas assister ou représenter le salarié.",
+        "Les conseillers prud'hommes, ne peuvent pas assister ou représenter le salarié devant le conseil de prud'hommes auquel ils appartiennent."
+      ]
+    },
+    {
+      "titre": "L'employeur peut-il être assisté ou représenté au conseil de prud'hommes ?",
+      "contenu": [
+        "Oui, l'employeur peut être assisté ou représenté.",
+        "Les personnes habilitées à assister ou représenter l'employeur sont les suivantes :",
+        "• Salarié ou employeur appartenant à la même branche d'activité",
+        "• Défenseur syndical",
+        "• Personne avec qui l'employeur vit en couple",
+        "• Avocat",
+        "• Membre de l'entreprise ou de l'établissement fondé de pouvoir ou habilité à cet effet.",
+        "Le représentant doit justifier d'un document écrit lui permettant d'intervenir au nom et pour le compte de l'employeur durant la procédure prud'homale. Cet écrit s'appelle pouvoir spécial.",
+        "Devant le bureau de conciliation et d'orientation, cet écrit doit l'autoriser à concilier au nom et pour le compte du mandant.",
+        "Si c'est un avocat qui représente l'employeur, il n'a pas besoin de ce pouvoir.",
+        "Le président et le vice-président du conseil de prud'hommes ne peuvent pas assister ou représenter l’employeur.",
+        "Les conseillers prud'hommes, ne peuvent pas assister ou représenter l’employeur devant le conseil de prud'hommes auquel ils appartiennent."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code du travail : articles L1453-1A à L1453-9",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006177899"
+    },
+    {
+      "titre": "Code du travail : articles R1453-1 à R1453-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000018484865"
+    },
+    {
+      "titre": "Circulaire du 27 mai 2016 relative à la procédure prud'homale et au traitement judiciaire du contentieux du travail",
+      "url": "https://www.legifrance.gouv.fr/download/pdf/circ?id=41065"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "doit-on-etre-represente-ou-assiste-par-un-avocat-devant-le-conseil-de-prud-hommes",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "conflits-du-travail-dans-le-secteur-prive",
+      "titre": "Conflits du travail dans le secteur privé"
+    }
+  ]
+}

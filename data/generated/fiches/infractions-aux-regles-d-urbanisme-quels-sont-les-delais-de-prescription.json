@@ -1,0 +1,102 @@
+{
+  "id": "F642",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Infractions aux règles d'urbanisme : quels sont les délais de prescription ?",
+  "theme": "Logement",
+  "description": "Construire sans permis de construire, sans déclaration préalable de travaux ou sans conformité aux règles est un délit. Des délais de prescritpion s'appliquent.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-02-25",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F642",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Autorisations d'urbanisme",
+    "Infractions aux règles d'urbanisme : quels sont les délais de prescription ?"
+  ],
+  "introduction": "Si vous avez réalisé des travaux sans autorisation d'urbanisme ou sans respecter l'autorisation obtenue, il s'agit d'un délit. La mairie ou des tiers peuvent vous poursuivre. Vous risquez des sanctions pénales, civiles et administratives tant que les délais de prescription ne sont pas terminés. Il existe 3 délais de prescriptions différents. Nous faisons le point sur la réglementation.",
+  "chapitres": [
+    {
+      "titre": "Quel est le délai de prescription pénale en urbanisme ?",
+      "contenu": [
+        "Le délai de prescription pénale est de 6 ans à partir de la date d'achèvement des travaux. Passé ce délai de 6 ans, la mairie ne peut plus vous poursuivre devant le tribunal correctionnel.",
+        "Pendant 6 ans, vous risquez une amende si vous avez réalisé des travaux sans autorisation ou sans respecter l'autorisation que vous avez obtenue. Selon le cas, elle est comprise entre 1 200 € et 300 000 € maximum. En cas de récidive, en plus de l'amende, un emprisonnement de 6 mois peut être prononcé."
+      ]
+    },
+    {
+      "titre": "Quel est le délai de prescription civile en urbanisme ?",
+      "contenu": [
+        "Le délai de prescription varie selon l'auteur du recours :",
+        "Recours de la mairie",
+        "Le délai de prescription civile de la mairie est de 10 ans à compter de l'achèvement des travaux. Passé ce délai, la mairie ne peut plus engager de recours civil.",
+        "La commune ou l'EPCI peut saisir le tribunal judiciaire en vue de faire ordonner la mise en conformité ou la démolition de la construction.",
+        "Recours des tiers",
+        "Le délai de prescription civile des tiers est de 5 ans à compter de l'achèvement des travaux. Passé ce délai, un tiers ne peut plus engager de recours civil.",
+        "Le tiers peut être un voisin, un syndicat de copropriété, l'acheteur d'une propriété voisine ou une association.",
+        "Si un tiers estime que ses intérêts sont lésés, il peut demander devant le juge judiciaire la démolition, la mise en conformité de la construction ou des dommages et intérêts.",
+        "Cela concerne les situations suivantes :",
+        "• Violation d'un droit réel (empiètement sur le terrain du tiers, violation d'une servitude conventionnelle, non respect du cahier des charges d'un lotissement)",
+        "• Trouble anormal de voisinage, tel que la privation de vue ou d'ensoleillement",
+        "• Violation d'une servitude d'urbanisme (non respect du PLU).",
+        "Pour demander la démolition de l'ouvrage devant le tribunal civil, le tiers doit d'abord avoir obtenu l'annulation de l'autorisation d'urbanisme par le tribunal administratif."
+      ]
+    },
+    {
+      "titre": "Quel est le délai de prescription administrative en urbanisme ?",
+      "contenu": [
+        "Le délai de prescription administrative est de 10 ans ou il est imprescriptible.",
+        "Il est différent pour des travaux réalisés sur un bâtiment irrégulier (édifié sans autorisation ou non conforme à la réglementation) ou pour un bâtiment construit sans autorisation d’urbanisme :",
+        "Travaux réalisés sur un bâtiment irrégulier",
+        "Le délai de prescription administrative est de 10 ans à compter de l'achèvement des travaux.",
+        "Pendant ce délai de 10 ans, la mairie peut refuser vos demandes d'autorisations d'urbanisme sur ce bâtiment au motif de l'irrégularité initiale.",
+        "Bâtiment édifié sans permis de construire",
+        "Le délai est imprescriptible pour une construction réalisée sans autorisation d’urbanisme alors qu'elle était nécessaire. La construction n'a pas d'existence légale administrative tant que la situation n'est pas régularisée administrativement.",
+        "Aussi, si vous envisagez d'effectuer des travaux sur votre construction édifiée sans autorisation, vous devez demander une autorisation pour l'ensemble du bâtiment, à la fois pour régulariser l'existant et pour réaliser votre nouveau projet.",
+        "L'autorisation d'urbanisme est accordée si l'ensemble de la construction est conforme aux règles du PLU en vigueur.",
+        "Pour les constructions anciennes (pour lesquelles une action pénale ou civile n'est plus possible), l'administration peut toutefois autoriser les travaux nécessaires à la préservation de la construction, comme la consolidation d'un mur menaçant de s'effondrer.",
+        "Si votre construction n'a pas d'existence légale administrative, elle est tout de même soumise au règlement de la taxe foncière.",
+        "Si vous avez réalisé des travaux sans autorisation ou sans respecter les prescriptions imposées par l'autorisation obtenue, la commune ou l'EPCI peut vous délivrer une amende d'un montant maximum de 30 000 €. Elle peut aussi vous mettre en demeure de déposer une demande d’autorisation pour régulariser ou mettre en conformité la construction dans un délai déterminé. La mise en demeure peut être complétée par une astreinte de 1 000 € maximum par jour de retard.",
+        "[À savoir] Vous pouvez demander à tout moment la régularisation de vos travaux réalisés sans autorisation. La mairie vérifie alors la conformité de vos travaux par rapport aux règles d'urbanisme en vigueur. Elle peut selon les cas, prendre les décisions suivantes : • Régulariser votre construction • Demander la réalisation de certains travaux pour mettre en conformité votre construction avec les règles d'urbanisme • Refuser la régularisation car elle n'est pas possible au vu des règles d'urbanisme."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de procédure pénale : article 8",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049531911"
+    },
+    {
+      "titre": "Code civil : article 2224",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000019016471"
+    },
+    {
+      "titre": "Code de l'urbanisme : article L421-9",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043978491"
+    },
+    {
+      "titre": "Code de l'urbanisme : article L480-4",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049398788"
+    },
+    {
+      "titre": "Code de l'urbanisme : article L480-14",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041411183"
+    },
+    {
+      "titre": "Code de l’urbanisme : article L481-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049398764"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "infractions-aux-regles-d-urbanisme-quels-sont-les-delais-de-prescription",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "autorisations-d-urbanisme",
+      "titre": "Autorisations d'urbanisme"
+    }
+  ]
+}

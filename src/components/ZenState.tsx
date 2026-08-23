@@ -8,7 +8,7 @@ export function ZenState({
   description: string;
 }) {
   return (
-    <div className="flex flex-col items-center gap-3 rounded-2xl bg-primary-light px-6 py-12 text-center">
+    <div className="flex flex-col items-center gap-3 rounded-2xl bg-primary/10 px-6 py-12 text-center">
       <svg
         width="32"
         height="32"

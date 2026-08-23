@@ -1,0 +1,70 @@
+{
+  "id": "F3030",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Conditions de réaffectation d'un agent public dont l'emploi est supprimé",
+  "theme": "Travail - Formation",
+  "description": "Le fonctionnaire ou le contractuel dont l'emploi est supprimé bénéficie d'un dispositif d'accompagnement pour lui permettre de retrouver un emploi.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-08-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F3030",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Carrière dans la fonction publique",
+    "Conditions de réaffectation d'un agent public dont l'emploi est supprimé"
+  ],
+  "introduction": "Vous êtes fonctionnaire ou contractuel et votre emploi est supprimé ? Vous bénéficiez d'un dispositif d'accompagnement pour vous permettre de retrouver un emploi. Le dispositif varie selon que vous êtes fonctionnaire ou contractuel en CDI ou en CDD et selon votre fonction publique d'appartenance (État - FPE, territoriale - FPT, hospitalière - FPH).",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code général de la fonction publique : article L325-41",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044426842/"
+    },
+    {
+      "titre": "Code général de la fonction publique : articles L442-1 à L442-9",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044422482/"
+    },
+    {
+      "titre": "Code général de la fonction publique : article L512-19",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044425742/"
+    },
+    {
+      "titre": "Code général de la fonction publique : articles L541-1 à L544-24",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044423207/"
+    },
+    {
+      "titre": "Code général de la fonction publique : article L714-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044424769/"
+    },
+    {
+      "titre": "Code général de la fonction publique : articles R442-1 à R442-7",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000054077272/"
+    },
+    {
+      "titre": "Code général de la fonction publique : articles R442-8 à R442-28",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000054077290/"
+    },
+    {
+      "titre": "Décret n°2020-1106 du 3 septembre 2020 relatif aux mesures d'accompagnement en cas de suppression d'emploi dans la fonction publique hospitalière",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042308416/"
+    },
+    {
+      "titre": "Arrêt du Conseil d'État n°386802 du 5 octobre 2016",
+      "url": "https://www.legifrance.gouv.fr/ceta/id/CETATEXT000033194812/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "conditions-de-reaffectation-d-un-agent-public-dont-l-emploi-est-supprime",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "carriere-dans-la-fonction-publique",
+      "titre": "Carrière dans la fonction publique"
+    }
+  ]
+}

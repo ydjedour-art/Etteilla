@@ -1,0 +1,64 @@
+{
+  "id": "F1857",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Le locataire doit-il accorder un droit de visite du logement à son propriétaire ?",
+  "theme": "Logement",
+  "description": "Dans certains cas, le locataire doit permettre au propriétaire d'accéder au logement loué avec un bail d'habitation (ou bail mobilité).",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-05-28",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1857",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Location immobilière : bail d’habitation (contrat de location)",
+    "Le locataire doit-il accorder un droit de visite du logement à son propriétaire ?"
+  ],
+  "introduction": "Dans certains cas, le locataire doit permettre au propriétaire d'avoir accès au logement loué avec un bail d'habitation ou un bail mobilité. Il ne s'agit pas d'un droit de visite à proprement parler, mais plutôt d'un droit d'accès applicable lorsque les circonstances l'exigent, et sous certaines conditions. Nous vous expliquons.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les règles diffèrent selon que le propriétaire doit faire des travaux qui relèvent de sa responsabilité, ou que le propriétaire veut mettre en vente le logement ou le remettre en location :"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 4",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000028806566/"
+    },
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 7",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038834730/"
+    },
+    {
+      "titre": "Décret n°2002-120 du 30 janvier 2002 relatif aux caractéristiques du logement décent",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000217471/"
+    },
+    {
+      "titre": "Code civil : article 1724",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028806598/"
+    },
+    {
+      "titre": "Loi n° 89-462 du 6 juillet 1989 sur les rapports locatifs : article 25-12",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042120921"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)",
+    "Maison de justice et du droit"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "le-locataire-doit-il-accorder-un-droit-de-visite-du-logement-a-son-proprietaire",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "location-immobiliere-bail-d-habitation-contrat-de-location",
+      "titre": "Location immobilière : bail d’habitation (contrat de location)"
+    }
+  ]
+}

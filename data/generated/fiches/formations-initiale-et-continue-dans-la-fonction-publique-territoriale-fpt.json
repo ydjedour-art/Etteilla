@@ -1,0 +1,88 @@
+{
+  "id": "F18460",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Formations initiale et continue dans la fonction publique territoriale (FPT)",
+  "theme": "Travail - Formation",
+  "description": "Les formations ont pour but de favoriser son intégration dans la FPT et de permettre de s'adapter et de renforcer ses compétences au cours de sa carrière.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-08-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F18460",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Formation professionnelle dans la fonction publique",
+    "Formations initiale et continue dans la fonction publique territoriale (FPT)"
+  ],
+  "introduction": "Vous vous interrogez sur le caractère obligatoire et l'objet des formations dans la fonction publique territoriale (FPT) ? Elles ont pour but de favoriser votre intégration dans la FPT et de vous permettre d'adapter et de renforcer vos compétences au cours de votre carrière. Nous vous exposons les règles à connaître selon que vous êtes fonctionnaire (titulaire) ou contractuel (non titulaire).",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code général de la fonction publique : article L115-4",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044427923/"
+    },
+    {
+      "titre": "Code général de la fonction publique : articles L421-1 à L421-8",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044422276/"
+    },
+    {
+      "titre": "Code général de la fonction publique : article L422-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044426268/"
+    },
+    {
+      "titre": "Code général de la fonction publique : articles L422-21 à L422-27",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044422358/"
+    },
+    {
+      "titre": "Code général de la fonction publique : articles L422-28 à L422-34",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044422374"
+    },
+    {
+      "titre": "Code général de la fonction publique : article L423-10",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044422420/"
+    },
+    {
+      "titre": "Code général de la fonction publique : articles R422-20 à R422-73",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000054076513/2026-08-01"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demande de dispense de formation d'intégration : catégories A et B",
+      "url": "https://www.cnfpt.fr/sites/default/files/15311-attestation-dispense-cat-aetb-v7.pdf",
+      "type": "formulaireNG"
+    },
+    {
+      "titre": "Demande de dispense de formation d'intégration : catégorie C",
+      "url": "https://www.cnfpt.fr/sites/default/files/15312-attestation-dispense-cat-c-v10.pdf",
+      "type": "formulaireNG"
+    },
+    {
+      "titre": "Demande de dispense de formation de professionnalisation au 1er emploi",
+      "url": "https://www.cnfpt.fr/sites/default/files/15363-plq-dispense-prememploiv8.pdf",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Demande de dispense de formation de professionnalisation au 1er emploi",
+      "url": "https://www.cnfpt.fr/sites/default/files/document/1739804136/dossier-demande-dispense-formation-professionnalisation.pdf",
+      "type": "formulaireNG"
+    },
+    {
+      "titre": "Demande de dispense de formation statutaire : poste à responsabilité",
+      "url": "https://www.cnfpt.fr/sites/default/files/document/1739804136/dossier-demande-dispense-formation-professionnalisation.pdf",
+      "type": "formulaireNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "formations-initiale-et-continue-dans-la-fonction-publique-territoriale-fpt",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "formation-professionnelle-dans-la-fonction-publique",
+      "titre": "Formation professionnelle dans la fonction publique"
+    }
+  ]
+}

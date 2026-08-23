@@ -1,0 +1,86 @@
+{
+  "id": "F34009",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Impôt sur le revenu - Prélèvement à la source",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "L'impôt sur le revenu est prélevé à la source, en même temps que la perception des revenus (salaire, pension par exemple). Le taux peut être modifié.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-15",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34009",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Impôt sur le revenu : calcul et paiement",
+    "Impôt sur le revenu - Prélèvement à la source"
+  ],
+  "introduction": "Vous voulez comprendre le prélèvement à la source de votre impôt sur le revenu ou signaler un changement de situation ? L'impôt est prélevé sur vos revenus d'activité ou de remplacement (salaire, pension par exemple) en même temps que vous les percevez. Mais vous pouvez demander une modification de votre taux de prélèvement si vous le souhaitez. Nous vous indiquons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code général des impôts : articles 204 A à 204 N",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000033779948"
+    },
+    {
+      "titre": "Loi n°2016-1917 du 29 décembre 2016 de finances pour 2017 : article 60",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038836271/"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-BAREME-000037 relatif au taux par défaut du prélèvement à la source",
+      "url": "https://bofip.impots.gouv.fr/bofip/11255-PGP"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-IR-DOMIC-10-20-20 relatif aux retenues à la source sur les salaires et pensions des non-résidents",
+      "url": "https://bofip.impots.gouv.fr/bofip/1055-PGP.html"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Calcul du prélèvement à la source",
+      "url": "https://www.impots.gouv.fr/calcul-du-prelevement-la-source-2018",
+      "type": "Simulateur"
+    },
+    {
+      "titre": "Impôts : accéder à votre espace Finances publiques",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "Service d'information des impôts",
+    "Service en charge des impôts (trésorerie, service des impôts...)",
+    "France Services / Maison de services au public"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Site des impôts",
+      "url": "https://www.impots.gouv.fr/portail/"
+    },
+    {
+      "titre": "Brochure pratique 2026 - Déclaration des revenus de 2025",
+      "url": "https://www.impots.gouv.fr/www2/fichiers/documentation/brochure/ir_2026/accueil.htm"
+    },
+    {
+      "titre": "Les acomptes de prélèvement à la source",
+      "url": "https://www.impots.gouv.fr/particulier/les-acomptes-de-prelevement-la-source"
+    },
+    {
+      "titre": "Grilles des taux par défaut de prélèvement à la source",
+      "url": "https://bofip.impots.gouv.fr/bofip/11255-PGP"
+    },
+    {
+      "titre": "Je suis non-résident. Comment est calculée la retenue à la source prélevée par mon employeur ou ma caisse de retraite ?",
+      "url": "https://www.impots.gouv.fr/international-particulier/questions/comment-declarer-la-retenue-la-source-prelevee-par-mon-employeur"
+    }
+  ],
+  "slug": "impot-sur-le-revenu-prelevement-a-la-source",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "impot-sur-le-revenu-calcul-et-paiement",
+      "titre": "Impôt sur le revenu : calcul et paiement"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "F2693",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Le bail (ou contrat de location) peut-il interdire les animaux dans le logement ?",
+  "theme": "Logement",
+  "description": "Il en va différemment en cas de bail d'habitation ou en cas de contrat de location d'un meublé de tourisme.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-03-06",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2693",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Location immobilière : bail d’habitation (contrat de location)",
+    "Le bail (ou contrat de location) peut-il interdire les animaux dans le logement ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Cela dépend du type de la location. Les règles sont différentes selon que le locataire fait du logement sa résidence principale (logement d’habitation) ou que le locataire occupe le logement pour un bref séjour, sans en faire sa résidence principale (meublé de tourisme).",
+        "Logement d'habitation",
+        "Lorsque le locataire utilise le logement (loué vide ou meublé) comme résidence principale, il peut détenir un ou plusieurs animaux de compagnie, à la condition de respecter la tranquillité du voisinage.",
+        "S'il détient un ou plusieurs animaux, il est alors responsable des dégâts et des troubles anormaux de voisinage causés par son ou ses animaux.",
+        "[Attention] Le propriétaire (ou l’agence immobilière) peut choisir d’indiquer dans le bail que la détention d'un chien dangereux de 1re catégorie (chien d'attaque) est interdite.",
+        "Meublé de tourisme",
+        "Le loueur peut choisir d’indiquer dans le contrat de location que la présence de tout animal dans le meublé de tourisme est interdite."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Loi n°70-598 du 9 juillet 1970 sur les rapports des bailleurs et locataires : article 10",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000025576932/"
+    },
+    {
+      "titre": "Code rural et de la pêche maritime : articles L211-11 à L211-28",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006167705/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Je suis locataire, quelles sont les règles applicables à mon animal domestique ?",
+      "url": "https://www.adil44.fr/liste-info-semaines/202513-je-suis-locataire-quelles-sont-les-regles-applicables-a-mon-animal-domestique/"
+    }
+  ],
+  "slug": "le-bail-ou-contrat-de-location-peut-il-interdire-les-animaux-dans-le-logement",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "location-immobiliere-bail-d-habitation-contrat-de-location",
+      "titre": "Location immobilière : bail d’habitation (contrat de location)"
+    }
+  ]
+}

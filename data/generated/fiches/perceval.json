@@ -1,0 +1,33 @@
+{
+  "id": "F35460",
+  "type_publication": "Recherche guidée",
+  "titre": "Perceval",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Perceval",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2020-10-14",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35460",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Moyens de paiement",
+    "Perceval"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "perceval",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "moyens-de-paiement",
+      "titre": "Moyens de paiement"
+    }
+  ]
+}

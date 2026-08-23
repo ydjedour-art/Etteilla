@@ -1,0 +1,104 @@
+{
+  "id": "F31176",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Régime matrimonial : qu'est-ce-que la communauté de meubles et acquêts ?",
+  "theme": "Famille - Scolarité",
+  "description": "Dans le régime de la communauté de meubles et acquêts, tous les biens mobiliers (argent, voiture...) sont communs.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-01-27",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31176",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Mariage",
+    "Régime matrimonial : qu'est-ce-que la communauté de meubles et acquêts ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "À qui s'applique le régime de la communauté de meubles et acquêts ?",
+      "contenu": [
+        "Le régime de la communauté de meubles et acquêts s'applique à vous si vous remplissez les 2 conditions suivantes :",
+        "• Vous vous êtes mariés après le 31 janvier 1966",
+        "• Vous avez signé un contrat de mariage (avant ou après le mariage) en choisissant ce régime.",
+        "[À savoir] Si vous êtes marié sans contrat de mariage après le 31 janvier 1966, vous relevez automatiquement du régime de la communauté réduite aux acquêts."
+      ]
+    },
+    {
+      "titre": "Quelles sont les règles de la communauté de meubles et acquêts ?",
+      "contenu": [
+        "Les règles varient selon que vos biens sont mobiliers ou immobiliers.",
+        "Biens mobiliers",
+        "Vos biens mobiliers vous appartiennent à tous les 2, quels que soient leur date et leur moyen d'acquisition.",
+        "C'est le cas pour ceux que vous avez acquis avant votre mariage.",
+        "C'est aussi le cas pour ceux que vous avez acquis par succession ou donation (sauf volonté contraire du testateur ou du donateur).",
+        "Les revenus sont des biens communs.",
+        "Certains éléments constituent toutefois des biens propres, notamment les suivants :",
+        "• Vêtements personnels",
+        "• Certaines créances et pensions, telles que pensions alimentaires ou d'invalidité",
+        "• Indemnité réparant un préjudice corporel ou moral subi par un époux",
+        "• Certains biens professionnels nécessaires à l'activité de l'un des époux.",
+        "Gains et salaires",
+        "Chacun de vous 2 gère et dispose seul de ses gains et salaires.",
+        "Cette règle s’applique quel que soit le régime matrimonial des époux, dès lors que chacun acquitte sa part des charges du mariage,",
+        "Si vous êtes marié sans contrat, vos gains et salaires sont toutefois considérés comme des biens communs.",
+        "Les biens acquis avec des gains et salaires sont communs, de même que l’argent économisé par un époux.",
+        "Cette règle peut avoir des conséquences, par exemple en cas de séparation ou si un époux veut donner un bien sans l’accord de l’autre époux.",
+        "Biens immobiliers",
+        "Les biens immobiliers possédés par chacun de vous avant le mariage restent la propriété personnelle de l'époux concerné.",
+        "Les biens immobiliers acquis pendant le mariage sont communs.",
+        "Toutefois, les biens immobiliers reçus par succession ou donation pendant le mariage restent la propriété personnelle de l'époux concerné (sauf volonté contraire du testateur ou du donateur).",
+        "Si l'un de ces biens est vendu pour racheter un autre bien, celui-ci reste la propriété personnelle de l'époux concerné."
+      ]
+    },
+    {
+      "titre": "Quelles sont les conséquences du régime de la communauté des meubles et acquêts quand le mariage cesse ?",
+      "contenu": [
+        "Le mariage cesse dans les cas suivants :",
+        "• Divorce",
+        "• Décès.",
+        "Les biens sont partagés en fonction des règles prévues par votre régime matrimonial.",
+        "On parle de la liquidation du régime matrimonial.",
+        "Chacun récupère ses biens propres et sa part des biens communs.",
+        "[À savoir] En cas de décès de votre époux, vous avez droit à une partie de ses biens. Votre part dans la succession dépend notamment des dispositions éventuellement prises par le défunt (testament) et de la présence ou non d'enfants (nés de votre couple ou d'une autre union)."
+      ]
+    },
+    {
+      "titre": "Un époux peut-il être déchu des avantages que lui donne le régime de la communauté des meubles et acquêts ?",
+      "contenu": [
+        "Un époux peut être déchu des avantages que lui donne le régime matrimonial s’il a été condamné pour certains actes graves.",
+        "Un époux est automatiquement déchu des avantages que lui donnent le régime matrimonial s’il a été condamné (comme auteur ou complice) pour l’un des actes suivants :",
+        "• Avoir volontairement donné ou tenté de donner la mort à son époux",
+        "• Avoir volontairement commis des violences ayant entraîné la mort de son époux sans intention de la donner.",
+        "L'époux peut aussi être déchu des avantages liés à son régime matrimonial s'il a été condamné pour l’un des faits suivants :",
+        "• Tortures, actes de barbarie, violences volontaires, viol ou agression sexuelle envers son époux",
+        "• Témoignage mensonger porté contre son époux dans une procédure criminelle",
+        "• Abstention volontaire d'empêcher un crime ou un délit contre l'intégrité corporelle de son époux qui en est décédé",
+        "• Dénonciation calomnieuse contre son époux concernant des faits criminels.",
+        "[À savoir] La déchéance doit être prononcée par le tribunal judiciaire."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : articles 1498 à 1501",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006165613/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Notaire"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "regime-matrimonial-qu-est-ce-que-la-communaute-de-meubles-et-acquets",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "mariage",
+      "titre": "Mariage"
+    }
+  ]
+}

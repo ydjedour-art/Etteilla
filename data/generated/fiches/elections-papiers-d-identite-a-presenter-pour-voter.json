@@ -1,0 +1,57 @@
+{
+  "id": "F1361",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Élections : papiers d'identité à présenter pour voter",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Pour voter, vous devez prouver votre identité. Les documents à présenter sont différents selon que vous votez en France ou depuis l'étranger.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-03-18",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1361",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Élections",
+    "Élections : papiers d'identité à présenter pour voter"
+  ],
+  "introduction": "Pour voter, vous devez prouver votre identité. Les documents à présenter sont différents selon que vous votez en France ou depuis l'étranger.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code électoral : articles R42 à R71",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070239/LEGISCTA000006164050/#LEGIARTI000043098416"
+    },
+    {
+      "titre": "Arrêté du 16 novembre 2018 relatif aux justificatifs d'identité et de domicile pour s'inscrire et pour voter en mairie",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000037627369/"
+    },
+    {
+      "titre": "Arrêté du 20 juillet 2007 sur les listes électorales consulaires et les opérations électorales à l'étranger",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006056678/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Vérifier votre inscription électorale et votre bureau de vote",
+      "url": "https://situation.elections.interieur.gouv.fr/",
+      "type": "selNG"
+    },
+    {
+      "titre": "Nouvelle-Calédonie : vérifier son inscription sur la liste électorale et son bureau de vote",
+      "url": "https://electeur-nc.fr/",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "elections-papiers-d-identite-a-presenter-pour-voter",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "elections",
+      "titre": "Élections"
+    }
+  ]
+}

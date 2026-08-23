@@ -1,0 +1,83 @@
+{
+  "id": "F33950",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Lunettes et lentilles",
+  "theme": "Social - Santé",
+  "description": "Le remboursement et le renouvellement des lunettes de vue ou des lentilles de contact varient en fonction de votre âge et du degré de correction.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-03-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33950",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Remboursement des soins par la Sécurité sociale",
+    "Lunettes et lentilles"
+  ],
+  "introduction": "La prise en charge des lunettes de vue ou des lentilles de contact varie en fonction de votre âge et de votre degré de correction. Si vous cassez ou perdez vos lunettes ou si votre vue change, vous pouvez renouveler vos lunettes ou lentilles auprès d'un opticien (dans le respect de la durée de validité de l'ordonnance) ou, à certaines conditions, auprès d'un orthoptiste. Les verres teintés peuvent être pris en charge dans certains cas. Nous vous exposons les règles à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de la sécurité sociale : articles L165-1 à L165-13",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006185864"
+    },
+    {
+      "titre": "Code de la santé publique : articles R4342-1 à R4342-8-3",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006190633"
+    },
+    {
+      "titre": "Code de la santé publique : articles R4362-11 à D4362-13",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000030917564"
+    },
+    {
+      "titre": "Arrêté du 26 juin 2003 relatif à la codification de la liste des produits et prestations remboursables par la Sécurité sociale",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000241815"
+    },
+    {
+      "titre": "Arrêté du 1er mars 2021 « Réalisation d'un bilan visuel par un orthoptiste dans le cadre du renouvellement/adaptation des corrections optiques chez les enfants de 6 à 15 ans »",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043261479"
+    },
+    {
+      "titre": "Arrêté du 25 janvier 2023 fixant la liste des contre-indications pour la prescription de verres correcteurs et le bilan visuel réalisés par un orthoptiste",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000047074754/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Lunettes et lentilles : quelle prise en charge ?",
+      "url": "https://www.ameli.fr/assure/remboursements/rembourse/optique-audition/lunettes-lentilles"
+    },
+    {
+      "titre": "La réforme 100% Santé optique",
+      "url": "https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/les-nouvelles-mesures-optique/article/la-reforme-100-sante-optique"
+    },
+    {
+      "titre": "Cas d'opposition de l'ophtalmologiste au renouvellement par l'opticien",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000033312941"
+    },
+    {
+      "titre": "Liste des produits et prestations (LPP)",
+      "url": "https://www.ameli.fr/medecin/exercice-liberal/remuneration/nomenclatures-codage/liste-produits-prestations-lpp"
+    },
+    {
+      "titre": "Contre-indications pour la prescription de verres et bilan visuel par un orthoptiste",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047074754"
+    },
+    {
+      "titre": "100 % santé",
+      "url": "https://sante.gouv.fr/IMG/pdf/100_sante-des_soins_pour_tous_100_pris_en_charge.pdf"
+    }
+  ],
+  "slug": "lunettes-et-lentilles",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "remboursement-des-soins-par-la-securite-sociale",
+      "titre": "Remboursement des soins par la Sécurité sociale"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": "F263",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Impôts locaux : qui doit payer la taxe foncière en cas d'indivision ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "La taxe foncière d'un bien en indivision doit être payée par les indivisaires, proportionnellement à la part de chacun dans l'indivision.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-09-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F263",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Impôts locaux",
+    "Impôts locaux : qui doit payer la taxe foncière en cas d'indivision ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "Comment la taxe foncière est-elle établie en cas d’indivision ?",
+      "contenu": [
+        "Lorsqu'un immeuble est en indivision, l'imposition à la taxe foncière est établie au nom des indivisaires.",
+        "En présence de 2 ou 3 indivisaires, l'avis d'imposition est établi avec les noms de chacun d'eux.",
+        "S'ils sont plus nombreux, l'avis est établi au nom de l'indivisaire qui a la part la plus importante, suivi de l'une des mentions suivantes :",
+        "• Et consorts",
+        "• Et copropriétaires.",
+        "L'administration fiscale n'établit pas d'imposition personnalisée pour chaque indivisaire.",
+        "Chaque indivisaire doit payer sa part de la taxe foncière, en fonction de sa part dans l'indivision.",
+        "Les indivisaires ne sont pas solidaires face à cette dette. Il n'est pas possible d'exiger de l'un d'eux le paiement de la totalité de la taxe.",
+        "[À noter] Si les indivisaires n'arrivent pas à se mettre d'accord sur la répartition de la taxe, ils doivent saisir la justice."
+      ]
+    },
+    {
+      "titre": "Que se passe-t-il en cas d'indivision successorale ?",
+      "contenu": [
+        "La taxe foncière est établie au nom de l'ancien propriétaire décédé représenté collectivement par sa succession.",
+        "La taxe foncière due pour l'année du décès est une dette de la succession qui doit être réglée par le ou les héritiers.",
+        "S'il y a plusieurs héritiers, le bien est automatiquement placé en indivision depuis le jour du décès.",
+        "Chaque héritier doit payer sa part de la taxe foncière, en fonction de sa part dans l'indivision. Si un héritier paie la totalité de la taxe foncière, il pourra demander le remboursement de leur part aux autres héritiers.",
+        "[À noter] Si la personne décédée laisse un conjoint survivant qui reçoit l'usufruit du bien, c'est en principe l'usufruitier qui paie la taxe foncière.",
+        "Le notaire qui règle la succession peut payer la totalité de la taxe foncière, avec l'accord de chacun des héritiers, et si les héritiers l'autorisent à prélever sur l'argent disponible de la succession.",
+        "L'avis de taxe foncière sera adressé au nouveau propriétaire, une fois que les formalités suivantes auront été effectuées :",
+        "• Publication du changement de propriétaire auprès du service de publicité foncière",
+        "• Enregistrement par les services du cadastre.",
+        "En pratique, c'est le notaire qui se charge de ces formalités au moment de la signature de l'attestation de propriété immobilière.",
+        "Notaire"
+      ]
+    },
+    {
+      "titre": "Que se passe-t-il en présence d'un usufruitier ?",
+      "contenu": [
+        "Quand le bien appartient à la fois à un usufruitier et à un ou plusieurs nus-propriétaires, on parle de démembrement de la propriété. La taxe foncière est alors établie au nom de l'usufruitier.",
+        "Après une donation ou après un décès, il est possible que la propriété d’un bien immobilier soit répartie entre l'usufruitier et un ou plusieurs nus-propriétaires.",
+        "C'est le cas par exemple si la personne décédée était mariée et qu'elle laisse un conjoint survivant avec qui elle avait eu des enfants. S'il n'y a pas d'autres enfants d'une autre union, le conjoint survivant peut choisir de recevoir l'usufruit du bien. Ses enfants deviennent alors chacun nus-propriétaires pour partie. La répartition de la propriété du bien est constatée dans l’attestation de propriété immobilière signée chez le notaire.",
+        "L'usufruitier a l'usage du bien et en reçoit les revenus s'il est loué. C'est normalement l'usufruitier qui paie la taxe foncière.",
+        "Cependant, l’usufruitier et les nus-propriétaires peuvent trouver entre eux un accord différent.",
+        "[À noter] Dans certains cas, et sous conditions de ressources, le conjoint survivant (usufruitier) peut bénéficier d'une exonération de la taxe foncière pour sa résidence principale. Notamment s'il perçoit l'allocation de solidarité aux personnes âgées (Aspa) ou l'allocation supplémentaire d'invalidité (Asi) ou s'il a plus de 75 ans au 1er janvier de l'année d'imposition."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Bofip-Impôts n°BOI-IF-TFB-10-20-10 relatif à l'imposition des propriétaires à la taxe foncière",
+      "url": "http://bofip.impots.gouv.fr/bofip/3895-PGP"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Service d'information des impôts",
+    "Service en charge des impôts (trésorerie, service des impôts...)",
+    "Notaire"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Site des impôts",
+      "url": "https://www.impots.gouv.fr/portail/"
+    },
+    {
+      "titre": "Brochure pratique - Impôts locaux 2025",
+      "url": "https://www.impots.gouv.fr/www2/fichiers/documentation/brochure/idl/idl_2025.pdf"
+    }
+  ],
+  "slug": "impots-locaux-qui-doit-payer-la-taxe-fonciere-en-cas-d-indivision",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "impots-locaux",
+      "titre": "Impôts locaux"
+    }
+  ]
+}

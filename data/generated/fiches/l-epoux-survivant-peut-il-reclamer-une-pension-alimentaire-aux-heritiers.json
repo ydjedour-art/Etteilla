@@ -1,0 +1,77 @@
+{
+  "id": "F322",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "L'époux survivant peut-il réclamer une pension alimentaire aux héritiers ?",
+  "theme": "Famille - Scolarité",
+  "description": "La personne doit, au moment du décès, être mariée avec le défunt et être dans le besoin pour demander une pension alimentaire aux héritiers de la succession.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-01-20",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F322",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Héritage : ordre et droits des héritiers",
+    "L'époux survivant peut-il réclamer une pension alimentaire aux héritiers ?"
+  ],
+  "introduction": "Si votre époux ou épouse décède et que vous êtes dans le besoin, vous pouvez, sous conditions, demander une pension alimentaire aux héritiers de sa succession. Si ces derniers refusent de vous l'attribuer, vous pouvez saisir le tribunal judiciaire. La pension alimentaire est prélevée sur la succession du défunt.",
+  "chapitres": [
+    {
+      "titre": "Quelles sont les conditions pour que l'époux survivant obtienne une pension alimentaire des héritiers ?",
+      "contenu": [
+        "Vous devez remplir les 3 conditions suivantes :",
+        "• Être marié avec le défunt au moment du décès (ou séparé de corps, mais pas divorcé)",
+        "• Être dans le besoin au moment du décès",
+        "• Apporter la preuve de votre situation financière.",
+        "Le besoin financier ne correspond pas au maintien de votre niveau de vie. Vous devez justifier de réelles difficultés financières.",
+        "[À savoir] si le besoin financier intervient après le décès, vous ne pouvez pas obtenir une pension alimentaire."
+      ]
+    },
+    {
+      "titre": "Comment l'époux survivant doit-il faire pour obtenir une pension alimentaire des héritiers ?",
+      "contenu": [
+        "La pension alimentaire est prélevée sur la succession. Elle est due par tous les héritiers en dehors de leurs biens personnels.",
+        "Vous devez donc réclamer la pension alimentaire aux héritiers du défunt.",
+        "La pension alimentaire peut être :",
+        "• Réévaluée périodiquement",
+        "• Révisée, si vos ressources varient à la hausse comme à la baisse",
+        "• Supprimée, si l'état du besoin n'existe plus."
+      ]
+    },
+    {
+      "titre": "Dans quels délais l'époux survivant peut-il demander une pension alimentaire aux héritiers ?",
+      "contenu": [
+        "Le délai pour demander la pension est d'1 an à partir de la date du décès.",
+        "Si les héritiers arrêtent de vous verser la pension alimentaire, la demande de reprise du versement doit se faire dans le délai d'1 an à partir de l'interruption.",
+        "En cas d'indivision avec les héritiers, le délai se prolonge jusqu'à ce que les biens de la succession soient partagés."
+      ]
+    },
+    {
+      "titre": "Quel recours a l'époux survivant si les héritiers refusent de lui verser une pension alimentaire ?",
+      "contenu": [
+        "Vous pouvez saisir le tribunal judiciaire de votre lieu de résidence. Le tribunal décidera de vous attribuer ou non une pension et en fixera le montant.",
+        "Vous n'êtes pas obligé de prendre un avocat.",
+        "Tribunal judiciaire ou tribunal de proximité"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : article 767",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020616249"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "l-epoux-survivant-peut-il-reclamer-une-pension-alimentaire-aux-heritiers",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "heritage-ordre-et-droits-des-heritiers",
+      "titre": "Héritage : ordre et droits des héritiers"
+    }
+  ]
+}

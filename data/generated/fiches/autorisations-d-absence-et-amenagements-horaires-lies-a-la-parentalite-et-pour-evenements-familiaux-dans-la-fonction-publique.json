@@ -1,0 +1,58 @@
+{
+  "id": "F39774",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Autorisations d'absence et aménagements horaires liés à la parentalité et pour évènements familiaux dans la fonction publique",
+  "theme": "Travail - Formation",
+  "description": "Les agents publics peuvent bénéficier d'autorisations spéciales d'absence et d'aménagements horaires liées à la parentalité et à certains évènements familiaux.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-07-09",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F39774",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Congés dans la fonction publique",
+    "Autorisations d'absence et aménagements horaires liés à la parentalité et pour évènements familiaux dans la fonction publique"
+  ],
+  "introduction": "Les fonctionnaires et les agents contractuels bénéficient d'autorisations spéciales d'absence liées à la parentalité et à certains évènements familiaux. Ils peuvent aussi bénéficier d'aménagements horaires pour ces mêmes motifs. Nous vous détaillons leurs conditions d’attribution.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "[Attention] Les dispositions décrites à cette page sont applicables à partir du 1er janvier 2027. Jusqu’au 31 décembre 2026, ce sont les dispositions décrites aux pages suivantes qui s’appliquent : • Autorisation d'absence pour garde d'enfant ou enfant malade • Décès d'un proche • Mariage ou Pacs • Autorisations d’absence en cas de grossesse ou d’assistance médicale à la procréation • Un agent public a-t-il droit à un congé pour déménagement ?."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général de la fonction publique : articles L622-1 à L622-7",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044423603/"
+    },
+    {
+      "titre": "Décret n°2026-604 du 6 juillet 2026 relatif aux autorisations spéciales d'absence et aux aménagements horaires liés à la parentalité et à certains évènements familiaux dans la fonction publique et la magistrature",
+      "url": "https://www.legifrance.gouv.fr/ioda/id/JORFTEXT000054399653"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Autorisations spéciales d’absence : Le point sur vos droits",
+      "url": "https://www.fonction-publique.gouv.fr/files/files/publications/publications-dgafp/livret_ASA.pdf"
+    },
+    {
+      "titre": "Portail des maladies rares et des médicaments orphelins",
+      "url": "https://www.orpha.net/consor/cgi-bin/Disease_Search.php?lng=FR&search=Disease_Search_List"
+    }
+  ],
+  "slug": "autorisations-d-absence-et-amenagements-horaires-lies-a-la-parentalite-et-pour-evenements-familiaux-dans-la-fonction-publique",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "conges-dans-la-fonction-publique",
+      "titre": "Congés dans la fonction publique"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "F1880",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Représentants de parents d'élèves à l'école primaire (maternelle et élémentaire)",
+  "theme": "Famille - Scolarité",
+  "description": "Le rôle des représentants des parents d'élèves consiste à faciliter les relations entre les parents d'élèves, les professeurs et la direction.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2024-07-04",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1880",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "École primaire (maternelle et élémentaire)",
+    "Représentants de parents d'élèves à l'école primaire (maternelle et élémentaire)"
+  ],
+  "introduction": "Votre enfant est à l'école primaire (maternelle et élémentaire) et vous vous souhaitez savoir quelles sont les fonctions des représentants des parents d'élèves dans son établissement ? Candidature, élection, rôle, durée du mandat : voici les informations à connaître sur les représentants des parents d'élèves dans l'enseignement primaire.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de l'éducation : articles D111-1 à D111-5",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006182457"
+    },
+    {
+      "titre": "Arrêté du 13 mai 1985 relatif au conseil d'école",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000019266475/"
+    },
+    {
+      "titre": "Circulaire n°2006-137 du 25 août 2006 relative au rôle et à la place des parents à l'école",
+      "url": "https://www.legifrance.gouv.fr/circulaire/id/324"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Rectorat"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Guide pratique des rythmes à l'école primaire",
+      "url": "https://cache.media.education.gouv.fr/file/02_Fevrier/52/9/2013_rythmesco_guidel_elus_bdef_240529.pdf"
+    },
+    {
+      "titre": "Les parents d'élèves",
+      "url": "https://www.education.gouv.fr/les-parents-d-eleves-11834"
+    },
+    {
+      "titre": "La représentation des parents d'élèves",
+      "url": "https://eduscol.education.fr/2259/la-representation-des-parents-d-eleves"
+    }
+  ],
+  "slug": "representants-de-parents-d-eleves-a-l-ecole-primaire-maternelle-et-elementaire",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "ecole-primaire-maternelle-et-elementaire",
+      "titre": "École primaire (maternelle et élémentaire)"
+    }
+  ]
+}

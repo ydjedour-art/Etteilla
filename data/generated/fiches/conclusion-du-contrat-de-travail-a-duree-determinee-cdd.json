@@ -1,0 +1,148 @@
+{
+  "id": "F36",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Conclusion du contrat de travail à durée déterminée (CDD)",
+  "theme": "Travail - Formation",
+  "description": "Le contrat de travail à durée déterminée (CDD) doit être établi par écrit et comporter un certain nombre de mentions obligatoires.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2021-03-19",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F36",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Contrats de travail dans le secteur privé",
+    "Conclusion du contrat de travail à durée déterminée (CDD)"
+  ],
+  "introduction": "Le contrat de travail à durée déterminée (CDD) doit être établi par écrit et comporter un certain nombre de mentions obligatoires. Il doit être transmis au salarié dans les 2 jours qui suivent l'embauche. Le non-respect de ce délai n'entraîne pas, à lui seul, la requalification du CDD en CDI, mais ouvre droit pour le salarié à une indemnité.",
+  "chapitres": [
+    {
+      "titre": "Forme et signature du contrat",
+      "contenu": [
+        "Le CDD doit obligatoirement être écrit, rédigé en français et signé par le salarié.",
+        "L'absence d'une ou plusieurs de ces conditions entraîne la requalification par un juge du CDD en CDI.",
+        "[À savoir] si le salarié est un mineur non émancipé, l'autorisation du représentant légal est nécessaire.",
+        "Le site du Code du travail numérique propose un modèle de contrat :",
+        "Modèle de contrat de travail à durée déterminée (CDD) d’un salarié"
+      ]
+    },
+    {
+      "titre": "Motif",
+      "contenu": [
+        "Le CDD doit comporter l'indication précise de son motif. Il s'agit un des motifs suivants :",
+        "• Remplacement d'un salarié",
+        "• Accroissement temporaire d'activité",
+        "• Emploi à caractère saisonnier",
+        "L'absence d'une définition précise du motif du CDD entraîne sa requalification par un juge en CDI.",
+        "[Attention] les cas de recours au CDD sont limités."
+      ]
+    },
+    {
+      "titre": "Durée",
+      "contenu": [
+        "Le contrat de travail doit apporter les mentions suivantes sur la durée du contrat :",
+        "• Date de fin du contrat",
+        "• Clause de renouvellement si le CDD est amené à être prolongé",
+        "• Durée minimale si le contrat ne comporte pas de terme précis",
+        "• Durée de la période d'essai",
+        "[À noter] la mention de la durée hebdomadaire du travail est obligatoire si le salarié travaille à temps partiel.",
+        "Durée maximale autorisée du CDD",
+        "Type de CDD",
+        "Durée maximale",
+        "Cas général",
+        "18 mois",
+        "Contrat de travail conclu en remplacement d'un salarié absent ou dont le contrat de travail est suspendu",
+        "Fin de l'absence du salarié remplacé. Le CDD peut prendre fin jusqu'au surlendemain du jour de reprise du salarié remplacé et dans la limite de 18 mois.",
+        "Contrat de travail conclu en remplacement d'un chef d'entreprise artisanale, industrielle ou commerciale, d'une personne exerçant une activité libérale",
+        "Fin de l'absence. Le CDD peut prendre fin jusqu'au surlendemain du jour de reprise du salarié remplacé et dans la limite de 18 mois.",
+        "Contrat conclu dans l'attente d'un salarié recruté en CDI",
+        "9 mois",
+        "Contrat conclu dans le cadre du départ définitif d'un salarié avant la suppression de son poste",
+        "24 mois",
+        "Contrat en cas d'accroissement temporaire d'activité de l'entreprise",
+        "18 mois",
+        "Contrat conclu dans le cadre d'une commande exceptionnelle à l'exportation",
+        "24 mois",
+        "Contrat conclu dans le cadre de travaux urgents nécessités par des mesures de sécurité",
+        "9 mois",
+        "Contrat conclu dans le cadre d'un emploi à caractère saisonnier",
+        "Fin de la saison",
+        "Contrat exécuté à l'étranger",
+        "Réalisation de l'objet du contrat et dans la limite de 24 mois.",
+        "Contrat en vue de favoriser l'embauche de personnes sans emploi (CUI-CIE et CUI-CAE)",
+        "Durée fixée par la loi ou le règlement pour chaque type de contrat",
+        "Contrat en vue d'assurer un complément de formation professionnelle",
+        "Durée fixée par la loi ou le règlement pour chaque type de contrat",
+        "Contrat conclu dans le cadre d'un emploi pour lequel il n'est pas d'usage de recourir au CDI",
+        "18 mois"
+      ]
+    },
+    {
+      "titre": "Poste occupé",
+      "contenu": [
+        "Le contrat de travail doit apporter les mentions suivantes sur le poste occupé par le salarié :",
+        "• Désignation du poste de travail",
+        "• Nom et qualification professionnelle du salarié remplacé s'il s'agit d'un remplacement"
+      ]
+    },
+    {
+      "titre": "Rémunération",
+      "contenu": [
+        "Le détail de la rémunération doit figurer au contrat :",
+        "• Montant (qui ne peut pas être inférieur à celui que percevrait un autre salarié de l'entreprise en CDI, à qualification et poste équivalents)",
+        "• Composition (primes, majorations, indemnités, avantages en nature, etc.)"
+      ]
+    },
+    {
+      "titre": "Droits collectifs",
+      "contenu": [
+        "Certains droits collectifs applicables au salarié doivent être précisés au contrat :",
+        "• Intitulé de la convention collective applicable",
+        "• Nom et adresse de la caisse de retraite complémentaire",
+        "• Nom et adresse de l'organisme de prévoyance si l'entreprise est affiliée",
+        "• Intitulé et références de l'accord collectif qui institue le contrat, s'il s'agit d'un CDD à objet défini"
+      ]
+    },
+    {
+      "titre": "Remise au salarié",
+      "contenu": [
+        "Le contrat de travail doit être transmis au salarié au plus tard dans les 2 jours ouvrables suivant l'embauche.",
+        "Le non-respect de ce délai de transmission n’entraîne pas, à lui seul, la requalification du CDD en CDI.",
+        "Mais, en l'absence de respect de cette disposition, le salarié a droit à une indemnité, à la charge de l'employeur, égale, au maximum, à un mois de salaire."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code du travail : articles L1242-7 à L1242-9",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006189453"
+    },
+    {
+      "titre": "Code du travail : articles L1242-12 à L1242-13",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000006189455/#LEGISCTA000006189455"
+    },
+    {
+      "titre": "Code du travail : articles L1245-1 à L1245-2",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006177869"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Modèle de contrat de travail à durée déterminée (CDD) d’un salarié",
+      "url": "https://code.travail.gouv.fr/modeles-de-courriers/contrat-de-travail-a-duree-determinee-cdd?src_url=https://service-public.gouv.fr/particuliers/vosdroits/F36",
+      "type": "lettreTypeNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "conclusion-du-contrat-de-travail-a-duree-determinee-cdd",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "contrats-de-travail-dans-le-secteur-prive",
+      "titre": "Contrats de travail dans le secteur privé"
+    }
+  ]
+}

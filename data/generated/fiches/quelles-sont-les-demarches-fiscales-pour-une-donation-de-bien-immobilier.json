@@ -1,0 +1,78 @@
+{
+  "id": "F35708",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quelles sont les démarches fiscales pour une donation de bien immobilier ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "En cas de donation d'un bien immobilier, vous devez payer des droits de donation. Votre situation fiscale dépend de votre domicile et de celui du donateur.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-08-05",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35708",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Droits de succession et de donation",
+    "Quelles sont les démarches fiscales pour une donation de bien immobilier ?"
+  ],
+  "introduction": "Si vous recevez un bien immobilier par donation, vous devez payer des droits de donation. Votre situation fiscale dépend du domicile du donateur. Des exonérations existent dans certains cas. Nous vous indiquons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code général des impôts : article 750 ter",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006197407/"
+    },
+    {
+      "titre": "Code général des impôts : article 795 A",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042654712"
+    },
+    {
+      "titre": "BOFIP-Impôts n° BOI-ENR-DMTG-20 relatif au régime fiscal des donations",
+      "url": "https://bofip.impots.gouv.fr/bofip/2691-PGP"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-ENR-DMTG-20-20-20 relatif aux exonérations de droits de donation",
+      "url": "http://bofip.impots.gouv.fr/bofip/3362-PGP"
+    },
+    {
+      "titre": "Bofip-Impôts n° BOI-ENR-DMTG-10-20-30-50 sur les exonérations en raison de la nature des biens transmis",
+      "url": "https://bofip.impots.gouv.fr/bofip/2327-PGP"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Service d'information des impôts",
+    "Notaire"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Je fais une donation ou je reçois un don",
+      "url": "https://www.impots.gouv.fr/particulier/je-fais-une-donation"
+    },
+    {
+      "titre": "Monument historique",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042654712"
+    },
+    {
+      "titre": "Bois et forêts",
+      "url": "https://bofip.impots.gouv.fr/bofip/2314-PGP.html/identifiant=BOI-ENR-DMTG-10-20-30-50-20140318"
+    },
+    {
+      "titre": "Logement acquis neuf entre juin 1993 et décembre 1994",
+      "url": "https://bofip.impots.gouv.fr/bofip/3391-PGP.html/identifiant=BOI-ENR-DMTG-10-20-30-90-20190502"
+    },
+    {
+      "titre": "Logement locatif acquis entre août 1995 et décembre 1996",
+      "url": "https://bofip.impots.gouv.fr/bofip/3336-PGP.html/identifiant=BOI-ENR-DMTG-10-20-30-110-20190502"
+    }
+  ],
+  "slug": "quelles-sont-les-demarches-fiscales-pour-une-donation-de-bien-immobilier",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "droits-de-succession-et-de-donation",
+      "titre": "Droits de succession et de donation"
+    }
+  ]
+}

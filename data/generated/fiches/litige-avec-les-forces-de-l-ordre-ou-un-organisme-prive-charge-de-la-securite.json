@@ -1,0 +1,69 @@
+{
+  "id": "F2546",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Litige avec les forces de l'ordre ou un organisme privé chargé de la sécurité",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "En cas de problème avec les forces de l'ordre ou des agents de sécurité privés, vous pouvez alerter les autorités publiques.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-08-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2546",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Litiges avec l'administration : recours administratif, défenseur des droits",
+    "Litige avec les forces de l'ordre ou un organisme privé chargé de la sécurité"
+  ],
+  "introduction": "Vous avez un litige avec les forces de l'ordre (police nationale, police municipale, gendarmerie) ou un organisme privé chargé de la sécurité ? Vous pouvez saisir le Défenseur des droits. Vous pouvez aussi saisir l'organisme de contrôle responsable de la personne qui a commis le litige (selon le cas, l'Inspection générale de la police nationale, l'Inspection générale de la gendarmerie nationale ou le maire). Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Loi organique n°2011-333 du 29 mars 2011 relative au Défenseur des droits",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000023781167/"
+    },
+    {
+      "titre": "Décret n° 2013-784 du 28 août 2013 relatif aux missions et à l'organisation de l'inspection générale de la police nationale",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000027910239"
+    },
+    {
+      "titre": "Décret n° 2023-679 du 28 juillet 2023 relatif à l'inspection générale de la gendarmerie nationale et modifiant le code de la défense",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047901665"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Saisir en ligne le Défenseur des droits",
+      "url": "https://formulaire.defenseurdesdroits.fr/formulaire_saisine/",
+      "type": "selNG"
+    },
+    {
+      "titre": "Signaler le comportement d’un agent à l’Inspection générale de la police nationale (IGPN)",
+      "url": "https://www.signalement-igpn.fsi.interieur.gouv.fr/",
+      "type": "selNG"
+    },
+    {
+      "titre": "Signaler le comportement d’un agent à l’Inspection générale de la gendarmerie nationale (IGGN)",
+      "url": "https://www.gendarmerie.interieur.gouv.fr/contact/reclamation-aupres-de-l-inspection-generale-de-la-gendarmerie-nationale-iggn",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "Défenseur des droits"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Site du Défenseur des droits",
+      "url": "https://defenseurdesdroits.fr/"
+    }
+  ],
+  "slug": "litige-avec-les-forces-de-l-ordre-ou-un-organisme-prive-charge-de-la-securite",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "litiges-avec-l-administration-recours-administratif-defenseur-des-droits",
+      "titre": "Litiges avec l'administration : recours administratif, défenseur des droits"
+    }
+  ]
+}

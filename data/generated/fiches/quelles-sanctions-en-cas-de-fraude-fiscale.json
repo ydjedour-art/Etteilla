@@ -1,0 +1,125 @@
+{
+  "id": "F31451",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quelles sanctions en cas de fraude fiscale ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "L'auteur d'une fraude fiscale peut se voir appliquer des sanctions fiscales et pénales.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-07-02",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31451",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Impôt sur le revenu : déclaration et revenus à déclarer",
+    "Quelles sanctions en cas de fraude fiscale ?"
+  ],
+  "introduction": "La fraude fiscale consiste à échapper ou tenter d'échapper à l'impôt par tout moyen. La fraude fiscale est punie par des sanctions fiscales et pénales.",
+  "chapitres": [
+    {
+      "titre": "Qu'appelle-t-on fraude fiscale ?",
+      "contenu": [
+        "Vous commettez une fraude fiscale si vous utilisez délibérément certains procédés pour échapper ou tenter d'échapper à l'impôt.",
+        "C'est le cas si vous faites les choix suivants :",
+        "• Ne pas déclarer dans les délais",
+        "• Cacher des biens ou revenus soumis à l'impôt",
+        "• Vous rendre insolvable.",
+        "[À savoir] Dans le cadre d’une enquête pour fraude fiscale, l’administration peut exiger de contrôler les documents comptables sur 10 ans. Si vous êtes un particulier et que vous tenez vous-même votre comptabilité (par exemple, pour une location meublée), vous êtes concerné. Dans ce cas, vous devez donc conserver vos documents comptables pendant 10 ans."
+      ]
+    },
+    {
+      "titre": "Quelles sont les sanctions fiscales en cas de fraude ?",
+      "contenu": [
+        "Vous risquez des sanctions fiscales si vous dissimulez des revenus ou biens imposables.",
+        "Vous n'avez pas déclaré vos revenus dans les délais",
+        "Si vous n'avez pas déclaré vos revenus dans les délais, vous risquez des sanctions.",
+        "Si l'administration fiscale découvre l'existence d'une activité occulte, votre impôt sera majoré de 80 %.",
+        "Votre déclaration est volontairement incomplète",
+        "Vous risquez une majoration si votre déclaration est volontairement incomplète.",
+        "Par exemple, si vous n'avez pas déclaré un bien ou un revenu imposable, ou si vous avez sous-évalué la valeur de votre patrimoine.",
+        "Selon votre situation, cette majoration sera l'un des suivantes :",
+        "• 40 % en cas d'oubli volontaire",
+        "• 80 % en cas d'abus de droit, ramené à 40 % si vous n'êtes pas à l'initiative de la démarche ou si vous n'en êtes pas le principal bénéficiaire",
+        "• 80 % en cas de manœuvres frauduleuses.",
+        "Des intérêts de retard peuvent aussi vous être appliqués.",
+        "Ils s'élèvent à 0,20 % par mois de retard (soit 2,4 % sur 1 an)."
+      ]
+    },
+    {
+      "titre": "Quelles sont les sanctions pénales en cas de fraude fiscale ?",
+      "contenu": [
+        "Si l'administration fiscale détecte une fraude, elle peut engager des poursuites pénales après avis de la Commission des infractions fiscales.",
+        "[À savoir] En cas de fraude fiscale, les poursuites pénales peuvent être engagées pendant 6 ans à partir de l'année qui suit l'infraction.",
+        "En plus des sanctions fiscales, vous risquez les 2 peines suivantes :",
+        "• 500 000 € d'amende",
+        "• 5 ans d'emprisonnement.",
+        "La personne condamnée peut aussi être privée de ses droits civiques, civils et de famille.",
+        "Ce retrait entraîne notamment l'inéligibilité, la perte du droit de vote et du droit d'être tuteur.",
+        "Les sanctions sont aggravées dans les cas suivants :",
+        "• Faits commis en bande organisée",
+        "• Ouverture de comptes ou souscription de contrats auprès d'organismes établis à l'étranger",
+        "• Interposition de personnes ou d'organismes écran établis à l'étranger",
+        "• Usage d'une fausse identité ou de faux documents (ou toute autre falsification)",
+        "• Domiciliation ou acte fictif ou artificiel à l'étranger.",
+        "En cas de sanction aggravée, vous risquez les 2 peines suivantes :",
+        "• 3 000 000 € d'amende",
+        "• 7 ans d'emprisonnement.",
+        "Les peines d'emprisonnement encourues sont réduites de moitié si l'auteur ou le complice du délit participe à l'identification des autres auteurs ou complices.",
+        "À ces sanctions, peut s'ajouter une peine complémentaire de privation des droits à réductions et crédits d'impôt sur le revenu et d'IFI.",
+        "Cette peine peut être infligée en cas de condamnation dans les cas suivants :",
+        "• Fraude fiscale aggravée",
+        "• Recel de fraude fiscale aggravée",
+        "• Blanchiment de fraude fiscale aggravée.",
+        "Elle peut être appliquée pour une durée maximale de 3 ans, à compter de l’imposition des revenus de l’année qui suit celle de la condamnation.",
+        "[Exemple] En cas de condamnation en 2025, la privation des droits à réductions et crédits d'impôt sur le revenu peut concerner les revenus suivants : • Revenus de 2026 (déclarés en 2027) • Revenus de 2027 (déclarés en 2028) • Revenus de 2028 (déclarés en 2029).",
+        "[À noter] Si vous reconnaissez les faits, le procureur de la République peut vous proposer une comparution sur reconnaissance préalable de culpabilité (appelée parfois procédure du plaider coupable)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général des impôts : articles 1729 et 1729-0 A",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006179987/"
+    },
+    {
+      "titre": "Code général des impôts : articles 1741 à 1753 bis B",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000006147294"
+    },
+    {
+      "titre": "Livre des procédures fiscales : article L64",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037993642/"
+    },
+    {
+      "titre": "Livre des procédures fiscales : articles L227 à L233",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006180074/"
+    },
+    {
+      "titre": "Loi n°2016-1917 du 29 décembre 2016 de finances pour 2017 : article 109",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000041471953/"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-CF-INF-40-10-10 relatif aux infractions et sanctions pénales",
+      "url": "http://bofip.impots.gouv.fr/bofip/6135-PGP"
+    },
+    {
+      "titre": "Circulaire du 23 janvier 2014 relative à la lutte contre la fraude fiscale et la grande délinquance économique et financière",
+      "url": "http://circulaire.legifrance.gouv.fr/pdf/2014/01/cir_37895.pdf"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Service d'information des impôts",
+    "Service en charge des impôts (trésorerie, service des impôts...)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "quelles-sanctions-en-cas-de-fraude-fiscale",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "impot-sur-le-revenu-declaration-et-revenus-a-declarer",
+      "titre": "Impôt sur le revenu : déclaration et revenus à déclarer"
+    }
+  ]
+}

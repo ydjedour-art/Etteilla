@@ -1,0 +1,66 @@
+{
+  "id": "F2544",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Peut-on encore bénéficier du minimum vieillesse ?",
+  "theme": "Social - Santé",
+  "description": "Seuls ceux qui bénéficiaient du minimum vieillesse avant 2006, ou qui ont commencé à l'avoir en 2006, le reçoivent s'ils n'ont pas demandé l'Aspa.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-01-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2544",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Allocations et aides aux personnes âgées",
+    "Peut-on encore bénéficier du minimum vieillesse ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Le minimum vieillesse n'est plus attribué. Il a été remplacé par l'allocation de solidarité aux personnes âgées (Aspa) au cours de l'année 2006.",
+        "Mais vous pouvez encore recevoir aujourd’hui le minimum vieillesse, s'il vous a été attribué avant la mise en place de l'Aspa, et que vous n'avez pas demandé à changer pour l'Aspa.",
+        "Dans ce cas, 2 situations sont possibles :",
+        "Vous vivez seul",
+        "Vous percevez l'allocation supplémentaire, qui vient compléter :",
+        "• votre pension de retraite",
+        "• ou l'allocation spéciale vieillesse (si vous ne pouvez prétendre à aucune retraite)",
+        "• ou d'autres prestations (allocation aux vieux travailleurs salariés, allocation aux mères de famille, ...).",
+        "Ceci pour vous permettre d'atteindre un revenu de 1 043,59 € par mois (montant brut).",
+        "[À savoir] Comme pour l'Aspa, les sommes que vous avez reçues (allocation supplémentaire) doivent être reversées après décès. Elles sont prélevées sur le montant de votre succession, sous certaines conditions.",
+        "Vous êtes un couple marié",
+        "Votre couple reçoit l'allocation supplémentaire, qui vient compléter :",
+        "• une pension de retraite",
+        "• ou l'allocation spéciale vieillesse (quand la personne ne peut prétendre à aucune retraite)",
+        "• ou d'autres prestations (allocation aux vieux travailleurs salariés, allocation aux mères de famille, ...).",
+        "Ceci pour permettre à votre couple d'atteindre un revenu de 1 620,18 € par mois (montant brut).",
+        "L'allocation supplémentaire peut être versée :",
+        "• à 1 seule personne, si une seule allocation suffit pour que les ressources de votre couple atteignent 1 620,18 € par mois",
+        "• ou aux 2 personnes, si cela est nécessaire",
+        "[À savoir] Comme pour l'Aspa, les sommes que le couple a reçues (allocation supplémentaire) doivent être reversées après décès. Elle sont prélevées sur le montant de la succession, sous certaines conditions."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Circulaire Cnav 2025-29 du 22 décembre 2025 sur les revalorisations à compter du 1er janvier 2026",
+      "url": "https://legislation.lassuranceretraite.fr/Pdf/circulaire_cnav_2025_29_22122025.pdf"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Assurance retraite - 39 60"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "peut-on-encore-beneficier-du-minimum-vieillesse",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "allocations-et-aides-aux-personnes-agees",
+      "titre": "Allocations et aides aux personnes âgées"
+    }
+  ]
+}

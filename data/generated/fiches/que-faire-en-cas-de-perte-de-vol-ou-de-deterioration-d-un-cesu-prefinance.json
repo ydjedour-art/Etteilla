@@ -1,0 +1,73 @@
+{
+  "id": "F18653",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Que faire en cas de perte, de vol ou de détérioration d'un Cesu préfinancé ?",
+  "theme": "Travail - Formation",
+  "description": "En cas de perte, de vol ou de détérioration d'un Cesu préfinancé, il faut contacter sans délai l'émetteur du Cesu ou le CRCesu.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-07-08",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F18653",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Particulier employeur : aide à domicile (services à la personne)",
+    "Que faire en cas de perte, de vol ou de détérioration d'un Cesu préfinancé ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "En cas de perte, de vol ou de détérioration d'un Cesu préfinancé (ou titre Cesu), vous devez contacter sans délai l'émetteur du Cesu préfinancé.",
+        "Les coordonnées figurent sur les documents délivrés avec le carnet de Cesu.",
+        "Si vous n'êtes pas en possession de ces documents, vous devez appeler le Centre de remboursement du chèque emploi universel (CRCesu).",
+        "Centre de remboursement du chèque emploi service universel (CRCesu)",
+        "Pour s'informer sur le remboursement des titres Cesu préfinancés",
+        "Par téléphone",
+        "0892 680 662",
+        "Du lundi au vendredi de 8h30 à 18h",
+        "Numéro violet ou majoré : 0,40 € / min + prix d'un appel",
+        "Par courrier",
+        "Pour la métropôle :",
+        "CRCESU",
+        "Centre de traitement EXELA",
+        "1 rue de la Mare Blanche",
+        "77438 Marne la Vallée cedex 2",
+        "Pour la Réunion :",
+        "CRCESU DOM / TESSI",
+        "La Réunion, CS 11020",
+        "97495 SAINTE CLOTILDE CEDEX",
+        "Pour la Martinique :",
+        "CRCESU DOM / SATA",
+        "BP 396",
+        "97289 LE LAMENTIN CEDEX 2",
+        "Par messagerie (si vous êtes intervenant)",
+        "Accès au formulaire de contact"
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Site du Centre de remboursement du Cesu",
+      "url": "http://www.cr-cesu.fr/"
+    },
+    {
+      "titre": "Titres Cesu préfinancés",
+      "url": "https://www.cr-cesu.fr/Les-titres-CESU-Home/les-titres-cesu.html"
+    }
+  ],
+  "slug": "que-faire-en-cas-de-perte-de-vol-ou-de-deterioration-d-un-cesu-prefinance",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "particulier-employeur-aide-a-domicile-services-a-la-personne",
+      "titre": "Particulier employeur : aide à domicile (services à la personne)"
+    }
+  ]
+}

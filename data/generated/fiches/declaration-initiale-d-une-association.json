@@ -1,0 +1,104 @@
+{
+  "id": "F1119",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Déclaration initiale d'une association",
+  "theme": "Associations, fondations et fonds de dotation",
+  "description": "Une association acquiert la capacité juridique par sa publicité au Journal officiel (ou en Alsace-Moselle son inscription au registre des associations).",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2024-11-05",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1119",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Associations, fondations et fonds de dotation",
+    "Création d'une association",
+    "Déclaration initiale d'une association"
+  ],
+  "introduction": "Pour qu'une association obtienne la personnalité morale et la capacité juridique, un des membres chargé de l'administration de l'association ou une personne mandatée doit procéder à sa déclaration initiale. Nous vous présentons la démarche. Elle diffère selon que le siège de l'association se situe en Alsace-Moselle (départements du Bas-Rhin, du Haut-Rhin et de la Moselle) ou ailleurs.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Loi du 1er juillet 1901 relative au contrat d'association",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006069570/"
+    },
+    {
+      "titre": "Loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006069443/"
+    },
+    {
+      "titre": "Code civil local d'Alsace-Moselle : articles 21 à 79-IV",
+      "url": "https://idl-am.org/documents-sur-le-droit-local/code-civil-local-extraits-articles-21-a-79-iv/"
+    },
+    {
+      "titre": "Code de procédure civile : articles annexe 30-1 à 30-4",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006181671/"
+    },
+    {
+      "titre": "Code de procédure civile : articles annexe 30-5 à 30-8",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041683144"
+    },
+    {
+      "titre": "Code de procédure civile : articles annexe 30-9 à 30-10",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006181673/"
+    },
+    {
+      "titre": "Décret du 16 août 1901 pris relatif au contrat d'association",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006069620/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Création d'une association (démarche en ligne)",
+      "url": "https://demarches.service-public.gouv.fr/asso_mademarche/CR/demarche",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Création d'une association (formulaire cerfa)",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_13973.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Création d'une association en Alsace-Moselle (démarche en ligne)",
+      "url": "https://associations.alsace-moselle.fr",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Déclaration de la liste des personnes chargées de l'administration d'une association (formulaire)",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_13971.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Déclaration de la liste des associations membres d'une union ou d'une fédération d'associations (formulaire)",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_13969.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Consulter les annonces des associations et fondations",
+      "url": "https://www.journal-officiel.gouv.fr/pages/associations/",
+      "type": "Outil de recherche"
+    }
+  ],
+  "contacts": [
+    "Point ressource à la vie associative"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Journaux d'annonces légales d'Alsace-Moselle",
+      "url": "https://www.alsacemouvementassociatif.org/index.php/component/phocadownload/category/3-cadre-juridique?download=14:liste-des-journaux-habilites-pour-les-annonces-judiciaires-et-legales"
+    },
+    {
+      "titre": "Guide pratique : créer une association en Alsace-Moselle",
+      "url": "https://www.alsacemouvementassociatif.org/index.php/component/phocadownload/category/2-guides-pratiques?download=115:guide-creer-une-association-2018-nv"
+    }
+  ],
+  "slug": "declaration-initiale-d-une-association",
+  "path": [
+    {
+      "slug": "associations-fondations-et-fonds-de-dotation",
+      "titre": "Associations, fondations et fonds de dotation"
+    },
+    {
+      "slug": "creation-d-une-association",
+      "titre": "Création d'une association"
+    }
+  ]
+}

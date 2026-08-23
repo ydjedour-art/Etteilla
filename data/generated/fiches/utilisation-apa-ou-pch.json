@@ -1,0 +1,33 @@
+{
+  "id": "F35540",
+  "type_publication": "Recherche guidée",
+  "titre": "[Utilisation Apa ou PCH]",
+  "theme": "Social - Santé",
+  "description": "[Utilisation Apa ou PCH]",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2024-01-31",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35540",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Handicap : allocations (AAH, AEEH, ...) et aides",
+    "[Utilisation Apa ou PCH]"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "utilisation-apa-ou-pch",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "handicap-allocations-aah-aeeh-et-aides",
+      "titre": "Handicap : allocations (AAH, AEEH, ...) et aides"
+    }
+  ]
+}

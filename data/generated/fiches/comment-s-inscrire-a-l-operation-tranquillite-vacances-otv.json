@@ -1,0 +1,59 @@
+{
+  "id": "F34634",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Comment s'inscrire à l'opération tranquillité vacances (OTV) ?",
+  "theme": "Justice",
+  "description": "L'opération tranquillité vacances (OTV) permet de demander la surveillance de son domicile par la gendarmerie ou la police lors d'absences prolongées.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-07-03",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34634",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Vol - Vandalisme - Escroquerie",
+    "Comment s'inscrire à l'opération tranquillité vacances (OTV) ?"
+  ],
+  "introduction": "Vous partez bientôt en vacances ? Afin d'éviter les cambriolages, vous pouvez vous inscrire à l'opération tranquillité vacances. Les services de police ou de gendarmerie se chargent alors de surveiller votre logement. Des patrouilles sont organisées pour passer aux abords de votre domicile. Vous serez prévenu en cas d'anomalies (dégradations, cambriolage...). Pour vous inscrire, vous pouvez utiliser le service sur internet ou vous rendre en commissariat de police ou en brigade de gendarmerie.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Il n'est pas nécessaire de fournir des justificatifs pour l'inscription sur Internet."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [
+    {
+      "titre": "S’inscrire à l’opération tranquillité vacances (OTV)",
+      "url": "https://demarches.service-public.gouv.fr/mademarche/OperationTranquilliteVacances/demarche",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Opération Tranquillité Vacances (OTV)",
+      "url": "https://www.masecurite.interieur.gouv.fr/fr/demarches-en-ligne/operation-tranquillite-vacances"
+    },
+    {
+      "titre": "Partir en vacances en toute sécurité",
+      "url": "https://www.masecurite.interieur.gouv.fr/fr/fiches-pratiques/habitation/partir-en-vacances-en-toute-securite-otv"
+    },
+    {
+      "titre": "Présentation de l'opération Tranquillité Vacances à Paris et petite couronne",
+      "url": "https://www.prefecturedepolice.interieur.gouv.fr/vos-services-en-ligne/operation-tranquillite-vacances"
+    }
+  ],
+  "slug": "comment-s-inscrire-a-l-operation-tranquillite-vacances-otv",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "vol-vandalisme-escroquerie",
+      "titre": "Vol - Vandalisme - Escroquerie"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "F16832",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Comment connaître le prix d'un logement ou d'un terrain ?",
+  "theme": "Logement",
+  "description": "Pour estimer le prix au mètre carré d'un terrain ou logement, il faut consulter des bases de données fiscales sur internet ou un professionnel de l'immobilier.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-10-03",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F16832",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Achat ou vente d'un logement",
+    "Comment connaître le prix d'un logement ou d'un terrain ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Si vous souhaitez estimer votre bien immobilier ou connaître le prix au mètre carré (m²) de votre logement ou de votre terrain, vous pouvez consulter des bases de données de l'administration fiscale sur internet ou un professionnel de l'immobilier :",
+        "Sur internet",
+        "Pour avoir une estimation de votre bien immobilier, vous devez connaitre le prix au m² de celui-ci.",
+        "La base de données « Demande de valeurs foncières » recense les transactions immobilières intervenues en France au cours de 5 dernières années. Les données sont issues des actes notariés et des informations cadastrales.",
+        "L'accès à cette base de données est gratuit :",
+        "Consulter les dernières transactions immobilières (demande de valeurs foncières)",
+        "[Attention] Les informations ne sont pas disponibles pour les départements du Haut-Rhin, du Bas-Rhin, de la Moselle et Mayotte.",
+        "Pour avoir une estimation de votre construction, vous pouvez utiliser l'outil Patrim, qui est un simulateur des impôts.",
+        "Ces données sont uniquement accessibles depuis « votre espace particulier » sur www.impots.gouv.fr.",
+        "L'estimation peut être utile pour déclarer l'impôt sur la fortune immobilière (IFI), une succession, une donation, un contrôle fiscal, une expropriation ou pour calculer vos aides au logement.",
+        "L'accès à cette base de données est gratuit.",
+        "Patrim : rechercher des transactions immobilières pour aider à estimer la valeur d'un bien immobilier",
+        "Vous devez avoir vos identifiants impots.gouv.fr (numéro fiscal et mot de passe).",
+        "[Attention] Patrim ne couvre pas les ventes de biens situés dans les départements du Haut-Rhin, du Bas-Rhin, de la Moselle et Mayotte.",
+        "Chez un professionnel",
+        "Pour avoir une estimation de votre bien immobilier, vous pouvez vous rapprocher de la chambre des notaires ou d'une agence immobilière.",
+        "Chambre départementale des notaires"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Livre des procédures fiscales : articles L111 à L112 A",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006180056/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Patrim : rechercher des transactions immobilières pour aider à estimer la valeur d'un bien immobilier",
+      "url": "https://cfspart.impots.gouv.fr/LoginAccess",
+      "type": "Simulateur"
+    },
+    {
+      "titre": "Consulter les dernières transactions immobilières (demande de valeurs foncières)",
+      "url": "https://explore.data.gouv.fr/fr/immobilier?onglet=carte&filtre=tous",
+      "type": "Simulateur"
+    }
+  ],
+  "contacts": [
+    "Service d'information des impôts",
+    "Chambre départementale des notaires"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Comment déterminer la valeur des biens que je déclare ?",
+      "url": "https://www.impots.gouv.fr/particulier/questions/comment-determiner-la-valeur-des-biens-que-je-declare-pour-le-calcul-de-limpot"
+    },
+    {
+      "titre": "Prix au m² de l'immobilier en France",
+      "url": "https://www.immobilier.notaires.fr/fr/prix-immobilier"
+    },
+    {
+      "titre": "Portail des services en ligne des notaires de France",
+      "url": "https://notaires.fr/"
+    },
+    {
+      "titre": "Data.gouv.fr : Demandes de valeurs foncières",
+      "url": "https://www.data.gouv.fr/fr/datasets/demandes-de-valeurs-foncieres/"
+    }
+  ],
+  "slug": "comment-connaitre-le-prix-d-un-logement-ou-d-un-terrain",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "achat-ou-vente-d-un-logement",
+      "titre": "Achat ou vente d'un logement"
+    }
+  ]
+}

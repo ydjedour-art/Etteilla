@@ -1,0 +1,265 @@
+{
+  "id": "F13213",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Allocations familiales (famille de 2 enfants ou plus)",
+  "theme": "Famille - Scolarité",
+  "description": "Les allocations familiales sont versées aux personnes ayant au moins 2 enfants de moins de 20 ans à charge.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-06-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F13213",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Allocations destinées aux familles",
+    "Allocations familiales (famille de 2 enfants ou plus)"
+  ],
+  "introduction": "Les allocations familiales sont versées aux personnes ayant au moins 2 enfants de moins de 20 ans à charge. Le montant des prestations dépend de vos ressources, du nombre d'enfants à charge et de leur âge. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Quelles sont les conditions pour avoir droit aux allocations familiales ?",
+      "contenu": [
+        "Pour savoir si vous avez droit aux allocations familiales et si oui pour quel montant, vous pouvez utiliser un simulateur :",
+        "Connaître les prestations sociales auxquelles vous pouvez avoir droit",
+        "Enfants à charge",
+        "Vous devez avoir au moins 2 enfants à charge de moins de 20 ans.",
+        "Résidence en France",
+        "Les règles diffèrent selon que vous avez ou non la nationalité française :",
+        "Français",
+        "Vous devez être dans l'une des situations suivantes :",
+        "• Avoir votre résidence habituelle en France",
+        "• Séjourner en France pendant plus de 9 mois de l'année (consécutifs ou non).",
+        "Votre enfant doit aussi résider en France. S'il quitte le pays plus de 3 mois même seul, les allocations sont suspendues.",
+        "Mais elles sont maintenues si l'enfant est dans l'une des situations suivantes :",
+        "• Il fait un ou plusieurs séjours à l'étranger pour suivre des études ou des soins médicaux dans un pays frontalier et il rentre régulièrement dans sa famille (exemple : la famille habite en Alsace et l'enfant suit des études dans un établissement allemand)",
+        "• Il fait un séjour à l'étranger pour apprendre une langue étrangère, recevoir des soins, poursuivre ses études ou sa formation professionnelle (apprentissage en entreprise, etc.).",
+        "Étranger",
+        "Vous devez être dans l'une des situations suivantes :",
+        "• Avoir votre résidence habituelle en France",
+        "• Séjourner en France pendant plus de 9 mois de l'année (consécutifs ou non).",
+        "Vous devez aussi remplir certaines conditions liées à la régularité de votre séjour.",
+        "Votre enfant doit aussi résider en France. S'il quitte le pays plus de 3 mois même seul, les allocations sont suspendues. Mais elles sont maintenues si l'enfant est dans l'une des situations suivantes :",
+        "• Il fait un ou plusieurs séjours à l'étranger pour suivre des études ou des soins médicaux dans un pays frontalier et il rentre régulièrement dans sa famille (exemple : la famille habite en Alsace et l'enfant suit des études en Allemagne)",
+        "• Il fait un séjour à l'étranger pour apprendre une langue étrangère, recevoir des soins, poursuivre ses études ou sa formation professionnelle (apprentissage en entreprise, etc.)."
+      ]
+    },
+    {
+      "titre": "Comment faire la demande d'allocations familiales ?",
+      "contenu": [
+        "La démarche diffère selon que vous dépendez de la Caf ou de la MSA :",
+        "Cas général (Caf)",
+        "La démarche diffère selon que vous êtes allocataire ou non :",
+        "Allocataire",
+        "La Caf attribue automatiquement les allocations familiales dès qu'elle a connaissance d'un 2e enfant à charge. Vous devez lui déclarer la naissance (en transmettant une copie du livret de famille ou de l'acte de naissance de l'enfant).",
+        "Non allocataire",
+        "Vous devez remplir les formulaires cerfa n°11423 et n°10397 et les envoyer à votre Caf. Précisez votre lieu de résidence avant de télécharger les formulaires.",
+        "Demande d'allocations familiales (Caf)",
+        "Régime agricole (MSA)",
+        "La démarche diffère selon que vous êtes allocataire ou non :",
+        "Allocataire",
+        "La MSA attribue automatiquement les allocations familiales dès qu'elle a connaissance d'un 2e enfant à charge.",
+        "Vous devez lui déclarer la naissance (en transmettant une copie du livret de famille ou de l'acte de naissance de l'enfant).",
+        "Non allocataire",
+        "Vous devez vous inscrire en ligne sur le site de la MSA.",
+        "MSA - Mon espace privé (inscription)"
+      ]
+    },
+    {
+      "titre": "Quel est le montant des allocations familiales ?",
+      "contenu": [
+        "Le montant des allocations varie selon vos ressources.",
+        "C'est le revenu net catégoriel de 2024 qui est pris en compte pour l'examen de vos droits pour l'année 2026. Il ne doit pas dépasser une limite qui varie selon votre situation.",
+        "Montant de base et majoration éventuelle",
+        "Si votre enfant est né avant le 1er mars 2012, vous avez reçu pour lui une majoration mensuelle à ses 14 ans.",
+        "Si votre enfant est né après le 1er mars 2012, la majoration mensuelle a lieu aux 18 ans de votre enfant.",
+        "Cependant, si vous n'avez que 2 enfants à charge, vous ne recevrez pas de majoration pour l'aîné.",
+        "Le montant des allocations varie en fonction de vos ressources et du nombre d'enfants :",
+        "2 enfants",
+        "Montants des allocations familiales",
+        "Ressources",
+        "Montant de base",
+        "Majoration aux :",
+        "• 14 ans de l’enfant né avant le 1er mars 2012",
+        "• 18 ans de l’enfant né à partir du 1er mars 2012",
+        "79 980 € ou moins",
+        "152,25 €",
+        "+ 76,13 € seulement pour le 2ème enfant",
+        "Entre 79 980 € et 106 604 € inclus",
+        "76,13 €",
+        "+ 38,07 € seulement pour le 2ème enfant",
+        "Plus de 106 604 €",
+        "38,07 €",
+        "+ 19,03 € seulement pour le 2ème enfant",
+        "3 enfants",
+        "Montants des allocations familiales",
+        "Ressources",
+        "Montant de base",
+        "Majoration aux :",
+        "• 14 ans de l’enfant né avant le 1er mars 2012",
+        "• 18 ans de l’enfant né à partir du 1er mars 2012",
+        "86 644 € ou moins",
+        "347,32 €",
+        "+ 76,13 € par enfant",
+        "Entre 86 644 € et 113 268 € inclus",
+        "173,67 €",
+        "+ 38,07 € par enfant",
+        "Plus de 113 268 €",
+        "86,83 €",
+        "+ 19,03 € par enfant",
+        "4 enfants",
+        "Montants des allocations familiales",
+        "Ressources",
+        "Montant de base",
+        "Majoration aux :",
+        "• 14 ans de l’enfant né avant le 1er mars 2012",
+        "• 18 ans de l’enfant né à partir du 1er mars 2012",
+        "93 308 € ou moins",
+        "542,39 €",
+        "+ 76,13 € par enfant",
+        "Entre 93 308 € et 119 932 € inclus",
+        "271,20 €",
+        "+ 38,07 € par enfant",
+        "Plus de 119 932 €",
+        "135,60 €",
+        "+ 19,03 € par enfant",
+        "Famille nombreuse (3 enfants ou plus) : allocation forfaitaire provisoire",
+        "Lorsqu'un enfant atteint l'âge de 20 ans, il cesse d'être compté comme enfant à charge.",
+        "Pour une famille d'au moins 3 enfants, la perte peut être importante. Pour atténuer cette réduction, une allocation forfaitaire provisoire est versée si les 3 conditions suivantes sont remplies :",
+        "• L'enfant de 20 ans doit encore vivre au foyer de l'allocataire",
+        "• Il ne doit pas percevoir un revenu professionnel supérieur à 1 144,21 €",
+        "• Le mois précédant ses 20 ans, les allocations familiales ont été versées pour au moins 3 enfants.",
+        "L'allocation forfaitaire provisoire est versée automatiquement jusqu'au mois précédant le 21e anniversaire de l'enfant.",
+        "Cette allocation forfaitaire provisoire dépend de vos ressources et du nombre d'enfants :",
+        "3 enfants",
+        "Montants de l'allocation forfaitaire",
+        "Ressources",
+        "Allocation forfaitaire pour un enfant concerné",
+        "86 644 € ou moins",
+        "96,27 €",
+        "Entre 86 644 € et 113 268 € inclus",
+        "48,14 €",
+        "Plus de 113 268 €",
+        "24,07 €",
+        "4 enfants",
+        "Montants de l'allocation forfaitaire",
+        "Ressources",
+        "Allocation forfaitaire pour un enfant concerné",
+        "93 308 € ou moins",
+        "96,27 €",
+        "Entre 93 308 € et 119 932 € inclus",
+        "48,14 €",
+        "Plus de 119 932 €",
+        "24,07 €",
+        "Complément dégressif",
+        "Un complément dégressif est versé si les ressources de la famille dépassent de peu le plafond qui la concerne.",
+        "La différence entre le plafond dépassé et les ressources ne doit pas dépasser 12 fois le montant mensuel des allocations familiales.",
+        "[Exemple] Une famille avec 3 enfants a des ressources de 87 000 € par an. Ses ressources dépassent le plafond de 86 644 €, pour obtenir les allocations familiales maximales de 347,32 €. La différence entre les ressources de la famille et le plafond dépassé est de 356 €. Cette différence est inférieure à 12 x 347,32 €, la famille peut donc percevoir le complément dégressif.",
+        "Pour calculer le complément dégressif, une formule s'applique :",
+        "(Plafond dépassé + 12 x montant des allocations familiales - ressources de la famille)/12",
+        "[Exemple] Pour la famille avec 3 enfants qui a des ressources de 87 000 €par an : [86 644 € + (12 x 347,32 €) - 87 000 €]/12 = 317,65 € La famille peut donc percevoir une allocation de 314,65 € par mois."
+      ]
+    },
+    {
+      "titre": "Comment sont versées les allocations familiales ?",
+      "contenu": [
+        "Vous avez droit aux allocations familiales à partir du mois qui suit la naissance ou l'accueil d'un 2e enfant, d'un 3e enfant, etc.",
+        "[Exemple] Si votre second enfant naît le 15 janvier, le droit sera ouvert le 1er février.",
+        "La majoration pour âge est versée à partir du mois qui suit le 14e anniversaire de l'enfant.",
+        "Les allocations sont versées tous les mois, à terme échu.",
+        "[Exemple] Votre second enfant naît le 15 janvier. Les allocations auxquelles vous avez droit pour le mois de février vous sont versées début mars.",
+        "Le versement des allocations cesse dès le mois où les conditions ne sont plus remplies."
+      ]
+    },
+    {
+      "titre": "Comment procéder en cas de changement de situation ?",
+      "contenu": [
+        "Il faut distinguer selon que vous dépendez de la Caf ou de la MSA :",
+        "Caf",
+        "Plusieurs changements peuvent intervenir.",
+        "Changement de situation familiale",
+        "Déclarez rapidement tout changement dans votre situation familiale (exemples : naissance d'un enfant, mise en couple, séparation, chômage).",
+        "Allocations et prestations familiales - Déclaration de situation (Caf)",
+        "Connexion avec France Connect ou connexion avec un compte Caf",
+        "Caisse d'allocations familiales (Caf)",
+        "Changement de domicile",
+        "Vous pouvez signaler votre changement de domicile en utilisant le service de changement d'adresse en ligne :",
+        "Déclaration de changement d'adresse",
+        "MSA",
+        "Changement de situation familiale",
+        "Déclarez rapidement tout changement dans votre situation familiale (exemples : naissance d'un enfant, mise en couple, séparation, chômage).",
+        "[Exemple] Être en couple peut vous ouvrir de nouveaux droits. Renseignez-vous auprès de votre MSA.",
+        "MSA - Espace particuliers",
+        "Avec vos identifiants MSA ou avec FranceConnect",
+        "Vous pouvez aussi vous rendre sur place ou envoyer le formulaire cerfa n°11423 par courrier.",
+        "Allocations et prestations familiales - Déclaration de situation (MSA)",
+        "Mutualité sociale agricole (MSA)",
+        "Changement de domicile",
+        "Vous pouvez signaler votre changement de domicile en utilisant le service de changement d'adresse en ligne :",
+        "Déclaration de changement d'adresse",
+        "[À noter] Si vous changez de département, la MSA de votre domicile de départ s'occupera automatiquement du transfert du dossier vers votre nouvelle caisse. Ce transfert se fera dès l'enregistrement de votre nouvelle adresse."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la sécurité sociale : articles L521-1 à L521-3",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006156163"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles R521-1 à R521-4",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006156681"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles D521-1 à D521-4",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000006155862"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles R552-1 à R552-3",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000006156694/"
+    },
+    {
+      "titre": "Arrêté du 18 décembre 2025 relatif aux plafonds de ressources de certaines prestations familiales",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053165980"
+    },
+    {
+      "titre": "Instruction interministérielle n° DSS/2B/2025/177 du 18 décembre 2025 relative à la revalorisation, au 1er janvier 2026, des plafonds de ressources d’attribution de certaines prestations familiales",
+      "url": "https://bulletins-officiels.social.gouv.fr/sites/textes-officiels/files/2025-12/SFHS2535630J_0.pdf"
+    },
+    {
+      "titre": "Instruction interministérielle du 20 mars 2026 relative à la revalorisation au 1er avril 2026 des prestations familiales servies en métropole et outre-mer",
+      "url": "https://bulletins-officiels.social.gouv.fr/sites/textes-officiels/files/2026-03/SFHS2607952J.pdf"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Allocations et prestations familiales - Déclaration de situation (Caf)",
+      "url": "https://connect.caf.fr/connexionappli/dist/?forceReload=20211220&contexteAppel=caffr&urlredirect=%2Fwps%2Fmyportal%2Fcaffr%2Fmoncompte%2Fmonprofil#/login",
+      "type": "selNG"
+    },
+    {
+      "titre": "Connaître les prestations sociales auxquelles vous pouvez avoir droit",
+      "url": "https://www.mesdroitssociaux.gouv.fr",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "Caisse d'allocations familiales (Caf)",
+    "Mutualité sociale agricole (MSA)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Prestations familiales : règles spécifiques à l'outre-mer (voir les fiches DOM)",
+      "url": "https://www.caf.fr/allocataires/aides-et-demarches/droits-et-prestations/vie-personnelle/les-allocations-familiales-af"
+    }
+  ],
+  "slug": "allocations-familiales-famille-de-2-enfants-ou-plus",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "allocations-destinees-aux-familles",
+      "titre": "Allocations destinées aux familles"
+    }
+  ]
+}

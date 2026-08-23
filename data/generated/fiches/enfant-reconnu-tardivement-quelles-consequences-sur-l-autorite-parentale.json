@@ -1,0 +1,94 @@
+{
+  "id": "F942",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Enfant reconnu tardivement : quelles conséquences sur l'autorité parentale ?",
+  "theme": "Famille - Scolarité",
+  "description": "Le père qui reconnaît l'enfant après l'âge d'1 an, n'a pas l'exercice de l'autorité parentale. Il peut la demander à l'amiable ou devant le JAF.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-09-24",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F942",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Autorité parentale",
+    "Enfant reconnu tardivement : quelles conséquences sur l'autorité parentale ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Lorsque les parents ne sont pas mariés, le père qui reconnaît son enfant après l'âge de 1 an n'a pas l'exercice de l'autorité parentale.",
+        "Il peut demander à avoir l'exercice de l'autorité parentale, en commun avec la mère, par l'une des procédures suivantes :",
+        "• Déclaration conjointe en cas d'accord avec la mère",
+        "• Devant le juge aux affaires familiales (Jaf) en cas de désaccord avec la mère.",
+        "Déclaration conjointe d'exercice en commun de l'autorité parentale",
+        "Si la mère est d'accord, les parents peuvent faire une déclaration conjointe en complétant le formulaire cerfa n°12785 :",
+        "Déclaration conjointe d'exercice en commun de l'autorité parentale",
+        "Ce formulaire doit être déposé ou adressé par lettre recommandée, en 3 exemplaires, au directeur des services de greffe judiciaire du tribunal judiciaire dont dépend le domicile de l'enfant.",
+        "Tribunal judiciaire ou tribunal de proximité",
+        "Le directeur des services de greffe judiciaire du tribunal peut demander, en fonction de la situation des parents, des documents complémentaires à ceux mentionnés dans la notice explicative du formulaire.",
+        "Les parents ne sont pas convoqués au tribunal.",
+        "Le directeur des services de greffe judiciaire appose son visa et la date sur les 3 exemplaires de la déclaration conjointe.",
+        "Il en notifie un exemplaire à chaque parent, par lettre recommandée, et il en conserve un.",
+        "Dès la notification de cette déclaration, le père obtient l'exercice de l'autorité parentale conjointe avec la mère.",
+        "[Attention] L'exemplaire de la déclaration visé et daté par le directeur des services de greffe judiciaire du tribunal est l’unique exemplaire original. En cas de perte, seule une copie peut être délivrée au parent qui la demande.",
+        "Procédure devant le juge aux affaires familiales",
+        "En cas de désaccord avec la mère, le père peut faire une requête au Jaf pour demander l'exercice conjoint de l'autorité parentale.",
+        "La demande peut être faite à l'aide du formulaire cerfa n°11530 :",
+        "Demande au juge aux affaires familiales (autorité parentale, droit de visite, pension alimentaire...)",
+        "La demande peut également être faite par courrier.",
+        "La demande doit obligatoirement être accompagnée des documents mentionnés dans la notice explicative du formulaire.",
+        "La demande doit être déposée ou adressée au tribunal judiciaire dont dépend le domicile de l'enfant.",
+        "Tribunal judiciaire ou tribunal de proximité",
+        "L'avocat n'est pas obligatoire pour cette procédure.",
+        "Si le parent souhaite un avocat mais qu'il n'a pas suffisamment de revenus pour payer les honoraires, il peut demander à bénéficier de l’aide juridictionnelle.",
+        "Le Jaf peut accepter ou refuser la demande en fonction de l’intérêt de l'enfant.",
+        "Si le Jaf accepte sa demande, le père obtient l'exercice de l'autorité parentale conjointement avec la mère.",
+        "La décision du Jaf peut être contestée par l'un ou l'autre des parents en faisant appel de la décision.",
+        "L'avocat est obligatoire en cas d'appel.",
+        "Le mariage des parents après la naissance de l'enfant ne confère pas automatiquement l'exercice de l'autorité parentale au père. En cas de reconnaissance de cet enfant après l'âge d'1 an, le père doit faire l'une ou l'autre des procédures pour obtenir l'exercice de l'autorité parentale en commun avec la mère.",
+        "[Complement] La demande conjointe d'exercice en commun de l'autorité parentale ne permet pas de modifier le nom de l'enfant. En effet, en l'absence de déclaration conjointe de choix de nom à l'officier de l'état civil lors de l'établissement de l'acte de naissance ou après, l'enfant prend le nomde celui de ses parents à l'égard duquel sa filiation est établie en premier lieu. La déclaration de choix du nom peut être faite : • lors de la reconnaissance de l'enfant par le 2e parent, • ou pendant toute la minorité de l’enfant."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : article 372",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039368163/"
+    },
+    {
+      "titre": "Code civil : articles 373-2 à 373-2-5",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006165499"
+    },
+    {
+      "titre": "Code de procédure civile : articles 1179 à 1180-5-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070716/LEGISCTA000006149752"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Déclaration conjointe d'exercice en commun de l'autorité parentale",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_12785.do",
+      "type": "formulaireNG"
+    },
+    {
+      "titre": "Demande au juge aux affaires familiales (autorité parentale, droit de visite, pension alimentaire...)",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/11530",
+      "type": "formulaireNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "enfant-reconnu-tardivement-quelles-consequences-sur-l-autorite-parentale",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "autorite-parentale",
+      "titre": "Autorité parentale"
+    }
+  ]
+}

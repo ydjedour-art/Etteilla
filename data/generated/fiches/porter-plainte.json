@@ -1,0 +1,196 @@
+{
+  "id": "F1435",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Porter plainte",
+  "theme": "Justice",
+  "description": "Le dépôt de plainte se fait au commissariat de police ou à la gendarmerie ou en ligne pour certaines infractions.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-07-08",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1435",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Affaire pénale",
+    "Porter plainte"
+  ],
+  "introduction": "Vous êtes victime d'une infraction et vous voulez porter plainte ? Nous vous présentons comment faire.",
+  "chapitres": [
+    {
+      "titre": "Comment porter plainte ?",
+      "contenu": [
+        "Vous pouvez vous déplacer dans un commissariat de police ou à la gendarmerie ou faire la démarche par courrier ou la faire en ligne (dans certains cas) ou, pour certaines infractions, en utilisant la visioplainte :",
+        "Sur place",
+        "Vous devez vous rendre dans un commissariat de police ou à la gendarmerie de votre choix.",
+        "Commissariat",
+        "Brigade de gendarmerie",
+        "[À savoir] Les services de police ou de gendarmerie sont obligés d'enregistrer votre plainte si vous êtes victime d'une infraction.",
+        "Les officiers et agents de police judiciaire doivent recevoir votre plainte même si les faits ne relèvent pas de leur zone géographique de compétence.",
+        "À la fin de votre audition par la police ou la gendarmerie, vous recevez un récépissé et une copie de votre plainte si vous la demandez.",
+        "En ligne",
+        "La plainte en ligne est possible uniquement dans certains cas.",
+        "Vous êtes victime d'une atteinte aux biens (vol, dégradation, escroquerie, délit de fuite...)",
+        "Vous ne connaissez pas l'auteur des faits",
+        "Vous pouvez utiliser le service de plainte en ligne lorsque vous êtes victime de l'une des infractions suivantes :",
+        "• Vol, cambriolage",
+        "• Abus de confiance",
+        "• Escroquerie (sauf certaines arnaques commises sur internet)",
+        "• Délit de fuite (le fait, pour le conducteur d'un véhicule quelconque, de ne pas s'arrêter, sachant qu'il vient de causer ou d'occasionner un accident)",
+        "• Destruction, dégradation volontaire ou involontaire",
+        "• Infractions concernant le dépôt sauvage ou la collecte des ordures",
+        "• Vente forcée par correspondance.",
+        "La plainte peut être effectuée en ligne à l'aide du service suivant :",
+        "Plainte en ligne",
+        "En fonction des éléments déclarés, vous pouvez être contacté par un policier ou un gendarme pour venir compléter votre déclaration en commissariat ou en gendarmerie.",
+        "Votre déclaration est traitée par un agent qui détermine si elle remplit les conditions pour faire l'objet d'un procès verbal de plainte.",
+        "Si votre déclaration est acceptée, vous êtes informé qu'une copie numérique du procès-verbal de plainte est mise en ligne.",
+        "Sinon, vous recevez un mail vous indiquant le motif du rejet de votre déclaration.",
+        "Vous connaissez l'auteur des faits",
+        "Vous ne pouvez pas porter plainte en ligne. Vous devez déposer plainte sur place ou par courrier.",
+        "Vous êtes victime d'une arnaque sur internet (THESEE)",
+        "Vous pouvez déposer plainte en ligne sur THESEE uniquement dans les cas suivants :",
+        "• Vous êtes victime d'un rançongiciel",
+        "• Votre messagerie électronique a été piratée et votre identité a été usurpée pour entrer en relation avec vos contacts",
+        "• Vous êtes victime de phishing (hameçonnage)",
+        "• Vous avez acheté sur un faux site commercial",
+        "• Vous avez acheté auprès d'un faux vendeur sur un site de petites annonces (escroquerie à la petite annonce)",
+        "• Vous êtes victime de chantage",
+        "• Vous êtes victime de chantage ou de menaces lors d'une relation amoureuse ou amicale sur internet.",
+        "L'utilisation du service en ligne THESEE est recommandée, mais n'est pas une obligation. La police ou la gendarmerie ne peut pas vous imposer l'utilisation de cet outil.",
+        "La déclaration effectuée sur THESEE est par la suite transmise à la police nationale.",
+        "[Attention] Si vous n'êtes pas dans un cas prévu par le service en ligne THESEE, vous ne pouvez pas porter plainte en ligne. Vous pouvez utiliser le service de plainte en ligne si vous ne connaissez pas l'auteur des faits ou bien déposer plainte sur place ou par courrier ou éventuellement par visioplainte.",
+        "Vous êtes victime d'une autre infraction",
+        "Vous ne pouvez pas porter plainte en ligne.",
+        "Vous devez déposer plainte sur place ou par courrier.",
+        "Par courrier",
+        "Vous pouvez déposer plainte auprès du procureur de la République.",
+        "Pour cela, vous devez envoyer un courrier au tribunal judiciaire du lieu de l'infraction ou du domicile de l'auteur de l'infraction.",
+        "Tribunal judiciaire ou tribunal de proximité",
+        "Votre courrier doit préciser les éléments suivants :",
+        "• Votre état civil et vos coordonnées complètes (adresse et numéro de téléphone)",
+        "• Récit détaillé des faits, date et lieu de l'infraction",
+        "• Nom de l'auteur supposé si vous le connaissez (sinon, la plainte sera déposée contre X)",
+        "• Nom et adresse des éventuels témoins de l'infraction",
+        "• Description et estimation provisoire ou définitive du préjudice",
+        "• Vos documents de preuve : certificats médicaux, arrêts de travail, photographies, vidéos, factures diverses, constats...",
+        "Vous pouvez utiliser le modèle de courrier suivant :",
+        "Porter plainte auprès du procureur de la République",
+        "Vous pouvez envoyer votre plainte par courrier ou la déposer directement à l'accueil du tribunal.",
+        "Par visioplainte",
+        "Pour certaines infractions, vous pouvez déposer plainte auprès d'un policier ou d'un gendarme en visioconférence.",
+        "La visioplainte peut être réalisée depuis votre domicile ou dans un lieu où vous n’êtes pas exposé au regard des autres. Il nécessite une authentification depuis le portail FranceConnect. Votre ordinateur, tablette ou téléphone doit être équipé d'une caméra intégrée ou d'une webcam pour réaliser la visioplainte.",
+        "Vous choisissez un créneau de rendez-vous en fonction de votre emploi du temps et de la disponibilité du service à partir du service en ligne suivant :",
+        "[Attention] La visioplainte n’est pas possible pour toutes les infractions. Vous devez vérifier votre situation pour voir si votre infraction et la disponibilité du service le permet.",
+        "Porter plainte par visioconférence",
+        "Connexion via France Connect",
+        "Vous pouvez porter plainte contre une personne physique ou une personne morale (une entreprise, une association...).",
+        "Si vous ne connaissez pas l'auteur des faits ou que vous n'êtes pas sûr de son identité, vous pouvez quand même porter plainte. Dans ce cas, votre plainte doit être déposée contre X.",
+        "[À savoir] Vous pouvez être accompagné d’un avocat pour déposer plainte."
+      ]
+    },
+    {
+      "titre": "Qui peut porter plainte ?",
+      "contenu": [
+        "Vous pouvez porter plainte si vous êtes victime d'une infraction.",
+        "Toute personne (majeure, mineure ou majeur protégé) peut porter plainte.",
+        "Si vous représentez une personne morale (société, association...), vous pouvez également porter plainte au nom de la structure."
+      ]
+    },
+    {
+      "titre": "Pour quels faits peut-on porter plainte ?",
+      "contenu": [
+        "Vous devez être victime d'une infraction, c'est-à-dire d'un crime, d'un délit ou d'une contravention pour pouvoir porter plainte. On parle de litige pénal.",
+        "Tous les litiges ne relèvent pas d'un dépôt de plainte. Certains litiges sont uniquement civils ou administratifs parce qu'il n'y pas d'infraction.",
+        "[Exemple] Vous n'avez pas reçu un produit commandé sur un Internet : ce litige est civil. Il peut devenir pénal si vous avez commandé sur un site frauduleux. Dans ce cas, vous êtes victime d'une escroquerie.",
+        "[À savoir] Vous n'êtes pas obligé de qualifier l'infraction dont vous êtes victime quand vous déposez plainte (par exemple, dire que vous êtes victime d'une escroquerie). Il vous suffit de décrire les faits dont vous avez été victime sans définir quelle est l'infraction."
+      ]
+    },
+    {
+      "titre": "Dans quel délai peut-on porter plainte ?",
+      "contenu": [
+        "Vous devez déposer plainte avant la fin du délai de prescription.",
+        "Les délais de prescription sont les suivants :",
+        "• 1 an pour les contraventions (trouble anormal de voisinage, blessures sans ITT ...)",
+        "• 6 ans pour les délits (vol, coups et blessures, escroquerie, non représentation d'enfant ...)",
+        "• 20 ans pour les crimes (meurtre, viol, vol à main armée ...).",
+        "Si les faits sont prescrits, votre plainte ne peut plus aboutir.",
+        "[À savoir] Pour certaines infractions spécifiques, ces délais peuvent être réduits ou allongés. Par exemple, le délai de prescription pour une injure est de 3 mois, alors que celui prévu pour du terrorisme est de 30 ans.",
+        "Le délai de prescription commence en principe à partir du jour où l'infraction a été commise.",
+        "Pour un crime sur un mineur, un nouveau délai commence à partir de la majorité de la victime. Par exemple, une victime mineure d'un viol peut porter plainte jusqu'à ses 48 ans, soit 30 ans après sa majorité (délai particulier de 30 ans qui commence à la majorité)."
+      ]
+    },
+    {
+      "titre": "Quel est le coût d'une plainte ?",
+      "contenu": [
+        "Porter plainte est gratuit."
+      ]
+    },
+    {
+      "titre": "À quoi sert une plainte ?",
+      "contenu": [
+        "La plainte déclenche une enquête de police. L'enquête peut être suivie par un éventuel jugement de l'auteur des faits par le tribunal.",
+        "[Complement] Enquête de police Le dépôt de plainte déclenche une enquête pénale confiée à la police ou à la gendarmerie. L'enquête permet de vérifier l'existence de l'infraction et d'identifier l'auteur. À la fin de l'enquête, le procureur de la République peut prendre une des décisions suivantes : • Classer l'affaire sans suite • Proposer une mesure alternative aux poursuites • Ouvrir une information judiciaire • Faire juger le suspect par une juridiction pénale. Jugement de l'affaire Si l'auteur des faits est reconnu coupable par le tribunal, il est condamné à une peine pénale (prison, amende...). Sinon, il est relaxé ou acquitté. Si vous vous êtes constitué partie civile, l'auteur des faits peut également être condamné à réparer votre préjudice (par le paiement de dommages-intérêts par exemple). [À savoir] Vous pouvez faire convoquer une personne dont vous vous estimez victime devant le juge pénal par une citation directe. Vous n'êtes pas obligé d'avoir déposé plainte avant."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de procédure pénale : articles 1 à 10",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000024458637/#LEGISCTA000024458641"
+    },
+    {
+      "titre": "Code de procédure pénale : articles 12 à 15-5",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006167411/"
+    },
+    {
+      "titre": "Code de procédure pénale : articles 39 à 44-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006167418/"
+    },
+    {
+      "titre": "Décret n°2018-388 du 24 mai 2018 relatif au traitement automatisé de données à caractère personnel dénommé \"pré-plainte en ligne\"",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000036940172/"
+    },
+    {
+      "titre": "Arrêté du 26 juin 2020 sur la création du traitement harmonisé des enquêtes et des signalements pour les e-escroqueries (THESEE)",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000042056637/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Trouver un commissariat ou une gendarmerie pour déposer plainte",
+      "url": "https://www.masecurite.interieur.gouv.fr/fr/trouver-un-commissariat-une-gendarmerie",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Porter plainte auprès du procureur de la République",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/Porter_plainte",
+      "type": "lettreTypeNG"
+    },
+    {
+      "titre": "Plainte en ligne",
+      "url": "https://www.masecurite.interieur.gouv.fr/fr/demarches-en-ligne/plainte-en-ligne",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "J'échange avec un policier ou un gendarme",
+    "116 006 - Numéro d'aide aux victimes",
+    "Violences Femmes Info - 3919"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Services d’aide aux victimes",
+      "url": "http://www.justice.gouv.fr/aide-aux-victimes-10044/"
+    }
+  ],
+  "slug": "porter-plainte",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "affaire-penale",
+      "titre": "Affaire pénale"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": "F21392",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Qu'est-ce qu'un projet d'accueil individualisé (PAI) ?",
+  "theme": "Famille - Scolarité",
+  "description": "Le PAI est un document précisant les adaptations à apporter à la vie en collectivité d'un enfant atteint d'un trouble de la santé ou d'une maladie longue durée.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-05-21",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F21392",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "École primaire (maternelle et élémentaire)",
+    "Qu'est-ce qu'un projet d'accueil individualisé (PAI) ?"
+  ],
+  "introduction": "Votre enfant est atteint d'un trouble de la santé ou d'une maladie de longue durée et sa vie en collectivité (crèche, école, collège, lycée, centre de loisirs) doit être adaptée ? Un projet d'accueil individualisé (PAI) peut alors être établi. Il s'agit d'un document organisant sa vie quotidienne en établissement et précisant ses besoins thérapeutiques. Objectifs, élaboration, contenu : voici les informations à connaître sur le PAI.",
+  "chapitres": [
+    {
+      "titre": "Quels sont les objectifs d'un projet d'accueil individualisé (PAI) ?",
+      "contenu": [
+        "Le projet d'accueil individualisé (PAI) est un document écrit qui précise les adaptations à apporter à la vie de l'enfant ou adolescent en collectivité (crèche, école, collège, lycée, centre de loisirs).",
+        "Il concerne les enfants et adolescents atteints de troubles de la santé comme une pathologie chronique (par exemple, l'asthme), une allergie, une intolérance alimentaire. Les enfants et adolescents atteints d'une maladie de longue durée (par exemple, un cancer) sont aussi concernés.",
+        "Le PAI peut concerner le temps scolaire, mais aussi le temps périscolaire. Il se nomme ainsi parfois PAIP (pour projet d'accueil individualisé périscolaire)."
+      ]
+    },
+    {
+      "titre": "Comment est élaboré un projet d'accueil individualisé (PAI) ?",
+      "contenu": [
+        "Le PAI est élaboré à la demande de la famille et/ou du chef d'établissement avec l'accord de la famille.",
+        "Il est établi en concertation avec le médecin scolaire, le médecin de la protection maternelle et infantile (PMI) ou le médecin et l'infirmier de la collectivité d'accueil.",
+        "Le document est d'abord signé par les différents partenaires convoqués au préalable par le chef d'établissement. Il est ensuite communiqué aux personnes de la communauté éducative concernées."
+      ]
+    },
+    {
+      "titre": "Quel est le contenu d'un projet d'accueil individualisé (PAI) ?",
+      "contenu": [
+        "Les besoins thérapeutiques de votre enfant sont précisés dans l'ordonnance signée par le médecin qui le suit pour sa pathologie.",
+        "Le PAI doit notamment contenir des informations sur les points suivants :",
+        "• Régimes alimentaires à appliquer",
+        "• Conditions des prises de repas",
+        "• Aménagements d'horaires",
+        "• Dispenses de certaines activités incompatibles avec la santé de l'enfant ou de l'adolescent",
+        "• Activités de substitution proposées."
+      ]
+    },
+    {
+      "titre": "Quelle est la durée d'un projet d'accueil individualisé (PAI) ?",
+      "contenu": [
+        "Le PAI concerne une pathologie ou un trouble constaté pendant l'année scolaire. Sa durée de validité peut donc varier.",
+        "Il peut être reconduit d'une année sur l'autre.",
+        "Le PAI peut aussi être revu et adapté en cas d'évolution de la pathologie ou en prévision d'un voyage ou d'une sortie scolaire."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'éducation : articles L351-1 à L351-4",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006166743"
+    },
+    {
+      "titre": "Circulaire du 10 février 2021 relative aux projets d'accueil individualisé (PAI)",
+      "url": "https://www.education.gouv.fr/bo/21/Hebdo9/MENE2104832C.htm"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Aide - Handicap - École",
+    "Établissement scolaire"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Projet d'accueil individualisé (PAI)",
+      "url": "https://www.education.gouv.fr/l-accueil-des-eleves-besoins-specifiques-la-mise-en-place-d-un-projet-d-accueil-individualise-6695"
+    }
+  ],
+  "slug": "qu-est-ce-qu-un-projet-d-accueil-individualise-pai",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "ecole-primaire-maternelle-et-elementaire",
+      "titre": "École primaire (maternelle et élémentaire)"
+    }
+  ]
+}

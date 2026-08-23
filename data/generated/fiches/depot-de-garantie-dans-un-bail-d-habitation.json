@@ -1,0 +1,123 @@
+{
+  "id": "F31269",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Dépôt de garantie dans un bail d'habitation",
+  "theme": "Logement",
+  "description": "Le propriétaire peut exiger le versement d'un dépôt de garantie pour couvrir les éventuels futurs manquements du locataire à ses obligations.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-06-09",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31269",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Location immobilière : bail d’habitation (contrat de location)",
+    "Dépôt de garantie dans un bail d'habitation"
+  ],
+  "introduction": "Lorsque le locataire utilise le logement comme résidence principale, le propriétaire (ou l’agence immobilière) peut exiger le paiement d’un dépôt de garantie (parfois appelé par erreur caution), la plupart du temps. Le dépôt de garantie est une somme que le propriétaire encaisse pour se prémunir d’éventuels futurs manquements du locataire à ses obligations. À la fin du bail, il doit le restituer au locataire, à certaines conditions. Nous vous expliquons.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les règles applicables au dépôt de garantie sont différentes, selon que le logement est loué avec un bail de logement vide, ou avec un bail de logement meublé :"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 3",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039369598/"
+    },
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 4",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000028806566/"
+    },
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 22",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000028806696/"
+    },
+    {
+      "titre": "Loi n° 89-462 du 6 juillet 1989 sur les rapports locatifs : article 25-3",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042120923/"
+    },
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 25-6",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000028779187/"
+    },
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 3-2",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000031009767/"
+    },
+    {
+      "titre": "Code civil : article 1731",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006442883/"
+    },
+    {
+      "titre": "Code de procédure civile : article 750-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039501708/"
+    },
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 7-1",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000028777184/"
+    },
+    {
+      "titre": "Arrêté du 28 février 2024 fixant les tarifs réglementés des huissiers de justice et commissaires-priseurs judiciaires (mai 2024 - février 2026)",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000049209818/"
+    },
+    {
+      "titre": "Arrêté du 25 février 2026 fixant les tarifs réglementés des commissaires de justice, huissiers de justice et commissaires-priseurs judiciaires à partir de mars 2026",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053593863"
+    },
+    {
+      "titre": "Code des procédures civiles d'exécution : article L511-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025026106/"
+    },
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 7",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038834730/"
+    },
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 21",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000028806698/"
+    },
+    {
+      "titre": "Loi n° 89-462 du 6 juillet 1989 sur les rapports locatifs : article 25-17",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000037649098/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demander le remboursement du dépôt de garantie non restitué",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/RemboursementDepotGarantie",
+      "type": "lettreTypeNG"
+    },
+    {
+      "titre": "Contester la facture des travaux de remise en état de son ancien logement",
+      "url": "https://www.inc-conso.fr/content/apres-votre-depart-le-proprietaire-fait-des-travaux-vous-en-contestez-la-facture",
+      "type": "lettreTypeNG"
+    }
+  ],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Le dépôt de garantie en 10 questions",
+      "url": "https://www.inc-conso.fr/content/le-depot-de-garantie-en-10-questions"
+    },
+    {
+      "titre": "La restitution du dépôt de garantie",
+      "url": "https://www.inc-conso.fr/content/la-restitution-du-depot-de-garantie-avec-lafoc"
+    }
+  ],
+  "slug": "depot-de-garantie-dans-un-bail-d-habitation",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "location-immobiliere-bail-d-habitation-contrat-de-location",
+      "titre": "Location immobilière : bail d’habitation (contrat de location)"
+    }
+  ]
+}

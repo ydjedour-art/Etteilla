@@ -1,0 +1,76 @@
+{
+  "id": "F17375",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Peut-on vendre ou acheter un véhicule non roulant ?",
+  "theme": "Transports - Mobilité",
+  "description": "La vente d'un véhicule ne pouvant plus rouler (ou de ses pièces détachées) est interdite et passible d'amende.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-01-23",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F17375",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Carte grise (certificat d'immatriculation)",
+    "Peut-on vendre ou acheter un véhicule non roulant ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Non, un véhicule (voiture, camionnette, moto, ...) qui n'est plus en état de rouler ne peut pas être vendu à un particulier, même en pièces détachées. Il peut être vendu seulement à un professionnel de l'automobile.",
+        "Si le véhicule est soumis au contrôle technique, le procès-verbal ne peut plus indiquer « véhicule non-roulant ». De même, il n’est pas possible d’avoir un certificat d’immatriculation (appelé auparavant carte grise) portant la mention « véhicule non-roulant ».",
+        "Toutefois, vous pouvez conserver chez vous un véhicule qui ne peut plus rouler si vous souhaitez :",
+        "• Récupérer et réutiliser certaines pièces du véhicule pour un usage strictement personnel",
+        "• Ou transformer, réparer, ou réhabiliter ce véhicule pour un usage strictement personnel.",
+        "Vous devez, dans ces cas, faire une déclaration de retrait de la circulation.",
+        "Si vous souhaitez vous débarrasser du véhicule, vous devez obligatoirement le remettre à un centre VHU agréé s'il s'agit d'une voiture particulière, d’une camionnette, d’un véhicule à moteur à 2 ou à 3 roues ou d’un quadricycle à moteur.",
+        "Pour être accepté gratuitement par ces professionnels, le véhicule doit encore avoir ses composants essentiels (groupe motopropulseur, pot catalytique pour les véhicules qui en étaient équipés lors de leur mise sur le marché ou carrosserie). De plus, il ne doit pas contenir des déchets ou équipements non homologués qui lui ont été ajoutés.",
+        "[Attention] L'abandon d'un véhicule est passible d'une amende pouvant aller de 1 500 € (pour une personne physique) à 15 000 € (pour une personne morale en cas de récidive)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'environnement : article R541-77",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006188963/"
+    },
+    {
+      "titre": "Code de l'environnement : articles R543-153 à R543-165",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000046669583/"
+    },
+    {
+      "titre": "Code de la route : articles R322-1 à R322-14",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074228/LEGISCTA000006177098"
+    },
+    {
+      "titre": "Arrêté du 18 juin 1991 relatif au contrôle technique des véhicules dont le poids n'excède pas 3,5 tonnes",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000020559004/"
+    },
+    {
+      "titre": "Arrêté du 9 février 2009 relatif aux démarches d'immatriculation des véhicules",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000020237165"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Démolisseurs de VHU"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Liste des centres VHU référencés dans le SIV",
+      "url": "https://immatriculation.ants.gouv.fr/services-et-formulaires/garages-habilites-a-detruire-votre-vehicule"
+    }
+  ],
+  "slug": "peut-on-vendre-ou-acheter-un-vehicule-non-roulant",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "carte-grise-certificat-d-immatriculation",
+      "titre": "Carte grise (certificat d'immatriculation)"
+    }
+  ]
+}

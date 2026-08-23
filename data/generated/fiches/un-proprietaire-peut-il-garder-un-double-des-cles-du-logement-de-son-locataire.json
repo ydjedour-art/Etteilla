@@ -1,0 +1,63 @@
+{
+  "id": "F12244",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Un propriétaire peut-il garder un double des clés du logement de son locataire ?",
+  "theme": "Logement",
+  "description": "Le propriétaire (bailleur) peut garder un double des clés du logement du locataire. Mais il ne peut pas entrer dans le logement sans l'accord du locataire.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-08-25",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F12244",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Location immobilière : bail d’habitation (contrat de location)",
+    "Un propriétaire peut-il garder un double des clés du logement de son locataire ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Oui, le propriétaire peut conserver un double des clés du logement qu'il a mis en location.",
+        "Mais il n'a pas le droit d'entrer dans le logement sans l'accord du locataire.",
+        "Même en cas d'urgence (par exemple, un dégât des eaux), le propriétaire doit avoir l'autorisation du locataire, avant d'entrer dans le logement.",
+        "Si le propriétaire entre dans le logement sans l'accord du locataire, le locataire peut porter plainte pour violation de domicile. Le propriétaire peut être condamné à une peine allant jusqu'à 3 ans de prison et à une amende pouvant atteindre 45 000 €.",
+        "[À savoir] Rien n'interdit au locataire de changer la serrure ou le barillet de la porte pendant toute la période du bail, à la condition de remettre la porte à son état initial lorsqu'il quitte définitivement le logement."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : article 544",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006428859"
+    },
+    {
+      "titre": "Code pénal : article 226-4",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030776820/"
+    },
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 6",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000037670751/"
+    },
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 7",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038834730/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "un-proprietaire-peut-il-garder-un-double-des-cles-du-logement-de-son-locataire",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "location-immobiliere-bail-d-habitation-contrat-de-location",
+      "titre": "Location immobilière : bail d’habitation (contrat de location)"
+    }
+  ]
+}

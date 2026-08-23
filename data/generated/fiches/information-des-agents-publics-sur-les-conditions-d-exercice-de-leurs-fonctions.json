@@ -1,0 +1,93 @@
+{
+  "id": "F37409",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Information des agents publics sur les conditions d'exercice de leurs fonctions",
+  "theme": "Travail - Formation",
+  "description": "Les administrations employeurs ont une obligation d'information à l'égard de leurs agents sur les conditions d'exercice de leurs fonctions.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-01-16",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F37409",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Conditions de travail dans la fonction publique",
+    "Information des agents publics sur les conditions d'exercice de leurs fonctions"
+  ],
+  "introduction": "Les administrations employeurs ont une obligation d'information à l'égard de leurs agents sur les conditions d'exercice de leurs fonctions. Nous vous présentons en quoi consiste cette obligation d'information.",
+  "chapitres": [
+    {
+      "titre": "Quelles informations doit fournir l'administration employeur à un agent ?",
+      "contenu": [
+        "Votre administration employeur doit vous communiquer les informations et les règles essentielles portant sur l'exercice de vos fonctions.",
+        "Vous devez ainsi recevoir communication au minimum des informations suivantes :",
+        "• Nom et adresse de l'autorité administrative qui assure votre gestion",
+        "• Votre corps ou cadre d'emplois d'appartenance et votre grade si vous êtes fonctionnaire ou votre catégorie hiérarchique si vous êtes contractuel",
+        "• Date de début d'exercice de vos fonctions",
+        "• S’il y a lieu, date de début de votre période de stage ou de votre période d'essai, et sa durée",
+        "• Durée de votre contrat si vous êtes recruté en CDD",
+        "• Le ou les lieux d'exercice de vos fonctions ou, si vous n’avez pas de lieu fixe ou principal, l'indication selon laquelle vos fonctions sont exercées sur plusieurs lieux",
+        "• Si vos fonctions sont exercées à l'étranger, mention du ou des États où elles sont assurées et devise servant au paiement de votre rémunération et, s'il y a lieu, avantages en espèces ou en nature et conditions de rapatriement",
+        "• Durée de travail ou régime de travail, règles concernant l'organisation du travail qui vous sont applicables et, s’il y a lieu, règles concernant les heures supplémentaires",
+        "• Montant de votre rémunération et éléments constitutifs, périodicité et conditions de versement de votre rémunération",
+        "• Droits à congés rémunérés",
+        "• Droits à la formation",
+        "• Accords collectifs concernant vos conditions de travail comportant des dispositions définissant des mesures réglementaires",
+        "• Organisme de sécurité sociale qui perçoit vos cotisations sociales et dispositifs de protection sociale",
+        "• Procédures et droits en cas de cessation de ses fonctions."
+      ]
+    },
+    {
+      "titre": "Comment l'administration employeur doit-elle fournir les informations à l'agent ?",
+      "contenu": [
+        "Vous recevez communication des informations qui ne figurent pas déjà dans votre contrat.",
+        "Ces informations vous sont communiquées en une ou plusieurs fois, au plus tard dans les 7 jours calendaires suivant votre 1er jour de travail.",
+        "Si vous exercez vos fonctions à l'étranger, vous recevez communication de ces informations avant votre départ. Il vous est précisé la durée de votre affectation à l’étranger.",
+        "Les informations vous sont communiquées par un ou plusieurs écrits remis en mains propres ou adressés par courrier postal.",
+        "La communication des informations peut aussi être effectuée sous format électronique. Dans ce cas, vous devez pouvoir enregistrer et imprimer les documents. Et votre administration conserve un justificatif de leur transmission et de leur réception.",
+        "Les informations peuvent consister en un simple renvoi aux dispositions législatives et réglementaires applicables s’agissant des sujets suivants :",
+        "• Date de début de votre période de stage ou de votre période d'essai, et sa durée",
+        "• Devise servant au paiement de votre rémunération",
+        "• Durée de travail ou régime de travail, règles concernant l'organisation du travail qui vous sont applicables et, s’il y a lieu, règles concernant les heures supplémentaires",
+        "• Montant de votre rémunération et éléments constitutifs, périodicité et conditions de versement de votre rémunération",
+        "• Droits à congés rémunérés",
+        "• Droits à la formation",
+        "• Organisme de sécurité sociale qui perçoit vos cotisations sociales et dispositifs de protection sociale",
+        "• Procédures et droits en cas de cessation de ses fonctions.",
+        "Si votre situation change et nécessite une modification d’une information, vous recevez communication de cette nouvelle information au plus tard à la date d'effet de votre changement de situation. C’est l'autorité administrative qui assure votre gestion qui procède à la communication des informations.",
+        "Si vous êtes détaché sur un emploi public, la communication des informations concernant cet emploi et à la durée de votre détachement peut être faite par l'autorité administrative dont relève l'emploi que vous occupez.",
+        "Si vous êtes mis à disposition, la convention de mise à disposition précise quelle est l'autorité administrative qui doit vous communiquer les informations concernant l'emploi que vous occupez et à la durée de votre mise à disposition."
+      ]
+    },
+    {
+      "titre": "Que peut faire l'agent si l'obligation d'information n'est pas respectée par l'administration employeur ?",
+      "contenu": [
+        "Si une ou plusieurs informations ne vous ont pas été communiquées dans les 7 jours calendaires suivant votre 1er jour de travail, vous pouvez en demander communication à tout moment à l'autorité administrative qui assure votre gestion.",
+        "Si vous avez été nommé ou recruté avant le 1er septembre 2023 et si vous n’avez pas eu communication d’une ou plusieurs informations qui doivent être obligatoirement communiquées par écrit à partir de cette date, vous pouvez en demander communication à tout moment à l'autorité administrative qui assure votre gestion."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général de la fonction publique : articles R115-2 à R115-11",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000050546227/"
+    },
+    {
+      "titre": "Arrêté du 30 août 2023 fixant les modèles de documents d'information prévus par le décret n°2023-845",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000048011480/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "information-des-agents-publics-sur-les-conditions-d-exercice-de-leurs-fonctions",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "conditions-de-travail-dans-la-fonction-publique",
+      "titre": "Conditions de travail dans la fonction publique"
+    }
+  ]
+}

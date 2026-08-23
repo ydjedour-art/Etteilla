@@ -1,0 +1,106 @@
+{
+  "id": "F10203",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Droits de donation - Biens imposables et principales exonérations",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Le bénéficiaire d'une donation doit payer des droits de donation sur les biens et sommes d'argent reçus du donateur, sauf exonérations.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-01-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F10203",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Droits de succession et de donation",
+    "Droits de donation - Biens imposables et principales exonérations"
+  ],
+  "introduction": "Vous avez reçu de l'argent ou un bien par donation ? Vous devez payer des droits de donation sur ce que vous avez reçu. Des exonérations existent, soit selon le type de biens donnés (argent, biens immobiliers, etc.), soit selon le bénéficiaire du don (dons familiaux, victimes d'actes de terrorisme). Les règles varient selon que le donateur est domicilié en France ou à l'étranger. Nous vous indiquons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code général des impôts : article 750 ter",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006197407/"
+    },
+    {
+      "titre": "Code général des impôts : articles 779 à 787 C",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006199106/"
+    },
+    {
+      "titre": "Code général des impôts : articles 790 à 791 ter",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006199108/"
+    },
+    {
+      "titre": "Code général des impôts : articles 792-0 bis à 797 A",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006191749/"
+    },
+    {
+      "titre": "Code général des impôts : article 1131",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006179796/"
+    },
+    {
+      "titre": "Décret n° 2025-1082 du 17 novembre 2025 relatif à l'obligation de souscription et de paiement par voie dématérialisée des déclarations de dons manuels et de sommes d'argent",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000052587554/"
+    },
+    {
+      "titre": "BOFIP-Impôts n° BOI-ENR-DMTG-20 relatif au régime fiscal des donations",
+      "url": "https://bofip.impots.gouv.fr/bofip/2691-PGP"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-ENR-DMTG-20-20-10 relatif aux régimes spéciaux (donation-partage, etc.) en matière de droits de donation",
+      "url": "http://bofip.impots.gouv.fr/bofip/3339-PGP.html"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-ENR-DMTG-20-20-20 relatif aux exonérations de droits de donation",
+      "url": "http://bofip.impots.gouv.fr/bofip/3362-PGP"
+    },
+    {
+      "titre": "Bofip-impôts n°BOI-ENR-DMTG-10-10-30 relatif aux règles de territorialité en matière de droits de mutation à titre gratuit",
+      "url": "https://bofip.impots.gouv.fr/bofip/3543-PGP.html/identifiant=BOI-ENR-DMTG-10-10-30-20120912"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Déclaration de don manuel et de don de sommes d'argent",
+      "url": "https://www.impots.gouv.fr/portail/node/9032",
+      "type": "formulaireNG"
+    }
+  ],
+  "contacts": [
+    "Service d'information des impôts",
+    "Notaire",
+    "Service en charge des impôts (trésorerie, service des impôts...)",
+    "Service des impôts des entreprises (SIE)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Site des impôts",
+      "url": "https://www.impots.gouv.fr/portail/"
+    },
+    {
+      "titre": "Que puis-je donner à mes enfants, petits-enfants sans payer de droits ?",
+      "url": "https://www.impots.gouv.fr/portail/particulier/questions/que-puis-je-donner-mes-enfants-petits-enfants-sans-avoir-payer-de-droits"
+    },
+    {
+      "titre": "Je fais une donation ou je reçois un don",
+      "url": "https://www.impots.gouv.fr/particulier/je-fais-une-donation"
+    },
+    {
+      "titre": "Donation d'entreprises : conditions de réduction des droits de donation",
+      "url": "https://www.impots.gouv.fr/portail/professionnel/transmission-titre-gratuit"
+    },
+    {
+      "titre": "Je ne suis pas résident de France, mais j'ai des intérêts en France",
+      "url": "https://www.impots.gouv.fr/international-particulier/je-ne-suis-pas-resident-de-france-mais-jai-des-interets-en-france"
+    }
+  ],
+  "slug": "droits-de-donation-biens-imposables-et-principales-exonerations",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "droits-de-succession-et-de-donation",
+      "titre": "Droits de succession et de donation"
+    }
+  ]
+}

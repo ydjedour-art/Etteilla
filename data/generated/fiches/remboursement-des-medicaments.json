@@ -1,0 +1,220 @@
+{
+  "id": "F21760",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Remboursement des médicaments",
+  "theme": "Social - Santé",
+  "description": "L'Assurance maladie prend en charge tout ou partie des médicaments achetés en pharmacie sous certaines conditions.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-03-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F21760",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Remboursement des soins par la Sécurité sociale",
+    "Remboursement des médicaments"
+  ],
+  "introduction": "Vous souhaitez savoir à quelle hauteur sont remboursés les médicaments ? L'Assurance maladie (Sécurité sociale) prend en charge tout ou partie des médicaments achetés en pharmacie. Cela dépend à la fois du médicament concerné et des conditions de prescription et de délivrance. Le taux de remboursement dépend du service médical rendu c'est-à-dire de l'intérêt que ce médicament a d'un point de vue médical. Nous vous présentons les règles à connaître.",
+  "chapitres": [
+    {
+      "titre": "Quelles sont les conditions de prise en charge des médicaments ?",
+      "contenu": [
+        "3 conditions cumulatives doivent être réunies pour un remboursement : le médicament est inscrit sur une liste, il est prescrit par un professionnel de santé et est délivré par un pharmacien.",
+        "Médicaments inscrits sur une liste",
+        "Pour être remboursé, le médicament doit figurer sur la liste des médicaments remboursables aux assurés sociaux.",
+        "[À noter] Les médicaments homéopathiques et les préparations magistrales homéopathiques (PMH) ne sont plus remboursés par l’Assurance maladie.",
+        "[Complement] Il existe des substituts nicotiniques. Il s'agit d'un traitement médicamenteux qui augmente les chances de réussir à arrêter de fumer. Les substituts nicotiniques sur la liste des substituts nicotiniques remboursés sont remboursés à 65 % sur prescription médicale. La part des dépenses qui reste à votre charge (après remboursement de l'Assurance maladie et avant déduction des participations forfaitaires) peut être pris en charge par votre complémentaire. [À savoir] Les pharmacies peuvent pratiquer la dispense d'avance de frais pour ces produits.",
+        "Prescription par un professionnel de santé",
+        "Le médicament doit être prescrit par un professionnel de santé, dans la limite de ses droits de prescription :",
+        "• Médecin généraliste ou spécialiste",
+        "• Sage-femme (dans les limites d’une liste restrictive de médicaments)",
+        "• Chirurgien-dentiste.",
+        "La prescription doit être faite sur une ordonnance conformément à la réglementation. Ainsi, certaines mentions sont obligatoires (exemples : posologie et durée du traitement ou le nombre de boîtes ou flacons).",
+        "S'il s'agit d'un médicament dit d'exception, la prescription se fait sur un imprimé spécifique appelé ordonnance de médicaments ou de produits et prestations d’exception. Les médicaments dits d'exception sont particulièrement coûteux. L’Ordre national des pharmaciens a listé ces médicaments.",
+        "Délivrance par le pharmacien",
+        "C'est le pharmacien qui vous délivre le médicament.",
+        "En principe, le pharmacien peut vous délivrer une quantité de médicaments correspondant à un traitement d'une durée d'1 mois maximum (sauf par exemple pour un départ à l'étranger de plus d'1 mois).",
+        "D'autres règles de délivrance peuvent s'appliquer en fonction des situations (par exemple, pour un fauteuil roulant).",
+        "[À savoir] Un pharmacien correspondant peut renouveler une ordonnance pour le traitement d'une maladie de longue durée et si nécessaire, adapter la posologie.",
+        "Pour certaines pathologies, et sous conditions, le pharmacien peut délivrer certains médicaments soumis à prescription sans ordonnance.",
+        "La délivrance de ces médicaments implique que le médecin traitant du patient en soit informé par le pharmacien."
+      ]
+    },
+    {
+      "titre": "Comment obtenir le remboursement des médicaments ?",
+      "contenu": [
+        "Pour être remboursé, la feuille de soins doit être transmise à votre organisme d'Assurance maladie (le pharmacien la transmet automatiquement par voie électronique).",
+        "Pour certains médicaments, il est nécessaire de faire une demande d'entente préalable auprès de votre organisme d'Assurance maladie (exemple : pour certains médicaments contre le cholestérol).",
+        "Vous pouvez bénéficier du tiers-payant auprès de la plupart des pharmaciens.",
+        "Si vous refusez un médicament générique, vous serez moins bien remboursé.",
+        "[À savoir] Pensez à mettre à jour votre carte Vitale au moins une fois par an ou lors d'un changement de situation (exemple : déménagement)."
+      ]
+    },
+    {
+      "titre": "À quel taux sont remboursés les médicaments ?",
+      "contenu": [
+        "L'information sur le prix et le taux de remboursement de chaque médicament figurent sur une facture imprimée par le pharmacien au verso de l'ordonnance (facture appelée ticket Vitale).",
+        "Dans la pharmacie, selon que le médicament remboursable est exposé à la vue du public, le prix est indiqué par :",
+        "• Affichage",
+        "• Étiquette",
+        "• Catalogue librement accessible",
+        "• Ou interface internet donnant accès à une base nationale de référence.",
+        "Classification des médicaments",
+        "Les médicaments sont classés en plusieurs catégories en fonction notamment de leur service médical rendu (SMR) : médicament irremplaçable et coûteux, SMR majeur ou important, SMR modéré, SMR faible.",
+        "Taux de remboursement des médicaments en fonction de leur SMR",
+        "Catégories de médicaments",
+        "Taux de remboursement",
+        "Médicament irremplaçable et coûteux",
+        "100 %",
+        "Médicament à SMR majeur ou important",
+        "65 %",
+        "Médicament à SMR modéré et certaines préparations magistrales",
+        "30 %",
+        "Médicament à SMR faible",
+        "15 %",
+        "Le taux de remboursement s'applique sur la base :",
+        "• Du prix de vente (prix fixé réglementairement)",
+        "• Ou d'un tarif forfaitaire de responsabilité (tarif de référence pour le remboursement de certains médicaments).",
+        "[À noter] Les substituts nicotiniques sur la liste des substituts nicotiniques remboursés sont remboursés à 65 % sur prescription médicale.",
+        "Franchise médicale",
+        "Une franchise de 1 € est prélevée sur les médicaments remboursés par l'Assurance maladie (directement sur le décompte de remboursement).",
+        "Le montant de la franchise médicale est plafonné à 50 € par an et par personne.",
+        "[Exemple] Si vous achetez une boîte de médicaments d'un montant de 20 €, et que ce médicament est remboursé à 65 %, l'Assurance maladie vous remboursera 12 €. Détail du calcul : 13 € (65 % de 20 €) auxquels on enlève 1 € de franchise."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la sécurité sociale : articles L162-16 à L162-19-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000006172517"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles R161-39 à R161-49",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000006186377"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles R162-19 à R162-20-7",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000030155778"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles R163-1 à R163-14",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006173275"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles R163-14-4 à R163-14-6",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000038238928"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles R160-5 à R160-20",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000031795491/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles D160-4 à D160-13",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000031805900/"
+    },
+    {
+      "titre": "Code de la santé publique : articles L5125-23 à L5125-32",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000036404810"
+    },
+    {
+      "titre": "Code de la santé publique : articles R5123-1 à D5123-4",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006190680"
+    },
+    {
+      "titre": "Code de la santé publique : articles R5134-4-1 à R5134-4-3",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000026202373/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles D161-6 à D161-13-5",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006172105"
+    },
+    {
+      "titre": "Arrêté du 28 novembre 2014 relatif à l'information du consommateur sur le prix des médicaments dans les officines de pharmacie",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000030189026/"
+    },
+    {
+      "titre": "Arrêté du 27 juin 2014 fixant le modèle des mentions reportées sur l'ordonnance pour chaque spécialité pharmaceutique",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000029147940/"
+    },
+    {
+      "titre": "Arrêté du 12 novembre 2019 précisant les situations médicales dans lesquelles peut être exclue la substitution à la spécialité prescrite d'une spécialité du même groupe générique",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000039393124/"
+    },
+    {
+      "titre": "Arrêté du 5 mai 2021 fixant la liste des pathologies et des médicaments pouvant faire l'objet d'une délivrance par les pharmaciens d'officine",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000043490393/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Rechercher le prix d'un médicament",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/",
+      "type": "outilRechercheNG"
+    },
+    {
+      "titre": "Rechercher un site autorisé pour la vente en ligne de médicaments",
+      "url": "https://www.ordre.pharmacien.fr/je-suis/patient-grand-public/rechercher-un-site-de-vente-en-ligne-autorise-a-vendre-des-medicaments",
+      "type": "outilRechercheNG"
+    },
+    {
+      "titre": "Ordonnance de médicaments ou de produits et prestations d'exception",
+      "url": "http://www.ameli.fr/fileadmin/user_upload/formulaires/S3326.pdf",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Santé Info Droits"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Base des médicaments remboursables par l'Assurance maladie",
+      "url": "https://www.ameli.fr/medecin/exercice-liberal/facturation-remuneration/nomenclatures-codage/medicaments"
+    },
+    {
+      "titre": "Ce qui est remboursé",
+      "url": "https://www.ameli.fr/assure/remboursements/rembourse"
+    },
+    {
+      "titre": "Remboursement des médicaments et tiers payant",
+      "url": "https://www.ameli.fr/assure/remboursements/rembourse/medicaments-vaccins-dispositifs-medicaux/remboursement-medicaments-tiers-payant"
+    },
+    {
+      "titre": "Arrêt du tabac : prise en charge des substituts nicotiniques",
+      "url": "https://www.ameli.fr/assure/remboursements/rembourse/medicaments-vaccins-dispositifs-medicaux/prise-charge-substituts-nicotiniques"
+    },
+    {
+      "titre": "Site de l'Ordre national des pharmaciens",
+      "url": "http://www.ordre.pharmacien.fr/"
+    },
+    {
+      "titre": "Liste des groupes génériques soumis au TFR",
+      "url": "https://www.ameli.fr/medecin/exercice-liberal/remuneration/nomenclatures-codage/medicaments#text_11334"
+    },
+    {
+      "titre": "Liste des substituts nicotiniques pris en charge",
+      "url": "https://www.ameli.fr/sites/default/files/Documents/Liste%20substituts%20nicotiniques%20prise%20en%20charge%20par%20AM_2023.pdf"
+    },
+    {
+      "titre": "Antibiotiques qui peuvent être dispensés sous condition sans ordonnance médicale",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000043490393/"
+    },
+    {
+      "titre": "Règles de délivrance et prise en charge",
+      "url": "https://www.ameli.fr/pharmacien/exercice-professionnel/dispensation-prise-charge/regles-delivrance-prise-charge"
+    },
+    {
+      "titre": "Médicaments à dispensation particulière à l'officine",
+      "url": "https://www.meddispar.fr/"
+    }
+  ],
+  "slug": "remboursement-des-medicaments",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "remboursement-des-soins-par-la-securite-sociale",
+      "titre": "Remboursement des soins par la Sécurité sociale"
+    }
+  ]
+}

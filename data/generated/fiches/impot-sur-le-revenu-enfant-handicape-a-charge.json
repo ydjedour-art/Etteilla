@@ -1,0 +1,91 @@
+{
+  "id": "F2661",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Impôt sur le revenu - Enfant handicapé à charge",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Un enfant handicapé bénéficie d'un rattachement au foyer de ses parents ou d'une imposition séparée, selon son âge et sa situation de famille.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-15",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2661",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Impôt sur le revenu : déclaration et revenus à déclarer",
+    "Impôt sur le revenu - Enfant handicapé à charge"
+  ],
+  "introduction": "Votre enfant est handicapé et vous vous interrogez sur sa situation fiscale ? Il bénéficie d'un rattachement à votre foyer ou d'une imposition séparée, selon son âge et sa situation de famille (célibataire, en couple ou chargé de famille). Nous vous indiquons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code général des impôts : articles 4A à 8 quinquies",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006179569/"
+    },
+    {
+      "titre": "Code général des impôts : articles 193 à 199",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006179577/"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-IR-LIQ-10-10 relatif à la prise en compte de la situation et des charges de famille pour l'impôt sur le revenu",
+      "url": "https://bofip.impots.gouv.fr/node/3647"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-IR-LIQ-10-10-10-10 relatif aux enfants mineurs à charge",
+      "url": "http://bofip.impots.gouv.fr/bofip/2177-PGP"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-IR-LIQ-10-10-10-20 relatif aux enfants majeurs à charge",
+      "url": "http://bofip.impots.gouv.fr/bofip/2175-PGP"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Impôts : accéder à votre espace Finances publiques",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Déclarer vos revenus en ligne",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Déclaration 2026 des revenus 2025 (papier)",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/2042/declaration-des-revenus",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Estimer le montant de son impôt sur les revenus de 2025 (déclaration de 2026)",
+      "url": "https://simulateur-ir-ifi.impots.gouv.fr/calcul_impot/2026/",
+      "type": "simulateurNG"
+    }
+  ],
+  "contacts": [
+    "Service d'information des impôts",
+    "Service en charge des impôts (trésorerie, service des impôts...)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Mon enfant est handicapé, comment le déclarer ?",
+      "url": "https://www.impots.gouv.fr/particulier/questions/mon-enfant-est-handicape-comment-le-declarer"
+    },
+    {
+      "titre": "Brochure pratique 2026 - Déclaration des revenus de 2025",
+      "url": "https://www.impots.gouv.fr/www2/fichiers/documentation/brochure/ir_2026/accueil.htm"
+    },
+    {
+      "titre": "Site des impôts",
+      "url": "https://www.impots.gouv.fr/portail/"
+    }
+  ],
+  "slug": "impot-sur-le-revenu-enfant-handicape-a-charge",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "impot-sur-le-revenu-declaration-et-revenus-a-declarer",
+      "titre": "Impôt sur le revenu : déclaration et revenus à déclarer"
+    }
+  ]
+}

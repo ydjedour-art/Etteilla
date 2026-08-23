@@ -1,0 +1,72 @@
+{
+  "id": "F31300",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Obligation du locataire : assurance habitation couvrant les risques locatifs",
+  "theme": "Argent - Impôts - Consommation, Logement",
+  "description": "Le locataire d'un logement loué avec un bail d'habitation (y compris un bail mobilité) doit prendre une assurance habitation.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-04-16",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31300",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Bail d’habitation : obligations du locataire",
+    "Obligation du locataire : assurance habitation couvrant les risques locatifs"
+  ],
+  "introduction": "Le locataire d'un logement loué avec un bail d'habitation (y compris un bail mobilité) doit-il assurer son logement ? Le locataire a l'obligation de souscrire un contrat d'assurance habitation couvrant au minimum les risques locatifs, c'est-à-dire au moins les risques incendie, dégât des eaux, explosion. S'il ne le fait pas, le propriétaire (ou l'agence immobilière) peut soit résilier le bail, soit prendre une assurance pour le compte du locataire (et se faire rembourser). Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "[Attention] Les règles sont différentes en cas de location d'un meublé de tourisme."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 7",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038834730/"
+    },
+    {
+      "titre": "Loi n° 89-462 du 6 juillet 1989 sur les rapports locatifs : article 25-3",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042120923/"
+    },
+    {
+      "titre": "Loi n° 89-462 du 6 juillet 1989 sur les rapports locatifs : article 25-12",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042120921"
+    },
+    {
+      "titre": "Décret du 30 mars 2016 fixant le montant maximal de la majoration de la prime annuelle d'assurance pour compte du locataire",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000032320582/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Dans le cadre d'un contrat de location et d'un contrat de sous-location, qui du locataire ou du sous-locataire doit s'assurer contre les risques locatifs ?",
+      "url": "https://www.anil.org/documentation-experte/analyses-juridiques-jurisprudence/analyses-juridiques/analyses-juridiques-2000/dans-le-cadre-dun-contrat-de-location-et-dun-contrat-de-sous-location-qui-du-locataire-ou-du-sous-locataire-doit-sassurer-contre-les-risques-locatifs/"
+    },
+    {
+      "titre": "Assurance habitation : rappel de quelques principes",
+      "url": "https://www.anil.org/documentation-experte/analyses-juridiques-jurisprudence/analyses-juridiques/analyses-juridiques-1999/rappel-de-quelques-principes-en-matiere-dassurance-habitation/"
+    },
+    {
+      "titre": "Dans le cadre d'un contrat de location et d'un contrat de sous-location, qui du locataire ou du sous-locataire doit s'assurer contre les risques locatifs ?",
+      "url": "https://www.anil.org/documentation-experte/analyses-juridiques-jurisprudence/analyses-juridiques/analyses-juridiques-2000/dans-le-cadre-dun-contrat-de-location-et-dun-contrat-de-sous-location-qui-du-locataire-ou-du-sous-locataire-doit-sassurer-contre-les-risques-locatifs/"
+    }
+  ],
+  "slug": "obligation-du-locataire-assurance-habitation-couvrant-les-risques-locatifs",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "bail-d-habitation-obligations-du-locataire",
+      "titre": "Bail d’habitation : obligations du locataire"
+    }
+  ]
+}

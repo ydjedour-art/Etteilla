@@ -1,0 +1,33 @@
+{
+  "id": "F36739",
+  "type_publication": "Recherche guidée",
+  "titre": "Quelles sont les règles pour hériter ?",
+  "theme": "Famille - Scolarité",
+  "description": "Quelles sont les règles pour hériter ?",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2026-06-16",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F36739",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Héritage : ordre et droits des héritiers",
+    "Quelles sont les règles pour hériter ?"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "quelles-sont-les-regles-pour-heriter-f36739",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "heritage-ordre-et-droits-des-heritiers",
+      "titre": "Héritage : ordre et droits des héritiers"
+    }
+  ]
+}

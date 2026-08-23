@@ -1,0 +1,109 @@
+{
+  "id": "F1656",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Procédure de changement de nom de famille par décret (motif légitime)",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Il est possible de demander à changer de nom en invoquant un motif légitime. En cas de décision favorable, un décret est pris par le ministère de la justice.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-01-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1656",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Changement d'état civil",
+    "Procédure de changement de nom de famille par décret (motif légitime)"
+  ],
+  "introduction": "Vous avez un motif légitime pour changer votre nom de famille ? Par exemple, votre nom est difficile à porter ? Vous pouvez utiliser la procédure de changement de nom par décret. Cette page vous indique les étapes à suivre pour faire cette démarche. Elle diffère selon que vous résidez en France ou à l'étranger.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code civil : articles 60 à 61-4",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006149971/#LEGISCTA000006149971"
+    },
+    {
+      "titre": "Loi n°72-964 du 25 janvier 1972 relative à la francisation des noms et prénoms des personnes qui acquièrent, recouvrent ou se font reconnaître la nationalité française",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000322317"
+    },
+    {
+      "titre": "Décret n°94-52 du 20 janvier 1994 relatif à la procédure de changement de nom",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000546000/"
+    },
+    {
+      "titre": "Arrêté du 19 novembre 2021 relatif aux tarifs et modalités de publication des annonces judiciaires et légales",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000044378066/"
+    },
+    {
+      "titre": "Arrêté du 9 novembre 2017 fixant le montant des rémunérations dues en contrepartie des services rendus par la direction de l'information légale et administrative",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000035993970"
+    },
+    {
+      "titre": "Arrêté du 8 décembre 2014 fixant le montant des rémunérations dues en contrepartie des services rendus par la Direction de l'information légale et administrative : article 2-4",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000029878661"
+    },
+    {
+      "titre": "Circulaire du 10 juillet 2025 de présentation du décret n° 2025-619 portant diverses mesures de simplification de la procédure civile.",
+      "url": "https://www.justice.gouv.fr/documentation/bulletin-officiel/circulaire-presentation-du-decret-ndeg-2025-619-portant-diverses-mesures"
+    },
+    {
+      "titre": "Circulaire du 26 juillet 2017 relative à diverses dispositions en matière de droit des personnes et de la famille de la loi n°2016-1547 du 18 novembre 2016",
+      "url": "https://www.legifrance.gouv.fr/circulaire/id/42552"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demande de publication au Journal officiel d'une annonce préalable de changement de nom pour motif légitime",
+      "url": "https://demarches.service-public.gouv.fr/mademarche/pub-changement-nom/demarche",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Accéder à l'annonce préalable de changement de nom pour motif légitime après sa publication au Journal officiel",
+      "url": "https://www.legifrance.gouv.fr/",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Chercher un support habilité à publier une annonce légale (Shal) pour publier une annonce de changement de nom de famille",
+      "url": "https://actulegales.fr/",
+      "type": "Outil de recherche"
+    },
+    {
+      "titre": "Changement de nom pour motif légitime : trouver un extrait du Journal Officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/jo",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Requête en autorisation de changement de nom d'un mineur pour motif légitime en cas de désaccord des parents",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_15874.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Changement de nom pour motif légitime : modèles de publication",
+      "url": "",
+      "type": "Modèle de document"
+    },
+    {
+      "titre": "Bordereau des pièces jointes pour un dossier de changement de nom",
+      "url": "",
+      "type": "Modèle de document"
+    },
+    {
+      "titre": "Demande de mise à jour des actes de l’état civil à la suite d’un changement de nom autorisé par décret",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_17585.do",
+      "type": "formulaireNG"
+    }
+  ],
+  "contacts": [
+    "Maison de justice et du droit"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "procedure-de-changement-de-nom-de-famille-par-decret-motif-legitime",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "changement-d-etat-civil",
+      "titre": "Changement d'état civil"
+    }
+  ]
+}

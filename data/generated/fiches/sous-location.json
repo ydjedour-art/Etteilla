@@ -1,0 +1,33 @@
+{
+  "id": "F36010",
+  "type_publication": "Recherche guidée",
+  "titre": "Sous-location",
+  "theme": "Logement",
+  "description": "Sous-location",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2025-07-24",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F36010",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Bail d’habitation : obligations du locataire",
+    "Sous-location"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "sous-location",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "bail-d-habitation-obligations-du-locataire",
+      "titre": "Bail d’habitation : obligations du locataire"
+    }
+  ]
+}

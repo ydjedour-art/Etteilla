@@ -1,0 +1,67 @@
+{
+  "id": "F35680",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Que faire d'un animal trouvé mort sur la voie publique ?",
+  "theme": "Loisirs - Sports - Culture",
+  "description": "Si vous trouvez un animal mort sur la voie publique, vous pouvez en demander l'enlèvement à votre mairie.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-01-02",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35680",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Loisirs - Sports - Culture",
+    "Animal de compagnie",
+    "Que faire d'un animal trouvé mort sur la voie publique ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "La désignation de l’entreprise chargée de la collecte et de l’élimination des cadavres d’animaux relève de la compétence de l’État.",
+        "Dans chaque département, la DDPP est en mesure de communiquer le nom et les coordonnées du prestataire chargé de l’équarrissage.",
+        "Direction départementale de la protection des populations (DDPP) ou de l'emploi, du travail, des solidarités et de la protection des populations (DDETSPP)",
+        "Parfois ces informations sont reprises dans un arrêté préfectoral affiché en mairie.",
+        "Qui doit demander l’enlèvement de l'animal mort à la société d'équarrissage ?",
+        "Le propriétaire de l’animal, s’il est connu.",
+        "Si le propriétaire est inconnu ou s’il s’agit d’un animal sauvage mort :",
+        "• Sur un terrain privé : le propriétaire du terrain",
+        "• Sur un espace public communal ou une voie publique communale : le maire de la commune",
+        "• En bordure d’une route départementale : le service en charge des routes du Conseil départemental",
+        "• En bordure d’une route nationale ou d’une autoroute non concédée : la direction interdépartementale des routes",
+        "• En bordure d’une autoroute concédée : la société concessionnaire",
+        "• En bordure d’un canal : Voies Navigables de France.",
+        "Le maire, lorsqu’il n’est pas juridiquement compétent, peut saisir l’administration compétente pour demander l’enlèvement."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code rural et de la pêche maritime : articles L226-1 à L226-9",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006152404"
+    },
+    {
+      "titre": "Code rural et de la pêche maritime : articles R226-1 à R226-15",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071367/LEGISCTA000006168834"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Animal mort ou en détresse : quelle conduite tenir ?",
+      "url": "https://oai-gem.ofb.fr/exl-php/document-affiche/cli_recherche_api/OUVRE_DOC/DOC00086615?vue=cli_recherche_api&amp;action=OUVRE_DOC&amp;cid=DOC00086615&amp;fic=IMPORTS/DICOM2025/plaquette-animaux-detresse.pdf"
+    }
+  ],
+  "slug": "que-faire-d-un-animal-trouve-mort-sur-la-voie-publique",
+  "path": [
+    {
+      "slug": "loisirs-sports-culture",
+      "titre": "Loisirs - Sports - Culture"
+    },
+    {
+      "slug": "animal-de-compagnie",
+      "titre": "Animal de compagnie"
+    }
+  ]
+}

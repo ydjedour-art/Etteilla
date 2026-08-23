@@ -1,0 +1,82 @@
+{
+  "id": "F1723",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Demande de RSA : le train de vie peut-il être pris en compte ?",
+  "theme": "Social - Santé",
+  "description": "L'évaluation de votre de train de vie est pris en compte au moment de l'étude de votre demande ou de renouvellement de RSA.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2024-08-12",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1723",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Revenu de solidarité active (RSA)",
+    "Demande de RSA : le train de vie peut-il être pris en compte ?"
+  ],
+  "introduction": "Oui, l'évaluation de votre de train de vie est pris en compte au moment de l'étude de votre demande de revenu de solidarité active (RSA). L'évaluation des ressources de votre foyer est également prise en compte à l'occasion d'une demande de renouvellement de perception du RSA. Nous vous expliquons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Évaluation du train de vie",
+      "contenu": [
+        "Cette évaluation est réalisée au moment de l'étude de votre demande de RSA.",
+        "Pour évaluer votre train de vie, certains éléments de votre patrimoine mobilier ou immobilier détenu en France ou à l'étranger par les membres de votre foyer sont pris en compte :",
+        "• Propriétés bâties ou non bâties, détenues ou occupées par votre foyer",
+        "• Travaux, charges et frais d'entretien des immeubles appartenant à votre foyer",
+        "• Automobiles, bateaux de plaisance et motocyclettes du foyer",
+        "• Appareils électroménagers, équipements son-hifi-vidéo et matériels informatiques du foyer",
+        "• Voyages, séjours en hôtels, locations saisonnières, restaurants, frais de réception, biens et services culturels, éducatifs, de communication et de loisirs.",
+        "Un barème forfaitaire est fixé pour chacun des éléments du train de vie.",
+        "Si ce barème dépasse certains seuils, votre train de vie est pris en compte pour déterminer votre droit au RSA.",
+        "Le résultat de l'évaluation est transmis aux services du département qui vous attribuent le RSA.",
+        "[À noter] les ressources prises en compte sont celles perçues au cours des 3 mois précédant la demande ou la révision du RSA.",
+        "Un simulateur vous permet de savoir si vous pouvez percevoir le RSA :",
+        "Estimer son droit au RSA (Caf)",
+        "[À noter] Chaque personne percevant le RSA sera inscrite à France Travail au plus tard le 1er janvier 2025."
+      ]
+    },
+    {
+      "titre": "Procédure de contrôle pour renouvellement",
+      "contenu": [
+        "Lorsque l'évaluation constate un écart important entre les ressources que vous avez déclarées et le train de vie de votre foyer, une lettre RAR vous est adressée par les services du département qui vous attribuent le RSA.",
+        "La lettre vous informe des conditions suivantes :",
+        "• Objet de la procédure engagée, son déroulement et ses éventuelles conséquences",
+        "• Possibilité d'être convoqué et d'être assisté par la personne de votre choix.",
+        "Vous devez alors remplir un questionnaire et le renvoyer, dans les 30 jours après sa réception, accompagné des pièces justificatives.",
+        "Si vous ne respectez pas cette obligation, le versement de votre RSA peut être suspendu jusqu'à la production des pièces demandées ou la réponse à la convocation.",
+        "[À noter] Chaque personne percevant le RSA sera inscrite à France Travail au plus tard le 1er janvier 2025."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'action sociale et des familles : articles L262-40 à L262-44",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000019868902"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : articles R262-74 à R262-81",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000020525968"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Estimer son droit au RSA (Caf)",
+      "url": "https://wwwd.caf.fr/wps/portal/caffr/aidesetdemarches/mesdemarches/faireunesimulation/lersa#/",
+      "type": "Simulateur"
+    }
+  ],
+  "contacts": [
+    "Caisse d'allocations familiales (Caf)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "demande-de-rsa-le-train-de-vie-peut-il-etre-pris-en-compte",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "revenu-de-solidarite-active-rsa",
+      "titre": "Revenu de solidarité active (RSA)"
+    }
+  ]
+}

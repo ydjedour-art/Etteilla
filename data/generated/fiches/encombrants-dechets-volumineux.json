@@ -1,0 +1,150 @@
+{
+  "id": "F31954",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Encombrants (déchets volumineux)",
+  "theme": "Logement",
+  "description": "Les encombrants (déchets volumineux) ne peuvent pas être jetés avec les ordures ménagères. Ils doivent être collectés en respectant certaines conditions.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-04-10",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31954",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Déchets",
+    "Encombrants (déchets volumineux)"
+  ],
+  "introduction": "Que faire de ses encombrants (déchets volumineux) ? Les encombrants ne peuvent pas être jetés avec les ordures ménagères. Ils doivent être triés et collectés selon certaines conditions. Nous faisons le point sur la réglementation.",
+  "chapitres": [
+    {
+      "titre": "Que sont les encombrants ?",
+      "contenu": [
+        "Les encombrants sont des déchets qui, du fait de leur poids et de leur volume, ne sont pas pris en charge par le service de collecte des ordures ménagères de la mairie.",
+        "La loi n'établit pas de liste des encombrants, mais en pratique il s'agit des éléments suivants :",
+        "• Meubles (table, chaise, armoire...)",
+        "• Matelas et sommiers",
+        "• Appareils de gros électroménager (lave-linge, réfrigérateur, gazinière...).",
+        "Certains déchets, bien que volumineux, ne sont pas considérés comme des encombrants :",
+        "• Gravats (ils doivent être amenés en déchetterie)",
+        "• Déchets verts (herbe tondue, branchages ...)",
+        "• Pneus usagés (ils doivent être repris gratuitement par votre garagiste)",
+        "• Bouteilles de gaz (elles doivent être reprises gratuitement par le vendeur ou remise à un point de collecte)",
+        "• Véhicules à moteur (ils doivent être confiés à un professionnel agréé pour traiter les véhicules hors d'usage)."
+      ]
+    },
+    {
+      "titre": "Comment se débarrasser de ses encombrants ?",
+      "contenu": [
+        "Les conditions de collecte des encombrants sont définies par les communes.",
+        "Il peut s'agir des modes de collecte suivants :",
+        "• Collecte sur rendez-vous avec la mairie. Les encombrants peuvent être récupérés directement chez vous (certaines mairies proposent d'en faire la demande directement sur leur site internet, ce service est généralement gratuit et limité à un certain volume d'encombrants).",
+        "• Collecte à date fixe (les encombrants sont collectés dans les rues à l'occasion de journées spécifiques)",
+        "• Dépôt en déchetterie où les encombrants sont triés et recyclés",
+        "• Dépôt dans des centres de réception spécifiques pour les encombrants.",
+        "Vous pouvez utiliser un service en ligne pour connaître les règles de tri de vos encombrants et les points de collecte près de chez vous :",
+        "Que faire de mes déchets ?",
+        "Vous pouvez aussi contacter votre mairie pour connaître les modes de prise en charge de vos encombrants ou demander leur enlèvement.",
+        "Mairie"
+      ]
+    },
+    {
+      "titre": "Quelles sont les sanctions en cas d'abandon d'encombrant sur la voie publique ou privée ?",
+      "contenu": [
+        "Déposer, abandonner, jeter ou déverser tout type de déchets sur la voie publique ou privée est puni d'une amende forfaitaire.",
+        "Si vous payez immédiatement ou dans les 45 jours suivant le constat de l'infraction (ou l'envoi de l'avis d'infraction), l'amende est de 135 €.",
+        "Si vous payez après ce délai de 45 jours, l'amende est de 375 €.",
+        "Si vous ne payez pas l'amende forfaitaire ou si vous la contestez, le juge du tribunal de police est saisi.",
+        "Le juge pourra décider d'une amende de 750 € (ou jusqu'à 1 500 €, avec confiscation du véhicule, si vous l'avez utilisé pour transporter les déchets)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général des collectivités territoriales : articles L2224-13 à L2224-17-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006180990/"
+    },
+    {
+      "titre": "Code général des collectivités territoriales : article R2224-26",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032191635"
+    },
+    {
+      "titre": "Code pénal : article R633-6",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054196263"
+    },
+    {
+      "titre": "Code pénal : article R634-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042662252"
+    },
+    {
+      "titre": "Code pénal : article R635-8",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006165436"
+    },
+    {
+      "titre": "Code pénal : article R644-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042663117"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Que faire de mes déchets ?",
+      "url": "https://quefairedemesdechets.ademe.fr/",
+      "type": "Outil de recherche"
+    },
+    {
+      "titre": "Longue vie aux objets : où les réparer, louer, partager, donner, acheter d'occasion (téléphone, jouet, chaise...) ?",
+      "url": "https://epargnonsnosressources.gouv.fr/",
+      "type": "Outil de recherche"
+    },
+    {
+      "titre": "Où déposer les déchets textiles et chaussures ?",
+      "url": "https://quefairedemesdechets.ademe.fr/dechet/chaussures",
+      "type": "Outil de recherche"
+    },
+    {
+      "titre": "Où déposer ses objets ?",
+      "url": "https://quefairedemesdechets.ademe.fr/",
+      "type": "Outil de recherche"
+    },
+    {
+      "titre": "Où déposer les piles et batteries ?",
+      "url": "https://www.jerecyclemespiles.com/",
+      "type": "Outil de recherche"
+    },
+    {
+      "titre": "Où déposer les déchets dangereux (toxiques) ?",
+      "url": "https://www.ecologie.gouv.fr/je-veux-savoir-faire-mes-dechets-chimiques",
+      "type": "Outil de recherche"
+    }
+  ],
+  "contacts": [
+    "Mairie"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Quels plastiques sont recyclables ?",
+      "url": "https://www.inc-conso.fr/content/tri-des-emballages-plastiques-que-signifient-tous-ces-logos-avec-le-reseau-des-ctrc"
+    },
+    {
+      "titre": "Que faire de ses déchets : mieux jeter et mieux trier",
+      "url": "https://quefairedemesdechets.ademe.fr/"
+    },
+    {
+      "titre": "Soren : collecte et recyclage des panneaux photovoltaïques",
+      "url": "https://www.soren.eco/"
+    },
+    {
+      "titre": "Se passer des produits toxiques à la maison et au jardin",
+      "url": "https://librairie.ademe.fr/cadic/1811/guide-pratique-moins-produits-toxiques.pdf"
+    }
+  ],
+  "slug": "encombrants-dechets-volumineux",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "dechets",
+      "titre": "Déchets"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "F31601",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Peut-on conserver son logement social en cas d'augmentation de revenus ?",
+  "theme": "Logement",
+  "description": "Sous certaines conditions liées à la hausse de ses revenus, le locataire d'un logement social doit payer le SLS (surloyer) ou quitter le logement.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-01-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31601",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Bail d’habitation : loyer",
+    "Peut-on conserver son logement social en cas d'augmentation de revenus ?"
+  ],
+  "introduction": "Lorsque vos revenus augmentent, vous pouvez être contraint de payer un surloyer (ou supplément de loyer de solidarité, dit SLS). Mais si vos revenus augmentent très fortement, vous pouvez être contraint de quitter votre logement. Selon le lieu où se situe votre logement ou selon votre situation personnelle, cette règle peut ne pas s'appliquer :",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de la construction et de l'habitation : articles L441-3 à L441-15",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006176322/"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : articles R441-19 à R441-28",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000006189384/"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : articles R441-29 et R441-30",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006189385/"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : article R441-31",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006189386/"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : articles L482-1 à L482-4",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000020465944"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : article L442-3-3",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033972444/"
+    },
+    {
+      "titre": "Arrêté du 3 octobre 2017 relatif aux zones géographiques relatives au supplément de loyer de solidarité",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000035938965/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Quartiers prioritaires (QP)",
+      "url": "https://sig.ville.gouv.fr/Atlas/QP/"
+    },
+    {
+      "titre": "Votre adresse est-elle un quartier prioritaire de la politique de la ville ?",
+      "url": "https://sig.ville.gouv.fr/"
+    }
+  ],
+  "slug": "peut-on-conserver-son-logement-social-en-cas-d-augmentation-de-revenus",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "bail-d-habitation-loyer",
+      "titre": "Bail d’habitation : loyer"
+    }
+  ]
+}

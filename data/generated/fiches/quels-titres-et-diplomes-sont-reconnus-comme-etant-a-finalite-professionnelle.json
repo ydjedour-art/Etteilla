@@ -1,0 +1,86 @@
+{
+  "id": "F15984",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quels titres et diplômes sont reconnus comme étant à finalité professionnelle ?",
+  "theme": "Famille - Scolarité",
+  "description": "Les titres et les diplômes reconnus officiellement comme étant à finalité professionnelle sont enregistrés dans le RNCP.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-11-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F15984",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Parcours éducatifs alternatifs",
+    "Quels titres et diplômes sont reconnus comme étant à finalité professionnelle ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "Qu'est-ce qu'un titre ou diplôme à finalité professionnelle ?",
+      "contenu": [
+        "Les titres et les diplômes reconnus officiellement comme étant à finalité professionnelle sont délivrés au nom de l'État.",
+        "Ils prouvent que vous maîtrisez les compétences, aptitudes et connaissances permettant l'exercice d'activités professionnelles qualifiées.",
+        "Ils sont créés après avis des instances consultatives (commission des titres d'ingénieurs, par exemple) dans lesquelles siègent les organisations représentatives d'employeurs et de salariés.",
+        "Il s'agit notamment des diplômes suivants :",
+        "• Bac professionnel ou technologique",
+        "• Certificat d'aptitude professionnelle (CAP)",
+        "• Brevet professionnel (BP)",
+        "• Brevet de technicien supérieur (BTS)",
+        "• Licence professionnelle",
+        "• Diplôme d'ingénieur."
+      ]
+    },
+    {
+      "titre": "Comment sont répertoriés les titres et diplômes à finalité professionnelles ?",
+      "contenu": [
+        "Les titres et les diplômes à finalité professionnelle sont enregistrés dans le répertoire national des certifications professionnelles (RNCP).",
+        "Les titres et diplômes y sont classés par domaine d'activité et par niveau.",
+        "Le RNCP indique également les éventuelles conditions particulières d'obtention d'un diplôme ou d'un titre à finalité professionnelle.",
+        "Consultation du répertoire national des certifications professionnelles (RNCP)"
+      ]
+    },
+    {
+      "titre": "Que permet la consultation du répertoire national des certifications professionnelles (RNCP) ?",
+      "contenu": [
+        "La consultation du répertoire national des certifications professionnelles (RNCP) permet aux personnes et entreprises qui le souhaitent de faire les démarches suivantes :",
+        "• Vérifier si un titre ou un diplôme précis est à finalité professionnelle",
+        "• Connaître les titres ou diplômes professionnels reconnus dans un secteur ou dans un métier défini",
+        "• Connaître tous les titres et diplômes correspondant à un même niveau de qualification (du niveau 1 au niveau 8)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'éducation : articles L335-1 à L335-17",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006166607"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Consultation du répertoire national des certifications professionnelles (RNCP)",
+      "url": "https://www.francecompetences.fr/recherche-resultats/",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "Commission de la certification professionnelle de France compétences",
+    "Mission locale"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Titres enregistrés au RNCP",
+      "url": "https://www.onisep.fr/orientation/l-enseignement-superieur/quelle-reconnaissance-pour-les-diplomes-du-superieur/les-titres-enregistres-au-rncp"
+    }
+  ],
+  "slug": "quels-titres-et-diplomes-sont-reconnus-comme-etant-a-finalite-professionnelle",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "parcours-educatifs-alternatifs",
+      "titre": "Parcours éducatifs alternatifs"
+    }
+  ]
+}

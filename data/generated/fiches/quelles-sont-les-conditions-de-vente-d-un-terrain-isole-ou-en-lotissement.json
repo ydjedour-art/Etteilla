@@ -1,0 +1,77 @@
+{
+  "id": "F2073",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quelles sont les conditions de vente d’un terrain isolé ou en lotissement ?",
+  "theme": "Logement",
+  "description": "Selon qu’un terrain soit isolé ou en lotissement, les règles d’urbanisme, les conditions de vente, le bornage, la viabilisation et les autorisations varient.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-08-21",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2073",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Achat d'un terrain",
+    "Quelles sont les conditions de vente d’un terrain isolé ou en lotissement ?"
+  ],
+  "introduction": "Si vous souhaitez vendre un terrain en lotissement ou bien un terrain constructible isolé hors lotissement, sachez que les conditions de vente ne sont pas les mêmes suivant le type de terrain. Nous faisons le point sur ces différences.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Le terrain isolé est soumis aux règles du PLU ou du RNU. Le terrain en lotissement, en plus de ces règles, est soumis à un règlement de lotissement. Les conditions de vente changent si le terrain est en lotissement ou s’il s’agit d’un terrain isolé.",
+        "Terrain en lotissement",
+        "Les conditions de vente des terrains en lotissement varient selon l’autorisation obtenue par le lotisseur : un permis d’aménager ou une déclaration préalable.",
+        "Lotissement soumis à permis d'aménager",
+        "Pour vendre un terrain, le lotisseur doit avoir obtenu le permis d’aménager qui est demandé lorsque le projet prévoit des aménagements collectifs comme des voies ou des espaces communs.",
+        "Les terrains doivent obligatoirement être bornés et viabilisés.",
+        "Le lotisseur doit remettre à l’acheteur le règlement de lotissement et le cahier des charges.",
+        "[À noter] Le lotisseur peut vendre ou louer des lots avant d’avoir réalisé les travaux, à condition d’obtenir un arrêté du maire ou du préfet l’y autorisant.",
+        "Lotissement soumis à déclaration préalable",
+        "Pour vendre un terrain, le lotisseur doit avoir obtenu la déclaration préalable qui est demandée lorsque le projet ne prévoit pas des aménagements collectifs comme des voies ou des espaces communs.",
+        "Le vendeur peut signer une promesse unilatérale de vente avant d'avoir obtenu le certificat de non-opposition à la déclaration préalable de la mairie.",
+        "Le terrain doit être borné.",
+        "Le lotisseur doit remettre à l’acheteur le règlement de lotissement et le cahier des charges.",
+        "Terrain isolé",
+        "Le terrain isolé peut être mis en vente sans être viabilisé ou borné."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'urbanisme : article L115-4",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031210397"
+    },
+    {
+      "titre": "Code de l'urbanisme : articles R421-19 à R421-22",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006188252/"
+    },
+    {
+      "titre": "Code de l'urbanisme : articles R*421-23 à R*421-25",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006188279"
+    },
+    {
+      "titre": "Code de l'urbanisme : articles L442-1 à L442-14",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006175694"
+    },
+    {
+      "titre": "Code de l’urbanisme : article R442-13",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006819794"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "quelles-sont-les-conditions-de-vente-d-un-terrain-isole-ou-en-lotissement",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "achat-d-un-terrain",
+      "titre": "Achat d'un terrain"
+    }
+  ]
+}

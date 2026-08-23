@@ -1,0 +1,61 @@
+{
+  "id": "F13879",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Embauche à la fin d'un stage : quelles conséquences sur la période d'essai ?",
+  "theme": "Travail - Formation",
+  "description": "En cas d'embauche dans l'entreprise à la fin d'un stage, le stagiaire embauché peut bénéficier d'une réduction de sa période d'essai, sous conditions.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-02-20",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F13879",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Recrutement dans le secteur privé",
+    "Embauche à la fin d'un stage : quelles conséquences sur la période d'essai ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "En cas d'embauche dans l'entreprise à la fin d'un stage réalisé lors de sa dernière année d'études, le stagiaire embauché peut bénéficier d'une réduction de sa période d'essai.",
+        "Les conditions varient selon la date d'embauche :",
+        "L'embauche a lieu dans les 3 mois suivant la fin du stage",
+        "La durée de réduction de la période d'essai dépend de l'emploi pour lequel le stagiaire a été recruté :",
+        "Emploi correspondant aux activités qui avaient été confiées au stagiaire",
+        "La durée du stage est intégralement déduite de la durée de la période d'essai.",
+        "[Exemple] Un ancien stagiaire est embauché dans les 3 mois suivant la fin du stage. Si son contrat de travail prévoit une période d'essai de 4 mois, la durée du stage est déduite intégralement de la durée de la période d'essai (qui sera alors de 1 mois).",
+        "[À noter] Lorsque un stagiaire est embauché par l'entreprise à la fin d'un stage ayant duré plus de 2 mois, la durée de ce stage est prise en compte pour l'ouverture et le calcul des droits liés à l'ancienneté.",
+        "Emploi ne correspondant pas aux activités qui avaient été confiées au stagiaire",
+        "L'embauche du stagiaire peut être effectuée sur un poste dont les activités sont différentes de celles qui lui avaient été confiées durant le stage.",
+        "La durée du stage est déduite de la durée de la période d'essai mais dans la limite de la moitié de la durée de la période d'essai.",
+        "[Exemple] Un ancien stagiaire est embauché dans les 3 mois suivant la fin du stage. Si son contrat de travail prévoit une période d'essai de 4 mois, la durée de la période d'essai est réduite mais uniquement de sa moitié (la période d'essai sera alors de 2 mois).",
+        "[À noter] Lorsque un stagiaire est embauché par l'entreprise à la fin d'un stage ayant duré plus de 2 mois, la durée de ce stage est prise en compte pour l'ouverture et le calcul des droits liés à l'ancienneté.",
+        "L'embauche a lieu plus de 3 mois suivant la fin du stage",
+        "La durée de ce stage n'est pas déduite de la durée de la période d'essai.",
+        "Toutefois, des dispositions conventionnelles plus favorables peuvent s'appliquer.",
+        "[À noter] Lorsque un stagiaire est embauché par l'entreprise à la fin d'un stage ayant duré plus de 2 mois, la durée de ce stage est prise en compte pour l'ouverture et le calcul des droits liés à l'ancienneté."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code du travail : article L1221-24",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029236224"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "embauche-a-la-fin-d-un-stage-quelles-consequences-sur-la-periode-d-essai",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "recrutement-dans-le-secteur-prive",
+      "titre": "Recrutement dans le secteur privé"
+    }
+  ]
+}

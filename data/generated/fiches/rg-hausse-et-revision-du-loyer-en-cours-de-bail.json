@@ -1,0 +1,33 @@
+{
+  "id": "F36511",
+  "type_publication": "Recherche guidée",
+  "titre": "[RG - Hausse et Révision du loyer en cours de bail]",
+  "theme": "Logement",
+  "description": "[RG - Hausse et Révision du loyer en cours de bail]",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2025-08-08",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F36511",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Bail d’habitation : loyer",
+    "[RG - Hausse et Révision du loyer en cours de bail]"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "rg-hausse-et-revision-du-loyer-en-cours-de-bail",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "bail-d-habitation-loyer",
+      "titre": "Bail d’habitation : loyer"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "F2266",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Congé de 3 jours pour la naissance ou pour l'arrivée d'un enfant en vue de son adoption dans le secteur privé",
+  "theme": "Travail - Formation",
+  "description": "Tout salarié bénéficie de jours de congés pour chaque naissance survenue à son foyer ou pour l'arrivée d'un enfant placé en vue de son adoption.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-06-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2266",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Congés dans le secteur privé",
+    "Congé de 3 jours pour la naissance ou pour l'arrivée d'un enfant en vue de son adoption dans le secteur privé"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Pouvez-vous bénéficier de jours de congés à l'occasion de la naissance de votre enfant ou de l'arrivée d'un enfant en vue de son adoption ? Nous vous présentons les informations à connaître concernant ce congé (durée, conditions d'utilisation, rémunération durant la période du congé, notamment)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code du travail : articles L3142-1 à L3142-3",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033002888"
+    },
+    {
+      "titre": "Code du travail : articles R1225-9 à D1225-11-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000018482946"
+    },
+    {
+      "titre": "Code du travail : articles R3142-1 à D3142-1-3",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000018486804"
+    },
+    {
+      "titre": "Code du travail : article L3142-4",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033002890"
+    },
+    {
+      "titre": "Code du travail : article L3142-5",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033002892"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "conge-de-3-jours-pour-la-naissance-ou-pour-l-arrivee-d-un-enfant-en-vue-de-son-adoption-dans-le-secteur-prive",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "conges-dans-le-secteur-prive",
+      "titre": "Congés dans le secteur privé"
+    }
+  ]
+}

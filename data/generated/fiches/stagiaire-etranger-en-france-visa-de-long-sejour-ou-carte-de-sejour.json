@@ -1,0 +1,79 @@
+{
+  "id": "F17312",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Stagiaire étranger en France : visa de long séjour ou carte de séjour",
+  "theme": "Étranger - Europe",
+  "description": "Le séjour en France d’un stagiaire étranger est soumis à certaines conditions.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-06-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F17312",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Titres, cartes de séjour et documents de circulation pour étranger en France",
+    "Stagiaire étranger en France : visa de long séjour ou carte de séjour"
+  ],
+  "introduction": "Si vous êtes étranger non européen, vous pouvez séjourner en France comme stagiaire sous certaines conditions. Vous devez venir en France pour plus de 3 mois pour suivre une formation professionnelle ou faire un stage en entreprise ou dans un hôpital public ou privé à but non lucratif. Vous devez accomplir des démarches pour obtenir un visa d'entrée pour la France. Si votre stage est prolongé, vous devez demander une carte de séjour en préfecture. Nous faisons un point sur la réglementation.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Pour obtenir la carte de séjour temporaire portant la mention \"stagiaire\", vous devez venir en France pour l'une des raisons suivantes :",
+        "• Effectuer un stage en entreprise dans le cadre d'une formation organisée dans votre pays de résidence. Cette formation doit conduire à la délivrance d'un diplôme ou d'un titre ou à la reconnaissance d'un niveau de qualification professionnelle qui dépend d'un cursus scolaire ou universitaire, d'une formation professionnelle ou d'un programme de coopération de l'Union européenne ou intergouvernemental dans les domaines de l'éducation, de la formation, de la jeunesse ou de la culture.",
+        "• En tant que salarié d'une entreprise établie à l'étranger pour suivre une formation dispensée par un organisme de formation, et, si nécessaire, effectuer un stage dans une entreprise avec laquelle votre employeur entretient des relations commerciales",
+        "• Effectuer un stage dans un établissement de santé public ou privé à but non lucratif en vue de bénéficier d'une formation complémentaire qui conduit à la reconnaissance d'un niveau de qualification professionnelle, dans le cadre de la convention de coopération internationale hospitalière."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : article L426-23",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042771910/"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles L432-1 à L432-15",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042771934/"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles L436-1 à L436-13",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042772036/"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles R426-16 à R426-22",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042801268/"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles R433-1 à 433-6",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042801402/"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : annexe 10",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043472320"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Faire viser une convention de stage de plus de 3 mois d'un ressortissant étranger",
+      "url": "https://administration-etrangers-en-france.interieur.gouv.fr/particuliers/#/",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Praticiens diplômés hors union européenne",
+      "url": "https://www.grand-est.ars.sante.fr/praticiens-diplomes-hors-union-europeenne-padhue-statuts-conditions-dacces-et-demarches"
+    }
+  ],
+  "slug": "stagiaire-etranger-en-france-visa-de-long-sejour-ou-carte-de-sejour",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "titres-cartes-de-sejour-et-documents-de-circulation-pour-etranger-en-france",
+      "titre": "Titres, cartes de séjour et documents de circulation pour étranger en France"
+    }
+  ]
+}

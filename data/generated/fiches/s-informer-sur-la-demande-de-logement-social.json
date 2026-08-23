@@ -1,0 +1,33 @@
+{
+  "id": "F35010",
+  "type_publication": "Recherche guidée",
+  "titre": "S'informer sur la demande de logement social",
+  "theme": "Logement",
+  "description": "S'informer sur la demande de logement social",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2023-05-03",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35010",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Accéder à un logement social",
+    "S'informer sur la demande de logement social"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "s-informer-sur-la-demande-de-logement-social",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "acceder-a-un-logement-social",
+      "titre": "Accéder à un logement social"
+    }
+  ]
+}

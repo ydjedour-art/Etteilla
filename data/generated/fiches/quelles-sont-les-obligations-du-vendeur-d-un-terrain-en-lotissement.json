@@ -1,0 +1,83 @@
+{
+  "id": "F2484",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quelles sont les obligations du vendeur d'un terrain en lotissement ?",
+  "theme": "Logement",
+  "description": "Les obligations du vendeur pour commercialiser un terrain en lotissement diffèrent selon l'autorisation obtenue par le lotisseur : PA ou DP.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-06-20",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2484",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Achat d'un terrain",
+    "Quelles sont les obligations du vendeur d'un terrain en lotissement ?"
+  ],
+  "introduction": "Pour commercialiser un ou plusieurs terrains dans un lotissement, il faut respecter des règles destinées à protéger les acquéreurs. La publicité et la conclusion de promesses et de contrats de vente sont autorisées sous certaines conditions, qui peuvent différer selon l'autorisation d'urbanisme obtenue : le permis d'aménager ou la déclaration préalable. Nous faisons le point sur la réglementation.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Un lotissement est une division d'une ou plusieurs unités foncières contigües en parcelles (lots) destinées à être bâties.",
+        "Le permis d'aménager (PA) est obligatoire pour les lotissements où sont créés des équipements communs et pour les lotissements situés dans les zones suivantes :",
+        "• Périmètre d'un site patrimonial remarquable",
+        "• Abords des monuments historiques",
+        "• Site classé ou en instance de classement.",
+        "Les autres lotissements sont soumis à déclaration préalable (DP)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'urbanisme : article L112-11",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039785320/"
+    },
+    {
+      "titre": "Code de l'urbanisme : articles L442-1 à L442-14",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006175694"
+    },
+    {
+      "titre": "Code de l'environnement : article L125-5",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043978268"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : articles L132-4 à L132-9",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000041565555"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : articles R132-3 à R132-8",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000043818703"
+    },
+    {
+      "titre": "Code civil : article 1178",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041243"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Aide au remplissage de l'état des risques et pollutions",
+      "url": "https://errial.georisques.gouv.fr/#/",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "État des nuisances sonores aériennes",
+      "url": "https://www.ecologique-solidaire.gouv.fr/sites/default/files/Modele_etat_nuisances_sonores_aeriennes.pdf",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "quelles-sont-les-obligations-du-vendeur-d-un-terrain-en-lotissement",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "achat-d-un-terrain",
+      "titre": "Achat d'un terrain"
+    }
+  ]
+}

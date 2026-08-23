@@ -1,0 +1,40 @@
+{
+  "id": "F10774",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Que faire en cas de vol de tous ses papiers d'identité en même temps ?",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Si tous vos papiers d'identité ont été volés en même temps, vous devez d'abord demander une nouvelle carte d'identité ou un nouveau passeport.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-08-05",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F10774",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Carte d'identité",
+    "Que faire en cas de vol de tous ses papiers d'identité en même temps ?"
+  ],
+  "introduction": "Vous êtes victime d'un vol de sac à main, du vol de vos bagages ou d'un cambriolage et tous vos papiers ont été volés ? Nous vous expliquons la démarche à suivre. Elle varie selon qu'il s'agit des papiers d'un majeur ou d'un mineur.",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [
+    "France Services / Maison de services au public"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Vol et perte de documents à l'étranger",
+      "url": "https://www.diplomatie.gouv.fr/fr/services-aux-francaises-et-aux-francais/assistance-et-securite/vol-ou-perte-de-documents-a-l-etranger"
+    }
+  ],
+  "slug": "que-faire-en-cas-de-vol-de-tous-ses-papiers-d-identite-en-meme-temps",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "carte-d-identite",
+      "titre": "Carte d'identité"
+    }
+  ]
+}

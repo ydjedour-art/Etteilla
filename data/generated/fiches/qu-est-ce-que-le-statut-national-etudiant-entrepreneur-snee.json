@@ -1,0 +1,106 @@
+{
+  "id": "F32313",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Qu'est-ce que le statut national étudiant-entrepreneur (SNEE) ?",
+  "theme": "Famille - Scolarité, Étapes de vie",
+  "description": "Le statut d'étudiant entrepreneur (SNEE) s'adresse à l'étudiant ou jeune diplômé pour être accompagné par un Pépite dans un projet d’entreprise ou de reprise",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-06-23",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F32313",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Inscription dans l'enseignement supérieur",
+    "Qu'est-ce que le statut national étudiant-entrepreneur (SNEE) ?"
+  ],
+  "introduction": "Le statut national d'étudiant-entrepreneur (SNEE) s'adresse à l'étudiant ou au jeune diplômé qui veut obtenir un accompagnement dans son projet de création d'entreprise (ou de reprise). Il est accordé, sous conditions, après examen de votre dossier de candidature par un organisme appelé comité d'engagement Pépite (Pôle étudiant pour l'innovation, le transfert et l'entrepreneuriat).",
+  "chapitres": [
+    {
+      "titre": "Qui peut demander le statut national étudiant-entrepreneur ?",
+      "contenu": [
+        "Pour candidater au statut national d'étudiant-entrepreneur, vous devez remplir les conditions suivantes :",
+        "• Être titulaire du baccalauréat ou de son équivalence en niveau",
+        "• Être inscrit dans un cursus en formation initiale ou en formation continue préparant un diplôme de l'enseignement supérieur délivré au nom de l'État ou être jeune diplômé de l’enseignement supérieur (y compris les personnes détentrices d'un doctorat et inscrites dans un programme post-doctoral).",
+        "Il n’y a pas de limite d’âge pour candidater au SNEE.",
+        "Vous pouvez contacter le Pépite de votre territoire avant d'effectuer votre demande de candidature. Il vous renseignera notamment sur les conditions d'obtention du statut.",
+        "[À noter] Le candidat ne choisit pas son Pépite. Il lui est attribué d’office soit en fonction de l’établissement d’enseignement où il est inscrit, soit de son lieu de résidence s’il n’est plus étudiant au moment de sa demande.",
+        "Trouver mon Pépite"
+      ]
+    },
+    {
+      "titre": "Quels sont les avantages du statut national étudiant-entrepreneur ?",
+      "contenu": [
+        "Le statut national d'étudiant-entrepreneur vous permet d'avoir les avantages suivants :",
+        "• Être accompagné par 2 tuteurs, dont un référent (entrepreneur ou membre d'un réseau d'accompagnement et de financement) du réseau Pépite",
+        "• Accéder à un espace de travail partagé (ou coworking) du réseau Pépite",
+        "• Obtenir des aménagements de votre emploi du temps d'étudiant",
+        "• Pouvoir remplacer le stage obligatoire dans votre cursus de formation par le travail sur votre projet de création d'entreprise"
+      ]
+    },
+    {
+      "titre": "Comment obtenir le statut d'étudiant-entrepreneur ?",
+      "contenu": [
+        "Vous devez remplir un dossier de candidature, avec le service en ligne suivant :",
+        "Dossier de candidature au statut national étudiant-entrepreneur",
+        "Téléservice de candidature pour un étudiant ou un jeune diplômé au statut national d'étudiant-entrepreneur",
+        "Vous devez indiquer des éléments sur votre projet entrepreneurial. Vous devez notamment préciser s'il s'agit d'une création d’entreprise ou d'une reprise d'activité.",
+        "Vous serez informé par mail de l'évolution de votre dossier de candidature. Si votre candidature est refusée, vous pouvez candidater une nouvelle fois en tenant compte des commentaires qui vous seront transmis en retour.",
+        "Ce service en ligne vous permettra également de faire une demande d'accès à un espace de coworking du réseau Pépite.",
+        "Il vous permettra aussi de vous inscrire au diplôme d’Étudiant Entrepreneur (D2E).",
+        "[À savoir] Le diplôme d’étudiant entrepreneur (D2E) est obligatoire si vous êtes jeune diplômé sans statut étudiant. Il n’est pas obligatoire mais recommandé si vous êtes étudiant. Sa préparation dure une année.",
+        "Pour plus d’informations sur le dossier et sur le diplôme d’étudiant-entrepreneur (D2E), vous pouvez contacter votre Pépite de rattachement.",
+        "Vous pouvez trouver de nombreuses réponses à vos questions sur la FAQ du ministère en charge du statut SNEE.",
+        "[À savoir] Si vous êtes étudiant, il est possible d’envisager une césure d’une année dans votre cursus universitaire afin de construire votre projet entrepreneurial sous le statut SNEE."
+      ]
+    },
+    {
+      "titre": "Pour combien de temps ce statut est-il accordé ?",
+      "contenu": [
+        "Le statut national d'étudiant-entrepreneur (SNEE) est valable pour une année universitaire.",
+        "[À noter] Un délai supplémentaire peut être accordé sur demande auprès de votre Pépite de rattachement et sur avis de votre responsable pédagogique."
+      ]
+    },
+    {
+      "titre": "Le statut d'étudiant-entrepreneur peut-il être renouvelé ?",
+      "contenu": [
+        "Oui. Le statut national étudiant-entrepreneur (SNEE) peut être renouvelé en fonction de votre besoin dans les mêmes conditions que la première demande."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [
+    {
+      "titre": "Dossier de candidature au statut national étudiant-entrepreneur",
+      "url": "https://snee.enseignementsup-recherche.gouv.fr/",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "Trouver mon Pépite"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Statut national d'étudiant-entrepreneur",
+      "url": "http://www.etudiant.gouv.fr/pid34459/le-statut-national-d-etudiant-e-entrepreneur-e.html"
+    },
+    {
+      "titre": "Foire aux questions sur le statut étudiant entrepreneur et son diplôme (D2E)",
+      "url": "https://www.enseignementsup-recherche.gouv.fr/fr/faq-statut-national-d-etudiant-entrepreneur-84284"
+    },
+    {
+      "titre": "Entreprenariat étudiant et Pépite : comment ça marche ?",
+      "url": "http://www.etudiant.gouv.fr/pid34460/le-reseau-pepite.html"
+    }
+  ],
+  "slug": "qu-est-ce-que-le-statut-national-etudiant-entrepreneur-snee",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "inscription-dans-l-enseignement-superieur",
+      "titre": "Inscription dans l'enseignement supérieur"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "id": "F2500",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Litige administratif avec la caisse d'Assurance maladie",
+  "theme": "Social - Santé",
+  "description": "Une décision d'ordre administratif peut être présentée à la Commission de recours amiable de la caisse d'Assurance maladie.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-03-11",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2500",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Litiges avec la Sécurité sociale",
+    "Litige administratif avec la caisse d'Assurance maladie"
+  ],
+  "introduction": "Comment pouvez-vous contester une décision d'ordre administratif (exemple : un refus de remboursement de soins) prise par un organisme de Sécurité sociale ? Nous vous guidons dans votre démarche.",
+  "chapitres": [
+    {
+      "titre": "Engager un recours préalable obligatoire devant la Commission de recours amiable",
+      "contenu": [
+        "Le recours devant la Commission de recours amiable de votre caisse d'Assurance maladie est obligatoire avant toute procédure contentieuse.",
+        "Quels litiges permettent de saisir la Commission de recours amiable ?",
+        "La Commission de recours amiable est compétente pour les litiges suivants :",
+        "• Litiges survenant entre les assurés et un organisme de Sécurité sociale",
+        "• Litiges portant sur des décisions administratives liées à l’affiliation, aux cotisations et aux prestations.",
+        "Exemples :",
+        "• Décision de refus d'affiliation",
+        "• Décision de refus de versement d'une prestation",
+        "• Décision concernant un calcul de cotisations",
+        "• Décision de refus de remboursement",
+        "• Décision de refus de versement des indemnités journalières.",
+        "Qui peut saisir la Commission de recours amiable ?",
+        "Tout assuré peut saisir la Commission de recours amiable de sa caisse d'Assurance maladie.",
+        "Quand saisir la Commission de recours amiable ?",
+        "Vous devez saisir la Commission de recours amiable dans le délai de 2 mois à partir de la date de la notification de la décision contestée.",
+        "Comment saisir la Commission de recours amiable ?",
+        "Vous devez saisir la Commission de recours amiable de votre caisse d'Assurance maladie par lettre recommandée avec AR.",
+        "Cela permet de prouver, si nécessaire, que la Commission a bien été saisie dans le délai de 2 mois.",
+        "[À savoir] L'adresse de la Commission de recours amiable figure sur la notification de la décision contestée.",
+        "Comment est traitée la demande faite à la Commission de recours amiable ?",
+        "La Commission de recours amiable de votre caisse d'Assurance maladie statue sur les documents dont elle dispose.",
+        "La décision vous est notifiée dans le délai de 2 mois à partir de la réception de la demande. Elle est motivée et indique les délais et modes de recours devant le tribunal.",
+        "Passé le délai de 2 mois, l’absence de réponse de la Commission de recours amiable signifie que votre demande est rejetée.",
+        "Ce rejet implicite peut être contesté devant le tribunal.",
+        "[À savoir] La Commission statue sur pièces : vous ne serez pas convoqué."
+      ]
+    },
+    {
+      "titre": "En cas de rejet, faire un recours contentieux devant le tribunal judiciaire (première instance)",
+      "contenu": [
+        "Quand adresser sa demande devant le tribunal judicaire ?",
+        "Vous devez adresser votre requête au tribunal judiciaire (pôle social) dans un délai de 2 mois :",
+        "• À compter de la date de la notification de la décision que vous contestez",
+        "• Ou, en l'absence de réponse de la Commission de recours amiable, à compter de l’expiration du délai de 2 mois dont elle disposait pour répondre à votre réclamation.",
+        "Quel est le tribunal judiciaire compétent ?",
+        "Le tribunal judiciaire compétent est celui du lieu de votre domicile.",
+        "Son adresse est mentionnée s’il y a lieu, sur l’accusé de réception ou la décision de la Commission de recours amiable.",
+        "Comment adresser sa demande devant le tribunal judiciaire ?",
+        "Il est possible d'adresser votre demande sur place ou par courrier.",
+        "[À noter] Vous ne pouvez pas l'adresser par télécopie ou par voie électronique.",
+        "Sur place",
+        "Vous pouvez déposer votre requête et les documents, en 2 exemplaires, au Service d'accueil unique du justiciable (SAUJ) du tribunal de votre domicile.",
+        "Son adresse est mentionnée :",
+        "• S’il y a lieu, sur l’accusé de réception ou de la décision de la CRA",
+        "• Et par la caisse.",
+        "Requête de saisine du tribunal - Contentieux de la sécurité sociale et de l'aide sociale",
+        "Notice - Requête de saisine du tribunal - Contentieux général et technique de la sécurité sociale et de l'aide sociale",
+        "Tribunal judiciaire ou tribunal de proximité",
+        "Par courrier (LRAR)",
+        "Vous pouvez envoyer votre requête par lettre recommandée avec AR au greffe du tribunal de votre domicile.",
+        "L'ensemble des documents doit être remis en 2 exemplaires.",
+        "Requête de saisine du tribunal - Contentieux de la sécurité sociale et de l'aide sociale",
+        "Notice - Requête de saisine du tribunal - Contentieux général et technique de la sécurité sociale et de l'aide sociale",
+        "Tribunal judiciaire ou tribunal de proximité",
+        "Peut-on se faire assister ou représenter devant le tribunal judiciaire ?",
+        "Oui. Vous pouvez :",
+        "• Comparaitre seul",
+        "• Être assisté (exemple : par un représentant syndical)",
+        "• Être représenté (exemple : par un avocat).",
+        "[À savoir] Si vous êtes assisté d'un avocat, vous pouvez bénéficier de l'aide juridictionnelle.",
+        "Comment est traitée la demande de recours devant le tribunal judiciaire ?",
+        "Le tribunal vous convoque par courrier au moins 15 jours avant l'audience.",
+        "Le greffe du tribunal vous notifie la décision. La notification vous indique les délais et voies de recours devant la cour d'appel."
+      ]
+    },
+    {
+      "titre": "Si la décision ne vous convient pas, faire appel de la décision du tribunal judiciaire",
+      "contenu": [
+        "Lorsque le litige porte sur un montant supérieur à 5 000 € ou un montant indéterminé (exemple : le préjudice ne donne pas lieu à un montant précis), vous pouvez faire appel devant la chambre sociale de la cour d’appel.",
+        "Cet appel a lieu dans un délai d’un mois à compter de la date de la notification du jugement du tribunal.",
+        "Un avocat n'est pas obligatoire devant la cour d'appel.",
+        "Le greffe de la cour vous notifie la décision.",
+        "Cour d'appel",
+        "Si le litige porte sur un montant inférieur à 5 000 €, vous pouvez saisir la Cour de cassation dans un délai de 2 mois à compter de la date de la notification du jugement du tribunal.",
+        "Vous pouvez bénéficier de l'aide juridictionnelle."
+      ]
+    },
+    {
+      "titre": "Si la décision ne vous convient pas, saisir la Cour de cassation",
+      "contenu": [
+        "La démarche varie selon la situation (à la suite d'une décision du tribunal judiciaire en dernier ressort ou d'une décision de la cour d'appel) :",
+        "Suite à une décision du tribunal judiciaire en dernier ressort (montant inférieur à 5 000 €)",
+        "Si la décision du tribunal judiciaire est rendue en dernier ressort (c'est le cas pour les litiges portant sur un montant inférieur à 5 000 €), vous pouvez saisir la Cour de cassation dans un délai de 2 mois à partir de la date de notification du jugement du tribunal.",
+        "Cour de cassation",
+        "Vous devez faire appel à un avocat au Conseil d'État et à la Cour de cassation :",
+        "Avocat au Conseil d'État ou à la Cour de cassation",
+        "Vous pouvez bénéficier de l'aide juridictionnelle.",
+        "Suite à une décision de la cour d'appel",
+        "Lorsque le litige porte sur un montant supérieur à 5 000 € ou un montant indéterminé.",
+        "Si la décision de la cour d'appel ne vous satisfait pas, vous pouvez saisir la Cour de cassation, dans un délai de 2 mois à partir de la date de notification de l'arrêt de la cour d'appel.",
+        "Cour de cassation",
+        "Vous devez faire appel à un avocat au Conseil d'État et à la Cour de cassation :",
+        "Avocat au Conseil d'État ou à la Cour de cassation",
+        "Vous pouvez bénéficier de l'aide juridictionnelle."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la sécurité sociale : articles L142-1 à L142-3",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033458861"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles R142-10 à R142-10-10",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000037544154"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles R142-11 et R142-12-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000037544181"
+    },
+    {
+      "titre": "Code de la sécurité sociale : article R142-15",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000037544213"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Requête de saisine du tribunal - Contentieux de la sécurité sociale et de l'aide sociale",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_15980.do",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Santé Info Droits"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Comment contester une décision de votre caisse d'assurance maladie ?",
+      "url": "https://www.ameli.fr/assure/droits-demarches/reclamations-voies-recours/faire-reclamation-contester-decision"
+    }
+  ],
+  "slug": "litige-administratif-avec-la-caisse-d-assurance-maladie",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "litiges-avec-la-securite-sociale",
+      "titre": "Litiges avec la Sécurité sociale"
+    }
+  ]
+}

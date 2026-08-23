@@ -1,0 +1,72 @@
+{
+  "id": "F34780",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "S'inscrire sur une liste électorale consulaire : quel justificatif de domicile ?",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Le justificatif varie selon que la personne a son domicile à l'étranger, qu'elle est hébergée ou qu'elle y a des intérêts économiques et familiaux.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-10-02",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34780",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Élections",
+    "S'inscrire sur une liste électorale consulaire : quel justificatif de domicile ?"
+  ],
+  "introduction": "Le justificatif à fournir pour s'inscrire sur une liste électorale consulaire est différent selon que vous avez votre domicile à l'étranger, que vous y êtes hébergé (par un proche, un ami...) ou que vous y avez des intérêts économiques et familiaux. Nous vous expliquons.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Votre domicile est à l'étranger",
+        "Vous devez fournir l'un des documents suivants :",
+        "• Quittance ou facture faite par un fournisseur d'eau, d'électricité, de gaz ou de téléphone (téléphone fixe ou portable), à votre nom et à une adresse située dans la circonscription électorale",
+        "• Avis d'imposition (quel qu'il soit) adressé à un domicile situé dans la circonscription électorale",
+        "• Bulletin de salaire ou titre de pension adressé à un domicile situé dans la circonscription électorale.",
+        "Vous êtes hébergé (chez vos parents, amis...) à l'étranger",
+        "Chez vos parents",
+        "Vous devez fournir une lettre signée par votre père ou votre mère attestant que vous êtes hébergé chez lui ou chez elle.",
+        "Chez une autre personne",
+        "Vous devez fournir les 2 documents suivants :",
+        "• Lettre signée par la personne qui vous héberge, attestant que vous êtes hébergé chez elle",
+        "• Bulletin de salaire récent ou tout autre document sur lequel figurent votre nom et l'adresse de la personne qui vous héberge.",
+        "Vous avez des intérêts économiques et familiaux à l'étranger",
+        "Vous pouvez fournir tout document de nature à prouver que vous résidez habituellement dans la circonscription, notamment du fait de la présence d'intérêts économiques et familiaux."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code électoral : articles L9 à L15-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070239/LEGISCTA000006164051/"
+    },
+    {
+      "titre": "Arrêté du 29 août 2018 fixant la liste des pièces justificatives à fournir pour s'inscrire sur une liste électorale consulaire",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000037373091/"
+    },
+    {
+      "titre": "Instruction INTA1830120J du 21 novembre 2018 relative à la tenue des listes électorales et des listes électorales complémentaires",
+      "url": "https://www.legifrance.gouv.fr/download/pdf/circ?id=44101"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Vérifier votre inscription électorale et votre bureau de vote",
+      "url": "https://situation.elections.interieur.gouv.fr/",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "s-inscrire-sur-une-liste-electorale-consulaire-quel-justificatif-de-domicile",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "elections",
+      "titre": "Élections"
+    }
+  ]
+}

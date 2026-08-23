@@ -1,0 +1,69 @@
+{
+  "id": "F34176",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quelles sanctions en cas d'erreur dans sa déclaration de revenus ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Si votre déclaration de revenus est inexacte, votre impôt peut être majoré de 10 %. Si le manquement est délibéré, les sanctions sont plus lourdes.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-01-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34176",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Impôt sur le revenu : déclaration et revenus à déclarer",
+    "Quelles sanctions en cas d'erreur dans sa déclaration de revenus ?"
+  ],
+  "introduction": "Si votre déclaration de revenus contient des erreurs ou des oublis conduisant à réduire votre impôt ou à augmenter un avantage fiscal en votre faveur, des sanctions fiscales sont applicables.",
+  "chapitres": [
+    {
+      "titre": "Majoration de l'impôt dû",
+      "contenu": [
+        "Vous devrez payer une majoration de 10 %.",
+        "Elle est appliquée à l'impôt supplémentaire que vous devez payer ou au montant de l'avantage auquel vous n'avez pas droit.",
+        "Vous pouvez éviter cette majoration par l'un des 2 moyens suivants :",
+        "• Régulariser spontanément votre situation (en déposant une déclaration rectificative)",
+        "• Répondre dans les 30 jours à une relance de l'administration.",
+        "En cas de manœuvre frauduleuse ou de manquement délibéré, des sanctions plus lourdes s'appliquent."
+      ]
+    },
+    {
+      "titre": "Intérêts de retard",
+      "contenu": [
+        "Des intérêts de retard vous sont aussi appliqués.",
+        "Ils s'élèvent à 0,20 % de l'impôt dû par mois de retard (soit 2,4 % sur 1 an).",
+        "[À savoir] Vous n'aurez pas d'intérêts de retard si vous avez alerté par écrit l'administration fiscale de vos interrogations lors du dépôt de votre déclaration."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général des impôts : article 1727",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006147309/"
+    },
+    {
+      "titre": "Code général des impôts : articles 1757 à 1783 B",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000006162918/"
+    },
+    {
+      "titre": "Code général des impôts : articles 1729 et 1729-0 A",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006179987/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Service d'information des impôts",
+    "Service en charge des impôts (trésorerie, service des impôts...)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "quelles-sanctions-en-cas-d-erreur-dans-sa-declaration-de-revenus",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "impot-sur-le-revenu-declaration-et-revenus-a-declarer",
+      "titre": "Impôt sur le revenu : déclaration et revenus à déclarer"
+    }
+  ]
+}

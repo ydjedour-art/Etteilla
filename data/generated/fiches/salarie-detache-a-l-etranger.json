@@ -1,0 +1,149 @@
+{
+  "id": "F3155",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Salarié détaché à l'étranger",
+  "theme": "Étranger - Europe",
+  "description": "En tant que salarié détaché, vous continuez à bénéficier du régime français de sécurité sociale et du régime unique d'assurance vieillesse.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2024-05-22",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F3155",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Vivre à l'étranger",
+    "Salarié détaché à l'étranger"
+  ],
+  "introduction": "Le statut de salarié détaché concerne un salarié amené à travailler temporairement à l'étranger, pour le compte de son employeur d'origine, avec lequel il conserve un lien contractuel pendant le temps de sa mission. Vous souhaitez savoir combien de temps peut durer le détachement, quelles en sont les conséquences fiscales ? Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Qu'est-ce qu'un salarié détaché à l'étranger ?",
+      "contenu": [
+        "Un salarié détaché est un salarié envoyé à l'étranger, par son employeur d'origine, pour effectuer un travail pendant une durée déterminée. Par exemple, pour exécuter une prestation de service en Espagne pendant 4 mois.Le statut du salarié détaché diffère du statut de salarié expatrié.",
+        "[À savoir] Aucun salarié ne peut être sanctionné, licencié ou discriminé pour avoir refusé, en raison de son orientation sexuelle, une mutation géographique dans un pays où l'homosexualité est un crime ou un délit."
+      ]
+    },
+    {
+      "titre": "Le contrat de travail est-il maintenu pendant le détachement du salarié à l'étranger ?",
+      "contenu": [
+        "En tant que salarié détaché, vous faites toujours partie des effectifs de votre entreprise en France.",
+        "Votre lien de subordination avec votre employeur français persiste. Ce dernier formalise, en général, votre détachement par un avenant au contrat de travail du salarié.",
+        "Cet avenant a pour but d'organiser vos relations avec votre employeur français pendant la durée de la mission et vos relations avec l'entreprise d'accueil.",
+        "L'avenant a également les objectifs suivants :",
+        "• Déterminer la loi qui sera applicable entre les parties",
+        "• Préciser les conditions du détachement, c'est-à-dire la rémunération, la prise en charge des frais de déplacements et d'hébergement, les éventuelles indemnités spécifiques (par exemple, remboursement de frais de voyage)",
+        "• Évaluer l'impact fiscal qu'aura votre rémunération en tant que salarié détaché sur votre imposition",
+        "• Décrire votre réintégration à l'issue de votre mission",
+        "[À savoir] Certains pays délivrent une autorisation de travail uniquement à condition qu'un contrat de travail ait été signé avec une entreprise locale. Dans ce cas, l'entreprise d'accueil qui établit un contrat local avec vous a également le statut d'employeur."
+      ]
+    },
+    {
+      "titre": "Qui rémunère le salarié détaché à l'étranger ?",
+      "contenu": [
+        "Vous êtes, en principe, rémunéré par votre employeur d'origine.",
+        "De plus, vous pouvez également obtenir des indemnités spécifiques de détachement (par exemple, prime au logement aux transports)."
+      ]
+    },
+    {
+      "titre": "Quelle est la durée du détachement du salarié à l'étranger ?",
+      "contenu": [
+        "Le détachement est forcément temporaire.",
+        "La durée varie de quelques mois à quelques années selon la mission à effectuer et le pays d'accueil (par exemple : 2 mois à 3 ans)."
+      ]
+    },
+    {
+      "titre": "Le salarié détaché à l'étranger continue-t-il de bénéficier de la protection sociale ?",
+      "contenu": [
+        "Les informations diffèrent si vous êtes détaché dans un pays de l'Union européenne, de l'espace Schengen, au Royaume-Uni ou en Suisse ou si vous êtes détaché ailleurs.",
+        "Détachement dans un pays de l'UE, de l'espace Schengen, au Royaume-Uni ou en Suisse",
+        "Vous continuez de cotiser au régime général de la sécurité sociale française pendant toute la période de votre détachement. Vos cotisations sont calculées sur la rémunération en tant que salarié détaché dans les mêmes conditions que si vous travailliez en France. Vous continuez donc à bénéficier de l'assurance maladie française.",
+        "Pour ce faire, votre employeur doit demander un certificat de détachement depuis son compte en ligne urssaf.fr.",
+        "Si vous relevez du régime agricole, votre employeur doit remplir le questionnaire suivant et le transmettre à la MSA correspondant au siège de l'entreprise.",
+        "Questionnaire de maintien au régime français de sécurité sociale d'un travailleur salarié détaché",
+        "Après accord de l’institution concernée, il doit vous remettre le document A1 (attestation concernant la législation applicable).",
+        "Cependant, ce bénéfice est temporaire. La durée du détachement dans un pays de l'Union européenne, de l'Espace économique européen et en Suisse ne doit pas, en principe, dépasser 24 mois.",
+        "[À savoir] 2 mois doivent s'écouler avant que vous puissiez être à nouveau détaché.",
+        "Détachement dans un pays hors de l'UE, de l'espace Schengen ou de la Suisse",
+        "Pour tout détachement, supérieur à 3 mois, dans un pays, hors de l'Union européenne (UE), de l'espace Schengen ou de la Suisse, ayant signé (ou non) une convention bilatérale de Sécurité sociale avec la France, votre employeur doit demander un certificat de détachement depuis son compte en ligne urssaf.fr.",
+        "Si vous relevez du régime agricole, votre employeur doit remplir le questionnaire suivant et le transmettre à la MSA correspondant au siège de l'entreprise.",
+        "Questionnaire de maintien au régime français de sécurité sociale d'un travailleur salarié détaché",
+        "Après accord de l’institution concernée, il doit vous remettre une attestation concernant la législation applicable, qui vous permet de bénéficier de l’assurance maladie française[1],",
+        "Cependant, ce bénéfice est temporaire. La durée du détachement dans l'un des pays précités est, en principe, de 3 ans maximum, renouvelable 1 fois.",
+        "Vous devez la conserver toute la durée de votre détachement."
+      ]
+    },
+    {
+      "titre": "Quelles sont les conséquences fiscales du détachement du salarié à l'étranger ?",
+      "contenu": [
+        "L'employeur d'origine doit vous aider pendant votre mission à définir votre statut fiscal dans le pays d'accueil et à prendre connaissance des obligations déclaratives correspondantes. En effet, votre départ et éventuellement celui de votre famille peut modifier votre statut de résident fiscal. Selon les cas, votre salaire peut être soumis à l'imposition du pays d'accueil."
+      ]
+    },
+    {
+      "titre": "Comment se déroule le retour en France du salarié détaché à l'étranger ?",
+      "contenu": [
+        "En principe, votre employeur prend en charge les frais inhérents à vos déplacements, c'est-à-dire pour vous rendre et pour rentrer de l'étranger.",
+        "A l'issue de votre détachement à l'étranger, vous réintégrez votre entreprise d'origine.",
+        "Vous devez retrouver votre poste ou un poste équivalent en termes de responsabilités et de rémunération."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la sécurité sociale : articles L761-1 et L761-2",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006172810"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles R761-1 à R761-6",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000006173605/#LEGISCTA000006173605"
+    },
+    {
+      "titre": "Arrêté du 16 juin 2022 précisant les informations figurant dans l'attestation de détachement prévue à l'article R761-2 du code de la sécurité sociale",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000045959804"
+    },
+    {
+      "titre": "Code du travail : articles L1132-1 à L1132-4",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006177836/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Questionnaire de maintien au régime français de sécurité sociale d'un travailleur salarié détaché",
+      "url": "http://www.ameli.fr/fileadmin/user_upload/formulaires/S3208.pdf",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Attestation de détachement à l'étranger",
+      "url": "http://www.ameli.fr/fileadmin/user_upload/formulaires/S9201.pdf",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Ambassade ou consulat étranger en France",
+    "France Travail (anciennement Pôle emploi) international",
+    "Centre des liaisons européennes et internationales de sécurité sociale (Cleiss)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Services des Français à l'étranger",
+      "url": "http://www.diplomatie.gouv.fr/fr/services-aux-citoyens/"
+    },
+    {
+      "titre": "Vous partez travailler à l'étranger",
+      "url": "http://www.cleiss.fr/particuliers/je_pars_travailler.html"
+    },
+    {
+      "titre": "Site de la Caisse des Français de l'étranger (CFE)",
+      "url": "http://www.cfe.fr"
+    }
+  ],
+  "slug": "salarie-detache-a-l-etranger",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "vivre-a-l-etranger",
+      "titre": "Vivre à l'étranger"
+    }
+  ]
+}

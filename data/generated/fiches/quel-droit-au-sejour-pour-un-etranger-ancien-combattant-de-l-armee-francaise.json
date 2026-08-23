@@ -1,0 +1,58 @@
+{
+  "id": "F15371",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quel droit au séjour pour un étranger ancien combattant de l'armée française ?",
+  "theme": "Étranger - Europe",
+  "description": "Un ancien combattant étranger de l'armée française peut obtenir un titre de séjour. Il peut aussi obtenir la nationalité française, sous conditions.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2023-12-12",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F15371",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Entrée d'un étranger en France",
+    "Quel droit au séjour pour un étranger ancien combattant de l'armée française ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Un étranger ancien combattant de l'armée française peut obtenir une carte de résident sous réserve de la régularité du séjour.",
+        "Il doit remplir l'une des conditions suivantes :",
+        "• Avoir servi dans une unité de combattante de l'armée française ou d'une armée alliée",
+        "• Avoir passé au moins 3 ans sous contrat avec la Légion étrangère et avoir obtenu le certificat de bonne conduite",
+        "• Avoir combattu dans les rangs des forces françaises de l'intérieur (FFI)",
+        "Il peut aussi acquérir la nationalité française, sur proposition du ministre de la défense. En tant qu'engagé dans les armées françaises, il peut être naturalisé s'il a été blessé en mission au cours d'un engagement opérationnel.",
+        "Lorsque le demandeur est sous les drapeaux, la demande de naturalisation est remise à l'autorité militaire, qui la dépose dans les 8 jours, accompagnée de son avis, auprès de l'autorité administrative chargée de la recevoir. Cette dernière procède à la constitution du dossier.",
+        "Lorsque le demandeur est retourné à la vie civile, il dépose une demande de naturalisation par décret.",
+        "Par contre, être l'enfant étranger d'un ancien combattant de l'armée française n'ouvre pas un droit au séjour. Pour l'obtention d'un visa d'entrée ou d'un titre de séjour en France, il faut répondre aux conditions exigées.",
+        "De même, être l'enfant étranger d'un ancien combattant de l'armée française n'ouvre pas un droit à la naturalisation, sauf exceptions (sur proposition du ministère de la défense, pour l'orphelin du militaire décédé en mission au cours d'un engagement opérationnel)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles L426-2 à L426-3",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042771842/"
+    },
+    {
+      "titre": "Code civil : articles 21-14-1 à 21-25-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165459"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "quel-droit-au-sejour-pour-un-etranger-ancien-combattant-de-l-armee-francaise",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "entree-d-un-etranger-en-france",
+      "titre": "Entrée d'un étranger en France"
+    }
+  ]
+}

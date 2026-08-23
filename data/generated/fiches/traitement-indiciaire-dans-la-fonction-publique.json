@@ -1,0 +1,107 @@
+{
+  "id": "F461",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Traitement indiciaire dans la fonction publique",
+  "theme": "Travail - Formation",
+  "description": "La rémunération d'un agent public comprend obligatoirement au moins un traitement indiciaire calculé en fonction d'un indice majoré.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-06-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F461",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Rémunération dans la fonction publique",
+    "Traitement indiciaire dans la fonction publique"
+  ],
+  "introduction": "Si vous êtes agent public, votre rémunération se compose notamment d'un traitement indiciaire (appelé également traitement de base) calculé en fonction d'un indice majoré. Nous vous présentons la réglementation que vous soyez fonctionnaire ou contractuel.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code général de la fonction publique : articles L712-1 à L712-2",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044423763/"
+    },
+    {
+      "titre": "Code général de la fonction publique : articles L712-3 à L712-6",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044423769/"
+    },
+    {
+      "titre": "Code général de la fonction publique : articles L713-1 à L713-2",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044423795/"
+    },
+    {
+      "titre": "Code général de la fonction publique : article L715-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044423841/"
+    },
+    {
+      "titre": "Code général de la fonction publique : article L741-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044424665/"
+    },
+    {
+      "titre": "Loi n°2020-1576 du 14 décembre 2020 de financement de la sécurité sociale pour 2021 : article 48",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042667268/"
+    },
+    {
+      "titre": "Décret n°82-1105 du 23 décembre 1982 relatif aux indices de la fonction publique",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000703628/"
+    },
+    {
+      "titre": "Décret n°85-1148 du 24 octobre 1985 relatif à la rémunération des personnels des 3 fonctions publiques",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006064738/"
+    },
+    {
+      "titre": "Décret n°86-83 du 17 janvier 1986 relatif aux agents contractuels de la FPE",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000699956/"
+    },
+    {
+      "titre": "Décret n°88-145 du 15 février 1988 relatif aux agents non titulaires de la FPT",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000871608"
+    },
+    {
+      "titre": "Décret n°91-155 du 6 février 1991 relatif aux agents contractuels de la FPH",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000343794"
+    },
+    {
+      "titre": "Décret n°91-769 du 2 août 1991 instituant une indemnité différentielle pour les personnels de l'Etat, des collectivités territoriales et des établissements publics d'hospitalisation",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000709279/"
+    },
+    {
+      "titre": "Décret n°2020-1152 du 19 septembre 2020 relatif au versement d'un complément de traitement indiciaire à certains agents publics",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000042345102"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Structure et principaux éléments constitutifs de la rémunération",
+      "url": "https://www.fonction-publique.gouv.fr/files/files/publications/publications-dgafp/parcours-de-formation-professionnalisation-rh-l3.pdf"
+    },
+    {
+      "titre": "Évolution de l'indice 100 depuis 2002 (montants annualisés)",
+      "url": "https://www.fonction-publique.gouv.fr/connaitre-point-dindice"
+    },
+    {
+      "titre": "Correspondance entre indices bruts et majorés",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043341340"
+    },
+    {
+      "titre": "Traitements annuels correspondant à chacun des groupes hors échelle",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000047751768"
+    },
+    {
+      "titre": "Bénéficiaires du complément de traitement indiciaire dans la fonction publique territoriale",
+      "url": "https://www.finistere.gouv.fr/content/download/54005/371988/file/Circulaire%20DGCL%20du%2010%20novembre%202022.pdf"
+    }
+  ],
+  "slug": "traitement-indiciaire-dans-la-fonction-publique",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "remuneration-dans-la-fonction-publique",
+      "titre": "Rémunération dans la fonction publique"
+    }
+  ]
+}

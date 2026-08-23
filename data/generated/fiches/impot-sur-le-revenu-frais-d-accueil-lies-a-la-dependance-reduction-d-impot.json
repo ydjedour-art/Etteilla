@@ -1,0 +1,139 @@
+{
+  "id": "F17",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Impôt sur le revenu - Frais d'accueil liés à la dépendance (réduction d'impôt)",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Une réduction d'impôt est accordée si on vit dans un établissement d'hébergement pour personnes âgées dépendantes (Ehpad) ou de soins de longue durée.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-15",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F17",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Impôt sur le revenu : déductions, réductions et crédits d'impôt",
+    "Impôt sur le revenu - Frais d'accueil liés à la dépendance (réduction d'impôt)"
+  ],
+  "introduction": "Vous pouvez bénéficier d'une réduction d'impôt si vous vivez dans un établissement d'hébergement pour personnes âgées dépendantes (Éhpad) ou un établissement de soins de longue durée (ex-USLD). Nous vous indiquons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Quelles sont les conditions de la réduction d'impôt pour frais d'accueil liés à la dépendance ?",
+      "contenu": [
+        "Pour bénéficier de la réduction d'impôt, vous devez être accueilli dans un établissement, Éhpad ou établissement de soins de longue durée.",
+        "Vous devez aussi être domicilié fiscalement en France.",
+        "L'établissement de soins doit être en France ou dans un autre État membre de l'Espace économique européen (excepté le Liechtenstein).",
+        "[À savoir] Vous bénéficiez de cette réduction d'impôt quel que soit votre âge."
+      ]
+    },
+    {
+      "titre": "Quel est le montant de la réduction d'impôt pour frais d'accueil liés à la dépendance ?",
+      "contenu": [
+        "La réduction d'impôt prend en compte les dépenses liées à la dépendance et à l'hébergement.",
+        "Elle se base sur les dépenses réellement supportées.",
+        "Les aides et allocations liées à la dépendance ou l'hébergement doivent être déduites.",
+        "Par exemple, les aides suivantes :",
+        "• Allocation personnalisée d'autonomie (Apa)",
+        "• Aide sociale du département",
+        "• Allocation logement.",
+        "La réduction d'impôt est de 25 % des dépenses supportées, dans une limite annuelle de 10 000 € par personne hébergée.",
+        "La réduction d'impôt maximale est donc de 2 500 € par personne hébergée."
+      ]
+    },
+    {
+      "titre": "Comment déclarer les frais d'accueil liés à la dépendance ?",
+      "contenu": [
+        "Vous devez utiliser le service en ligne suivant :",
+        "Déclarer vos revenus en ligne",
+        "Connexion avec l’identifiant fiscal du contribuable ou via FranceConnect. Ensuite, double authentification avec réception d’un code à 6 chiffres par mail.",
+        "Vous devez indiquer dans votre déclaration le montant des dépenses de dépendance et des frais d'hébergement payés par personne hébergée, après déduction éventuelle du montant des aides reçues.",
+        "Indiquez ces frais dans la partie Réductions d'impôt - Crédits d'impôt de la déclaration en ligne, à la rubrique Dépenses d'accueil dans un établissement pour personnes dépendantes.",
+        "Conservez les justificatifs pendant 3 ans en cas de demande de l'administration.",
+        "La déclaration 2026 des revenus de 2025 est terminée.",
+        "La déclaration 2027 des revenus de 2026 débutera en avril 2027.",
+        "La déclaration des revenus par internet est obligatoire si votre résidence principale est équipée d'un accès à internet et que vous êtes en mesure de faire votre déclaration en ligne.",
+        "[Complement] Vous devez indiquer dans votre déclaration le montant des dépenses de dépendance et des frais d'hébergement payés par personne hébergée, après déduction éventuelle du montant des aides reçues. Indiquez ces frais à la rubrique Dépenses d'accueil dans un établissement pour personnes dépendantes dans le formulaire suivant : Déclaration 2026 des revenus 2025 - Réductions d'impôt et crédits d'impôt Conservez les justificatifs pendant 3 ans en cas de demande de l'administration. La déclaration 2026 des revenus de 2025 est terminée. La déclaration 2027 des revenus de 2026 débutera en avril 2027."
+      ]
+    },
+    {
+      "titre": "Quand la réduction d'impôt pour frais d'accueil liés à la dépendance est-elle versée ?",
+      "contenu": [
+        "Un acompte de 60 % vous est versé en janvier, en fonction du montant de la réduction d'impôt perçue l'année précédente.",
+        "Le solde vous est payé à l'été, en fonction de vos dépenses réelles.",
+        "Si vous touchez un acompte trop important en janvier, vous devrez rembourser le trop-perçu en septembre.",
+        "[Exemple] Pour vos dépenses de 2025, un acompte de 60 % de la réduction d'impôt vous est versé en janvier 2026, en fonction du montant de la réduction d'impôt perçue en 2025 (pour vos dépenses de 2024). Le solde vous est payé à l'été 2026, en fonction de vos dépenses réelles de 2025."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général des impôts : article 199 quindecies",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006191920/"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-IR-RICI relatif aux réductions et crédits d'impôt",
+      "url": "http://bofip.impots.gouv.fr/bofip/5955-PGP"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-IR-RICI-140 relatif à la réduction d'impôt pour dépenses liées à la dépendance",
+      "url": "http://bofip.impots.gouv.fr/bofip/526-PGP"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Impôts : accéder à votre espace Finances publiques",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Estimer le montant de son impôt sur les revenus de 2025 (déclaration de 2026)",
+      "url": "https://simulateur-ir-ifi.impots.gouv.fr/calcul_impot/2026/",
+      "type": "simulateurNG"
+    },
+    {
+      "titre": "Déclarer vos revenus en ligne",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Déclaration 2026 des revenus 2025 - Réductions d'impôt et crédits d'impôt",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/2042/declaration-des-revenus",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Service d'information des impôts",
+    "Service en charge des impôts (trésorerie, service des impôts...)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Site des impôts",
+      "url": "https://www.impots.gouv.fr/portail/"
+    },
+    {
+      "titre": "J'ai déclaré des réductions et crédits d'impôt, suis-je concerné par le versement de l'avance de 60 % en janvier ?",
+      "url": "https://www.impots.gouv.fr/particulier/questions/jai-declare-des-reductions-et-credits-dimpot-suis-je-concerne-par-le"
+    },
+    {
+      "titre": "Brochure pratique 2026 - Déclaration des revenus de 2025",
+      "url": "https://www.impots.gouv.fr/www2/fichiers/documentation/brochure/ir_2026/accueil.htm"
+    },
+    {
+      "titre": "Impôt sur le revenu : dépliants d'information",
+      "url": "https://www.impots.gouv.fr/brochures-et-depliants"
+    },
+    {
+      "titre": "Impôt sur le revenu : faut-il déclarer l'APA ?",
+      "url": "https://www.pour-les-personnes-agees.gouv.fr/actualites/impot-sur-le-revenu-faut-il-declarer-lapa"
+    }
+  ],
+  "slug": "impot-sur-le-revenu-frais-d-accueil-lies-a-la-dependance-reduction-d-impot",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "impot-sur-le-revenu-deductions-reductions-et-credits-d-impot",
+      "titre": "Impôt sur le revenu : déductions, réductions et crédits d'impôt"
+    }
+  ]
+}

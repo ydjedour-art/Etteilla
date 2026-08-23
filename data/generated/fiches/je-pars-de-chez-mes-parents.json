@@ -1,0 +1,169 @@
+{
+  "id": "F34635",
+  "type_publication": "Fiche Comment faire si conditionné",
+  "titre": "Je pars de chez mes parents",
+  "theme": "",
+  "description": "J'habite chez mes parents et je vais devenir locataire. Ce déménagement implique des démarches, différentes selon que je m’installe de façon définitive ou non.",
+  "type_fiche": "Comment faire si...",
+  "date_modif": "2024-06-12",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34635",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Comment faire si",
+    "Je pars de chez mes parents"
+  ],
+  "introduction": "J'habite chez mes parents en France et je vais devenir locataire de mon logement. Selon que je suis étudiant (y compris en contrat d'apprentissage ou d'alternance) ou non, différentes solutions de logement sont possibles. Déménager et devenir locataire pour la 1re fois impliquent de réaliser certaines démarches, qui diffèrent selon que mon installation est définitive ou non. Voici quelles sont ces démarches et comment les faire.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "[Attention] Je dois consulter des informations spécifiques si je pars vivre à l’étranger, ou si je pars de chez mes parents."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [
+    {
+      "titre": "Demande d'aide Mobili-Jeune",
+      "url": "https://www.almerys.com/auth/realms/ALS/protocol/openid-connect/auth?client_id=ALS_MOBILIJEUNE_FRONT&redirect_uri=https%3A%2F%2Fmobilijeune.actionlogement.fr%2Fsignin-oidc&response_type=id_token%20token&scope=openid%20offline_access&state=d02c495e2103423c98d37f7054fbde31&nonce=3176137233c94fa0b498f1b728de5d79&ui_locales=fr-FR",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Mes services étudiant",
+      "url": "https://www.messervices.etudiant.gouv.fr",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Demande de logement social en ligne (et renouvellement de demande)",
+      "url": "https://www.demande-logement-social.gouv.fr",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Lokaviz : logement étudiant chez un particulier",
+      "url": "https://www.lokaviz.fr/",
+      "type": "Outil de recherche"
+    },
+    {
+      "titre": "Bienvéo : logements sociaux disponibles à la location",
+      "url": "https://www.bienveo.fr/",
+      "type": "Outil de recherche"
+    },
+    {
+      "titre": "Bourse au logement des agents de l'État affectés en Île-de-France",
+      "url": "https://www.balae.logement.gouv.fr/login",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Locataire : accéder à son espace personnel sur Visale.fr",
+      "url": "https://fo.visale.fr/?#/fr/login/locataire",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Demander une avance Loca-Pass",
+      "url": "https://locapass.actionlogement.fr/",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "\"DossierFacile\" (locataire) : pour signaler la qualité de son dossier au propriétaire",
+      "url": "https://www.dossierfacile.logement.gouv.fr/?mtm_campaign=service-public&mtm_kwd=R51424",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Demande d’aide personnelle au logement (APL, ALF, ALS) - Caf",
+      "url": "https://wwwd.caf.fr/wps/portal/caffr/aidesetservices/lesservicesenligne/faireunedemandedeprestation/demanderlaideaulogement",
+      "type": "selNG"
+    },
+    {
+      "titre": "Calculer son droit à une aide personnelle au logement (APL, ALF, ALS) - Caf",
+      "url": "https://wwwd.caf.fr/wps/portal/caffr/aidesetdemarches/mesdemarches/faireunesimulation/lelogement#/preparation",
+      "type": "simulateurNG"
+    },
+    {
+      "titre": "Connaître les prestations sociales auxquelles vous pouvez avoir droit",
+      "url": "https://www.mesdroitssociaux.gouv.fr",
+      "type": "selNG"
+    },
+    {
+      "titre": "Transférez votre courrier",
+      "url": "https://www.laposte.fr/demenagement-absence",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Déclaration de changement d'adresse",
+      "url": "https://demarches.service-public.gouv.fr/mademarche/JeChangeDeCoordonnees/demarche",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Calculer le coût du certificat d'immatriculation",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/cout-certificat-immatriculation",
+      "type": "Simulateur"
+    },
+    {
+      "titre": "Vérifier votre inscription électorale et votre bureau de vote",
+      "url": "https://situation.elections.interieur.gouv.fr/",
+      "type": "selNG"
+    },
+    {
+      "titre": "Connaître les aides d'Action logement à l'alternant (contrat d’apprentissage ou de professionnalisation)",
+      "url": "https://www.actionlogement.fr/salarie/alternant",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Trouver un logement étudiant",
+      "url": "https://monlogementetudiant.beta.gouv.fr/trouver-un-logement-etudiant",
+      "type": "outilRechercheNG"
+    }
+  ],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Vous êtes étudiant et vous devez trouver prochainement votre logement pour la rentrée. Quels sont les documents à préparer ? Quelles sont les étapes clés à bien anticiper avant l’entrée dans les lieux ?",
+      "url": "https://www.adil44.fr/liste-info-semaines/202421-etudiants-rentree-logement-documents-a-preparer/"
+    },
+    {
+      "titre": "Je suis étudiant et je veux louer un logement",
+      "url": "https://www.anil.org/etudiant-location-logement/"
+    },
+    {
+      "titre": "Les résidences universitaires",
+      "url": "http://www.etudiant.gouv.fr/pid33824-cid96315/en-bref-les-residences-universitaires.html"
+    },
+    {
+      "titre": "Comment se passe l'attribution des logements en résidence ?",
+      "url": "https://www.etudiant.gouv.fr/fr/comment-se-passe-l-attribution-des-logements-en-residence-73"
+    },
+    {
+      "titre": "Aide à l'installation des personnels de l'État (AIP)",
+      "url": "https://www.aip-fonctionpublique.fr/"
+    },
+    {
+      "titre": "Solutions de logement temporaire pour agents de l'État affectés en Île-de-France",
+      "url": "http://www.drihl.ile-de-france.developpement-durable.gouv.fr/acces-au-logement-des-agents-de-l-etat-r254.html"
+    },
+    {
+      "titre": "Electricité et gaz naturel : les démarches en cas de déménagement et d’emménagement",
+      "url": "https://www.energie-info.fr/fiche_pratique/je-demenage-jemmenage-les-demarches-pour-lelectricite-et-le-gaz-naturel/"
+    },
+    {
+      "titre": "Comment avoir accès à internet dans son nouveau logement ?",
+      "url": "https://www.arcep.fr/demarches-et-services/utilisateurs/demenagement-que-faire-pour-avoir-un-acces-a-internet-dans-mon-nouveau-logement.html"
+    },
+    {
+      "titre": "Faire appel à un déménageur professionnel",
+      "url": "https://www.inc-conso.fr/content/le-demenagement-en-20-questions"
+    },
+    {
+      "titre": "Déménageur professionnel : entreprises inscrites au registre des transporteurs de marchandises",
+      "url": "https://www.ecologique-solidaire.gouv.fr/liste-des-entreprises-inscrites-au-registre-electronique-national-des-entreprises-transport-route-et"
+    }
+  ],
+  "slug": "je-pars-de-chez-mes-parents",
+  "path": [
+    {
+      "slug": "comment-faire-si",
+      "titre": "Comment faire si"
+    }
+  ]
+}

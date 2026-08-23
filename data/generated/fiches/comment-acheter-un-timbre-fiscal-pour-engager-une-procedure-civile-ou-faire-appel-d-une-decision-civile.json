@@ -1,0 +1,66 @@
+{
+  "id": "F33227",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Comment acheter un timbre fiscal pour engager une procédure civile ou faire appel d’une décision civile ?",
+  "theme": "Justice",
+  "description": "Si vous voulez engager une procédure civile ou faire appel d’un jugement, vous devez acheter un timbre fiscal en ligne.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-04-10",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33227",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Affaire civile",
+    "Comment acheter un timbre fiscal pour engager une procédure civile ou faire appel d’une décision civile ?"
+  ],
+  "introduction": "Pour engager certaines procédures civiles ou à l’occasion d’une procédure en appel d'une décision civile, vous devez acheter un timbre fiscal. Il est vendu uniquement sous la forme électronique.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code général des impôts : articles 899 à 900 B",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000030062715/"
+    },
+    {
+      "titre": "Code général des impôts : article 1635 bis P",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033815210"
+    },
+    {
+      "titre": "Code général des impôts : article 1635bis Q",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024418051"
+    },
+    {
+      "titre": "Loi n° 2026-103 du 19 février 2026 de finances pour 2026",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053508155"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Acheter un timbre fiscal électronique pour engager une procédure judiciaire civile",
+      "url": "https://timbres.impots.gouv.fr/",
+      "type": "selNG"
+    },
+    {
+      "titre": "Acheter un timbre fiscal électronique pour faire appel d'une décision de justice",
+      "url": "https://timbres.impots.gouv.fr/",
+      "type": "selNG"
+    },
+    {
+      "titre": "Demander le remboursement d'un timbre électronique",
+      "url": "https://timbres.impots.gouv.fr/",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "comment-acheter-un-timbre-fiscal-pour-engager-une-procedure-civile-ou-faire-appel-d-une-decision-civile",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "affaire-civile",
+      "titre": "Affaire civile"
+    }
+  ]
+}

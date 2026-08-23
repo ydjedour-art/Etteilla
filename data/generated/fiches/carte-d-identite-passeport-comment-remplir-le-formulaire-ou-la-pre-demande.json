@@ -1,0 +1,43 @@
+{
+  "id": "F33640",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Carte d'identité / Passeport : comment remplir le formulaire ou la pré-demande ?",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Le formulaire cerfa n°12101*02 ou 12100*02 de demande de carte d'identité ne peut pas être téléchargé. Il est remis au guichet.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-08-12",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33640",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Carte d'identité",
+    "Carte d'identité / Passeport : comment remplir le formulaire ou la pré-demande ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "La situation varie selon que vous êtes en France ou à l’étranger :"
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [
+    "Mairie",
+    "Ambassade ou consulat français à l'étranger"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "carte-d-identite-passeport-comment-remplir-le-formulaire-ou-la-pre-demande",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "carte-d-identite",
+      "titre": "Carte d'identité"
+    }
+  ]
+}

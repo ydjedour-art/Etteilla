@@ -1,0 +1,143 @@
+{
+  "id": "F35782",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Investissement locatif : quels sont les dispositifs ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Vous bénéficiez d'un avantage fiscal si vous réalisez un investissement locatif Denormandie ou Loc'Avantages. Le logement peut être neuf ou ancien rénové.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-04-15",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35782",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Impôt sur le revenu : déductions, réductions et crédits d'impôt",
+    "Investissement locatif : quels sont les dispositifs ?"
+  ],
+  "introduction": "Vous bénéficiez d'un avantage fiscal si vous réalisez un investissement locatif. L'avantage dépend de la date à laquelle vous réalisez cet investissement. Le logement, neuf ou ancien, doit être loué vide, en tant que résidence principale, sous certaines conditions. Nous vous indiquons les principales informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Comparatif des dispositifs d'investissement locatif",
+        "Nom du dispositif",
+        "Denormandie",
+        "Loc'Avantages",
+        "Relance Logement",
+        "(aussi appelé « statut fiscal du bailleur privé » ou « dispositif Jeanbrun »)",
+        "Type de logement",
+        "Ancien avec travaux d'amélioration ou de transformation représentant au moins 25 % du coût total",
+        "Récent ou ancien, avec ou sans travaux",
+        "Neuf, ou ancien avec travaux (réhabilitation lourde)",
+        "En immeuble collectif",
+        "Délai de souscription",
+        "Jusqu'au 31 décembre 2027",
+        "Jusqu'au 31 décembre 2027",
+        "Jusqu’au 31 décembre 2028",
+        "Localisation dans des zones restreintes",
+        "Oui (dans certaines communes seulement)",
+        "Oui (selon convention avec l'Anah)",
+        "Non",
+        "Avantage fiscal",
+        "Réduction d'impôt",
+        "Réduction d'impôt (variable selon le niveau de loyer)",
+        "Déduction des revenus fonciers",
+        "(en cas de déficit foncier, imputation dans les limites habituelles)",
+        "Durée de la location",
+        "Engagement initial de 6 ou 9 ans (renouvelable pour 3 ans)",
+        "Engagement de 6 ans",
+        "Engagement de 9 ans",
+        "Plafonds de loyers",
+        "Oui, différents selon la localisation du logement (les mêmes que pour le dispositif Pinel)",
+        "Oui (3 niveaux au choix : intermédiaire, social, très social)",
+        "Oui (3 niveaux au choix : intermédiaire, social, très social)",
+        "Plafonds de ressources pour le locataire",
+        "Oui, différents selon la localisation du logement (les mêmes que pour le dispositif Pinel)",
+        "Oui",
+        "Oui",
+        "Cumul avec un autre dispositif",
+        "Oui avec Pinel pour un autre logement (dans la limite de 2 pour une même année)",
+        "Non",
+        "Non",
+        "Investissements outre-mer",
+        "Oui, avec des règles spécifiques",
+        "Oui, avec des règles spécifiques",
+        "Oui",
+        "Plafonnement global des niches fiscales",
+        "Oui",
+        "Oui",
+        "Non",
+        "Particularités",
+        "Respect de critères de performance énergétique",
+        "• Signature obligatoire d'une convention avec l'Anah",
+        "• Respect de critères de performance énergétique",
+        "• Avantage fiscal accru en cas d'intermédiation locative.",
+        "• Plafond de déduction annuel par foyer fiscal (8 000 € en général)",
+        "• Location à un proche interdite.",
+        "Plusieurs dispositifs d'investissement locatif ne peuvent plus être souscrits.",
+        "C'est le cas pour les dispositifs suivants :",
+        "• Dispositif Pinel (depuis le 1er janvier 2025)",
+        "• Dispositif Louer abordable (depuis mars 2022)",
+        "• Dispositif Duflot (depuis septembre 2014)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général des impôts : article 199 novovicies",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000042159380/"
+    },
+    {
+      "titre": "Code général des impôts : articles 28 à 32",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006197178/"
+    },
+    {
+      "titre": "Loi n° 2026-103 du 19 février 2026 de finances pour 2026",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053508155"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Connaître la zone de sa commune : A, Abis, B1, B2 ou C",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/zonage-abc",
+      "type": "Simulateur"
+    },
+    {
+      "titre": "Vérifier si votre ville relève du dispositif \"Denormandie\"",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/Zone-Denormandie",
+      "type": "Simulateur"
+    }
+  ],
+  "contacts": [
+    "Service d'information des impôts",
+    "Service en charge des impôts (trésorerie, service des impôts...)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Réduction d'impôt pour investissement locatif « Pinel »",
+      "url": "https://www.anil.org/votre-projet/vous-achetez-vous-construisez/investissement-locatif/reduction-dimpot-pinel/"
+    },
+    {
+      "titre": "Réduction d'impôt pour investissement locatif « Duflot »",
+      "url": "https://www.anil.org/votre-projet/vous-achetez-vous-construisez/investissement-locatif/reduction-dimpot-duflot/"
+    },
+    {
+      "titre": "Site des impôts",
+      "url": "https://www.impots.gouv.fr/portail/"
+    },
+    {
+      "titre": "Brochure pratique 2026 - Déclaration des revenus de 2025",
+      "url": "https://www.impots.gouv.fr/www2/fichiers/documentation/brochure/ir_2026/accueil.htm"
+    }
+  ],
+  "slug": "investissement-locatif-quels-sont-les-dispositifs",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "impot-sur-le-revenu-deductions-reductions-et-credits-d-impot",
+      "titre": "Impôt sur le revenu : déductions, réductions et crédits d'impôt"
+    }
+  ]
+}

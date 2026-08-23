@@ -1,0 +1,59 @@
+{
+  "id": "F11384",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Qui peut assister aux réunions du conseil syndical d'une copropriété ?",
+  "theme": "Logement",
+  "description": "En principe, seuls les membres du conseil syndical assistent aux réunions.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-06-23",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F11384",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Acteurs de la copropriété (organisation juridique)",
+    "Qui peut assister aux réunions du conseil syndical d'une copropriété ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "En principe, seuls les membres du conseil syndical assistent aux réunions.",
+        "Le président du conseil syndical peut toutefois autoriser certaines personnes à assister à une réunion en tant qu'invités.",
+        "Il peut s'agir :",
+        "• Des membres suppléants, s'ils ont été désignés lors de l'assemblée générale des copropriétaires",
+        "• D'un intervenant extérieur (par exemple, technicien, maître d’œuvre, entrepreneur) pour obtenir un avis technique (consultation ou expertise sur un sujet)",
+        "• Du syndic de la copropriété",
+        "• D’un copropriétaire si son avis ou ses compétences sont nécessaires sur un sujet précis.",
+        "Le président du conseil syndical organise alors les convocations et la présence d’invités ponctuels selon l’ordre du jour.",
+        "[À noter] Le règlement de copropriété peut toutefois fixer des règles différentes."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Décret n°67-223 du 17 mars 1967 fixant le statut de la copropriété des immeubles bâtis",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006061423/"
+    },
+    {
+      "titre": "Loi du 10 juillet 1965 sur la copropriété : article 21",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039313574"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "qui-peut-assister-aux-reunions-du-conseil-syndical-d-une-copropriete",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "acteurs-de-la-copropriete-organisation-juridique",
+      "titre": "Acteurs de la copropriété (organisation juridique)"
+    }
+  ]
+}

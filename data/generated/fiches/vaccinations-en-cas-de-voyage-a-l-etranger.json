@@ -1,0 +1,123 @@
+{
+  "id": "F720",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Vaccinations en cas de voyage à l'étranger",
+  "theme": "Social - Santé",
+  "description": "Avant le départ, il faut s’informer et vérifier les vaccins utiles pour le voyage. Les risques varient selon notamment les conditions et la durée de son séjour.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-01-12",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F720",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Assurance maladie et santé d'un Français à l'étranger",
+    "Vaccinations en cas de voyage à l'étranger"
+  ],
+  "introduction": "Quelles sont les vaccinations à faire avant un voyage à l'étranger ? Avant le départ, vous devez vous informer et vérifier les vaccins utiles pour le voyage. Les risques encourus varient selon votre état de santé, la situation sanitaire du pays visité, les conditions et la durée du séjour. La vaccination vous permet d'éviter à l’étranger certaines maladies graves. De plus, elle permet de protéger les populations locale et française de risques épidémiques. Nous vous exposons les règles à connaître.",
+  "chapitres": [
+    {
+      "titre": "Quelles informations et précautions prendre avant son départ à l'étranger ?",
+      "contenu": [
+        "Renseignements à prendre",
+        "Avant tout départ à l'étranger, vous devez vous renseigner :",
+        "• Sur les risques de maladies dans le ou les pays de votre voyage où vous avez l'intention de vous rendre",
+        "• Et sur les précautions et les traitements à prendre pour éviter d'être malade sur place ou à votre retour en France.",
+        "Demandez l'avis de votre médecin pour vous assurer que les conseils donnés sont adaptés à votre situation.",
+        "Il n'existe pas de calendrier pour l'administration des vaccins communs à l'ensemble des voyageurs.",
+        "En effet, chaque calendrier doit être personnalisé et dépend :",
+        "• Du voyageur (âge, état de santé, antécédents vaccinaux)",
+        "• Du pays de destination",
+        "• Et des conditions du voyage.",
+        "Informez-vous suffisamment tôt avant votre départ (entre 1 à 2 mois avant en cas de vaccin à effectuer).",
+        "[À savoir] Vous pouvez consulter le site diplomatie.gouv.fr pour bénéficier de conseils par pays de destination. Exemple : certains pays étrangers peuvent avoir maintenu des conditions d'entrée, de séjour et de sortie sur leur territoire liées à la Covid. De plus, vous pouvez contacter le centre de vaccination pour savoir si les vaccins peuvent ou non s'effectuer le même jour.",
+        "Vérifications de vaccination à faire",
+        "Le projet d'un voyage est l'occasion de faire le point sur ses vaccinations.",
+        "Si vous êtes partiellement vacciné ou non-vacciné, pour des vaccinations qui sont recommandées en France on vous proposera des rappels de vaccinations, en plus de celles nécessaires pour votre voyage.",
+        "La mise à jour des vaccinations vise, en particulier, la vaccination contre les maladies suivantes :",
+        "• Diphtérie, tétanos, poliomyélite (DTP)",
+        "• Coqueluche",
+        "• Rougeole.",
+        "[À savoir] Certains vaccins peuvent être administrés par différentes personnes."
+      ]
+    },
+    {
+      "titre": "Quelles sont les vaccinations propres aux risques sanitaires du pays visité ?",
+      "contenu": [
+        "Les vaccinations internationales sont présentées dans un bulletin annuel.",
+        "Elles vous concernent uniquement si vous vous rendez dans certains endroits.",
+        "Les maladies signalées et pouvant justifier une vaccination sont notamment les suivantes :",
+        "• Fièvre jaune (ou vaccination antiamarile) à pratiquer pour tout séjour notamment dans les zones tropicales d'Afrique et d'Amérique du sud",
+        "• Encéphalite japonaise (vaccination à pratiquer pour les séjours à risques ou une expatriation dans certains pays d'Asie ou en Océanie)",
+        "• Encéphalite à tiques (pour les séjours en zones rurales ou boisées d'Europe centrale, orientale et septentrionale, du nord de l'Asie centrale, du Japon et de la Chine)",
+        "• Fièvre typhoïde (pour tout séjour prolongé ou dans de mauvaises conditions dans les pays où l'hygiène est précaire). Ce vaccin est conseillé notamment dans le continent indien.",
+        "• Infections invasives à méningocoques (selon l'actualité des zones d'épidémies)",
+        "• Hépatite A (pays où l'hygiène est précaire, quelles que soient les conditions de votre séjour)",
+        "• Hépatite B (séjours fréquents et prolongés dans les pays à forte ou moyenne prévalence de ce virus)",
+        "• Rage (séjour prolongé ou aventureux en situation d'isolement dans des zones à haut risque : Afrique y compris l’Afrique du Nord, Asie, Amérique du sud)",
+        "• Grippe saisonnière (fortement conseillé chez les groupes à risques : malades chroniques, seniors de plus de 65 ans)."
+      ]
+    },
+    {
+      "titre": "Vaccination contre la fièvre jaune : un certificat international de vaccination vous est-il remis ?",
+      "contenu": [
+        "Si vous vous faites vacciner contre la fièvre jaune, un certificat international de vaccination vous sera remis.",
+        "Dans certains cas, une 2e dose est recommandée.",
+        "De nombreux pays exigent la vaccination à l’entrée du territoire mais le fait qu’un pays n’exige pas la vaccination contre la fièvre jaune ne signifie pas qu’il n’y a aucun risque de transmission de la maladie.",
+        "Ce vaccin ne peut pas être administré par votre médecin traitant.",
+        "Il doit être effectué dans un centre de vaccination habilité.",
+        "Centre de vaccination habilité à vacciner contre la fièvre jaune",
+        "[À savoir] Vous pouvez consulter le site diplomatie.gouv.fr pour bénéficier de conseils notamment liés à la santé par pays de destination.",
+        "Si vous perdez ce certificat, il faut vous adresser au centre de vaccination qui a effectué ces vaccinations.",
+        "L’émission de ce duplicata pourra donner lieu à une facturation.",
+        "[À noter] Avant le départ, il est aussi important de connaître les recommandations sanitaires."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [
+    "Ambassade ou consulat étranger en France",
+    "Centre de vaccination habilité à vacciner contre la fièvre jaune"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Vaccination contre la fièvre jaune",
+      "url": "https://www.ameli.fr/assure/sante/themes/piqure-moustique-maladies/prevention-specifique#text_11011"
+    },
+    {
+      "titre": "Recommandations sanitaires 2025 aux voyageurs",
+      "url": "https://www.hcsp.fr/Explore.cgi/avisrapportsdomaine?clefr=1439"
+    },
+    {
+      "titre": "Vaccinations internationales : recommandations générales",
+      "url": "https://www.pasteur.fr/fr/centre-medical/vaccination/recommandations-generales"
+    },
+    {
+      "titre": "Conseils aux voyageurs",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs"
+    },
+    {
+      "titre": "Fièvre jaune",
+      "url": "https://sante.gouv.fr/soins-et-maladies/maladies/maladies-vectorielles-et-zoonoses/la-fievre-jaune"
+    },
+    {
+      "titre": "Vaccination par pays",
+      "url": "https://www.pasteur.fr/fr/centre-medical/preparer-son-voyage"
+    },
+    {
+      "titre": "Survolez un pays sur la carte pour visualiser les vaccinations à effectuer",
+      "url": "https://www.pasteur.fr/fr/centre-medical/preparer-son-voyage"
+    }
+  ],
+  "slug": "vaccinations-en-cas-de-voyage-a-l-etranger",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "assurance-maladie-et-sante-d-un-francais-a-l-etranger",
+      "titre": "Assurance maladie et santé d'un Français à l'étranger"
+    }
+  ]
+}

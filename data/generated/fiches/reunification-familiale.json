@@ -1,0 +1,55 @@
+{
+  "id": "F35158",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Réunification familiale",
+  "theme": "Étranger - Europe",
+  "description": "La réunification familiale permet de faire venir en France la famille d’un bénéficiaire du statut de réfugié, d’apatride ou de la protection subsidiaire.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-22",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35158",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Installation en France d'une famille étrangère",
+    "Réunification familiale"
+  ],
+  "introduction": "Si vous êtes bénéficiaire du statut de réfugié ou de la protection subsidiaire en France ou que la France vous a reconnu le statut d'apatride et que dans tous les cas, vous avez un titre de séjour, vous pouvez alors faire venir en France votre conjoint (marié, pacsé ou en union libre) et vos enfants sous certaines conditions. Nous faisons un point sur la réglementation.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : article L561-2 à L561-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042772546/"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles L424-18 à L424-21",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042771796/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Livret d'accueil pour les personnes reconnues réfugiées",
+      "url": "https://www.ofpra.gouv.fr/libraries/pdf.js/web/viewer.html?file=/sites/default/files/2023-07/Livret%20d%27accueil%201A2_202307.pdf"
+    },
+    {
+      "titre": "Livret d'accueil pour les personnes bénéficiaires de la protection subsidiaire",
+      "url": "https://www.ofpra.gouv.fr/libraries/pdf.js/web/viewer.html?file=/sites/default/files/2023-07/Livret%20d%27accueil%20PS_202307_0.pdf"
+    },
+    {
+      "titre": "Livret d'accueil pour les personnes reconnues apatrides",
+      "url": "https://www.ofpra.gouv.fr/libraries/pdf.js/web/viewer.html?file=/sites/default/files/2025-01/Livret%20d%27accueil%20apatridie%20%282%29.pdf"
+    }
+  ],
+  "slug": "reunification-familiale",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "installation-en-france-d-une-famille-etrangere",
+      "titre": "Installation en France d'une famille étrangère"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "id": "F12",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Impôt sur le revenu - Crédit d'impôt pour l'emploi d'un salarié à domicile",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "L'emploi d'un salarié à domicile, en direct ou par un organisme agréé permet de bénéficier, sous conditions, d'un crédit d'impôt.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-15",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F12",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Impôt sur le revenu : déductions, réductions et crédits d'impôt",
+    "Impôt sur le revenu - Crédit d'impôt pour l'emploi d'un salarié à domicile"
+  ],
+  "introduction": "Vous employez un salarié à domicile, en direct ou en utilisant les services d'un intermédiaire (association, entreprise ou organisme agréé) ? Vous pouvez bénéficier, sous conditions, d'un crédit d'impôt. Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code général des impôts : article 199 sexdecies",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000006191899"
+    },
+    {
+      "titre": "Code du travail : article D7231-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033747429"
+    },
+    {
+      "titre": "Code du travail : articles D7233-5",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000018521222/"
+    },
+    {
+      "titre": "Loi n° 2021-1754 du 23 décembre 2021 de financement de la sécurité sociale pour 2022",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000044553428/"
+    },
+    {
+      "titre": "Loi n° 2026-103 du 19 février 2026 de finances pour 2026",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053508155"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-IR-RICI relatif aux réductions et crédits d'impôt",
+      "url": "http://bofip.impots.gouv.fr/bofip/5955-PGP"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-IR-RICI-150 relatif à la réduction ou au crédit d'impôt pour l'emploi d'un salarié à domicile",
+      "url": "http://bofip.impots.gouv.fr/bofip/3969-PGP"
+    },
+    {
+      "titre": "Circulaire du 11 avril 2019 n°ECOI1907576C relative aux activités de services à la personne",
+      "url": "https://www.legifrance.gouv.fr/circulaire/id/44550"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Impôts : accéder à votre espace Finances publiques",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Estimer le montant de son impôt sur les revenus de 2025 (déclaration de 2026)",
+      "url": "https://simulateur-ir-ifi.impots.gouv.fr/calcul_impot/2026/",
+      "type": "simulateurNG"
+    },
+    {
+      "titre": "Déclarer vos revenus en ligne",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Déclaration 2026 des revenus 2025 (papier)",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/2042/declaration-des-revenus",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Déclaration 2026 des revenus 2025 - Réductions d'impôt et crédits d'impôt",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/2042/declaration-des-revenus",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Estimer le coût d'un emploi à domicile",
+      "url": "https://www.cesu.urssaf.fr/decla/index.html?page=page_estimer&LANG=FR",
+      "type": "simulateurNG"
+    },
+    {
+      "titre": "Adhérer au service Cesu + en ligne",
+      "url": "https://www.cesu.urssaf.fr/info/accueil/utiliser-le-cesu/le-service-cesu/le-cesu--quest-ce-que-cest.html",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "Service d'information des impôts",
+    "Service en charge des impôts (trésorerie, service des impôts...)",
+    "Contacts sur l'Avance immédiate"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Site des impôts",
+      "url": "https://www.impots.gouv.fr/portail/"
+    },
+    {
+      "titre": "Brochure pratique 2026 - Déclaration des revenus de 2025",
+      "url": "https://www.impots.gouv.fr/www2/fichiers/documentation/brochure/ir_2026/accueil.htm"
+    },
+    {
+      "titre": "Impôt sur le revenu : dépliants d'information",
+      "url": "https://www.impots.gouv.fr/brochures-et-depliants"
+    },
+    {
+      "titre": "J'ai déclaré des réductions et crédits d'impôt, suis-je concerné par le versement de l'avance de 60 % en janvier ?",
+      "url": "https://www.impots.gouv.fr/particulier/questions/jai-declare-des-reductions-et-credits-dimpot-suis-je-concerne-par-le"
+    },
+    {
+      "titre": "Impôt sur le revenu : faut-il déclarer l'APA ?",
+      "url": "https://www.pour-les-personnes-agees.gouv.fr/actualites/impot-sur-le-revenu-faut-il-declarer-lapa"
+    },
+    {
+      "titre": "Le service Avance immédiate de crédit d’impôt",
+      "url": "https://www.urssaf.fr/accueil/services/services-particuliers/service-avance-immediate.html"
+    },
+    {
+      "titre": "Le Cesu Avance immédiate : comment ça marche ?",
+      "url": "https://www.cesu.urssaf.fr/info/files/pdf/6060-Infographie-Cesu-AICI-VF.pdf"
+    },
+    {
+      "titre": "L'avance immédiate de crédit d'impôt (foire aux questions)",
+      "url": "https://www.cesu.urssaf.fr/info/files/pdf/FAQ_Aici.pdf"
+    }
+  ],
+  "slug": "impot-sur-le-revenu-credit-d-impot-pour-l-emploi-d-un-salarie-a-domicile",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "impot-sur-le-revenu-deductions-reductions-et-credits-d-impot",
+      "titre": "Impôt sur le revenu : déductions, réductions et crédits d'impôt"
+    }
+  ]
+}

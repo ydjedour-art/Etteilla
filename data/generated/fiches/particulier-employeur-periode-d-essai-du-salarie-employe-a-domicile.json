@@ -1,0 +1,64 @@
+{
+  "id": "F37731",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Particulier employeur : période d'essai du salarié employé à domicile",
+  "theme": "Travail - Formation",
+  "description": "Le contrat de travail du salarié du particulier employeur peut comporter une période d'essai. Lors de l'embauche en Cesu, sans contrat écrit, elle n'existe pas.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-09-23",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F37731",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Particulier employeur : aide à domicile (services à la personne)",
+    "Particulier employeur : période d'essai du salarié employé à domicile"
+  ],
+  "introduction": "Le contrat de travail du salarié du particulier employeur peut comporter une période d'essai. Elle permet au particulier employeur de vérifier que le salarié convient au poste pour lequel il a été recruté. Elle permet également au salarié de s’assurer que ce poste lui convient. Cette période d’essai n’est pas obligatoire. Lorsqu'elle existe, elle doit être précisée dans le contrat de travail. Les règles sont différentes selon que le salarié est embauché en CDI ou en CDD. Nous faisons un point sur la réglementation.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "[Attention] Lorsque le salarié est embauché par un contrat oral dans le cadre du Cesu, la période d'essai n'existe pas."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code du travail : articles L1221-19 à L1221-26",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000019067609"
+    },
+    {
+      "titre": "Code du travail : articles L1242-10 et L1242-11",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006189454/"
+    },
+    {
+      "titre": "Convention collective nationale des particuliers employeurs et de l'emploi à domicile du 15 mars 2021",
+      "url": "https://www.legifrance.gouv.fr/conv_coll/id/KALITEXT000043941642"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Modèle de rupture du contrat en période d'essai à l'initiative du particulier employeur",
+      "url": "https://code.travail.gouv.fr/modeles-de-courriers/rupture-de-periode-dessai-a-linitiative-de-lemployeur?src_url=https://service-public.gouv.fr/particuliers/vosdroits/F1643",
+      "type": "lettreTypeNG"
+    },
+    {
+      "titre": "Modèle de rupture du contrat en période d'essai à l'initiative du salarié du particulier employeur",
+      "url": "https://code.travail.gouv.fr/modeles-de-courriers/rupture-du-contrat-en-periode-dessai-a-linitiative-du-salarie?src_url=https://service-public.gouv.fr/particuliers/vosdroits/F1643",
+      "type": "lettreTypeNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "particulier-employeur-periode-d-essai-du-salarie-employe-a-domicile",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "particulier-employeur-aide-a-domicile-services-a-la-personne",
+      "titre": "Particulier employeur : aide à domicile (services à la personne)"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "F1972",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Le délégué du personnel (DP) existe-t-il toujours ?",
+  "theme": "Travail - Formation",
+  "description": "Les fonctions de délégué du personnel (DP) sont exercées depuis le 1er janvier 2020 par le comité social et économique (CES).",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-05-09",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1972",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Représentation du personnel dans l'entreprise",
+    "Le délégué du personnel (DP) existe-t-il toujours ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Non. Les fonctions de délégué du personnel (DP) sont désormais exercées depuis le 1er janvier 2020 par le comité social et économique (CSE)."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "le-delegue-du-personnel-dp-existe-t-il-toujours",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "representation-du-personnel-dans-l-entreprise",
+      "titre": "Représentation du personnel dans l'entreprise"
+    }
+  ]
+}

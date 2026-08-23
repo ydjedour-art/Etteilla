@@ -1,0 +1,46 @@
+{
+  "id": "F1731",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Un employeur doit-il aménager un espace pour la pause déjeuner des salariés ?",
+  "theme": "Travail - Formation, Ressources humaines",
+  "description": "L'employeur doit mettre à disposition des salariés un local ou un emplacement pour se restaurer.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-02-06",
+  "url": "https://entreprendre.service-public.gouv.fr/vosdroits/F1731",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Conditions de travail dans le secteur privé",
+    "Un employeur doit-il aménager un espace pour la pause déjeuner des salariés ?"
+  ],
+  "introduction": "Il est interdit de laisser les salariés prendre leur repas dans les locaux affectés au travail. L'employeur doit mettre à disposition des salariés un local de restauration ou un emplacement pour se restaurer. Nous faisons le point sur la réglementation, qui diffère selon l'effectif de l'entreprise.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code du travail : articles R4228-19 à R4228-25",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000018489254/"
+    },
+    {
+      "titre": "Arrêté du 4 mai 2017 sur la déclaration auprès de l'inspection du travail pour moins de 25 travailleurs prenant habituellement leur repas sur les lieux de travail",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000034603606/"
+    },
+    {
+      "titre": "Décret n°2019-1586 du 31 décembre 2019 relatif aux seuils d'effectif",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000039727052/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "un-employeur-doit-il-amenager-un-espace-pour-la-pause-dejeuner-des-salaries",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "conditions-de-travail-dans-le-secteur-prive",
+      "titre": "Conditions de travail dans le secteur privé"
+    }
+  ]
+}

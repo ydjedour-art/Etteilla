@@ -1,0 +1,160 @@
+{
+  "id": "F1791",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Déroulement d'un procès civil devant le tribunal judiciaire",
+  "theme": "Justice",
+  "description": "Dans un procès civil, avant l'audience, les parties s'échangent leurs pièces et conclusions. Après l'audience, le tribunal rend un jugement susceptible d'appel.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-07-10",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1791",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Affaire civile",
+    "Déroulement d'un procès civil devant le tribunal judiciaire"
+  ],
+  "introduction": "Vous vous demandez comment présenter votre défense dans le cadre d'un procès civil devant le tribunal judiciaire ? Les règles diffèrent selon le type de procédure engagée : procédure écrite ou procédure orale. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Devant le tribunal judiciaire, les parties au procès doivent obligatoirement être représentées par un avocat sauf dans certains cas.",
+        "En procédure écrite, l'avocat est obligatoire alors qu'en procédure orale, il est facultatif."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de procédure civile : article 750",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039623523"
+    },
+    {
+      "titre": "Code de procédure civile : article 760",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070716/LEGISCTA000006149694/"
+    },
+    {
+      "titre": "Code de procédure civile : article 761",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039726277"
+    },
+    {
+      "titre": "Code de procédure civile : article 762",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039623464/"
+    },
+    {
+      "titre": "Code de procédure civile : articles 411 à 420",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006117236/"
+    },
+    {
+      "titre": "Code de procédure civile : article 763",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597306"
+    },
+    {
+      "titre": "Code de procédure civile : article 15",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410108"
+    },
+    {
+      "titre": "Code de procédure civile : articles 775 à 807-3",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000039623414"
+    },
+    {
+      "titre": "Code de procédure civile : articles 817 à 833",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000039623605"
+    },
+    {
+      "titre": "Code de procédure civile : articles 127 à 131-8",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070716/LEGISCTA000006117226/"
+    },
+    {
+      "titre": "Code de procédure civile : articles 780 à 797",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070716/LEGISCTA000039487417"
+    },
+    {
+      "titre": "Code de procédure civile : articles 748-1 à 748-9",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070716/LEGISCTA000006117246/"
+    },
+    {
+      "titre": "Code de procédure civile : articles 1532 à 1532-3",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000051930583/"
+    },
+    {
+      "titre": "Code de procédure civile : articles 430 à 446",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070716/LEGISCTA000022878345/"
+    },
+    {
+      "titre": "Code de procédure civile : articles 446-1 à 446-4",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070716/LEGISCTA000022878523/#LEGISCTA000022890006"
+    },
+    {
+      "titre": "Code de l'organisation judiciaire : article L212-5-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039280016"
+    },
+    {
+      "titre": "Code de procédure civile : articles 467 à 479",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070716/LEGISCTA000006149674/"
+    },
+    {
+      "titre": "Code de procédure civile : articles 122 à 126",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070716/LEGISCTA000006135868/"
+    },
+    {
+      "titre": "Code de procédure civile : articles 394 à 399",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070716/LEGISCTA000006165197/"
+    },
+    {
+      "titre": "Code de procédure civile : articles 450 à 466",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070716/LEGISCTA000006165201"
+    },
+    {
+      "titre": "Code de procédure civile : articles 651 à 694",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070716/LEGISCTA000006135900/"
+    },
+    {
+      "titre": "Code de procédure civile : articles 514 à 524",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070716/LEGISCTA000006135893/"
+    },
+    {
+      "titre": "Code de procédure civile : articles 528 à 537",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006135894/"
+    },
+    {
+      "titre": "Code de procédure civile : articles 543 à 545",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070716/LEGISCTA000006181689/"
+    },
+    {
+      "titre": "Code de procédure civile : articles 571 à 578",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006149678/"
+    },
+    {
+      "titre": "Code de procédure civile : articles 605 à 618",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006165210/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Consentement au déroulement de la procédure sans audience - Procédure orale devant le tribunal judiciaire ou le juge des contentieux de la protection",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_16037.do",
+      "type": "formulaireNG"
+    }
+  ],
+  "contacts": [
+    "Maison de justice et du droit",
+    "Avocat"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Procédure judiciaire : qu'est-ce que le principe du contradictoire ?",
+      "url": "https://www.vie-publique.fr/fiches/38065-procedure-judiciaire-quest-ce-que-le-principe-du-contradictoire"
+    }
+  ],
+  "slug": "deroulement-d-un-proces-civil-devant-le-tribunal-judiciaire",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "affaire-civile",
+      "titre": "Affaire civile"
+    }
+  ]
+}

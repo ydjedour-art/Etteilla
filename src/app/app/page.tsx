@@ -19,6 +19,13 @@ export default function DashboardPage() {
     <div className="space-y-8">
       <TodayDigest firstName={user.firstName} dossiers={dossiers} />
 
+      <Link
+        href="/app/decodeur"
+        className="flex items-center gap-2 text-sm font-semibold text-primary hover:underline"
+      >
+        📨 Tu as reçu un courrier administratif ? Décrypte-le →
+      </Link>
+
       <SituationIntake />
 
       <section>

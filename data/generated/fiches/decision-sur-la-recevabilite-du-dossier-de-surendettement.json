@@ -1,0 +1,96 @@
+{
+  "id": "F34642",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Décision sur la recevabilité du dossier de surendettement",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Après le dépôt du dossier de surendettement, il est examiné par la commission de surendettement pour déterminer s'il est recevable ou irrecevable.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-01-03",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34642",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Surendettement",
+    "Décision sur la recevabilité du dossier de surendettement"
+  ],
+  "introduction": "Après son dépôt, le dossier de surendettement est examiné par la commission de surendettement. Selon la situation du surendetté, la commission peut décider soit que le dossier est recevable, soit qu'il est irrecevable. Dans les 2 cas, il est possible de contester la décision prise par la commission de surendettement. Nous vous expliquons.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de la consommation : articles L711-1 à L711-2",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069565/LEGISCTA000032223541/"
+    },
+    {
+      "titre": "Code de la consommation : articles L712-1 à L712-9",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069565/LEGISCTA000032223565"
+    },
+    {
+      "titre": "Code de la consommation : article L722-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032224540/"
+    },
+    {
+      "titre": "Code de la consommation : articles R722-1 à R722-4",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032808622/"
+    },
+    {
+      "titre": "Code de la consommation : articles L722-2 à L722-5",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032224534/"
+    },
+    {
+      "titre": "Code de la consommation : articles R722-5 à R722-8",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032808634/"
+    },
+    {
+      "titre": "Code de la consommation : article L224-37-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046190177"
+    },
+    {
+      "titre": "Code de la consommation : articles L722-6 à L722-9",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032224524/"
+    },
+    {
+      "titre": "Code de la consommation : articles L722-10 à L722-16",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032224514/"
+    },
+    {
+      "titre": "Code de la consommation : articles L761-1 à L761-2",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032224284/"
+    },
+    {
+      "titre": "Circulaire du 17 janvier 2023 sur la procédure de traitement des situations de surendettement des particuliers",
+      "url": "https://www.legifrance.gouv.fr/download/pdf/circ?id=45400"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Lettre pour faire un recours contre le rejet d'un dossier de surendettement",
+      "url": "",
+      "type": "Modèle de document"
+    }
+  ],
+  "contacts": [
+    "Point conseil budget (PCB)",
+    "Demande d'information ou d'un rendez-vous à la Banque de France"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Comment réagir en cas de surendettement ?",
+      "url": "https://www.inc-conso.fr/content/banque/comment-reagir-en-cas-de-surendettement"
+    },
+    {
+      "titre": "Quelles sont les différentes procédures de surendettement ?",
+      "url": "https://www.inc-conso.fr/content/quelles-sont-les-differentes-procedures-de-surendettement"
+    }
+  ],
+  "slug": "decision-sur-la-recevabilite-du-dossier-de-surendettement",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "surendettement",
+      "titre": "Surendettement"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "id": "F33458",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Qui doit faire remplir une fiche individuelle de police à un touriste étranger ?",
+  "theme": "Loisirs - Sports - Culture, Secteurs d'activité",
+  "description": "Le loueur doit demander au client touriste étranger de remplir une fiche individuelle de police dans l'hébergement touristique dans lequel il séjourne.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-01-22",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33458",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Loisirs - Sports - Culture",
+    "Meublé de tourisme",
+    "Qui doit faire remplir une fiche individuelle de police à un touriste étranger ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Quels sont les hébergements et loueurs concernés ?",
+        "Toute personne qui loue (à titre professionnel ou non) un hébergement touristique à un client de nationalité étrangère (autre que française) doit lui faire remplir une fiche individuelle de police.",
+        "Le loueur doit donc faire remplir cette fiche également aux touristes ressortissants d'un pays de l'Union européenne.",
+        "Les hébergements touristiques suivants sont concernés :",
+        "• Hôtel",
+        "• Village ou maison familiale de vacances",
+        "• Résidence ou village résidentiel de tourisme",
+        "• Meublé de tourisme",
+        "• Gîte rural",
+        "• Chambre d'hôtes",
+        "• Terrain de camping ou de caravanage (ou autres terrains aménagés).",
+        "Les locations de locaux nus (non meublés) ne sont pas concernées par cette obligation.",
+        "En quoi consiste la fiche individuelle de police ?",
+        "Le client étranger doit remplir et signer la fiche de police dès son arrivée.",
+        "La fiche individuelle de police doit comporter, concernant le client, les renseignements suivants :",
+        "• Nom et prénoms",
+        "• Date et lieu de naissance",
+        "• Nationalité",
+        "• Domicile habituel",
+        "• Numéro de téléphone mobile et adresse mail (adresse électronique)",
+        "• Date d'arrivée dans l’hébergement touristique et date de départ prévue.",
+        "[À savoir] Les renseignements concernant un enfant de moins de 15 ans peuvent figurer sur la fiche d'un adulte qui l'accompagne.",
+        "À qui et comment transmettre la fiche individuelle de police ?",
+        "Le loueur doit conserver la fiche individuelle de police pendant 6 mois.",
+        "La transmission de la fiche à la police ou à la gendarmerie n'est pas systématique. Le loueur doit la transmettre seulement si les services de police ou de gendarmerie l'exigent.",
+        "Les services de police ou de gendarmerie peuvent demander la fiche du touriste étranger uniquement pour l'un des 3 motifs suivants :",
+        "• Prévention des troubles à l'ordre public",
+        "• Enquête judiciaire",
+        "• Recherche dans l'intérêt des personnes.",
+        "La transmission de la fiche aux services de police ou de gendarmerie peut s'effectuer par voie électronique (mail notamment).",
+        "Il est possible de se reporter au modèle de fiche individuelle de police proposé par le ministère de l'intérieur :",
+        "Modèle de fiche individuelle de police",
+        "Ce modèle de fiche individuelle de police est proposé par notamment le ministère de l'Intérieur, le ministère de l'Économie et les services de police.",
+        "[À savoir] Le loueur ne doit pas transmettre les informations concernant le client étranger à quelqu'un d'autre que les services de police ou de gendarmerie.",
+        "Le client doit être informé de son droit d'accès aux informations le concernant et de son droit à les rectifier.",
+        "[À noter] Si le client étranger refuse de remplir ou de signer la fiche individuelle de police, le loueur a le droit de lui refuser la location de l'hébergement touristique."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles R814-1 à R814-3",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042803266/"
+    },
+    {
+      "titre": "Arrêté du 1er octobre 2015 relatif au modèle de fiche individuelle de police",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000031285813/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Modèle de fiche individuelle de police",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000031285813",
+      "type": "Modèle de document"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Touriste étranger en France : la \"fiche de police\" est-elle légale ?",
+      "url": "https://www.cnil.fr/fr/cnil-direct/question/touriste-etranger-en-france-la-fiche-de-police-dans-les-etablissements-de"
+    }
+  ],
+  "slug": "qui-doit-faire-remplir-une-fiche-individuelle-de-police-a-un-touriste-etranger",
+  "path": [
+    {
+      "slug": "loisirs-sports-culture",
+      "titre": "Loisirs - Sports - Culture"
+    },
+    {
+      "slug": "meuble-de-tourisme",
+      "titre": "Meublé de tourisme"
+    }
+  ]
+}

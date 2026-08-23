@@ -1,0 +1,62 @@
+{
+  "id": "F15963",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Un Français peut-il être expulsé d'un pays européen ou de la Suisse ?",
+  "theme": "Étranger - Europe",
+  "description": "Bien que les citoyens français disposent du droit de libre circulation, ils peuvent être expulsés d’un pays de l’UE ou de la Suisse dans certaines situations.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2024-09-16",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F15963",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Vivre à l'étranger",
+    "Un Français peut-il être expulsé d'un pays européen ou de la Suisse ?"
+  ],
+  "introduction": "En principe, en tant que Français, vous pouvez séjourner dans un pays de l'Union européenne (UE) ou en Suisse sans titre de séjour jusqu'à 6 mois. Au delà de 6 mois, si vous ne remplissez pas certaines conditions, vous pouvez faire l'objet d'une décision d'éloignement temporaire ou d'expulsion définitive. Il en est de même si vous représentez une menace pour la sécurité du pays d'accueil. Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Règlement n°883/2004 du 29 avril 2004 sur la coordination des systèmes de sécurité sociale",
+      "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:02004R0883-20140101&from=FR"
+    },
+    {
+      "titre": "Directive 2004/38/CE du 29 avril 2004 relative à la liberté de circulation et de séjour dans l'Union européeenne",
+      "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=CELEX:32004L0038&from=FR"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Europe Direct",
+    "Ambassade ou consulat français à l'étranger"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Site officiel de l'Union européenne",
+      "url": "https://europa.eu/european-union/index_fr"
+    },
+    {
+      "titre": "Vivre en Europe : connaître ses droits",
+      "url": "https://europa.eu/european-union/life/living-abroad_fr"
+    },
+    {
+      "titre": "Europe Direct : vous avez des questions sur l'UE ?",
+      "url": "https://europa.eu/european-union/contact_fr"
+    },
+    {
+      "titre": "Étrangers en Suisse",
+      "url": "https://www.ch.ch/fr/etrangers-en-suisse/"
+    }
+  ],
+  "slug": "un-francais-peut-il-etre-expulse-d-un-pays-europeen-ou-de-la-suisse",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "vivre-a-l-etranger",
+      "titre": "Vivre à l'étranger"
+    }
+  ]
+}

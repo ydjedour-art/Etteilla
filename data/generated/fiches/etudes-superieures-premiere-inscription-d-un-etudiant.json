@@ -1,0 +1,63 @@
+{
+  "id": "F2861",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Études supérieures : première inscription d'un étudiant",
+  "theme": "Famille - Scolarité",
+  "description": "La première inscription dans l'enseignement supérieur concerne l'étudiant qui souhaite poursuivre ses études après avoir obtenu un baccalauréat.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-03-07",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2861",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Inscription dans l'enseignement supérieur",
+    "Études supérieures : première inscription d'un étudiant"
+  ],
+  "introduction": "Si vous voulez poursuivre vos études dans l'enseignement supérieur après avoir obtenu votre bac ou un diplôme équivalent, la procédure d'inscription dépend de la formation choisie. Vous devez faire la démarche sur Parcoursup pour une formation du 1er cycle de l'enseignement supérieur public. Certaines formations ne sont pas gérées par Parcoursup. Les démarches d'inscription dépendent alors de l'école qui gère la formation. Ces informations vous concernent si vous êtes français ou européen.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Vous devez passer par Parcoursup pour vous inscrire dans les formations suivantes :",
+        "• Formations non-sélectives : licence, parcours spécifiques accès santé (PASS), parcours préparatoires au professorat des écoles (PPPE)",
+        "• Formations sélectives : CPGE ,BTS, BUT, DNMADE, DCG, les écoles d’architecture, d’ingénieurs, de commerce et de management, les IFSI (instituts de formation en soins infirmiers) et autres formations paramédicales, les EFTS (établissements de formation en travail social), Instituts d’Etudes Politiques, Écoles nationales vétérinaires françaises (ENV), formations aux métiers de la culture, de l’animation et du sport, formations de la Marine, de l’Armée.",
+        "Par contre, l'inscription à certaines formations ne se fait pas sur Parcoursup. Cela concerne notamment l'inscription dans des établissements d’enseignement privés et spécialisés : écoles d’informatique, d’art, de communication, d’audiovisuel, de journalisme, de comptabilité."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'éducation : articles L612-2 à L612-4",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006182436"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Parcoursurp : inscription dans l'enseignement supérieur",
+      "url": "https://dossier.parcoursup.fr/Candidat/authentification",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Liste des grandes écoles et des grands établissements",
+      "url": "http://www.enseignementsup-recherche.gouv.fr/cid20268/liste-des-grandes-ecoles-et-des-grands-etablissements.html"
+    },
+    {
+      "titre": "Diplôme d'accès aux études universitaires",
+      "url": "http://www.enseignementsup-recherche.gouv.fr/cid21053/le-d.a.e.u.html"
+    }
+  ],
+  "slug": "etudes-superieures-premiere-inscription-d-un-etudiant",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "inscription-dans-l-enseignement-superieur",
+      "titre": "Inscription dans l'enseignement supérieur"
+    }
+  ]
+}

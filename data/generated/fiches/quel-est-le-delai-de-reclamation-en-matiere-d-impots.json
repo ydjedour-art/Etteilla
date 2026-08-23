@@ -1,0 +1,111 @@
+{
+  "id": "F1064",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quel est le délai de réclamation en matière d'impôts ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Les délais de réclamation varient selon l'impôt concerné. Il existe des cas particuliers.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-07-30",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1064",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Saisir l'administration fiscale (difficultés de paiement, réclamation...)",
+    "Quel est le délai de réclamation en matière d'impôts ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Le délai de réclamation varie selon le type d'impôt :",
+        "Impôt sur le revenu",
+        "La réclamation doit intervenir avant le 31 décembre de la 2e année qui suit celle de la mise en recouvrement de l'impôt (indiquée sur l'avis d'imposition).",
+        "[Exemple] Le délai s'achève le 31 décembre 2028 pour l'impôt sur le revenu mis en recouvrement en 2026.",
+        "Impôts locaux",
+        "Taxe d'habitation sur les résidences secondaires",
+        "La réclamation doit intervenir avant le 31 décembre de l'année qui suit celle de la mise en recouvrement de l'impôt indiquée sur l'avis d'imposition.",
+        "[Exemple] Le délai s'achève le 31 décembre 2027 pour la taxe mise en recouvrement en 2026.",
+        "Toutefois, si vous faites l'objet d'une procédure de reprise de la part de l'administration des impôts, votre réclamation peut intervenir jusqu’au 31 décembre de la 3e année qui suit celle de la mise en recouvrement de l'impôt indiquée sur l'avis d'imposition.",
+        "[Exemple] Le délai s'achève le 31 décembre 2029 pour une mise en recouvrement en 2026.",
+        "Taxe sur les logements vacants, taxe d'habitation sur les logements vacants",
+        "Jusqu’au 31 décembre 2026",
+        "La réclamation doit intervenir avant le 31 décembre de l'année qui suit celle de la mise en recouvrement de l'impôt indiquée sur l'avis d'imposition.",
+        "[Exemple] Le délai s'achève le 31 décembre 2027 pour la taxe mise en recouvrement en 2026.",
+        "Toutefois, si vous faites l'objet d'une procédure de reprise de la part de l'administration des impôts, votre réclamation peut intervenir jusqu’au 31 décembre de la 3e année qui suit celle de la mise en recouvrement de l'impôt indiquée sur l'avis d'imposition.",
+        "[Exemple] Le délai s'achève le 31 décembre 2029 pour une mise en recouvrement en 2026.",
+        "À compter du 1er janvier 2027",
+        "La taxe sur les logements vacants et la taxe d'habitation sur les logements vacants sont supprimées.",
+        "Elles sont remplacées par la taxe sur la vacance des locaux d’habitation.",
+        "La réclamation doit intervenir avant le 31 décembre de l'année qui suit celle de la mise en recouvrement de l'impôt indiquée sur l'avis d'imposition.",
+        "[Exemple] Le délai s'achève le 31 décembre 2028 pour la taxe mise en recouvrement en 2027.",
+        "Toutefois, si vous faites l'objet d'une procédure de reprise de la part de l'administration des impôts, votre réclamation peut intervenir jusqu’au 31 décembre de la 3e année qui suit celle de la mise en recouvrement de l'impôt indiquée sur l'avis d'imposition.",
+        "[Exemple] Le délai s'achève le 31 décembre 2030 pour une mise en recouvrement en 2027.",
+        "Autres impôts locaux",
+        "La réclamation doit intervenir avant le 31 décembre de l'année qui suit celle de la mise en recouvrement de l'impôt indiquée sur l'avis d'imposition.",
+        "[Exemple] Le délai s'achève le 31 décembre 2027 pour la taxe foncière mise en recouvrement en 2026.",
+        "Impôt sur la fortune immobilière",
+        "La réclamation doit intervenir avant le 31 décembre de la 2e année qui suit celle de la mise en recouvrement de l'impôt, indiquée sur l'avis d'imposition.",
+        "[Exemple] Le délai s'achève le 31 décembre 2028 pour l'impôt sur le revenu mis en recouvrement en 2026."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Livre des procédures fiscales : articles R*196-1 à R*196-6",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006180177/"
+    },
+    {
+      "titre": "Loi n° 2026-534 du 25 juin 2026 relative à la lutte contre les fraudes sociales et fiscales",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000054309429/"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-CTX-PREA-10-30 relatif au délai général de réclamation",
+      "url": "http://bofip.impots.gouv.fr/bofip/597-PGP"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-CTX-PREA-10-40 relatif aux délais spécifiques à certaines réclamations",
+      "url": "http://bofip.impots.gouv.fr/bofip/186-PGP"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Impôts : accéder à votre espace Finances publiques",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "Service d'information des impôts",
+    "Service en charge des impôts (trésorerie, service des impôts...)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Site des impôts",
+      "url": "https://www.impots.gouv.fr/portail/"
+    },
+    {
+      "titre": "Brochure pratique 2026 - Déclaration des revenus de 2025",
+      "url": "https://www.impots.gouv.fr/www2/fichiers/documentation/brochure/ir_2026/accueil.htm"
+    },
+    {
+      "titre": "Brochure pratique - Impôts locaux 2024",
+      "url": "https://www.impots.gouv.fr/www2/fichiers/documentation/brochure/idl/idl_2024.pdf"
+    },
+    {
+      "titre": "Je veux contester un impôt : je fais une réclamation",
+      "url": "https://www.impots.gouv.fr/portail/particulier/je-veux-contester-un-impot-je-fais-une-reclamation"
+    }
+  ],
+  "slug": "quel-est-le-delai-de-reclamation-en-matiere-d-impots",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "saisir-l-administration-fiscale-difficultes-de-paiement-reclamation",
+      "titre": "Saisir l'administration fiscale (difficultés de paiement, réclamation...)"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "id": "F2603",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Recouvrement des charges de copropriété impayées",
+  "theme": "Logement",
+  "description": "En cas d'impayé de charge, et après les recours amiables, une procédure judiciaire doit être engagée contre le copropriétaire défaillant.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-03-02",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2603",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Budget et charges de copropriété",
+    "Recouvrement des charges de copropriété impayées"
+  ],
+  "introduction": "Tout copropriétaire a l’obligation de participer aux charges communes de l’immeuble. Lorsque les charges ne sont pas payées, le syndic doit mettre en œuvre des démarches de recouvrement, d’abord amiables puis judiciaires, en respectant des formes précises. Nous vous présentons les étapes à respecter.",
+  "chapitres": [
+    {
+      "titre": "Envoyer une relance simple",
+      "contenu": [
+        "Lorsque le syndic constate qu’un appel de fonds n’a pas été réglé ou a été payé partiellement, il va d’abord envoyer une relance (lettre simple et/ou email) au copropriétaire concerné. Dans cette lettre, il doit lui être rappelé que la date de paiement des charges est dépassée. Il peut également lui indiquer qu'en l’absence de paiement, une tentative de règlement à l'amiable, puis une procédure de recouvrement devant le tribunal judiciaire du lieu de situation de l'immeuble pourront être engagées."
+      ]
+    },
+    {
+      "titre": "En cas d’échec, envoyer une mise en demeure",
+      "contenu": [
+        "Si la relance simple ne fonctionne pas, le syndic doit envoyer une mise en demeure au copropriétaire défaillant. Il s’agit de l’acte par lequel le syndic demande officiellement à un copropriétaire de régler ses charges de copropriété impayées dans un délai donné, avant d’engager une procédure judiciaire.",
+        "Cette mise en demeure est envoyée par voie électronique. Elle peut être envoyée par lettre recommandée électronique ou par tout procédé électronique sécurisé, mis en œuvre par un prestataire garantissant l’intégrité, la sécurité et la traçabilité de l’envoi.",
+        "Par exception, la mise en demeure peut être envoyée par lettre recommandée avec avis de réception, lorsque le copropriétaire a demandé à la recevoir par voie postale.",
+        "[À noter] Dans le cadre d'une indivision, le syndic doit mettre en demeure tous les coïndivisaires, sauf clause contraire du règlement de copropriété. Si la propriété du lot est démembrée, les charges sont réparties entre usufruitier (lorsqu'elles concernent la jouissance du bien) et nu-propriétaire (lorsqu'elles concernent des dépenses exceptionnelles et gros travaux). Le syndic devra donc mettre en demeure l'un ou l'autre selon la nature des charges, sauf clause contraire du règlement de copropriété imposant une solidarité entre usufruitier et nu-propriétaire.",
+        "Les frais de mise en demeure engagés par le syndic sont à la charge du copropriétaire défaillant.",
+        "Procédure classique de recouvrement de charges",
+        "Dans ce cas, la mise en demeure doit, notamment, contenir les informations suivantes :",
+        "• Nom, prénom et adresse du copropriétaire défaillant",
+        "• Adresse de la copropriété",
+        "• Montant des charges impayées, souvent accompagné d’un décompte",
+        "• Délai dans lequel le copropriétaire défaillant doit régler le montant de ses impayés (par exemple, 15 jours)",
+        "• Sanction en cas de non-paiement.",
+        "Des intérêts de retard sont dus au taux légal à partir de la mise en demeure.",
+        "Procédure dérogatoire de recouvrement de charges",
+        "Le syndic peut opter pour une procédure spéciale de recouvrement avec déchéance du terme.",
+        "Cela signifie que si un copropriétaire ne paie pas un appel de fonds, le syndic peut exiger le règlement immédiat de l’arriéré de charges ainsi que de toutes les sommes futures restantes sur l’exercice en cours, même si leur date d’échéance n’est pas encore arrivée. Cette règle s’applique aux provisions du budget prévisionnel, aux cotisations au fonds de travaux ou aux dépenses non comprises dans le budget prévisionnel.",
+        "Ces sommes deviennent exigibles si, après la mise en demeure, le copropriétaire ne règle pas sa dette dans un délai de 30 jours.",
+        "Dans ce cas, la mise en demeure doit notamment contenir les informations suivantes :",
+        "• Nom, prénom et adresse du copropriétaire défaillant",
+        "• Adresse de la copropriété",
+        "• Nature et montant des provisions réclamées (budget prévisionnel, dépenses pour travaux non comprises dans ce budget et cotisations fonds travaux)",
+        "• Délai de 30 jours dans lequel le copropriétaire défaillant doit régler le montant de ses impayés",
+        "• Contenu de l’article 19-2 de la loi du 10 juillet 1965",
+        "• Sanction encourue d’exigibilité immédiate des provisions futures."
+      ]
+    },
+    {
+      "titre": "En cas d'impayés de charges inférieur ou égal à 5 000 €, tenter une mesure alternative de règlement des conflits (Marc)",
+      "contenu": [
+        "En cas d'impayés de charges inférieur ou égal à 5 000 €, €le syndic doit faire appel à un conciliateur de justice (démarche gratuite) ou à un médiateur (démarche payante) ou à une procédure participative (démarche payante avec recours à un avocat) pour trouver une solution.",
+        "Ce recours est obligatoire avant de faire un recours devant le juge.",
+        "[À savoir] Pour les créances dont le montant est inférieur à 5 000 €, il est également possible de mettre en oeuvre une procédure simplifiée de recouvrement des petites créances. Cette procédure est mise en oeuvre par un commissaire de justice. En cas d’accord entre les parties (syndicat des copropriétaires et copropriétaire défaillant) sur le montant et les conditions de paiement de la dette, la copropriété obtient un titre exécutoire qui a la même valeur qu’un jugement. En l’absence d’accord, il faudra saisir le juge."
+      ]
+    },
+    {
+      "titre": "En cas d’échec des démarches amiables, recourir au juge",
+      "contenu": [
+        "Si le copropriétaire défaillant n’a pas réagi aux relances amiables dans les délais donnés ou si aucun accord amiable de remboursement de la dette n'a pu être trouvé, le syndic doit saisir le tribunal judiciaire du lieu de situation de l’immeuble.",
+        "Tribunal judiciaire",
+        "Pour recouvrer la dette d’un copropriétaire défaillant, le syndic peut engager différentes procédures en fonction du montant des charges impayées et de la situation financière de la copropriété. Le montant du litige et la stratégie des dossiers peut nécessiter l’accompagnement d’un avocat.",
+        "Le syndic peut ainsi choisir de mettre en œuvre :",
+        "• Une injonction de payer",
+        "• Une procédure classique de recouvrement, permettant d’obtenir le règlement de toutes les charges dues au jour de l’assignation ou de l’audience de plaidoiries",
+        "• Une procédure spéciale dite accélérée au fond, permettant d’obtenir le règlement de l’arriéré de charges et de toutes les provisions de l’exercice devenues exigibles (dont les provisions futures).",
+        "[Attention] Les charges de copropriété impayées peuvent être réclamées pendant un délai maximum de 5 ans. Cela signifie que la copropriété dispose de 5 ans à compter de l’exigibilité des sommes pour engager une action en recouvrement. Passé ce délai, la dette est en principe prescrite, c’est-à-dire qu’elle ne peut plus être exigée en justice.",
+        "Le copropriétaire défaillant peut également être condamné à payer des dommages et intérêts s’il a causé un préjudice au syndicat des copropriétaires. Ce dommage doit être différent du simple retard. C’est le cas, par exemple, de l’impossibilité de réaliser des travaux nécessaires ou d’un déficit de trésorerie persistant."
+      ]
+    },
+    {
+      "titre": "Saisir les biens du copropriétaire défaillant",
+      "contenu": [
+        "Toute créance du syndicat des copropriétaires à l'encontre du copropriétaire défaillant est garantie par une hypothèque légale qui permet à la copropriété de bénéficier d’un droit de préférence (être payé en priorité) en cas de vente amiable ou de saisie immobilière du lot de copropriété.",
+        "Le syndic peut faire inscrire cette hypothèque au profit du syndicat sans autorisation préalable de l'assemblée générale des copropriétaires. L'inscription est faite lorsque le copropriétaire défaillant n'a pas réglé ses charges après la mise en demeure. Le syndic peut également en accepter la mainlevée et, si la dette est entièrement payée, en demander l'annulation.",
+        "En outre, le syndicat des copropriétaires a une hypothèque légale spéciale sur le lot du copropriétaire débiteur. Cette garantie permet au syndicat d’assurer le paiement de sa créance, notamment en cas de vente du lot.",
+        "Enfin, lorsque le copropriétaire débiteur vend son lot, le syndic peut former une opposition sur le prix de vente entre les mains du notaire. Cette opposition permet de bloquer tout ou partie du prix de vente afin d’obtenir le règlement des sommes dues au syndicat avant que le vendeur ne perçoive le solde.",
+        "Le syndic peut également recourir à une mesure de saisie conservatoire pour saisir les meubles du copropriétaire défaillant.",
+        "[À savoir] Le syndic n'a pas à obtenir l'autorisation préalable du juge pour engager une mesure de saisie conservatoire ou une mesure de sûreté judiciaire (par exemple, hypothèque) à l'encontre du copropriétaire défaillant."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Loi n°65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006068256/"
+    },
+    {
+      "titre": "Décret n°67-223 du 17 mars 1967 fixant le statut de la copropriété des immeubles bâtis",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006061423/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "La consultation des pièces justificatives des charges",
+      "url": "https://www.inc-conso.fr/content/logement/copropriete-la-consultation-des-pieces-justificatives-des-charges"
+    },
+    {
+      "titre": "Précisions sur la lettre recommandée électronique",
+      "url": "https://www.inc-conso.fr/content/copropriete-des-precisions-sur-la-lettre-recommandee-electronique"
+    },
+    {
+      "titre": "Loi n° 65-557 du 10 juillet 1965 : article 19-2",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043977271"
+    }
+  ],
+  "slug": "recouvrement-des-charges-de-copropriete-impayees",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "budget-et-charges-de-copropriete",
+      "titre": "Budget et charges de copropriété"
+    }
+  ]
+}

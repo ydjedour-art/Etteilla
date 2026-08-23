@@ -1,0 +1,51 @@
+{
+  "id": "F20421",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Un intermittent du spectacle a-t-il droit au RSA ?",
+  "theme": "Social - Santé",
+  "description": "Un intermittent du spectacle peut percevoir le RSA, sous conditions.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2024-08-08",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F20421",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Revenu de solidarité active (RSA)",
+    "Un intermittent du spectacle a-t-il droit au RSA ?"
+  ],
+  "introduction": "Oui, en tant qu'intermittent du spectacle, vous pouvez percevoir le RSA, mais sous conditions. Vous pouvez bénéficier du RSA selon votre âge : à partir de 25 ans ou avant 25 ans. Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [
+    {
+      "titre": "Estimer son droit au RSA (Caf)",
+      "url": "https://wwwd.caf.fr/wps/portal/caffr/aidesetdemarches/mesdemarches/faireunesimulation/lersa#/",
+      "type": "Simulateur"
+    },
+    {
+      "titre": "Demande de RSA (Caf)",
+      "url": "https://wwwd.caf.fr/wps/portal/caffr/aidesetservices/lesservicesenligne/faireunedemandedeprestation#/solidariteetactivite",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "Caisse d'allocations familiales (Caf)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Revenu de solidarité active (RSA)",
+      "url": "https://solidarites-sante.gouv.fr/affaires-sociales/lutte-contre-l-exclusion/droits-et-aides/article/le-revenu-de-solidarite-active-rsa"
+    }
+  ],
+  "slug": "un-intermittent-du-spectacle-a-t-il-droit-au-rsa",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "revenu-de-solidarite-active-rsa",
+      "titre": "Revenu de solidarité active (RSA)"
+    }
+  ]
+}

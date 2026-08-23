@@ -1,0 +1,141 @@
+{
+  "id": "F444",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Impôt sur le revenu - Pension alimentaire versée à un parent ou un grand-parent (déduction)",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "On peut verser une pension alimentaire à un ascendant dans le besoin et déduire la pension de ses revenus, sous certaines conditions.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-15",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F444",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Impôt sur le revenu : déductions, réductions et crédits d'impôt",
+    "Impôt sur le revenu - Pension alimentaire versée à un parent ou un grand-parent (déduction)"
+  ],
+  "introduction": "Vous versez une pension alimentaire à un ascendant qui a besoin de votre aide ? Vous pouvez déduire la pension de vos revenus, sous certaines conditions. Cette pension peut être versée directement ou prendre en charge certaines dépenses (frais médicaux ou de maison de retraite, par exemple). Nous vous indiquons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Quelles sont les conditions à remplir pour déduire une pension alimentaire versée à un ascendant ?",
+      "contenu": [
+        "Vous pouvez déduire de vos revenus une pension alimentaire si elle remplit les 3 conditions suivantes :",
+        "• Destinée à un ascendant dans le besoin, envers lequel vous avez une obligation alimentaire",
+        "• Limitée à couvrir les besoins essentiels de votre parent (nourriture, logement, santé...)",
+        "• Proportionnée à vos ressources, compte tenu de vos charges.",
+        "Les ascendants concernés sont les personnes suivantes :",
+        "• Vos père et mère",
+        "• Vos grands-parents",
+        "• Vos beaux-parents.",
+        "[Attention] Vous ne pouvez pas déduire de pension alimentaire si vous bénéficiez du crédit d'impôt pour emploi d'un salarié au domicile de votre ascendant."
+      ]
+    },
+    {
+      "titre": "Comment la pension alimentaire doit-elle être versée ?",
+      "contenu": [
+        "Vous pouvez verser une pension alimentaire sous plusieurs formes :",
+        "• En argent (chèques, virement...)",
+        "• En payant à la place de votre parent diverses dépenses (frais médicaux, frais de maison de retraite...)",
+        "• En hébergeant votre parent ou en mettant à sa disposition un logement."
+      ]
+    },
+    {
+      "titre": "Quel est le montant de la déduction de la pension alimentaire versée à un ascendant ?",
+      "contenu": [
+        "La déduction dépend de la situation :",
+        "Cas général",
+        "Si les conditions sont remplies, vous pouvez déduire une pension alimentaire à condition de pouvoir justifier vos versements (relevés bancaires...) et la réalité des dépenses supportées (factures...).",
+        "Le montant n'est pas limité.",
+        "[Exemple] Vous versez 400 € par mois à votre mère dans le besoin. La pension alimentaire est donc de 4 800 € pour un an. Cette somme sera déduite du total de vos revenus par les services fiscaux.",
+        "Ascendant hébergé à votre domicile",
+        "Si les conditions sont remplies, vous pouvez déduire une somme forfaitaire de 4 075 €.",
+        "Si votre ascendant a plus de 75 ans, les conditions de la déduction forfaitaire sont considérées comme remplies quand ses ressources ne dépassent pas les plafonds suivants (revenus 2025) :",
+        "Personne seule",
+        "Les revenus ne doivent pas dépasser 12 411,44 €.",
+        "Couple marié ou pacsé",
+        "Les revenus ne doivent pas dépasser 19 268,80 €."
+      ]
+    },
+    {
+      "titre": "Comment déclarer le montant de la pension alimentaire versée à un ascendant ?",
+      "contenu": [
+        "Vous devez indiquer le montant des pensions à déduire sur votre déclaration.",
+        "Pour remplir votre déclaration de revenus, vous pouvez consulter la notice explicative et la brochure pratique de l'impôt sur le revenu.",
+        "Les justificatifs sont à conserver en cas de demande de l'administration fiscale.",
+        "Votre ascendant doit déclarer dans ses revenus la pension alimentaire que vous lui versez.",
+        "Il doit déclarer le montant que vous déduisez de vos revenus.",
+        "Toutefois, si ses ressources très faibles, il n'a pas à déclarer la somme que vous versez directement à une maison de retraite ou un établissement hospitalier pour payer ses frais de séjour.",
+        "C'est le cas s'il touche l'allocation de solidarité aux personnes âgées (Aspa)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général des impôts : articles 156 à 163 quinvicies",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000006191588/"
+    },
+    {
+      "titre": "Code civil : articles 203 à 211",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136127"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-IR-BASE-20-30-20-10 relatif à la déductibilité des pensions alimentaires versées aux ascendants",
+      "url": "http://bofip.impots.gouv.fr/bofip/1832-PGP"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Impôts : accéder à votre espace Finances publiques",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Déclarer vos revenus en ligne",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Déclaration 2026 des revenus 2025 (papier)",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/2042/declaration-des-revenus",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Déclaration 2026 des revenus 2025 - Réductions d'impôt et crédits d'impôt",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/2042/declaration-des-revenus",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Estimer le montant de son impôt sur les revenus de 2025 (déclaration de 2026)",
+      "url": "https://simulateur-ir-ifi.impots.gouv.fr/calcul_impot/2026/",
+      "type": "simulateurNG"
+    }
+  ],
+  "contacts": [
+    "Service d'information des impôts",
+    "Service en charge des impôts (trésorerie, service des impôts...)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Fiscalité des pensions alimentaires",
+      "url": "https://www.impots.gouv.fr/particulier/pensions-alimentaires"
+    },
+    {
+      "titre": "J'ai déclaré des réductions et crédits d'impôt, suis-je concerné par le versement de l'avance de 60 % en janvier ?",
+      "url": "https://www.impots.gouv.fr/particulier/questions/jai-declare-des-reductions-et-credits-dimpot-suis-je-concerne-par-le"
+    },
+    {
+      "titre": "Brochure pratique 2026 - Déclaration des revenus de 2025",
+      "url": "https://www.impots.gouv.fr/www2/fichiers/documentation/brochure/ir_2026/accueil.htm"
+    }
+  ],
+  "slug": "impot-sur-le-revenu-pension-alimentaire-versee-a-un-parent-ou-un-grand-parent-deduction",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "impot-sur-le-revenu-deductions-reductions-et-credits-d-impot",
+      "titre": "Impôt sur le revenu : déductions, réductions et crédits d'impôt"
+    }
+  ]
+}

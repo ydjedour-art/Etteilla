@@ -1,0 +1,184 @@
+{
+  "id": "F2176",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Magistrats du tribunal judiciaire et autres agents publics de justice",
+  "theme": "Justice",
+  "description": "Au sein de l'ordre judiciaire, il y a des magistrats du siège, des magistrats du parquet et des auxiliaires de justice.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2024-12-12",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2176",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Acteurs du monde judiciaire",
+    "Magistrats du tribunal judiciaire et autres agents publics de justice"
+  ],
+  "introduction": "Au sein de l'ordre judiciaire, les magistrats sont séparés en 2 catégories : les magistrats du siège, qu'on appelle juges, et les magistrats du parquet, appelés procureurs et substituts. Certains juges sont spécialisés en fonction du type d'affaire à traiter (juge aux affaires familiales, juge d'instruction, juge des enfants, etc.). Tous les magistrats sont aidés dans leurs travail par des auxiliaires de justice, comme les greffiers ou les officiers de police judiciaire (OPJ).",
+  "chapitres": [
+    {
+      "titre": "Magistrats du siège (juges)",
+      "contenu": [
+        "Juge des référés",
+        "Le juge des référés se prononce en urgence sur des demandes qui nécessitent une décision rapide.",
+        "La décision qu'il rend s'applique de manière provisoire, dans l'attente d'un jugement par une autre juridiction civile.",
+        "Juge aux affaires familiales (Jaf)",
+        "Le Jaf est spécialisé sur les questions liées à la famille, notamment :",
+        "• Le divorce et la séparation de corps",
+        "• L'autorité parentale",
+        "• La garde des enfants en cas de séparation",
+        "• Le changement de nom et de prénom",
+        "• L'émancipation d'un mineur",
+        "Juge aux affaires familiales",
+        "Juge des enfants",
+        "Le rôle du juge des enfants est de protéger les mineurs.",
+        "Il intervient lorsqu'un enfant est en danger et peut ordonner des mesures d'assistance éducative si la situation l'exige.",
+        "Il est également compétent pour juger les mineurs, auteurs de contraventions et de délits.",
+        "Juge des enfants",
+        "Juge d'instruction",
+        "Le juge d'instruction mène une enquête lorsqu'un délit grave ou un crime a été commis. Il réunit les indices permettant de prouver que la personne soupçonnée est coupable, ou non, d'une infraction.",
+        "Toutefois, il ne se prononce pas sur la culpabilité ou l'innocence de la personne poursuivie. Il transmet les preuves qu'il trouve à la juridiction compétente pour juger le prévenu ou l'accusé.",
+        "Juge d'instruction",
+        "Juge des libertés et de la détention (JLD)",
+        "Le JLD est chargé de protéger les libertés individuelles des personnes soupçonnées d'avoir commis une infraction.",
+        "Il se prononce notamment en matière de détention provisoire ou lorsqu'une personne soupçonnée est soumise à une mesure restrictive de liberté (exemple : placement sous bracelet électronique).",
+        "Juge des libertés et de la détention",
+        "Juge d'application des peines (Jap)",
+        "Le Jap est spécialisé dans le suivi et la gestion des peines prononcées par les juridictions pénales, qu'elles soient privatives de liberté (exemple : prison), restrictives de liberté (exemple : bracelet électronique) ou non privatives de liberté (exemple : travail d'intérêt général).",
+        "Son rôle est de veiller à l'exécution des peines dans le respect des droits des condamnés tout en garantissant la sécurité publique.",
+        "Juge de l'application des peines"
+      ]
+    },
+    {
+      "titre": "Magistrats du parquet",
+      "contenu": [
+        "Procureur de la République et substitut du procureur",
+        "Le procureur de la République représente l'État dans les procédures judiciaires.",
+        "Il a pour mission principale de veiller à l'application de la loi et de défendre l'ordre public. Il joue un rôle majeur en matière pénale (direction de l'enquête, proposition de sanctions lors d'un procès, etc.).",
+        "Le substitut joue le même rôle que le procureur de la République ; il le remplace lorsqu'il est dans l'impossibilité de suivre une affaire. Il travaille sous l'autorité du procureur de la République.",
+        "Qu'est-ce que le parquet ?",
+        "Procureur général",
+        "Le procureur général représente le ministère public devant la cour d'appel.",
+        "Il a pour mission principale de veiller à l'application de la loi et de défendre l'ordre public.",
+        "Lors d'un procès devant la cour d'appel, il se prononce sur la modification ou l’annulation des jugements, en fonction de l’examen du dossier. Il peut aussi proposer des peines."
+      ]
+    },
+    {
+      "titre": "Auxiliaires de justice",
+      "contenu": [
+        "Greffier",
+        "Les greffiers (hors greffiers des tribunaux de commerce) sont des fonctionnaires de l'État rattachés au ministère de la Justice.",
+        "Ils sont placés auprès de chaque juridiction judiciaire et forment le service du greffe.",
+        "Leur mission principale est d'assister les magistrats dans leurs fonctions.",
+        "Greffier",
+        "Médiateur de justice",
+        "Le médiateur de justice a pour mission d'aider les personnes en conflit à trouver une solution pour régler leur litige.",
+        "Il peut intervenir à la demande d'un juge, du ministère public ou de l'une des parties au procès.",
+        "Médiateur de justice",
+        "Police judiciaire",
+        "La police judiciaire désigne une mission, et non un service ou une administration.",
+        "Cette fonction est exercée sous la direction du Procureur de la République par les officiers de police judiciaire (OPJ), les agents de police judiciaire (APJ) et leurs adjoints. Ils peuvent être des policiers, des gendarmes ou des douaniers.",
+        "Direction centrale de la Police judiciaire"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Ordonnance n°58-1270 du 22 décembre 1958 portant loi organique relative au statut de la magistrature",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000339259"
+    },
+    {
+      "titre": "Code de procédure pénale : articles 16 à 19-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000006167412"
+    },
+    {
+      "titre": "Code de procédure pénale : articles 20 à 21-2",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006167413/"
+    },
+    {
+      "titre": "Code de procédure pénale : articles 49 à 52-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000006151874/"
+    },
+    {
+      "titre": "Code de procédure pénale : articles 79 à 84-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000006167421"
+    },
+    {
+      "titre": "Code de procédure pénale : article D47-6-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006137359"
+    },
+    {
+      "titre": "Code de procédure pénale : articles 712-1 à 712-3",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006167527"
+    },
+    {
+      "titre": "Code de procédure pénale : articles 712-4 à 712-10",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006167528"
+    },
+    {
+      "titre": "Code de procédure civile : articles 510 à 513",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070716/LEGISCTA000006135983/#LEGISCTA000006135983"
+    },
+    {
+      "titre": "Code de procédure civile : articles 780 à 797",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070716/LEGISCTA000039487417"
+    },
+    {
+      "titre": "Code de l'organisation judiciaire : articles L213-3 à L213-4",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006182779/"
+    },
+    {
+      "titre": "Code de justice administrative : articles L213-5 à L213-6",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033424100"
+    },
+    {
+      "titre": "Code de l'organisation judiciaire : articles L211-3 à L211-9-2",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000038314076"
+    },
+    {
+      "titre": "Code de l'organisation judiciaire : articles L252-1 à L252-5",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006151776"
+    },
+    {
+      "titre": "Code de l'organisation judiciaire : articles R123-3 à R123-19",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000018923253"
+    },
+    {
+      "titre": "Code des procédures civiles d'exécution : articles L121-1 à L121-4",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000025024948/LEGISCTA000025025680/#LEGISCTA000025026726"
+    },
+    {
+      "titre": "Code des procédures civiles d'exécution : articles R121-1 à R121-4",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597376"
+    },
+    {
+      "titre": "Code des procédures civiles d'exécution : articles R121-5 à R121-10",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000025024948/LEGISCTA000025938304/#LEGISCTA000025938304"
+    },
+    {
+      "titre": "Code des procédures civiles de l'exécution : articles R121-11 à R121-22",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034747684"
+    },
+    {
+      "titre": "Code des procédures civiles de l'exécution : articles R121-23 et R121-24",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039624056"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Permanence juridique",
+    "Avocat",
+    "Tribunal judiciaire ou tribunal de proximité"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "magistrats-du-tribunal-judiciaire-et-autres-agents-publics-de-justice",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "acteurs-du-monde-judiciaire",
+      "titre": "Acteurs du monde judiciaire"
+    }
+  ]
+}

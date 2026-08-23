@@ -1,0 +1,64 @@
+{
+  "id": "F38579",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Vous êtes (ou allez être) étudiant : aides financières",
+  "theme": "Social - Santé",
+  "description": "Un étudiant peut bénéficier d'aides de nature différente : bourses, aides pour le logement, le transport, les repas, la santé etc.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-05-04",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F38579",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Aides financières",
+    "Vous êtes (ou allez être) étudiant : aides financières"
+  ],
+  "introduction": "Selon sa situation, un étudiant peut bénéficier d'aides diverses : bourses, aides pour le logement, le transport, les repas, la santé etc. Les dispositifs diffèrent selon que les études ont lieu en France ou à l'étranger.",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [
+    {
+      "titre": "Connaître les aides versées aux étudiants par les régions et les départements ou collectivités d'outre-mer",
+      "url": "https://www.etudiant.gouv.fr/fr/aides-des-regions-et-des-outre-mer-2006",
+      "type": "Outil de recherche"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Comment bénéficier du repas Crous à 1 € ?",
+      "url": "https://www.etudiant.gouv.fr/fr/comment-beneficier-du-repas-crous-1-eu-3123"
+    },
+    {
+      "titre": "Le Pass'Sport : financer son inscription dans un club",
+      "url": "https://pass.sports.gouv.fr/"
+    },
+    {
+      "titre": "Se cultiver sans se ruiner",
+      "url": "https://www.etudiant.gouv.fr/fr/se-cultiver-sans-se-ruiner-1348"
+    },
+    {
+      "titre": "Des aides pour vos projets culturels et artistiques",
+      "url": "https://www.etudiant.gouv.fr/fr/des-aides-pour-vos-projets-culturels-et-artistiques-1342"
+    },
+    {
+      "titre": "Aides financières pour les étudiants internationaux",
+      "url": "https://etudiant.gouv.fr/fr/aides-financieres-pour-les-etudiants-internationaux-1663"
+    },
+    {
+      "titre": "Sites internet des conseils régionaux",
+      "url": "https://lannuaire.service-public.gouv.fr/navigation/cr"
+    }
+  ],
+  "slug": "vous-etes-ou-allez-etre-etudiant-aides-financieres",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "aides-financieres",
+      "titre": "Aides financières"
+    }
+  ]
+}

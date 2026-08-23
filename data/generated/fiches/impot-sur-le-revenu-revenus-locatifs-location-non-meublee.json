@@ -1,0 +1,130 @@
+{
+  "id": "F1991",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Impôt sur le revenu - Revenus locatifs (location non meublée)",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Si vous possédez un logement que vous louez non meublé (appartement, maison...), vous devez déclarer des revenus fonciers de location non-meublée",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-15",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1991",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Impôt sur le revenu : déclaration et revenus à déclarer",
+    "Impôt sur le revenu - Revenus locatifs (location non meublée)"
+  ],
+  "introduction": "Vous possédez un appartement ou une maison que vous louez vide (non meublé) et vous voulez déclarer les loyers que vous avez perçus ? Ils sont imposables dans la catégorie des revenus fonciers. Les règles diffèrent selon que le montant annuel de vos revenus fonciers (charges non comprises) est inférieur ou supérieur à 15 000 €. Nous vous indiquons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Vos revenus fonciers sont soumis à l'impôt sur le revenu. Vous devez les déclarer.",
+        "[À savoir] Pour vos revenus fonciers, l’impôt est prélevé à la source, par un acompte (mensuel ou trimestriel) prélevé sur votre compte bancaire. C'est aussi le cas pour les prélèvements sociaux (au taux de 17,2 %).",
+        "L'imposition dépend du montant de vos revenus fonciers."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général des impôts : articles 14 à 14B",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006197176/"
+    },
+    {
+      "titre": "Code général des impôts : articles 28 à 32",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006197178/"
+    },
+    {
+      "titre": "Décret n°2023-297 du 21 avril 2023 relatif aux dépenses de travaux de rénovation énergétique ouvrant droit au rehaussement temporaire du montant du déficit foncier imputable sur le revenu global",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000047476729/"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-RFPI-20150210 relatif aux revenus fonciers et profits du patrimoine immobilier",
+      "url": "http://bofip.impots.gouv.fr/bofip/7382-PGP"
+    },
+    {
+      "titre": "Bofip-Impots n°BOI-RFPI-DECLA relatif au régime d'imposition des revenus fonciers",
+      "url": "http://bofip.impots.gouv.fr/bofip/4143-PGP"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Impôts : accéder à votre espace Finances publiques",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Estimer le montant de son impôt sur les revenus de 2025 (déclaration de 2026)",
+      "url": "https://simulateur-ir-ifi.impots.gouv.fr/calcul_impot/2026/",
+      "type": "simulateurNG"
+    },
+    {
+      "titre": "Déclarer vos revenus en ligne",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Déclaration 2026 des revenus 2025 (papier)",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/2042/declaration-des-revenus",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Déclaration complémentaire 2026 des revenus 2025",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/2042/declaration-des-revenus",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Déclaration n°2044 des revenus fonciers",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/2044/declaration-des-revenus-fonciers",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Service d'information des impôts",
+    "Service en charge des impôts (trésorerie, service des impôts...)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Location vide de meubles",
+      "url": "https://www.impots.gouv.fr/particulier/location-vide-de-meubles"
+    },
+    {
+      "titre": "Brochure pratique 2026 - Déclaration des revenus de 2025",
+      "url": "https://www.impots.gouv.fr/www2/fichiers/documentation/brochure/ir_2026/accueil.htm"
+    },
+    {
+      "titre": "Site des impôts",
+      "url": "https://www.impots.gouv.fr/portail/"
+    },
+    {
+      "titre": "Comment puis-je déduire les provisions pour charges de mes revenus fonciers ?",
+      "url": "https://www.impots.gouv.fr/particulier/questions/comment-puis-je-deduire-les-provisions-pour-charges-de-mes-revenus-fonciers"
+    },
+    {
+      "titre": "Impôt sur le revenu : dépliants d'information",
+      "url": "https://www.impots.gouv.fr/brochures-et-depliants"
+    },
+    {
+      "titre": "Investissements locatifs réalisés dans le cadre de la loi « Scellier »",
+      "url": "https://bofip.impots.gouv.fr/bofip/4951-PGP"
+    },
+    {
+      "titre": "Immeubles spéciaux (monuments historiques)",
+      "url": "https://www.impots.gouv.fr/particulier/immeubles-speciaux-0"
+    },
+    {
+      "titre": "Revenus fonciers - Dispositif Borloo-neuf",
+      "url": "https://bofip.impots.gouv.fr/bofip/1866-PGP"
+    }
+  ],
+  "slug": "impot-sur-le-revenu-revenus-locatifs-location-non-meublee",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "impot-sur-le-revenu-declaration-et-revenus-a-declarer",
+      "titre": "Impôt sur le revenu : déclaration et revenus à déclarer"
+    }
+  ]
+}

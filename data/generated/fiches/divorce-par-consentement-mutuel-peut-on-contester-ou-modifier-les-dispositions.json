@@ -1,0 +1,56 @@
+{
+  "id": "F38821",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Divorce par consentement mutuel : peut-on contester ou modifier les dispositions ?",
+  "theme": "Famille - Scolarité",
+  "description": "Suite à votre divorce par consentement mutuel, vous voulez contester une décision ou modifier certaines dispositions.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-03-05",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F38821",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Divorce, séparation de corps",
+    "Divorce par consentement mutuel : peut-on contester ou modifier les dispositions ?"
+  ],
+  "introduction": "Vous avez divorcé par consentement mutuel et vous souhaitez contester une décision ou modifier le contenu de la convention ? Les règles diffèrent selon que la convention a été enregistrée chez un notaire ou validée par le juge. Nous vous expliquons ce que vous pouvez faire.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code civil : articles 373-2-6 à 373-2-13",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006165500/"
+    },
+    {
+      "titre": "Code de procédure civile : articles 1075 à 1087",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070716/LEGISCTA000006165234/"
+    },
+    {
+      "titre": "Code de procédure civile : articles 1088 à 1105",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033747796/"
+    },
+    {
+      "titre": "Code de procédure civile : article 1143",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033740281"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demande au juge aux affaires familiales (autorité parentale, droit de visite, pension alimentaire...)",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/11530",
+      "type": "formulaireNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "divorce-par-consentement-mutuel-peut-on-contester-ou-modifier-les-dispositions",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "divorce-separation-de-corps",
+      "titre": "Divorce, séparation de corps"
+    }
+  ]
+}

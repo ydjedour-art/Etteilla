@@ -1,0 +1,87 @@
+{
+  "id": "F1057",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Impôt sur le revenu - Peut-on déduire les frais d'obsèques d'un parent ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Oui, les frais d'obsèques d'un parent sont déductibles du revenu imposable sous réserve de remplir certaines conditions.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-01-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1057",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Impôt sur le revenu : déductions, réductions et crédits d'impôt",
+    "Impôt sur le revenu - Peut-on déduire les frais d'obsèques d'un parent ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Oui, vous pouvez déduire de votre revenu imposable les frais d'obsèques d'un parent (ou un autre ascendant), mais uniquement en l’absence d’actif successoral. En pratique, si les frais d’obsèques ne peuvent pas être payés par la succession.",
+        "De plus, le défunt doit être un proche parent envers lequel vous avez une obligation alimentaire (par exemple, père, mère, beau-parent).",
+        "Les services fiscaux peuvent vous demander de fournir les justificatifs suivants :",
+        "• Justificatif de votre obligation alimentaire (lien de parenté)",
+        "• Justificatif du paiement des frais d’obsèques (facture acquittée)",
+        "• Document attestant que le défunt n'avait aucun patrimoine (absence d'actif successoral).",
+        "Ces frais sont à déclarer comme une pension alimentaire versée à un ascendant."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général des impôts : articles 156 à 163 quinvicies",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000006191588/"
+    },
+    {
+      "titre": "Code civil : articles 203 à 211",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136127"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-IR-BASE-20-30 relatif aux pensions alimentaires déductibles du revenu",
+      "url": "http://bofip.impots.gouv.fr/bofip/2020-PGP"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-IR-CESS-10 relatif aux modalités d'imposition en cas de décès",
+      "url": "http://bofip.impots.gouv.fr/bofip/1374-PGP"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Impôts : accéder à votre espace Finances publiques",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Déclarer vos revenus en ligne",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Déclaration 2026 des revenus 2025 (papier)",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/2042/declaration-des-revenus",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Service d'information des impôts",
+    "Service en charge des impôts (trésorerie, service des impôts...)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Puis-je déduire les frais d'obsèques que j'ai payés pour un parent décédé ?",
+      "url": "https://www.impots.gouv.fr/portail/particulier/questions/puis-je-deduire-les-frais-dobseques-que-jai-payes-pour-un-parent-decede"
+    }
+  ],
+  "slug": "impot-sur-le-revenu-peut-on-deduire-les-frais-d-obseques-d-un-parent",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "impot-sur-le-revenu-deductions-reductions-et-credits-d-impot",
+      "titre": "Impôt sur le revenu : déductions, réductions et crédits d'impôt"
+    }
+  ]
+}

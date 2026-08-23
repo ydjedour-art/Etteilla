@@ -1,0 +1,66 @@
+{
+  "id": "F32707",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Obligation d'obéissance hiérarchique dans la fonction publique",
+  "theme": "Travail - Formation",
+  "description": "La loi impose à tout agent public, quel que soit son rang dans la hiérarchie, de se conformer aux instructions de son supérieur hiérarchique.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-08-18",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F32707",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Conditions de travail dans la fonction publique",
+    "Obligation d'obéissance hiérarchique dans la fonction publique"
+  ],
+  "introduction": "La loi impose à tout agent public de se conformer aux instructions de son supérieur hiérarchique sauf dans le cas où l'ordre donné est manifestement illégal et de nature à compromettre gravement un intérêt public. Cette obligation est couramment désignée sous le terme d’obligation d’obéissance hiérarchique. Nous vous présentons plus précisément en quoi consiste cette obliagtion.",
+  "chapitres": [
+    {
+      "titre": "En quoi consiste l'obligation d'obéissance hiérarchique dans la fonction publique ?",
+      "contenu": [
+        "Tout agent public (qu’il soit fonctionnaire stagiaire ou titulaire ou qu’il soit contractuel), quel que soit son rang dans la hiérarchie, doit se conformer aux instructions de son supérieur hiérarchique.",
+        "Cette obligation de respecter les directives hiérarchiques est communément appelée obligation d'obéissance hiérarchique.",
+        "Les instructions peuvent être orales ou écrites.",
+        "L'obligation d'obéissance impose également à l'agent de respecter les lois et règlements de toute nature.",
+        "La subordination hiérarchique impose de se soumettre au contrôle de son supérieur hiérarchique et de faire preuve de loyauté dans l'exercice de ses fonctions.",
+        "Un agent public est responsable de l'exécution des tâches qui lui sont confiées. Ainsi par exemple, le refus d'un agent d’assumer certaines responsabilités, comme l'évaluation des agents de son service, constitue un manquement au devoir d’obéissance hiérarchique.",
+        "Un agent public doit répondre de ses actes en fonction des responsabilités qui sont les siennes. Il ne peut pas s'exonérer de ses responsabilités en invoquant celles de ses subordonnés. Ainsi, un responsable qui donne un ordre illégal doit en assumer les conséquences et peut être sanctionné que son subordonné ait obéi ou non."
+      ]
+    },
+    {
+      "titre": "Un agent public peut-il désobéir ?",
+      "contenu": [
+        "L'obligation d'obéissance peut cesser dans l'une des situations suivantes :",
+        "• L'ordre donné est manifestement illégal et risque de compromettre gravement l'intérêt public (par exemple, l'ordre donné par un maire à un agent de police municipale de travailler en civil à l’occasion de fêtes locales et de ne verbaliser que les infractions au stationnement a été considéré comme manifestement illégal et compromettant gravement l'intérêt public)",
+        "• L'agent a un motif raisonnable de penser qu'une situation de travail présente un danger grave et imminent pour sa vie ou sa santé. Il peut alors faire valoir son droit de retrait et se retirer de cette situation.",
+        "• En cas de harcèlement, aucune sanction ne peut être appliquée à un agent qui a subi un harcèlement sexuel ou moral et qui a engagé une action en justice (un agent qui relate de tels agissements ne peut pas non plus être sanctionné)."
+      ]
+    },
+    {
+      "titre": "Quelle sanction en cas de non respect de l'obligation d'obéissance par un agent public ?",
+      "contenu": [
+        "Tout manquement injustifié à l'obligation d'obéissance hiérarchique expose l'agent à une sanction disciplinaire, voire à une retenue sur rémunération pour absence de service fait."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général de la fonction publique : articles L121-1 à L121-11",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044420673/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "obligation-d-obeissance-hierarchique-dans-la-fonction-publique",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "conditions-de-travail-dans-la-fonction-publique",
+      "titre": "Conditions de travail dans la fonction publique"
+    }
+  ]
+}

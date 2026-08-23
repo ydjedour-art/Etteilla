@@ -1,0 +1,119 @@
+{
+  "id": "F1670",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Que faire en cas de difficultés à payer les mensualités d'un crédit immobilier ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Si vous avez des difficultés passagères pour rembourser votre crédit immobilier, vous pouvez engager plusieurs démarches pour trouver une solution.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-07-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1670",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Crédit immobilier",
+    "Que faire en cas de difficultés à payer les mensualités d'un crédit immobilier ?"
+  ],
+  "introduction": "Si vous avez des difficultés passagères pour rembourser votre crédit immobilier, vous pouvez engager plusieurs démarches pour trouver une solution. Nous vous les présentons.",
+  "chapitres": [
+    {
+      "titre": "Demander un délai de paiement au prêteur",
+      "contenu": [
+        "Vous pouvez demander à l'organisme prêteur (par exemple, la banque) de vous accorder des délais de paiement.",
+        "Pour lui adresser votre demande, il est recommandé d'utiliser un moyen permettant d'attester la date votre demande. Par exemple, vous pouvez envoyer votre demande par un courrier recommandé avec accusé de réception.",
+        "Vous pouvez utiliser le modèle de lettre suivant :",
+        "Demander à la banque des délais de paiement pour le remboursement de ses crédits",
+        "[À savoir] L'organisme prêteur n'est pas obligé d'accepter votre demande."
+      ]
+    },
+    {
+      "titre": "Faire appel à l'assurance du crédit immobilier",
+      "contenu": [
+        "Vous pouvez faire appel à l'assurance de votre crédit immobilier (assurance emprunteur).",
+        "Votre contrat d'assurance prévoit peut-être la prise en charge du paiement des mensualités de votre crédit dans certaines situations (garantie décès, invalidité, incapacité ou garantie perte d'emploi). Si tel est le cas, vous éviterez d'avoir à payer des pénalités pour mensualités impayées. Un contrat de crédit immobilier prévoit généralement ce type de pénalités."
+      ]
+    },
+    {
+      "titre": "Demander un « délai de grâce » au tribunal",
+      "contenu": [
+        "Vous pouvez demander au tribunal judiciaire de suspendre le remboursement de votre crédit immobilier, durant un délai de grâce de 2 ans maximum, et sans occasionner de majorations, ni de pénalités de retard. Le tribunal judiciaire peut vous accorder cette suspension, selon votre situation.",
+        "Pour cela, vous devez saisir par requête le juge des contentieux de la protection, quel que soit le montant de votre crédit.",
+        "Vous pouvez utiliser le modèle de requête suivant :",
+        "Requête aux fins de suspension des obligations d’un crédit",
+        "Vous devez joindre à votre requête les documents prouvant vos ressources, vos charges, vos remboursements en cours, ainsi que les motifs expliquant vos difficultés à rembourser (licenciement, arrêt et de travail prolongé, divorce, décès de la personne avec qui vous vivez en couple...).",
+        "[À savoir] Les mensualités impayées du fait de la suspension ne vous seront pas réclamées en 1 seule fois à la fin du délai de grâce. Leur paiement peut être échelonné sur la durée restante de votre crédit ou être reporté à la fin du remboursement de votre crédit."
+      ]
+    },
+    {
+      "titre": "Déposer un dossier de surendettement",
+      "contenu": [
+        "Si vous ne parvenez pas à faire face à vos dettes, ou si vous savez que vous ne pourrez pas y faire face, vous pouvez déposer un dossier de surendettement.",
+        "C'est par exemple le cas lorsque le tribunal judiciaire vous a accordé la suspension de vos mensualités de crédit immobilier, mais que cette solution n'a pas permis de résoudre vos difficultés."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la consommation : article L314-20",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069565/LEGISCTA000032228058/"
+    },
+    {
+      "titre": "Code civil : article 1343-5",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032035267/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demander à la banque des délais de paiement pour le remboursement de ses crédits",
+      "url": "https://www.inc-conso.fr/content/vous-demandez-des-delais-de-paiement-la-banque-qui-vous-accorde-un-credit",
+      "type": "Modèle de document"
+    },
+    {
+      "titre": "Requête aux fins de suspension des obligations d’un crédit",
+      "url": "https://www.cours-appel.justice.fr/sites/default/files/2020-01/requ%C3%AAte%20aux%20fins%20de%20suspension%20des%20obligations%20d%27un%20cr%C3%A9dit.pdf",
+      "type": "Modèle de document"
+    },
+    {
+      "titre": "Déclaration en ligne de surendettement",
+      "url": "https://accueil.banque-france.fr/index.html#/accueil",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Lettre à joindre au dossier de surendettement",
+      "url": "https://www.inc-conso.fr/content/suite-de-difficultes-financieres-vous-deposez-un-dossier-aupres-de-la-commission-de",
+      "type": "Modèle de document"
+    },
+    {
+      "titre": "Déclaration de surendettement",
+      "url": "https://www.banque-france.fr/system/files/2023-09/Banque-de-France-Particuliers-declaration-suredenttement.pdf",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Point-justice"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Comment sont calculées les mensualités de votre emprunt ?",
+      "url": "https://www.inc-conso.fr/content/comment-sont-calculees-les-mensualites-de-votre-emprunt"
+    },
+    {
+      "titre": "La suspension des obligations d'un crédit",
+      "url": "https://www.cours-appel.justice.fr/nancy/la-suspension-des-obligations-dun-credit"
+    },
+    {
+      "titre": "Que faire en cas de difficultés financières ?",
+      "url": "https://www.inc-conso.fr/content/que-faire-en-cas-de-difficultes-financieres-0#:~:text=Vous%20pouvez%20aussi%20solliciter%20un,et%20%C3%A0%20trouver%20les%20solutions."
+    }
+  ],
+  "slug": "que-faire-en-cas-de-difficultes-a-payer-les-mensualites-d-un-credit-immobilier",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "credit-immobilier",
+      "titre": "Crédit immobilier"
+    }
+  ]
+}

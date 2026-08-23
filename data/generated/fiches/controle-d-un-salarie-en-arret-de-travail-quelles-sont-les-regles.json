@@ -1,0 +1,63 @@
+{
+  "id": "F33908",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Contrôle d'un salarié en arrêt de travail : quelles sont les règles ?",
+  "theme": "Travail - Formation",
+  "description": "Une visite de contrôle de votre arrêt maladie peut avoir lieu à votre domicile, à la suite d'une demande de la Sécurité sociale ou de votre employeur.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-08-17",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33908",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Maladie ou accident du travail dans le secteur privé",
+    "Contrôle d'un salarié en arrêt de travail : quelles sont les règles ?"
+  ],
+  "introduction": "Pendant un arrêt maladie, le salarié doit respecter les obligations (appelées prescriptions) qui sont fixées par son médecin. Une visite de contrôle peut être effectuée à son domicile soit à l'initiative de la Sécurité sociale, soit à la demande de son employeur. En cas d'arrêt maladie non justifié ou de non-respect de ses obligations, le salarié risque la suspension du versement des indemnités journalières (IJ) et des indemnités complémentaires. Voici les informations à retenir.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de la sécurité sociale : articles L315-1 à L315-4",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000006156082/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles L323-1 à L323-7",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000006156085/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles R323-1 à R323-12",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006156609/"
+    },
+    {
+      "titre": "Code du travail : articles L1226-1 et L1226-1-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006189428"
+    },
+    {
+      "titre": "Code du travail : article R. 1226-10 à R. 1226-12",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000049898794/#LEGISCTA000049898794"
+    },
+    {
+      "titre": "Code du travail : article L1226-23",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018764625"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Demande de contrôle médical d'un salarié",
+      "url": "https://www.ameli.fr/paris/entreprise/contacts/pour-toutes-les-questions-concernant-votre-salarie/demande-de-controle-medical-ou-administratif-de-votre-salarie"
+    }
+  ],
+  "slug": "controle-d-un-salarie-en-arret-de-travail-quelles-sont-les-regles",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "maladie-ou-accident-du-travail-dans-le-secteur-prive",
+      "titre": "Maladie ou accident du travail dans le secteur privé"
+    }
+  ]
+}

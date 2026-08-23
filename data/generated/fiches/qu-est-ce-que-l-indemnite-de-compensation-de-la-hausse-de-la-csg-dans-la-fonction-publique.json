@@ -1,0 +1,42 @@
+{
+  "id": "F34473",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Qu'est-ce que l'indemnité de compensation de la hausse de la CSG dans la fonction publique ?",
+  "theme": "Travail - Formation",
+  "description": "En 2018, une indemnité compensatrice a été attribuée aux agents publics en compensation de la hausse de la contribution sociale généralisée.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-01-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34473",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Rémunération dans la fonction publique",
+    "Qu'est-ce que l'indemnité de compensation de la hausse de la CSG dans la fonction publique ?"
+  ],
+  "introduction": "Au 1er janvier 2018, le taux de la CSG est passé de 7,5 % à 9,2 %. Pour compenser la perte de revenus consécutive à cette augmentation, une indemnité compensatrice a été attribuée aux agents publics. Le montant de cette indemnité varie selon que vous avez été nommé ou recruté avant 2018 ou à partir de 2018. Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Décret n°2017-1889 du 30 décembre 2017 instituant une indemnité compensatrice de la hausse de la contribution sociale généralisée dans la fonction publique",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000036342240/"
+    },
+    {
+      "titre": "Circulaire du 15 janvier 2018 relative à l'indemnité compensatrice de la hausse de la contribution sociale généralisée (CSG)",
+      "url": "http://circulaire.legifrance.gouv.fr/pdf/2018/01/cir_42916.pdf"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "qu-est-ce-que-l-indemnite-de-compensation-de-la-hausse-de-la-csg-dans-la-fonction-publique",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "remuneration-dans-la-fonction-publique",
+      "titre": "Rémunération dans la fonction publique"
+    }
+  ]
+}

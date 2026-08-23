@@ -1,0 +1,75 @@
+{
+  "id": "F34777",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Naturalisation française : quels justificatifs si l'on est divorcé ou veuf ?",
+  "theme": "Étranger - Europe",
+  "description": "Pour faire une demande de naturalisation française, il faut fournir des justificatifs spécifiques si l’on est divorcé(e) ou veuf(ve).",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-01-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34777",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Nationalité française",
+    "Naturalisation française : quels justificatifs si l'on est divorcé ou veuf ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Si vous êtes divorcé(e) ou veuf(ve), vous devez fournir des justificatifs pour faire une demande de naturalisation française.",
+        "Selon votre situation, préparez les justificatifs suivants :",
+        "Vous êtes divorcé(e)",
+        "Vous devez fournir les documents suivants :",
+        "• Décision de divorce ou acte de répudiation, et preuve du caractère définitif du divorce ou de la répudiation",
+        "• Actes des différents mariages et preuve de leur dissolution : décision de séparation de corps ou ordonnance de non-conciliation ou décision de divorce ou acte de répudiation et preuve du caractère définitif du divorce ou de la répudiation.",
+        "Vous avez rompu votre Pacs",
+        "Vous devez fournir un justificatif de dissolution du Pacs.",
+        "Vous êtes veuf(ve)",
+        "Vous devez fournir l'acte de décès de votre époux(se).",
+        "Un simulateur permet d'avoir la liste personnalisée des documents à fournir. Toutefois, en fonction de votre situation, d'autres documents peuvent vous être demandés.",
+        "Quels sont les documents nécessaires à mon dossier de naturalisation ?",
+        "[Complement] Pour être acceptés, les documents joints à une demande de naturalisation française doivent respecter les règles suivantes : Acte de l'état civil Un acte d'état civil doit être fourni en copie intégrale et en original dans la langue du pays d'origine. Un acte de l'état civil français doit être délivré depuis moins de 3 mois. Une copie d'un acte de l'état civil étranger doit être accompagnée, si nécessaire, d'une copie de la décision en exécution de laquelle il a été établi, rectifié ou modifié. Copie ou original d'un document Vous pouvez fournir des copies des documents demandés à l'exception des actes de l'état civil. Vous devez toutefois pouvoir présenter les originaux des documents si nécessaire. Une copie d'un acte étranger doit être accompagnée, si nécessaire, d'une copie de la décision en exécution de laquelle il a été établi, rectifié ou modifié. Traduction Vous devez joindre une traduction en français de chaque document rédigé en langue étrangère. Vous devez fournir l'original de la traduction. La traduction doit être faite par un traducteur agréé ou habilité à intervenir auprès des autorités judiciaires ou administratives d'un autre pays européen. Si vous êtes à l'étranger, adressez-vous à l'ambassade ou au consulat de France pour consulter la liste des traducteurs agréés. La traduction d'un extrait plurilingue d'acte de naissance ou d'acte de mariage dont l'une des langues est le français n'est pas nécessaire pour une personne majeure. De plus, pour éviter d'avoir à traduire certains documents délivrés par un pays de l'Union européenne, un formulaire multilingue peut être joint. Consultez le site e-justice pour avoir des informations complémentaires. Légalisation ou apostille Certains documents établis à l'étranger doivent être légalisés ou apostillés pour être acceptés en France. Renseignez-vous auprès de l'ambassade ou du consulat de France dans le pays concerné pour la légalisation, et auprès de l'ambassade ou du consulat du pays concerné pour l'apostille. Ambassades et consulats de France à l'étranger Ambassade ou consulat étranger en France"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Décret n°93-1362 du 30 décembre 1993 relatif aux déclarations de nationalité, aux décisions de naturalisation, de réintégration, de perte, de déchéance et de retrait de la nationalité française",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000699753"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Quels sont les documents nécessaires à mon dossier de naturalisation ?",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/Naturalisation",
+      "type": "Simulateur"
+    },
+    {
+      "titre": "Demande en ligne de naturalisation française ou de réintégration dans la nationalité française",
+      "url": "https://administration-etrangers-en-france.interieur.gouv.fr/particuliers/#/espace-personnel/connexion-inscription",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Demande d'acquisition de la nationalité française par naturalisation ou réintégration",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_12753.do",
+      "type": "formulaireNG"
+    }
+  ],
+  "contacts": [
+    "Plateformes de naturalisation"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "naturalisation-francaise-quels-justificatifs-si-l-on-est-divorce-ou-veuf",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "nationalite-francaise",
+      "titre": "Nationalité française"
+    }
+  ]
+}

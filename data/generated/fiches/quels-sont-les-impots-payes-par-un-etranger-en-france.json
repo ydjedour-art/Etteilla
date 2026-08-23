@@ -1,0 +1,111 @@
+{
+  "id": "F36401",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quels sont les impôts payés par un étranger en France ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Un étranger doit payer des impôts en France dans certaines situations, notamment impôt sur le revenu et impôts locaux tels que taxes foncière ou d'habitation.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-04-15",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F36401",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Impôt sur le revenu : déclaration et revenus à déclarer",
+    "Quels sont les impôts payés par un étranger en France ?"
+  ],
+  "introduction": "Si vous êtes étranger (européen ou d'une autre nationalité), vous devez payer des impôts en France dans certaines situations. Nous vous indiquons les informations utiles pour l'impôt sur le revenu, la taxe d'habitation sur les résidences secondaires, la taxe foncière et l'impôt sur la fortune immobilière.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code général des impôts : articles 4A à 8 quinquies",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006179569/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Impôts : accéder à votre espace Finances publiques",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Déclarer vos revenus en ligne",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Déclaration 2026 des revenus 2025 (papier)",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/2042/declaration-des-revenus",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Déclaration de plus ou moins-values de cessions de titres réalisés par les impatriés",
+      "url": "https://www.impots.gouv.fr/formulaire/2074-imp-sd/declaration-de-ou-values-de-cessions-de-titres-realises-par-les-impatries",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Déclaration 2026 des revenus 2025 encaissés à l'étranger",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/2047/declaration-des-revenus-encaisses-letranger",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Estimer le montant de son impôt sur les revenus de 2025 (déclaration de 2026)",
+      "url": "https://simulateur-ir-ifi.impots.gouv.fr/calcul_impot/2026/",
+      "type": "simulateurNG"
+    }
+  ],
+  "contacts": [
+    "Service des impôts des particuliers (SIP)",
+    "Service d'information des impôts",
+    "Service en charge des impôts (trésorerie, service des impôts...)",
+    "France Services / Maison de services au public"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Ce qui est imposé en France",
+      "url": "https://www.impots.gouv.fr/particulier/ce-qui-est-impose-en-france"
+    },
+    {
+      "titre": "Je suis non-résident. Dois-je déclarer des revenus et payer des impôts en France ?",
+      "url": "https://www.impots.gouv.fr/international-particulier/dois-je-declarer-mes-revenus-en-france"
+    },
+    {
+      "titre": "Dans quel pays européen êtes-vous imposable ?",
+      "url": "https://europa.eu/youreurope/citizens/work/taxes/income-taxes-abroad/index_fr.htm"
+    },
+    {
+      "titre": "Double imposition en Europe",
+      "url": "https://europa.eu/youreurope/citizens/work/taxes/double-taxation/index_fr.htm"
+    },
+    {
+      "titre": "Conventions fiscales signées par la France",
+      "url": "https://www.impots.gouv.fr/les-conventions-internationales"
+    },
+    {
+      "titre": "Suis-je un travailleur frontalier ?",
+      "url": "https://www.impots.gouv.fr/particulier/questions/suis-je-bien-un-travailleur-frontalier"
+    },
+    {
+      "titre": "Dois-je payer des impôts locaux ?",
+      "url": "https://www.impots.gouv.fr/particulier/questions/je-suis-non-resident-suis-je-concerne-par-les-impots-locaux"
+    },
+    {
+      "titre": "Brochure pratique 2026 - Déclaration des revenus de 2025",
+      "url": "https://www.impots.gouv.fr/www2/fichiers/documentation/brochure/ir_2026/accueil.htm"
+    },
+    {
+      "titre": "Statut fiscal des fonctionnaires internationaux",
+      "url": "https://www.diplomatie.gouv.fr/fr/emplois-stages-concours/travailler-dans-les-organisations-internationales/etre-ou-devenir-fonctionnaire-international/statut-de-fonctionnaire-international/article/statut-fiscal-des-fonctionnaires-internationaux"
+    }
+  ],
+  "slug": "quels-sont-les-impots-payes-par-un-etranger-en-france",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "impot-sur-le-revenu-declaration-et-revenus-a-declarer",
+      "titre": "Impôt sur le revenu : déclaration et revenus à déclarer"
+    }
+  ]
+}

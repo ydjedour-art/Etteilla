@@ -1,0 +1,138 @@
+{
+  "id": "F2975",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Reconnaissance de dette entre particuliers",
+  "theme": "Justice",
+  "description": "Une reconnaissance de dette est un écrit par lequel une personne (le débiteur), s'engage à payer une somme d'argent à une autre personne (le créancier).",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2024-11-22",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2975",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Saisies et recouvrements",
+    "Reconnaissance de dette entre particuliers"
+  ],
+  "introduction": "Vous voulez savoir ce qu'est une reconnaissance de dette, et comment l'utiliser ? Une reconnaissance de dette est un écrit par lequel une personne s'engage à rembourser la somme d'argent qu'une autre personne lui a prêtée, avec ou sans taux d'intérêt. Dans certains cas, faire une reconnaissance de dette est obligatoire. Nous vous expliquons.",
+  "chapitres": [
+    {
+      "titre": "À quoi sert une reconnaissance de dette ?",
+      "contenu": [
+        "Une reconnaissance de dette est un écrit par lequel une personne (appelée débiteur) s'engage à rembourser la somme d'argent qu'une autre personne (appelée créancier) lui a prêtée, avec ou sans taux d'intérêt.",
+        "Quel que soit le montant de la dette, il est recommandé de faire une reconnaissance de dette.",
+        "Toutefois, à partir de 1 500 €, il est obligatoire de faire une reconnaissance de dette : dans ce cas, et en cas de contestation, la fourniture d'un écrit est nécessaire pour prouver la reconnaissance de dette.",
+        "Il n'existe pas de montant à ne pas dépasser pour faire une reconnaissance de dette.",
+        "Le créancier doit garder en sa possession l'original de la reconnaissance de dette, jusqu'au remboursement total de la dette par le débiteur. En cas de conflit sur le remboursement de la somme prêtée, la reconnaissance de dette constitue une garantie pour le créancier :",
+        "• Ce document prouve que la somme versée correspond bien à un prêt, et non à un don, en faveur du débiteur",
+        "• Il revient au débiteur de prouver que la somme ne lui a pas été versée.",
+        "[À noter] Dans certains cas, le débiteur et le créancier doivent déclarer aux impôts la somme versée."
+      ]
+    },
+    {
+      "titre": "Comment rédiger une reconnaissance de dette ?",
+      "contenu": [
+        "Il est possible de faire une reconnaissance de dette :",
+        "• Soit sous la forme d'un acte sous signature privée, rédigé par le débiteur et le créancier",
+        "• Soit sous la forme d'un acte authentique, rédigé par un notaire. L'acte authentique notarié a force exécutoire, c'est-à-dire qu'il permet au créancier, en cas de non-remboursement, de poursuivre le débiteur sans avoir préalablement besoin de faire appel au juge.",
+        "Pour être valable, la reconnaissance de dette rédigée par le débiteur et le créancier sous la forme d'un acte sous signature privée doit obligatoirement contenir les informations suivantes :",
+        "• Date de la reconnaissance de dette",
+        "• Nom, prénom, adresse, date et lieu de naissance du débiteur et du créancier",
+        "• Montant de la somme prêtée, indiqué en chiffres et en lettres (en cas de différence entre les 2 montants, seule la somme écrite en toutes lettres est prise en compte)",
+        "• Date à laquelle le paiement de la dette sera exigible",
+        "• Taux d'intérêt, s'il est prévu. Attention, le taux d'intérêt ne doit pas dépasser le taux de l'usure.",
+        "• Signature du débiteur.",
+        "Vous pouvez utiliser la modèle de document suivant :",
+        "Modèle de reconnaissance de dettes ou de prêts entre particuliers"
+      ]
+    },
+    {
+      "titre": "Que faire de la reconnaissance de dette après le remboursement de la dette ?",
+      "contenu": [
+        "[Rappel] Le créancier doit garder en sa possession l'original de la reconnaissance de dette, jusqu'au remboursement total de la dette par le débiteur.",
+        "Après que le débiteur a remboursé en totalité sa dette au créancier, le créancier doit remettre au débiteur :",
+        "• Soit l'original de la reconnaissance de dette",
+        "• Soit une quittance, c'est-à-dire un document écrit attestant que le créancier a reçu du débiteur une somme d'argent en remboursement de la totalité de sa dette."
+      ]
+    },
+    {
+      "titre": "Quelle est la durée de validité de la reconnaissance de dette ?",
+      "contenu": [
+        "Une reconnaissance de dette est prescrite 5 ans après la date d'exigibilité.",
+        "Si le créancier ne charge pas un commissaire de justice de faire un acte d'exécution (par exemple : saisie sur compte bancaire) dans ce délai, il perd la possibilité de réclamer la somme qui lui est due.",
+        "[Exemple] Pour une reconnaissance de dette signée le 15 novembre 2025 et mentionnant que la dette doit être remboursée en 1 fois au plus tard le 15 novembre 2028, la date de prescription correspond au 15 novembre 2033.",
+        "Le créancier et le débiteur peuvent décider, dans l'écrit valant reconnaissance de dette, que la durée de la prescription soit plus courte ou plus longue. Toutefois, cette durée ne peut pas être inférieure à 1 an ou supérieure à 10 ans."
+      ]
+    },
+    {
+      "titre": "Que faire en cas de conflit sur le remboursement de la dette ?",
+      "contenu": [
+        "Les démarches à réaliser dépendent de la forme sous laquelle a été faite la reconnaissance de dette : acte sous signature privée, rédigée par le débiteur et le créancier ou acte authentique, rédigé par un notaire.",
+        "Acte sous signature privée",
+        "Lorsque le débiteur ne rembourse pas, le créancier doit lui adresser une mise en demeure de payer. Il est recommandé de lui envoyer cet écrit par courrier recommandé avec accusé de réception ou de lui faire parvenir par acte d'huissier.",
+        "Si le débiteur ne rembourse toujours pas, le créancier peut, à l'appui de la reconnaissance de dette, engager notamment l'une des 2 démarches suivantes :",
+        "• Lorsque la dette du débiteur ne dépasse pas 5 000 €, charger un commissaire de justice d'une procédure simplifiée de recouvrement des petites créances",
+        "• Lorsque la dette du débiteur dépasse 5 000 €, demander au juge une injonction de payer.",
+        "Acte authentique (notaire)",
+        "Lorsque le débiteur ne rembourse pas, le créancier doit lui adresser une mise en demeure de payer. Il faut lui envoyer cet écrit par courrier recommandé avec accusé de réception ou lui faire parvenir par acte d'huissier.",
+        "Si le débiteur ne rembourse toujours pas, le créancier peut, à l'appui de la reconnaissance de dette, charger un commissaire de justice de recouvrer le montant de la dette. Selon le montant de la dette et la situation du débiteur, le commissaire de justice peut notamment opter pour une procédure simplifiée de recouvrement des petites créances ou une saisie sur compte bancaire."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : article 1376",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042411/"
+    },
+    {
+      "titre": "Code civil : article 1359",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042311/"
+    },
+    {
+      "titre": "Décret n°80-533 du 15 juillet 1980 pris pour l'application de l'article 1341 du code civil",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGIARTI000033202239/#LEGIARTI000033202239"
+    },
+    {
+      "titre": "Code civil : article 2224",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000019016471"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Modèle de reconnaissance de dettes ou de prêts entre particuliers",
+      "url": "https://www.inc-conso.fr/content/pret-dargent-un-proche-comment-etablir-une-reconnaissance-de-dettes",
+      "type": "lettreTypeNG"
+    }
+  ],
+  "contacts": [
+    "Maison de justice et du droit"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Taux de l'usure à partir du 1er juillet 2026",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054323743"
+    },
+    {
+      "titre": "Le taux de l'usure : qu’est-ce que c’est ?",
+      "url": "https://www.banque-france.fr/fr/a-votre-service/particuliers/connaitre-pratiques-bancaires-assurance/credit/taux-usure"
+    },
+    {
+      "titre": "Reconnaissance de dette : mon emprunteur vient de décéder, que devient sa dette ?",
+      "url": "https://www.impots.gouv.fr/particulier/questions/jai-fait-signer-une-reconnaissance-de-dettes-et-mon-emprunteur-vient-de"
+    },
+    {
+      "titre": "Prêt entre particuliers : quelques conseils de prudence",
+      "url": "https://www.economie.gouv.fr/particuliers/gerer-mon-argent/emprunter-et-sassurer/pret-entre-particuliers-quelques-conseils-de-prudence"
+    }
+  ],
+  "slug": "reconnaissance-de-dette-entre-particuliers",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "saisies-et-recouvrements",
+      "titre": "Saisies et recouvrements"
+    }
+  ]
+}

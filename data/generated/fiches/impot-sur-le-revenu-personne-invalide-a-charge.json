@@ -1,0 +1,117 @@
+{
+  "id": "F387",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Impôt sur le revenu - Personne invalide à charge",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Héberger une personne invalide qui n'est ni son enfant ni son conjoint (marié ou pacsé) permet de l'inscrire comme personne à votre charge.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-15",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F387",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Impôt sur le revenu : déclaration et revenus à déclarer",
+    "Impôt sur le revenu - Personne invalide à charge"
+  ],
+  "introduction": "Vous hébergez une personne invalide qui n'est ni votre enfant, ni votre conjoint (marié ou pacsé) et vous voulez l'indiquer sur votre déclaration de revenus ? Vous pouvez l'inscrire comme personne à votre charge, sous certaines conditions. Vous bénéficiez d’une majoration de votre nombre de parts de quotient familial pour l'impôt sur le revenu. Nous vous indiquons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Quelles sont les conditions à remplir pour compter une personne invalide fiscalement à charge ?",
+      "contenu": [
+        "Une personne peut être considérée comme à votre charge si elle remplit les 3 conditions suivantes :",
+        "• Elle n'est ni votre conjoint, ni l'un de vos enfants à charge",
+        "• Elle a la carte mobilité inclusion portant la mention \"invalidité\"",
+        "• Elle vit chez vous.",
+        "Si vous hébergez un couple marié, chacun des époux doit avoir la carte.",
+        "Aucune condition de ressources n'est exigée.",
+        "Vous n'avez pas besoin d'avoir de lien de parenté avec la personne invalide recueillie.",
+        "Vous pouvez choisir de ne pas compter à charge la personne invalide qui vit chez vous.",
+        "Dans ce cas, vous ne bénéficiez pas d'une majoration de quotient familial.",
+        "Mais s'il s'agit d'un ascendant qui a la carte mobilité inclusion portant la mention \"invalidité\", vous pouvez alors déduire une pension alimentaire sous conditions."
+      ]
+    },
+    {
+      "titre": "Quels sont les effets du rattachement fiscal d'une personne invalide ?",
+      "contenu": [
+        "Votre quotient familial est majoré si une personne invalide est rattachée à votre foyer.",
+        "En général, la majoration est de 1 part par personne à charge qui a la carte mobilité inclusion portant la mention invalidité.",
+        "[Exemple] Si vous êtes marié et avez une personne invalide à charge, votre quotient familial est de 3 parts : • 2 parts pour votre couple • 1 part pour la personne à votre charge qui a la carte mobilité inclusion.",
+        "L'avantage maximal accordé pour les demi-parts supplémentaires est limité aux montants suivants :",
+        "• 1 807 € pour la demi-part accordée pour la personne à charge",
+        "• 3 608 € pour la demi-part accordée pour son invalidité.",
+        "[Attention] Vous ne pouvez pas, pour une même personne, bénéficier à la fois de l'augmentation du nombre de parts et de la déduction des frais d'accueil des personnes de plus de 75 ans."
+      ]
+    },
+    {
+      "titre": "Comment déclarer une personne invalide fiscalement à charge ?",
+      "contenu": [
+        "Dans votre déclaration annuelle, vous devez ajouter à votre propre revenu celui de la personne invalide comptée à charge.",
+        "La déclaration des revenus par internet est obligatoire si votre résidence principale est équipée d'un accès à internet et que vous êtes en mesure de faire votre déclaration en ligne.",
+        "La déclaration 2026 des revenus de 2025 est terminée.",
+        "La déclaration 2027 des revenus de 2026 débutera en avril 2027.",
+        "[Complement] La déclaration 2026 des revenus de 2025 est terminée. La déclaration 2027 des revenus de 2026 débutera en avril 2027.",
+        "Si votre situation familiale a changé en 2025, vous devez compléter ou modifier la déclaration de revenus pré-remplie.",
+        "Vous pouvez choisir la situation qui est la plus avantageuse pour vous :",
+        "• Votre situation au 1er janvier de l'année d'imposition",
+        "• Votre situation au 31 décembre de l'année d'imposition."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général des impôts : articles 193 à 199",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006179577/"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-IR-LIQ-10-10 relatif à la prise en compte de la situation et des charges de famille pour l'impôt sur le revenu",
+      "url": "https://bofip.impots.gouv.fr/node/3647"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Déclaration 2026 des revenus 2025 (papier)",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/2042/declaration-des-revenus",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Déclarer vos revenus en ligne",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Impôts : accéder à votre espace Finances publiques",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Estimer le montant de son impôt sur les revenus de 2025 (déclaration de 2026)",
+      "url": "https://simulateur-ir-ifi.impots.gouv.fr/calcul_impot/2026/",
+      "type": "simulateurNG"
+    }
+  ],
+  "contacts": [
+    "Service d'information des impôts",
+    "Service en charge des impôts (trésorerie, service des impôts...)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Les autres personnes à charge",
+      "url": "https://www.impots.gouv.fr/portail/node/4528"
+    },
+    {
+      "titre": "Brochure pratique 2026 - Déclaration des revenus de 2025",
+      "url": "https://www.impots.gouv.fr/www2/fichiers/documentation/brochure/ir_2026/accueil.htm"
+    }
+  ],
+  "slug": "impot-sur-le-revenu-personne-invalide-a-charge",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "impot-sur-le-revenu-declaration-et-revenus-a-declarer",
+      "titre": "Impôt sur le revenu : déclaration et revenus à déclarer"
+    }
+  ]
+}

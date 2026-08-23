@@ -1,0 +1,212 @@
+{
+  "id": "F165",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Ticket modérateur, forfait et franchises (Sécurité sociale)",
+  "theme": "Social - Santé",
+  "description": "Certains frais médicaux ne sont pas remboursés par l'Assurance maladie : ticket modérateur, forfait 24€, participation forfaitaire 2€, franchises médicales.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-07",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F165",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Remboursement des soins par la Sécurité sociale",
+    "Ticket modérateur, forfait et franchises (Sécurité sociale)"
+  ],
+  "introduction": "Vous vous demandez si l'Assurance maladie (Sécurité sociale) prend en charge l'intégralité des frais médicaux ? Elle ne rembourse pas complètement les frais médicaux. En effet, une partie des dépenses reste à votre charge : ticket modérateur, forfait de 32 € pour certains actes lourds, participation forfaitaire de 2 €, franchises médicales. Cependant, des exceptions existent. Nous vous exposons ici les règles à connaître.",
+  "chapitres": [
+    {
+      "titre": "Ticket modérateur",
+      "contenu": [
+        "Définition",
+        "Le ticket modérateur représente la part des dépenses qui reste à votre charge après remboursement de l'Assurance maladie et avant déduction des participations forfaitaires.",
+        "Le ticket modérateur s'applique à toutes les prestations prises en charge par l'Assurance maladie (exemples : consultation chez un médecin, achat de médicaments prescrits).",
+        "Personnes exonérées",
+        "Dans certaines situations (par exemple en cas d'affection de longue durée - ALD, si vous êtes enceinte, frais liés à une IVG), vous êtes dispensé de payer le ticket modérateur.",
+        "L'Assurance maladie le prend alors en charge à 100 % dans la limite des tarifs conventionnels.",
+        "Montant",
+        "Le montant du ticket modérateur varie selon les prestations (soins, médicaments, appareillage...).",
+        "Par exemple, pour une consultation de votre médecin traitant généraliste, il est égal à 9 €.",
+        "Détail du calcul :",
+        "• Tarif conventionnel : 30 €",
+        "• Prise en charge à 70 % par l'Assurance maladie : 21 €",
+        "• Montant du ticket modérateur : 9 €.",
+        "Majoration",
+        "Le ticket modérateur peut être majoré si vous consultez un professionnel de santé hors parcours de soins coordonnés.",
+        "Par exemple, pour la consultation d'un médecin généraliste hors parcours de soins coordonnés, il est égal à 21 €.",
+        "Détail du calcul :",
+        "• Tarif conventionnel : 30 €",
+        "• Prise en charge à 30 % par l'assurance maladie : 9 €",
+        "• Montant du ticket modérateur :21 €.",
+        "[Rappel] Le ticket modérateur représente la part des dépenses qui reste à votre charge après remboursement de l'Assurance maladie et avant déduction des participations forfaitaires.",
+        "La majoration n'est pas remboursée par les complémentaires de santé dans le cadre d'un contrat responsable.",
+        "Paiement",
+        "Le ticket modérateur est déduit automatiquement du montant de vos remboursements. Il figure en déduction sur les relevés de remboursement.",
+        "[À savoir] Si vous avez une complémentaire santé, elle peut prendre en charge le ticket modérateur selon le contrat que vous avez souscrit. Renseignez-vous auprès de votre organisme complémentaire."
+      ]
+    },
+    {
+      "titre": "Forfait de 32 € pour certains actes lourds",
+      "contenu": [
+        "Prestations concernées ou non",
+        "Pour certains actes médicaux lourds (actes dont le tarif est au moins égal à 120 €), le ticket modérateur est remplacé par une participation forfaitaire.",
+        "Certains actes et certains frais ne sont pas concernés par la participation forfaitaire et sont pris en charge à 100 %. Exemples :",
+        "• Frais d'hospitalisation à partir du 31e jour d'hospitalisation consécutif",
+        "• Frais de transport d'urgence, en cas d'hospitalisation au cours de laquelle est effectué un acte dont le tarif est supérieur ou égal à 120 €.",
+        "Montant",
+        "Le forfait est plafonné à 32 €.",
+        "Il en est de même si plusieurs actes lourds sont effectués au cours d'une même consultation ou hospitalisation.",
+        "Personnes exonérées",
+        "Le forfait ne s'applique pas aux personnes qui bénéficient d'une prise en charge à 100 % en raison de leur situation ou de leur état de santé.",
+        "Il s'agit notamment des personnes suivantes :",
+        "• Personne atteinte d'une affectation de longue durée (ALD) pour les actes, soins et traitements en rapport avec cette ALD et qui sont mentionnés sur le protocole de soins",
+        "• Femme enceinte (du 1er jour du 6e mois de grossesse jusqu'au 12e jour après l'accouchement)",
+        "• Nouveau-né hospitalisé",
+        "• Personne qui touche une rente pour accident du travail ou maladie professionnelle",
+        "• Personne qui touche une pension d'invalidité",
+        "• Personne bénéficiant de la complémentaire santé solidaire",
+        "• Enfants et adolescents victimes de sévices sexuels.",
+        "Paiement",
+        "Vous devez régler directement le forfait dont vous êtes redevable au professionnel de santé ou à l'établissement de santé.",
+        "Si vous avez une complémentaire santé, elle peut prendre en charge le forfait selon le contrat que vous avez souscrit. Renseignez-vous auprès d'elle."
+      ]
+    },
+    {
+      "titre": "Forfait de participation aux urgences non suivie d'une hospitalisation",
+      "contenu": [
+        "Définition",
+        "Cette participation forfaitaire est due à la suite d'un passage aux urgences qui n'est pas suivi d'une hospitalisation en service de médecine, de chirurgie, d'obstétrique ou d'odontologie au sein de l'établissement.",
+        "Montant",
+        "Le montant du forfait est de 23 €.",
+        "Ce forfait est réduit quelque soit le motif du passage à 9,96 € pour les assurés suivants :",
+        "• En affection de longue durée (ALD)",
+        "• Rattachés au régime accidents du travail et maladies professionnelles (AT-MP) avec une incapacité inférieure à 2/3.",
+        "[À savoir] La mutuelle ou la complémentaire santé rembourse intégralement ce forfait.",
+        "Personnes exonérées",
+        "Le forfait ne s'applique pas quel que soit le motif du passage pour les personnes suivantes :",
+        "• Femme enceinte bénéficiant de l’assurance maternité",
+        "• Nouveau-nés de moins d’un mois",
+        "• Personne qui touche une rente ou une allocation versée au titre de la législation des accidents du travail et maladies professionnelles (AT-MP) avec une incapacité au moins égale à 2/3",
+        "• Pensionné miliaire ou pour invalidité.",
+        "Enfin, ce forfait ne s'applique pas pour les personnes suivantes quand leur passage aux urgences est lié à leur situation spécifique :",
+        "• Donneur d'organes",
+        "• Victime d'un acte de terrorisme",
+        "• Victime d'un risque sanitaire grave et exceptionnel",
+        "• Mineur victime de sévices sexuels."
+      ]
+    },
+    {
+      "titre": "Participation forfaitaire de 2 €",
+      "contenu": [
+        "Prestations concernées",
+        "Une participation forfaitaire reste à votre charge à chaque consultation ou acte médical, sauf notamment dans le cadre d'une hospitalisation complète d'une ou plusieurs journées.",
+        "Cette participation s'applique également à tout acte de radiologie ou de biologie médicale.",
+        "Montant",
+        "La participation forfaitaire est de 2 €.",
+        "Le nombre maximum de participations forfaitaires à votre charge au cours d'une année civile est de 25.",
+        "Si au cours de la même journée, vous consultez plusieurs fois le même médecin ou si vous bénéficiez de plusieurs actes effectués par le même professionnel, le nombre de participations forfaitaires supportées ne peut être supérieur à 4, soit 8 € par jour maximum.",
+        "[Exemple] Si un médecin réalise 6 actes différents au cours d'une même consultation, la participation maximale sera de 8 € pour la consultation de ce médecin.",
+        "Personnes exonérées",
+        "La participation forfaitaire de 2 € ne s'applique pas aux personnes suivantes :",
+        "• Mineur",
+        "• Femme enceinte (du 1er jour du 6e mois de grossesse et jusqu'au 12e jour après l'accouchement)",
+        "• Personne qui bénéficie de la complémentaire santé solidaire",
+        "• Bénéficiaire de l'aide médicale de l'État (AME).",
+        "Paiement",
+        "Les participations forfaitaires sont automatiquement déduites du montant de vos remboursements. Elles figurent en déduction sur les relevés de remboursement.",
+        "La participation forfaitaire de 2 € n'est pas remboursée par les complémentaires de santé dans le cadre d'un contrat responsable."
+      ]
+    },
+    {
+      "titre": "Franchises médicales",
+      "contenu": [
+        "Prestations concernées",
+        "Une franchise médicale reste à votre charge pour les frais suivants :",
+        "• Médicaments",
+        "• Actes paramédicaux",
+        "• Transports sanitaires.",
+        "[À noter] La franchise ne concerne pas : • Les boîtes de médicaments achetés sans prescription médicale • Aux actes paramédicaux effectués au cours d'une hospitalisation • Les transports d’urgence (appel du Samu centre 15).",
+        "Montant",
+        "Le montant de la franchise est de :",
+        "• 1 € par boîte de médicaments (ou toute autre unité de conditionnement, par exemple un flacon),",
+        "• 1 € par acte paramédical dans la limite de 4 € par jour,",
+        "• 4 € par transport sanitaire dans la limite de 8 € par jour.",
+        "Le montant de la franchise est plafonné à 50 € par an et par personne.",
+        "Personnes exonérées",
+        "La franchise ne s'applique pas aux personnes suivantes :",
+        "• Mineur",
+        "• Femme enceinte (du 1er jour du 6e mois de grossesse et jusqu'au 12e jour après l'accouchement)",
+        "• Bénéficiaire de la complémentaire santé solidaire",
+        "• Bénéficiaire de l'aide médicale de l'État (AME)",
+        "• Mineure pour la contraception notamment d'urgence",
+        "• Victime du terrorisme pour les frais de santé en rapport avec cet évènement.",
+        "Paiement",
+        "Les franchises médicales sont automatiquement déduites du montant de vos remboursements. Elles figurent en déduction sur les relevés de remboursement.",
+        "Dans la quasi-totalité des cas, les franchises médicales ne sont pas remboursées par les complémentaires de santé dans le cadre d'un contrat responsable."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la sécurité sociale : articles L160-13 à L160-16",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000031669984/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles R160-5 à R160-20",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000031795491/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles D160-4 à D160-13",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000031805900/"
+    },
+    {
+      "titre": "Arrêté du 27 février 2026 relatif aux montants du forfait patient urgences prévu à l'article L160-13 du code de la sécurité sociale",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053594224"
+    },
+    {
+      "titre": "Circulaire CNAMTS n°41/2006 du 7 août 2006 relative à la participation de l'assuré de 18 euros",
+      "url": "https://circulaires.ameli.fr/sites/default/files/directives/cir/2006/CIR-41-2006.PDF"
+    },
+    {
+      "titre": "Circulaire n°DSS/2A/2009/128 du 11 mai 2009 relative au recouvrement de la participation forfaitaire et des franchises",
+      "url": "http://www.circulaires.gouv.fr/pdf/2009/05/cir_25865.pdf"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Santé Info Droits"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Assurance maladie : ticket modérateur",
+      "url": "https://www.ameli.fr/assure/remboursements/reste-charge/ticket-moderateur"
+    },
+    {
+      "titre": "Assurance maladie : forfait de 32 euros",
+      "url": "https://www.ameli.fr/assure/remboursements/reste-charge/forfait-32-euros"
+    },
+    {
+      "titre": "Assurance maladie : participation forfaitaire de 2 euros",
+      "url": "https://www.ameli.fr/assure/remboursements/reste-charge/participation-forfaitaire-2-euros"
+    },
+    {
+      "titre": "Assurance maladie : franchise médicale",
+      "url": "https://www.ameli.fr/assure/remboursements/reste-charge/franchise-medicale"
+    },
+    {
+      "titre": "Le forfait patient urgences (FPU)",
+      "url": "https://www.ameli.fr/assure/remboursements/reste-charge/forfait-patient-urgences-fpu"
+    }
+  ],
+  "slug": "ticket-moderateur-forfait-et-franchises-securite-sociale",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "remboursement-des-soins-par-la-securite-sociale",
+      "titre": "Remboursement des soins par la Sécurité sociale"
+    }
+  ]
+}

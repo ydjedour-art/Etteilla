@@ -1,0 +1,94 @@
+{
+  "id": "F32829",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Impôt sur le revenu - Comment un aidant familial doit-il déclarer ses revenus ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "La déclaration des revenus de l'aidant familial est différente selon qu'il est ou non salarié pour cette activité.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-04-15",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F32829",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Impôt sur le revenu : déclaration et revenus à déclarer",
+    "Impôt sur le revenu - Comment un aidant familial doit-il déclarer ses revenus ?"
+  ],
+  "introduction": "Vous êtes aidant familial et vous interrogez sur votre situation fiscale ? Vous devez déclarer les sommes perçues si cette activité est salariée. Mais si vous êtes simplement aidant familial dédommagé, ces sommes ne sont pas imposables, vous n'avez pas à les déclarer. Nous vous indiquons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Vous êtes un aidant familial si vous venez en aide, à titre non professionnel, à une personne en situation de handicap ou de perte d'autonomie de votre entourage pour les activités de la vie quotidienne.",
+        "Cette aide peut prendre plusieurs formes : soins, accompagnement, démarches administratives, activités domestiques, etc.",
+        "Si vous touchez des revenus du fait de cette activité, les règles fiscales dépendent de votre statut auprès de la personne aidée."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'action sociale et des familles : articles D245-5 à D245-9",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006190068/"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-RSA-CHAMP-10-10-20 relatif à la rémunération versée aux aidants familiaux",
+      "url": "https://bofip.impots.gouv.fr/node/6657"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Impôts : accéder à votre espace Finances publiques",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Déclarer vos revenus en ligne",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Déclaration 2026 des revenus 2025 (papier)",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/2042/declaration-des-revenus",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Déclaration complémentaire 2026 des revenus 2025",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/2042/declaration-des-revenus",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Déclaration complémentaire des revenus des professions non salariées",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/2042/declaration-des-revenus",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Estimer le montant de son impôt sur les revenus de 2025 (déclaration de 2026)",
+      "url": "https://simulateur-ir-ifi.impots.gouv.fr/calcul_impot/2026/",
+      "type": "simulateurNG"
+    }
+  ],
+  "contacts": [
+    "Service d'information des impôts",
+    "Service en charge des impôts (trésorerie, service des impôts...)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Brochure pratique 2026 - Déclaration des revenus de 2025",
+      "url": "https://www.impots.gouv.fr/www2/fichiers/documentation/brochure/ir_2026/accueil.htm"
+    },
+    {
+      "titre": "Site officiel du particulier employeur et du salarié",
+      "url": "https://www.urssaf.fr/accueil/particulier/particulier-employeur.html"
+    }
+  ],
+  "slug": "impot-sur-le-revenu-comment-un-aidant-familial-doit-il-declarer-ses-revenus",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "impot-sur-le-revenu-declaration-et-revenus-a-declarer",
+      "titre": "Impôt sur le revenu : déclaration et revenus à déclarer"
+    }
+  ]
+}

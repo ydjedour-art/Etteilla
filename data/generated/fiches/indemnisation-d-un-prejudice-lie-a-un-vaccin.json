@@ -1,0 +1,84 @@
+{
+  "id": "F13284",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Indemnisation d'un préjudice lié à un vaccin",
+  "theme": "Social - Santé",
+  "description": "En cas de préjudice lié à une vaccination, une procédure d'indemnisation auprès de l'Office national d'indemnisation des accidents médicaux (Oniam) existe.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-23",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F13284",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Préjudice médical",
+    "Indemnisation d'un préjudice lié à un vaccin"
+  ],
+  "introduction": "Vous avez subi un préjudice lié à une vaccination et vous vous interrogez sur la procédure d'indemnisation (Oniam ou Commission de conciliation et d'indemnisation ou tribunal) ? La procédure varie selon le caractère obligatoire ou simplement recommandé de la vaccination ayant entrainé le préjudice. Il existe aussi l'indemnisation des vaccins liés à une mesure sanitaire d'urgence. Nous vous présentons la réglementation à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de la santé publique : articles L3111-1 à L3111-11",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006171171"
+    },
+    {
+      "titre": "Code de la santé publique : articles R3111-27 à R3111-33",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000021973507/"
+    },
+    {
+      "titre": "Code la santé publique : article L3131-4",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006687870/"
+    },
+    {
+      "titre": "Code de la santé publique : articles R3131-1 à R3131-3-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000006190467/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demande d'indemnisation auprès de l'Oniam (préjudice lié à une vaccination obligatoire)",
+      "url": "https://www.oniam.fr/medias/uploads/2022%20form%20MSU/20220111_FOR%20indem%20VO_ok.pdf",
+      "type": "formulaireNG"
+    }
+  ],
+  "contacts": [
+    "Office national d’indemnisation des accidents médicaux (Oniam)",
+    "Maison de justice et du droit"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Site de l'Office national d'indemnisation des accidents médicaux (Oniam)",
+      "url": "http://www.oniam.fr/"
+    },
+    {
+      "titre": "Les vaccins obligatoires",
+      "url": "https://www.ameli.fr/assure/sante/themes/vaccination/vaccins-obligatoires"
+    },
+    {
+      "titre": "Calendrier des vaccinations 2026",
+      "url": "https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/calendrier-vaccinal"
+    },
+    {
+      "titre": "Indemnisation liée à la vaccination contre la variole du singe",
+      "url": "https://www.oniam.fr/accidents-medicaux-indemnis%C3%A9s/vaccination-contre-la-covid-19-1661775024"
+    },
+    {
+      "titre": "Indemnisation liée à la vaccination contre la Covid-19",
+      "url": "https://www.oniam.fr/accidents-medicaux-indemnis%C3%A9s/vaccination-contre-la-covid-19"
+    },
+    {
+      "titre": "Indemnisation liée à la vaccination contre la grippe A (H1N1)",
+      "url": "https://www.oniam.fr/accidents-medicaux-vaccination-grippe-a"
+    }
+  ],
+  "slug": "indemnisation-d-un-prejudice-lie-a-un-vaccin",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "prejudice-medical",
+      "titre": "Préjudice médical"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "id": "F31324",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Fraude à la carte bancaire",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "En cas de fraude à la CB, vous pouvez faire opposition en cas de détournement, vol ou piratage et le signaler : perceval (ou percev@l)",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-02-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31324",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Moyens de paiement",
+    "Fraude à la carte bancaire"
+  ],
+  "introduction": "En consultant vos comptes, vous constatez qu'un paiement suspect a été réalisé avec votre carte bancaire ? Vous devez d'abord faire opposition sur votre carte au plus vite. Il est également conseillé de déclarer la fraude aux forces de l'ordre (police ou gendarmerie). Vous devez ensuite contacter votre banque pour vous faire rembourser la somme concernée. Les règles diffèrent selon que vous êtes victime d'une fraude sur internet ou non.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Fraude à la carte bancaire, que faire ?",
+        "Service Public (DILA)",
+        "Qu'appelle-t-on une fraude à la carte bancaire sur internet ?",
+        "• Plusieurs cas sont possibles. Parmi les plus courants :",
+        "• je remarque sur mon relevé bancaire des achats en ligne dont je ne suis pas à l'origine,",
+        "• j'ai reçu un code de confirmation sur mon téléphone pour un achat que je n'ai pas fait,",
+        "• j'ai été averti par ma banque d'une tentative d'utilisation frauduleuse de ma carte bancaire sur internet.",
+        "Que faire si je suis victime d'une fraude à la carte bancaire sur internet?",
+        "En priorité, je fais opposition à ma carte, auprès de ma banque qui me remettra un numéro d'opposition à conserver pour la suite de la procédure. Ensuite, je signale la fraude sur service-public.fr. A la fin de ce signalement, j'obtiendrai un récépissé, qui facilitera mes démarches de régularisation auprès de ma banque.",
+        "Comment faire ce signalement ?",
+        "Avant de démarrer la démarche en ligne également connue sous le nom de « Perceval », je prépare les informations dont j'ai besoin :",
+        "• mon numéro d'opposition,",
+        "• mon numéro de carte bancaire,",
+        "• et mes relevés bancaires.",
+        "Pour accéder à la démarche en ligne sur service-public, il faut obligatoirement que je m'identifie avec FranceConnect. Pour cela j'utilise un des comptes que j'ai déjà créé auprès des organismes proposés tels que les impôts ou améli. Une fois connecté à la démarche en ligne, je fournis les informations sur les achats effectués à mon insu.",
+        "Ma demande sera traitée par la gendarmerie nationale et je recevrai sous quelques heures un email accusant réception de la déclaration. Le récépissé sera également disponible dans la partie « mes documents » de mon espace personnel service-public.fr.",
+        "Pourquoi signaler une fraude à la carte bancaire ?",
+        "En plus de simplifier mes démarches auprès de ma banque, mon signalement permet de faciliter les enquêtes"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code monétaire et financier : articles L133-6 à L133-8",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000020861629/"
+    },
+    {
+      "titre": "Code monétaire et financier : articles L133-15 à L133-17",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000020861605"
+    },
+    {
+      "titre": "Code monétaire et financier : article L133-18",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000020861595"
+    },
+    {
+      "titre": "Code monétaire et financier : articles L133-19 à L133-20",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000020861593/2009-11-01"
+    },
+    {
+      "titre": "Code monétaire et financier : articles L133-23 à L133-24",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000020861577"
+    },
+    {
+      "titre": "Code monétaire et financier : articles L133-25 à L133-25-2",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000020861571"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Signaler une fraude à la carte bancaire (Perceval)",
+      "url": "https://demarches.service-public.gouv.fr/mademarche/FCB/demarche",
+      "type": "selNG"
+    },
+    {
+      "titre": "Confirmer sa déclaration d'opposition téléphonique à sa carte bancaire",
+      "url": "https://www.inc-conso.fr/content/votre-carte-bancaire-disparu-vous-faites-opposition-aupres-de-votre-banque",
+      "type": "lettreTypeNG"
+    }
+  ],
+  "contacts": [
+    "Banque de France Particuliers"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "La fraude à la carte de paiement",
+      "url": "https://www.economie.gouv.fr/dgccrf/Publications/Vie-pratique/Fiches-pratiques/fraude-a-carte-paiement"
+    },
+    {
+      "titre": "La fraude à la carte bancaire : quelles précautions prendre et comment réagir ?",
+      "url": "https://www.abe-infoservice.fr/banque/moyens-de-paiement/carte-bancaire/la-fraude-la-carte-bancaire-quelles-precautions-prendre-et-comment-reagir"
+    },
+    {
+      "titre": "La carte bancaire",
+      "url": "https://www.inc-conso.fr/content/la-carte-bancaire"
+    }
+  ],
+  "slug": "fraude-a-la-carte-bancaire",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "moyens-de-paiement",
+      "titre": "Moyens de paiement"
+    }
+  ]
+}

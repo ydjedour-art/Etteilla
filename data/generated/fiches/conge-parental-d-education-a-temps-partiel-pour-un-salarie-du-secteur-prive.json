@@ -1,0 +1,81 @@
+{
+  "id": "F2332",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Congé parental d'éducation à temps partiel pour un salarié du secteur privé",
+  "theme": "Travail - Formation",
+  "description": "En cas de naissance ou d'adoption d'un enfant, le salarié ayant un an d'ancienneté minimum peut bénéficier d'un congé parental d'éducation à temps partiel.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-06-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2332",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Congés dans le secteur privé",
+    "Congé parental d'éducation à temps partiel pour un salarié du secteur privé"
+  ],
+  "introduction": "À l'occasion de la naissance ou de l'arrivée au foyer d'un enfant, le salarié peut arrêter de travailler pour s'occuper de son enfant. Dans ce cas, il peut bénéficier d'un congé parental d'éducation à temps partiel, sous conditions d'ancienneté. La durée du congé varie en fonction du nombre d’enfants nés ou adoptés simultanément. Les règles sont différentes pour le salarié d'un particulier employeur. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Le congé parental d’éducation peut également être pris à temps plein."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code du travail : articles L1225-47 à L1225-59",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006195596/"
+    },
+    {
+      "titre": "Code du travail : articles R1225-12 à R1225-13",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000018537796"
+    },
+    {
+      "titre": "Code du travail : articles L1231-1 à L1231-7",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000019071194/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles L311-1 à L311-11",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000031686689"
+    },
+    {
+      "titre": "Code du travail : articles L1231-1 à L1231-7",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000019071194/"
+    },
+    {
+      "titre": "Convention collective nationale des particuliers employeurs et de l'emploi à domicile du 15 mars 2021",
+      "url": "https://www.legifrance.gouv.fr/conv_coll/id/KALITEXT000043941642"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demande initiale de congé parental dans le secteur privé",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/CongeParentalSecteurPrive",
+      "type": "lettreTypeNG"
+    },
+    {
+      "titre": "Modèle de lettre - Demande de prolongation et/ou de transformation du congé parental d’éducation à temps partiel",
+      "url": "https://code.travail.gouv.fr/modeles-de-courriers/demande-de-prolongation-et-ou-de-transformation-du-conge-parental-deducation-a-temps-partiel?src_url=https://www.service-public.gouv.fr/particuliers/vosdroits/F2332",
+      "type": "lettreTypeNG"
+    },
+    {
+      "titre": "Modèle de lettre - Demande de retour anticipé à la suite d’un congé parental d’éducation à temps partiel",
+      "url": "https://code.travail.gouv.fr/modeles-de-courriers/demande-de-retour-anticipe-a-la-suite-dun-conge-parental-deducation-a-temps-partiel?src_url=https://www.service-public.gouv.fr/particuliers/vosdroits/F2332",
+      "type": "lettreTypeNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "conge-parental-d-education-a-temps-partiel-pour-un-salarie-du-secteur-prive",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "conges-dans-le-secteur-prive",
+      "titre": "Congés dans le secteur privé"
+    }
+  ]
+}

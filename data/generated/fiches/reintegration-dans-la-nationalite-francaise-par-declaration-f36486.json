@@ -1,0 +1,33 @@
+{
+  "id": "F36486",
+  "type_publication": "Recherche guidée",
+  "titre": "[Réintégration dans la nationalité française par déclaration]",
+  "theme": "Étranger - Europe",
+  "description": "[Réintégration dans la nationalité française par déclaration]",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2022-07-12",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F36486",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Nationalité française",
+    "[Réintégration dans la nationalité française par déclaration]"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "reintegration-dans-la-nationalite-francaise-par-declaration-f36486",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "nationalite-francaise",
+      "titre": "Nationalité française"
+    }
+  ]
+}

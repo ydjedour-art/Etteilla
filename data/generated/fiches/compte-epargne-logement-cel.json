@@ -1,0 +1,61 @@
+{
+  "id": "F16136",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Compte épargne logement (CEL)",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Il s’agit d’un compte sur lequel votre argent reste disponible et qui vous permet, après 18 mois d'épargne, de demander un prêt immobilier ou un prêt travaux.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-08-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F16136",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Livrets, plans et comptes d'épargne",
+    "Compte épargne logement (CEL)"
+  ],
+  "introduction": "Vous souhaitez épargner dans la souplesse pour acheter un logement ? Le compte épargne logement (CEL) peut vous intéresser. C'est un compte sur lequel votre argent reste disponible et qui vous permet, après 18 mois d'épargne, de demander un prêt immobilier ou un prêt travaux. À la différence du plan d'épargne logement (PEL), l'épargne du CEL est disponible. Les règles diffèrent selon la date d'ouverture du CEL. Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code monétaire et financier : article L312-1-4-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051588993"
+    },
+    {
+      "titre": "Code monétaire et financier : article D312-1-3",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052097695"
+    },
+    {
+      "titre": "Arrêté du 28 juillet 2026 relatif aux taux d'intérêt de certains produits d'épargne réglementée",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054541376"
+    },
+    {
+      "titre": "Arrêté du 27 janvier 2021 relatif aux taux d'intérêt des produits d'épargne réglementée",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000043114027/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Info Banque - Assurance"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Compte épargne logement (CEL)",
+      "url": "https://www.abe-infoservice.fr/epargne/epargne-bancaire/compte-epargne-logement-cel"
+    },
+    {
+      "titre": "Épargne Logement (PEL et CEL)",
+      "url": "https://www.lafinancepourtous.com/pratique/placements/epargne-logement/"
+    }
+  ],
+  "slug": "compte-epargne-logement-cel",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "livrets-plans-et-comptes-d-epargne",
+      "titre": "Livrets, plans et comptes d'épargne"
+    }
+  ]
+}

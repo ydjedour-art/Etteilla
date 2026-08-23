@@ -1,0 +1,97 @@
+{
+  "id": "F22365",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Récépissé d'entrepreneur de spectacles",
+  "theme": "Associations, fondations et fonds de dotation, Secteurs d'activité",
+  "description": "L'entrepreneur de spectacles vivants désigne toute personne qui exerce une activité d'exploitation de lieux de spectacles, de production ou de diffusion de spectacles. Depuis octobre 2019, la licence de spectacle est remplacée par un récépissé de déclaration d'activité d'entrepreneur de spectacles. Selon la situation, ce récépissé peut s'avérer indispensable pour exercer une telle activité.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2024-04-05",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F22365",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Associations, fondations et fonds de dotation",
+    "Organisation d'événements par une association",
+    "Récépissé d'entrepreneur de spectacles"
+  ],
+  "introduction": "L'entrepreneur de spectacles vivants désigne toute personne qui exerce une activité d'exploitation de lieux de spectacles, de production ou de diffusion de spectacles. Depuis octobre 2019, la licence de spectacle est remplacée par un récépissé de déclaration d'activité d'entrepreneur de spectacles. Selon la situation, ce récépissé peut s'avérer indispensable pour exercer une telle activité.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code du travail : articles L7122-1 à L7122-18",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000006189958/#LEGISCTA000038723901"
+    },
+    {
+      "titre": "Code du travail : articles D7122-1 à R7122-28",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039159654"
+    },
+    {
+      "titre": "Arrêté du 27 septembre 2019 fixant la liste des informations requises en vue de l'exercice de l'activité d'entrepreneur de spectacles vivants",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000039147042/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Déclaration d'activité d'entrepreneur de spectacles vivants (en vue d'un récépissé d'entrepreneur de spectacles)",
+      "url": "https://demarche.numerique.gouv.fr/commencer/premiere-demande-licence-esv",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Demande de renouvellement de la déclaration d'activité d'entrepreneur de spectacles vivants (en vue d'un récépissé de licence d’entrepreneur de spectacles)",
+      "url": "https://demarche.numerique.gouv.fr/commencer/renouvellement-licence-esv",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Demande de reconnaissance de titre équivalent à la déclaration d'entrepreneur de spectacles vivants",
+      "url": "https://demarche.numerique.gouv.fr/commencer/licence-esv-eee",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Déclaration d’activité temporaire et occasionnelle en France - Information de prestation de service - Entrepreneur de spectacles vivants établi dans l'Espace économique européen (EEE)",
+      "url": "https://demarche.numerique.gouv.fr/commencer/licence-esv-eee",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Déclaration d’activité temporaire et occasionnelle en France - Information de prestation de service - Entrepreneur de spectacles vivants établi hors de l'Espace économique européen (HEEE)",
+      "url": "https://demarche.numerique.gouv.fr/commencer/licence-esv-heee",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Consultation du répertoire national des certifications professionnelles (RNCP)",
+      "url": "https://www.francecompetences.fr/recherche-resultats/",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Rechercher un entrepreneur de spectacles vivants",
+      "url": "https://annuaire-entreprises.data.gouv.fr/lp/entrepreneur-spectacles-vivants",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "Direction régionale des affaires culturelles (Drac)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Comment obtenir un récépissé : étape par étape",
+      "url": "https://www.culture.gouv.fr/Thematiques/Theatre-spectacles/Pour-les-professionnels/Plateforme-des-entrepreneurs-de-spectacles-vivants-PLATESV/Fiche-5.-Comment-obtenir-le-recepisse-valant-licence-qui-permettra-d-exercer-L-administration-peut-elle-s-y-opposer"
+    },
+    {
+      "titre": "Plateforme des entrepreneurs de spectacles vivants (PLATESV)",
+      "url": "https://www.culture.gouv.fr/Sites-thematiques/Theatre-spectacles/En-pratique/Plateforme-des-entrepreneurs-de-spectacles-vivants-PLATESV"
+    },
+    {
+      "titre": "Fiche explicative d'un contrat de cession d'exploitation d'un spectacle",
+      "url": "https://www.cnd.fr/fr/file/file/58/inline/contrats%20de%20cessionjanv2017.pdf"
+    }
+  ],
+  "slug": "recepisse-d-entrepreneur-de-spectacles",
+  "path": [
+    {
+      "slug": "associations-fondations-et-fonds-de-dotation",
+      "titre": "Associations, fondations et fonds de dotation"
+    },
+    {
+      "slug": "organisation-d-evenements-par-une-association",
+      "titre": "Organisation d'événements par une association"
+    }
+  ]
+}

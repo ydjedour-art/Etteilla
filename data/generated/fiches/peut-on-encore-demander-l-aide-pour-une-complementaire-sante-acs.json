@@ -1,0 +1,42 @@
+{
+  "id": "F13375",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Peut-on encore demander l'aide pour une complémentaire santé (ACS) ?",
+  "theme": "Social - Santé",
+  "description": "Il n'est plus possible de demander l'aide pour une complémentaire santé (ACS). Elle a été remplacée par la complémentaire santé solidaire (CSS).",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-03-04",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F13375",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Complémentaire santé (mutuelle) et complémentaire santé solidaire",
+    "Peut-on encore demander l'aide pour une complémentaire santé (ACS) ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Non, vous ne pouvez plus demander ce qui s'appelait l'aide pour une complémentaire santé (ACS).",
+        "L'ACS était une aide financière attribuée sous conditions de résidence et de ressources pour payer une complémentaire santé (mutuelle).",
+        "Aujourd'hui, si vos ressources sont modestes, l’Assurance maladie peut vous aider pour vos dépenses de santé avec la complémentaire santé solidaire (C2S)."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "peut-on-encore-demander-l-aide-pour-une-complementaire-sante-acs",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "complementaire-sante-mutuelle-et-complementaire-sante-solidaire",
+      "titre": "Complémentaire santé (mutuelle) et complémentaire santé solidaire"
+    }
+  ]
+}

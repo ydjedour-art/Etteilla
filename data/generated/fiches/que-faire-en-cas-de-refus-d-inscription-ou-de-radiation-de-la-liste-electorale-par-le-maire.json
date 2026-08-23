@@ -1,0 +1,67 @@
+{
+  "id": "F34809",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Que faire en cas de refus d'inscription ou de radiation de la liste électorale par le maire ?",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Des recours existent en cas de refus d'inscription ou de radiation des listes électorales de votre commune.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2024-04-30",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34809",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Élections",
+    "Que faire en cas de refus d'inscription ou de radiation de la liste électorale par le maire ?"
+  ],
+  "introduction": "Si vous n'êtes pas inscrit sur la liste électorale de votre commune alors que vous avez déposé votre demande à temps, ou si vous avez été radié des listes électorales de votre commune, des recours existent. Ces recours sont différents si une lettre vous a informé du refus de votre inscription (ou de votre radiation) ou aucune lettre ne vous a été adressée. Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code électoral : articles L16 à L29",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006164052/"
+    },
+    {
+      "titre": "Code électoral : articles R17 à R19-6",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000036912128/"
+    },
+    {
+      "titre": "Instruction INTA1830120J du 21 novembre 2018 relative à la tenue des listes électorales et des listes électorales complémentaires",
+      "url": "https://www.legifrance.gouv.fr/download/pdf/circ?id=44101"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Vérifier votre inscription électorale et votre bureau de vote",
+      "url": "https://situation.elections.interieur.gouv.fr/",
+      "type": "selNG"
+    },
+    {
+      "titre": "Nouvelle-Calédonie : vérifier son inscription sur la liste électorale et son bureau de vote",
+      "url": "https://electeur-nc.fr/",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Liste électorale : saisir le juge en cas d'omission ou de radiation par la commission administrative",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_15878.do",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "La Cour de cassation",
+      "url": "https://www.courdecassation.fr/la-cour"
+    }
+  ],
+  "slug": "que-faire-en-cas-de-refus-d-inscription-ou-de-radiation-de-la-liste-electorale-par-le-maire",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "elections",
+      "titre": "Élections"
+    }
+  ]
+}

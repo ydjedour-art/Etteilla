@@ -1,0 +1,55 @@
+{
+  "id": "F31674",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Doit-on remplacer son permis de conduire « rose 3 volets » par un nouveau modèle ?",
+  "theme": "Transports - Mobilité",
+  "description": "Votre permis de conduire rose 3volets reste valable jusqu'au 19 janvier 2033. Toutefois, vous pouvez déjà demander son remplacement.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-02-02",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31674",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Permis de conduire",
+    "Doit-on remplacer son permis de conduire « rose 3 volets » par un nouveau modèle ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Le permis de conduire dans son format « rose 3 volets » est valable jusqu'au 19 janvier 2033. Toutefois, vous pouvez déjà demander son remplacement par un permis de conduire au format « carte de crédit ».",
+        "La demande se fait en ligne sur le site de France Titres - ANTS (la démarche est gratuite excepté les frais de photo d'identité) :",
+        "Demander en ligne le remplacement du permis de conduire au format « pliant rose 3 volets » par un permis au format « carte de crédit »",
+        "[À noter] Vous pouvez importer votre permis de conduire dans l'application France identité numérique quel que soit son format, « rose 3 volets » ou « carte de crédit ». Le permis de conduire numérique est accepté lors d’un contrôle routier par les forces de sécurité intérieure (police, gendarmerie)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Arrêté du 20 avril 2012 fixant les conditions d'établissement, de délivrance et de validité du permis de conduire",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000025803494/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "France Titres - Permis de conduire"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Charger son permis de conduire numérique sur son téléphone",
+      "url": "https://permisdeconduire.ants.gouv.fr/demarches-en-ligne/obtenir-son-permis-numerique"
+    }
+  ],
+  "slug": "doit-on-remplacer-son-permis-de-conduire-rose-3-volets-par-un-nouveau-modele",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "permis-de-conduire",
+      "titre": "Permis de conduire"
+    }
+  ]
+}

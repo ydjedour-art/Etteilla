@@ -1,0 +1,221 @@
+{
+  "id": "F32600",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Qui peut être trésorier d'une association ?",
+  "theme": "Associations, fondations et fonds de dotation",
+  "description": "Les fonctions de trésorier d'une association peuvent être incompatibles avec d'autres fonctions ou soumises à certaines conditions.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-06-09",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F32600",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Associations, fondations et fonds de dotation",
+    "Création d'une association",
+    "Qui peut être trésorier d'une association ?"
+  ],
+  "introduction": "Le trésorier d’une association est chargé de la gestion financière de l’association. En principe, toute personne peut être trésorier d’une association. Toutefois, certaines situations peuvent limiter ou interdire l’exercice de cette fonction. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "La désignation d’un trésorier est-elle obligatoire ?",
+      "contenu": [
+        "La désignation d’un trésorier est obligatoire uniquement si les statuts ou un texte particulier l’imposent.",
+        "Certaines associations soumises à une réglementation spécifique (par exemple, associations agréées, fédérations sportives ou structures percevant certaines subventions) peuvent être obligées de désigner un trésorier.",
+        "Une association peut fonctionner sans trésorier si ses statuts ne prévoient pas cette fonction."
+      ]
+    },
+    {
+      "titre": "Un mineur peut-il être trésorier d’une association ?",
+      "contenu": [
+        "Vous êtes mineur",
+        "Vous avez moins de 16 ans",
+        "Un mineur de moins de 16 ans peut être trésorier d'une association. Mais il doit avoir l'accord écrit préalable de l'un de ses parents (ou de la personne qui est responsable de lui).",
+        "Toutefois, il ne peut pas accomplir les actes de disposition.",
+        "Vous avez 16 ou 17 ans",
+        "Un mineur de 16 ou 17 ans peut être trésorier. Mais il doit communiquer à l'association l'identité et l'adresse de ses parents (ou de la personne qui est responsable de lui) pour que l'association les informe de l'engagement de leur enfant.",
+        "Cette démarche doit être effectuée par lettre recommandée avec AR.",
+        "Cette information doit être effectuée sans délai et au plus tard avant les événements suivants :",
+        "• Avant la déclaration en préfecture de la création de l'association",
+        "• Avant la déclaration en préfecture du changement dans la direction de l'association impliquant l'enfant",
+        "• Avant le 1er acte d'administration effectué par l'enfant.",
+        "Le courrier doit comporter les informations suivantes :",
+        "• Titre, objet et siège social de l'association",
+        "• Date de début, durée et nature du mandat",
+        "• Type d'actes de gestion que le mineur peut réaliser",
+        "• Possibilité pour les parents de s'opposer à la participation de leur enfant au sein de l’association.",
+        "Le courrier doit également informer les représentants légaux (parents, tuteur...) que les documents suivants sont à leur disposition au siège social de l'association s'ils le demandent :",
+        "• Statuts en vigueur et liste des autres personnes chargées de la direction",
+        "• Témoin de parution au JOAFE de la déclaration de l'association",
+        "• Budget prévisionnel de l'exercice en cours",
+        "• États financiers approuvés du dernier exercice clos ou comptes annuels si l'association est obligée d'en établir",
+        "• Rapport d'activités du dernier exercice clos.",
+        "Un modèle est disponible :",
+        "Modèle de courrier d'information aux parents d'un mineur d'au moins 16 ans trésorier d'une association",
+        "[Attention] Le mineur de 16 ou 17 ans ne peut pas accomplir les actes de disposition."
+      ]
+    },
+    {
+      "titre": "Une personne sous mesure de protection juridique peut-il être trésorier d’une association ?",
+      "contenu": [
+        "Cela dépend de la mesure de protection concernée :",
+        "Personne sous tutelle",
+        "Une personne placée sous tutelle ne peut pas être trésorier d'une association. Elle n'a pas la capacité juridique de gérer de manière autonome son patrimoine, ce qui inclut la gestion des finances d’une association.",
+        "Personne sous curatelle",
+        "La curatelle ne prive pas la personne de l'exercice de ses droits. Toutefois, selon l'étendue de la mesure de protection, l'assistance du curateur peut être nécessaire pour certains actes importants.",
+        "Il est recommandé de vérifier si le jugement de curatelle prévoit des restrictions particulières incompatibles avec l'exercice des fonctions de trésorier.",
+        "Personne sous sauvegarde de justice",
+        "Une personne placée sous sauvegarde de justice peut, en principe, être trésorier d'une association.",
+        "La sauvegarde de justice est une mesure de protection temporaire qui permet à la personne de conserver l'exercice de ses droits.",
+        "Toutefois, certains actes accomplis pendant la mesure peuvent être contestés ou remis en cause s'ils sont contraires à ses intérêts."
+      ]
+    },
+    {
+      "titre": "Une personne faisant l’objet d’une interdiction bancaire peut-elle être trésorier d’une association ?",
+      "contenu": [
+        "En principe, un particulier interdit bancaire peut être trésorier d'une association. Il a la possibilité d'agir comme mandataire de l'association, et non en son nom propre. Ainsi, il a la possibilité de gérer le compte dont l'association est titulaire et non son compte personnel.",
+        "L'interdiction d'émettre des chèques est une sanction personnelle (c'est-à-dire qui concerne la personne physique). Elle ne s'applique pas à la personne morale (l'association) dont la personne physique gère les compte en vertu d'un mandat.",
+        "Toutefois, en pratique, la banque auprès de laquelle l'association ouvre son compte peut refuser de fournir des moyens de paiements au trésorier mandataire s'il est interdit bancaire (voire clôturer le compte)."
+      ]
+    },
+    {
+      "titre": "Une personne faisant l’objet d’une interdiction de gérer peut-elle être trésorier d’une association ?",
+      "contenu": [
+        "Un particulier, qui fait l'objet d'une interdiction de gérer une personne morale ou dont la faillite personnelle a été prononcée par le tribunal, n'a pas le droit d'être trésorier d'une association.",
+        "[À noter] Le non-respect de cette interdiction peut être puni d'une peine de prison de 2 ans maximum et d'une amende pouvant aller jusqu'à 375 000 €."
+      ]
+    },
+    {
+      "titre": "Un agent public peut-il être trésorier d’une association ?",
+      "contenu": [
+        "Un fonctionnaire ou un agent contractuel peut être trésorier bénévole d’une association à but non lucratif, à titre accessoire à son activité principale dans la fonction publique, si les 2 conditions suivantes sont remplies :",
+        "• Cette activité accessoire de trésorier bénévole ne porte pas atteinte aux intérêts du service public (bon fonctionnement, indépendance, neutralité,...)",
+        "• Cette activité ne place pas l’agent dans une situation de conflit d’intérêts."
+      ]
+    },
+    {
+      "titre": "Un commissaire aux comptes peut-il être trésorier d’une association ?",
+      "contenu": [
+        "Un commissaire aux comptes, qui contrôle ou qui a contrôlé une association, ne peut pas en devenir le trésorier."
+      ]
+    },
+    {
+      "titre": "Un militaire peut-il être trésorier d’une association ?",
+      "contenu": [
+        "Un militaire en activité peut être trésorier bénévole d'une association à but non lucratif, à titre accessoire à son activité principale dans l'armée, si les 2 conditions suivantes sont remplies :",
+        "• Cette activité accessoire de trésorier bénévole ne porte pas atteinte aux intérêts du service public (bon fonctionnement, indépendance, neutralité,...)",
+        "• Cette activité est compatible avec les obligations propres aux militaires (loyalisme, neutralité, discrétion,...)."
+      ]
+    },
+    {
+      "titre": "Un magistrat peut-il être trésorier d’une association ?",
+      "contenu": [
+        "Oui, un magistrat peut exercer bénévolement des fonctions de trésorier dans une association à but non lucratif. Toutefois, cette activité ne doit pas :",
+        "• porter atteinte à l’indépendance ou à l’impartialité de la justice,",
+        "• créer une situation de conflit d’intérêts,",
+        "• ou compromettre l’exercice de ses fonctions."
+      ]
+    },
+    {
+      "titre": "Un élu local peut-il être trésorier d’une association ?",
+      "contenu": [
+        "Oui, un élu local peut être trésorier d’une association. Toutefois, il doit respecter les règles concernant les conflits d’intérêts et ne pas participer aux décisions concernant une association qu’il dirige ou administre."
+      ]
+    },
+    {
+      "titre": "Un député ou un sénateur peut-il être trésorier d’une association ?",
+      "contenu": [
+        "Un député ou un sénateur ne peut pas être trésorier d'une association présentant les caractéristiques suivantes :",
+        "• Association bénéficiant, sous forme de garanties d'intérêts ou de subventions, d'avantages de la part de l’État ou d'une collectivité publique sauf si ces avantages découlent de l'application de la loi",
+        "• Association dont l'activité consiste principalement à fournir des prestations de conseil aux entreprises."
+      ]
+    },
+    {
+      "titre": "Faut-il déclarer un changement de trésorier d’une association ?",
+      "contenu": [
+        "Le changement de trésorier peut être déclaré au greffe des associations.",
+        "Cette déclaration n’est pas obligatoire. Toutefois, les statuts de l’association peuvent le prévoir.",
+        "Il faut savoir que cette démarche peut être utile notamment pour :",
+        "• mettre à jour les informations de l’association,",
+        "• effectuer certaines démarches bancaires,",
+        "• ou répondre aux demandes d’un organisme financeur."
+      ]
+    },
+    {
+      "titre": "Le trésorier d’une association engage-t-il sa responsabilité ?",
+      "contenu": [
+        "Le trésorier peut voir sa responsabilité civile ou pénale engagée en cas de faute de gestion, de fraude ou de non-respect des obligations légales et statutaires.",
+        "Sa responsabilité peut notamment être engagée dans les cas suivants :",
+        "• Détournement de fonds,",
+        "• Faux documents comptables,",
+        "• Mauvaise gestion ayant causé un préjudice à l’association."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Loi du 1er juillet 1901 relative au contrat d'association",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006069570/"
+    },
+    {
+      "titre": "Code général de la fonction publique : article L121-3",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044427909/"
+    },
+    {
+      "titre": "Code de commerce : article L653-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006239242/"
+    },
+    {
+      "titre": "Code de commerce : article L 653-8",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031013446/"
+    },
+    {
+      "titre": "Code de commerce : articles L654-8 à L654-15",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000005634379/LEGISCTA000006161374/#LEGISCTA000006161374"
+    },
+    {
+      "titre": "Code de commerce : article L822-11",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038586697/"
+    },
+    {
+      "titre": "Code électoral : article LO146",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035586121/"
+    },
+    {
+      "titre": "Code électoral : article LO297",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006353720/"
+    },
+    {
+      "titre": "Code général de la fonction publique : article R123-7",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050546371"
+    },
+    {
+      "titre": "Code de la défense : article R4122-27",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000021631808"
+    },
+    {
+      "titre": "Décret n°2017-1057 du 9 mai 2017 relatif à l'information des représentants légaux du mineur participant à la constitution ou à l'administration d'une association",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000034679922/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Modèle de courrier d'information aux parents d'un mineur d'au moins 16 ans trésorier d'une association",
+      "url": "https://www.associations.gouv.fr/IMG/doc/courrier_type_info_parents.doc",
+      "type": "Modèle de document"
+    }
+  ],
+  "contacts": [
+    "Point ressource à la vie associative"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "qui-peut-etre-tresorier-d-une-association",
+  "path": [
+    {
+      "slug": "associations-fondations-et-fonds-de-dotation",
+      "titre": "Associations, fondations et fonds de dotation"
+    },
+    {
+      "slug": "creation-d-une-association",
+      "titre": "Création d'une association"
+    }
+  ]
+}

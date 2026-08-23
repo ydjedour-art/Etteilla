@@ -1,0 +1,52 @@
+{
+  "id": "F18675",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quelle est la durée de validité d'un Cesu préfinancé ?",
+  "theme": "Travail - Formation",
+  "description": "La durée de validité du Cesu préfinancé est la durée pendant laquelle le particulier peut l'utiliser en paiement de services à la personne.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-02-24",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F18675",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Particulier employeur : aide à domicile (services à la personne)",
+    "Quelle est la durée de validité d'un Cesu préfinancé ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Le Cesu préfinancé est un titre de paiement dont la date de validité est indiquée sur le titre.",
+        "Si la date ne figure pas sur le titre, le Cesu est valable jusqu'au 31 janvier suivant l'année d'émission. Par exemple : un titre Cesu émis en 2026 est valable jusqu'au 31 janvier 2027."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [
+    "Urssaf service Cesu"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Titres Cesu préfinancés",
+      "url": "https://www.cr-cesu.fr/Les-titres-CESU-Home/les-titres-cesu.html"
+    },
+    {
+      "titre": "Site du Cesu",
+      "url": "https://www.cesu.urssaf.fr/info/accueil.html"
+    }
+  ],
+  "slug": "quelle-est-la-duree-de-validite-d-un-cesu-prefinance",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "particulier-employeur-aide-a-domicile-services-a-la-personne",
+      "titre": "Particulier employeur : aide à domicile (services à la personne)"
+    }
+  ]
+}

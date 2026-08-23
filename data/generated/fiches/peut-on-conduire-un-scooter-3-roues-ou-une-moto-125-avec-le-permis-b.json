@@ -1,0 +1,99 @@
+{
+  "id": "F45",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Peut-on conduire un scooter 3 roues ou une moto 125 avec le permis B ?",
+  "theme": "Transports - Mobilité",
+  "description": "Le permis B permet de conduite une moto légère 125 ou un scooter 3 roues sous conditions.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-02-19",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F45",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Permis de conduire",
+    "Peut-on conduire un scooter 3 roues ou une moto 125 avec le permis B ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Le permis B permet de conduite une moto légère 125 ou un scooter 3 roues de la catégorie L5e sous conditions."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Directive 2006/126 du 20 décembre 2006 relative au permis de conduire",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02006L0126-20201101"
+    },
+    {
+      "titre": "Code de la route : articles R221-4 à R221-8",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074228/LEGISCTA000032465124"
+    },
+    {
+      "titre": "Code de la route : articles R233-1 à R233-3",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074228/LEGISCTA000006159569"
+    },
+    {
+      "titre": "Code de la route : articles R311-1 à D311-4",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074228/LEGISCTA000006159577"
+    },
+    {
+      "titre": "Arrêté du 19 décembre 2023 relatif au livret d'apprentissage numérique des formations au permis de conduire modifiant plusieurs arrêtés ministériels",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000048669153"
+    },
+    {
+      "titre": "Arrêté du 20 avril 2012 fixant les conditions d'établissement, de délivrance et de validité du permis de conduire",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000025803494/"
+    },
+    {
+      "titre": "Arrêté du 17 décembre 2010 relatif aux conditions requises pour la conduite des motocyclettes légères et des véhicules de la catégorie L5e par les titulaires de la catégorie B du permis de conduire",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000023278404"
+    },
+    {
+      "titre": "Réponse ministérielle du 18 novembre 2020 relative à la validité à l'étranger de l'attestation de suivi de formation à la conduite des motocyclettes légères et des véhicules de la catégorie L5e",
+      "url": "http://questions.assemblee-nationale.fr/q15/15-26805QE.htm"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Trouver une auto-école labellisée près de chez soi",
+      "url": "https://autoecoles.securite-routiere.gouv.fr/#/",
+      "type": "outilRechercheNG"
+    },
+    {
+      "titre": "Consulter et télécharger les informations du permis de conduire : solde de points, relevé intégral, attestation de droit à conduire sécurisée...",
+      "url": "https://mespoints.permisdeconduire.gouv.fr",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "France Titres - Permis de conduire"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "École de conduite labellisée",
+      "url": "https://www.securite-routiere.gouv.fr/passer-son-permis-de-conduire/inscription-et-formation/inscription-dans-une-ecole-de-conduite/les"
+    },
+    {
+      "titre": "Programme de la formation de 7 heures (moto/scooter 3 roues avec le permis B)",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000045021081"
+    },
+    {
+      "titre": "Site de la sécurité routière",
+      "url": "http://www.securite-routiere.gouv.fr"
+    }
+  ],
+  "slug": "peut-on-conduire-un-scooter-3-roues-ou-une-moto-125-avec-le-permis-b",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "permis-de-conduire",
+      "titre": "Permis de conduire"
+    }
+  ]
+}

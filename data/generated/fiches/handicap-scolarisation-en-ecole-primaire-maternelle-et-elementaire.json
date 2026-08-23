@@ -1,0 +1,61 @@
+{
+  "id": "F14984",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Handicap : scolarisation en école primaire (maternelle et élémentaire)",
+  "theme": "Famille - Scolarité",
+  "description": "Un enfant en situation de handicap doit être inscrit dans l'école de son secteur ou dans une autre école en demandant une dérogation.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2024-11-19",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F14984",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "École et handicap",
+    "Handicap : scolarisation en école primaire (maternelle et élémentaire)"
+  ],
+  "introduction": "Votre enfant qui est en situation de handicap va entrer à l'école primaire (maternelle ou élémentaire) et vous vous demandez comment l'inscrire dans son futur établissement ? Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de l'éducation : articles L131-1 à L131-13",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006166564"
+    },
+    {
+      "titre": "Code de l'éducation : articles D351-3 à D351-9",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006182560"
+    },
+    {
+      "titre": "Code de l'éducation : articles L351-1 à L351-4",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006166743/"
+    },
+    {
+      "titre": "Réponse ministérielle du 14 janvier 2020 relative à l'enseignement des personnes en situation de handicap",
+      "url": "http://questions.assemblee-nationale.fr/q15/15-21813QE.htm"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Aide - Handicap - École"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Brochure \"Mieux connaître les handicaps, adapter son comportement\"",
+      "url": "https://cache.media.education.gouv.fr/file/Handicapes/90/7/Brochure_mieux_connaitre_et_comportements_216907.pdf"
+    },
+    {
+      "titre": "La scolarisation des élèves en situation de handicap",
+      "url": "https://www.education.gouv.fr/la-scolarisation-des-eleves-en-situation-de-handicap-textes-de-reference-et-rapports-7358"
+    }
+  ],
+  "slug": "handicap-scolarisation-en-ecole-primaire-maternelle-et-elementaire",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "ecole-et-handicap",
+      "titre": "École et handicap"
+    }
+  ]
+}

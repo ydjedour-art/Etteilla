@@ -1,0 +1,116 @@
+{
+  "id": "F18090",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Compte personnel de formation (CPF) dans la fonction publique d'État (FPE)",
+  "theme": "Travail - Formation",
+  "description": "Les agents (titulaires ou non) de la fonction publique de l'État (FPE) ont un crédit annuel d'heures de formation, appelé compte personnel de formation (CPF).",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-08-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F18090",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Formation professionnelle dans la fonction publique",
+    "Compte personnel de formation (CPF) dans la fonction publique d'État (FPE)"
+  ],
+  "introduction": "Vous vous demandez ce qu'est le compte personnel de formation (CPF) ? C'est un crédit annuel d'heures de formation mobilisable à votre initiative. Il permet d'accomplir des formations visant l'acquisition d'un diplôme, d'un titre ou d'un certificat de qualification professionnelle. Il peut aussi avoir pour objet le développement de compétences dans le cadre d'un projet d'évolution professionnelle. Nous vous exposons les règles à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code général de la fonction publique : article L115-4",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044427923/"
+    },
+    {
+      "titre": "Code général de la fonction publique : articles L422-8 à L422-19",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044422326/"
+    },
+    {
+      "titre": "Code général de la fonction publique : articles R422-82 à R422-107",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000054076681/2026-08-01"
+    },
+    {
+      "titre": "Arrêté du 20 avril 2018 fixant les modalités de mise en œuvre du compte personnel de formation dans les services du Premier ministre",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000036940075"
+    },
+    {
+      "titre": "Arrêté du 24 juin 2020 relatif au plafond de prise en charge des frais pédagogiques se rattachant aux formations suivies au titre du compte personnel de formation au sein du ministère des armées",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042070935"
+    },
+    {
+      "titre": "Arrêté du 4 mai 2018 portant fixation du plafond de prise en charge du compte personnel de formation",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000036896846/"
+    },
+    {
+      "titre": "Arrêté du 14 mai 2018 portant fixation du plafond de prise en charge des frais pédagogiques exposés au titre du compte personnel de formation",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000036926137"
+    },
+    {
+      "titre": "Arrêté du 15 mai 2018 portant fixation du plafond de prise en charge du compte personnel de formation",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000036936987"
+    },
+    {
+      "titre": "Arrêté du 17 mai 2018 relatif à la prise en charge des frais pédagogiques au titre du compte personnel de formation pour les agents publics des ministères économiques et financiers",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000036927303"
+    },
+    {
+      "titre": "Arrêté du 18 mai 2018 portant fixation du plafond de prise en charge du compte personnel de formation",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000037181695"
+    },
+    {
+      "titre": "Arrêté du 13 septembre 2018 portant fixation du plafond de prise en charge du compte personnel de formation à la direction générale de l'aviation civile",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000037458086"
+    },
+    {
+      "titre": "Arrêté du 21 novembre 2018 portant fixation des plafonds de prise en charge des frais liés au compte personnel de formation dans les services et établissements du ministère de l'éducation nationale",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000037833293"
+    },
+    {
+      "titre": "Arrêté du 17 décembre 2018 portant fixation du plafond de prise en charge du compte personnel de formation",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000037847946"
+    },
+    {
+      "titre": "Arrêté du 31 janvier 2019 portant fixation du plafond de prise en charge du compte personnel de formation",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000038104054"
+    },
+    {
+      "titre": "Arrêté du 1er octobre 2020 lié à la prise en charge des frais pédagogiques pour le CPF pour les membres du Conseil d'Etat, les magistrats des TA et CAA et les agents du Conseil d'Etat et de la CNDA",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGIARTI000042394637/"
+    },
+    {
+      "titre": "Circulaire du 10 mai 2017 relative aux modalités de mise en œuvre du compte personnel d'activité dans la fonction publique",
+      "url": "https://www.legifrance.gouv.fr/download/file/pdf/cir_42191/CIRC"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Mon compte formation",
+      "url": "https://www.moncompteformation.gouv.fr/espace-prive/html/#/",
+      "type": "selNG"
+    },
+    {
+      "titre": "Rechercher une formation dans la fonction publique d'État",
+      "url": "https://www.safire.fonction-publique.gouv.fr/",
+      "type": "outilRechercheNG"
+    },
+    {
+      "titre": "Consultation du répertoire national des certifications professionnelles (RNCP)",
+      "url": "https://www.francecompetences.fr/recherche-resultats/",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "Aide aux utilisateurs du site Mon compte formation"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "compte-personnel-de-formation-cpf-dans-la-fonction-publique-d-etat-fpe",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "formation-professionnelle-dans-la-fonction-publique",
+      "titre": "Formation professionnelle dans la fonction publique"
+    }
+  ]
+}

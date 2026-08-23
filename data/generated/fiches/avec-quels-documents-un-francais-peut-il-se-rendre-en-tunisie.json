@@ -1,0 +1,58 @@
+{
+  "id": "F14876",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Avec quels documents un Français peut-il se rendre en Tunisie ?",
+  "theme": "Étranger - Europe",
+  "description": "En tant que Français, pour tout séjour en Tunisie, inférieur à 90 jours, vous n'avez pas besoin de visa. Cependant, un passeport valide est obligatoire.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-01-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F14876",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Voyager à l'étranger",
+    "Avec quels documents un Français peut-il se rendre en Tunisie ?"
+  ],
+  "introduction": "Vous souhaitez séjourner en Tunisie pour les vacances ou pour un voyage d'affaire, Vous voulez savoir quels sont les documents nécessaires pour entrer sur le territoire tunisien ? Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les conditions d'entrée en Tunisie sont différentes si vous êtes français ou si vous avez la double nationalité franco-tunisienne.",
+        "Si vous voyagez avec votre enfant ou s'il voyage seul, des documents supplémentaires vous seront demandés."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [
+    {
+      "titre": "Ariane : pour être alerté en cas de crise lors d'un voyage à l'étranger",
+      "url": "https://fildariane.diplomatie.gouv.fr/fildariane-internet/accueil",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "Ambassade et consulats de Tunisie en France"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Conditions d'entrée et de séjour en Tunisie",
+      "url": "http://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays/tunisie/"
+    },
+    {
+      "titre": "Conseils aux voyageurs",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs"
+    }
+  ],
+  "slug": "avec-quels-documents-un-francais-peut-il-se-rendre-en-tunisie",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "voyager-a-l-etranger",
+      "titre": "Voyager à l'étranger"
+    }
+  ]
+}

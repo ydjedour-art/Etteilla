@@ -1,0 +1,126 @@
+{
+  "id": "F24570",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Cantine scolaire à l'école primaire (maternelle et élémentaire)",
+  "theme": "Famille - Scolarité",
+  "description": "La commune est responsable de la restauration scolaire à l'école primaire.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-05-20",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F24570",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "École primaire (maternelle et élémentaire)",
+    "Cantine scolaire à l'école primaire (maternelle et élémentaire)"
+  ],
+  "introduction": "Votre enfant prend son repas à la cantine de son école et vous vous posez des questions sur l'organisation de ce service ? La commune est responsable de la restauration scolaire à l'école primaire. Conditions de fréquentation, tarif, déroulement et composition d'un repas : voici les règles à connaître.",
+  "chapitres": [
+    {
+      "titre": "Le service de restauration scolaire à l'école primaire est-il obligatoire ?",
+      "contenu": [
+        "Non, la commune n'est pas obligée de mettre en place la restauration scolaire dans les écoles primaires."
+      ]
+    },
+    {
+      "titre": "Quelles sont les conditions d'accès à la cantine de l'école primaire ?",
+      "contenu": [
+        "Lorsque le service de restauration scolaire existe, vous pouvez y inscrire votre enfant. C'est un droit pour tous les enfants scolarisés.",
+        "La commune doit préciser les conditions d'accès à la restauration scolaire. Toutefois, votre situation sociale ne doit pas faire obstacle à l'inscription de votre enfant. Par exemple, il est illégal de réserver l'accès à la cantine scolaire aux enfants dont les parents travaillent."
+      ]
+    },
+    {
+      "titre": "Quel est le tarif d'un repas à la cantine de l'école primaire ?",
+      "contenu": [
+        "Les tarifs de la cantine scolaire à l'école primaire sont fixés par la commune.",
+        "La commune peut appliquer au tarif le quotient familial. Cela permet d'adapter le prix du repas à vos revenus et charges.",
+        "Dans certaines communes, vous pouvez bénéficier d'aides pour payer les frais de cantine. Renseignez-vous auprès de votre mairie.",
+        "Mairie",
+        "Dans certains départements, si votre enfant est scolarisé dans une école élémentaire éloignée de votre domicile et qu'il doit rester à la cantine, vous pouvez bénéficier d'une aide. Renseignez-vous auprès du directeur d'école en début d'année scolaire."
+      ]
+    },
+    {
+      "titre": "Quelle est la durée d'un repas à la cantine de l'école primaire ?",
+      "contenu": [
+        "Le repas doit durer au moins 30 minutes, sans compter l'attente éventuelle du service."
+      ]
+    },
+    {
+      "titre": "Quelle est la composition d'un repas à la cantine de l'école primaire ?",
+      "contenu": [
+        "Les menus doivent respecter un équilibre nutritionnel. La taille des portions est adaptée au type de plat et à la classe d'âge de votre enfant.",
+        "Le repas servi en cantine scolaire comporte les éléments suivants :",
+        "• 1 plat principal",
+        "• 1 garniture",
+        "• 1 produit laitier",
+        "• 1 entrée et/ou 1 dessert.",
+        "[À noter] Les repas doivent être composés de 50 % de produits durables de qualité (dont 20 % de bio).",
+        "L'eau et le pain doivent être disponibles en libre accès.",
+        "Le sel et les sauces sont servis en fonction des plats. Ils ne sont pas librement accessibles.",
+        "La commune est responsable de la composition des menus.",
+        "Les menus de l'école sont généralement consultables sur le site internet de la ville.",
+        "Mairie",
+        "Selon la commune, les repas sont préparés sur place, en cuisine centrale ou par une entreprise de restauration collective.",
+        "[À savoir] La collation matinale à l'école n'est pas obligatoire."
+      ]
+    },
+    {
+      "titre": "Allergie alimentaire et fréquentation de la cantine à l'école primaire : quelles possibilités ?",
+      "contenu": [
+        "Si votre enfant a un régime alimentaire spécifique en raison de son état de santé, l'établissement scolaire peut proposer des menus adaptés. Pour cela, un projet d'accueil individualisé (PAI) peut être mis en place.",
+        "Vous pouvez également préparer des paniers-repas à votre enfant. Vous êtes alors responsable de la fourniture du repas, du conditionnement et du transport. Votre enfant consommera son panier-repas à la cantine."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'éducation : article L131-13",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033956550"
+    },
+    {
+      "titre": "Code de l'éducation : articles R531-52 à R531-53",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000020743087"
+    },
+    {
+      "titre": "Code rural et de la pêche maritime : article L230-5-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043978730"
+    },
+    {
+      "titre": "Décret n° 2019-351 du 23 avril 2019 relatif à la composition des repas servis dans les restaurants collectifs en application de l'article L. 230-5-1 du code rural et de la pêche maritime",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000038403867"
+    },
+    {
+      "titre": "Arrêté du 30 septembre 2011 sur la qualité nutritionnelle des repas servis en restauration scolaire",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000024614763/"
+    },
+    {
+      "titre": "Circulaire n°2001-118 du 25 juin 2001 relative à la restauration scolaire",
+      "url": "http://circulaire.legifrance.gouv.fr/pdf/2009/04/cir_1678.pdf"
+    },
+    {
+      "titre": "Circulaire n°2003-135 du 8 Septembre 2003 relative à l'accueil et l'intégration des enfants atteints de troubles de santé",
+      "url": "https://www.legifrance.gouv.fr/circulaire/id/1894"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Mairie",
+    "Établissement scolaire"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "La restauration scolaire",
+      "url": "https://www.education.gouv.fr/la-restauration-scolaire-6254"
+    }
+  ],
+  "slug": "cantine-scolaire-a-l-ecole-primaire-maternelle-et-elementaire",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "ecole-primaire-maternelle-et-elementaire",
+      "titre": "École primaire (maternelle et élémentaire)"
+    }
+  ]
+}

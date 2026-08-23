@@ -1,0 +1,97 @@
+{
+  "id": "F1337",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Téléphone fixe : réduction sociale téléphonique",
+  "theme": "Logement",
+  "description": "Si votre opérateur est Orange et si vous touchez le RSA ou l'AAH ou l'ASS, vous pouvez bénéficier de la réduction sociale téléphonique pour votre téléphone fixe",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-01-31",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1337",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Aides au paiement des factures : eau, téléphone, électricité, gaz",
+    "Téléphone fixe : réduction sociale téléphonique"
+  ],
+  "introduction": "Votre opérateur est Orange et vous touchez le revenu de solidarité active (RSA) ou l'allocation aux adultes handicapés (AAH) ou l'allocation de solidarité spécifique (ASS) ? Vous pouvez bénéficier d'une réduction dite Réduction sociale téléphonique sur votre abonnement au téléphone fixe de votre résidence principale. Nous vous indiquons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Qui peut bénéficier de la réduction sociale téléphonique ?",
+      "contenu": [
+        "Vous êtes concerné par la réduction social téléphonique si vous bénéficiez de l'une des aides financières suivantes :",
+        "• Revenu de solidarité active (RSA)",
+        "• Allocation aux adultes handicapés (AAH)",
+        "• Allocation de solidarité spécifique (ASS)."
+      ]
+    },
+    {
+      "titre": "Comment bénéficier de la réduction sociale téléphonique ?",
+      "contenu": [
+        "Vous devez appeler Orange.",
+        "Réduction sociale téléphonique Orange",
+        "Un opérateur Orange vous explique la démarche pour obtenir la réduction sociale téléphonique (RST).",
+        "Par téléphone",
+        "0800 007 726",
+        "Du lundi au vendredi de 9h à 17h",
+        "Appel gratuit depuis un poste fixe",
+        "Orange vous explique la démarche à suivre.",
+        "Vous devrez fournir à Orange une attestation de droit au RSA ou à l'AAH ou à l'ASS.",
+        "Si vous n'avez pas reçu votre attestation de droit, vous pouvez la demander en contactant l'organisme dont vous dépendez :",
+        "• Caf ou MSA pour le RSA ou l’AAH",
+        "• France Travail (anciennement Pôle emploi) pour l'ASS.",
+        "Caisse d'allocations familiales (Caf)",
+        "Mutualité sociale agricole (MSA)",
+        "France Travail",
+        "[À savoir] En bénéficiant de la réduction sociale téléphonique, vous bénéficiez également du chèque énergie pour l'électricité et le gaz."
+      ]
+    },
+    {
+      "titre": "Quel est le montant de la réduction sociale téléphonique ?",
+      "contenu": [
+        "Vous devez contacter Orange pour en avoir connaissance.",
+        "Réduction sociale téléphonique Orange",
+        "Un opérateur Orange vous explique la démarche pour obtenir la réduction sociale téléphonique (RST).",
+        "Par téléphone",
+        "0800 007 726",
+        "Du lundi au vendredi de 9h à 17h",
+        "Appel gratuit depuis un poste fixe"
+      ]
+    },
+    {
+      "titre": "Quelle est la durée d'attribution de la réduction sociale téléphonique ?",
+      "contenu": [
+        "La réduction du montant de l'abonnement vous est accordée pour une durée de 1 an.",
+        "Cette durée est renouvelable. Pour cela, vous devez envoyer votre nouvelle attestation de droit au RSA ou à l'AAH ou à l'ASS, par courrier, à Orange.",
+        "En principe, vous recevez tous les ans une nouvelle attestation de droit au RSA ou à l'AAH ou à l'ASS par votre organisme (Caf, MSA ou France Travail) tant que vous continuez à remplir les conditions d'attribution de ces aides. Si vous ne recevez pas votre nouvelle attestation de droit, vous devez contacter votre organisme pour la demander.",
+        "Caisse d'allocations familiales (Caf)",
+        "Mutualité sociale agricole (MSA)",
+        "France Travail"
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [
+    "Réduction sociale téléphonique Orange",
+    "Caisse d'allocations familiales (Caf)",
+    "Mutualité sociale agricole (MSA)",
+    "France Travail"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Coup de pouce Internet",
+      "url": "https://boutique.orange.fr/informations/offre-sociale/"
+    }
+  ],
+  "slug": "telephone-fixe-reduction-sociale-telephonique",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "aides-au-paiement-des-factures-eau-telephone-electricite-gaz",
+      "titre": "Aides au paiement des factures : eau, téléphone, électricité, gaz"
+    }
+  ]
+}

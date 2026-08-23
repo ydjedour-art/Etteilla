@@ -1,0 +1,57 @@
+{
+  "id": "F32338",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Que faire quand on trouve un chien ou un chat errant ?",
+  "theme": "Loisirs - Sports - Culture",
+  "description": "Les démarches diffèrent selon que l'animal errant se laisse approcher et est identifié ou non.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-03-03",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F32338",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Loisirs - Sports - Culture",
+    "Animal de compagnie",
+    "Que faire quand on trouve un chien ou un chat errant ?"
+  ],
+  "introduction": "Les démarches diffèrent selon que l'animal errant se laisse approcher et est identifié ou non. Les démarches possibles peuvent aussi être différentes selon le lieu et les circonstances dans lesquelles l'animal est retrouvé.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code rural et de la pêche maritime : articles L211-11 à L211-28",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071367/LEGISCTA000006167705/"
+    },
+    {
+      "titre": "Arrêté du 9 novembre 2023 relatif à l'identification des chiens, chats et furets, l'agrément de leur matériel d'identification et fixant les modalités de mise en œuvre du fichier national d'identification des chiens, chats et furets",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000048418470"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Déclarer à l'I-cad un animal domestique trouvé (chat, chien, furet)",
+      "url": "https://www.i-cad.fr/articles/animal_trouve",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "J'ai trouvé un animal : que dois-je faire ?",
+      "url": "https://www.i-cad.fr/show/27"
+    },
+    {
+      "titre": "Pourquoi faire identifier son animal",
+      "url": "https://www.i-cad.fr/show/15"
+    }
+  ],
+  "slug": "que-faire-quand-on-trouve-un-chien-ou-un-chat-errant",
+  "path": [
+    {
+      "slug": "loisirs-sports-culture",
+      "titre": "Loisirs - Sports - Culture"
+    },
+    {
+      "slug": "animal-de-compagnie",
+      "titre": "Animal de compagnie"
+    }
+  ]
+}

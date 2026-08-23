@@ -1,0 +1,78 @@
+{
+  "id": "F3142",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Accès aux origines personnelles : peut-on rechercher l'identité de ses parents ?",
+  "theme": "Famille - Scolarité",
+  "description": "Oui, les enfants nés à la suite d'un accouchement sous X ont la possibilité d'accéder à leur origines personnelles, mais sous certaines conditions. Les personnes issues d'une procréation médicalement assistée (PMA) avec don de sperme ou d'ovocyte peuvent selon les cas accéder à leurs origines. Nous vous présentons les informations à connaître.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2023-11-06",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F3142",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Placement d'un enfant",
+    "Accès aux origines personnelles : peut-on rechercher l'identité de ses parents ?"
+  ],
+  "introduction": "Oui, les enfants nés à la suite d'un accouchement sous X ont la possibilité d'accéder à leur origines personnelles, mais sous certaines conditions. Les personnes issues d'une procréation médicalement assistée (PMA) avec don de sperme ou d'ovocyte peuvent selon les cas accéder à leurs origines. Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de l'action sociale et des familles : articles L147-1 à L147-11",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000045137432/2023-06-13/?isSuggest=true"
+    },
+    {
+      "titre": "Circulaire du 27 juillet 2010 sur l'accès aux origines personnelles : communicabilité des dossiers de pupille",
+      "url": "https://www.legifrance.gouv.fr/download/file/pdf/cir_31527/CIRC"
+    },
+    {
+      "titre": "Loi n°2021-1017 du 2 août 2021 relative à la bioéthique",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000043884384/"
+    },
+    {
+      "titre": "Décret n°2022-290 du 1er mars 2022 portant application de dispositions de la loi n° 2021-1017 du 2 août 2021 relative à la bioéthique et modifiant diverses dispositions relatives à l'état civil",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000045279363"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Questionnaire à remplir en vue d'une demande d'accès à ses origines personnelles",
+      "url": "https://www.france-enfance-protegee.fr/wp-content/uploads/2024/12/questionnaire_12_05_2023.pdf",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Formulaire de demande d’accès des personnes nées d’une assistance médicale à la procréation à l’identité et aux données non identifiantes du tiers donneur",
+      "url": "https://sante.gouv.fr/IMG/pdf/capadd_demandeur_formulaire_demande_acces_v_2026_05.pdf",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "Services du département",
+    "Conseil national pour l'accès aux origines personnelles (CNAOP)",
+    "Commission d'accès des personnes nées d'une assistance médicale à la procréation aux données des tiers donneurs (CAPADD)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Accès à ses origines personnelles (Livret d'accueil)",
+      "url": "http://www.cnaop.gouv.fr/IMG/pdf/CNAOP_livret_accueil-2.pdf"
+    },
+    {
+      "titre": "Livret d'information pour les personnes nées d'une (PMA/AMP) avec tiers donneur de gamètes ou d'embryon",
+      "url": "https://sante.gouv.fr/IMG/pdf/capadd_livret_information_demandeur_2022_08_31.pdf"
+    },
+    {
+      "titre": "Né d’une AMP avec 1/3 donneur, 1/3 donneur, bénéficiaire d’une AMP",
+      "url": "https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/article/ne-e-d-une-amp-avec-tiers-donneur-tiers-donneur-beneficiaire-d-une-amp-reponses"
+    }
+  ],
+  "slug": "acces-aux-origines-personnelles-peut-on-rechercher-l-identite-de-ses-parents",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "placement-d-un-enfant",
+      "titre": "Placement d'un enfant"
+    }
+  ]
+}

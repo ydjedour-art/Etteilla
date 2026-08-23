@@ -1,0 +1,71 @@
+{
+  "id": "F723",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Vaccinations contre l'hépatite A et B",
+  "theme": "Social - Santé",
+  "description": "La vaccination permet une prévention efficace contre les hépatites A et B. Elle est recommandée pour certaines personnes et obligatoire dans certains cas.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-05-06",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F723",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Prévention - Vaccinations",
+    "Vaccinations contre l'hépatite A et B"
+  ],
+  "introduction": "La vaccination contre les hépatites A et B permet une prévention efficace. Elle est recommandée pour certaines personnes et obligatoire dans certains cas. Ces règles s'appliquent pour toute personne résidant en France quelle que soit sa nationalité. Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de la santé publique : article L3111-4",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034079710"
+    },
+    {
+      "titre": "Arrêté du 15 mars 1991 fixant la liste des établissements ou organismes publics ou privés de prévention ou de soins dans lesquels le personnel exposé doit être vacciné",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000536663/"
+    },
+    {
+      "titre": "Arrêté du 2 août 2013 fixant les conditions d'immunisation des personnels de santé",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000027833530"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Signalement santé",
+      "url": "https://signalement.social-sante.gouv.fr",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "Hépatites Info Service"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Calendrier des vaccinations 2026",
+      "url": "https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/calendrier-vaccinal"
+    },
+    {
+      "titre": "Site d'information sur les hépatites",
+      "url": "https://www.hepatites-info-service.org/"
+    },
+    {
+      "titre": "Dépistage de l'hépatite C (VHC)",
+      "url": "https://www.hepatites-info-service.org/depistage-de-l-hepatite-c/"
+    },
+    {
+      "titre": "Vaccin et injection : prise en charge",
+      "url": "https://www.ameli.fr/assure/remboursements/rembourse/medicaments-vaccins-dispositifs-medicaux/vaccination"
+    }
+  ],
+  "slug": "vaccinations-contre-l-hepatite-a-et-b",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "prevention-vaccinations",
+      "titre": "Prévention - Vaccinations"
+    }
+  ]
+}

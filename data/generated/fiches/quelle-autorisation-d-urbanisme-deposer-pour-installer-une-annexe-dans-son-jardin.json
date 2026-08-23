@@ -1,0 +1,124 @@
+{
+  "id": "F31471",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quelle autorisation d'urbanisme déposer pour installer une annexe dans son jardin ?",
+  "theme": "Logement",
+  "description": "Pour mettre une annexe dans un jardin, il faut parfois une autorisation d'urbanisme (DP ou PC) définie selon sa nature, sa surface et la situation du terrain.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-11-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31471",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Autorisations d'urbanisme",
+    "Quelle autorisation d'urbanisme déposer pour installer une annexe dans son jardin ?"
+  ],
+  "introduction": "Pour installer une annexe permanente ou provisoire dans votre jardin, vous devez parfois déposer en mairie une déclaration préalable de travaux ou une demande de permis de construire (PC). Dans certains cas, vous n'en avez pas besoin. L'autorisation à déposer dépend de la localisation du terrain (en zone urbaine d'un PLU ou non, en secteur protégé ou non), du caractère permanent ou provisoire de votre installation et de sa surface. Nous vous présentons la réglementation.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "[Attention] Une réglementation différente s'applique pour une caravane, un mobil-home, une serre de jardin, une piscine ou une cabane de chantier.",
+        "Votre annexe est permanente si elle reste en place pendant plus de 3 mois sur votre terrain. Par exemple, il peut s'agir d’un abri de jardin , d’un appentis ou d’un carport.",
+        "Votre annexe est provisoire si elle reste en place pendant 3 mois maximum sur votre terrain. Elle doit aussi être destinée à une occupation temporaire. Par exemple, il peut s'agir d'une tonnelle, d’une balancelle, d’un lit balinais ou d'une structure légère d'aire de jeux (portique, toboggan, balançoire, trampoline...).",
+        "[Attention] Le délai de 3 mois est porté à 15 jours si votre terrain se situe dans un site classé ou en instance de classement, dans le périmètre d’un site patrimonial remarquable, dans les abords d’un monument historique ou dans un périmètre défini par une délibération du conseil municipal. Vous pouvez obtenir cette information auprès de votre mairie. Mairie"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'urbanisme : article R*421-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006188285/"
+    },
+    {
+      "titre": "Code de l'urbanisme : article R*421-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025542764"
+    },
+    {
+      "titre": "Code de l'urbanisme : article R*421-5",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034722169/"
+    },
+    {
+      "titre": "Code de l'urbanisme : article R*421-7",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034355427"
+    },
+    {
+      "titre": "Code de l'urbanisme : article R421-9",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037799137/"
+    },
+    {
+      "titre": "Code de l'urbanisme : article R421-11",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034355402"
+    },
+    {
+      "titre": "Code de l'urbanisme : article R111-17",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031721286"
+    },
+    {
+      "titre": "Code civil : articles 675 à 680",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006150123"
+    },
+    {
+      "titre": "Code général des impôts : articles 1635 quater A à 1635 quater T",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000045912490/"
+    },
+    {
+      "titre": "Code général des impôts : article 235 ter ZG",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045914152/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Méthode de calcul de la surface de plancher",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/getAnnexe.do?cerfaAnnexe=2&cerfaFormulaire=16700",
+      "type": "Simulateur"
+    },
+    {
+      "titre": "Assistance pour votre demande d'autorisation d'urbanisme",
+      "url": "https://demarches.service-public.gouv.fr/mademarche/DAUA/demarche",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Bureau accueil et service à l'usager (Basu) de Paris : guichet électronique unique",
+      "url": "https://teleservices.paris.fr/demarchesurbanisme/jsp/site/Portal.jsp?page=accueil",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Déclaration préalable constructions et travaux non soumis à permis de construire",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_16702.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Demande de permis de construire pour une maison individuelle et/ou ses annexes (PCMI)",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_13406.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Demande de permis de construire (autre que portant sur une maison individuelle ou ses annexes)",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_13409.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Estimer le montant des taxes d'urbanisme (taxe d’aménagement et taxe d’archéologie préventive)",
+      "url": "https://www.impots.gouv.fr/simulateur-des-taxes-urbanisme",
+      "type": "Simulateur"
+    }
+  ],
+  "contacts": [
+    "Mairie",
+    "Paris : Bureau accueil et service à l'usager (Basu)",
+    "Centre départemental des impôts fonciers (CDIF)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "quelle-autorisation-d-urbanisme-deposer-pour-installer-une-annexe-dans-son-jardin",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "autorisations-d-urbanisme",
+      "titre": "Autorisations d'urbanisme"
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "id": "F34630",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Drone : règles de pilotage à respecter",
+  "theme": "Loisirs - Sports - Culture",
+  "description": "Pour piloter un drone pour le loisir, vous devez respecter la réglementation sur les vols en catégorie ouverte.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-09-23",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34630",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Loisirs - Sports - Culture",
+    "Sport",
+    "Drone : règles de pilotage à respecter"
+  ],
+  "introduction": "Vous voulez piloter un drone pour le loisir ou, plus généralement, pour effectuer un vol à faible risque ? Vous devez alors respecter la réglementation sur les vols en catégorie ouverte. Les règles diffèrent selon que votre drone porte une mention de classe CE (C0, C1, C1, C2, C3, C4) ou non. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "[Attention] Depuis le 1er janvier 2024, le drone que vous achetez doit porter une mention de classe CE (C0, C1, C2, C3, C4) pour pouvoir voler en catégorie ouverte."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code des transports : article L6111-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045456054"
+    },
+    {
+      "titre": "Code des transports : articles L6214-1 à L6214-3",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033295549"
+    },
+    {
+      "titre": "Code des transports : articles L6232-12 et L6232-13",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033295504/2016-10-26"
+    },
+    {
+      "titre": "Arrêté du 3 décembre 2020 relatif à l'utilisation de l'espace aérien par les aéronefs sans équipage à bord",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042635803"
+    },
+    {
+      "titre": "Arrêté du 3 décembre 2020 relatif à l'exploitation d'aéromodèles au sein d'associations d'aéromodélisme en application du règlement d'exécution (UE) 2019/947",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042635836"
+    },
+    {
+      "titre": "Arrêté du 3 décembre 2020 relatif aux exigences applicables aux pilotes à distance dans le cadre d'opérations relevant de la catégorie « ouverte »",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042635868"
+    },
+    {
+      "titre": "Arrêté du 3 décembre 2020 relatif aux dispositions transitoires de reconnaissance de la formation et des titres des pilotes à distance",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042635874"
+    },
+    {
+      "titre": "Arrêté du 3 décembre 2020 relatif aux scénarios standard nationaux et fixant les conditions applicables aux missions d'aéronefs civils exclues du champ d'application du règlement (UE) 2018/1139",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042635883"
+    },
+    {
+      "titre": "Arrêté du 3 décembre 2020 relatif aux exigences applicables aux opérations conduites sur certains aéronefs captifs visés à l'annexe I au règlement (UE) 2018/1139",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042635925"
+    },
+    {
+      "titre": "Arrêté du 22 janvier 2020 fixant la liste des zones interdites à la prise de vue aérienne",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000041459817"
+    },
+    {
+      "titre": "Code pénal : articles 226-1 à 226-7",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070719/LEGISCTA000006165309/#LEGISCTA000006165309"
+    },
+    {
+      "titre": "Décret n°2019-348 du 19 avril 2019 relatif à la notice d'information relative à l'usage des aéronefs circulant sans personne à bord",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000038397039"
+    },
+    {
+      "titre": "Arrêté du 19 avril 2019 relatif au contenu de la notice d'information fournie avec les emballages des aéronefs civils circulant sans personne à bord et de leurs pièces détachées",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000038397056"
+    },
+    {
+      "titre": "Décret n°2019-1114 du 30 octobre 2019 relatif aux dispositifs de signalement électronique et lumineux des aéronefs circulant sans personne à bord",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000039304347"
+    },
+    {
+      "titre": "Arrêté du 27 décembre 2019 définissant les caractéristiques techniques des dispositifs de signalement électronique et lumineux des aéronefs circulant sans personne à bord",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000039685188"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Géoportail - Vérifier les zones de restriction de vol",
+      "url": "https://www.geoportail.gouv.fr/donnees/restrictions-uas-categorie-ouverte-et-aeromodelisme",
+      "type": "outilRechercheNG"
+    },
+    {
+      "titre": "Enregistrement du pilote d'un drone",
+      "url": "https://alphatango.aviation-civile.gouv.fr/login.jsp",
+      "type": "selNG"
+    },
+    {
+      "titre": "Enregistrer un drone",
+      "url": "https://alphatango.aviation-civile.gouv.fr/login.jsp",
+      "type": "selNG"
+    },
+    {
+      "titre": "Faire la formation en ligne pour télépiloter un drone en sous catégorie A1/A3",
+      "url": "https://formation-telepilote.aviation-civile.gouv.fr/fr/users/sign_in",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Drones - Loisir et compétition",
+      "url": "https://www.ecologie.gouv.fr/exploitation-drones-en-categorie-ouverte"
+    },
+    {
+      "titre": "Guide pour l'usage d'un drone en catégorie ouverte",
+      "url": "https://www.ecologie.gouv.fr/sites/default/files/Guide_categorie_Ouverte.pdf"
+    },
+    {
+      "titre": "Notice d’enregistrement comme exploitant d’UAS",
+      "url": "https://www.ecologie.gouv.fr/sites/default/files/enregistrement_exploitant_uas.pdf"
+    }
+  ],
+  "slug": "drone-regles-de-pilotage-a-respecter",
+  "path": [
+    {
+      "slug": "loisirs-sports-culture",
+      "titre": "Loisirs - Sports - Culture"
+    },
+    {
+      "slug": "sport",
+      "titre": "Sport"
+    }
+  ]
+}

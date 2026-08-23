@@ -1,0 +1,48 @@
+{
+  "id": "F11601",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Est-on obligé d'avoir une carte d'identité ?",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Non, avoir une carte d'identité n'est pas obligatoire. Néanmoins, pour la plupart des démarches, il est nécessaire de justifier son identité.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-08-05",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F11601",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Carte d'identité",
+    "Est-on obligé d'avoir une carte d'identité ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Non, aucun texte ne vous oblige à avoir une carte d'identité.",
+        "Néanmoins, si vous êtes soumis à un contrôle d'identité, la procédure sera plus longue si vous ne pouvez pas présenter de titre d'identité.",
+        "Par ailleurs, pour la plupart des démarches, il faut prouver son identité. Si vous n'avez aucun titre d'identité, vous risquez donc d'avoir des difficultés. Il s'agit, par exemple, des situations suivantes :",
+        "• Examen ou concours",
+        "• Inscription à France Travail (anciennement Pôle emploi)",
+        "• Inscription sur les listes électorales et vote aux élections",
+        "• Opérations bancaires (paiement par chèque, retrait au guichet de votre banque)",
+        "• Voyage à l'étranger.",
+        "[À noter] La carte d'identité, tout comme le passeport, vous permet de justifier de votre identité, mais aussi de votre nationalité française."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "est-on-oblige-d-avoir-une-carte-d-identite",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "carte-d-identite",
+      "titre": "Carte d'identité"
+    }
+  ]
+}

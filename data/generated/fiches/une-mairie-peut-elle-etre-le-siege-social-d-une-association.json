@@ -1,0 +1,56 @@
+{
+  "id": "F1174",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Une mairie peut-elle être le siège social d'une association ?",
+  "theme": "Associations, fondations et fonds de dotation",
+  "description": "Oui, une mairie peut être le siège social d'une association.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-10-20",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1174",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Associations, fondations et fonds de dotation",
+    "Création d'une association",
+    "Une mairie peut-elle être le siège social d'une association ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Oui, une mairie peut être le siège social d’une association.",
+        "En général, les associations qui choisissent d'avoir leur siège social à la mairie sont celles qui ont des activités locales ou qui collaborent avec les autorités locales (commune, ville,...).",
+        "L'association doit faire la demande à la mairie par courrier.",
+        "Mairie",
+        "Si le maire le décide, des locaux communaux peuvent être mis à disposition et utilisés par les associations qui en font la demande.",
+        "Le maire fixe les conditions dans lesquelles ces locaux peuvent être utilisés. Par exemple : mise à disposition un jour par semaine, conditions d'accès, horaires, répartition des bureaux entre plusieurs associations.",
+        "La mise à disposition du local peut être gratuite ou payante.",
+        "Le montant du loyer ou de la participation est fixée par le conseil municipal.",
+        "[À savoir] Le siège social d'une association peut également se situer au domicile d'un de ses membres, dans des locaux institutionnels (école, bibliothèque,...) mais encore dans un bureau commercial ou privé."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général des collectivités territoriales : articles L2144-1 à L2144-3",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006164553/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Mairie",
+    "Point ressource à la vie associative"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "une-mairie-peut-elle-etre-le-siege-social-d-une-association",
+  "path": [
+    {
+      "slug": "associations-fondations-et-fonds-de-dotation",
+      "titre": "Associations, fondations et fonds de dotation"
+    },
+    {
+      "slug": "creation-d-une-association",
+      "titre": "Création d'une association"
+    }
+  ]
+}

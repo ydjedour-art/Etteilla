@@ -1,0 +1,125 @@
+{
+  "id": "F33963",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Carte de stationnement résidentiel",
+  "theme": "Transports - Mobilité",
+  "description": "La carte de stationnement résidentiel permet de stationner à un tarif avantageux à proximité de son domicile.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-07-28",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33963",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Cartes de transport",
+    "Carte de stationnement résidentiel"
+  ],
+  "introduction": "Qu'est-ce que la carte de stationnement résidentiel ? La carte de stationnement résidentiel permet de stationner à proximité de son domicile à un tarif plus avantageux que le tarif visiteur. Elle est délivrée par la commune, qui fixe ses propres règles de stationnement. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "À quoi sert la carte de stationnement résidentiel ?",
+      "contenu": [
+        "La carte permet de stationner dans les zones résidentielles définies par votre commune.",
+        "Ces zones sont généralement situées à proximité des habitations et sont signalées par un panneau."
+      ]
+    },
+    {
+      "titre": "Combien de temps peut-on se garer avec la carte de stationnement résidentiel ?",
+      "contenu": [
+        "La durée maximale de stationnement dépend de la réglementation locale. Certaines communes autorisent plusieurs jours d’affilée."
+      ]
+    },
+    {
+      "titre": "Comment obtenir la carte de stationnement résidentiel ?",
+      "contenu": [
+        "La demande diffère selon votre situation géographique :",
+        "Cas général",
+        "La demande est faite sur place, directement auprès du service voirie de votre mairie. Toutefois, certaines mairies proposent d'effectuer la demande sur leur site internet par le biais d'un téléservice. Il est donc recommandé de consulter le site internet de votre mairie ou de la contacter directement.",
+        "Les documents à fournir sont :",
+        "• Certificat d'immatriculation du véhicule (carte grise) à votre nom et à l'adresse de votre résidence principale",
+        "• Justificatif de domicile",
+        "• Parfois avis d'imposition sur le revenu.",
+        "D'autres documents peuvent être exigés selon la commune. Il est donc recommandé de contacter votre mairie ou de consulter son site internet.",
+        "À Paris",
+        "La demande peut être faite en ligne ou sur place.",
+        "En ligne",
+        "La demande peut être faite via un téléservice :",
+        "Demande de carte de stationnement résidentiel à Paris",
+        "Les documents à fournir sont :",
+        "• Certificat d'immatriculation du véhicule à votre nom et à l'adresse de votre résidence principale",
+        "• Dernier avis d'imposition sur le revenu.",
+        "[À noter] Si vous utilisez FranceConnect et que vos données fiscales et d’immatriculation sont à jour, vous n’avez pas à fournir de justificatif.",
+        "Sur place",
+        "La demande se fait auprès de la section du stationnement sur voie publique de la mairie, sur rendez-vous.",
+        "Les documents à fournir sont :",
+        "• Certificat d'immatriculation du véhicule à votre nom et à l'adresse de votre résidence principale",
+        "• Dernier avis d'imposition sur le revenu."
+      ]
+    },
+    {
+      "titre": "Quel est le coût de la carte de stationnement résidentiel ?",
+      "contenu": [
+        "La carte peut être gratuite dans certaines communes pour certaines catégories de personnes (par exemple, personnes non imposables).",
+        "Lorsque la carte est payante, le tarif dépend de la commune et de la catégorie du véhicule (le tarif est généralement plus cher pour les véhicules les plus polluants ).",
+        "Pour connaître les conditions applicables, vous devez contacter votre mairie ou consulter son site internet.",
+        "Mairie"
+      ]
+    },
+    {
+      "titre": "Quelle est la durée de validité de la carte de stationnement résidentiel ?",
+      "contenu": [
+        "La carte (papier ou dématérialisée) est valable de 1 à 3 ans selon les communes.",
+        "Elle est renouvelable.",
+        "[À savoir] Le renouvellement n'est pas automatique. Vous devez refaire une demande en présentant les mêmes documents justificatifs actualisés que pour la demande initiale. Il est recommandé de déposer la demande environ 2 mois avant la fin de validité."
+      ]
+    },
+    {
+      "titre": "Comment utiliser la carte de stationnement résidentiel ?",
+      "contenu": [
+        "Tout dépend si vous avez une carte version dématérialisée ou papier :",
+        "Carte dématérialisée",
+        "Les contrôles se font par lecture de la plaque d’immatriculation de votre véhicule.",
+        "Les zones autorisées sont consultables sur le site internet de la mairie.",
+        "[À noter] Il est recommandé de vérifier régulièrement que le stationnement reste autorisé, car des arrêtés municipaux peuvent le suspendre temporairement (travaux, événements...).",
+        "Carte papier",
+        "La carte doit être placée dans l'étui fourni et visible sur le pare-brise de votre véhicule (côté droit).",
+        "Dans les communes où un ticket horodateur est nécessaire, celui-ci doit être placé dans le 2nd compartiment de l’étui.",
+        "Les zones autorisées vous sont communiquées lors de l'obtention de la carte.",
+        "[À noter] Il est recommandé de vérifier régulièrement que le stationnement reste autorisé, car des arrêtés municipaux peuvent le suspendre temporairement (travaux, événements...)."
+      ]
+    },
+    {
+      "titre": "Que faire en cas de changement de véhicule ou de domicile ?",
+      "contenu": [
+        "Vous devez déposer une nouvelle demande en présentant les mêmes documents justificatifs actualisés que pour la demande initiale."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [
+    {
+      "titre": "Demande de carte de stationnement résidentiel à Paris",
+      "url": "https://tvvist3res-v2.paris.fr/tvvist/jsp/site/Portal.jsp?page=accueil",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "Mairie"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Informations sur les horaires du service de section du stationnement sur voie publique (SSVP) et prise de rendez-vous",
+      "url": "https://www.paris.fr/lieux/section-du-stationnement-sur-voie-publique-ssvp-19069"
+    }
+  ],
+  "slug": "carte-de-stationnement-residentiel",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "cartes-de-transport",
+      "titre": "Cartes de transport"
+    }
+  ]
+}

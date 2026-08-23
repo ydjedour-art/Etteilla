@@ -1,0 +1,101 @@
+{
+  "id": "F1036",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Contrôle d'identité",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Un contrôle d’identité peut être effectué sur toute personne s’il est justifié par les circonstances dans lesquelles il intervient",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-10",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1036",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Mesures contraignantes de l'administration",
+    "Contrôle d'identité"
+  ],
+  "introduction": "Dans quelles situations un contrôle d’identité peut-il avoir lieu ? Les forces de l’ordre peuvent contrôler l’identité d’une personne afin de prévenir une atteinte à l’ordre public, d’identifier l’auteur d’une infraction ou d’éviter qu’elle soit commise. Le contrôle doit toujours être justifié. S’il ne l’est pas, il peut être contesté. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "[Attention] Les conditions de contrôle sont identiques pour tous, sans distinction de nationalité. Toutefois, certaines règles qui s’appliquent aux personnes de nationalité française et aux ressortissants de l’Union européenne (UE) ne concernent pas les personnes de nationalité étrangère."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de procédure pénale : articles 78-1 à 78-7",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006151880/2026-03-03"
+    },
+    {
+      "titre": "Code de la sécurité intérieure : articles R434-14 à R434-22",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000028286826/"
+    },
+    {
+      "titre": "Décision du Conseil constitutionnel n°93-323DC du 5 août 1993",
+      "url": "https://www.conseil-constitutionnel.fr/decision/1993/93323DC.htm"
+    },
+    {
+      "titre": "Arrêt de la Cour de Cassation (chambre criminelle) n°99-81.153 du 12 mai 1999",
+      "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000007070821/"
+    },
+    {
+      "titre": "Code des douanes : articles 67 à 67-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071570/LEGISCTA000006138846/#LEGISCTA000047861493"
+    },
+    {
+      "titre": "Code des transports : article L2241-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039785700#:~:text=Sur%20l'ordre%20de%20l,judiciaire%20agissant%20sous%20son%20contr%C3%B4le."
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles L812-1 à L812-2",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042773654/2026-03-03"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles L411-1 à L411-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042771448/"
+    },
+    {
+      "titre": "Règlement du 13 juillet 2009 établissant un code communautaire des visas",
+      "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?qid=1438101643198&uri=CELEX:02009R0810-20131018"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Saisir le Défenseur des droits d’un cas de discrimination par messagerie instantanée",
+      "url": "https://www.antidiscriminations.fr/",
+      "type": "selNG"
+    },
+    {
+      "titre": "Signaler une discrimination au Défenseur des droits (dispositif spécifique pour les personnes sourdes ou malentendantes)",
+      "url": "https://app.acce-o.fr/client/antidiscrimination",
+      "type": "selNG"
+    },
+    {
+      "titre": "Signaler le comportement d’un agent à l’Inspection générale de la police nationale (IGPN)",
+      "url": "https://www.signalement-igpn.fsi.interieur.gouv.fr/",
+      "type": "selNG"
+    },
+    {
+      "titre": "Signaler le comportement d’un agent à l’Inspection générale de la gendarmerie nationale (IGGN)",
+      "url": "https://www.gendarmerie.interieur.gouv.fr/contact/reclamation-aupres-de-l-inspection-generale-de-la-gendarmerie-nationale-iggn",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "Maison de justice et du droit",
+    "Défenseur des droits"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "controle-d-identite",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "mesures-contraignantes-de-l-administration",
+      "titre": "Mesures contraignantes de l'administration"
+    }
+  ]
+}

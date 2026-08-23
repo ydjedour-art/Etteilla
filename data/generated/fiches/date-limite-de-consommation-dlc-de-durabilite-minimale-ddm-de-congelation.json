@@ -1,0 +1,81 @@
+{
+  "id": "F10990",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Date limite de consommation (DLC), de durabilité minimale (DDM), de congélation",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Seul le dépassement de la date limite de consommation (DLC) comporte un risque pour la santé.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-02-06",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F10990",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Alimentation, restauration",
+    "Date limite de consommation (DLC), de durabilité minimale (DDM), de congélation"
+  ],
+  "introduction": "Il existe 2 catégories de date limite pour les produits alimentaires : la date limite de consommation (DLC) et la date de durabilité minimale (DDM). Comment savoir quelle date indique un risque pour la santé et quelle date correspond seulement à la qualité du produit ? Seul le dépassement de la DLC comporte un risque pour la santé. Il existe également la date de congélation, qui précise quand le produit a été congelé ou la première fois s’il a été congelé plusieurs fois. Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Règlement (UE) n°1169/2011 concernant l'information des consommateurs sur les denrées alimentaires : article 24",
+      "url": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:304:0018:0063:FR:PDF"
+    },
+    {
+      "titre": "Code de la consommation : article L412-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041985019/"
+    },
+    {
+      "titre": "Code de la consommation : articles L451-1 à L451-8",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032225319/2016-07-01"
+    },
+    {
+      "titre": "Code de la consommation : article R412-9",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032807838"
+    },
+    {
+      "titre": "Code de la consommation : article R451-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032808072"
+    },
+    {
+      "titre": "Code de la consommation : article R452-5",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038372637"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "0809 540 550 DGCCRF - RéponseConso"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Rappelconso",
+      "url": "https://rappel.conso.gouv.fr/"
+    },
+    {
+      "titre": "Date limite de consommation (DLC) et date de durabilité minimale (DDM)",
+      "url": "https://www.economie.gouv.fr/dgccrf/Publications/Vie-pratique/Fiches-pratiques/Date-limite-de-consommation-DLC-et-DDM"
+    },
+    {
+      "titre": "Conservation des aliments",
+      "url": "https://www.economie.gouv.fr/dgccrf/Publications/Vie-pratique/Fiches-pratiques/Conservation-des-aliments"
+    },
+    {
+      "titre": "Étiquetage des denrées alimentaires",
+      "url": "https://www.economie.gouv.fr/dgccrf/Publications/Vie-pratique/Fiches-pratiques/Etiquetage-des-denrees-alimentaires"
+    },
+    {
+      "titre": "Hygiène alimentaire",
+      "url": "https://www.economie.gouv.fr/dgccrf/hygiene-alimentaire-presentation-generale"
+    }
+  ],
+  "slug": "date-limite-de-consommation-dlc-de-durabilite-minimale-ddm-de-congelation",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "alimentation-restauration",
+      "titre": "Alimentation, restauration"
+    }
+  ]
+}

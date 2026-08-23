@@ -1,0 +1,74 @@
+{
+  "id": "F33052",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Demande de carte de séjour : quel justificatif de domicile ?",
+  "theme": "Étranger - Europe",
+  "description": "Pour une demande de carte de séjour, il faut fournir un justificatif de domicile de moins de 6 mois.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-08-05",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33052",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Titres, cartes de séjour et documents de circulation pour étranger en France",
+    "Demande de carte de séjour : quel justificatif de domicile ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Si vous demandez une carte de séjour, vous devez fournir un justificatif de domicile datant de moins de 6 mois.",
+        "Le document à fournir dépend de votre situation :",
+        "Vous êtes locataire ou propriétaire",
+        "Vous devez fournir un des documents suivants :",
+        "• Facture d'électricité, de gaz, d'eau, de téléphone fixe ou d'accès à internet",
+        "• Bail de location",
+        "• Quittance de loyer.",
+        "[À savoir] Un justificatif de domicile sécurisé (comportant un code barre 2D-Doc) ne peut pas être refusé.",
+        "Vous vivez à l'hôtel",
+        "Vous devez fournir les 2 documents suivants :",
+        "• Attestation de votre hôtelier",
+        "• Facture du dernier mois.",
+        "Vous êtes hébergé chez un particulier (famille, ami, etc.)",
+        "Vous devez fournir les 3 documents suivants :",
+        "• Attestation de votre hébergeant datée et signée",
+        "• Copie de la carte d'identité ou de la carte de séjour de l'hébergeant",
+        "• Justificatif de domicile au nom de l'hébergeant (acte de propriété ou relevé de taxe d'habitation ou copie du bail de location ou facture d'électricité, de gaz, d'eau, de téléphone fixe ou d'accès à internet) si l'adresse de sa carte nationale d'identité ou de sa carte de séjour n'est plus à jour.",
+        "Un modèle d'attestation est disponible :",
+        "Attestation d'hébergement",
+        "[À savoir] Un justificatif de domicile sécurisé (comportant un code barre 2D-Doc) ne peut pas être refusé."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code des relations entre le public et l'administration : articles R113-5 à R113-9",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000031366350/LEGISCTA000031370017/"
+    },
+    {
+      "titre": "Arrêté du 27 septembre 2013 relatif à la sécurisation des pièces justificatives de domicile au moyen d'un dispositif électronique pour garantir son authenticité",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000028090286/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Attestation d'hébergement",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/AttestationHebergement",
+      "type": "lettreTypeNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "demande-de-carte-de-sejour-quel-justificatif-de-domicile",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "titres-cartes-de-sejour-et-documents-de-circulation-pour-etranger-en-france",
+      "titre": "Titres, cartes de séjour et documents de circulation pour étranger en France"
+    }
+  ]
+}

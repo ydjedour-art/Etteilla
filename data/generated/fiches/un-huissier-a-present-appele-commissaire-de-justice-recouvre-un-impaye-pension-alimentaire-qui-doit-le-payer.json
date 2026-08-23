@@ -1,0 +1,33 @@
+{
+  "id": "F35173",
+  "type_publication": "Recherche guidée",
+  "titre": "Un huissier (à présent appelé commissaire de justice) recouvre un impayé (pension alimentaire, ...) : qui doit le payer ?",
+  "theme": "Justice",
+  "description": "Un huissier (à présent appelé commissaire de justice) recouvre un impayé (pension alimentaire, ...) : qui doit le payer ?",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2020-03-26",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35173",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Saisies et recouvrements",
+    "Un huissier (à présent appelé commissaire de justice) recouvre un impayé (pension alimentaire, ...) : qui doit le payer ?"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "un-huissier-a-present-appele-commissaire-de-justice-recouvre-un-impaye-pension-alimentaire-qui-doit-le-payer",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "saisies-et-recouvrements",
+      "titre": "Saisies et recouvrements"
+    }
+  ]
+}

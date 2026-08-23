@@ -1,0 +1,76 @@
+{
+  "id": "F33164",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Démission d'une assistante maternelle",
+  "theme": "Travail - Formation",
+  "description": "La démission permet à l'assistante maternelle de rompre son contrat de travail à durée indéterminée (CDI) à son initiative sous conditions.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-07-21",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33164",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Assistante maternelle",
+    "Démission d'une assistante maternelle"
+  ],
+  "introduction": "La démission est un mode de rupture du CDI à l'initiative de l'assistante maternelle qui manifeste clairement la volonté de rompre son contrat de travail. L'assistante maternelle doit informer son employeur par écrit et respecter un préavis dans certains cas. Elle n'a pas l'obligation de préciser dans sa lettre de démission le motif pour lequel elle démissionne. La possibilité de démissionner dépend du type de contrat de travail de l'assistante maternelle (CDI ou CDD). Nous faisons le point sur la réglementation.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de l'action sociale et des familles : articles L423-6 et L423-7",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000006798032/"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : articles L423-23 à L423-27",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000006798053/"
+    },
+    {
+      "titre": "Convention collective nationale des particuliers employeurs et de l'emploi à domicile du 15 mars 2021",
+      "url": "https://www.legifrance.gouv.fr/conv_coll/id/KALITEXT000043941642"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Espace Particulier-employeur : création et gestion des attestations employeur France Travail",
+      "url": "https://particulieremployeur.francetravail.fr/particulieremployeur/authentification/authentification",
+      "type": "selNG"
+    },
+    {
+      "titre": "Modèle de lettre de démission d'une assistante maternelle",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/DemissionAssistanteMat",
+      "type": "lettreTypeNG"
+    }
+  ],
+  "contacts": [
+    "Relais petite enfance (ex Ram)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Site officiel du particulier employeur et du salarié",
+      "url": "https://www.urssaf.fr/accueil/particulier/particulier-employeur.html"
+    },
+    {
+      "titre": "Comment déclarer une fin de contrat ?",
+      "url": "https://www.urssaf.fr/accueil/services/services-particuliers/service-pajemploi/declarer-fin-contrat-pajemploi.html"
+    },
+    {
+      "titre": "Réaliser une simulation de fin de contrat",
+      "url": "https://www.urssaf.fr/accueil/services/services-particuliers/service-pajemploi/simulation-fin-contrat-pajemploi.html"
+    },
+    {
+      "titre": "Comment générer les documents de fin de contrat ?",
+      "url": "https://www.urssaf.fr/accueil/services/services-particuliers/service-pajemploi/documents-fin-contrat-pajemploi.html"
+    }
+  ],
+  "slug": "demission-d-une-assistante-maternelle",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "assistante-maternelle",
+      "titre": "Assistante maternelle"
+    }
+  ]
+}

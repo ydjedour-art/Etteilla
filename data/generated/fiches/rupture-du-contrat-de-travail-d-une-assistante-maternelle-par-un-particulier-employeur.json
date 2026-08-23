@@ -1,0 +1,58 @@
+{
+  "id": "F16842",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Rupture du contrat de travail d'une assistante maternelle par un particulier employeur",
+  "theme": "Travail - Formation",
+  "description": "L'employeur peut rompre le contrat de travail de l'assistante maternelle sous certaines conditions.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-06-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F16842",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Assistante maternelle",
+    "Rupture du contrat de travail d'une assistante maternelle par un particulier employeur"
+  ],
+  "introduction": "Le particulier employeur qui emploie une assistante maternelle agréée peut décider de rompre son contrat de travail. Les possibilités de rupture du contrat diffèrent selon que l'assistante maternelle est embauchée en CDI ou en CDD. Cette rupture de contrat a les mêmes effets qu'un licenciement si l'assistante maternelle est en CDI. Nous faisons le point sur la réglementation.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code du travail : article L1225-4",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000033022614/"
+    },
+    {
+      "titre": "Code du travail : article L1132-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042026716"
+    },
+    {
+      "titre": "Code du travail : articles L1243-1 à L1243-13-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000006177867/"
+    },
+    {
+      "titre": "Convention collective nationale des particuliers employeurs et de l'emploi à domicile du 15 mars 2021",
+      "url": "https://www.legifrance.gouv.fr/conv_coll/id/KALITEXT000043941642"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Espace Particulier-employeur : création et gestion des attestations employeur France Travail",
+      "url": "https://particulieremployeur.francetravail.fr/particulieremployeur/authentification/authentification",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "Urssaf service Pajemploi"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "rupture-du-contrat-de-travail-d-une-assistante-maternelle-par-un-particulier-employeur",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "assistante-maternelle",
+      "titre": "Assistante maternelle"
+    }
+  ]
+}

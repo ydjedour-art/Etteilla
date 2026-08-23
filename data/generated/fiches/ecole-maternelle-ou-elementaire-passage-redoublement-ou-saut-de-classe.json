@@ -1,0 +1,58 @@
+{
+  "id": "F32111",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "École maternelle ou élémentaire : passage, redoublement ou saut de classe",
+  "theme": "Famille - Scolarité",
+  "description": "Le conseil des maîtres décide du passage en classe supérieure, du redoublement ou du saut de classe des élèves de primaire.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-10-20",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F32111",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "École primaire (maternelle et élémentaire)",
+    "École maternelle ou élémentaire : passage, redoublement ou saut de classe"
+  ],
+  "introduction": "Votre enfant est à l'école primaire (maternelle ou élémentaire) et vous vous posez des questions sur son orientation ? Passage en classe supérieure, redoublement ou saut de classe : voici les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de l'éducation : articles D321-1 à D321-17",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006166878"
+    },
+    {
+      "titre": "Code de l'éducation : articles D411-1 à D411-9",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000018380826"
+    },
+    {
+      "titre": "Arrêté du 31 décembre 2015 portant le modèle national de la synthèse des acquis scolaires de l'élève à l'issue de la dernière année de scolarité à l'école maternelle",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000031742283"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Direction des services départementaux de l'Éducation nationale",
+    "Établissement scolaire"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Suivi et évaluation des apprentissages en maternelle",
+      "url": "https://eduscol.education.fr/cid97131/suivi-et-evaluation-a-l-ecole-maternelle.html"
+    },
+    {
+      "titre": "La liaison entre l'école et le collège",
+      "url": "https://www.education.gouv.fr/la-liaison-entre-l-ecole-et-le-college-11318"
+    }
+  ],
+  "slug": "ecole-maternelle-ou-elementaire-passage-redoublement-ou-saut-de-classe",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "ecole-primaire-maternelle-et-elementaire",
+      "titre": "École primaire (maternelle et élémentaire)"
+    }
+  ]
+}

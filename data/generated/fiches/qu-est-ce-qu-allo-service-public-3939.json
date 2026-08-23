@@ -1,0 +1,88 @@
+{
+  "id": "F33683",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Qu'est-ce qu'Allô Service Public 3939 ?",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Allô Service Public 3939 est un service de renseignement administratif par téléphone.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-08-14",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33683",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Obligations de l'administration vis-à-vis des usagers",
+    "Qu'est-ce qu'Allô Service Public 3939 ?"
+  ],
+  "introduction": "Allô Service Public 3939 est un service de renseignement administratif par téléphone. Il délivre des informations sur les droits, obligations et démarches à accomplir.",
+  "chapitres": [
+    {
+      "titre": "Quels sont les domaines traités par Allô Service Public 3939 ?",
+      "contenu": [
+        "Allô Service Public 3939 est un service de renseignement administratif par téléphone. Il délivre des informations sur les droits, les obligations et les démarches à accomplir dans les domaines suivants :",
+        "• Droit du travail dans le secteur privé",
+        "• Logement et urbanisme",
+        "• Procédures en justice, civile ou pénale",
+        "• Droit de la famille, des personnes ou des successions",
+        "• Droit des étrangers, des associations ou l'état civil.",
+        "[Attention] Allô Service Public 3939 est un service d'information généraliste qui n'a pas accès aux dossiers personnels des usagers. Il ne peut donc pas renseigner sur l'état d'avancement d'un dossier."
+      ]
+    },
+    {
+      "titre": "Comment fonctionne Allô Service Public 3939 ?",
+      "contenu": [
+        "Le fonctionnement du service diffère selon que vous êtes une personne sourde ou malentendante ou non.",
+        "Accessibilité téléphonique classique",
+        "Allô Service Public 3939 permet d'entrer en communication téléphonique avec un informateur spécialisé, fonctionnaire du ministère chargé du travail, de l'intérieur, de la justice ou du logement.",
+        "Allô Service Public 3939 est accessible de 2 façons :",
+        "• Soit en composant directement sur votre téléphone le numéro 3939 (un serveur vocal interactif vous guide entre différentes options vous permettant d'obtenir l'information administrative ou le secteur de compétence qui vous intéresse)",
+        "• Soit en utilisant la fonctionnalité de rappel présente sur certaines fiches du site Service-Public.fr. Cette fonctionnalité se trouve dans la rubrique \"Qui peut m'aider\" des fiches concernées. Elle vous permet de vous faire rappeler gratuitement dans un délai de 45 minutes maximum après la demande.",
+        "Personnes sourdes ou malentendantes",
+        "Vous pouvez nous contacter via une solution multi-supports (tablette, smartphone et ordinateur) permettant de faciliter les échanges grâce aux 3 modes de communications suivantes :",
+        "• Visio-interprétation en LSF (langue des signes française)",
+        "• Transcription instantanée de la parole (sous-titrage en temps réel)",
+        "• Visio-codage en LPC (langage parlé complété).",
+        "Vous pouvez utiliser ce service en ligne pour nous contacter :",
+        "Accessibilité téléphonique pour les personnes sourdes ou malentendantes",
+        "[À noter] Le service d'accessibilité téléphonique est disponible sur une partie des plages horaires de fonctionnement d'Allô Service Public 3939."
+      ]
+    },
+    {
+      "titre": "Quels sont les horaires d'Allô Service Public 3939 ?",
+      "contenu": [
+        "• Lundi : 8h30 à 18h15",
+        "• Mardi : 8h30 à 13h",
+        "• Mercredi : 8h30 à 13h",
+        "• Jeudi : 8h30 à 18h15",
+        "• Vendredi : 13h à 17h"
+      ]
+    },
+    {
+      "titre": "Quel est le coût d'un appel à Allô Service Public 3939 ?",
+      "contenu": [
+        "• Appel depuis la France métropolitaine : service gratuit, coût de l'appel selon opérateur",
+        "• Appel hors métropole ou depuis l'étranger : composer +33 (0) 1 73 60 39 39, accessible uniquement depuis un poste fixe. Coût d'une communication + coût de l'appel international variable selon les pays et les opérateurs."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [
+    {
+      "titre": "Accessibilité téléphonique pour les personnes sourdes ou malentendantes",
+      "url": "https://www.acce-o.fr/client/allo-sp",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "qu-est-ce-qu-allo-service-public-3939",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "obligations-de-l-administration-vis-a-vis-des-usagers",
+      "titre": "Obligations de l'administration vis-à-vis des usagers"
+    }
+  ]
+}

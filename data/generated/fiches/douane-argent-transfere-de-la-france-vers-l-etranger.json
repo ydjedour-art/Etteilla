@@ -1,0 +1,33 @@
+{
+  "id": "F36500",
+  "type_publication": "Recherche guidée",
+  "titre": "[Douane : argent transféré de la France vers l'étranger]",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "[Douane : argent transféré de la France vers l'étranger]",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2022-07-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F36500",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Douane",
+    "[Douane : argent transféré de la France vers l'étranger]"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "douane-argent-transfere-de-la-france-vers-l-etranger",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "douane",
+      "titre": "Douane"
+    }
+  ]
+}

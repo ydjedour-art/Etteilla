@@ -1,0 +1,54 @@
+{
+  "id": "F34545",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Autorisation d'absence pour décès d'un enfant ou d'un proche dans la fonction publique",
+  "theme": "Travail - Formation",
+  "description": "L'agent public peut bénéficier d'autorisations d'absence lors du décès d'un proche dont la durée varie selon le lien de parenté et l'administration employeur.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-03-31",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34545",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Congés dans la fonction publique",
+    "Autorisation d'absence pour décès d'un enfant ou d'un proche dans la fonction publique"
+  ],
+  "introduction": "Lors du décès d'un enfant ou d'un proche, vous pouvez bénéficier d'une autorisation spéciale d'absence. La durée de l'autorisation varie selon le lien de parenté avec le défunt et votre administration employeur. Nous vous présentons les informations à connaître selon votre fonction publique d’appartenance (État - FPE, territoriale - FPT, hospitalière - FPH).",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les autorisations spéciales d'absence sont accordées que vous soyez fonctionnaire ou contractuel.",
+        "Elles sont sans effet sur vos droits à congés annuels. Elles ne diminuent pas votre nombre de jours de congés annuels."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général de la fonction publique : article L622-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044424974/"
+    },
+    {
+      "titre": "Circulaire du 7 mai 2001 relative aux autorisations exceptionnelles d'absence liées au pacte civil de solidarité",
+      "url": "https://www.legifrance.gouv.fr/download/pdf/circ?id=26285"
+    },
+    {
+      "titre": "Circulaire DHOS/P 1 n°2001-507 du 23 octobre 2001 relative à l'autorisation spéciale d'absence à accorder à l'occasion de la conclusion d'un pacte civil de solidarité par des agents relevant de la fonction publique hospitalière",
+      "url": "https://sante.gouv.fr/fichiers/bo/2001/01-50/a0503303.htm"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "autorisation-d-absence-pour-deces-d-un-enfant-ou-d-un-proche-dans-la-fonction-publique",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "conges-dans-la-fonction-publique",
+      "titre": "Congés dans la fonction publique"
+    }
+  ]
+}

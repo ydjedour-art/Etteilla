@@ -1,0 +1,79 @@
+{
+  "id": "F2166",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Permis de chasser perdu, volé ou abîmé : comment demander un duplicata ?",
+  "theme": "Loisirs - Sports - Culture",
+  "description": "La demande de duplicata d'un permis de chasser s’effectue auprès de l’Office français de la biodiversité.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-08-14",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2166",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Loisirs - Sports - Culture",
+    "Chasse",
+    "Permis de chasser perdu, volé ou abîmé : comment demander un duplicata ?"
+  ],
+  "introduction": "La demande de duplicata d'un permis de chasser est à envoyer à l'OFB. En cas de permis de chasser délivré par une préfecture ou une sous-préfecture avant le 1er septembre 2009, vous devez joindre à la demande une attestation de délivrance initiale.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "[À savoir] L'Office français de la biodiversité (OFB) a remplacé l'Office national de la chasse et de la faune sauvage (ONCFS) depuis le 1er janvier 2020."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'environnement : articles R423-9 à R423-11",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074220/LEGISCTA000006188842"
+    },
+    {
+      "titre": "Arrêté du 27 août 2009 relatif au remboursement du droit de timbre du permis de chasser et de délivrance du duplicata",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000021006486"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Pré-demande en ligne de duplicata du permis de chasser",
+      "url": "https://permischasser.ofb.fr/demande-duplicata",
+      "type": "selNG"
+    },
+    {
+      "titre": "Déclaration de perte et demande de duplicata d’un permis de chasser perdu, détruit ou détérioré",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_13944.do",
+      "type": "formulaireNG"
+    }
+  ],
+  "contacts": [
+    "Office français de la biodiversité (OFB)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Le permis de chasser",
+      "url": "https://ofb.gouv.fr/le-permis-de-chasser"
+    },
+    {
+      "titre": "La sécurité à la chasse",
+      "url": "https://www.ofb.gouv.fr/la-securite-la-chasse"
+    },
+    {
+      "titre": "Chasser en toute sécurité",
+      "url": "https://ofb.gouv.fr/doc/chasser-en-toute-securite"
+    },
+    {
+      "titre": "Chasse et monde cynégétique : Foire aux questions",
+      "url": "https://www.ofb.gouv.fr/questions-reponses-chasse"
+    }
+  ],
+  "slug": "permis-de-chasser-perdu-vole-ou-abime-comment-demander-un-duplicata",
+  "path": [
+    {
+      "slug": "loisirs-sports-culture",
+      "titre": "Loisirs - Sports - Culture"
+    },
+    {
+      "slug": "chasse",
+      "titre": "Chasse"
+    }
+  ]
+}

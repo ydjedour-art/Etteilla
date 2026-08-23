@@ -1,0 +1,50 @@
+{
+  "id": "F32517",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "La Gipa est-elle toujours versée dans la fonction publique ?",
+  "theme": "Travail - Formation",
+  "description": "Non, l’indemnité de garantie individuelle du pouvoir d'achat (Gipa) n’est plus versée depuis 2024.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-08-26",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F32517",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Rémunération dans la fonction publique",
+    "La Gipa est-elle toujours versée dans la fonction publique ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Non, l’indemnité de garantie individuelle du pouvoir d'achat (Gipa) n’est plus versée depuis 2024.",
+        "La Gipa était accordée aux agents publics dont l'évolution du traitement brut indiciaire était inférieure, sur une période de référence de 4 ans, à celle de l'indice des prix à la consommation."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Loi n°2009-972 du 3 août 2009 relative à la mobilité et aux parcours professionnels dans la fonction publique : article 41",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000020955509/"
+    },
+    {
+      "titre": "Décret n°2008-539 du 6 juin 2008 relatif à l'instauration de la garantie individuelle du pouvoir d'achat",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000018934143/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "la-gipa-est-elle-toujours-versee-dans-la-fonction-publique",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "remuneration-dans-la-fonction-publique",
+      "titre": "Rémunération dans la fonction publique"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "F33208",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Location d'un véhicule en leasing : comment obtenir la carte grise ?",
+  "theme": "Transports - Mobilité",
+  "description": "Si vous louez un véhicule en leasing, c'est le propriétaire qui doit demander la carte grise.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-04-29",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33208",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Carte grise (certificat d'immatriculation)",
+    "Location d'un véhicule en leasing : comment obtenir la carte grise ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Le leasing (ou crédit-bail ou location avec option d'achat LOA) permet de louer un véhicule pour une durée déterminée avant d’en devenir éventuellement propriétaire.",
+        "Si vous louez un véhicule en leasing, vous n'en êtes pas propriétaire pendant la durée du contrat.",
+        "Une banque ou un établissement de crédit achète un véhicule pour votre compte et en est le propriétaire.",
+        "C'est à la banque ou établissement de crédit de se charger des formalités d'immatriculation. Vous n'aurez pas à demander vous-même la carte grise (désormais appelée certificat d'immatriculation).",
+        "Vous devrez fournir au propriétaire des documents pour établir le certificat d'immatriculation.",
+        "Le document indiquera les renseignements suivants :",
+        "• Nom de l'organisme prêteur en tant que propriétaire",
+        "• Nom et adresse du locataire du véhicule."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la route : articles R322-1 à R322-14",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074228/LEGISCTA000006177098"
+    },
+    {
+      "titre": "Arrêté du 9 février 2009 relatif aux démarches d'immatriculation des véhicules",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000020237165"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "location-d-un-vehicule-en-leasing-comment-obtenir-la-carte-grise",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "carte-grise-certificat-d-immatriculation",
+      "titre": "Carte grise (certificat d'immatriculation)"
+    }
+  ]
+}

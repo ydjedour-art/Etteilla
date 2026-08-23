@@ -1,0 +1,90 @@
+{
+  "id": "F32877",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Peut-on demander la révision du montant de l'allocation personnalisée d'autonomie (Apa) ?",
+  "theme": "Social - Santé",
+  "description": "Oui, en cas de changement de situation, vous pouvez demander la révision du montrant de l'allocation personnalisée d'autonomie (Apa).",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-01-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F32877",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Allocations et aides aux personnes âgées",
+    "Peut-on demander la révision du montant de l'allocation personnalisée d'autonomie (Apa) ?"
+  ],
+  "introduction": "Oui, en cas de changement de situation, vous pouvez demander la révision du montrant de l'allocation personnalisée d'autonomie (Apa). Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Vous pouvez demander la réévaluation de vos besoins (révision de votre plan d'aide et en conséquence du montant de votre Apa), en cas de modification :",
+        "• Soit de votre situation personnelle ou financière",
+        "• Soit de la situation personnelle de votre proche aidant.",
+        "Cette demande peut être faite :",
+        "• Soit par vous-même",
+        "• Soit par votre représentant légal",
+        "• Soit par un proche aidant",
+        "Après réception de votre dossier de demande complet, votre demande peut être étudiée, soit en urgence, soit dans les 2 mois, selon les circonstances.",
+        "Pour savoir comment faire votre demande, vous devez vous renseigner auprès de l'organisme suivant :",
+        "Cas général",
+        "Services du département",
+        "À Paris",
+        "Paris - Centre d'action sociale de la ville de Paris (CASVP)",
+        "Si la révision conduit à une réduction du montant de l'Apa, vous pouvez contester cette décision :",
+        "Vous devez d'abord faire un recours amiable pour pouvoir ensuite faire un recours contentieux.",
+        "Recours administratif préalable obligatoire (Rapo)",
+        "Si vous contestez une décision concernant l'Apa, vous pouvez faire un recours administratif préalable obligatoire devant les services du département. Vous devez faire ce recours dans les 2 mois qui suivent la notification de la décision que vous contestez.",
+        "Pour cela, vous devez rédiger une lettre expliquant pourquoi vous n’êtes pas d’accord avec la décision liée à votre APA. Vous devez joindre à votre lettre la copie de la notification de la décision, ainsi que tout document que vous estimez utile.",
+        "Vous devez soit envoyer ces documents par courrier recommandée avec avis de réception, soit les déposer à l’accueil des services du département.",
+        "Services du département",
+        "Le président du conseil départemental a 2 mois pour vous répondre, après avoir réceptionné votre recours.",
+        "Recours contentieux",
+        "Vous pouvez faire appel de la décision rendue dans le cadre du recours administratif préalable obligatoire.",
+        "Pour cela, vous devez déposer un recours contentieux devant le tribunal administratif.",
+        "Tribunal administratif",
+        "Vous devez faire ce recours dans les 2 mois qui suivent la notification de la décision que vous contestez.",
+        "Si vous le souhaitez, vous pouvez contester la décision du tribunal administratif par un pourvoi devant le Conseil d'État."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'action sociale et des familles : article L232-12 à L232-20",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074069/LEGISCTA000006174429/"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : articles R232-27 à R232-29",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074069/LEGISCTA000006190057/#LEGISCTA000006190057"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : articles L134-1 à L134-2",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074069/LEGISCTA000033425308"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Point d'information local dédié aux personnes âgées"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "APA : comment vos besoins sont évalués ?",
+      "url": "https://www.pour-les-personnes-agees.gouv.fr/preserver-son-autonomie/perte-d-autonomie-evaluation-et-droits/comment-les-besoins-sont-ils-evalues"
+    },
+    {
+      "titre": "Portail national d'information pour les personnes âgées et leurs proches",
+      "url": "https://www.pour-les-personnes-agees.gouv.fr/"
+    }
+  ],
+  "slug": "peut-on-demander-la-revision-du-montant-de-l-allocation-personnalisee-d-autonomie-apa",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "allocations-et-aides-aux-personnes-agees",
+      "titre": "Allocations et aides aux personnes âgées"
+    }
+  ]
+}

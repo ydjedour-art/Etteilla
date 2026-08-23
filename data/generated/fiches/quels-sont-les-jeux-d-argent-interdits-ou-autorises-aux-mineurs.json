@@ -1,0 +1,68 @@
+{
+  "id": "F16966",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quels sont les jeux d'argent interdits ou autorisés aux mineurs ?",
+  "theme": "Social - Santé",
+  "description": "Un mineur ne peut pas jouer au Loto, faire des paris sportifs, entrer dans un casino ou jouer au poker.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-11-26",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F16966",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Addictions",
+    "Quels sont les jeux d'argent interdits ou autorisés aux mineurs ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Jeux d’argent interdits",
+        "Un mineur ne peut pas participer aux jeux suivants :",
+        "• Jeux en ligne",
+        "• Paris sportifs ou hippiques",
+        "• Jeux de hasard commerciaux (par exemple, Loto, jeux à gratter)",
+        "• Jeux de casino (par exemple, roulette, black jack)",
+        "• Poker.",
+        "[À savoir] L'accès aux casinos est interdit à un mineur, même s'il ne joue pas.",
+        "L'interdiction s'applique même si le mineur est ​​émancipé​​​​ ou accompagné d'un parent.",
+        "Elle s'applique aussi si le mineur ne joue pas son propre argent, mais pour le compte d'une personne majeure.​",
+        "Jeux d’argent autorisés",
+        "Un mineur peut uniquement participer à certains types de jeux :",
+        "• Loto traditionnel (mises dont la valeur est inférieure à 20 €) appelé poules au gibier, rifles ou quines",
+        "• Tombola",
+        "• Loterie dans un cadre associatif ou lors d'une fête foraine."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la sécurité intérieure : articles L320-1 à L320-18",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000025503132/LEGISCTA000039168196"
+    },
+    {
+      "titre": "Code de la sécurité intérieure : L322-3 à L322-6",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000039182605"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Interdiction de jeu des mineurs - FAQ",
+      "url": "https://anj.fr/foire-aux-questions/interdiction-de-jeu-des-mineurs"
+    }
+  ],
+  "slug": "quels-sont-les-jeux-d-argent-interdits-ou-autorises-aux-mineurs",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "addictions",
+      "titre": "Addictions"
+    }
+  ]
+}

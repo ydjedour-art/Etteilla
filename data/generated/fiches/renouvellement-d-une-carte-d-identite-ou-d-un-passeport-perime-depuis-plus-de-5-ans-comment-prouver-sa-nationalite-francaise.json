@@ -1,0 +1,94 @@
+{
+  "id": "F18713",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Renouvellement d'une carte d'identité ou d'un passeport périmé depuis plus de 5 ans : comment prouver sa nationalité française ?",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Vous pouvez prouver votre nationalité de plusieurs manières : carte d'identité, passeport, acte de naissance, possession d'état, CNF ....",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-08-14",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F18713",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Carte d'identité",
+    "Renouvellement d'une carte d'identité ou d'un passeport périmé depuis plus de 5 ans : comment prouver sa nationalité française ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Quand vous faites une demande de renouvellement d'une carte d'identité ou d'un passeport, la présentation de l'un des documents suivants suffit à prouver votre nationalité française :",
+        "• Carte d'identité valide ou périmée depuis moins de 5 ans",
+        "• Passeport valide ou périmé depuis moins de 5 ans.",
+        "Si ces 2 documents sont périmés depuis plus de 5 ans, vous devez présenter d’autres documents pour prouver votre nationalité française. Nous vous présentons les informations à connaître.",
+        "Acte de naissance",
+        "Si vous ne pouvez pas prouver votre nationalité française par une carte d’identité ou un passeport valide ou périmé depuis moins de 5 ans, vous pouvez utiliser un acte de naissance.",
+        "La situation varie selon que vous êtes né en France ou à l’étranger :",
+        "Vous êtes né en France",
+        "La situation varie selon qu’au moins l’un de vos parents est né en France ou que votre nationalité française est inscrite dans les mentions marginales de votre acte de naissance :",
+        "Au moins l'un de vos parents est né en France",
+        "Vous pouvez fournir un acte de naissance de moins de 3 mois si vous êtes né en France et qu’au moins l’un de vos parents est lui-même né en France pour prouver votre nationalité française.",
+        "Vous pouvez utiliser ce téléservice :",
+        "Demande d'acte de naissance : copie intégrale ou extrait (naissance en France) - Service gratuit",
+        "Connexion avec France Connect",
+        "Votre nationalité française est sur votre acte de naissance (en mention marginale)",
+        "Votre nationalité française est inscrite en mention marginale sur votre acte de naissance ? Vous pouvez fournir un acte de naissance de moins de 3 mois pour prouver votre nationalité française.",
+        "Vous pouvez utiliser ce téléservice :",
+        "Demande d'acte de naissance : copie intégrale ou extrait (naissance en France) - Service gratuit",
+        "Connexion avec France Connect",
+        "Vous êtes né à l'étranger",
+        "Si vous n'avez pas de titre d'identité (carte d’identité ou passeport) récent, la preuve de la nationalité française peut être apportée en présentant un acte de naissance (copie intégrale ou extrait avec filiation) de moins de 3 mois.",
+        "Cet acte d'état civil peut permettre d'établir votre nationalité française si vous vous trouvez dans l'un des cas suivants :",
+        "• L'acte de naissance (sur papier sécurisé) a été délivré par le service central d'état civil de Nantes (Scec)",
+        "• L'acte de naissance (sur papier ordinaire) a été délivré par un officier de l'état civil consulaire d'une ambassade.",
+        "Vous pouvez utiliser ce téléservice :",
+        "Demande d'acte de naissance : copie intégrale ou extrait (naissance à l'étranger) - Service gratuit",
+        "Connexion avec France Connect ou un compte Service Public",
+        "Documents liés à la nationalité française",
+        "Si vous ne pouvez pas prouver votre nationalité française avec un acte de naissance, vous pouvez le faire avec l’un de ces documents :",
+        "• Déclaration d'acquisition de la nationalité française à votre nom, dûment enregistrée ou, si vous n’avez pas ce document, une attestation de cette déclaration",
+        "• Ampliation du décret de naturalisation ou de réintégration dans la nationalité française ou, si vous n’avez pas ce document, une attestation constatant l'existence de ce décret.",
+        "Possession d’État",
+        "Si vous ne pouvez pas prouver votre nationalité française avec des documents liés à la nationalité, vous pouvez demander à bénéficier de la « possession d'état de Français ».",
+        "La possession d'état est établie si les pouvoirs publics vous considèrent comme Français depuis au moins 10 ans.",
+        "Pour l'établir, il faut fournir au moins 2 documents figurant dans la liste suivante :",
+        "• Carte militaire ou un document attestant de l'accomplissement des obligations militaires",
+        "• Carte d'électeur pour les élections réservées aux Français",
+        "• Document attestant de l'appartenance à la fonction publique française (pour les emplois réservés aux Français, avant l'ouverture de la fonction publique aux ressortissants de l'Union européenne en 1991)",
+        "• Document attestant de l'exercice d'un mandat électif réservé aux seuls Français",
+        "• Titre d'identité non sécurisé (par exemple, carte d’identité cartonnée, passeport Delphine), même périmé.",
+        "Certificat de nationalité",
+        "Si vous ne possédez aucun des documents mentionnés précédemment, il faudra présenter un certificat de nationalité française (CNF)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : articles 28 et 28-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006150514"
+    },
+    {
+      "titre": "Décret n°55-1397 du 22 octobre 1955 relatif à la carte d'identité : article 4 - Pièces à fournir pour une première demande",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000034729485"
+    },
+    {
+      "titre": "Décret n°2005-1726 du 30 décembre 2005 relatif au passeport : article 5 - Pièces à fournir pour une première demande",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000033333825"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "renouvellement-d-une-carte-d-identite-ou-d-un-passeport-perime-depuis-plus-de-5-ans-comment-prouver-sa-nationalite-francaise",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "carte-d-identite",
+      "titre": "Carte d'identité"
+    }
+  ]
+}

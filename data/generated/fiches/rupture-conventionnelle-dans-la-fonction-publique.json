@@ -1,0 +1,91 @@
+{
+  "id": "F31094",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Rupture conventionnelle dans la fonction publique",
+  "theme": "Travail - Formation",
+  "description": "La rupture conventionnelle permet à un fonctionnaire ou à un contractuel en CDI et à l'administration de convenir des conditions de rupture du lien de travail.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-08-08",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31094",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Quitter la fonction publique",
+    "Rupture conventionnelle dans la fonction publique"
+  ],
+  "introduction": "Vous êtes agent public et envisagez de quitter la fonction publique ? Nous vous présentons les informations sur la rupture conventionnelle selon votre fonction publique d'appartenance (État - FPE, territoriale - FPT ou hospitalière - FPH) et selon que vous êtes fonctionnaire ou contractuel.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code général de la fonction publique : articles L552-1 à L552-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044423391/"
+    },
+    {
+      "titre": "Code général de la fonction publique : articles L557-1 à L557-2",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044423471/"
+    },
+    {
+      "titre": "Loi n°2019-828 du 6 août 2019 de transformation de la fonction publique : article 72",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044460265"
+    },
+    {
+      "titre": "Code général des impôts : articles 79 à 81 quater",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006197199/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : article L136-1 à L136-5",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006173055"
+    },
+    {
+      "titre": "Décret n°2019-1593 du 31 décembre 2019 relatif à la procédure de rupture conventionnelle dans la fonction publique",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000039727613/"
+    },
+    {
+      "titre": "Décret n°2019-1596 du 31 décembre 2019 relatif à l'indemnité spécifique de rupture conventionnelle dans la fonction publique",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000039728021/"
+    },
+    {
+      "titre": "Décret n°86-83 du 17 janvier 1986 relatif aux agents contractuels de la FPE",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000699956/"
+    },
+    {
+      "titre": "Décret n°88-145 du 15 février 1988 relatif aux agents non titulaires de la FPT",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000871608"
+    },
+    {
+      "titre": "Décret n°91-155 du 6 février 1991 relatif aux agents contractuels de la FPH",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000343794"
+    },
+    {
+      "titre": "Arrêté du 6 août 2026 fixant les modèles de convention de rupture conventionnelle dans la fonction publique",
+      "url": "https://www.legifrance.gouv.fr/ioda/id/JORFTEXT000054632945"
+    },
+    {
+      "titre": "Réponse ministérielle du 7 juillet 2020 relative à la rupture conventionnelle dans la fonction publique",
+      "url": "http://questions.assemblee-nationale.fr/q15/15-30399QE.htm"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Modèle de convention de rupture conventionnelle applicable au fonctionnaire",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000054638573"
+    },
+    {
+      "titre": "Modèle de convention de rupture conventionnelle applicable au contractuel public",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000054638591"
+    }
+  ],
+  "slug": "rupture-conventionnelle-dans-la-fonction-publique",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "quitter-la-fonction-publique",
+      "titre": "Quitter la fonction publique"
+    }
+  ]
+}

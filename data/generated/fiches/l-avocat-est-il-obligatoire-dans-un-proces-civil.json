@@ -1,0 +1,104 @@
+{
+  "id": "F35132",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "L'avocat est-il obligatoire dans un procès civil ?",
+  "theme": "Justice",
+  "description": "Dans un procès civil, l'avocat peut être obligatoire en fonction de la procédure, du montant du litige ou du tribunal saisi.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-06-25",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35132",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Affaire civile",
+    "L'avocat est-il obligatoire dans un procès civil ?"
+  ],
+  "introduction": "Dans un procès civil, l'avocat peut être obligatoire en fonction de la procédure, du montant du litige ou du tribunal saisi.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de procédure civile : article 760",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070716/LEGISCTA000006149694/"
+    },
+    {
+      "titre": "Code de procédure civile : article 761",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597317"
+    },
+    {
+      "titre": "Code de procédure civile : article 762",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039623464"
+    },
+    {
+      "titre": "Code de l'organisation judiciaire : articles R211-3-24 à R211-3-27",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000039013363"
+    },
+    {
+      "titre": "Code de l'organisation judiciaire : article L211-4-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038314068"
+    },
+    {
+      "titre": "Code de procédure civile : articles 845 à 846",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070716/LEGISCTA000039497681/#LEGISCTA000039499529"
+    },
+    {
+      "titre": "Code de procédure civile : article 1139",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039624049"
+    },
+    {
+      "titre": "Code de procédure civile : articles 1202 à 1210",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070716/LEGISCTA000006149804"
+    },
+    {
+      "titre": "Code de procédure civile : articles 1181 à 1200-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006149753/"
+    },
+    {
+      "titre": "Code de commerce : article R145-29",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039624032"
+    },
+    {
+      "titre": "Code de procédure civile : articles 880 à 892",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006135925/"
+    },
+    {
+      "titre": "Code de l'expropriation : article R311-9",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039624078"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles R142-10 à R142-10-10",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000037544154"
+    },
+    {
+      "titre": "Livre des procédures fiscales : article R202-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039624054/"
+    },
+    {
+      "titre": "Code de procédure civile : article 899",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025820311"
+    },
+    {
+      "titre": "Code du travail : articles R1461-1 à R1461-2",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000018535942"
+    },
+    {
+      "titre": "Code de procédure civile : article 973",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006117257/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Avocat"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "l-avocat-est-il-obligatoire-dans-un-proces-civil",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "affaire-civile",
+      "titre": "Affaire civile"
+    }
+  ]
+}

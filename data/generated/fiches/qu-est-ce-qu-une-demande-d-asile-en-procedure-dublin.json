@@ -1,0 +1,126 @@
+{
+  "id": "F2717",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Qu'est-ce qu'une demande d'asile en procédure \"Dublin\" ?",
+  "theme": "Étranger - Europe",
+  "description": "L'asile en procédure dite Dublin consiste à déterminer quel est le pays responsable d'une demande d'asile.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2024-12-23",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2717",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Demande d'asile (réfugié, protection subsidiaire, apatride)",
+    "Qu'est-ce qu'une demande d'asile en procédure \"Dublin\" ?"
+  ],
+  "introduction": "Une demande d'asile que vous souhaitez déposer en France peut relever d'un autre État européen, en application du règlement dit Dublin III. Selon ce texte, la demande d'asile est examinée par un seul pays européen. Pour savoir quel pays est concerné, plusieurs critères sont appliqués. Si la France n'est pas responsable de votre demande, vous serez obligé de vous rendre dans le pays concerné. Voici les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Comment est déterminé le pays responsable d'une demande d'asile dans le cadre du règlement Dublin ?",
+      "contenu": [
+        "La situation est différente si vous êtes mineur non accompagné ou non.",
+        "Cas général",
+        "Plusieurs critères, fixés par le règlement Dublin III, permettent de déterminer le pays responsable de l'examen de votre demande d'asile.",
+        "Le pays responsable de votre demande est",
+        "• soit celui par lequel vous êtes entré et dans lequel vous avez été contrôlé,",
+        "• soit celui qui vous a accordé un visa ou un titre de séjour.",
+        "Mais d'autres critères sont prévus, notamment le fait qu'un membre de votre famille que vous souhaitez rejoindre réside en tant que réfugié ou demandeur d'asile dans un autre pays. C'est le principe de l'unité de la famille qui est alors appliqué.",
+        "Le règlement Dublin III s'applique dans les pays de l'Espace économique européen (EEE) et en Suisse.",
+        "Un pays peut toutefois accepter, pour des raisons humanitaires, votre demande d'asile même si elle ne relève pas de sa compétence.",
+        "Mineur non accompagné",
+        "Si vous êtes mineur non accompagné, l'État responsable de votre demande est celui dans lequel vous vous trouvez. Ce principe est valable même si vous avez déposé des demandes d'asile dans plusieurs pays. Vous ne devez pas avoir de famille résidant légalement en Europe.",
+        "[À noter] Dans le cadre de cette procédure, l'Ofpra n'est pas consulté."
+      ]
+    },
+    {
+      "titre": "L'administration procède-t-elle au relevé des empreintes digitales dans le cadre de la procédure « Dublin » ?",
+      "contenu": [
+        "Si vous avez déposé une demande d'asile dans plusieurs pays européens, le relevé de vos empreintes digitales est effectué. Il permet de savoir dans quel pays vous avez éventuellement déjà présenté une demande et de déterminer le pays responsable de votre demande.",
+        "La prise de vos empreintes s'effectue lors de votre rendez-vous au guichet unique chargé des demandes d'asile (GUDA) ou au moment de votre demande d'asile à la frontière."
+      ]
+    },
+    {
+      "titre": "Que se passe-t-il en attendant que l'État responsable de la demande d'asile soit déterminé ?",
+      "contenu": [
+        "Les autorités françaises adressent une demande de prise ou de reprise en charge à l'État qu'elles estiment responsable de votre demande d'asile.",
+        "Dans l'attente de la réponse, 2 situations sont possibles :",
+        "• Si vous êtes à la frontière, vous n'êtes pas autorisé à entrer en France et pouvez être placé en zone d'attente.",
+        "• Si vous êtes déjà en France, vous bénéficiez du droit d'y rester provisoirement. Cependant, ce droit est valable uniquement jusqu'à la fin de la procédure de détermination de l'État responsable de votre demande et, éventuellement, jusqu'à votre transfert effectif vers cet État. Pour cela, vous recevez une attestation de demande d'asile portant la mention procédure Dublin.",
+        "Cette attestation est valable 1 mois. Elle est renouvelable par période de 4 mois. Elle peut vous être retirée (ou ne pas être renouvelée) si vous refusez de répondre à une demande de la préfecture ou de vous rendre à un contrôle.",
+        "Vous avez le droit de bénéficier des conditions matérielles d'accueil des demandeurs d'asile.",
+        "Vous pouvez aussi être assigné à résidence pendant le temps nécessaire à la procédure de détermination de l'État responsable de votre demande.",
+        "Vous êtes informé, dans une langue que vous comprenez, de la procédure, de ses délais et de ses conséquences."
+      ]
+    },
+    {
+      "titre": "Que se passe-t-il en cas d'accord de prise en charge de la demande d'asile par un autre pays que la France ?",
+      "contenu": [
+        "En cas d'accord sur la prise en charge, la préfecture vous notifie une décision écrite de transfert.",
+        "Cette décision vous informe que votre demande d'asile en France ne sera pas examinée et que vous allez être transféré vers le pays européen responsable. Cette décision vous explique les raisons pour lesquelles ce transfert a été décidé.",
+        "En attendant ce transfert, si vous avez déjà été assigné à résidence, cette assignation peut être prolongée. Vous pouvez également faire l'objet d'un placement en rétention.",
+        "Vous pouvez vous rendre par vos propres moyens dans le pays concerné, une date limite vous étant fixée. Vous pouvez également y être transféré sous escorte."
+      ]
+    },
+    {
+      "titre": "Que se passe-t-il en cas de refus de prise en charge de la demande d'asile par un autre pays que la France ?",
+      "contenu": [
+        "En cas de refus de la prise en charge, vous êtes admis au séjour en France et êtes autorisé à déposer une demande d'asile auprès de l'Ofpra."
+      ]
+    },
+    {
+      "titre": "Quel recours faire contre une décision de transfert vers un autre pays responsable de votre demande d'asile ?",
+      "contenu": [
+        "La procédure de recours est différente si vous êtes en zone d'attente à la frontière ou si vous êtes déjà présent sur le territoire français.",
+        "Décision de transfert à la frontière",
+        "Si vous faites l'objet d'un refus d'entrée sur le territoire et d'une décision de transfert, vous pouvez saisir le tribunal administratif dans les 48 heures suivant la notification de cette décision.",
+        "Le tribunal doit prendre sa décision dans un délai de 96 heures à partir de la fin du délai de recours.",
+        "Décision de transfert sur le territoire",
+        "Si vous êtes déjà en France et que vous faites l'objet d'une décision de transfert, vous avez 7 jours à partir de la notification de cette décision pour saisir le tribunal administratif.",
+        "Le tribunal doit prendre sa décision dans un délai de 15 jours à partir du recours.",
+        "Si vous avez saisi le tribunal administratif, la décision de transfert ne peut pas être appliquée avant la décision du tribunal.",
+        "Vous pouvez faire appel du jugement du tribunal administratif dans un délai de 15 jours devant la Cour administrative d'appel. Cet appel n'est pas suspensif.",
+        "Cour administrative d'appel"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Règlement (UE) n°604/2013 du 26 juin 2013 dit Dublin III relatif aux critères et mécanismes de détermination de l'État européen responsable de l'examen d'une demande d'asile",
+      "url": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:180:0031:0059:FR:PDF"
+    },
+    {
+      "titre": "Règlement (CE) n° 2725/2000 du 11 décembre 2000 concernant la création du système Eurodac",
+      "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?qid=1485958621687&uri=CELEX%3A32000R2725"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles L352-1 à L352-9",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042771364/"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles L571-1 à L573-6",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042772592/"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : L900-1 à L931-4",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000049077897/"
+    },
+    {
+      "titre": "Arrêté du 9 octobre 2015 fixant la durée de validité de l'attestation de demande d'asile",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000031327521/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "qu-est-ce-qu-une-demande-d-asile-en-procedure-dublin",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "demande-d-asile-refugie-protection-subsidiaire-apatride",
+      "titre": "Demande d'asile (réfugié, protection subsidiaire, apatride)"
+    }
+  ]
+}

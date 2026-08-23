@@ -1,0 +1,116 @@
+{
+  "id": "F2775",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Une salariée enceinte peut-elle bénéficier d'un aménagement de son poste de travail ?",
+  "theme": "Travail - Formation",
+  "description": "La salariée enceinte bénéficie d'une protection pour sa santé et celle de l'enfant.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-06-06",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2775",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Conditions de travail dans le secteur privé",
+    "Une salariée enceinte peut-elle bénéficier d'un aménagement de son poste de travail ?"
+  ],
+  "introduction": "L'employeur doit assurer la sécurité et protéger la santé physique et mentale du salarié. Ainsi une salariée enceinte bénéficie d'une protection pour sa santé et celle de son enfant. Nous faisons le point sur la réglementation.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Un aménagement du poste de travail de la salariée enceinte peut être demandé dans les cas suivants :",
+        "• État de santé de la salariée le justifiant",
+        "• Travailleuse de nuit",
+        "• Exposition à des risques particuliers (produits toxiques par exemple).",
+        "[À savoir] Toutes les femmes enceintes doivent pouvoir se reposer en position allongée, dans des conditions convenables."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code du travail : article L1222-9",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044605366"
+    },
+    {
+      "titre": "Code du travail : articles L1225-7 et L1225-8",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000006198525"
+    },
+    {
+      "titre": "Code du travail : articles L1225-12 à L1225-15",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000006198527"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles L333-1 à L333-3",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000006156367"
+    },
+    {
+      "titre": "Code du travail : article R1225-4",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023417352/"
+    },
+    {
+      "titre": "Code du travail : article R4451-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039363068/"
+    },
+    {
+      "titre": "Code du travail : article R4152-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018532814"
+    },
+    {
+      "titre": "Code du travail : article R4451-6",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037024991/"
+    },
+    {
+      "titre": "Code du travail : article R4451-57",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037024611/"
+    },
+    {
+      "titre": "Code du travail : article D4152-3",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018532809"
+    },
+    {
+      "titre": "Code du travail : articles D4152-4 à R4152-7-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000018488383"
+    },
+    {
+      "titre": "Code du travail : article D4152-8",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018532795/"
+    },
+    {
+      "titre": "Code du travail : articles D4152-9 à D4152-11",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000018488397"
+    },
+    {
+      "titre": "Code du travail : article D4152-12",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018532783/"
+    },
+    {
+      "titre": "Code du travail : article D4152-29",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023415264"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Calculer les indemnités journalières maternité ou paternité et d’accueil de l’enfant",
+      "url": "http://www.ameli.fr/simulateur",
+      "type": "simulateurNG"
+    },
+    {
+      "titre": "Trouver sa convention collective",
+      "url": "https://code.travail.gouv.fr/outils/convention-collective?src_url=https://service-public.gouv.fr/particuliers/vosdroits/F78",
+      "type": "outilRechercheNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "une-salariee-enceinte-peut-elle-beneficier-d-un-amenagement-de-son-poste-de-travail",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "conditions-de-travail-dans-le-secteur-prive",
+      "titre": "Conditions de travail dans le secteur privé"
+    }
+  ]
+}

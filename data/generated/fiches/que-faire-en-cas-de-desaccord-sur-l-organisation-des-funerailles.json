@@ -1,0 +1,85 @@
+{
+  "id": "F12695",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Que faire en cas de désaccord sur l'organisation des funérailles ?",
+  "theme": "Famille - Scolarité",
+  "description": "Si aucun testament ne précise les volontés du défunt et que ses proches ne sont pas d'accord pour les funérailles, seul le juge peut trancher.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-07-17",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F12695",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Déclaration de décès, obsèques et sépulture",
+    "Que faire en cas de désaccord sur l'organisation des funérailles ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les funérailles doivent correspondre aux dernières volontés du défunt.",
+        "Si aucun testament ne les précise, il appartient aux proches de faire les choix nécessaires pour l'organisation des funérailles (crémation /inhumation, lieu, rituel religieux/laïc, etc.),",
+        "S'ils ne sont pas d'accord, seul le juge peut trancher.",
+        "Il désigne la personne la plus apte à décider (on parle de personne habilitée à pourvoir aux funérailles).",
+        "Il s'agit d'une personne ayant eu un lien stable et permanent avec le défunt (par exemple conjoint survivant, partenaire pacsé, concubin, parent, enfant).",
+        "Vous devez saisir le tribunal judiciaire du lieu du décès.",
+        "Toutefois, si le décès est survenu à l’étranger, vous devez saisir le tribunal du lieu du dernier domicile du défunt en France.",
+        "Vous devez saisir le tribunal par assignation ou par requête conjointe au greffe.",
+        "Vous pouvez passer par une requête conjointe si vous êtes d'accord pour saisir ensemble le tribunal et lui demander de trancher votre litige.",
+        "Le recours à un avocat n'est pas obligatoire.",
+        "Le tribunal décide dans les 24 heures.",
+        "Tribunal judiciaire ou tribunal de proximité",
+        "Vous pouvez faire appel de la décision du tribunal dans les 24 heures, auprès du premier président de la cour d'appel.",
+        "Celui-ci décide immédiatement.",
+        "Le recours à un avocat n'est pas obligatoire.",
+        "Cour d'appel",
+        "[Attention] Ne pas respecter les dernières volontés du défunt peut être sanctionné d'une peine pouvant aller jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende. Ne pas respecter l'éventuelle décision de justice peut être sanctionné des mêmes peines."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'organisation judiciaire : article R211-3-3",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039012237/"
+    },
+    {
+      "titre": "Code de l'organisation judiciaire : article R211-14",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039014009/"
+    },
+    {
+      "titre": "Code de procédure civile : articles 817 à 833",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000039623605"
+    },
+    {
+      "titre": "Code de procédure civile : article 1061-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039624763"
+    },
+    {
+      "titre": "Code pénal : article 433-21-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418594/"
+    },
+    {
+      "titre": "Loi du 15 novembre 1887 sur la liberté des funérailles",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000021810111/"
+    },
+    {
+      "titre": "Arrêté du 13 août 2026 relatif à la notice d'information définie à l'article R. 2223-24-1 du code général des collectivités territoriales",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054678253"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "que-faire-en-cas-de-desaccord-sur-l-organisation-des-funerailles",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "declaration-de-deces-obseques-et-sepulture",
+      "titre": "Déclaration de décès, obsèques et sépulture"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "F31259",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quel est le délai de prescription en matière d'assurance auto ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Vous disposez de 2 ans à partir de l’événement à l’origine de votre demande pour agir en justice en matière d’assurance automobile.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-10-20",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31259",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Assurance automobile (véhicule)",
+    "Quel est le délai de prescription en matière d'assurance auto ?"
+  ],
+  "introduction": "Le délai de prescription correspond au temps dont vous et l’assureur disposez pour engager une action en justice en lien avec un contrat d’assurance auto. Une fois ce délai écoulé, il n’est plus possible d’agir devant un tribunal : l’action est déclarée irrecevable. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Quel est le délai applicable pour agir en matière d’assurance auto ?",
+      "contenu": [
+        "En matière d’assurance automobile, le délai de prescription est de 2 ans.",
+        "Cela signifie que vous et l’assureur disposez de 2 ans pour agir en justice à compter de l’événement à l’origine de la demande.",
+        "[Exemple] Si vous contestez une décision de refus d’indemnisation reçue le 12 mars 2025, le délai de prescription commence à courir à compter de cette date. Vous avez donc jusqu’au 12 mars 2027 pour agir en justice. Si votre assureur vous réclame une cotisation impayée dont l’échéance était fixée au 1er juin 2025, le délai de prescription commence à courir à cette date. L’assureur dispose donc jusqu’au 1er juin 2027 pour engager une action en justice."
+      ]
+    },
+    {
+      "titre": "Quand le délai commence-t-il à courir en matière d’assurance auto ?",
+      "contenu": [
+        "Le délai de 2 ans commence en principe le jour de l’événement qui fonde la demande.",
+        "En matière d’assurance auto, cela correspond généralement à l’une des dates suivantes :",
+        "• Date du sinistre (accident, vol, vandalisme…),",
+        "• Date de la décision de refus d’indemnisation de l’assureur",
+        "• Date d’une action en justice engagée par un tiers contre l’assuré.",
+        "Cependant, il peut commencer plus tard dans certains cas particuliers :",
+        "• Fausse déclaration ou omission de votre part : si vous avez omis de déclarer un élément important lors de la souscription, le délai ne commence à courir que lorsque l’assureur découvre cette omission. Par exemple, si l’assureur découvre l’omission le 15 février 2025, le délai de 2 ans commence à cette date, donc l’assureur a jusqu’au 15 février 2027 pour agir.",
+        "• Sinistre découvert tardivement : si vous n’avez pas constaté immédiatement un dommage sur votre véhicule, le délai commence à courir à partir du moment où vous en avez eu connaissance. Par exemple, si vous découvrez le sinistre le 20 avril 2025, le délai expire le 20 avril 2027.",
+        "• Recours d’un tiers : si une autre personne est victime d’un accident lié à votre véhicule et qu’elle engage une action contre vous ou est indemnisée par votre assureur, le délai de prescription commence à courir à partir de l’action du tiers ou de son indemnisation, et non à la date de l’accident. Par exemple, si vous êtes responsable d’un accident survenu le 5 janvier 2025, mais que la victime est indemnisée par votre assureur le 10 mars 2025, le délai de prescription de 2 ans commence à courir à partir du 10 mars 2025, soit jusqu’au 10 mars 2027.",
+        "Ces exceptions permettent de conserver les droits à agir lorsque certaines informations ne sont pas immédiatement disponibles ou lorsqu’un tiers est impliqué."
+      ]
+    },
+    {
+      "titre": "Quelles sont les causes d’interruption du délai de prescription en matière d’assurance auto ?",
+      "contenu": [
+        "Certains événements ont pour effet d’interrompre le délai de prescription. Le délai déjà écoulé est alors annulé et un nouveau délai de 2 ans commence à courir.",
+        "Les principaux actes interruptifs son les suivants :",
+        "• Action en justice (assignation, dépôt de requête, etc.)",
+        "• Désignation d’un expert après un sinistre",
+        "• Envoi d’une lettre recommandée ou d’un courrier recommandé électronique de l’assureur pour réclamer une prime",
+        "• Envoi d’un courrier recommandé par l’assuré pour demander le règlement d’une indemnité."
+      ]
+    },
+    {
+      "titre": "Quelles sont les obligations d’information de l’assureur concernant le délai de prescription en matière d’assurance auto ?",
+      "contenu": [
+        "L’assureur doit clairement vous informer des points suivants dans le contrat :",
+        "• Délai de prescription applicable,",
+        "• Point de départ de ce délai,",
+        "• Moyens pour l’interrompre.",
+        "Si ces mentions sont absentes ou insuffisantes, l’assureur ne peut pas vous opposer la prescription. Autrement dit, vous pourrez agir même après les 2 ans si vous n’avez pas été correctement informé."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code des assurances : articles L114-1 à L114-3",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006157215"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Saisir son assureur après refus d'indemnisation (déclaration tardive de sinistre)",
+      "url": "https://www.inc-conso.fr/content/vous-avez-tarde-declarer-un-sinistre-lassureur-refuse-de-vous-indemniser",
+      "type": "Modèle de document"
+    }
+  ],
+  "contacts": [
+    "Info Banque - Assurance"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "quel-est-le-delai-de-prescription-en-matiere-d-assurance-auto",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "assurance-automobile-vehicule",
+      "titre": "Assurance automobile (véhicule)"
+    }
+  ]
+}

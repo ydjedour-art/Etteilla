@@ -1,0 +1,93 @@
+{
+  "id": "F32881",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Radiation d'une demande de logement social",
+  "theme": "Logement",
+  "description": "Une demande de logement peut être radiée juste après le dépôt du dossier, après que le dossier a été accepté, ou après l'attribution d'un logement.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2024-05-27",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F32881",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Accéder à un logement social",
+    "Radiation d'une demande de logement social"
+  ],
+  "introduction": "Votre demande de logement social peut-elle être radiée, c'est-à-dire supprimée, après que vous l'avez déposée ? Il existe plusieurs motifs justifiant la radiation de votre demande de logement. Dans certains cas, vous pouvez contester cette radiation. Nous vous expliquons.",
+  "chapitres": [
+    {
+      "titre": "Multiples demandes de logement social",
+      "contenu": [
+        "Une demande de logement peut être radiée, lorsque vous avez fait des demandes multiples.",
+        "Plusieurs numéros d'enregistrement de demande de logement social vous sont attribués lorsque vous avez fait plusieurs fois au cours de la même année une demande de logement social.",
+        "Dans ce cas, vos différentes demandes sont automatiquement radiées pour être regroupées en une demande unique. Un numéro unique national d'enregistrement vous est alors attribué.",
+        "Pour chaque demande radiée, l'ancienneté acquise est conservée, afin qu'elle s'applique aux communes demandées. Plusieurs anciennetés sont alors attachées à votre numéro unique national."
+      ]
+    },
+    {
+      "titre": "Rejet de la demande de logement social",
+      "contenu": [
+        "Votre demande de logement peut être radiée lorsqu'elle est déclarée irrecevable. C'est le cas, par exemple, lorsque vos revenus sont supérieurs au plafond de revenus.",
+        "Après que votre demande est déclarée irrecevable, vous recevez un avertissement par lettre recommandée avec avis de réception (ou tout moyen permettant d'attester de sa remise). Votre demande est radiée 1 mois après cet envoi.",
+        "Pour contester votre radiation, vous devez vous adresser à l'organisme ou à l'administration (mairie, office HLM...) qui vous a radié. La démarche à effectuer vous sera alors indiquée.",
+        "Mairie",
+        "Mairie",
+        "Office HLM",
+        "Organisme pouvant proposer un logement social"
+      ]
+    },
+    {
+      "titre": "Renonciation à la demande de logement social",
+      "contenu": [
+        "Vous pouvez renoncer à votre demande de logement par écrit.",
+        "La radiation de votre demande intervient sans délai."
+      ]
+    },
+    {
+      "titre": "Non-renouvellement de la demande de logement social",
+      "contenu": [
+        "Votre demande de logement peut être radiée si vous ne la renouvelez pas dans le mois qui précède sa date anniversaire, c'est-à-dire au bout de 11 mois. La radiation intervient sans délai."
+      ]
+    },
+    {
+      "titre": "Absence de réponse aux courriers",
+      "contenu": [
+        "Votre demande peut être radiée lorsque vous ne répondez pas aux courriers qui sont envoyés à votre dernière adresse déclarée.",
+        "Vous recevez un avertissement par lettre recommandée avec avis de réception (ou tout moyen permettant d'attester de sa remise). Votre demande est radiée 1 mois après cet envoi.",
+        "Pour contester votre radiation, vous devez vous adresser à l'organisme ou à l'administration (mairie, office HLM...) qui vous a radié. La démarche à effectuer vous sera alors indiquée.",
+        "Mairie",
+        "Mairie",
+        "Office HLM",
+        "Organisme pouvant proposer un logement social"
+      ]
+    },
+    {
+      "titre": "Attribution d'un logement social",
+      "contenu": [
+        "Dès que vous signez le bail du logement social qui vous est attribué, votre demande est radiée."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la construction et de l'habitation : articles R441-2-8",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034666296"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "radiation-d-une-demande-de-logement-social",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "acceder-a-un-logement-social",
+      "titre": "Accéder à un logement social"
+    }
+  ]
+}

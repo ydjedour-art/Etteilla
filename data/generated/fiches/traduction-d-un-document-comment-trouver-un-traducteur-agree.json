@@ -1,0 +1,60 @@
+{
+  "id": "F12956",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Traduction d'un document : comment trouver un traducteur agréé ?",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "En France, les listes des traducteurs agréés sont disponibles sur le site de la Cour de cassation et des cours d’appel. À l'étranger, sur le site du consulat.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-01-26",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F12956",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Certificat, copie, légalisation et conservation de documents",
+    "Traduction d'un document : comment trouver un traducteur agréé ?"
+  ],
+  "introduction": "La démarche est différente en France et à l’étranger.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Loi n°71-498 du 29 juin 1971 relative aux experts judiciaires",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000874942"
+    },
+    {
+      "titre": "Décret n°2004-1463 du 23 décembre 2004 relatif aux experts judiciaires",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000005983254/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Trouver un expert agréé ou un traducteur agréé",
+      "url": "https://www.courdecassation.fr/mes-demarches/trouver-un-expert-agree-ou-un-traducteur-agree",
+      "type": "outilRechercheNG"
+    }
+  ],
+  "contacts": [
+    "Cour d'appel",
+    "Maison de justice et du droit"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Présentation d'un document public européen dans un État de l'Union européenne",
+      "url": "https://e-justice.europa.eu/topics/taking-legal-action/european-judicial-atlas-civil-matters/public-documents_fr?clang=fr"
+    },
+    {
+      "titre": "Formulaires multilingues joints aux documents publics d'un État européen (UE)",
+      "url": "https://online-forms.e-justice.europa.eu/public-documents_fr"
+    }
+  ],
+  "slug": "traduction-d-un-document-comment-trouver-un-traducteur-agree",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "certificat-copie-legalisation-et-conservation-de-documents",
+      "titre": "Certificat, copie, légalisation et conservation de documents"
+    }
+  ]
+}

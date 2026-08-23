@@ -1,0 +1,61 @@
+{
+  "id": "F1291",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Comment obtenir un certificat de position militaire ?",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Pour un homme né avant 1979, exempté ou dispensé du service national, le certificat de position militaire permet d'attester de la régularité de sa situation.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-02-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1291",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Recensement citoyen, JDC et Service national",
+    "Comment obtenir un certificat de position militaire ?"
+  ],
+  "introduction": "Pour un homme né avant 1979, exempté ou dispensé du service national, le certificat de position militaire permet d'attester de la régularité de sa situation.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Le service à contacter pour obtenir ce certificat dépend de votre lieu d'habitation actuel (métropole ou Dom) :",
+        "Vous habitez en métropole",
+        "Vous devez utiliser le service en ligne suivant :",
+        "Demander un document administratif au Service historique de la Défense (Vincennes)",
+        "Vous habitez un Dom",
+        "Si vous habitez dans un Dom, vous devez contacter le CSNJ de votre lieu de résidence, par mail ou lettre simple.",
+        "Par mail",
+        "Vous devez joindre à votre demande l'image d'un des documents suivants :",
+        "• Carte nationale d'identité (recto-verso) en cours de validité",
+        "• Extrait d'acte de naissance.",
+        "Centres du service national et de la jeunesse (CSNJ)",
+        "Par lettre simple",
+        "Vous devez joindre à votre demande la copie d'un des documents suivants :",
+        "• Photocopie de votre carte nationale d'identité (recto-verso) en cours de validité",
+        "• Extrait d'acte de naissance.",
+        "Centres du service national et de la jeunesse (CSNJ)"
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [
+    {
+      "titre": "Demander un document administratif au Service historique de la Défense (Vincennes)",
+      "url": "https://www.servicehistorique.sga.defense.gouv.fr/demarche/demande-de-documents-administratifs",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "comment-obtenir-un-certificat-de-position-militaire",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "recensement-citoyen-jdc-et-service-national",
+      "titre": "Recensement citoyen, JDC et Service national"
+    }
+  ]
+}

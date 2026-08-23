@@ -1,0 +1,68 @@
+{
+  "id": "F13896",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Prise en charge des frais de changement de résidence d’un agent public",
+  "theme": "Travail - Formation",
+  "description": "L’agent public qui déménage en raison d'un changement d'affectation peut bénéficier, sous conditions, d'une prise en charge partielle des frais de déménagement.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-28",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F13896",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Rémunération dans la fonction publique",
+    "Prise en charge des frais de changement de résidence d’un agent public"
+  ],
+  "introduction": "Si vous êtes agent public et déménagez en raison d'un changement d'affectation, vous pouvez bénéficier, sous conditions, d'une prise en charge partielle de vos frais de déménagement. Les règles diffèrent selon votre fonction publique d'appartenance (État - FPE, territoriale - FPT, hospitalière - FPH) et selon que vous êtes fonctionnaire ou contractuel.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Décret n°89-271 du 12 avril 1989 relatif au règlement des frais de changements de résidence en outre-mer et entre la métropole et les départements d'outre-mer",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000885074/"
+    },
+    {
+      "titre": "Décret n°90-437 du 28 mai 1990 relatif aux frais occasionnés par les changements de résidence des personnels civils de l'État en métropole",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000708821/"
+    },
+    {
+      "titre": "Décret n°92-566 du 25 juin 1992 relatif au frais de déplacement des fonctionnaires et agents hospitaliers sur le territoire métropolitain",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000541093/"
+    },
+    {
+      "titre": "Décret n°2001-654 du 19 juillet 2001 fixant les conditions et les modalités de règlements des frais occasionnés par les déplacements des personnels territoriaux",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000223576/"
+    },
+    {
+      "titre": "Arrêté du 26 novembre 2001 fixant les taux des indemnités forfaitaires de changement de résidence dans la FPE",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000582224/"
+    },
+    {
+      "titre": "Arrêté du 26 novembre 2001 fixant les taux des indemnités forfaitaires de changement de résidence",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000763963"
+    },
+    {
+      "titre": "Circulaire du 22 septembre 2000 relative au règlement des frais occasionnés par les déplacements des personnels de l'État sur le territoire métropolitain",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000218076"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demande de prise en charge des frais de changement de résidence dans la fonction publique",
+      "url": "",
+      "type": "Modèle de document"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "prise-en-charge-des-frais-de-changement-de-residence-d-un-agent-public",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "remuneration-dans-la-fonction-publique",
+      "titre": "Rémunération dans la fonction publique"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "F33341",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Que risque-t-on pour usage de drogues ?",
+  "theme": "Justice",
+  "description": "L'usage de drogues, même à titre récréatif et en privé, est interdit. Ce délit est puni d'une amende forfaitaire de 200 € ou de peines plus sévères.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2024-11-28",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33341",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Affaire pénale",
+    "Que risque-t-on pour usage de drogues ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Vous pouvez être puni d'une amende forfaitaire ou d'une peine prononcée par le tribunal. L'usage de stupéfiants est en effet une infraction traitée différemment selon les circonstances : type de drogues, quantité, casier judiciaire de l'auteur des faits, etc.",
+        "L'amende forfaitaire est une sanction pénale qui est prononcée en dehors d'un procès. La décision est prise par un policier, un gendarme ou un agent public habilité qui constate cette infraction (agent des douanes...). Ainsi, si vous êtes contrôlé en train de consommer des stupéfiants ou en possession de petites quantités, vous pouvez recevoir une amende forfaitaire.",
+        "En revanche, si lors du contrôle, vous détenez une quantité importante de drogue ou un type de drogue classé comme drogue dure (héroïne, crack...) ou si vous avez un casier judiciaire, vous pouvez être poursuivi devant le tribunal correctionnel ."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de procédure pénale : articles 495-17 à 495-25",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000033443397/#LEGISCTA000033443401"
+    },
+    {
+      "titre": "Code de la santé publique : article L3421-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043343299"
+    },
+    {
+      "titre": "Arrêté du 22 février 1990 fixant la liste des substances classées comme stupéfiants",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000533085/"
+    },
+    {
+      "titre": "Code de procédure pénale : article 768",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038587525/"
+    },
+    {
+      "titre": "Code des douanes : articles 60 à 63 bis",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006138841"
+    },
+    {
+      "titre": "Code des douanes : articles 414 à 416 bis",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071570/LEGISCTA000006153206"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Maison de justice et du droit"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Drogues.gouv.fr",
+      "url": "https://www.drogues.gouv.fr/"
+    },
+    {
+      "titre": "Drogues info service",
+      "url": "https://www.drogues-info-service.fr/"
+    }
+  ],
+  "slug": "que-risque-t-on-pour-usage-de-drogues",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "affaire-penale",
+      "titre": "Affaire pénale"
+    }
+  ]
+}

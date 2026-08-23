@@ -72,10 +72,10 @@ export default function FormaliteDetailPage({
       </div>
 
       <div className="flex flex-wrap gap-3 text-sm">
-        <span className="inline-flex items-center gap-1.5 rounded-full bg-primary-light px-3 py-1.5 font-medium text-primary">
+        <span className="inline-flex items-center gap-1.5 bg-primary/10 px-3 py-1.5 font-medium text-primary">
           <ClockIcon /> {template.estimatedDurationMinutes} min de votre temps
         </span>
-        <span className="inline-flex items-center gap-1.5 rounded-full bg-accent/10 px-3 py-1.5 font-medium text-accent">
+        <span className="inline-flex items-center gap-1.5 bg-primary/10 px-3 py-1.5 font-medium text-primary">
           <RepeatIcon /> {RECURRENCE_LABELS[template.recurrence]}
         </span>
       </div>
@@ -87,7 +87,7 @@ export default function FormaliteDetailPage({
             {template.requiredDocuments.map((doc) => (
               <li
                 key={doc}
-                className="flex items-center gap-2 rounded-xl bg-white px-4 py-3 text-ink border border-ink/10"
+                className="flex items-center gap-2 rounded-xl bg-card px-4 py-3 text-ink border border-ink/10"
               >
                 <DocIcon />
                 {doc}
@@ -101,8 +101,8 @@ export default function FormaliteDetailPage({
         <h2 className="text-lg font-semibold text-ink">Comment ça se passe</h2>
         <ol className="mt-3 space-y-3">
           {template.steps.map((step, index) => (
-            <li key={step.title} className="flex gap-4 rounded-xl bg-white p-4 border border-ink/10">
-              <span className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full bg-primary-light text-sm font-semibold text-primary">
+            <li key={step.title} className="flex gap-4 rounded-xl bg-card p-4 border border-ink/10">
+              <span className="flex h-7 w-7 shrink-0 items-center justify-center bg-primary/10 text-sm font-semibold text-primary">
                 {index + 1}
               </span>
               <div>

@@ -1,0 +1,138 @@
+{
+  "id": "F1311",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Augmentation et révision du loyer en cours de bail d’habitation",
+  "theme": "Logement",
+  "description": "Le propriétaire d'un logement loué vide avec un bail d'habitation peut augmenter le loyer en cours de bail dans 2 cas seulement.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-08-08",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1311",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Bail d’habitation : loyer",
+    "Augmentation et révision du loyer en cours de bail d’habitation"
+  ],
+  "introduction": "Le propriétaire d'un logement loué avec un bail d’habitation peut augmenter le loyer en cours de bail dans certains cas seulement. D'une part, lorsque le bail contient une clause de révision annuelle du loyer. D'autre part, pour un logement vide, lorsqu’il fait des travaux à ses frais, il peut convenir avec le locataire d’une majoration exceptionnelle pour travaux d'amélioration , ou d’une contribution au partage des économies de charges pour travaux d’économies d’énergie. Nous vous expliquons.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les règles sont différentes selon le type de bail d’habitation signé :"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 17-1",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000028778231/"
+    },
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 7-1",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000028777184/"
+    },
+    {
+      "titre": "Arrêté du 29 mai 2015 relatif au contenu de la notice d'information annexée aux contrats de location de logement à usage de résidence principale",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000030649902/"
+    },
+    {
+      "titre": "Loi n° 89-462 du 6 juillet 1989 sur les rapports locatifs : article 25-3",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042120923/"
+    },
+    {
+      "titre": "Loi n° 89-462 du 6 juillet 1989 sur les rapports locatifs : article 25-9",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043977076/"
+    },
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 23-1",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043977449/"
+    },
+    {
+      "titre": "Décret n°2009-1439 du 23 novembre 2009 relatif à la contribution du locataire au partage des économies de charges issues des travaux d'économie d'énergie",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000021327445/"
+    },
+    {
+      "titre": "Arrêté du 23 novembre 2009 relatif à la contribution du locataire au partage des économies de charges issues des travaux d'économie d'énergie réalisés par un bailleur",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000021327496"
+    },
+    {
+      "titre": "Arrêté du 23 novembre 2009 relatif à la contribution du locataire au partage des économies de charges issues des travaux d'économie d'énergie réalisés par un bailleur privé",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000021327522"
+    },
+    {
+      "titre": "Loi n° 89-462 du 6 juillet 1989 sur les rapports locatifs : article 25-16",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000037649096/"
+    },
+    {
+      "titre": "Loi n° 89-462 du 6 juillet 1989 sur les rapports locatifs : article 25-12",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042120921"
+    },
+    {
+      "titre": "Code de procédure civile : article 750-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039501708/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Contester le montant d'une révision de loyer en cours de bail",
+      "url": "",
+      "type": "Modèle de document"
+    },
+    {
+      "titre": "Calculer la révision du loyer",
+      "url": "https://www.anil.org/outils/outils-de-calcul/revision-de-loyer/",
+      "type": "simulateurNG"
+    },
+    {
+      "titre": "Attestation de travaux d’amélioration de la performance énergétique pouvant donner lieu à une participation du locataire du parc privé",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_13968.do",
+      "type": "formulaireNG"
+    },
+    {
+      "titre": "Attestation de travaux d’amélioration de la performance énergétique pouvant donner lieu à une participation du locataire du parc public",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_13967.do",
+      "type": "formulaireNG"
+    },
+    {
+      "titre": "Modèle de quittance de loyer",
+      "url": "https://www.anil.org/modele-lettre-courrier-type-location/",
+      "type": "lettreTypeNG"
+    }
+  ],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Révision annuelle des loyers",
+      "url": "https://www.anil.org/votre-projet/vous-etes-locataire/le-loyer/revision-du-loyer/"
+    },
+    {
+      "titre": "Interdiction de location et gel des loyers des passoires énergétiques",
+      "url": "https://www.ecologie.gouv.fr/interdiction-location-et-gel-des-loyers-des-passoires-energetiques"
+    },
+    {
+      "titre": "Réviser un loyer d’habitation",
+      "url": "https://www.insee.fr/fr/information/1300612"
+    },
+    {
+      "titre": "Article 12 de l’arrêté du 23 novembre 2009 relatif à la contribution du locataire au partage des économies de charges issues des travaux d’économie d’énergie réalisés par un bailleur privé",
+      "url": "https://www.legifrance.gouv.fr/download/pdf?id=iSQbFIvA8T98AQri7XBkkDzrWXQM5y4NfCScG3tMRLU="
+    },
+    {
+      "titre": "Annexe 1 de l’arrêté du 23 novembre 2009 relatif à la contribution du locataire au partage des économies de charges issues des travaux d’économie d’énergie réalisés par un bailleur privé",
+      "url": "https://www.legifrance.gouv.fr/download/pdf?id=iSQbFIvA8T98AQri7XBkkDzrWXQM5y4NfCScG3tMRLU="
+    }
+  ],
+  "slug": "augmentation-et-revision-du-loyer-en-cours-de-bail-d-habitation",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "bail-d-habitation-loyer",
+      "titre": "Bail d’habitation : loyer"
+    }
+  ]
+}

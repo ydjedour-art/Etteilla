@@ -1,0 +1,54 @@
+{
+  "id": "F788",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Que devient l'hypothèque quand le crédit immobilier est remboursé ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Une hypothèque prend fin automatiquement 1 an après la dernière échéance de remboursement du prêt qu'elle garantit.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2024-12-26",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F788",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Crédit immobilier",
+    "Que devient l'hypothèque quand le crédit immobilier est remboursé ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "L'hypothèque est inscrite pendant la durée du crédit immobilier, plus 1 an.",
+        "L'inscription prend fin automatiquement (sans frais, ni démarche à faire), 1 an après la dernière échéance de remboursement du crédit immobilier. Il s'agit de la dernière échéance de remboursement, telle qu'indiquée lors de l'inscription de l'hypothèque.",
+        "Si vous voulez obtenir une levée d'hypothèque avant ce délai, vous devez la réclamer.",
+        "Vous aurez alors des frais de mainlevée à payer. Le montant de ces frais dépend de la valeur du crédit initial."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : articles 2421 à 2449",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000044062127/"
+    },
+    {
+      "titre": "Code civil : articles 2435 à 2442",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000044062131/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Info Banque - Assurance"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "que-devient-l-hypotheque-quand-le-credit-immobilier-est-rembourse",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "credit-immobilier",
+      "titre": "Crédit immobilier"
+    }
+  ]
+}

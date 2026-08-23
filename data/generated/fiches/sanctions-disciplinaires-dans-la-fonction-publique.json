@@ -1,0 +1,74 @@
+{
+  "id": "F510",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Sanctions disciplinaires dans la fonction publique",
+  "theme": "Travail - Formation",
+  "description": "Les règles applicables en cas de poursuite disciplinaire varient selon votre fonction publique d'appartenance et selon votre statut.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2024-10-07",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F510",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Conflits du travail dans la fonction publique",
+    "Sanctions disciplinaires dans la fonction publique"
+  ],
+  "introduction": "Vous avez commis une faute professionnelle ou une infraction et votre administration employeur engage une procédure disciplinaire à votre encontre ? Les règles applicables en cas de poursuite disciplinaire varient selon votre fonction publique d'appartenance (État - FPE, territoriale - FPT, hospitalière - FPH) et selon que vous êtes fonctionnaire titulaire ou stagiaire ou contractuel. Nous vous présentons les informations à connaitre.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code général de la fonction publique : article L125-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044420873/"
+    },
+    {
+      "titre": "Code de la fonction publique : articles L530-1 à L533-6",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044423129/"
+    },
+    {
+      "titre": "Code général de la fonction publique : articles R327-21 à R327-28",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000051962311/"
+    },
+    {
+      "titre": "Décret n°84-961 du 25 octobre 1984 relatif à la procédure disciplinaire dans la fonction publique d'État (FPE)",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000324972"
+    },
+    {
+      "titre": "Décret n°86-83 du 17 janvier 1986 relatif aux agents contractuels de la FPE",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000699956/"
+    },
+    {
+      "titre": "Décret n°88-145 du 15 février 1988 relatif aux agents non titulaires de la FPT : articles 36 à 37",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000871608/#LEGIARTI000031936617"
+    },
+    {
+      "titre": "Décret n°89-677 du 18 septembre 1989 relatif à la procédure disciplinaire dans la fonction publique territoriale (FPT)",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000335719/"
+    },
+    {
+      "titre": "Décret n°89-822 du 7 novembre 1989 relatif à la procédure disciplinaire dans la fonction publique hospitalière (FPH)",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000517933/"
+    },
+    {
+      "titre": "Décret n°91-155 du 6 février 1991 relatif aux agents contractuels de la FPH",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000343794"
+    },
+    {
+      "titre": "Arrêté du 8 janvier 2018 relatif aux commissions consultatives paritaires compétentes à l'égard des agents contractuels de la FPH",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000036520781/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "sanctions-disciplinaires-dans-la-fonction-publique",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "conflits-du-travail-dans-la-fonction-publique",
+      "titre": "Conflits du travail dans la fonction publique"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "F1940",
+  "type_publication": "Fiche avec liens externes",
+  "titre": "Élection présidentielle",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "La prochaine élection présidentielle se déroulera le 18 avril et le 2 mai 2027.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-07-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1940",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Élections",
+    "Élection présidentielle"
+  ],
+  "introduction": "Le Président de la République est élu au suffrage universel direct par les électeurs français lors de l'élection présidentielle. Son mandat dure cinq ans et est renouvelable une 1 fois consécutivement. Pour être élu, le candidat doit obtenir plus de la moitié des suffrages exprimés. Si aucun candidat n'est élu lors du 1er tour, les 2 candidats arrivés en tête sont autorisés à se présenter au 2d tour, qui a lieu 2 semaines après. Nous vous expliquons.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "[À noter] La prochaine élection présidentielle se déroulera le 18 avril 2027 pour le premier tour et le 2 mai 2027 pour le second tour."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Constitution du 4 octobre 1958 : articles 5 à 19",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006071194/#LEGIARTI000006527459"
+    },
+    {
+      "titre": "Décret n°2001-213 du 8 mars 2001 relative à l'élection du Président de la République",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000005630725/"
+    },
+    {
+      "titre": "Décret n° 2022-66 du 26 janvier 2022 portant convocation des électeurs pour l'élection du Président de la République",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000045076426"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Vérifier votre inscription électorale et votre bureau de vote",
+      "url": "https://situation.elections.interieur.gouv.fr/",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "election-presidentielle",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "elections",
+      "titre": "Élections"
+    }
+  ]
+}

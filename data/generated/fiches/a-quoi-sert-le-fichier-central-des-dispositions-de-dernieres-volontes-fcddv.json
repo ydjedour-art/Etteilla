@@ -1,0 +1,106 @@
+{
+  "id": "F15009",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "À quoi sert le fichier central des dispositions de dernières volontés (FCDDV) ?",
+  "theme": "Famille - Scolarité",
+  "description": "Le fichier central des dispositions de dernières volontés (FCDDV) centralise les informations relatives aux testaments reçus par les notaires.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-05-29",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F15009",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Testament",
+    "À quoi sert le fichier central des dispositions de dernières volontés (FCDDV) ?"
+  ],
+  "introduction": "Le FCDDV, aussi appelé fichier des testaments, centralise pour toute la France des informations sur les testaments reçus par les notaires. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Quelles informations contient le fichier des testaments ?",
+      "contenu": [
+        "Le FCDDV contient uniquement des informations sur les testaments confiés à un notaire.",
+        "Le notaire enregistre au FCDDV les informations suivantes :",
+        "• Existence du testament",
+        "• Lieu de dépôt et coordonnées du notaire chez qui est déposé le testament",
+        "• État civil de la personne concernée.",
+        "Tous les types de testaments (olographe, authentique, mystique) sont enregistrés."
+      ]
+    },
+    {
+      "titre": "Pourquoi interroger le fichier des testaments ?",
+      "contenu": [
+        "Après l'annonce du décès d’une personne, vous pouvez interroger le FCDDV pour connaître les informations suivantes :",
+        "• Existence d'un testament ou d'actes exprimant les dernières volontés de la personne décédée",
+        "• Coordonnées de l'office notarial qui en assure la conservation."
+      ]
+    },
+    {
+      "titre": "Qui peut interroger le ficher des testaments ?",
+      "contenu": [
+        "Toute personne peut interroger le FCDDV.",
+        "[À savoir] En cas de décès à l'étranger, l'ambassade ou le consulat peut interroger le FCDDV."
+      ]
+    },
+    {
+      "titre": "Comment interroger le fichier des testaments ?",
+      "contenu": [
+        "La demande se fait en ligne :",
+        "Interroger le fichier central des dispositions de dernières volontés (FCDDV)",
+        "Vous devez fournir un acte de décès (original ou copie certifiée conforme). Aucune photocopie n'est acceptée.",
+        "[À savoir] Si la succession est confiée à un notaire, c'est lui qui fait la démarche."
+      ]
+    },
+    {
+      "titre": "Combien coûte l'interrogation du fichier des testaments ?",
+      "contenu": [
+        "Les tarifs TTC diffèrent selon l'endroit où vous faites votre demande.",
+        "Interroger le FCDDV coûte",
+        "• 18 € en métropole,",
+        "• 16,28 € depuis un Drom,",
+        "• 15 € depuis un Com (Polynésie française, Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon, Wallis-et-Futuna) ou depuis l’étranger."
+      ]
+    },
+    {
+      "titre": "Comment payer en cas d'interrogation du fichier des testaments ?",
+      "contenu": [
+        "Si la demande d'interrogation est effectuée sur le site du FCDDV, vous pouvez payer par carte bancaire ou par virement. Vous devez ensuite adresser au FCDDV le coupon, le justificatif de paiement et l’acte de décès original ou certifié conforme ou avec la mention « document informatisé ou selon procédé informatique ».",
+        "Fichier central des dispositions de dernières volontés (FCDDV)",
+        "FCDDV service client public",
+        "95, avenue des Logissons",
+        "13107 VENELLES Cedex",
+        "Si la demande d'interrogation est effectuée par voie postale, seul un virement peut être fait. La preuve du paiement doit ensuite être adressée par courrier au FCDDV. Vous devez joindre l’acte de décès original ou certifié conforme ou avec la mention « document informatisé ou selon procédé informatique ».",
+        "Si vous payez par virement, son objet doit être le suivant : Interrogation FCDDV au nom de [mettre le nom de naissance du défunt] décédé(e) le JJ/MM/AAAA. L'IBAN (International Bank Account Number) est : FR76 1027 8090 6500 0201 1984 075. Le BIC (Bank Identifier Code) est : CMCIFR2A.",
+        "[Attention] Le paiement par chèque n'est pas accepté."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Décret n°91-152 du 7 février 1991 relatif aux attributions notariales des agents diplomatiques et consulaires",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000709360/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Interroger le fichier central des dispositions de dernières volontés (FCDDV)",
+      "url": "https://fcddvclient.notaires.fr",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "Association pour le développement du service notarial (ADSN)",
+    "Notaire"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "a-quoi-sert-le-fichier-central-des-dispositions-de-dernieres-volontes-fcddv",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "testament",
+      "titre": "Testament"
+    }
+  ]
+}

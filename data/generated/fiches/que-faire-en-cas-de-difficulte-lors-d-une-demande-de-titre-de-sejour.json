@@ -1,0 +1,46 @@
+{
+  "id": "F31969",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Que faire en cas de difficulté lors d'une demande de titre de séjour ?",
+  "theme": "Étranger - Europe",
+  "description": "En cas de problème avec la préfecture lors d'une demande de titre de séjour, des recours sont possibles.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2024-07-03",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31969",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Titres, cartes de séjour et documents de circulation pour étranger en France",
+    "Que faire en cas de difficulté lors d'une demande de titre de séjour ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Si vous êtes étranger, que vous pensez avoir constitué votre dossier de demande ou de renouvellement de titre de séjour dans le respect de la réglementation et que votre dossier n'est pas accepté au moment du dépôt, des recours sont possibles. Ils varient selon que vous êtes ressortissant d'un État de l'Union européenne (UE) ou hors Union européenne."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [
+    {
+      "titre": "Soumettre une plainte à Solvit",
+      "url": "https://ec.europa.eu/solvit/index_fr.htm",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "que-faire-en-cas-de-difficulte-lors-d-une-demande-de-titre-de-sejour",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "titres-cartes-de-sejour-et-documents-de-circulation-pour-etranger-en-france",
+      "titre": "Titres, cartes de séjour et documents de circulation pour étranger en France"
+    }
+  ]
+}

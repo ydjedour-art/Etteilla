@@ -1,0 +1,83 @@
+{
+  "id": "F1748",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Saisie conservatoire d’un bien meuble corporel",
+  "theme": "Justice",
+  "description": "Un créancier peut demander la saisie conservatoire des biens meubles du débiteur qui n'a pas encore été condamné par le juge à payer sa dette.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-01-12",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1748",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Saisies et recouvrements",
+    "Saisie conservatoire d’un bien meuble corporel"
+  ],
+  "introduction": "Lors d’une saisie conservatoire, les biens meubles corporels et incorporels du débiteur sont saisis de façon provisoire à la demande du créancier et dans l’attente du jugement devant condamner le débiteur à payer sa dette. La saisie faite, le débiteur est provisoirement empêché de donner, vendre ou détériorer les biens saisis. Lorsque le débiteur est condamné à payer sa dette, et qu’il ne le fait pas, les biens saisis peuvent être vendus. Mais le débiteur peut contester la saisie conservatoire.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Nous vous présentons les informations à connaître, selon que vous êtes créancier ou débiteur :"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code des procédures civiles d'exécution : articles L511-1 à L511-4",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000025024948/LEGISCTA000025026102/"
+    },
+    {
+      "titre": "Code des procédures civiles d'exécution : articles R511-1 à R511-8",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000025024948/LEGISCTA000025939389/"
+    },
+    {
+      "titre": "Code des procédures civiles d'exécution : articles L512-1 et L512-2",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000025024948/LEGISCTA000025026112/"
+    },
+    {
+      "titre": "Code des procédures civiles d'exécution : articles R512-1 à R512-3",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000025024948/LEGISCTA000025939407/"
+    },
+    {
+      "titre": "Code des procédures civiles d'exécution : article L521-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000025024948/LEGISCTA000025026121/"
+    },
+    {
+      "titre": "Code des procédures civiles d'exécution : article R521-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000025024948/LEGISCTA000025939418/"
+    },
+    {
+      "titre": "Code des procédures civiles d'exécution : articles L112-1 à L112-4",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000025024948/LEGISCTA000025025665/#LEGISCTA000025026737"
+    },
+    {
+      "titre": "Code des procédures civiles d'exécution : article R112-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025938278/"
+    },
+    {
+      "titre": "Code des procédures civiles d'exécution : articles R522-1 à R522-6",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000025024948/LEGISCTA000025939424/"
+    },
+    {
+      "titre": "Code des procédures civiles d'exécution : articles R222-7 à R222-10",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000025024948/LEGISCTA000025938745/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Maison de justice et du droit"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "saisie-conservatoire-d-un-bien-meuble-corporel",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "saisies-et-recouvrements",
+      "titre": "Saisies et recouvrements"
+    }
+  ]
+}

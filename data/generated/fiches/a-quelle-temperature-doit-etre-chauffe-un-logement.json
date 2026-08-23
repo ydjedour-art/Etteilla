@@ -1,0 +1,48 @@
+{
+  "id": "F32563",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "À quelle température doit être chauffé un logement ?",
+  "theme": "Logement",
+  "description": "En général, les équipements de chauffage du logement permettent de maintenir à 18° C la température au centre des pièces.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-03-06",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F32563",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Bail d’habitation : obligations du propriétaire (bailleur)",
+    "À quelle température doit être chauffé un logement ?"
+  ],
+  "introduction": "En général, un chauffage est considéré comme insuffisant lorsqu'il ne permet pas d'atteindre 18 °C au centre de chaque pièce. En cas de sous-chauffe (ou de sur-chauffe), le juge peut notamment prononcer des sanctions (au cas par cas) pour la réparation du préjudice subi par l'occupant du logement. Les démarches à faire varient selon que le logement est la résidence principale d’un locataire, ou celle d’un propriétaire dans une copropriété. Nous vous expliquons.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de l'énergie : articles R241-25 à R241-29-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000023983208/LEGISCTA000031748163/"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : articles R171-10 à R171-12",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000043819391/"
+    },
+    {
+      "titre": "Loi n°89-462 du 6 juillet 1989 sur les rapports locatifs : article 6",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000037670751/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "a-quelle-temperature-doit-etre-chauffe-un-logement",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "bail-d-habitation-obligations-du-proprietaire-bailleur",
+      "titre": "Bail d’habitation : obligations du propriétaire (bailleur)"
+    }
+  ]
+}

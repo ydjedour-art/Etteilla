@@ -1,0 +1,126 @@
+{
+  "id": "F20319",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Plaques d'immatriculation",
+  "theme": "Transports - Mobilité",
+  "description": "Un véhicule à moteur doit avoir des plaques d'immatriculation homologuées et fixées visiblement sur le véhicule.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-01-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F20319",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Carte grise (certificat d'immatriculation)",
+    "Plaques d'immatriculation"
+  ],
+  "introduction": "La plaque d'immatriculation est une plaque sur laquelle est indiqué le numéro d'immatriculation d'un véhicule. Elle permet d'identifier un véhicule et son propriétaire. Un véhicule à moteur doit avoir 1 ou 2 plaques d'immatriculation homologuées et fixées visiblement sur le véhicule. Nous faisons un point sur la réglementation.",
+  "chapitres": [
+    {
+      "titre": "Quelles sont les caractéristiques d'une plaque d'immatriculation ?",
+      "contenu": [
+        "La plaque doit être posée de manière visible. Elle ne doit pas être détachable.",
+        "Elle porte le numéro qui est inscrit sur le certificat d'immatriculation (auparavant appelé carte grise) ou sur le certificat provisoire d'immatriculation (CPI).",
+        "La plaque doit être conforme à un modèle homologué. Le numéro d'homologation doit y être inscrit.",
+        "La plaque doit respecter des règles de tailles et de disposition des éléments la constituant. Ces règles concernent notamment la hauteur, l'écartement des lettres et des chiffres et la forme des tirets.",
+        "Le numéro d'immatriculation peut être disposé sur 1 ou 2 lignes.",
+        "La plaque doit rester en bon état. Le numéro d'immatriculation doit être lisible.",
+        "Des plaques d'immatriculation amovibles sont autorisées dans le cas d'un véhicule circulant sous couvert d'un certificat W garage ou dans le cas d'une remorque arrière d'un ensemble non soumise à l'obligation d'immatriculation.",
+        "Tout véhicule à moteur ou toute remorque doit être muni d'un dispositif lumineux capable de rendre lisible, à une distance minimale de 20 mètres, la nuit, par temps clair, le numéro inscrit sur sa plaque d'immatriculation arrière.",
+        "La plaque d'immatriculation doit être réalisée par un professionnel de l'automobile ou par un fabricant de votre choix.",
+        "Il existe 2 types de plaque d'immatriculation :",
+        "Plaque SIV de type \"AB-123-CD\"",
+        "La plaque débute par le symbole européen complété de la lettre F sur fond bleu. Un identifiant territorial est positionné symétriquement à ces éléments.",
+        "Cet identifiant se compose d'un logo officiel d'une région et du numéro d'un des départements de cette région.",
+        "Vous n'avez pas le droit de modifier votre plaque ou d'y ajouter un élément, en particulier à la place de l'identifiant territorial.",
+        "Si votre plaque est détériorée ou si vous souhaitez la changer volontairement, vous devez vous adresser à un professionnel pour la refaire. À cette occasion, vous pourrez changer l'identifiant territorial. Si votre véhicule possède une plaque à l'avant et une à l'arrière, les identifiants doivent être les mêmes sur chacune.",
+        "[À savoir] Le choix de l'identifiant territorial est libre. Vous n'êtes pas obligé d'y indiquer votre département de résidence.",
+        "Plaque FNI de type \"123 AB 45\"",
+        "La plaque comporte le symbole européen complété de la lettre « F ».",
+        "Si votre plaque est détériorée ou si vous souhaitez la changer délibérément, vous devez vous adresser à un professionnel pour la refaire.",
+        "Elle n'aura pas d'identifiant territorial."
+      ]
+    },
+    {
+      "titre": "Quelle plaque d'immatriculation doit avoir un véhicule ?",
+      "contenu": [
+        "Les plaques d'immatriculation différent en fonction du type de véhicule :",
+        "Voiture ou véhicule utilitaire",
+        "Une voiture ou un véhicule utilitaire doit avoir 2 plaques, une à l'avant et l'autre à l'arrière.",
+        "Ces 2 plaques doivent être identiques, y compris en ce qui concerne l'identifiant territorial.",
+        "Le numéro d'immatriculation est reproduit sur chaque plaque en caractères noirs non réfléchissants sur fond blanc réfléchissant.",
+        "Véhicules faisant l’objet d’une immatriculation provisoire en WW ou en W garage",
+        "Un véhicule faisant l’objet d’une immatriculation provisoire en WW ou en W garage doit avoir 2 plaques, une à l'avant et l'autre à l'arrière.",
+        "Ces 2 plaques doivent être identiques.",
+        "Le numéro d’immatriculation est reproduit sur chaque plaque d’immatriculation en caractères noirs sur fond rose.",
+        "Pour les immatriculations en WW, la plaque comporte la date de fin de validité du certificat provisoire d’immatriculation WW.",
+        "Véhicule de collection",
+        "Le véhicule de collection peut avoir une plaque avec des caractères noirs non réfléchissants sur fond blanc réfléchissant.",
+        "[À noter] Il n'est pas nécessaire que la plaque d'immatriculation comporte le symbole européen complété de la lettre « F » et un identifiant territorial. Pour tenir compte du caractère historique du véhicule, la plaque d'immatriculation peut comporter des caractères blancs sur fond noir.",
+        "Motocyclette, cyclomoteur, tricycle ou quadricycle à moteur",
+        "Une motocyclette, un cyclomoteur, un tricycle ou un quadricycle à moteur doit avoir une seule plaque d'immatriculation, disposée de manière évidente à l'arrière. Elle ne doit pas être détachable.",
+        "La plaque d'un 2 roues de moins de 50 cm3 ne comporte pas d'identifiant territorial. Par contre, le symbole européen et la lettre « F » sont présents.",
+        "La plaque doit avoir des caractères noirs sur fond blanc.",
+        "[À noter] Un vélo électrique est considéré comme cyclomoteur lorsque la puissance du moteur est supérieure à 250 watts ou que la vitesse maximale est de 45 km/h.",
+        "Remorque",
+        "Une remorque doit avoir une plaque à l'arrière. Elle est identique ou différente du véhicule qui la tracte en fonction du PTAC. La plaque diffère selon le PTAC de la remorque ou s'il s'agit d'un véhicule forestier ou agricole :",
+        "PTAC supérieur à 500 kg",
+        "Elle doit avoir une plaque avec son propre numéro d'immatriculation (différent de celle du véhicule qui la tracte).",
+        "PTAC inférieur à 500 kg",
+        "Elle doit avoir une plaque reproduisant le numéro du véhicule qui la tracte. La plaque peut, dans ce cas, être détachable.",
+        "[Attention] La remorque attelée à un 2 roues n'a pas besoin de plaque si elle laisse visible la plaque du véhicule qui la tracte. Si cette plaque n'est pas visible, la remorque devra avoir une plaque avec l'immatriculation du 2 roues.",
+        "Véhicule agricole ou forestier",
+        "Un véhicule agricole ou forestier à moteur peut avoir qu'une seule plaque d'immatriculation.",
+        "La plaque doit être disposée de manière évidente à l'arrière. Elle ne doit pas être détachable.",
+        "Elle doit avoir des caractères noirs sur fond blanc."
+      ]
+    },
+    {
+      "titre": "Quelles sont les sanctions en cas d'absence ou de non-conformité de plaque d'immatriculation ?",
+      "contenu": [
+        "Si vous circulez avec un véhicule sans plaque d'immatriculation ou si la plaque n'est pas conforme, vous pouvez avoir une amende pouvant aller jusqu'à 750 €.",
+        "Le fait de circuler avec un véhicule sous déclaration d'achat sans plaque W garage est puni d'une amende de 750 €. L'immobilisation du véhicule et sa mise en fourrière peuvent être également prescrites."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la route : articles R317-8 à R317-14-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074228/LEGISCTA000006177090/"
+    },
+    {
+      "titre": "Code de la route : article R413-12",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032401318"
+    },
+    {
+      "titre": "Arrêté du 9 février 2009 fixant les caractéristiques et le mode de pose des plaques d'immatriculation des véhicules",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000020237128"
+    },
+    {
+      "titre": "Arrêté du 9 février 2009 relatif aux démarches d'immatriculation des véhicules",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000020237165"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Logos des régions",
+      "url": "https://www.interieur.gouv.fr/Actualites/L-actu-du-Ministere/Nouvelles-regions-chartes-graphiques-des-plaques-d-immatriculation-de-vehicules"
+    },
+    {
+      "titre": "Numéro, logo et plaque",
+      "url": "https://immatriculation.ants.gouv.fr/tout-savoir/numero-logo-et-plaque"
+    }
+  ],
+  "slug": "plaques-d-immatriculation",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "carte-grise-certificat-d-immatriculation",
+      "titre": "Carte grise (certificat d'immatriculation)"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "F2421",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Retrait d'espèces",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "En France, vous pouvez retirer de l'argent liquide dans un distributeur automatique, au guichet d'une agence bancaire ou, sous conditions, chez un commerçant.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2024-09-16",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2421",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Moyens de paiement",
+    "Retrait d'espèces"
+  ],
+  "introduction": "Vous avez besoin de retirer régulièrement des espèces (aussi appelé argent liquide) pour faire vos achats ? Les possibilités de retrait sont différentes en France et à l'étranger. Voici les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code monétaire et financier : articles D112-6 et R112-7",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000037904758"
+    },
+    {
+      "titre": "Code monétaire et financier : article L112-14",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037285751"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Info Banque - Assurance"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Paiement et retrait par carte bancaire",
+      "url": "https://www.inc-conso.fr/content/la-carte-bancaire"
+    },
+    {
+      "titre": "Le cash back, comment ça marche ?",
+      "url": "https://www.economie.gouv.fr/particuliers/cash-back"
+    }
+  ],
+  "slug": "retrait-d-especes",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "moyens-de-paiement",
+      "titre": "Moyens de paiement"
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "id": "F2552",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Allocation de base de la Paje versée à la naissance d'un enfant",
+  "theme": "Famille - Scolarité",
+  "description": "L'allocation de base de la prestation d'accueil du jeune enfant (Paje) vise à aider au financement des dépenses liées à l'entretien et l'éducation d'un enfant.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2552",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Allocations destinées aux familles",
+    "Allocation de base de la Paje versée à la naissance d'un enfant"
+  ],
+  "introduction": "L’allocation de base de la prestation d'accueil du jeune enfant (Paje) vise à vous aider au financement des dépenses liées à l'entretien et l'éducation d'un enfant. Votre enfant doit être âgé de moins de 3 ans. L’allocation est versée sous conditions de ressources. Nous vous exposons la réglementation à connaître.",
+  "chapitres": [
+    {
+      "titre": "Quelles sont les conditions pour avoir droit à l'allocation de base de la prestation d'accueil du jeune enfant (Paje) ?",
+      "contenu": [
+        "Vous avez droit à l'allocation de base si vous remplissez les 2 conditions suivantes :",
+        "• Vous avez un enfant à charge de moins de 3 ans",
+        "• Vos revenus sont inférieurs à un certain plafond.",
+        "Pour avoir droit à la prime à la naissance, vos ressources ne doivent pas dépasser un montant déterminé en fonction de votre situation familiale. C'est le revenu net catégoriel de 2024 qui est pris en compte pour 2026. Les règles sont différentes si vous êtes parent isolé :",
+        "Couple",
+        "Plafonds de ressources suivant la situation de l'allocataire",
+        "Nombre d'enfant(s) à charge",
+        "(né ou à naitre)",
+        "Couple avec 2 revenus",
+        "Couple avec un seul revenu",
+        "1 enfant",
+        "49 054 €",
+        "37 118 €",
+        "2 enfants",
+        "56 478 €",
+        "44 542 €",
+        "3 enfants",
+        "65 386 €",
+        "53 450 €",
+        "Par enfant supplémentaire",
+        "8 908 €",
+        "8 908 €",
+        "Il y a 2 revenus si chacun perçoit un montant annuel de 6 306 € ou plus (en 2024) provenant d'une activité professionnelle ou d'indemnités journalières d'accident de travail ou de maladie professionnelle.",
+        "Parent isolé",
+        "Plafonds de ressources suivant la situation de l'allocataire",
+        "Nombre d'enfant(s) à charge (né ou à naitre)",
+        "Plafond de ressources",
+        "1 enfant",
+        "49 054 €",
+        "2 enfants",
+        "56 478 €",
+        "3 enfants",
+        "65 386 €",
+        "Par enfant supplémentaire",
+        "8 908 €"
+      ]
+    },
+    {
+      "titre": "Comment demander l'allocation de base de la Paje ?",
+      "contenu": [
+        "La situation diffère selon que vous dépendez de la Caf (régime général) ou de la MSA (régime agricole).",
+        "Cas général (Caf)",
+        "Vous devez adresser à votre Caf les 2 documents suivants :",
+        "• Copie lisible des pages du livret de famille",
+        "• Extrait ou copie intégrale de l'acte de naissance de l'enfant.",
+        "Caisse d'allocations familiales (Caf)",
+        "Régime agricole (MSA)",
+        "Vous devez adresser à votre mutualité sociale agricole (MSA) les 2 documents suivants :",
+        "• Copie lisible des pages du livret de famille",
+        "• Extrait ou copie intégrale de l'acte de naissance de l'enfant.",
+        "Mutualité sociale agricole (MSA)"
+      ]
+    },
+    {
+      "titre": "Quel est le montant mensuel de l'allocation de base de la Paje ?",
+      "contenu": [
+        "La situation diffère selon que vous êtes en couple ou parent isolé :",
+        "Couple",
+        "Couple avec 1 revenu",
+        "Montants de l'allocation de base en fonction des revenus",
+        "Nombre d'enfants à charge",
+        "Revenus",
+        "Montant",
+        "1 enfant",
+        "Moins de 31 066 €",
+        "198,16 €",
+        "Entre 31 066 € et 37 118 €",
+        "99,08 €",
+        "2 enfants",
+        "Moins de 37 279 €",
+        "198,16 €",
+        "Entre 37 279 € et 44 542 €",
+        "99,08 €",
+        "3 enfants",
+        "Moins de 44 735 €",
+        "198,16 €",
+        "Entre 44 735 € et 53 450 €",
+        "99,08 €",
+        "Couple avec 2 revenus",
+        "Montants de l'allocation de base en fonction des revenus",
+        "Nombre d'enfants à charge",
+        "Revenus",
+        "Montant",
+        "1 enfant",
+        "Moins de 41 055 €",
+        "198,16 €",
+        "Entre 41 055 € et 49 054 €",
+        "99,08 €",
+        "2 enfants",
+        "Moins de 47 268 €",
+        "198,16 €",
+        "Entre 47 268 € et 56 478 €",
+        "99,08 €",
+        "3 enfants",
+        "Moins de 54 724 €",
+        "198,16 €",
+        "Entre 54 724 € et 65 386 €",
+        "99,08 €",
+        "Parent isolé",
+        "Montants de l'allocation de base en fonction des revenus",
+        "Nombre d'enfants à charge",
+        "Revenus",
+        "Montant",
+        "1 enfant",
+        "Moins de 41 055 €",
+        "198,16 €",
+        "Entre 41 055 € et 49 054 €",
+        "99,08 €",
+        "2 enfants",
+        "Moins de 47 268 €",
+        "198,16 €",
+        "Entre 47 268 € et 56 478 €",
+        "99,08 €",
+        "3 enfants",
+        "Moins de 54 724 €",
+        "198,16 €",
+        "Entre 54 724 € et 65 386 €",
+        "99,08 €"
+      ]
+    },
+    {
+      "titre": "Quand l'allocation de base de la Paje est-elle versée ?",
+      "contenu": [
+        "Elle est due à partir du 1er jour du mois suivant la naissance de l'enfant.",
+        "L'allocation de base est versée tous les mois pendant 3 ans jusqu'au mois qui précède le 3e anniversaire de l'enfant.",
+        "[Exemple] Si l'enfant est né le 15 février, l'allocation commence à être versée le 1er avril pour mars.",
+        "En cas de naissances multiples, la Caf vous verse autant d’allocations de base que d’enfants nés du même accouchement.",
+        "[À savoir] En cas de décès de l'enfant, l'allocation de base est prolongée automatiquement de 3 mois après le décès. Aucune condition d'âge ou de durée de versement ne peut être opposée aux parents. Le versement de l'allocation de base peut donc être maintenu au-delà des 3 ans de l'enfant."
+      ]
+    },
+    {
+      "titre": "Peut-on cumuler l'allocation de base de la Paje avec d'autres prestations familiales ?",
+      "contenu": [
+        "L'allocation de base de la Paje est cumulable avec l'allocation journalière de présence parentale (AJPP).",
+        "L'allocation de base n'est pas cumulable avec :",
+        "• Le complément familial",
+        "• L'allocation de base de la Paje pour un autre enfant de moins de 3 ans.",
+        "En effet, l'allocation n'est attribuée qu'à un seul enfant à la fois par famille. Mais, en cas de naissances multiples, elle est versée pour chaque enfant.",
+        "[À savoir] En Guadeloupe, Guyane, Martinique et Réunion, l'allocation de base ne se cumule pas avec les allocations familiales et les majorations de ces allocations versées au titre d'un enfant à charge, ni avec le complément familial."
+      ]
+    },
+    {
+      "titre": "Comment procéder en cas de changement de situation ?",
+      "contenu": [
+        "Il faut distinguer selon que vous dépendez de la Caf ou de la MSA :",
+        "Caf",
+        "Plusieurs changements peuvent intervenir.",
+        "Changement de situation familiale",
+        "Déclarez rapidement tout changement dans votre situation familiale (exemples : naissance d'un enfant, mise en couple, séparation, chômage).",
+        "Allocations et prestations familiales - Déclaration de situation (Caf)",
+        "Connexion avec France Connect ou connexion avec un compte Caf",
+        "Caisse d'allocations familiales (Caf)",
+        "Changement de domicile",
+        "Vous pouvez signaler votre changement de domicile en utilisant le service de changement d'adresse en ligne :",
+        "Déclaration de changement d'adresse",
+        "MSA",
+        "Changement de situation familiale",
+        "Déclarez rapidement tout changement dans votre situation familiale (exemples : naissance d'un enfant, mise en couple, séparation, chômage).",
+        "[Exemple] Être en couple peut vous ouvrir de nouveaux droits. Renseignez-vous auprès de votre MSA.",
+        "MSA - Espace particuliers",
+        "Avec vos identifiants MSA ou avec FranceConnect",
+        "Vous pouvez aussi vous rendre sur place ou envoyer le formulaire cerfa n°11423 par courrier.",
+        "Allocations et prestations familiales - Déclaration de situation (MSA)",
+        "Mutualité sociale agricole (MSA)",
+        "Changement de domicile",
+        "Vous pouvez signaler votre changement de domicile en utilisant le service de changement d'adresse en ligne :",
+        "Déclaration de changement d'adresse",
+        "[À noter] Si vous changez de département, la MSA de votre domicile de départ s'occupera automatiquement du transfert du dossier vers votre nouvelle caisse. Ce transfert se fera dès l'enregistrement de votre nouvelle adresse."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la sécurité sociale : articles L531-1 à L531-9",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000006156167/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles D531-1 à D531-26",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000006141555/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles R552-1 à R552-3",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000006156694/"
+    },
+    {
+      "titre": "Arrêté du 18 décembre 2025 relatif aux plafonds de ressources de certaines prestations familiales",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053165980"
+    },
+    {
+      "titre": "Instruction interministérielle n° DSS/2B/2025/177 du 18 décembre 2025 relative à la revalorisation, au 1er janvier 2026, des plafonds de ressources d’attribution de certaines prestations familiales",
+      "url": "https://bulletins-officiels.social.gouv.fr/sites/textes-officiels/files/2025-12/SFHS2535630J_0.pdf"
+    },
+    {
+      "titre": "Instruction interministérielle du 20 mars 2026 relative à la revalorisation au 1er avril 2026 des prestations familiales servies en métropole et outre-mer",
+      "url": "https://bulletins-officiels.social.gouv.fr/sites/textes-officiels/files/2026-03/SFHS2607952J.pdf"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Connaître les prestations sociales auxquelles vous pouvez avoir droit",
+      "url": "https://www.mesdroitssociaux.gouv.fr",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "Caisse d'allocations familiales (Caf)",
+    "Mutualité sociale agricole (MSA)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Tout comprendre sur l’allocation de base",
+      "url": "https://www.caf.fr/allocataires/aides-et-demarches/droits-et-prestations/vie-personnelle/l-allocation-de-base-ab"
+    }
+  ],
+  "slug": "allocation-de-base-de-la-paje-versee-a-la-naissance-d-un-enfant",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "allocations-destinees-aux-familles",
+      "titre": "Allocations destinées aux familles"
+    }
+  ]
+}

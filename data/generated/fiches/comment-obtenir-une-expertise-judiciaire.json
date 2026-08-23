@@ -1,0 +1,180 @@
+{
+  "id": "F35219",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Comment obtenir une expertise judiciaire ?",
+  "theme": "Justice",
+  "description": "Lorsque la solution du litige dépend d'une analyse technique, une expertise judiciaire peut être demandée avant ou au cours d'une procédure.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-09-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35219",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Affaire civile",
+    "Comment obtenir une expertise judiciaire ?"
+  ],
+  "introduction": "Lorsque la solution d’un litige dépend d'une analyse technique, une expertise judiciaire peut être demandée. Dans son rapport, l'expert établit les faits, les causes et les responsabilités. Cela permet au juge de prendre sa décision. La demande d'expertise judiciaire peut être demandée avant ou au cours d'une procédure. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Qu'est-ce qu'un expert judiciaire ?",
+      "contenu": [
+        "L'expert judiciaire est un technicien spécialisé dans un domaine particulier (par exemple, médecin, architecte, traducteur).",
+        "Il est chargé de donner un avis au juge sur des points techniques dont dépend la solution d'un litige (existence d'une malfaçon, analyse comptable, etc.).",
+        "L'expert est assermenté.",
+        "Il existe des experts dans toutes les matières (médicale, comptabilité, architecture, mécanique, traducteur-interprète...).",
+        "Chaque année, les cours d'appels établissent une liste des experts.",
+        "Cour d'appel",
+        "La Cour de cassation établit une liste nationale des experts.",
+        "Expert judiciaire",
+        "[À savoir] Le juge peut désigner un expert inscrit sur une liste d'une cour d'appel qui n'est pas dans son ressort ou un expert inscrit sur la liste nationale des experts. Il peut aussi désigner un professionnel non inscrit sur la liste des experts. Ce professionnel non inscrit doit alors prêter serment."
+      ]
+    },
+    {
+      "titre": "À quel moment demander une expertise judiciaire ?",
+      "contenu": [
+        "Il peut être nécessaire de faire établir la réalité des faits et les responsabilités par des constatations d'expert (par exemple dans le cas d'un dégât causé par un tiers).",
+        "L'expertise peut être demandée avant tout procès. Dans ce cas, elle est ordonnée en référé.",
+        "L'expertise peut également être demandée au cours de la procédure opposant les parties devant le tribunal judiciaire.",
+        "Une cour d’appel peut décider d’ordonner une expertise dans une affaire n’ayant pas donné lieu à une expertise en première instance ou une contre-expertise."
+      ]
+    },
+    {
+      "titre": "Comment demander une expertise judiciaire ?",
+      "contenu": [
+        "La demander d'expertise peut se faire avant tout procès en engageant une procédure de référé ou au cours de la procédure.",
+        "Avant le procès (référé)",
+        "La demande d'expertise se fait en référé.",
+        "La procédure de référé permet uniquement de mettre en œuvre l'expertise rapidement. Elle ne permet pas de juger le litige entre les parties.",
+        "L'avocat est obligatoire si le montant du litige est supérieur à 10 000 €.",
+        "Avocat",
+        "Le tribunal doit être saisi par assignation.",
+        "Commissaire de justice (anciennement huissier de justice et commissaire-priseur judiciaire)",
+        "[Complement] Le tribunal compétent est, au choix du demandeur, celui qui est saisi de l’affaire au fond (c’est-à-dire le tribunal qui tranche le litige) ou celui où l’expertise doit être exécutée. Lorsque l’expertise porte sur un immeuble, le tribunal compétent est celui du lieu où est situé l'immeuble.",
+        "Pendant le procès",
+        "Le juge peut ordonner une expertise s'il estime qu'il ne dispose pas d'éléments suffisants pour prendre sa décision et qu'il a besoin de l'avis technique d'un professionnel.",
+        "Les parties au litige peuvent également demander au juge une expertise pour établir la preuve de faits qui l'aide à prendre sa décision.",
+        "Dans ce cas, on parle d'une décision avant dire droit."
+      ]
+    },
+    {
+      "titre": "Que précise la décision ordonnant l'expertise judiciaire ?",
+      "contenu": [
+        "La décision ordonnant l'expertise précise les points suivants :",
+        "• Circonstances rendant nécessaire l'expertise",
+        "• Expert désigné : le juge peut désigner un ou plusieurs experts en fonction de la complexité du dossier.",
+        "• Missions de l'expert : le juge décrit précisément les opérations que doit mener l'expert et les éléments ou les faits sur lesquels il doit se prononcer. Par exemple, l'origine des dégâts, la responsabilité, la solution technique pour y mettre fin, l'évaluation du préjudice.",
+        "• Montant et délai de versement de la consignation à verser au tribunal à titre de la provision à valoir sur la rémunération de l'expert.Le juge désigne la ou les parties qui doivent consigner la provision.En cas de non-versement de la consignation, la désignation de l'expert est caduque : l'expertise n'a pas lieu. Le juge peut tirer toutes les conséquences du refus d'une partie de consigner.Tout au long de sa mission d'expertise, l'expert pourra demander le paiement de consignations complémentaires s'il estime que la consignation initiale est insuffisante au vu des actes qu'il doit réaliser.",
+        "• Délai dans lequel l'expert devra déposer son rapport.Le juge peut également fixer un délai dans lequel l'expert devra déposer un pré-rapport.L'expert peut demander au juge de prolonger ce délai en cas de besoin.",
+        "• Magistrat chargé de suivre les opérations d'expertise (ou si lui-même s'occupe de ce contrôle)."
+      ]
+    },
+    {
+      "titre": "Peut-on contester une décision ordonnant une expertise judiciaire ?",
+      "contenu": [
+        "Il est possible de faire appel d'une ordonnance de référé.",
+        "Lorsque l'expertise a été demandée au cours du procès, il n'est pas possible de faire appel immédiatement de la décision qui ordonne ou refuse l'expertise. L'appel se fait une fois que la décision qui tranche le litige est rendue.",
+        "[À savoir] Si vous justifiez d'un motif grave et légitime, vous pouvez faire appel de la décision ordonnant l’expertise rendue en cours de procès avec l'autorisation du premier président de la cour d'appel.",
+        "[Complement] Si vous voulez faire appel de la décision statuant sur l'expertise, vous devez saisir le premier président de la cour d'appel en délivrant une assignation à votre adversaire. Elle doit être délivrée dans le mois de la décision contestée."
+      ]
+    },
+    {
+      "titre": "Comment se déroule une expertise judiciaire ?",
+      "contenu": [
+        "Le greffe transmet le dossier de procédure à l'expert.",
+        "L'expert convoque les parties et leurs avocats à une réunion pour prendre connaissance du dossier et écouter les arguments de chacun.",
+        "[À savoir] L'absence de convocation des parties par l'expert peut entraîner la nullité de l'expertise.",
+        "L'expertise se déroule dans le respect du principe du contradictoire, les parties participent aux opérations d'expertise.",
+        "L'expert peut se faire communiquer par les parties tous les documents qu'il juge utiles. Si ces dernières ne communiquent pas ces documents, il peut demander au juge d'en ordonner la production, éventuellement sous astreinte.",
+        "Les documents remis ou les observations faites par une partie à l'expert doivent être impérativement communiquées à l'ensemble des parties. De même, l'expert doit communiquer aux parties les documents à partir desquels il va faire son expertise.",
+        "L'expert peut demander au juge la désignation d'un autre expert ou d'un technicien (appelé sapiteur) dans une autre spécialité que la sienne pour l'assister dans sa mission. Le rapport de cet expert et l'avis du sapiteur sont joints au rapport de l'expert.",
+        "Il peut également demander au juge de modifier sa mission par exemple pour prendre en compte les nouvelles conséquences d'un dommage.",
+        "Il peut entendre des tiers si besoin.",
+        "L'expert informe le juge chargé du contrôle des expertises de l'avancée de ses opérations.",
+        "[À savoir] Le juge peut assister aux opérations d'expertise. Un procès-verbal des constatations et des explications des parties est rédigé et signé par le juge.",
+        "Lorsque l'expert a fini sa mission, il établit un pré-rapport qu'il communique aux parties.",
+        "Les parties lui adressent leurs observations (dires) dans un délai fixé par l'expert.",
+        "Après avoir tenu compte de ces dires, l'expert établit un rapport définitif qui est communiqué au juge et à toutes les parties."
+      ]
+    },
+    {
+      "titre": "Que faire en cas de problème au cours d'une expertise judiciaire ?",
+      "contenu": [
+        "L'expert et les parties informent le juge chargé du contrôle de l'expertise de toutes les difficultés rencontrées.",
+        "Le juge chargé du contrôle des expertises peut demander des explications à l'expert ou aux parties.",
+        "En cas de problème de communication de documents par une partie, le juge peut la contraindre à produire ces documents sous astreinte.",
+        "Si l'expert ne peut pas poursuivre sa mission (par exemple en raison de problème de santé), le juge peut désigner un autre expert chargé de continuer la mission."
+      ]
+    },
+    {
+      "titre": "Que se passe-t-il après le dépôt du rapport d'expertise judiciaire ?",
+      "contenu": [
+        "En même temps que son rapport, l'expert communique au juge et aux parties sa demande de rémunération.",
+        "Les parties ont 15 jours pour donner leurs observations écrites à ce sujet.",
+        "Passé ce délai, le juge fixe la rémunération de l'expert en fonction des actes accomplis, du respect des délais et du travail fourni. Il peut ordonner le versement de sommes complémentaires ou le remboursement du trop-perçu aux parties qui ont consigné.",
+        "[À savoir] Le jugement, qui règle le litige, détermine la partie qui doit payer définitivement les frais d'expert. Ceux-ci sont compris dans les dépens, c'est-à-dire dans les frais liés à la procédure en justice.",
+        "En fonction des conclusions de l'expertise, les parties peuvent décider de :",
+        "• tenter une conciliation entre elles pour résoudre le litige,",
+        "• assigner l'adversaire devant le tribunal pour qu'un juge statue sur le litige lorsque l'expertise a été rendue suite à une procédure de référé,",
+        "• demander au juge une contre-expertise si elles contestent tout ou partie du rapport.",
+        "Le juge peut demander à l'expert d'exposer verbalement son avis à l'audience.",
+        "[À savoir] Le rapport d'expertise n'est qu'un élément du dossier. Le juge n'est pas lié par les conclusions de l'expert pour rendre sa décision."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de procédure civile : articles 143 à 154",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070716/LEGISCTA000006165183/#LEGISCTA000006165183"
+    },
+    {
+      "titre": "Code de procédure civile : articles 232 à 248",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006165189/"
+    },
+    {
+      "titre": "Code de procédure civile : articles 263 à 284-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070716/LEGISCTA000006165192/#LEGISCTA000006165192"
+    },
+    {
+      "titre": "Code de l'organisation judiciaire : article R312-43",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047373206/2023-06-16"
+    },
+    {
+      "titre": "Code de procédure civile : articles 482 et 483",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070716/LEGISCTA000006165204/#LEGISCTA000006165204"
+    },
+    {
+      "titre": "Code de procédure civile : articles 484 à 492-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006165205/"
+    },
+    {
+      "titre": "Code de l'organisation judiciaire : article L431-3-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033425903"
+    },
+    {
+      "titre": "Code de procédure civile : article 1015-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034275188"
+    },
+    {
+      "titre": "Loi n°71-498 du 29 juin 1971 relative aux experts judiciaires",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000874942"
+    },
+    {
+      "titre": "Décret n°2004-1463 du 23 décembre 2004 relatif aux experts judiciaires",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000005983254/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "comment-obtenir-une-expertise-judiciaire",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "affaire-civile",
+      "titre": "Affaire civile"
+    }
+  ]
+}

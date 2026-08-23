@@ -1,0 +1,198 @@
+{
+  "id": "F32326",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Perquisition",
+  "theme": "Justice",
+  "description": "La perquisition permet à la police, la gendarmerie ou à un juge de rechercher des preuves au domicile d'une personne ou au siège social d'une société.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-02-25",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F32326",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Affaire pénale",
+    "Perquisition"
+  ],
+  "introduction": "La perquisition est une mesure d'enquête, en tous lieux, pour rechercher des indices, preuves et objets en lien avec une infraction. La procédure est encadrée et se déroule sous le contrôle d'un officier de police judiciaire (OPJ) ou d'un juge. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Qu'est-ce que la perquisition ?",
+      "contenu": [
+        "La perquisition est la fouille d'un lieu par un OPJ ou sous son contrôle, dans le but d'y trouver des éléments de preuves d'une infraction (documents, objets, fichiers informatiques...).",
+        "La perquisition n'est pas une remise volontaire de pièces aux policiers et gendarmes, c'est un acte contraignant."
+      ]
+    },
+    {
+      "titre": "Dans quels lieux se déroule la perquisition ?",
+      "contenu": [
+        "La perquisition peut se dérouler dans les lieux suivants :",
+        "• Locaux d'habitation (domicile du suspect, d'un complice présumé ou d'un témoin)",
+        "• Annexes de locaux d'habitation (garage, box, etc.)",
+        "• Locaux d'une entreprise ou d'un service public (bureaux, entrepôts, etc.)",
+        "• Locaux professionnels d'un avocat, d'un médecin, d'un notaire ou d'un commissaire de justice.",
+        "[Attention] La fouille d'une voiture (hors véhicule d'habitation comme un camping-car) n'est pas considérée comme une perquisition et relève d'autres règles."
+      ]
+    },
+    {
+      "titre": "Comment se déroule la perquisition ?",
+      "contenu": [
+        "La procédure à suivre pour déclencher la perquisition dépend de la nature des locaux à visiter et du procureur ou du juge qui dirige l'enquête principale.",
+        "Locaux ordinaires",
+        "Enquête dirigée par le procureur de la République",
+        "Le procureur de la République dirige l'enquête de flagrance et l'enquête préliminaire.",
+        "En enquête de flagrance, pour faire une perquisition, la police ou la gendarmerie n'a pas besoin d'une autorisation écrite du procureur.",
+        "En enquête préliminaire, il faut l'accord écrit de la personne pour faire une perquisition. Sinon, l'autorisation du JLD doit être obtenue sur demande du procureur. La perquisition doit se faire sous le contrôle d'un OPJ présent sur les lieux. Il doit rendre compte du résultat au procureur.",
+        "Enquête dirigée par le juge d'instruction",
+        "Le juge d'instruction dirige l'information judiciaire. Lors de cette enquête, la police ou la gendarmerie doit avoir l'autorisation écrite du juge d'instruction pour pouvoir mener toute perquisition. On parle d'une commission rogatoire. Elle peut être rédigée, de manière large, en autorisant les OPJ à effectuer tous les actes utiles à la manifestation de la vérité.",
+        "Cabinet et domicile d'un avocat",
+        "Il est possible d'effectuer une perquisition du cabinet ou du domicile d'un avocat.",
+        "Elle doit être réalisée directement par le procureur ou le juge, à la suite d'une décision motivée du JLD. Le bâtonnier ou son délégué doit également être présent.",
+        "Cette procédure s'applique aux perquisitions des locaux de l'ordre des avocats ou des CARPA. Elle concerne aussi le cabinet ou le domicile du bâtonnier.",
+        "La personne présente sur le lieu de la perquisition peut s'opposer à la saisie d'un document ou de tout objet.",
+        "Les saisies ne peuvent pas concerner des faits sans rapport avec l'enquête en cours. La perquisition doit respecter le libre exercice de la profession d'avocat (assistance, représentation...). Les documents saisis ne doivent pas être couverts par le secret professionnel.",
+        "[À savoir] Le secret professionnel n'est pas opposable en cas de fraude fiscale, de corruption ou de blanchiment de ces délits et de financement du terrorisme.",
+        "Locaux d'un organe de presse",
+        "La perquisition des locaux d'un média ou le domicile privé d'un journaliste ou son véhicule professionnel doit être réalisée directement par le procureur ou le juge.",
+        "La personne présente sur le lieu de la perquisition peut s'opposer à la saisie d'un document ou de tout objet.",
+        "La perquisition ne peut pas avoir pour but l'identification d'une source. Elle doit respecter le libre exercice de la profession de journaliste, ne pas faire obstacle ou entraîner un retard injustifié à la diffusion de l'information.",
+        "Cabinet d'un médecin, étude d'un notaire et d'un commissaire de justice",
+        "La perquisition du cabinet d'un médecin, de l'étude d'un notaire ou d'un commissaire de justice doit être réalisée directement par le procureur ou le juge.",
+        "Elle se fait en présence du responsable de l'ordre ou de l'organisation professionnelle.",
+        "Lieux abritant des éléments couverts par le secret de la défense nationale",
+        "La perquisition des locaux abritant des éléments couverts par le secret de la défense nationale doit être réalisée directement par le procureur ou le juge. Elle se fait en présence du président de la Commission du secret de la défense nationale ou de son représentant.",
+        "Locaux d'une juridiction ou domicile d'un juge",
+        "La perquisition des locaux d'un tribunal ou du domicile d'un juge doit être réalisée directement par le procureur ou un juge sur décision motivée.",
+        "Elle doit se dérouler en présence du premier président de la cour d'appel ou du premier président de la cour de cassation ou son délégué."
+      ]
+    },
+    {
+      "titre": "Quels sont les horaires d'une perquisition ?",
+      "contenu": [
+        "Les heures de réalisation d'une perquisition sont différentes selon l'infraction et les locaux perquisitionnés :",
+        "Criminalité organisée, terrorisme et stupéfiants",
+        "En cas d'infraction liée à la criminalité organisée, au terrorisme, ou au trafic de stupéfiants, une perquisition peut débuter avant 6 h et après 21 h. Cet acte d'enquête s'appelle perquisition de nuit.",
+        "Proxénétisme et prostitution des mineurs",
+        "En cas d'infraction liée au proxénétisme ou à la prostitution des mineurs, une perquisition peut être opérée à toute heure du jour et de la nuit.",
+        "Autres cas",
+        "La perquisition d'un domicile doit commencer entre 6 h et 21 h. Si la perquisition commence avant 21 h, elle peut finir après cette heure.",
+        "[À savoir] Depuis le 30 septembre 2024, dans le cadre d'une enquête de flagrance sur un crime ou un délit commis contre les personnes, une perquisition peut débuter avant 6 h ou après 21 h sous certaines conditions. Par exemple en cas de risque imminent d'atteinte à la vie.",
+        "[À savoir] En cas de crime flagrant, une perquisition de nuit peut être autorisée par le JLD sur demande du procureur."
+      ]
+    },
+    {
+      "titre": "L'occupant des lieux doit-il être présent et donner son accord en cas de perquisition ?",
+      "contenu": [
+        "L'occupant des lieux est celui qui habite ou travaille dans le lieu concerné (par exemple, le locataire et non le propriétaire ou le bailleur).",
+        "Pour les locaux d'une entreprise, l'occupant des lieux est le dirigeant.",
+        "[À savoir] Si la perquisition vise un enfant mineur résidant au domicile de ses parents, ce sont eux qui donnent leur accord et sont présents. En l'absence des parents, l'OPJ doit désigner 2 témoins majeurs.",
+        "Les règles changent selon le type d'enquête.",
+        "Enquête de flagrance",
+        "L'accord et la présence de l'occupant des lieux ne sont pas obligatoires. L'OPJ peut employer la force pour entrer.",
+        "En cas d'absence de l'occupant des lieux, si l'OPJ arrive à le contacter, il l'invite à désigner un représentant de son choix servant de témoin. Si l'OPJ ne peut pas contacter l'occupant des lieux, il choisit lui-même 2 témoins majeurs qui ne sont ni policiers , ni gendarmes. Ces témoins peuvent être, par exemple, des voisins ou des passants qui ne peuvent pas refuser d'être témoins, sous peine d'une amende de 150 €.",
+        "Enquête préliminaire",
+        "L'occupant des lieux doit obligatoirement donner son accord par écrit.",
+        "Il existe une exception pour les infractions punies de plus de 3 ans de prison. Selon les nécessités de l'enquête, le JLD peut autoriser une perquisition sans l'accord de l'occupant des lieux.",
+        "La perquisition se déroule en présence de l'occupant des lieux, mais ce dernier peut être absent. Dans ce cas, si l'OPJ arrive à le contacter, il l'invite à désigner un représentant de son choix pour être témoin.",
+        "Si l'OPJ ne peut pas contacter l'occupant des lieux, il choisit lui-même 2 témoins majeurs qui ne sont ni policiers, ni gendarmes. Ces témoins peuvent être, par exemple, des voisins ou des passants. Ils ne peuvent pas refuser d'être témoins, sous peine d'une amende de 150 €.",
+        "Lorsqu'une personne est gardée à vue ou détenue pour une infraction liée à la criminalité organisée, son transport sur place peut devoir être évité. Sur demande du procureur, le JLD doit donner son accord pour que la perquisition se déroule en l'absence de l'occupant des lieux. La perquisition se fait en présence de 2 témoins ou d'un représentant de la personne.",
+        "Information judiciaire",
+        "L'accord de l'occupant des lieux n'est pas exigé, l'OPJ peut employer la force pour entrer.",
+        "Si la perquisition a lieu au domicile de la personne mise en examen par le juge d'instruction, elle doit être présente ou désigner un représentant. Sinon, l'OPJ désigne 2 témoins.",
+        "Si la perquisition a lieu dans un domicile autre que celui de la personne mise en examen, la personne chez laquelle elle s'effectue est invitée à y assister. Si cette personne est absente ou refuse d'y assister, la perquisition a lieu en présence de 2 de ses parents ou alliés présents sur les lieux ou en présence de 2 témoins."
+      ]
+    },
+    {
+      "titre": "Comment se fait la saisie des preuves lors de la perquisition ?",
+      "contenu": [
+        "L'OPJ dresse un procès-verbal,c'est-à-dire un rapport rédigé de la perquisition, qui contient la liste des preuves saisies.",
+        "Les preuves (indices, documents et objets) sont placées sous scellés.",
+        "Les données informatiques peuvent être saisies directement à la source (saisie d'un disque dur) ou copiées sur un support physique (par exemple sur clé USB).",
+        "Il est également possible d'accéder à distance à des données se situant en dehors du lieu de la perquisition à l'aide d'un ordinateur se trouvant sur place. Par exemple, pour consulter des courriers électroniques, un compte client sur un site internet ou des fichiers sur un serveur."
+      ]
+    },
+    {
+      "titre": "L'avocat est-il présent lors de la perquisition ?",
+      "contenu": [
+        "Les personnes présentes peuvent être obligées de rester sur place le temps de la perquisition si elles sont en mesure de fournir des renseignements sur les preuves saisies. Elles n'ont pas le droit à l'assistance d'un avocat.",
+        "Si une personne est placée en garde à vue, la perquisition se déroule sans son avocat."
+      ]
+    },
+    {
+      "titre": "Peut-on demander l'annulation de la perquisition ?",
+      "contenu": [
+        "La personne qui a fait l'objet d'une perquisition peut en demander l'annulation au JLD. Elle peut le faire, au plus tôt 6 mois après cette perquisition, si elle n'est pas poursuivie devant un juge d'instruction ou un tribunal.",
+        "La demande peut être faite dans un délai de 1 an à compter de la date à laquelle elle a eu connaissance de la perquisition. Elle se fait par déclaration au greffe du tribunal où la procédure est ouverte ou celui où la perquisition a été réalisée.",
+        "Le JLD doit prendre une décision dans le mois qui suit la réception de la demande, après avoir obtenu les observations écrites du procureur, du demandeur et de son avocat.",
+        "Si les nécessités de l'enquête le justifient, le procureur peut demander au JLD de se prononcer dans un délai de 8 jours.",
+        "Le JLD statue par une ordonnance motivée susceptible d'appel devant le président de la chambre de l'instruction. Le délai d'appel est de 10 jours, à compter de la notification de l'ordonnance.",
+        "Si des poursuites sont engagées contre d'autres personnes que celle ayant formé la demande d'annulation, le JLD ne peut pas être saisi de la demande, il doit la transmettre. En cas d'instruction en cours, la transmission est faite au président de la chambre de l'instruction. Si le tribunal est saisi, c'est le président du tribunal qui reçoit cette demande."
+      ]
+    },
+    {
+      "titre": "Peut-on demander réparation d'un dommage causé lors de la perquisition ?",
+      "contenu": [
+        "La personne concernée par l'opération de police judiciaire réalisée par erreur à son domicile peut obtenir réparation.",
+        "La demande se fait sur internet :",
+        "Demander une indemnisation en cas de dégâts commis par erreur lors d’une perquisition",
+        "Connexion avec France Connect",
+        "[Attention] La personne qui demande l'indemnisation doit être tiers à la procédure justifiant la perquisition, c'est-à-dire qu'elle ne doit pas être le mis en cause."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de procédure pénale : articles 53 à 74-2",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006151876/"
+    },
+    {
+      "titre": "Code de procédure pénale : article 76",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039279525/"
+    },
+    {
+      "titre": "Code de procédure pénale : article 92 à 99-5",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006182886/"
+    },
+    {
+      "titre": "Code de procédure pénale : article 706-16",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042919859/"
+    },
+    {
+      "titre": "Code de procédure pénale : article 706-23 à 706-25-2",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006151934/"
+    },
+    {
+      "titre": "Code de procédure pénale : article 802-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038267892/"
+    },
+    {
+      "titre": "Code pénal : article R 642-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006419550/"
+    },
+    {
+      "titre": "Loi du 30 octobre 2017 renforçant la sécurité intérieure et la lutte contre le terrorisme",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000035932811/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demander une indemnisation en cas de dégâts commis par erreur lors d’une perquisition",
+      "url": "https://mon-indemnisation.justice.gouv.fr/",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "Avocat"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "perquisition",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "affaire-penale",
+      "titre": "Affaire pénale"
+    }
+  ]
+}

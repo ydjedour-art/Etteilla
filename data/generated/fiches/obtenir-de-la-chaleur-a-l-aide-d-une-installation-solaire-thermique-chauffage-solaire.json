@@ -1,0 +1,101 @@
+{
+  "id": "F31488",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Obtenir de la chaleur à l'aide d'une installation solaire thermique (chauffage solaire)",
+  "theme": "Logement",
+  "description": "Utiliser l'énergie solaire pour produire de la chaleur et de l’eau chaude sanitaire nécessite une installation spécifique.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-05-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31488",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Vie pratique en logement individuel (maison)",
+    "Obtenir de la chaleur à l'aide d'une installation solaire thermique (chauffage solaire)"
+  ],
+  "introduction": "Vous souhaitez utiliser l'énergie solaire pour chauffer votre maison (chauffage et eau chaude sanitaire) ? Une installation solaire thermique est alors nécessaire. Nous faisons le point sur la réglementation.",
+  "chapitres": [
+    {
+      "titre": "Quels équipements sont nécessaires pour produire de la chaleur ?",
+      "contenu": [
+        "Pour produire de la chaleur, vous devez installer les équipements suivants :",
+        "• Capteurs solaires. Il s'agit de panneaux installés sur votre toiture qui captent le rayonnement du soleil pour le transformer en chaleur. Ils font offices de chaudière solaire.",
+        "• Ballon de stockage. Il s'agit d'un réservoir qui stocke la chaleur produite et qui est alimenté par un réseau de tuyauterie assurant la jonction avec les capteurs solaires.",
+        "• Énergie d'appoint. Dans la plupart des cas, une source d'énergie d'appoint est nécessaire pour assurer le maintien d'une production de chaleur conforme à vos besoins quels que soient la saison et le taux d'ensoleillement. Le relais de chaleur peut être assuré par un système indépendant (cheminée, poêle, résistance électrique,...). Il peut également être assuré par un système couplé à votre installation solaire. La production complémentaire est alors assurée par une chaudière traditionnelle.",
+        "• Régulateur. Il permet de gérer la production solaire thermique des panneaux. Il donne la priorité à l'énergie solaire sur les appareils de production d'appoint. En cas de déficit d'ensoleillement, il module l'apport en énergie d'appoint pour maintenir une température optimale. Lorsque la production du système dépasse votre consommation réelle, il maîtrise les éventuelles surchauffes des panneaux."
+      ]
+    },
+    {
+      "titre": "Comment peut être utilisée la chaleur produite par une installation solaire thermique ?",
+      "contenu": [
+        "La production de chaleur peut servir aux usages suivants :",
+        "• Chauffer l'eau chaude sanitaire",
+        "• Assurer la production de chauffage",
+        "• Combiner les 2, si votre installation le permet."
+      ]
+    },
+    {
+      "titre": "Faut-il demander une autorisation d'urbanisme pour une installation solaire thermique ?",
+      "contenu": [
+        "Oui, vous devez faire une déclaration préalable de travaux en mairie, car l'installation va modifier l'aspect extérieur de votre maison.",
+        "[À noter] S’il s’agit d’une construction neuve, la demande d’installation peut être intégrée au permis de construire."
+      ]
+    },
+    {
+      "titre": "Quel est le prix d'une installation solaire thermique ?",
+      "contenu": [
+        "Le prix d'une installation solaire thermique n'est pas encadré : il dépend du professionnel choisi et des matériaux utilisés."
+      ]
+    },
+    {
+      "titre": "Peut-on bénéficier d'une aide au financement des travaux pour une installation solaire thermique ?",
+      "contenu": [
+        "Oui, vous pouvez bénéficier de MaPrimeRénov si vos ressources ne dépassent pas un certain plafond.",
+        "Vous pouvez également bénéficier de la prime Coup de pouce Chauffage si vous souhaitez remplacer votre chaudière au charbon ou au fioul ou au gaz par une installation solaire thermique.",
+        "MaPrimeRénov' et la prime Coup de pouce Chauffage sont cumulables.",
+        "Vous pouvez estimer le montant de vos aides avec ce simulateur :",
+        "Estimer les aides financières pour la rénovation de l’habitat",
+        "Vos travaux d'installation solaire thermique devront impérativement être réalisés par un professionnel reconnu garant de l'environnement (RGE) si vous faites une demande d'aide MaPrimeRénov' et/ou de prime Coup de pouce Chauffage.",
+        "Un outil permet de rechercher un professionnel RGE :",
+        "Rechercher un professionnel reconnu garant de l'environnement (RGE) ou un architecte référencé pour réaliser un audit énergétique ou un diagnostiqueur certifié pour réaliser un diagnostic de performance énergétique (DPE)"
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [
+    {
+      "titre": "Estimer les aides financières pour la rénovation de l’habitat",
+      "url": "https://france-renov.gouv.fr/aides/simulation#/",
+      "type": "simulateurNG"
+    },
+    {
+      "titre": "Rechercher un professionnel reconnu garant de l'environnement (RGE) ou un architecte référencé pour réaliser un audit énergétique ou un diagnostiqueur certifié pour réaliser un diagnostic de performance énergétique (DPE)",
+      "url": "https://france-renov.gouv.fr/annuaires-professionnels/artisan-rge-architecte#/tab",
+      "type": "outilRechercheNG"
+    }
+  ],
+  "contacts": [
+    "Conseillers spécialisés en travaux de rénovation de l'habitat (France Rénov')"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Guide sur le solaire",
+      "url": "https://www.ecologie.gouv.fr/politiques-publiques/solaire"
+    },
+    {
+      "titre": "Site sur les travaux de rénovation de l'habitat \"France Rénov\"",
+      "url": "https://france-renov.gouv.fr/"
+    }
+  ],
+  "slug": "obtenir-de-la-chaleur-a-l-aide-d-une-installation-solaire-thermique-chauffage-solaire",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "vie-pratique-en-logement-individuel-maison",
+      "titre": "Vie pratique en logement individuel (maison)"
+    }
+  ]
+}

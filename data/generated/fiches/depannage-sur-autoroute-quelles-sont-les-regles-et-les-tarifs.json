@@ -1,0 +1,120 @@
+{
+  "id": "F11056",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Dépannage sur autoroute : quelles sont les règles et les tarifs ?",
+  "theme": "Transports - Mobilité",
+  "description": "En cas de panne sur une autoroute, seule une entreprise agréée est autorisée à intervenir. Les tarifs sont réglementés.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-01-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F11056",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Infractions routières",
+    "Dépannage sur autoroute : quelles sont les règles et les tarifs ?"
+  ],
+  "introduction": "En cas de panne sur une autoroute, seule une entreprise de dépannage agréée est autorisée à intervenir. Les tarifs sont réglementés.",
+  "chapitres": [
+    {
+      "titre": "Dépannage sur autoroute : qui peut intervenir ?",
+      "contenu": [
+        "Sur une autoroute concédée, seule une entreprise de dépannage agréée est autorisée à intervenir.",
+        "Vous devez prévenir l’exploitant de l’autoroute qui contactera le dépanneur agréé.",
+        "Vous pouvez utiliser une borne d'urgence pour l'appeler.",
+        "[À noter] En cas de panne, vous devez vous efforcer de dégager la chaussée le plus loin possible des voies de circulation et assurer la présignalisation du véhicule."
+      ]
+    },
+    {
+      "titre": "Comment se passe le dépannage sur autoroute et dans quel délai ?",
+      "contenu": [
+        "Le dépanneur doit arriver sur les lieux dans les 30 minutes suivant votre appel à la borne d'urgence.",
+        "En cas de petite panne, le dépanneur s'occupe du déplacement du véhicule et de sa réparation sur place.",
+        "Si une réparation sur place est impossible, le dépanneur assure le remorquage de votre véhicule immobilisé.",
+        "Votre véhicule est remorqué :",
+        "• au garage du véhicule d'intervention,",
+        "• ou, à votre demande, en un lieu situé à moins de 5 km de la sortie de l'autoroute ou de la voie expresse."
+      ]
+    },
+    {
+      "titre": "Dépannage sur autoroute : quels sont les tarifs ?",
+      "contenu": [
+        "Les tarifs sont réglementés et varient notamment selon que le dépannage a lieu sur place ou avec remorquage :",
+        "Dépannage sur place",
+        "Les tarifs varient selon l'horaire du dépannage :",
+        "Du lundi au vendredi, de 8h à 18h",
+        "Le prix TTC de l'opération de dépannage pour un véhicule dont le PTAC est inférieur à 3,5 tonnes est de 151,00 €.",
+        "Les éventuelles fournitures sont facturées en supplément.",
+        "Du lundi au vendredi de 18h à 8h, les samedis, dimanches et jours fériés",
+        "Le prix TTC de l'opération de dépannage pour un véhicule dont le PTAC est inférieur à 3,5 tonnes est de 226,50 €.",
+        "Les éventuelles fournitures sont facturées en supplément.",
+        "Dépannage avec remorquage",
+        "Les tarifs varient selon l'horaire du dépannage et le poids du véhicule :",
+        "Du lundi au vendredi, de 8h à 18h",
+        "Le prix TTC de l'opération de dépannage varie selon le poids du véhicule :",
+        "• Véhicule dont le PTAC est inférieur ou égal à 1,8 tonne maximum : 151,00 €",
+        "• Véhicule dont le PTAC est supérieur à 1,8 tonne et inférieur à 3,5 tonnes : 186,72 €.",
+        "Du lundi au vendredi de 18h à 8h, les samedis, dimanches et jours fériés",
+        "Le prix TTC de l'opération de dépannage varie selon le poids du véhicule :",
+        "• Véhicule dont le PTAC est inférieur ou égal à 1,8 tonne : 226,50 €",
+        "• Véhicule dont le PTAC est supérieur à 1,8 tonne et inférieur à 3,5 tonnes : 280,08 €.",
+        "[À savoir] L'information sur les tarifs est affichée dans la cabine du véhicule de dépannage. Après le dépannage ou l'évacuation, le dépanneur doit vous remettre une facture indiquant les prestations fournies et leur prix."
+      ]
+    },
+    {
+      "titre": "Dépannage sur autoroute : comment faire une réclamation ?",
+      "contenu": [
+        "Vous pouvez faire un signalement à la DGCCRF en utilisant le téléservice Signal Conso :",
+        "Signal Conso : signaler un problème avec un professionnel"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la route : articles R421-1 à R421-10",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074228/LEGISCTA000006159606"
+    },
+    {
+      "titre": "Décret n°89-477 du 11 juillet 1989 relatif au tarif de dépannage des véhicules sur les autoroutes et routes express",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000332287/"
+    },
+    {
+      "titre": "Arrêté du 12 juillet 2016 relatif au tarif de dépannage des véhicules légers sur autoroutes et routes express",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000032932990"
+    },
+    {
+      "titre": "Circulaire du 25 avril 2013 relative à l'organisation du dépannage sur les autoroutes concédés",
+      "url": "https://www.legifrance.gouv.fr/circulaire/id/37059"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Signal Conso : signaler un problème avec un professionnel",
+      "url": "https://signal.conso.gouv.fr/",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "0809 540 550 DGCCRF - RéponseConso"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Véhicules : que faire en cas de panne sur autoroute ?",
+      "url": "https://www.economie.gouv.fr/dgccrf/Publications/Vie-pratique/Fiches-pratiques/vehicules-que-faire-en-cas-panne-sur-autoroute"
+    },
+    {
+      "titre": "Le prix des autoroutes dans l'Union européenne",
+      "url": "https://www.touteleurope.eu/economie-et-social/le-prix-des-autoroutes-dans-l-union-europeenne/"
+    }
+  ],
+  "slug": "depannage-sur-autoroute-quelles-sont-les-regles-et-les-tarifs",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "infractions-routieres",
+      "titre": "Infractions routières"
+    }
+  ]
+}

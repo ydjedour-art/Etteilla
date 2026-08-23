@@ -1,0 +1,77 @@
+{
+  "id": "F36027",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Recouvrement de dette en Europe : injonction de payer et règlement des petits litiges",
+  "theme": "Justice",
+  "description": "Pour récupérer une dette impayée, il est possible de s'adresser à un commissaire de justice ou de saisir un juge pour obtenir une injonction de payer.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-08-14",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F36027",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Affaire civile",
+    "Recouvrement de dette en Europe : injonction de payer et règlement des petits litiges"
+  ],
+  "introduction": "Votre débiteur ne vous paye pas (facture, reconnaissance de dette...) ? Vous devez saisir un juge pour obtenir une ordonnance d’injonction de payer. L'injonction de payer européenne est une procédure simplifiée qui se fonde sur l'utilisation de formulaires types. Pour les litiges n'excédant pas 5 000 €, il existe une procédure simplifiée de règlement des petits litiges. Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de procédure civile : articles 1424-1 à 1424-15",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070716/LEGISCTA000019958612/"
+    },
+    {
+      "titre": "Règlement (CE) n°1896/2006 du 12 décembre 2006 instituant une procédure européenne d'injonction de payer",
+      "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=celex%3A32006R1896"
+    },
+    {
+      "titre": "Règlement (CE) n° 861/2007 du Parlement Européen et du Conseil du 11 juillet 2007 instituant une procédure européenne de règlement des petits litiges",
+      "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A02007R0861-20170714"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demande de règlement des petits litiges en Europe",
+      "url": "https://online-forms.e-justice.europa.eu/online-forms/small-claims-forms_fr",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Injonction de payer européenne",
+      "url": "https://online-forms.e-justice.europa.eu/online-forms/european-payment-order-forms_fr?clang=fr",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Frais de justice applicables au règlement des petits litiges en Europe",
+      "url": "https://e-justice.europa.eu/306/FR/court_fees_concerning_small_claims_procedure",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Maison de justice et du droit"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Guide pratique pour l'application du règlement relatif à l'injonction de payer européenne",
+      "url": "https://op.europa.eu/fr/publication-detail/-/publication/e0bd66c6-0a09-464e-928f-10cfe4c06b1c"
+    },
+    {
+      "titre": "Guide pratique pour l'application de la procédure européenne de règlement des petits litiges",
+      "url": "https://e-justice.europa.eu/fileDownload.do?id=58824528-1716-4fb0-a3b3-d7cba30a048b"
+    },
+    {
+      "titre": "Atlas judiciaire européen",
+      "url": "https://e-justice.europa.eu/353/FR/european_payment_order"
+    }
+  ],
+  "slug": "recouvrement-de-dette-en-europe-injonction-de-payer-et-reglement-des-petits-litiges",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "affaire-civile",
+      "titre": "Affaire civile"
+    }
+  ]
+}

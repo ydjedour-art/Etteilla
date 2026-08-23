@@ -1,0 +1,59 @@
+{
+  "id": "F10004",
+  "type_publication": "Fiche avec liens externes",
+  "titre": "Baccalauréat",
+  "theme": "Famille - Scolarité",
+  "description": "Le bac est le diplôme qui valide la fin de la scolarité au lycée.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-04-10",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F10004",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Diplômes",
+    "Baccalauréat"
+  ],
+  "introduction": "Vous allez passer le bac et vous voulez avoir des renseignements sur ce diplôme ? Le bac est le diplôme qui valide la fin de la scolarité au lycée et qui ouvre l'accès à l'enseignement supérieur. Voici les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Calendrier 2026 de l'orientation et de l'affectation des élèves, des épreuves de brevet, bac, CAP, BEP et BT",
+      "url": "https://www.education.gouv.fr/bo/2025/Hebdo36/MENE2525995N"
+    },
+    {
+      "titre": "Code de l'éducation : articles D334-2 à D334-14",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071191/LEGISCTA000006166854/#LEGISCTA000006166854"
+    },
+    {
+      "titre": "Arrêté du 27 juillet 2021 portant adaptations des modalités d'organisation du baccalauréat général et technologique à compter de la session 2022",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043861610"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Parcoursurp : inscription dans l'enseignement supérieur",
+      "url": "https://dossier.parcoursup.fr/Candidat/authentification",
+      "type": "selNG"
+    },
+    {
+      "titre": "Brevet, CAP, Bac : connaître les dates des examens",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/datesExamenBrevetCapBac",
+      "type": "Simulateur"
+    }
+  ],
+  "contacts": [
+    "Établissement scolaire"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "baccalaureat",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "diplomes",
+      "titre": "Diplômes"
+    }
+  ]
+}

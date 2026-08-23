@@ -1,0 +1,40 @@
+{
+  "id": "F36447",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Un Européen agent public en France a-t-il les mêmes droits qu'un agent public français ?",
+  "theme": "Travail - Formation",
+  "description": "Un agent public ressortissant de l'Espace économique européen (EEE) a les mêmes obligations et les mêmes droits qu'un agent public français.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-10-20",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F36447",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Carrière dans la fonction publique",
+    "Un Européen agent public en France a-t-il les mêmes droits qu'un agent public français ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Oui, s'il est embauché en France en tant que fonctionnaire ou contractuel, le ressortissant d'un pays de l'Espace économique européen (EEE) ou suisse a les mêmes obligations et les mêmes droits qu'un agent public français (temps de travail, déroulement de carrière, rémunération, congé,...)."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "un-europeen-agent-public-en-france-a-t-il-les-memes-droits-qu-un-agent-public-francais",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "carriere-dans-la-fonction-publique",
+      "titre": "Carrière dans la fonction publique"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "id": "F39100",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quelle procédure de divorce un majeur protégé peut-il engager ?",
+  "theme": "Famille - Scolarité",
+  "description": "Un majeur protégé ne peut pas divorcer par consentement mutuel mais il peut divorcer devant le juge avec l’assistance d’un curateur ou d’un tuteur.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-07-15",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F39100",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Divorce, séparation de corps",
+    "Quelle procédure de divorce un majeur protégé peut-il engager ?"
+  ],
+  "introduction": "Un majeur placé sous une mesure de protection peut divorcer à condition d’engager une procédure de divorce judiciaire. Il ne peut pas divorcer par consentement mutuel. Nous vous donnons les explications en fonction de chaque mesure de protection judiciaire.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Lorsque l'un des époux est placé sous une mesure de protection judiciaire, certaines précautions sont prises pour préserver ses intérêts :",
+        "• Lorsque la mesure de protection a été confiée à l’époux(se) du majeur protégé, le juge des tutelles désigne un curateur ou un tuteur ad hoc.",
+        "• Si une procédure de divorce est engagée alors qu'une demande de mise sous protection est déposée ou est en cours d’examen, la demande en divorce ne peut pas être examinée immédiatement. Le juge des tutelles doit d'abord se prononcer sur la mise sous protection judiciaire du majeur. Ensuite, le juge aux affaires familiales (Jaf) instruit la demande en divorce. Le Jaf peut toutefois prendre des mesures provisoires (par exemple, autoriser la séparation des époux, attribuer la jouissance du logement, fixer une pension alimentaire) le temps que la mesure de protection soit mise en place.",
+        "[À noter] L’avocat est obligatoire quelle que soit la procédure de divorce engagée.",
+        "Sauvegarde de justice",
+        "Un majeur sous sauvegarde de justice ne peut pas divorcer par consentement mutuel judiciaire ou extrajudiciaire.",
+        "Toutes les autres procédures de divorce sont possibles.",
+        "Le majeur protégé peut exercer l'action en divorce seul, puisqu'il conserve l'exercice de ses droits durant cette mesure provisoire.",
+        "Habilitation familiale",
+        "Un majeur placé sous habilitation familiale ne peut pas divorcer par consentement mutuel judiciaire ou extrajudiciaire.",
+        "Toutes les autres procédures de divorce sont possibles.",
+        "En fonction des missions confiées à la personne habilitée par le juge des tutelles, celle-ci doit assister ou représenter le majeur protégé à l’occasion d’une procédure de divorce.",
+        "Le majeur sous habilitation familiale peut accepter seul le principe de la rupture du mariage, en cas de divorce accepté.",
+        "Curatelle simple et curatelle renforcée",
+        "Un majeur sous curatelle ne peut pas divorcer par consentement mutuel judiciaire ou extrajudiciaire.",
+        "Toutes les autres procédures de divorce sont possibles.",
+        "Le majeur sous curatelle doit engager la procédure de divorce avec l'assistance de son curateur et d’un avocat.",
+        "Il peut accepter le principe de la rupture du mariage, en cas de divorce accepté.",
+        "L'époux sous curatelle peut acquiescer au jugement de divorce avec l’autorisation du juge des tutelles.",
+        "Il peut renoncer à son appel sur autorisation du juge des tutelles s’il ne veut pas poursuivre la procédure.",
+        "Tutelle",
+        "Un majeur sous tutelle ne peut pas divorcer par consentement mutuel judiciaire ou extrajudiciaire.",
+        "Toutes les autres procédures de divorce sont possibles.",
+        "Le majeur sous tutelle doit être représenté par son tuteur.",
+        "Le tuteur peut engager la procédure de divorce sans demander l'autorisation au juge des tutelles. L’avocat est choisi par le tuteur.",
+        "Le majeur sous tutelle peut accepter le principe de la rupture du mariage, en cas de divorce accepté.",
+        "L'époux sous tutelle peut acquiescer au jugement de divorce avec l’autorisation du juge des tutelles.",
+        "Il peut renoncer à faire appel avec l’autorisation du juge des tutelles s’il ne veut pas poursuivre la procédure.",
+        "Mandat de protection future",
+        "Un majeur protégé par un mandat de protection future en cours d’exécution ne peut pas divorcer par consentement mutuel judiciaire ou extrajudiciaire.",
+        "Toutes les autres procédures de divorce sont possibles.",
+        "À la demande de toute personne, le juge des tutelles peut ouvrir une mesure de curatelle ou de tutelle. Cela permet au curateur ou au tuteur désigné d’engager, avec l’assistance d’un avocat, la procédure de divorce pour le majeur protégé.",
+        "Le majeur protégé peut accepter seul le principe de la rupture du mariage en cas de divorce accepté."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : articles 229-1 à 229-4",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000033427998/"
+    },
+    {
+      "titre": "Code de procédure civile : articles 249 à 255",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070716/LEGISCTA000006165190"
+    },
+    {
+      "titre": "Code civil : article 457-1 à 463",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006165510/"
+    },
+    {
+      "titre": "Code civil : articles 467 à 472",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165757/2024-09-14"
+    },
+    {
+      "titre": "Code civil : articles 477 à 488",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006165759"
+    },
+    {
+      "titre": "Code de procédure civile : article 1122",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000021504247"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Permanence juridique",
+    "Maison de justice et du droit"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "quelle-procedure-de-divorce-un-majeur-protege-peut-il-engager",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "divorce-separation-de-corps",
+      "titre": "Divorce, séparation de corps"
+    }
+  ]
+}

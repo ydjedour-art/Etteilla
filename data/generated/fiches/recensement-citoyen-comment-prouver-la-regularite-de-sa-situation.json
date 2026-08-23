@@ -1,0 +1,40 @@
+{
+  "id": "F1844",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Recensement citoyen : comment prouver la régularité de sa situation ?",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Pour s'inscrire à certains examens et concours avant l'âge de 18 ans, il faut fournir l'attestation de recensement remise à l'issue du recensement citoyen.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-06-19",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1844",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Recensement citoyen, JDC et Service national",
+    "Recensement citoyen : comment prouver la régularité de sa situation ?"
+  ],
+  "introduction": "À partir de 16 ans, vous devez faire votre votre recensement citoyen (parfois appelé par erreur recensement militaire). Votre recensement citoyen fait, une attestation de recensement vous est remise. Pour vous inscrire avant vos 18 ans à certains examens (BEP, baccalauréat, permis de conduire...) ou concours administratifs français, vous devez présenter votre attestation de recensement. Nous vous expliquons.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les règles sont différentes selon que vous avez fait votre recensement citoyen en France ou depuis l'étranger :"
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "recensement-citoyen-comment-prouver-la-regularite-de-sa-situation",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "recensement-citoyen-jdc-et-service-national",
+      "titre": "Recensement citoyen, JDC et Service national"
+    }
+  ]
+}

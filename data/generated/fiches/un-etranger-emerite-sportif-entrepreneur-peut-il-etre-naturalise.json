@@ -1,0 +1,48 @@
+{
+  "id": "F15830",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Un étranger émérite (sportif, entrepreneur…) peut-il être naturalisé ?",
+  "theme": "Étranger - Europe",
+  "description": "La nationalité française peut être accordée à un étranger francophone qui contribue au rayonnement de la France.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-06-19",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F15830",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Nationalité française",
+    "Un étranger émérite (sportif, entrepreneur…) peut-il être naturalisé ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "La nationalité française peut être accordée à un étranger francophone qui contribue par son action émérite au rayonnement de la France et à la prospérité de ses relations économiques internationales.",
+        "Ces 2 conditions sont cumulatives.",
+        "Il peut s'agir par exemple d'une personnalité ou d'un chef d'entreprise dont l'action dans ce domaine est reconnue.",
+        "Cette procédure est exceptionnelle et est à l'initiative du ministre des affaires étrangères."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : articles 21-14-1 à 21-25-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165459"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "un-etranger-emerite-sportif-entrepreneur-peut-il-etre-naturalise",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "nationalite-francaise",
+      "titre": "Nationalité française"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "F1121",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Instances dirigeantes d'une association",
+  "theme": "Associations, fondations et fonds de dotation",
+  "description": "La loi de 1901 ne définit pas quels sont les organes d'administration d'une association.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-08-14",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1121",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Associations, fondations et fonds de dotation",
+    "Dirigeants et responsables d'une association",
+    "Instances dirigeantes d'une association"
+  ],
+  "introduction": "Les associations s'appuient sur des instances pour assurer leur fonctionnement, leur gestion ou leur gouvernance. Ces instances sont composées de membres élus ou désignés. Elles ont pour mission de veiller à la bonne marche de l'association, en respectant ses statuts et les règlementations applicables. Une association peut-elle les définir librement ? Nous vous donnons les informations utiles.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les règles diffèrent selon que le siège de l'association est situé en Alsace-Moselle (départements du Bas-Rhin, du Haut-Rhin et de la Moselle) ou dans le reste de la France :"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : articles 1101 à 1111-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032040792"
+    },
+    {
+      "titre": "Code civil local d'Alsace-Moselle : articles 21 à 79-IV",
+      "url": "https://idl-am.org/documents-sur-le-droit-local/code-civil-local-extraits-articles-21-a-79-iv/"
+    },
+    {
+      "titre": "Loi du 1er juillet 1901 relative au contrat d'association",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006069570/"
+    },
+    {
+      "titre": "Décret du 16 août 1901 pris relatif au contrat d'association",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006069620/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Modification d'une association (e-modification)",
+      "url": "https://demarches.service-public.gouv.fr/asso_mademarche/MD/demarche?action=modification",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Modification d'une association (titre, objet, siège social, adresse de gestion, dissolution)",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_13972.do",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Point ressource à la vie associative"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "instances-dirigeantes-d-une-association",
+  "path": [
+    {
+      "slug": "associations-fondations-et-fonds-de-dotation",
+      "titre": "Associations, fondations et fonds de dotation"
+    },
+    {
+      "slug": "dirigeants-et-responsables-d-une-association",
+      "titre": "Dirigeants et responsables d'une association"
+    }
+  ]
+}

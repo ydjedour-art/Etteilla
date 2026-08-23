@@ -1,0 +1,75 @@
+{
+  "id": "F1965",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "S'inscrire sur la liste électorale en mairie : quel justificatif de domicile ?",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Pour être inscrit sur la liste électorale d’une commune, il faut soit y habiter ou y résider, soit être un de ses contribuables, soit être chef d'entreprise.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-08-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1965",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Élections",
+    "S'inscrire sur la liste électorale en mairie : quel justificatif de domicile ?"
+  ],
+  "introduction": "Pour demander à être inscrit sur la liste électorale d'une commune, vous devez soit y habiter ou y résider, soit être un de ses contribuables, soit être le gérant ou l'associé d'une entreprise située dans cette commune. Selon votre situation, il faut fournir un ou plusieurs justificatifs.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code électoral : articles L9 à L15-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070239/LEGISCTA000006164051/"
+    },
+    {
+      "titre": "Circulaire INTD1705027C du 19 avril 2017 relative aux gens du voyage",
+      "url": "https://www.legifrance.gouv.fr/circulaire/id/42180"
+    },
+    {
+      "titre": "Arrêté du 16 novembre 2018 relatif aux justificatifs d'identité et de domicile pour s'inscrire et pour voter en mairie",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000037627369/"
+    },
+    {
+      "titre": "Réponse ministérielle du 23 janvier 2014 sur la distinction entre domicile et résidence",
+      "url": "http://www.senat.fr/basile/visio.do?id=qSEQ130908232"
+    },
+    {
+      "titre": "Instruction INTA1830120J du 21 novembre 2018 relative à la tenue des listes électorales et des listes électorales complémentaires",
+      "url": "https://www.legifrance.gouv.fr/download/pdf/circ?id=44101"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Vérifier votre inscription électorale et votre bureau de vote",
+      "url": "https://situation.elections.interieur.gouv.fr/",
+      "type": "selNG"
+    },
+    {
+      "titre": "Attestation sur l'honneur",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/AttestationHonneur",
+      "type": "Modèle de document"
+    },
+    {
+      "titre": "Demande d'inscription sur les listes électorales",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_12669.do",
+      "type": "formulaireNG"
+    },
+    {
+      "titre": "Demande d'inscription en ligne sur les listes électorales",
+      "url": "https://inscription.elections.interieur.gouv.fr",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "s-inscrire-sur-la-liste-electorale-en-mairie-quel-justificatif-de-domicile",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "elections",
+      "titre": "Élections"
+    }
+  ]
+}

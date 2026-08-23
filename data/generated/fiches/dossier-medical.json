@@ -1,0 +1,90 @@
+{
+  "id": "F12210",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Dossier médical",
+  "theme": "Social - Santé",
+  "description": "Il est possible de demander son dossier médical pour accéder aux informations liées à votre santé et détenues par un professionnel de santé.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-02-28",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F12210",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Information du patient : dossier médical, montant des prestations, ...",
+    "Dossier médical"
+  ],
+  "introduction": "Vous souhaitez accéder aux informations liées à votre santé et détenues par un professionnel de santé ? Pour cela, vous pouvez demander à prendre connaissance de votre dossier médical. Des recours existent si cette demande vous est refusée. Le dossier médical ne doit pas être confondu avec l'espace numérique de santé ou le dossier pharmaceutique. Nous vous exposons les règles à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les règles diffèrent selon que vous soyez majeur ou mineur."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la santé publique : articles R1111-1 à R1111-7",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000006196866/"
+    },
+    {
+      "titre": "Code de la santé publique : articles L1110-1 à L1110-13",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000006170991/"
+    },
+    {
+      "titre": "Arrêté du 5 mars 2004 relatif à l'accès aux informations concernant la santé d'une personne",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000601005"
+    },
+    {
+      "titre": "Arrêté du 3 janvier 2007 relatif à l'accès des successeurs légaux au dossier médical d'une personne décédée",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000611164"
+    },
+    {
+      "titre": "Code de la santé publique : article R1112-7",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036658351/"
+    },
+    {
+      "titre": "Instruction interministérielle du 14 août 2007 relative à la conservation du dossier médical",
+      "url": "http://social-sante.gouv.fr/fichiers/bo/2007/07-09/a0090274.htm"
+    },
+    {
+      "titre": "Code de la santé publique : article R4127-45",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025843580/"
+    },
+    {
+      "titre": "Circulaire du 14 février 2005 relative à la commission départementale des hospitalisations psychiatriques (CDHP)",
+      "url": "http://affairesjuridiques.aphp.fr/textes/circulaire-dgssd6-c-n-2005-88-du-14-fevrier-2005-relative-a-la-commission-departementale-des-hospitalisations-psychiatriques-cdhp/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demander la consultation de son dossier médical",
+      "url": "https://www.france-assos-sante.org/wp-content/uploads/2024/03/Fiche-A.3.4_Acces-dossier-medical-Modele-lettre.pdf",
+      "type": "Modèle de document"
+    }
+  ],
+  "contacts": [
+    "Santé Info Droits"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "L'accès à mon dossier médical",
+      "url": "https://www.cnil.fr/fr/lacces-au-dossier-medical"
+    },
+    {
+      "titre": "Commission départementale des soins psychiatriques (CDSP)",
+      "url": "http://affairesjuridiques.aphp.fr/textes/fiches-pratiques-relatives-a-la-loi-du-5-juillet-2011-sur-les-droits-et-la-protection-des-personnes-faisant-lobjet-de-soins-psychiatriques/telecharger/600121"
+    }
+  ],
+  "slug": "dossier-medical",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "information-du-patient-dossier-medical-montant-des-prestations",
+      "titre": "Information du patient : dossier médical, montant des prestations, ..."
+    }
+  ]
+}

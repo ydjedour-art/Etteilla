@@ -1,0 +1,74 @@
+{
+  "id": "F12163",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Remboursement des frais de transport domicile-travail (fonction publique)",
+  "theme": "Travail - Formation",
+  "description": "L'agent public bénéficie d'une prise en charge partielle de ses frais de transport entre son domicile et son lieu de travail selon le mode de transport utilisé.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-02-21",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F12163",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Rémunération dans la fonction publique",
+    "Remboursement des frais de transport domicile-travail (fonction publique)"
+  ],
+  "introduction": "En tant qu'agent public, vous bénéficiez d'une prise en charge partielle de vos frais de transport entre votre domicile et votre lieu de travail par votre administration employeur. Les conditions de prise en charge varient selon que vous utilisez les transports en commun, un deux roues ou un covoiturage. Nous vous détaillons ces conditions.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Décret n°2010-676 instituant une prise en charge partielle du prix des titres d'abonnement pour le déplacement domicile-travail des agents publics",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000022374455/"
+    },
+    {
+      "titre": "Décret n°2020-543 relatif au versement du « forfait mobilités durables » dans la fonction publique de l'État",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000041858525"
+    },
+    {
+      "titre": "Décret n° 2020-1547 du 9 décembre 2020 relatif au versement du « forfait mobilités durables » dans la fonction publique territoriale",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000042636614"
+    },
+    {
+      "titre": "Décret n° 2020-1554 du 9 décembre 2020 relatif au versement du « forfait mobilités durables » dans les établissements publics de santé, sociaux et médico-sociaux",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000042636881"
+    },
+    {
+      "titre": "Arrêté du 9 mai 2020 pris pour l'application du décret n°2020-543 relatif au versement du « forfait mobilités durables » dans la fonction publique de l'État",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000041858561/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Attestation sur l'honneur de covoiturage",
+      "url": "https://attestation.covoiturage.beta.gouv.fr/salarie-secteur-public",
+      "type": "lettreTypeNG"
+    },
+    {
+      "titre": "Attestation sur l'honneur de déplacement en vélo",
+      "url": "https://attestation-velo.fr/salarie-secteur-public",
+      "type": "lettreTypeNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Tarifs RATP du Forfait Navigo Annuel en vigueur",
+      "url": "https://www.ratp.fr/titres-et-tarifs/forfait-navigo-annuel"
+    },
+    {
+      "titre": "Foire aux questions : le forfait mobilités durables (FMD)",
+      "url": "https://www.fonction-publique.gouv.fr/files/files/etre-agent-public/ma-remuneration/20221214-faq_forfait_mobilite_durable.pdf"
+    }
+  ],
+  "slug": "remboursement-des-frais-de-transport-domicile-travail-fonction-publique",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "remuneration-dans-la-fonction-publique",
+      "titre": "Rémunération dans la fonction publique"
+    }
+  ]
+}

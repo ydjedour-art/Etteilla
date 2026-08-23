@@ -1,0 +1,53 @@
+{
+  "id": "F11860",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Le permis de conduire permet-il de justifier de son identité ?",
+  "theme": "Transports - Mobilité",
+  "description": "Le permis de conduire est un document d’identité officiel mais une administration peut choisir les documents qu’elle accepte pour justifier de l'identité.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-06-23",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F11860",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Permis de conduire",
+    "Le permis de conduire permet-il de justifier de son identité ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Oui, le permis de conduire peut être accepté comme document justificatif de l’identité si la photographie est ressemblante. Toutefois, cela dépend des circonstances et de l'autorité qui le demande. En effet, chaque administration publique ou personne morale publique ou privée est libre de choisir la liste des documents qu'elle accepte pour justifier de l'identité.",
+        "Par exemple, pour se présenter aux épreuves du permis de conduire, un Français ou un Européen peut justifier de son identité au moyen de son permis de conduire au format carte bancaire, en cours de validité."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Réponse ministérielle du 26 octobre 2010 relative à la réglementation en matière de pièces d'identité",
+      "url": "http://questions.assemblee-nationale.fr/q13/13-84003QE.htm"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Maison de justice et du droit"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Obtenir son identité numérique certifiée",
+      "url": "https://france-identite.gouv.fr/identite-numerique-certifiee/"
+    }
+  ],
+  "slug": "le-permis-de-conduire-permet-il-de-justifier-de-son-identite",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "permis-de-conduire",
+      "titre": "Permis de conduire"
+    }
+  ]
+}

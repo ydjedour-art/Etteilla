@@ -1,0 +1,86 @@
+{
+  "id": "F31416",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Faut-il une assurance pour conduire une voiture sans permis ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Oui, l'assurance est obligatoire pour une voiture sans permis comme pour tout véhicule terrestre à moteur qui circule sur la voie publique.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-04-22",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31416",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Assurance automobile (véhicule)",
+    "Faut-il une assurance pour conduire une voiture sans permis ?"
+  ],
+  "introduction": "Oui, l'assurance est obligatoire pour une voiture sans permis (également appelée voiturette à 2 places) comme pour tout autre véhicule terrestre à moteur qui circule sur la voie publique. L'obligation d'assurance permet que les victimes des accidents impliquant ces véhicules puissent être indemnisées.",
+  "chapitres": [
+    {
+      "titre": "Propriétaire d'une voiture sans permis : quelle assurance est obligatoire ?",
+      "contenu": [
+        "Si vous êtes propriétaire d'une voiture sans permis, vous devez l'assurer au minimum avec la garantie responsabilité civile (dite assurance au tiers). Cette garantie permet que l'assurance indemnise les tiers à qui vous pourriez causer un préjudice.",
+        "[À noter] Les conducteurs de voiturettes ne bénéficient pas du système de bonus/malus appliquée aux conducteurs de voiture classique."
+      ]
+    },
+    {
+      "titre": "Location d'une voiture sans permis : que vérifier en matière d'assurance ?",
+      "contenu": [
+        "Si vous louez une voiture sans permis en location de courte durée, vous devez vous assurer que l'agence de location l'a bien assurée avant de prendre le volant.",
+        "Si vous louez une voiture sans permis en location longue durée, le contrat doit préciser qui prend en charge l’assurance du véhicule. Si l’assurance n’est pas incluse par le loueur, vous devrez souscrire vous-même au minimum une garantie responsabilité civile."
+      ]
+    },
+    {
+      "titre": "Quelle garantie supplémentaire peut être souscrite pour conduire une voiture sans permis ?",
+      "contenu": [
+        "Si vous souhaitez également être indemnisé en cas d'accident, vous devez souscrire des garanties supplémentaires, telles que :",
+        "• Dommages tous accidents",
+        "• Vol et incendie",
+        "• Bris de glace",
+        "• Assistance 0 km",
+        "• Garantie du conducteur."
+      ]
+    },
+    {
+      "titre": "Quelles sont les sanctions en cas d'absence d'assurance d'une voiture sans permis ?",
+      "contenu": [
+        "Le fait de conduire une voiture sans permis non assurée est un délit.",
+        "Les sanctions encourues sont les suivantes :",
+        "• Amende pouvant aller jusqu’à 3 750 €.",
+        "• Suspension du droit de conduire certains véhicules",
+        "• Travaux d’intérêt général",
+        "• Immobilisation ou confiscation du véhicule.",
+        "En cas de première infraction, la sanction peut être remplacée par une amende forfaitaire de 500 €."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la route : articles L324-1 et L324-2",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006159534"
+    },
+    {
+      "titre": "Code des assurances : articles L211-1 à L211-2",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006174242"
+    },
+    {
+      "titre": "Code des assurances : articles L211-4 à L211-7",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006174247"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Info Banque - Assurance"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "faut-il-une-assurance-pour-conduire-une-voiture-sans-permis",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "assurance-automobile-vehicule",
+      "titre": "Assurance automobile (véhicule)"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "F36780",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Faut-il une autorisation d'urbanisme pour installer une serre ?",
+  "theme": "Logement",
+  "description": "Une demande d'autorisation d'urbanisme peut être nécessaire pour installer une serre selon la durée d’installation, sa surface, sa hauteur et sa localisation.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-04-22",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F36780",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Autorisations d'urbanisme",
+    "Faut-il une autorisation d'urbanisme pour installer une serre ?"
+  ],
+  "introduction": "Dans certains cas, une autorisation d'urbanisme est nécessaire pour installer une serre. Sa dimension et sa localisation (secteur protégé ou pas) déterminent le type d’autorisation à demander : une déclaration préalable (DP) ou un permis de construire (PC). Nous vous présentons la réglementation.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "[Attention] L’installation d’une serre pour une durée limitée à 3 mois est dispensée de toute formalité. Dans les secteurs suivants, elle est limitée à 15 jours : • Sites classés ou en instance de classement • Périmètre des sites patrimoniaux remarquables • Abords des monuments historiques • Zones protégées par une délibération motivée du conseil municipal ou de l'EPCI.",
+        "Dans tous les cas, vous devez consulter le PLU de votre commune qui peut prévoir des règles locales concernant l’installation de votre serre. Pour les connaître, vous devez contacter le service de l'urbanisme de votre mairie.",
+        "Mairie",
+        "L’autorisation d’urbanisme dépend des dimensions de votre serre (hauteur et surface) et si elle se trouve en secteur protégé ou pas :"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'urbanisme : article R*421-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025542764"
+    },
+    {
+      "titre": "Code de l'urbanisme : articles R421-9 à R*421-12",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006188272"
+    },
+    {
+      "titre": "Code de l'urbanisme : article R*431-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038682379"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Assistance pour votre demande d'autorisation d'urbanisme",
+      "url": "https://demarches.service-public.gouv.fr/mademarche/DAUA/demarche",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Déclaration préalable constructions et travaux non soumis à permis de construire",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_16702.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Estimer le montant des taxes d'urbanisme (taxe d’aménagement et taxe d’archéologie préventive)",
+      "url": "https://www.impots.gouv.fr/simulateur-des-taxes-urbanisme",
+      "type": "Simulateur"
+    }
+  ],
+  "contacts": [
+    "Mairie"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "faut-il-une-autorisation-d-urbanisme-pour-installer-une-serre",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "autorisations-d-urbanisme",
+      "titre": "Autorisations d'urbanisme"
+    }
+  ]
+}

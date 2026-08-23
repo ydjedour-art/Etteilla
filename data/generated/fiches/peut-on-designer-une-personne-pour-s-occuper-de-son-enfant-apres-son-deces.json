@@ -1,0 +1,73 @@
+{
+  "id": "F130",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Peut-on désigner une personne pour s'occuper de son enfant après son décès ?",
+  "theme": "Famille - Scolarité",
+  "description": "Oui, vous pouvez désigner une personne de votre choix (un tuteur) afin qu'après votre décès, elle s'occupe de votre enfant jusqu'à sa majorité.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-06-30",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F130",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Testament",
+    "Peut-on désigner une personne pour s'occuper de son enfant après son décès ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Oui, vous pouvez désigner une personne de votre choix pour s'occuper de votre enfant mineur après votre décès.",
+        "La personne sera appelée tuteur et sera responsable de votre enfant jusqu'à sa majorité.",
+        "Vous pouvez désigner le tuteur par testament.",
+        "Vous pouvez aussi le faire par une déclaration spéciale devant notaire. Pour cela, vous devez indiquer par écrit le nom de la personne choisie et déposer le document chez le notaire. Des frais de notaire vous seront facturés.",
+        "Au moment de votre décès, la situation sera différente selon que vous exerciez seul ou en commun l'autorité parentale de votre enfant :",
+        "Autorité parentale exercée en commun",
+        "Les règles diffèrent selon qu’un seul parent décède ou que les 2 parents décèdent pendant le même événement :",
+        "Décès d'un parent",
+        "Si un parent décède, l'autre parent devient automatiquement administrateur légal.",
+        "Si ce parent craint de décéder avant la majorité de son enfant, il peut désigner un tuteur pour s'en occuper après son décès. La personne doit être désignée par testament ou déclaration spéciale devant notaire.",
+        "Décès des 2 parents pendant le même événement",
+        "En cas de décès des parents pendant le même événement, une tutelle est ouverte.",
+        "Si les parents avaient désigné un tuteur, le conseil de famille doit respecter ce choix, sauf s'il est contraire à l'intérêt de l'enfant.",
+        "Toutefois, la personne désignée n'est pas obligée d'accepter la tutelle. Il est donc préférable d'avoir eu son accord avant de la désigner.",
+        "Autorité parentale exercée seul(e)",
+        "En cas de décès, une tutelle est ouverte.",
+        "Si la personne ayant l’autorité parentale avait désigné un tuteur, le conseil de famille doit respecter ce choix sauf s'il est contraire à l'intérêt de l'enfant.",
+        "Toutefois, la personne désignée n'est pas obligée d'accepter la tutelle. Il est donc préférable d'avoir eu son accord avant de la désigner.",
+        "[À noter] Vous pouvez aussi désigner à l'avance un mandataire pour protéger les intérêts personnels et/ou patrimoniaux de votre enfant mineur."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : articles 403 à 408-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000031345419"
+    },
+    {
+      "titre": "Code civil : articles 382 à 386",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000031322686"
+    },
+    {
+      "titre": "Code civil : articles 387 à 387-6",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000031322937"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Notaire"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "peut-on-designer-une-personne-pour-s-occuper-de-son-enfant-apres-son-deces",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "testament",
+      "titre": "Testament"
+    }
+  ]
+}

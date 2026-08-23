@@ -1,0 +1,134 @@
+{
+  "id": "F930",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Mariage en France",
+  "theme": "Famille - Scolarité",
+  "description": "Un couple de sexe différent ou de même sexe doit remplir des conditions, choisir son lieu de mariage et déposer un dossier en mairie.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-03-17",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F930",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Mariage",
+    "Mariage en France"
+  ],
+  "introduction": "Vous souhaitez vous marier ? Que vous soyez un couple de sexe différent ou de même sexe, vous devez remplir certaines conditions. Vous devez choisir votre lieu de mariage et déposer un dossier en mairie. Nous vous guidons dans votre démarche, en fonction de votre situation.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code civil : articles 63 à 76",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006136104"
+    },
+    {
+      "titre": "Code civil : articles 143 à 164",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136117"
+    },
+    {
+      "titre": "Code civil : articles 165 à 171",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006136118"
+    },
+    {
+      "titre": "Code civil : articles 172 à 179",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136125/#LEGISCTA000006136125"
+    },
+    {
+      "titre": "Code civil : articles 515-1 à 515-7-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006136536/"
+    },
+    {
+      "titre": "Code général des collectivités territoriales : articles L2121-29 à L2121-34",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006180961/"
+    },
+    {
+      "titre": "LOI n°2021-1109 du 24 août 2021 confortant le respect des principes de la République",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000043964778/"
+    },
+    {
+      "titre": "Loi n°2009-594 du 27 mai 2009 pour le développement économique des outre-mer : article 58",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000020672199"
+    },
+    {
+      "titre": "Circulaire du 26 juillet 2017 relative à diverses dispositions en matière de droit des personnes et de la famille de la loi n°2016-1547 du 18 novembre 2016",
+      "url": "https://www.legifrance.gouv.fr/circulaire/id/42552"
+    },
+    {
+      "titre": "Instruction générale relative à l'état civil (Igrec) du 11 mai 1999 - Annexe",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000647915"
+    },
+    {
+      "titre": "Circulaire du 29 mai 2013 de présentation de la loi ouvrant le mariage aux couples de même sexe",
+      "url": "http://circulaires.legifrance.gouv.fr/pdf/2013/05/cir_37052.pdf"
+    },
+    {
+      "titre": "Circulaire du 23 juillet 2014 relative à l'état civil",
+      "url": "https://www.legifrance.gouv.fr/circulaire/id/38565"
+    },
+    {
+      "titre": "Réponse ministérielle du 20 janvier 2015 relative au lieu de célébration du mariage",
+      "url": "http://questions.assemblee-nationale.fr/q14/14-52680QE.htm"
+    },
+    {
+      "titre": "Réponse ministérielle du 20 janvier 2015 relative aux \"mariages gris\"",
+      "url": "http://questions.assemblee-nationale.fr/q14/14-53029QE.htm"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Vérifier les documents à fournir pour se marier",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/ListeDocumentsPourMariage",
+      "type": "simulateurNG"
+    },
+    {
+      "titre": "Demande d'acte de naissance : copie intégrale ou extrait (naissance en France) - Service gratuit",
+      "url": "https://demarches.service-public.gouv.fr/mademarche/EtatCivil/demarche?action=NAISSANCE",
+      "type": "selNG"
+    },
+    {
+      "titre": "Demande d'acte de naissance : copie intégrale ou extrait (naissance à l'étranger) - Service gratuit",
+      "url": "https://demarches.service-public.gouv.fr/mademarche/delivrance_demat/demarche?action=NAISSANCE",
+      "type": "selNG"
+    },
+    {
+      "titre": "Demander une copie ou un extrait d'acte d'état civil à l'Ofpra si l’on est réfugié, apatride ou sous protection subsidiaire",
+      "url": "https://www.ofpra.gouv.fr/demander-un-acte",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "Mairie"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Décision 13-50059 sur le mariage entre un Français et un marocain de même sexe",
+      "url": "https://www.courdecassation.fr/decision/607980aa9ba5988459c4a34e?search_api_fulltext=13-50059&op=Rechercher+sur+judilibre&date_du=&date_au=&judilibre_juridiction=all&previousdecisionpage=&previousdecisionindex=&nextdecisionpage=&nextdecisionindex="
+    },
+    {
+      "titre": "Délégation des fonctions d'état civil du maire pour la célébration des mariages",
+      "url": "https://www.senat.fr/questions/base/1995/qSEQ950811901.html"
+    },
+    {
+      "titre": "Célébration des mariages par un conseiller municipal",
+      "url": "https://www.senat.fr/questions/base/1999/qSEQ990314810.html"
+    },
+    {
+      "titre": "Couples en Europe",
+      "url": "https://www.coupleseurope.eu/fr/"
+    },
+    {
+      "titre": "Mes documents relèvent-ils de la légalisation, de l’apostille ou d’une dispense ?",
+      "url": "https://www.notaires.fr/fr/media/1539"
+    }
+  ],
+  "slug": "mariage-en-france",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "mariage",
+      "titre": "Mariage"
+    }
+  ]
+}

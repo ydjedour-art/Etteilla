@@ -1,0 +1,66 @@
+{
+  "id": "F10662",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Comment obtenir une attestation de droits (attestation Vitale) ?",
+  "theme": "Social - Santé",
+  "description": "Les démarches (en ligne, sur place ou par téléphone) pour obtenir une attestation de droits varient selon le régime d’Assurance auquel on appartient.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-08-07",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F10662",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Remboursement des soins par la Sécurité sociale",
+    "Comment obtenir une attestation de droits (attestation Vitale) ?"
+  ],
+  "introduction": "Les démarches à effectuer pour obtenir une attestation de droits varient selon votre régime, que vous soyez au régime général ou à un autre régime (exemples : MSA, mutuelles de la fonction publique, régimes spéciaux). L'attestation de droits peut être indispensable pour certaines démarches liées à la vie courante.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "[Attention] La copie papier des informations contenues dans votre carte Vitale, qui vous est transmise en même temps que la carte, n'a pas valeur d'attestation de droits."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [
+    {
+      "titre": "Obtenir une attestation de droits (régime général)",
+      "url": "https://assure.ameli.fr/PortailAS/appmanager/PortailAS/assure?_nfpb=true&_pageLabel=as_accueil_page&_somtc=true",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "Caisse primaire d'assurance maladie (CPAM)",
+    "Mutualité sociale agricole (MSA)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Régime général : obtenir une attestation de droits",
+      "url": "https://www.ameli.fr/assure/adresses-et-contacts/lobtention-dun-document/obtenir-une-attestation/obtenir-une-attestation-de-droits"
+    },
+    {
+      "titre": "Créer votre compte ameli",
+      "url": "https://www.ameli.fr/assure/adresses-et-contacts/votre-compte-ameli/creer-votre-compte-ameli"
+    },
+    {
+      "titre": "Contactez un conseiller par visio-interprétation (sourds et malentendants)",
+      "url": "https://www.elioz.fr/elioz-connect/annuaire/assurance-maladie-annuaire/"
+    },
+    {
+      "titre": "Tutos ameli : Comment récupérer en ligne son attestation de droits ?",
+      "url": "https://www.youtube.com/watch?v=21gg5quaDhI"
+    }
+  ],
+  "slug": "comment-obtenir-une-attestation-de-droits-attestation-vitale",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "remboursement-des-soins-par-la-securite-sociale",
+      "titre": "Remboursement des soins par la Sécurité sociale"
+    }
+  ]
+}

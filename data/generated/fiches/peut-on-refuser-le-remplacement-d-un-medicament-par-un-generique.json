@@ -1,0 +1,91 @@
+{
+  "id": "F18734",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Peut-on refuser le remplacement d'un médicament par un générique ?",
+  "theme": "Social - Santé",
+  "description": "Vous pouvez refuser un médicament générique mais vous perdez alors le bénéficie du tiers-payant et vous êtes moins bien remboursé et dans un délai plus long.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-09-05",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F18734",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Remboursement des soins par la Sécurité sociale",
+    "Peut-on refuser le remplacement d'un médicament par un générique ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Oui. Il est possible de refuser le remplacement d'un médicament par un médicament générique. Un médicament générique est fabriqué à partir de la même molécule qu'un médicament de référence. Il coûte moins cher.",
+        "Toutefois, votre refus a des conséquences sur le bénéfice du tiers-payant, le délai du remboursement et le niveau de remboursement.",
+        "Tiers payant",
+        "Vous ne bénéficierez pas en principe du tiers payant en pharmacie (dispense d'avance de frais).",
+        "Cependant, vous pouvez bénéficier de cette dispense d’avance des frais dans certains cas. Il en est ainsi, notamment, lorsque :",
+        "• Votre médecin a mis une mention « non substituable » et le motif médical justifiant ce refus de la substitution, au moyen d’un des acronymes autorisés (MTE, EFG ou CIF)",
+        "• Le prix du médicament générique est supérieur ou égal au prix du médicament d’origine.",
+        "[À noter] Tout comme avec votre médecin, vous pouvez poser des questions à votre pharmacien ou évoquer avec lui une difficulté rencontrée avec le médicament générique (par exemple : un goût non apprécié ou une forme de comprimé moins pratique).",
+        "Délai de remboursement",
+        "Le pharmacien établit une feuille de soins papier pour le médicament concerné, que vous adressez, accompagnée du double de l'ordonnance, à votre caisse d'Assurance maladie pour remboursement.",
+        "Vous devez d'abord faire l'avance des frais pour la totalité de l'ordonnance concernée et vous faire rembourser ensuite par votre organisme d'Assurance maladie.",
+        "Le délai du remboursement est donc plus long en raison du temps nécessaire au traitement de votre feuille de soins.",
+        "Niveau de remboursement",
+        "Vous serez remboursé sur la base du tarif forfaitaire de responsabilité (TFR). Ce tarif fixe un montant de remboursement identique pour le médicament d’origine et pour les médicaments génériques.",
+        "Si vous souhaitez un médicament de marque dont le prix est supérieur, le surcoût est à votre charge.",
+        "[Exemple] Un médecin vous prescrit un médicament de marque qui coûte 20 € et qui dispose d'un TFR de 18 €. Si vous refusez que le pharmacien vous délivre un médicament générique, vous payez le médicament de marque 20 €, soit 2 € plus cher que le générique. Vous êtes alors remboursé sur la base de 18 € au lieu de 20. €De plus, vous devez avancer l’argent auprès du pharmacien car vous ne bénéficiez pas de l’avance des frais (tiers-payant). En revanche, si vous acceptez un médicament générique, cela ne change rien pour vous, il sera remboursé comme d'habitude."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la sécurité sociale : articles L162-16 à L162-19-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000006172517"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles R163-1 à R163-14",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006173275"
+    },
+    {
+      "titre": "Accord national sur la délivrance des génériques et avenants",
+      "url": "https://www.ameli.fr/pharmacien/textes-reference/textes-conventionnels"
+    },
+    {
+      "titre": "Code de la santé publique : article L5125-23",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041397424"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Santé Info Droits"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Médicaments génériques",
+      "url": "https://www.ameli.fr/assure/sante/medicaments/comprendre-les-differents-medicaments/medicaments-generiques"
+    },
+    {
+      "titre": "Remboursement des médicaments et tiers payant",
+      "url": "https://www.ameli.fr/assure/remboursements/rembourse/medicaments-vaccins-dispositifs-medicaux/remboursement-medicaments-tiers-payant"
+    },
+    {
+      "titre": "Liste des groupes génériques soumis au TFR",
+      "url": "https://www.ameli.fr/medecin/exercice-liberal/remuneration/nomenclatures-codage/medicaments#text_11334"
+    },
+    {
+      "titre": "Accord national sur les génériques",
+      "url": "https://www.ameli.fr/haute-savoie/pharmacien/textes-reference/textes-conventionnels"
+    }
+  ],
+  "slug": "peut-on-refuser-le-remplacement-d-un-medicament-par-un-generique",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "remboursement-des-soins-par-la-securite-sociale",
+      "titre": "Remboursement des soins par la Sécurité sociale"
+    }
+  ]
+}

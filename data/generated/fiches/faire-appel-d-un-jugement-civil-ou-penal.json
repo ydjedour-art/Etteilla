@@ -1,0 +1,121 @@
+{
+  "id": "F1384",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Faire appel d'un jugement civil ou pénal",
+  "theme": "Justice",
+  "description": "Les parties peuvent contester une décision de justice rendue en premier ressort. L'affaire est alors examinée et rejugée par la cour d'appel.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-10-21",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1384",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Contestation d'un jugement",
+    "Faire appel d'un jugement civil ou pénal"
+  ],
+  "introduction": "Vous souhaitez contester une décision rendue dans une affaire civile ou pénale ? Vous pouvez faire appel. L’affaire est alors examinée et rejugée par la cour d’appel. Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de procédure civile : articles 514 à 524",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070716/LEGISCTA000006135893/"
+    },
+    {
+      "titre": "Code de procédure civile : articles 528 à 537",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006135894/"
+    },
+    {
+      "titre": "Code de procédure civile : articles 538 à 541",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070716/LEGISCTA000006135895/"
+    },
+    {
+      "titre": "Code de procédure civile : articles 542 à 570",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006149677/"
+    },
+    {
+      "titre": "Code de procédure civile : articles 640 à 647-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006135898/"
+    },
+    {
+      "titre": "Code de procédure civile : articles 780 à 797",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070716/LEGISCTA000039487417"
+    },
+    {
+      "titre": "Code de procédure civile : article 899",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025820311"
+    },
+    {
+      "titre": "Code de procédure civile : articles 901 à 916",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006181698/"
+    },
+    {
+      "titre": "Code de procédure civile : articles 931 à 949",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070716/LEGISCTA000006165222/"
+    },
+    {
+      "titre": "Code de procédure civile : 963 à 964-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000034757223/"
+    },
+    {
+      "titre": "Code de procédure pénale : articles 380-1 à 380-8",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000044568429/"
+    },
+    {
+      "titre": "Code de procédure pénale : articles 380-9 à 380-13",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000044568457/"
+    },
+    {
+      "titre": "Code de procédure pénale : articles 380-14 et 380-15",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000044568435/"
+    },
+    {
+      "titre": "Code de procédure pénale : articles 496 à 509-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000006167487/#LEGISCTA000006167487"
+    },
+    {
+      "titre": "Code de procédure pénale : articles 512 à 520-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000006167489/"
+    },
+    {
+      "titre": "Code de procédure pénale : articles 546 à 549",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000024970679/"
+    },
+    {
+      "titre": "Code général des impôts : article 1635 bis P",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033815210"
+    },
+    {
+      "titre": "Code général des impôts : article 1018 A",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022174326/"
+    },
+    {
+      "titre": "Décret n°2020-1717 du 28 décembre 2020 portant application de la loi n° 91-647 du 10 juillet 1991 relative à l'aide juridique",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000042748211/2025-08-29/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Acheter un timbre fiscal électronique pour faire appel d'une décision de justice",
+      "url": "https://timbres.impots.gouv.fr/",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Appel des jugements du tribunal de police (liste des jugements concernés)",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000024970679/"
+    }
+  ],
+  "slug": "faire-appel-d-un-jugement-civil-ou-penal",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "contestation-d-un-jugement",
+      "titre": "Contestation d'un jugement"
+    }
+  ]
+}

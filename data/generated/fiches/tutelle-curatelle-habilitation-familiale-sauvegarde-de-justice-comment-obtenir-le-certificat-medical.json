@@ -1,0 +1,104 @@
+{
+  "id": "F21667",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Tutelle, curatelle, habilitation familiale, sauvegarde de justice : comment obtenir le certificat médical ?",
+  "theme": "Famille - Scolarité",
+  "description": "Pour demander l'ouverture d'une tutelle, curatelle ou habilitation familiale, il faut un certificat médical circonstancié de la personne vulnérable",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-03-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F21667",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Protection juridique (tutelle, curatelle...)",
+    "Tutelle, curatelle, habilitation familiale, sauvegarde de justice : comment obtenir le certificat médical ?"
+  ],
+  "introduction": "La demande d’ouverture d'une mesure de protection judiciaire (tutelle, curatelle ou habilitation familiale) doit être obligatoirement accompagnée d'un certificat médical circonstancié. C’est une condition de recevabilité de la demande. Pour obtenir ce certificat, vous devez contacter un médecin spécialisé inscrit sur une liste établie par le procureur de la République. Nous vous expliquons la démarche à suivre.",
+  "chapitres": [
+    {
+      "titre": "Qu'est-ce qu'un certificat médical circonstancié ?",
+      "contenu": [
+        "Le certificat médical circonstancié :",
+        "• Décrit la dégradation (altération) des facultés de la personne",
+        "• Donne au juge des tutelles tout élément d’information sur l’évolution prévisible de cette altération",
+        "• Précise si le majeur devrait être assisté ou représenté dans les actes de la vie courante",
+        "• Indique si l’audition de la personne par le juge est de nature à porter atteinte à sa santé ou si la personne est hors d’état d’exprimer sa volonté par rapport à la situation."
+      ]
+    },
+    {
+      "titre": "Qui peut délivrer le certificat médical circonstancié ?",
+      "contenu": [
+        "Ce certificat doit être rédigé par un médecin spécialisé inscrit sur une liste établie par le procureur de la République. Ces médecins sont souvent des psychiatres, des gériatres, des neurologues, parfois des médecins généralistes.",
+        "La plupart des médecins se déplacent au lieu de résidence de la personne à examiner (domicile, hôpital, Ehpad, maison de retraite).",
+        "Le certificat médical circonstancié ne peut pas être établi par le médecin traitant de la personne à protéger. Toutefois, le médecin chargé de le rédiger peut solliciter l’avis du médecin traitant si nécessaire.",
+        "[Attention] Si la personne à protéger refuse d’être examinée par le médecin chargé d’établir le certificat médical circonstancié, celui-ci peut néanmoins rédiger le certificat sur la base des documents du dossier médical. Il peut également, si besoin, demander l’avis du médecin traitant."
+      ]
+    },
+    {
+      "titre": "Où trouver la liste des médecins habilités ?",
+      "contenu": [
+        "La liste des médecins habilités à établir le certificat médical est disponible auprès du greffe du juge des tutelles du tribunal dont dépend le domicile du majeur à protéger ou protégé.",
+        "Tribunal judiciaire ou tribunal de proximité",
+        "Vous pouvez également trouver cette liste sur le site internet de la cour d'appel dont le tribunal dépend.",
+        "Cour d'appel"
+      ]
+    },
+    {
+      "titre": "Quel est le coût d'un certificat médical circonstancié ?",
+      "contenu": [
+        "Le coût du certificat médical est de 192 € (160 € hors taxe).",
+        "Son coût est à la charge du majeur protégé, sauf s'il ne dispose pas de ressources suffisantes ou que le juge en décide autrement.",
+        "Quand le médecin expert se rend chez le majeur protégé, il peut facturer des frais de déplacement.",
+        "[Attention] Tous les médecins habilités ne se déplacent pas à domicile.",
+        "Quand le médecin est mandaté par le tribunal et qu’il établit un certificat de carence parce qu’il n’a pas pu s’entretenir avec le majeur à protéger, une indemnité forfaitaire de 30 € lui est versée."
+      ]
+    },
+    {
+      "titre": "Le certificat médical circonstancié peut-il être remboursé par la Sécurité sociale ?",
+      "contenu": [
+        "Le certificat médical circonstancié n’est pas remboursé par la Sécurité sociale, car il s’agit d’un document médical fait dans le cadre d’une procédure judiciaire. Il ne s'agit pas d'un acte de soin."
+      ]
+    },
+    {
+      "titre": "À qui doit être remis le certificat médical circonstancié ?",
+      "contenu": [
+        "Ce certificat est remis par le médecin à la personne qui en fait la demande, sous pli cacheté, à l'attention exclusive du procureur de la République ou du juge des tutelles.",
+        "Il ne peut pas être transmis par voie dématérialisée afin de garantir la confidentialité et la sécurité de ce document."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : articles 428 à 432",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006150110/"
+    },
+    {
+      "titre": "Code de procédure civile : articles 1217 à 1219-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000020031166/"
+    },
+    {
+      "titre": "Code de procédure pénale : article R217-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032105823"
+    },
+    {
+      "titre": "Circulaire du 9 février 2009 relative à la réforme du droit de la protection juridique des mineurs et majeurs",
+      "url": "https://affairesjuridiques.aphp.fr/textes/circulaire-de-la-dacs-n-civ0109c1-du-9-fevrier-2009-relative-a-lapplication-des-dispositions-legislatives-et-reglementaires-issues-de-la-reforme-du-droit-de-la-protection-juridique-d/telecharger/599878"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Tribunal judiciaire ou tribunal de proximité"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "tutelle-curatelle-habilitation-familiale-sauvegarde-de-justice-comment-obtenir-le-certificat-medical",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "protection-juridique-tutelle-curatelle",
+      "titre": "Protection juridique (tutelle, curatelle...)"
+    }
+  ]
+}

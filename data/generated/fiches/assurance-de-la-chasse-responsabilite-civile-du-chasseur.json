@@ -1,0 +1,136 @@
+{
+  "id": "F2146",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Assurance de la chasse - responsabilité civile du chasseur",
+  "theme": "Loisirs - Sports - Culture",
+  "description": "Un chasseur doit souscrire une assurance responsabilité civile pour couvrir les dommages corporels, matériels et immatériels qu’il peut causer à des tiers.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-08-14",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2146",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Loisirs - Sports - Culture",
+    "Chasse",
+    "Assurance de la chasse - responsabilité civile du chasseur"
+  ],
+  "introduction": "Quelle assurance est obligatoire pour la chasse ? Quels documents présenter en cas de contrôle ? Que faire en cas de résiliation de votre contrat ? Nous vous indiquons les principales règles à connaître concernant l'assurance pour la chasse.",
+  "chapitres": [
+    {
+      "titre": "Quelle assurance est obligatoire pour chasser ?",
+      "contenu": [
+        "Vous devez souscrire une assurance garantissant votre responsabilité civile en tant que chasseur.",
+        "Cette assurance vous couvre pour les dommages corporels, matériels et immatériels que vous pouvez causer à une autre personne. Par exemple, lors d'un tir, si vous blessez un autre chasseur.",
+        "Cette assurance doit remplir les conditions suivantes :",
+        "• Garantir votre responsabilité civile pour une somme illimitée",
+        "• Ne pas prévoir de déchéance opposable aux victimes ou à leurs ayants droit",
+        "• Couvrir votre responsabilité civile du fait de vos chiens. Vous êtes responsable des dommages causés par vos chiens.",
+        "[Complement] Une victime d'accident de chasse peut demander une indemnisation au Fonds de garantie des assurances obligatoires de dommages (FGAO) quand aucune assurance ne peut intervenir. Consultez le livret de l'indemnisation pour connaître les démarches à faire."
+      ]
+    },
+    {
+      "titre": "Quels documents présenter en cas de contrôle lors d'une action de chasse ?",
+      "contenu": [
+        "Lors d'un contrôle en action de chasse, vous devez présenter les documents suivants :",
+        "• L'attestation d'assurance",
+        "• Votre permis de chasser",
+        "• La validation de votre permis de chasser auprès d’une fédération départementale de chasse."
+      ]
+    },
+    {
+      "titre": "Que faire en cas de résiliation du contrat d'assurance chasse ?",
+      "contenu": [
+        "En cas de résiliation ou de suspension de votre contrat d'assurance chasse, votre permis de chasser cesse d'être valable et vous est provisoirement retiré.",
+        "Cela est par exemple le cas si votre contrat d’assurance est suspendu pour non-paiement de cotisations.",
+        "Votre assureur informer l'OFB en cas de résiliation ou de suspension de votre contrat d'assurance chasse.",
+        "Vous devez remettre la validation de votre permis de chasser à l'OFB.",
+        "Office français de la biodiversité (OFB)",
+        "Par courrier",
+        "Office français de la biodiversité",
+        "Service du permis de chasser",
+        "BP 20",
+        "78612 LE PERRAY EN YVELINES CEDEX",
+        "Pour récupérer la validation de votre permis de chasser, vous devez justifier être de nouveau couvert par une assurance responsabilité civile pour la chasse.",
+        "[Complement] Vous risquez une amende de 30 000 € et 2 ans de prison."
+      ]
+    },
+    {
+      "titre": "Assurance chasse : quelles garanties avoir en plus de la responsabilité civile ?",
+      "contenu": [
+        "Assurance individuelle accident",
+        "L'assurance individuelle accident vous indemnise si vous subissez des dommages corporels au cours d'un accident, que vous en soyez responsable ou pas. Par exemple, si vous tombez et vous blessez avec votre arme.",
+        "La prise en charge varie selon les contrats : frais médicaux, biens matériels (arme, vêtements,…), préjudice financier en cas d'arrêt de travail ou d'invalidité, intervention d’une aide à domicile, etc.",
+        "[À savoir] Les assureurs proposent différentes garanties. Par exemple pour couvrir vos chiens contre les dommages qu'ils peuvent subir lors de la chasse. Renseignez-vous auprès de votre assureur pour trouver la formule la plus adaptée à votre profil.",
+        "Garantie protection juridique",
+        "La garantie protection juridique est une assurance qui permet de bénéficier d'un conseil juridique ou de l'assistance d'un avocat dans une procédure judiciaire.",
+        "Cette garantie peut être utile notamment dans 2 types de situations :",
+        "• Vous demandez réparation auprès d'une autre personne pour un préjudice que vous estimez avoir subi",
+        "• Vous devez vous défendre, car une autre personne estime avoir subi un dommage dont vous êtes responsable."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code des assurances : article L421-8",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073984/LEGISCTA000006175093"
+    },
+    {
+      "titre": "Code de l'environnement : articles L 423-1 à L423-27",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074220/LEGISCTA000006159257"
+    },
+    {
+      "titre": "Code de l'environnement : articles R423-12 à R423-18",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074220/LEGISCTA000006188843"
+    },
+    {
+      "titre": "Code des assurances : articles A230-5 à A230-7 (annexe)",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073984/LEGISCTA000006156978"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Consulter les dates de chasse par département",
+      "url": "https://www.chasseurdefrance.com/pratiquer/dates-de-chasse/",
+      "type": "outilRechercheNG"
+    }
+  ],
+  "contacts": [
+    "Fédération départementale des chasseurs"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Assurance responsabilité civile",
+      "url": "https://www.abe-infoservice.fr/assurance/assurance-responsabilite-civile"
+    },
+    {
+      "titre": "La sécurité à la chasse",
+      "url": "https://ofb.gouv.fr/la-securite-la-chasse"
+    },
+    {
+      "titre": "Chasse et monde cynégétique : Foire aux questions",
+      "url": "https://www.ofb.gouv.fr/questions-reponses-chasse"
+    },
+    {
+      "titre": "Livret - Indemnisation des victimes des accidents de chasse",
+      "url": "https://www.fondsdegarantie.fr/mediatheque/livret-indemnisation-des-victimes-d-accident-de-chasse"
+    },
+    {
+      "titre": "Les 91 espèces chassables",
+      "url": "https://www.chasseurdefrance.com/decouvrir/les-especes-chassables/"
+    },
+    {
+      "titre": "Procédés de chasse interdits",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000862758/"
+    }
+  ],
+  "slug": "assurance-de-la-chasse-responsabilite-civile-du-chasseur",
+  "path": [
+    {
+      "slug": "loisirs-sports-culture",
+      "titre": "Loisirs - Sports - Culture"
+    },
+    {
+      "slug": "chasse",
+      "titre": "Chasse"
+    }
+  ]
+}

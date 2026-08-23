@@ -1,0 +1,190 @@
+{
+  "id": "F2610",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Conseil syndical de copropriété",
+  "theme": "Logement",
+  "description": "Le conseil syndical accompagne le syndic dans la gestion de la copropriété et assure la liaison avec les copropriétaires pour une administration efficace.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-05-28",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2610",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Acteurs de la copropriété (organisation juridique)",
+    "Conseil syndical de copropriété"
+  ],
+  "introduction": "Le conseil syndical est un organe obligatoire dans tout syndicat des copropriétaires. Il joue un rôle important en assurant le lien entre le syndic et les copropriétaires. Le conseil syndical assure une mission consultative, d'assistance à la prise de décision et de contrôle du syndic. Son organisation et son fonctionnement sont encadrés par la loi, mais la copropriété conserve une liberté d'organisation. Nous vous expliquons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "La constitution d'un conseil syndical est-elle obligatoire ?",
+      "contenu": [
+        "En principe, la constitution d'un conseil syndical est obligatoire. Il s'agit d'une obligation légale. Il n'est donc pas nécessaire que le règlement de copropriété mentionne ou non l'existence d'un conseil syndical.",
+        "Toutefois, il existe 3 exceptions à cette obligation légale :",
+        "• Lorsque le syndicat des copropriétaires renonce à constituer un conseil syndical. Cette renonciation doit être votée en assemblée générale des copropriétaires à la double majorité (dite de l'article 26). Les copropriétaires ne sont néanmoins pas liés définitivement par cette décision. Ils peuvent ainsi choisir, lors d'une autre assemblée générale, d'instituer un conseil syndical. Cette décision est votée à la majorité absolue (dite de l'article 25).",
+        "• Lorsqu'aucun candidat ne se présente ou n'obtient la majorité exigée. Dans ce cas, le conseil syndical peut éventuellement être désigné par le juge, à la demande du syndic ou d'un copropriétaire.",
+        "• Dans les petites copropriétés."
+      ]
+    },
+    {
+      "titre": "Qui peut être membre du conseil syndical ?",
+      "contenu": [
+        "Tout copropriétaire, leurs ascendants ou descendants, les associés en cas de société civile immobilière, les accédants ou les acquéreurs à terme (variante de l'achat en viager), leurs époux, les partenaires liés à eux par un Pacs, leurs représentant légaux, ou leurs usufruitiers peuvent être membres du conseil syndical.",
+        "Il peut s'agir d'une personne physique (individu) ou d'une personne morale.",
+        "Lorsqu'une personne morale est nommée en tant que membre du conseil syndical, elle peut s'y faire représenter, soit par son représentant légal ou statutaire, soit par un fondé de pouvoir spécialement habilité (personne ayant les pouvoirs d'un mandataire) à cet effet.",
+        "[Attention] Lorsque le syndic est un syndic professionnel, le syndic, ses préposés, leurs époux partenaires liés à eux par un Pacs, concubins, ascendants ou descendants, parents en ligne collatérale jusqu'au 2è degré, même s'ils sont copropriétaires, associés ou acquéreurs à terme (variante de l'achat en viager), ne peuvent pas être membres du conseil syndical."
+      ]
+    },
+    {
+      "titre": "Comment être membre du conseil syndical ?",
+      "contenu": [
+        "Pour être membre du conseil syndical, il faut être désigné par l'assemblée générale des copropriétaires. Cette nomination est votée à la majorité absolue (dite majorité de l'article 25).",
+        "Si la majorité absolue n'est pas obtenue, mais que la candidature a recueilli au moins un tiers des voix de tous les copropriétaires, un nouveau vote peut avoir lieu immédiatement, à la majorité simple (dite majorité de l'article 24).",
+        "La candidature de chaque membre du conseil syndical peut être proposée :",
+        "• En amont de l'assemblée générale, la personne devant en informer le syndic avant l'envoi de la convocation",
+        "• Durant l'assemblée générale.",
+        "[À noter] Le règlement de copropriété peut imposer des règles spécifiques pour encadrer les candidatures des membres du conseil syndical."
+      ]
+    },
+    {
+      "titre": "Qui élit les membres du conseil syndical ?",
+      "contenu": [
+        "C'est l'assemblée générale des copropriétaires qui élit les membres du conseil syndical, un par un."
+      ]
+    },
+    {
+      "titre": "Combien y a-t-il de membres du conseil syndical ?",
+      "contenu": [
+        "En principe, le conseil syndical est un organe collégial composé de plusieurs membres.",
+        "Aucun texte n'impose néanmoins un nombre minimum de membres devant composer le conseil syndical.",
+        "C'est l'assemblée générale ou le règlement de copropriété qui détermine le nombre de membres. En pratique, un nombre d'au minimum 3 membres est toutefois recommandé.",
+        "[À savoir] Un ou plusieurs membres suppléants peuvent être désignés, dans les mêmes conditions que les membres titulaires."
+      ]
+    },
+    {
+      "titre": "Quel est le rôle du conseil syndical ?",
+      "contenu": [
+        "Mission d'assistance du conseil syndical",
+        "Le conseil syndical doit assister le syndic. Il donne ainsi son avis, spontanément ou sur demande du syndic, sur toutes les questions concernant le syndicat des copropriétaires.",
+        "Le syndic doit obligatoirement consulter le conseil syndical dans 4 cas :",
+        "• Élaboration de l'ordre du jour de l'assemblée générale des copropriétaires",
+        "• Réalisation de travaux urgents à l'initiative du syndic pour la sauvegarde (conservation) de l'immeuble",
+        "• Désignation d'un administrateur provisoire (cas d'un syndicat des copropriétaires en difficulté)",
+        "• Conclusion de contrats et marchés dépassant un certain seuil (par exemple 2 000 €), voté en assemblée générale.",
+        "Mission de mise en concurrence des contrats de syndic par le conseil syndical",
+        "Préalablement à l'assemblée générale, le conseil syndical doit réaliser une mise en concurrence de plusieurs projets de contrat de syndic. En pratique, cela consiste à interroger plusieurs syndics afin d'obtenir :",
+        "• Un projet de contrat",
+        "• Une fiche d'information sur le prix et les prestations proposées.",
+        "Ces éléments permettent aux copropriétaires de comparer les différentes propositions.",
+        "Cette mise en concurrence s'applique dans le cas d'une désignation d'un nouveau syndic (révocation ou non renouvellement) ou d'un renouvellement du contrat du syndic déjà en place. Elle permet d'anticiper le départ ou le maintien du syndic.",
+        "[À savoir] S'il n'y a pas eu de mise en concurrence, la désignation du syndic reste valable.",
+        "Le conseil syndical peut toutefois être dispensé de cette mission de mise en concurrence par une décision votée à la majorité absolue.",
+        "Mission de contrôle du conseil syndical",
+        "Le conseil syndical contrôle l'ensemble de la gestion du syndic de copropriété, dont notamment :",
+        "• Comptabilité du syndicat des copropriétaires",
+        "• Répartition des dépenses",
+        "• Conditions dans lesquelles sont passés et exécutés les contrats",
+        "• Élaboration du budget prévisionnel dont il suit l'exécution.",
+        "Pour réaliser cette mission, tous les membres du conseil syndical peuvent consulter les documents portant sur la gestion du syndic et à l'administration de la copropriété (par exemple, mails, lettres, registres). Ils peuvent librement faire des copies de ces documents.",
+        "Cet examen des documents permet ainsi au conseil syndical d'exercer un contrôle efficace.",
+        "[À savoir] Les documents doivent être transmis par le syndic. En cas d'absence de transmission au-delà d'un mois à compter de la demande du conseil syndical, 15 € par jour de retard sont déduits de la rémunération forfaitaire annuelle du syndic. Ces pénalités sont déduites de la rémunération du syndic lors de l'arrêté des comptes à soumettre à l'AG.",
+        "Mission de délégation de pouvoirs par le conseil syndical",
+        "L'assemblée générale des copropriétaires peut déléguer au conseil syndical, composé d'au moins 3 membres, le pouvoir de prendre seul des décisions relevant de la majorité simple.",
+        "Il peut s'agir, par exemple, de décisions portant sur l'administration courante de l'immeuble (fixation des périodes de chauffage, location de la loge de la gardienne etc.) ou sur l'entretien de l'immeuble (abattage d'un arbre pour des raisons de sécurité, nettoyage, déneigement etc.).",
+        "Certains sujets sont néanmoins exclus de cette délégation. Il s'agit des décisions suivantes :",
+        "• Approbation des comptes",
+        "• Détermination du budget prévisionnel",
+        "• Adaptation du règlement de copropriété rendues nécessaires par les modifications législatives et réglementaires.",
+        "Cette délégation de pouvoirs doit être votée par le syndicat de copropriétaires en assemblée générale des copropriétaires à la majorité absolue.",
+        "La durée de la délégation de pouvoirs est d'au maximum 2 ans. Elle est renouvelable par une décision de l'assemblée générale des copropriétaires.",
+        "[À savoir] Les décisions prises par le conseil syndical dans le cadre de sa mission de délégations sont adoptées à la majorité de ses membres. S'il y a égalité, la voix du président du conseil syndical est prépondérante (supérieure).",
+        "L'assemblée générale fixe le montant maximum accordé au conseil syndical pour exercer sa mission de délégation. Les sommes allouées sont :",
+        "• Soit incluses dans le budget prévisionnel,",
+        "• Soit fixées lors de l'assemblée générale, lorsqu'elles portent sur des dépenses pour travaux non comprises dans le budget prévisionnel.",
+        "Action en responsabilité contre le syndic",
+        "Le président du conseil syndical peut, en cas de carence ou d'inaction du syndic, agir en justice contre le syndic pour demander réparation du préjudice subi par le syndicat des copropriétaires.",
+        "Pour cela, il doit obtenir une délégation expresse de l'assemblée générale, votée à la majorité absolue. En pratique, cela signifie que la résolution votée doit mentionner l'accord des copropriétaires pour que le président du conseil syndical agisse en justice à l'encontre du syndic."
+      ]
+    },
+    {
+      "titre": "Comment fonctionne le conseil syndical ?",
+      "contenu": [
+        "Le fonctionnement du conseil syndical est déterminé par le règlement de copropriété. Si rien n'est prévu dans le règlement de copropriété, les règles relatives à l'organisation du conseil syndical (nombre de conseillers, durée du mandat, l'existence ou non de suppléants, la tenue des réunions, le vote etc) sont fixées par l'assemblée générale des copropriétaires qui vote à la majorité simple.",
+        "Une fois élus, les membres du conseil syndical élisent leur président parmi eux.",
+        "Le président a pour missions de :",
+        "• Préparer et convoquer les réunions du conseil syndical. Il anime les débats, répartit les tâches entre les conseillers.",
+        "• Transmettre les avis rendus par le conseil syndical au syndic, aux copropriétaires ou aux tiers. C'est lui qui reçoit les informations de la part du syndic et les diffuse aux conseillers.",
+        "• Convoquer l'assemblée générale des copropriétaires annuelle en cas d'inaction du syndic. Il peut, sur délégation de l'assemblée générale des copropriétaires, faire un recours contre le syndic en cas de carence ou d'inaction de celui-ci pour le préjudice subi par le syndicat des copropriétaires.",
+        "Chaque année, le conseil syndical rend compte à l'assemblée générale de l'exécution de sa mission au moyen d'un rapport d'activités joint à la convocation."
+      ]
+    },
+    {
+      "titre": "Les membres du conseil syndical sont-ils rémunérés ?",
+      "contenu": [
+        "Les membres du conseil syndical ne sont pas rémunérés. Ils exercent leurs fonctions à titre gratuit.",
+        "Les dépenses nécessaires pour l'exécution de leur mission sont réglées par les copropriétaires, dans le cadre des dépenses courantes incluses dans le budget prévisionnel."
+      ]
+    },
+    {
+      "titre": "Quelle est la durée du mandat des membres du conseil syndical ?",
+      "contenu": [
+        "Les membres du conseil syndical sont élus pour un mandat d'au maximum 3 ans. Ce mandat est renouvelable par un vote en assemblée générale à la majorité absolue."
+      ]
+    },
+    {
+      "titre": "Comment est-il mis fin au mandat des membres du conseil syndical ?",
+      "contenu": [
+        "Le mandat des membres du conseil syndical prend fin de différentes façons, à savoir :",
+        "• En démissionnant. En pratique, le président du conseil syndical et le syndic doivent être informés de la démission.",
+        "• Par la révocation de leur mandat. Cette décision est prise par les copropriétaires à la majorité absolue",
+        "• Lorsqu'ils perdent la qualité qui leur permettait d'être membre du conseil syndical (vente du lot, décès, etc).",
+        "[À noter] Le conseil syndical n'est plus valablement formé lorsque plus d' ¼ quart des sièges sont vacants, quelle que soit la cause de cette vacance (maladie, démission, révocation...). Toutefois, il n'est pas nécessaire de réélire l'ensemble du conseil syndical, car les membres en place conservent leur mandat. L'assemblée générale des copropriétaires doit être convoquée uniquement pour remplacer les membres dont le siège est devenu vacant."
+      ]
+    },
+    {
+      "titre": "La responsabilité des membres du conseil syndical peut-elle être engagée ?",
+      "contenu": [
+        "Chacun des membres du conseil syndical peut engager sa responsabilité civile ou pénale dans l'exécution de sa mission, vis-à-vis du syndicat des copropriétaires, des copropriétaires ou des tiers. En pratique, seule la faute grave est de nature à être sanctionnée en raison du caractère bénévole des fonctions de membre du conseil syndical.",
+        "Le syndicat des copropriétaires doit souscrire, pour chacun des membres du conseil syndical, une assurance qui couvre leur responsabilité civile."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Loi n°65-557 du 10 juillet 1965 : article 21",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039313574"
+    },
+    {
+      "titre": "Décret n°67-223 du 17 mars 1967 fixant le statut de la copropriété des immeubles bâtis",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006061423/"
+    },
+    {
+      "titre": "Réponse ministérielle du 27 août 2020 relative à la responsabilité du conseil syndical",
+      "url": "http://www.senat.fr/basile/visio.do?id=qSEQ200415448"
+    },
+    {
+      "titre": "Réponse ministérielle du 1 octobre 2020 relative à la résolution anonyme présentée par une partie du conseil syndical",
+      "url": "http://www.senat.fr/basile/visio.do?id=qSEQ200415447"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Dossier relatif au conseil syndical",
+      "url": "https://www.anil.org/fileadmin/ANIL/Editions_grand_public/serie_copropriete/le_conseil_syndical.pdf"
+    }
+  ],
+  "slug": "conseil-syndical-de-copropriete",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "acteurs-de-la-copropriete-organisation-juridique",
+      "titre": "Acteurs de la copropriété (organisation juridique)"
+    }
+  ]
+}

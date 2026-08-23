@@ -1,0 +1,116 @@
+{
+  "id": "F20762",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Médiateur de l'eau : comment y recourir ?",
+  "theme": "Logement",
+  "description": "Vous pouvez saisir le médiateur de l'eau si le litige qui vous oppose à votre service d'eau n'est pas résolu.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-02-03",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F20762",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Aides au paiement des factures : eau, téléphone, électricité, gaz",
+    "Médiateur de l'eau : comment y recourir ?"
+  ],
+  "introduction": "Vous pouvez saisir le médiateur de l'eau si le litige qui vous oppose à votre service d'eau n'est pas résolu. Par exemple, si votre facture d'eau est anormalement élevée. Le médiateur propose une solution pour résoudre le litige. Si le litige persiste, vous pouvez faire un recours auprès du tribunal. Nous vous expliquons la démarche à suivre.",
+  "chapitres": [
+    {
+      "titre": "Faire une réclamation préalable auprès du service de l'eau",
+      "contenu": [
+        "Avant de saisir le médiateur de l'eau, vous devez avoir fait une réclamation écrite auprès de votre service d'eau décrivant le litige.",
+        "Il est recommandé de faire cette réclamation par courrier recommandé avec avis de réception.",
+        "Votre service d'eau a 2 mois maximum pour vous répondre."
+      ]
+    },
+    {
+      "titre": "Saisir le médiateur de l'eau",
+      "contenu": [
+        "Si la réponse de votre service d'eau ne vous satisfait pas ou si vous n'avez pas reçu de réponse, vous pouvez saisir le médiateur de l'eau.",
+        "Le recours au médiateur de l'eau est gratuit.",
+        "Ce recours peut être fait directement en ligne ou par courrier :",
+        "En ligne",
+        "Vous pouvez saisir le médiateur de l'eau en ligne :",
+        "Saisir en ligne le médiateur de l'eau",
+        "Saisine du médiateur de l'eau",
+        "Permet de saisir le médiateur de l'eau par courrier.",
+        "Vous devez décrire le litige. Si votre litige concerne une fuite d'eau, vous devez décrire son emplacement.",
+        "Vous devez scanner les justificatifs suivants :",
+        "• Copie recto/verso de votre facture d'eau",
+        "• Copie de la réclamation écrite envoyée à votre service d'eau",
+        "• Copie du courrier de réponse du service d'eau à votre réclamation si vous en possédez une.",
+        "Vous pouvez également joindre tous les documents que vous jugez utile pour permettre l'examen du litige.",
+        "Par courrier",
+        "Vous pouvez saisir le médiateur de l'eau par le biais d'un formulaire :",
+        "Saisir le médiateur de l'eau",
+        "Vous devez décrire le litige. Si votre litige concerne une fuite d'eau, vous devez préciser son emplacement.",
+        "Vous devez joindre au formulaire les justificatifs suivants :",
+        "• Copie recto/verso de votre facture d'eau",
+        "• Copie de la réclamation écrite envoyée à votre service d'eau",
+        "• Copie du courrier de réponse du service d'eau à votre réclamation si vous en possédez une.",
+        "Vous pouvez également joindre tous les documents que vous jugez utile pour permettre l'examen du litige.",
+        "L'ensemble des documents (formulaire et justificatifs) doit être envoyé au médiateur de l'eau de préférence par courrier recommandé avec avis de réception.",
+        "Médiateur de l'eau",
+        "Permet de trouver une solution amiable lorsqu'il y a un litige avec son fournisseur d'eau et/ou d'assainissement des eaux usées.",
+        "Par courrier",
+        "Médiation de l'eau",
+        "BP 40463",
+        "75366 Paris Cedex 08",
+        "Par internet",
+        "Sur le site du médiateur de l'eau"
+      ]
+    },
+    {
+      "titre": "Accepter ou refuser la solution proposée par le médiateur de l'eau",
+      "contenu": [
+        "Le médiateur de l'eau propose une solution de règlement du litige dans un délai de 3 mois.",
+        "Votre service d'eau et vous-même recevez cette proposition par courrier simple (postal) ou par courrier électronique.",
+        "Votre service d'eau et vous-même êtes libres d'accepter ou de refuser la proposition du médiateur de l'eau.",
+        "L'acception ou le refus de suivre cette proposition doit se faire dans le délai fixé par le médiateur de l'eau. Ce délai est mentionné dans le courrier envoyé par le médiateur de l'eau.",
+        "Les conséquences vont différer selon que la proposition du médiateur de l'eau est acceptée ou refusée.",
+        "Vous acceptez la proposition",
+        "Vous vous engagez avec votre service d'eau à mettre en œuvre la proposition faite par le médiateur de l'eau.",
+        "Par exemple, votre service d'eau s'engage à vous rembourser.",
+        "Vous refusez la proposition",
+        "Si malgré la proposition du médiateur de l'eau votre service d'eau et vous-même n'arrivez pas à trouver un accord, la médiation prend fin.",
+        "Vous pouvez faire un recours auprès du tribunal judiciaire du lieu de votre résidence pour régler votre litige."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la consommation : articles L612-1 à L612-5",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032224807/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Saisir en ligne le médiateur de l'eau",
+      "url": "https://www.mediation-eau.fr/FR/saisir-le-mediateur-de-leau.asp",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Saisir le médiateur de l'eau",
+      "url": "https://www.mediation-eau.fr/FR/votre-saisine/saisir-le-mediateur-de-leau.asp",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Site du médiateur de l'eau",
+      "url": "http://www.mediation-eau.fr/"
+    }
+  ],
+  "slug": "mediateur-de-l-eau-comment-y-recourir",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "aides-au-paiement-des-factures-eau-telephone-electricite-gaz",
+      "titre": "Aides au paiement des factures : eau, téléphone, électricité, gaz"
+    }
+  ]
+}

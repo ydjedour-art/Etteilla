@@ -1,0 +1,55 @@
+{
+  "id": "F22575",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Sortie ou voyage scolaires au collège et au lycée",
+  "theme": "Famille - Scolarité",
+  "description": "Les collèges et lycées organisent des sorties et des voyages scolaires dans un objectif pédagogique précis. Les sorties scolaires ne comportent pas de nuitée.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-02-17",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F22575",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Collège et lycée",
+    "Sortie ou voyage scolaires au collège et au lycée"
+  ],
+  "introduction": "Le collège ou le lycée de votre enfant organise des sorties et des voyages scolaires dans un objectif pédagogique précis. Contrairement aux voyages, les sorties ne comportent pas de nuitée. À quelles conditions votre enfant peut-il y participer ? Encadrement, documents à fournir, participation financière, assurance : voici les règles à respecter.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Circulaire n°2013-106 du 16 juillet 2013 relative au transport et à l'encadrement des sorties et voyages scolaires",
+      "url": "http://www.education.gouv.fr/pid25535/bulletin_officiel.html?cid_bo=72758"
+    },
+    {
+      "titre": "Circulaire du 16 juillet 2024 relative à l'organisation des sorties et voyages scolaires dans les écoles, les collèges et les lycées publics",
+      "url": "https://www.education.gouv.fr/bo/2024/Hebdo30/MENE2407159C"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demande d'autorisation de participation d'un élève mineur à une sortie ou un voyage scolaire à caractère facultatif",
+      "url": "http://cache.media.education.gouv.fr/file/29/70/4/Formulaire-type_261704.pdf",
+      "type": "formulaireNG"
+    },
+    {
+      "titre": "Autorisation de sortie de territoire (AST)",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/15646-01",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Établissement scolaire"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "sortie-ou-voyage-scolaires-au-college-et-au-lycee",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "college-et-lycee",
+      "titre": "Collège et lycée"
+    }
+  ]
+}

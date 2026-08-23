@@ -1,0 +1,120 @@
+{
+  "id": "F35730",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Péage non payé sur une autoroute ou un ouvrage d'art",
+  "theme": "Transports - Mobilité",
+  "description": "Ne pas payer un péage d'une autoroute ou d'un ouvrage d'art, avec ou sans barrière, entraîne des sanctions financières.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-06-24",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35730",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Infractions routières",
+    "Péage non payé sur une autoroute ou un ouvrage d'art"
+  ],
+  "introduction": "Vous avez franchi une barrière de péage ou avez circulé sur une autoroute à péage en flux libre sans avoir payé et vous voulez savoir si vous risquez une amende ? Nous vous indiquons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Quel est le montant de l'amende si l'on ne paye pas un péage ?",
+      "contenu": [
+        "Si vous ne payez pas un péage, l’exploitant de l'autoroute ou de l'ouvrage d'art établit un procès-verbal de contravention et vous envoie un avis de paiement.",
+        "L'avis de paiement mentionne la date, l'heure et le lieu de la contravention, les faits constatés, le numéro d'immatriculation et la catégorie du véhicule, le nom de l'agent qui a constaté l'infraction, et le montant total à payer.",
+        "Le montant total à payer comprend une indemnité forfaitaire de 90 €, le montant TTC du péage non payé, et si nécessaire, le droit de passage du pont reliant l'île au continent."
+      ]
+    },
+    {
+      "titre": "Comment payer une amende de péage ?",
+      "contenu": [
+        "La procédure varie selon qu'il s'agit d'un péage avec ou sans barrière :",
+        "Péage avec barrière",
+        "Vous devez payer à l'exploitant le montant indiqué sur l'avis de paiement dans un délai de 2 mois suivant l'envoi de cet avis.",
+        "L'avis de paiement contient une carte de paiement. Vous pouvez payer par chèque joint à cette carte de paiement. Vous pouvez aussi utiliser un autre moyen de paiement indiqué dans l'avis.",
+        "Péage sans barrière (en flux libre)",
+        "Vous devez payer à l'exploitant le montant indiqué sur l'avis de paiement dans un délai de 2 mois suivant l'envoi de cet avis.",
+        "Toutefois, si vous régularisez votre situation dans les 15 jours suivant l’envoi de l’avis de paiement, l’indemnité forfaitaire de 90 € est minorée à 10 €. À partir du 16e jour, vous perdez le bénéfice de cette minoration.",
+        "L'avis de paiement contient une carte de paiement. Vous pouvez payer par chèque joint à cette carte de paiement. Vous pouvez aussi utiliser un autre moyen de paiement indiqué dans l'avis.",
+        "[Complement] Le péage routier en flux libre ne comporte pas de barrière de péage : les véhicules n’ont pas besoin de s’arrêter pour payer le péage. Ils passent sous des portiques équipés pour détecter chaque véhicule et les données enregistrées (plaque d’immatriculation, photo, lieu, date et heure) permettent de payer plus tard, dans un délai de 3 jours. Le site du ministère du transport indique les autoroutes à péage en flux libre et les moyens de paiement."
+      ]
+    },
+    {
+      "titre": "Comment contester une amende de péage ?",
+      "contenu": [
+        "Si vous contestez les faits, vous devez formuler une protestation dans le délai de 2 mois suivant l'envoi de l'avis de paiement.",
+        "L'avis de paiement contient une carte de protestation. Vous devez utiliser cette carte de protestation ou le modèle dématérialisé proposé par l'exploitant. Joignez les justificatifs correspondant à votre situation."
+      ]
+    },
+    {
+      "titre": "Quelle majoration si l'on paye avec retard une amende de péage ?",
+      "contenu": [
+        "En l'absence de paiement ou de protestation dans le délai de 2 mois suivant l'envoi de l'avis de paiement, vous devez payer une amende forfaitaire majorée de 375 €.",
+        "Si vous ne payez pas l'amende forfaitaire majorée dans un délai de 4 mois à partir de son envoi, l'administration bloquera la vente du véhicule tant qu'elle ne sera pas payée.",
+        "[À noter] Si vous avez plus de 5 amendes forfaitaires majorées en 12 mois, vous risquez une amende de 7 500 €."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la route : articles L121-1 à L121-6",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074228/LEGISCTA000006159506"
+    },
+    {
+      "titre": "Code de la route : article L419-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074228/LEGISCTA000039741722/#LEGISCTA000039741722"
+    },
+    {
+      "titre": "Code de la route : articles R130-1 à R130-11",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074228/LEGISCTA000006143849"
+    },
+    {
+      "titre": "Code de la route : articles R419-1 à R419-2",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074228/LEGISCTA000042593603/#LEGISCTA000042593603"
+    },
+    {
+      "titre": "Code de procédure pénale : articles 529-3 à 529-6",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000006167491/#LEGISCTA000006167491"
+    },
+    {
+      "titre": "Code de procédure pénale : articles R49-8-1 à R49-8-4-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000006151010/#LEGISCTA000006151010"
+    },
+    {
+      "titre": "Code de procédure pénale : articles A37 à A37-33",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000006137344/#LEGISCTA000006137344"
+    },
+    {
+      "titre": "Arrêté du 27 mai 2026 - traitement des données personnelles pour la constatation des infractions de défaut de paiement du péage et la mise en œuvre de la transaction entre l'exploitant et le contrevenant",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054268824"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Consulter et télécharger les informations du permis de conduire : solde de points, relevé intégral, attestation de droit à conduire sécurisée...",
+      "url": "https://mespoints.permisdeconduire.gouv.fr",
+      "type": "selNG"
+    },
+    {
+      "titre": "Que risque-t-on en cas d'infraction routière ?",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/Infraction",
+      "type": "Simulateur"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Péage en flux libre",
+      "url": "https://www.ecologie.gouv.fr/peage-flux-libre"
+    }
+  ],
+  "slug": "peage-non-paye-sur-une-autoroute-ou-un-ouvrage-d-art",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "infractions-routieres",
+      "titre": "Infractions routières"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "id": "F1334",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quelle aide apporte le Fonds de solidarité pour le logement (FSL) ?",
+  "theme": "Logement",
+  "description": "Le fonds de solidarité pour le logement (FSL) apporte une aide financière (prêt ou subvention) en cas de difficultés à payer les frais liés à son logement.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-12-12",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1334",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Aide pour le dépôt de garantie ou la caution d'un logement en location",
+    "Quelle aide apporte le Fonds de solidarité pour le logement (FSL) ?"
+  ],
+  "introduction": "Le fonds de solidarité pour le logement (FSL) apporte une aide financière au demandeur qui a des difficultés à payer les frais liés à son logement. Cette aide financière peut prendre la forme d’un prêt ou d’une subvention. Les conditions à respecter pour obtenir l’aide du FSL sont fixées par les services du département. Nous vous expliquons.",
+  "chapitres": [
+    {
+      "titre": "Qu'est-ce que le FSL ?",
+      "contenu": [
+        "Il existe un fonds de solidarité pour le logement (FSL) par département.",
+        "Le FSL apporte une aide financière au demandeur qui a des difficultés à payer les frais liés à son logement.",
+        "L'aide du FSL peut être versée sous forme de prêt (somme à rembourser ensuite au FSL), ou sous forme de subvention (sans remboursement).",
+        "L'aide peut servir à payer les frais suivants :",
+        "• Les frais liés à l'installation dans le logement. Par exemple, le paiement du dépôt de garantie, du 1er loyer, des frais d'agence immobilière, des frais de déménagement, de l'assurance habitation, ou de l'achat des équipements de 1re nécessité (réfrigérateur...).",
+        "• Les frais liés au maintien dans le logement. Par exemple, le paiement des dettes de loyers, des factures d'électricité, de gaz, d'eau, téléphone, ou des frais de commissaire de justice (anciennement huissier de justice et commissaire-priseur judiciaire)."
+      ]
+    },
+    {
+      "titre": "À quelles conditions peut-on obtenir l'aide du FSL ?",
+      "contenu": [
+        "L'aide du FSL peut vous être accordée si vous êtes l'une des personnes suivantes :",
+        "• Locataire ou sous-locataire",
+        "• Propriétaire habitant son propre logement",
+        "• Personne hébergée gratuitement",
+        "• Résident de logement-foyer.",
+        "Pour obtenir l'aide du FSL, le total des revenus des personnes qui habitent le logement (sans prendre en compte l'allocation de rentrée scolaire, l'AEEH, l’APL, l’ALS et l’ALF), ne doit pas dépasser un montant maximum.",
+        "Le montant de l'aide peut être modulé, c'est-à-dire qu'un demandeur qui a des revenus faibles peut obtenir un montant d’aide plus important qu'un demandeur ayant des revenus plus élevés.",
+        "[Attention] L'aide du FSL n’est pas accordée de façon automatique. Par exemple, si votre loyer est trop élevé par rapport au total de vos revenus, l'aide du FSL peut vous être refusée. En cas de refus, la décision du FSL doit indiquer le motif de ce refus.",
+        "Chaque FSL a ses propres critères d'attribution. Par exemple, certains départements accordent l'aide du FSL à la condition que le demandeur reçoive la prime d'activité.",
+        "Pour connaître les critères d'attribution du FSL appliqués par votre département, vous devez contacter les services de votre département.",
+        "Services du département"
+      ]
+    },
+    {
+      "titre": "Comment faire une demande d'aide au FSL ?",
+      "contenu": [
+        "Vous devez contacter une assistante sociale, qui fera la demande d'aide au FSL pour vous.",
+        "Selon votre situation, vous pouvez rencontrer une assistante sociale dans différents lieux :",
+        "Vous êtes allocataire de la Caf",
+        "Si vous recevez une aide de la Caf, vous devez contacter votre caisse.",
+        "Caisse d'allocations familiales (Caf)",
+        "[À savoir] L'assistante sociale pourra en même temps vous proposer un accompagnement social, c'est-à-dire vous proposer de résoudre vos difficultés avec elle.",
+        "Vous êtes allocataire de la MSA",
+        "Si vous recevez une aide de la MSA, vous devez contacter votre caisse.",
+        "Mutualité sociale agricole (MSA)",
+        "[À savoir] L'assistante sociale pourra en même temps vous proposer un accompagnement social, c'est-à-dire vous proposer de résoudre vos difficultés avec elle.",
+        "Vous êtes dans une autre situation",
+        "Vous habitez à Paris",
+        "Vous devez contacter la mairie (centre d'action sociale).",
+        "Paris - Centre d'action sociale de la ville de Paris (CASVP)",
+        "[À savoir] L'assistante sociale pourra également vous proposer un accompagnement social, c'est-à-dire vous proposer de résoudre vos difficultés avec elle.",
+        "Vous habitez dans une autre commune",
+        "Vous pouvez contacter votre mairie (CCAS ou service social) ou les services de votre département.",
+        "Mairie",
+        "Services du département",
+        "[À savoir] L'assistante sociale pourra également vous proposer un accompagnement social, c'est-à-dire vous proposer de résoudre vos difficultés avec elle."
+      ]
+    },
+    {
+      "titre": "Comment rembourser le prêt accordée par le FSL ?",
+      "contenu": [
+        "L'aide du FSL peut être versée sous forme de prêt (somme à rembourser ensuite au FSL), ou sous forme de subvention (sans remboursement).",
+        "Chaque FSL a ses propres modalités de remboursement de l’aide financière accordée sous forme de prêt.",
+        "Pour connaître les modalités appliquées par votre département, vous devez contacter les services de votre département.",
+        "Services du département"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Loi n° 90-449 du 31 mai 1990 visant à la mise en oeuvre du droit au logement",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000159413"
+    },
+    {
+      "titre": "Décret n°2005-212 du 2 mars 2005 relatif aux fonds de solidarité pour le logement",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000604886/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Services du département"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Fonds de solidarité logement (FSL)",
+      "url": "https://www.caf.fr/allocataires/vies-de-famille/articles/fonds-de-solidarite-logement-comment-en-beneficier"
+    }
+  ],
+  "slug": "quelle-aide-apporte-le-fonds-de-solidarite-pour-le-logement-fsl",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "aide-pour-le-depot-de-garantie-ou-la-caution-d-un-logement-en-location",
+      "titre": "Aide pour le dépôt de garantie ou la caution d'un logement en location"
+    }
+  ]
+}

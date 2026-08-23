@@ -1,0 +1,305 @@
+{
+  "id": "F2365",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Livret A",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Le livret A est un compte d'épargne réglementé, ouvert à tous et défiscalisé, dont le taux d'intérêt est fixé par l'État.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-08-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2365",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Livrets, plans et comptes d'épargne",
+    "Livret A"
+  ],
+  "introduction": "Vous voulez faire fructifier votre épargne de manière sécurisée et sans payer d'impôt ? Vous pouvez ouvrir un livret A. C'est un placement dont le taux d'intérêt est fixé par l’État. Votre argent reste disponible et vous pouvez faire des retraits en cas de besoin. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Qui peut ouvrir un livret A ?",
+      "contenu": [
+        "Le livret A peut être ouvert par toutes les personnes physiques et par certaines personnes morales.",
+        "Personne physique",
+        "Toute personne peut détenir un livret A, il n'y a pas de condition d'âge, de nationalité, ou de résidence fiscale en France.",
+        "Un mineur peut ouvrir un livret A sans l'intervention de son représentant légal, mais il ne peut pas faire de retrait avant l'âge de 16 ans. De plus, pour faire les retraits, il faut l'accord de son représentant légal.",
+        "Si une personne fait l'objet d'une mesure de protection juridique (par exemple : tutelle) c'est son représentant légal qui peut ouvrir le livret pour elle.",
+        "Personne morale",
+        "Les personnes morales suivantes peuvent détenir un livret A :",
+        "• Association à but non lucratif et non soumise à l'impôt sur les sociétés",
+        "• Syndicat de copropriétaires",
+        "• Organisme d' habitation à loyer modéré (HLM).",
+        "Le livret doit être ouvert au nom de la personne morale par une personne qui est habilitée à la représenter légalement."
+      ]
+    },
+    {
+      "titre": "Est-il possible de détenir plusieurs livrets A ?",
+      "contenu": [
+        "La réponse varie selon que le titulaire du livret A est une personne physique ou morale :",
+        "Personne physique",
+        "Il est interdit de détenir plusieurs livrets A.",
+        "Un livret A est personnel, il ne peut pas être joint avec une autre personne.",
+        "Le non-respect de l'interdiction de détenir plusieurs livrets A est sanctionné par une amende qui correspond à 2 % de l'encours du deuxième livret. L'amende n'est pas recouvrée si son montant est inférieur à 50 €.",
+        "Personne morale",
+        "Une association ou un syndicat de copropriétaire ne peut détenir qu'un seul livret A.",
+        "Par exception, les organismes d’habitation à loyer modéré (HLM) peuvent ouvrir plusieurs livrets A.",
+        "Le non-respect de l'interdiction de détenir plusieurs livrets A est sanctionné par une amende qui correspond à 2 % de l'encours du deuxième livret. L'amende n'est pas recouvrée si son montant est inférieur à 50 €."
+      ]
+    },
+    {
+      "titre": "Dans quelle banque peut-on ouvrir un livret A ?",
+      "contenu": [
+        "Le livret A peut être ouvert dans n'importe quelle banque.",
+        "La plupart des banques en ligne proposent aussi le Livret A."
+      ]
+    },
+    {
+      "titre": "Quelles sont les informations contenues dans le contrat d'ouverture d'un livret A ?",
+      "contenu": [
+        "L'ouverture du compte se fait par un contrat passé entre la banque et le titulaire ou son représentant.",
+        "Le contrat précise les règles de fonctionnement du livret A (dépôt, retrait, calcul des intérêts, clôture du compte, etc.).",
+        "Le contrat d'ouverture doit contenir obligatoirement les renseignements suivants :",
+        "• Rappel de l'interdiction de détenir plusieurs livrets A et des sanctions encourues en cas de non-respect de cette règle",
+        "• Indication de la procédure de vérification faite par la banque auprès de l'administration fiscale pour savoir si le client détient déjà un autre livret A dans d'autres établissements",
+        "• Autorisation à donner par le client pour que l'administration fiscale communique (ou non) à la banque des informations détaillées sur les autres livrets A qu'il détiendrait.",
+        "[À noter] Le client ne peut pas refuser que l'administration fiscale réponde sur la seule existence d'un livret A.",
+        "La procédure d'ouverture du livret A varie en fonction de la réponse de l'administration fiscale et de l'autorisation que le client lui a donnée (ou non) pour qu'elle communique des informations détaillées à la banque.",
+        "Le client ne détient pas de livret A dans un autre établissement",
+        "Si l'administration fiscale confirme que le client ne détient pas de livret A dans un autre établissement, la banque doit lui ouvrir le livret A sans délai.",
+        "Le client détient un autre livret A et il a accepté que l'administration fiscale fournisse des informations à la banque",
+        "Si l'administration fiscale signale à la banque que le client détient au moins un livret dans un autre établissement, la banque doit transmettre les informations au client, en lui proposant de choisir l'une des 3 solutions suivantes :",
+        "• Clôturer lui-même les livrets A déjà existants",
+        "• Autoriser la banque à effectuer les formalités de clôture des livrets A déjà existants et à virer les fonds sur le nouveau livret A",
+        "• Renoncer à la demande d'ouverture du nouveau livret A.",
+        "Le client détient un autre livret A et il a refusé que l'administration fiscale fournisse des informations à la banque",
+        "Si l'administration fiscale signale à la banque que le client détient déjà au moins un de livret A dans un autre établissement, la banque doit refuser de lui ouvrir un nouveau livret A et l'informer du motif du refus.",
+        "L'établissement bancaire a l'obligation de déclarer toute ouverture d'un livret A auprès du fichier Ficoba. Cette déclaration comporte les nom, prénoms et adresse du titulaire, les références du livret et sa date d'ouverture."
+      ]
+    },
+    {
+      "titre": "Peut-on cumuler le livret A avec d'autres produits d'épargne ?",
+      "contenu": [
+        "Oui, il est possible de cumuler un livret A avec d'autres comptes sur livret (par exemple, le livret de développement durable ou le livret Jeune).",
+        "[À savoir] Depuis le 1er janvier 2009, il n'est pas possible de détenir à la fois un livret A et un compte spécial sur livret du Crédit Mutuel (livret Bleu) sauf, si ces deux livrets ont été ouverts avant le 1er septembre 1979. Il est possible de conserver ces deux anciens livrets à condition de ne pas procéder au transfert d'un de ces deux livrets dans un nouvel établissement bancaire."
+      ]
+    },
+    {
+      "titre": "Comment fonctionne le livret A ?",
+      "contenu": [
+        "Le livret papier sur lequel étaient notés les dépôts et les retraits est remplacé par des relevés de compte.",
+        "Le bénéficiaire du livret A ne reçoit pas de chéquier ou de carte de paiement. Toutefois, la banque peut, lui délivrer une carte de retrait utilisable dans les distributeurs de son réseau.",
+        "Les opérations effectuées sur le livret A (ouverture, dépôt, retrait et clôture) sont gratuites."
+      ]
+    },
+    {
+      "titre": "Quel est le montant minimum à verser sur un livret A ?",
+      "contenu": [
+        "Tout dépend de l'établissement où est ouvert le livret A.",
+        "Cas général",
+        "Le montant minimum d'un versement sur le livret A est de 10 €.",
+        "Banque Postale",
+        "Pour le livret A ouvert à la La Banque postale, le montant minimum d'un versement est de 1,5 €."
+      ]
+    },
+    {
+      "titre": "Quels sont les modes d'alimentation du livret A ?",
+      "contenu": [
+        "Le livret A peut être alimenté par :",
+        "• Chèque",
+        "• Versement en espèces au guichet",
+        "• Ou virement depuis un compte qui appartient au titulaire du livret A.",
+        "Depuis le 1er juillet 2023, il est possible de faire un virement sur son livret A à partir d'un compte à vue ouvert dans une autre banque que celle où se trouve le livret A.",
+        "Il n'y a pas d'obligation de versement périodique. Les dépôts ou retraits d'argent sont possibles à tout moment."
+      ]
+    },
+    {
+      "titre": "Quel est le plafond de dépôt sur un livret A ?",
+      "contenu": [
+        "La situation n'est pas la même pour les personnes physiques et pour les personnes morales :",
+        "Personnes physiques",
+        "Le montant maximum d'épargne inscrit sur le livret A est de 22 950 €.",
+        "Lorsque le solde du livret atteint le plafond, ou le dépasse, à la suite de l'ajout des intérêts, il n'est plus possible de faire un dépôt sur le livret.",
+        "Les intérêts générés chaque année continuent à s'ajouter, même au-delà du plafond, et sans limite, tant que le livret reste ouvert.",
+        "Personnes morales",
+        "Pour les associations et les syndicats de copropriétaires, le montant maximum d'épargne sur le livret A est de 76 500 €.",
+        "Pour les syndicats de copropriétaires, dont le nombre de lots de la copropriété à usage de logements, de bureaux ou de commerces est supérieur à 100, ce plafond est porté à 100 000 €.",
+        "Les organismes d'habitation à loyer modéré sont autorisés à effectuer des dépôts sur leur livret A, sans limite d'un plafond.",
+        "Lorsque le solde du livret atteint son plafond, ou le dépasse, à la suite de l'ajout des intérêts, il n'est plus possible de faire de dépôt sur le livret.",
+        "Les intérêts générés chaque année continuent à s'ajouter, sans limite, tant que le livret reste ouvert."
+      ]
+    },
+    {
+      "titre": "Quel montant est-il possible de retirer du livret A ?",
+      "contenu": [
+        "Montant minimum de retrait",
+        "Cas général",
+        "Le montant minimum qu'il est possible de retirer du livret A est de 10 €.",
+        "Banque Postale",
+        "Le montant minimum qu'il est possible de retirer du livret A est de 1,5 €.",
+        "[Rappel] Si le titulaire du livret A est mineur, il ne peut pas effectuer de retrait sur son livret A avant ses 16 ans. Même si le titulaire a plus de 16 ans, son représentant légal peut s'opposer à ce qu'il retire de l'argent de son livret A en avertissant la banque par lettre recommandée.",
+        "Montant maximum de retrait",
+        "Il n'y a pas de montant maximum de retrait.",
+        "Mais il n'est pas possible de retirer plus d'argent qu'il y en a sur le livret A. En effet, le solde du livret A ne doit jamais être négatif.",
+        "Lieu de retrait",
+        "Le titulaire du livret peut faire le retrait dans toutes les agences.",
+        "Toutefois, le représentant légal du titulaire ne peut retirer que dans l'agence où le livret a été ouvert."
+      ]
+    },
+    {
+      "titre": "Quel est le taux de rémunération du livret A ?",
+      "contenu": [
+        "Le taux d'intérêt annuel du livret A est de 1,7 %."
+      ]
+    },
+    {
+      "titre": "Comment sont calculés les intérêts du livret A ?",
+      "contenu": [
+        "Les intérêts sont calculés le 1er et le 16 de chaque mois.",
+        "La date de valeur prise en compte pour le calcul des intérêts varie suivant la date de l'opération (dépôt ou retrait) :",
+        "Date de la valeur prise en compte pour le calcul des intérêts du livret A selon la date de l'opération",
+        "Opération",
+        "Jusqu'au 15 du mois courant",
+        "À partir du 16 du mois courant",
+        "Dépôt",
+        "16 du même mois",
+        "1er jour du mois suivant",
+        "Retrait",
+        "Dernier jour du mois précédent",
+        "15 du mois",
+        "Les sommes déposées produisent des intérêts si elles sont placées par quinzaines entières.",
+        "[Exemple] En cas de dépôt d'argent sur le livret A entre le 1er mai et le 15 mai, le dépôt sera pris en compte par la banque le 16 mai. En cas de dépôt d'argent sur le livret A entre le 16 mai et 31 mai, le dépôt sera pris en compte par la banque le 1er juin. En cas de retrait d'argent sur le livret A entre le 1er mai et le 15 mai, le solde du compte sera arrêté au 30 avril. En cas de retrait d'argent sur le livret A entre le 16 et le 31 mai, le solde du compte sera arrêté au 15 mai.",
+        "Au 31 décembre de chaque année, les intérêts cumulés sur l'année s'ajoutent au capital.",
+        "L'ajout des intérêts au 31 décembre peut porter la valeur du livret au-delà de 22 950 €.",
+        "Les intérêts ajoutés au capital en fin d'année produisent à leur tour des intérêts l'année suivante bien que le plafond soit déjà dépassé."
+      ]
+    },
+    {
+      "titre": "Les intérêts du livret A sont-ils soumis aux impôts ?",
+      "contenu": [
+        "Les intérêts sont exonérés d'impôt sur le revenu et de prélèvements sociaux."
+      ]
+    },
+    {
+      "titre": "Le livret A peut-il être saisi ?",
+      "contenu": [
+        "Une saisie peut être réalisée sur le livret A par l'administration ou par un créancier qui a obtenu une décision de justice reconnaissant la dette."
+      ]
+    },
+    {
+      "titre": "Est-il possible de transférer le livret A dans une autre banque ?",
+      "contenu": [
+        "Le transfert d'un livret A d'une banque à une autre n'est plus possible depuis le 1er janvier 2012.",
+        "Si le titulaire du livret A souhaite le transférer, il doit d'abord le clôturer dans la première banque et verser l'épargne sur un compte de son choix. Il pourra, ensuite, ouvrir un nouveau livret A dans une autre banque et y transférer l'épargne qui était sur l'ancien livret."
+      ]
+    },
+    {
+      "titre": "Comment clôturer le livret A ?",
+      "contenu": [
+        "La titulaire du livret A peut le fermer à tout moment en envoyant un courrier à sa banque ou en se déplaçant à l'agence.",
+        "Il doit préciser les références du livret A et le numéro de compte où doivent être déposées les sommes restant sur le livret.",
+        "L'établissement bancaire doit effectuer la clôture dans les 15 jours ouvrés de la réception de la demande.",
+        "Si la banque ne procède pas à la clôture dans ce délai, il est possible de saisir le médiateur bancaire.",
+        "Pour pouvoir prouver la date de réception de la demande par la banque, il faut envoyer le courrier en recommandé ou demander un accusé de réception au guichet.",
+        "[À savoir] En cas de clôture du livret A en cours d'année, les intérêts sur la période qui va du 1er janvier à la date de clôture sont crédités au jour de clôture du compte.",
+        "Si le titulaire du livret A est un enfant mineur, ou une personne sous protection juridique, la clôture doit être faite par le représentant légal."
+      ]
+    },
+    {
+      "titre": "Quels sont les frais bancaires applicables en cas de succession ?",
+      "contenu": [
+        "Quand la banque est informée du décès du titulaire du livret A, elle doit clôturer le compte.",
+        "Les frais de succession sont desormais plafonnés dans toutes les banques pour les comptes de dépôt et les comptes sur livret.",
+        "La banque peut vous facturer des frais pour les démarches qu’elle effectue dans le cadre de la succession (inventaire des fonds, vérification des pouvoirs et de l’identité des héritiers, transfert d’argent aux héritiers...).",
+        "Le montant des frais est plafonné à 1 % du solde total des comptes et des produits d’épargne du défunt. Ce montant ne peut pas dépasser 857 €."
+      ]
+    },
+    {
+      "titre": "Comment faire pour retrouver un ancien livret A et récupérer les fonds ?",
+      "contenu": [
+        "Si le titulaire du livret A ne se manifeste pas auprès de la banque qui détient le livret, ce compte d'épargne est considéré comme inactif. La banque a l'obligation de conserver les fonds pendant un certain délai. Mais passé ce délai, elle devra fermer le compte et transférer les fonds à la Caisse des Dépôts.",
+        "Il est possible de demander à récupérer les fonds en utilisant le service en ligne Ciclade :",
+        "Ciclade (recherche des sommes oubliées provenant des comptes inactifs)"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code monétaire et financier : articles L221-1 à L221-8",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072026/LEGISCTA000006170272"
+    },
+    {
+      "titre": "Code monétaire et financier : articles R221-1 à R221-7",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000020030846"
+    },
+    {
+      "titre": "Arrêté du 4 décembre 2008 pris pour l'application de l'article R. 221-5 du code monétaire et financier",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000019872324?isSuggest=true"
+    },
+    {
+      "titre": "Code monétaire et financier : articles R221-121 à R221-126",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000026462274"
+    },
+    {
+      "titre": "Code général des impôts : article 1739 A",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019300313"
+    },
+    {
+      "titre": "Code monétaire et financier : article L312-1-4-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051588993"
+    },
+    {
+      "titre": "Code monétaire et financier : article D312-1-3",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052097695"
+    },
+    {
+      "titre": "Décret n°65-1158 du 24 décembre 1965 relatif au régime des caisses d'épargne",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000310347"
+    },
+    {
+      "titre": "Arrêté du 31 octobre 2012 relatif aux vérifications préalables à l'ouverture d'un livret A",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000026600994/"
+    },
+    {
+      "titre": "Réponse ministérielle du 5 février 2009 relative à à l'interdiction de détenir simultanément un livret A et un livret bleu sauf pour ceux ouverts avant le 1er septembre 1979",
+      "url": "http://www.senat.fr/questions/base/2008/qSEQ081206736.html"
+    },
+    {
+      "titre": "Arrêté du 27 janvier 2021 relatif aux taux d'intérêt des produits d'épargne réglementée",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000043114027/"
+    },
+    {
+      "titre": "Arrêté du 28 juillet 2026 relatif aux taux d'intérêt de certains produits d'épargne réglementée",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054541376"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Ciclade (recherche des sommes oubliées provenant des comptes inactifs)",
+      "url": "https://ciclade.caissedesdepots.fr/",
+      "type": "outilRechercheNG"
+    }
+  ],
+  "contacts": [
+    "Info Banque - Assurance"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Livret A",
+      "url": "https://www.abe-infoservice.fr/epargne/epargne-bancaire/livret"
+    },
+    {
+      "titre": "Ciclade - Pour rechercher votre argent",
+      "url": "https://ciclade.caissedesdepots.fr/"
+    }
+  ],
+  "slug": "livret-a",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "livrets-plans-et-comptes-d-epargne",
+      "titre": "Livrets, plans et comptes d'épargne"
+    }
+  ]
+}

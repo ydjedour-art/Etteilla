@@ -1,0 +1,115 @@
+{
+  "id": "F31911",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quelles aides financières peut-on percevoir pour faire des travaux dans son logement ?",
+  "theme": "Logement",
+  "description": "Des aides financières peuvent être versées pour faire des travaux dans votre logement. Elles s'adressent aux propriétaires occupants, bailleurs et locataires.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-03-27",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31911",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Aides et prêts pour l'amélioration et la rénovation énergétique de l'habitat",
+    "Quelles aides financières peut-on percevoir pour faire des travaux dans son logement ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Des aides financières peuvent être versées pour la réalisation de travaux dans votre logement. Elles s'adressent, selon les cas, aux propriétaires occupants, propriétaires bailleurs, locataires.",
+        "Un simulateur présente les différentes aides financières dont vous pouvez bénéficier :",
+        "Estimer ses droits aux aides à la rénovation énergétique",
+        "Pour définir les travaux les plus utiles et les plus rentables pour votre logement, vous pouvez bénéficier gratuitement de l’accompagnement d’un conseiller spécialisé en rénovation de l'habitat.",
+        "Conseillers spécialisés en travaux de rénovation de l'habitat (France Rénov')",
+        "Permet de se faire accompagner gratuitement dans ses travaux de rénovation par des conseillers de France Rénov'.",
+        "Par téléphone",
+        "0 808 800 700",
+        "Ouvert du lundi au vendredi de 9h à 18h. Vous devez avoir votre dernier avis d'imposition.",
+        "Service gratuit + coût d'un appel",
+        "La situation diffère selon que vous êtes propriétaire occupant, bailleur ou locataire :",
+        "Vous êtes propriétaire occupant",
+        "Vous pouvez bénéficier des aides suivantes (si vous remplissez les conditions d'attribution) :",
+        "• MaPrimeRénov' (MPR)",
+        "• Certificats d'économie d'énergie (CEE)",
+        "• Prime Coup de pouce Chauffage",
+        "• Prime Coup de pouce Rénovation d’ampleur des maisons et appartements individuels",
+        "• Éco-prêt à taux zéro (Éco-PTZ)",
+        "• Prêt avance mutation ne portant pas intérêt (également appelé Prêt avance rénovation - PAR +)",
+        "• Prêt à l'amélioration de l'habitat (PAH)",
+        "• MaPrimeAdapt' ou le crédit d'impôt pour adaptation du logement à l'âge ou au handicap",
+        "• Aide à l'insonorisation de votre logement proche d'un aéroport.",
+        "[À savoir] Certaines de ces aides sont cumulables.",
+        "Vous êtes propriétaire bailleur",
+        "Vous pouvez bénéficier des aides suivantes (si vous remplissez les conditions d'attribution) :",
+        "• MaPrimeRénov' (MPR)",
+        "• Éco-prêt à taux zéro (Éco-PTZ)",
+        "• Prime Coup de pouce Rénovation d’ampleur des maisons et appartements individuels",
+        "• Aide à l'insonorisation de votre logement proche d'un aéroport.",
+        "[À savoir] Certaines de ces aides sont cumulables.",
+        "Vous êtes locataire",
+        "Vous pouvez bénéficier des aides suivantes (si vous remplissez les conditions d'attribution) :",
+        "• MaPrimeAdapt' ou le crédit d’impôt pour des dépenses d'équipement conçu pour les personnes âgées ou handicapées",
+        "• Certificats d'économie d'énergie (CEE)",
+        "• Prime Coup de pouce Chauffage.",
+        "[À savoir] Certaines de ces aides sont cumulables."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Réponse ministérielle du 26 juin 2020 relative au dispositif \"isolation à 1 euro\"",
+      "url": "http://www.senat.fr/basile/visio.do?id=qSEQ190912098"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Estimer ses droits aux aides à la rénovation énergétique",
+      "url": "https://mesaides.france-renov.gouv.fr/",
+      "type": "simulateurNG"
+    },
+    {
+      "titre": "Estimer les aides financières pour la rénovation de l’habitat",
+      "url": "https://france-renov.gouv.fr/aides/simulation#/",
+      "type": "simulateurNG"
+    },
+    {
+      "titre": "Calculette Ma plus-value Réno",
+      "url": "https://mesaidesreno.beta.gouv.fr/module/plus-value",
+      "type": "Simulateur"
+    }
+  ],
+  "contacts": [
+    "Conseillers spécialisés en travaux de rénovation de l'habitat (France Rénov')"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Guide des aides financières de l'Anah",
+      "url": "https://www.anah.gouv.fr/sites/default/files/2026-03/202602_guide-aides-financieres_WEB.pdf"
+    },
+    {
+      "titre": "France Rénov' : le service public vous guide dans vos travaux de rénovation énergétique",
+      "url": "https://france-renov.gouv.fr/"
+    },
+    {
+      "titre": "Site de la prime de transition énergétique \"MaPrimeRénov'\"",
+      "url": "https://www.maprimerenov.gouv.fr/"
+    },
+    {
+      "titre": "Mon Accompagnateur Rénov’ simplifie et sécurise votre rénovation énergétique",
+      "url": "https://france-renov.gouv.fr/preparer-projet/faire-accompagner/mon-accompagnateur-renov"
+    }
+  ],
+  "slug": "quelles-aides-financieres-peut-on-percevoir-pour-faire-des-travaux-dans-son-logement",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "aides-et-prets-pour-l-amelioration-et-la-renovation-energetique-de-l-habitat",
+      "titre": "Aides et prêts pour l'amélioration et la rénovation énergétique de l'habitat"
+    }
+  ]
+}

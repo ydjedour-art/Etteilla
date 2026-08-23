@@ -1,0 +1,74 @@
+{
+  "id": "F40",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Fin d'un contrat à durée déterminée (CDD)",
+  "theme": "Travail - Formation, Ressources humaines",
+  "description": "Que se passe-t-il lorsque votre contrat de travail à durée déterminée (CDD) arrive à sa fin ? Pouvez-vous percevoir des indemnités ? Nous vous présentons la réglementation à connaître selon que votre CDD prend fin à la date prévue ou avant celle-ci.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2024-01-22",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F40",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Contrats de travail dans le secteur privé",
+    "Fin d'un contrat à durée déterminée (CDD)"
+  ],
+  "introduction": "Que se passe-t-il lorsque votre contrat de travail à durée déterminée (CDD) arrive à sa fin ? Pouvez-vous percevoir des indemnités ? Nous vous présentons la réglementation à connaître selon que votre CDD prend fin à la date prévue ou avant celle-ci.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code du travail : articles L1243-1 à L1243-13-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000006177867/"
+    },
+    {
+      "titre": "Code du travail : articles L1243-5 à L1243-12",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000006189459"
+    },
+    {
+      "titre": "Code du travail : article L1234-19",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006195628"
+    },
+    {
+      "titre": "Code du travail : article L1234-20",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006195629"
+    },
+    {
+      "titre": "Code du travail : article R1243-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048711640"
+    },
+    {
+      "titre": "Réponse ministérielle n°9599 du 5 mars 2013 relative à la requalification du contrat de travail",
+      "url": "http://questions.assemblee-nationale.fr/q14/14-9599QE.htm"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Informer France Travail du refus par un salarié d'une proposition de CDI à l'issue d'un CDD ou d'un contrat de mission",
+      "url": "https://www.demarches-simplifiees.fr/commencer/refus-de-cdi-informer-francetravail",
+      "type": "selNG"
+    },
+    {
+      "titre": "Rupture d'un commun accord d'un CDD",
+      "url": "https://code.travail.gouv.fr/modeles-de-courriers/rupture-dun-commun-accord-dun-contrat-de-travail-a-duree-determinee?src_url=https://service-public.gouv.fr/particuliers/vosdroits/F40",
+      "type": "Modèle de document"
+    },
+    {
+      "titre": "Rupture anticipée du CDD suite à une embauche en CDI",
+      "url": "https://code.travail.gouv.fr/modeles-de-courriers/rupture-anticipee-du-cdd-suite-a-une-embauche-en-cdi?src_url=https://service-public.gouv.fr/particuliers/vosdroits/F40",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "fin-d-un-contrat-a-duree-determinee-cdd",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "contrats-de-travail-dans-le-secteur-prive",
+      "titre": "Contrats de travail dans le secteur privé"
+    }
+  ]
+}

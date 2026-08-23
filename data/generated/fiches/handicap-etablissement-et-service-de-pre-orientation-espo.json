@@ -1,0 +1,133 @@
+{
+  "id": "F211",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Handicap : établissement et service de pré-orientation (ESPO)",
+  "theme": "Travail - Formation",
+  "description": "L'ESPO accompagne les personnes en situation de handicap, agêes d'au minimum16 ans, pour les aider à définir leur orientation professionnelle.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-05-09",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F211",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Formation des personnes handicapées",
+    "Handicap : établissement et service de pré-orientation (ESPO)"
+  ],
+  "introduction": "Vous êtes en situation de handicap et avez besoin d'un accompagnement pour définir votre orientation professionnelle ? Vous pouvez bénéficier d'un accompagnement en établissement et service de pré-orientation (ESPO). Il faut au minimum avoir 16 ans pour pouvoir intégrer un ESPO. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Quelles sont les missions d'un établissement et service de pré-orientation (ESPO) ?",
+      "contenu": [
+        "L'ESPO vous aide à identifier et évaluer vos capacités et difficultés pour exercer une activité professionnelle. Il vous accompagne pour préparer votre insertion professionnelle.",
+        "Pour cela, il propose des mises en situation pédagogiques et professionnelles portant sur divers métiers.",
+        "Vous bénéficiez également d'un soutien médical, psychologique et social adapté à votre situation de handicap.",
+        "Ces mesures sont mises en œuvre par une équipe pluridisciplinaire comprenant ou associant un ou plusieurs professionnels parmi les suivants :",
+        "• Professionnel de l'orientation, de l'insertion et de la formation",
+        "• Médecin",
+        "• Psychologue",
+        "• Ergonome",
+        "• Auxiliaire médical",
+        "• Travailleur social.",
+        "Ces mesures sont assurées pour partie par des organismes avec lesquels l'ESPO a passé une convention."
+      ]
+    },
+    {
+      "titre": "Qui peut intégrer un établissement et service de pré-orientation (ESPO) ?",
+      "contenu": [
+        "Vous devez remplir les 2 conditions suivantes :",
+        "• Avoir au minimum 16 ans",
+        "• Avoir obtenu la RQTH ou être en cours de RQTH, ou être en risque d'inaptitude à votre poste ou fonction (c'est le cas si votre état de santé devient incompatible avec les exigences de votre travail) et avoir besoin d'un accompagnement médico-psycho-social et professionnel.",
+        "Par ailleurs, vous devez être dans l'une des situations suivantes :",
+        "• Être demandeur d'emploi",
+        "• Être salarié ou agent de la fonction publique ou travailleur indépendant, et vouloir vous former pour changer de métier."
+      ]
+    },
+    {
+      "titre": "Comment intégrer un établissement et service de pré-orientation (ESPO) ?",
+      "contenu": [
+        "Vous devez en principe adresser votre demande à la MDPH de votre lieu de résidence.",
+        "La demande peut être faite en ligne par le biais d'un téléservice, si la MDPH de votre lieu de résidence le propose :",
+        "Demande de prestations MDPH (AAH, PCH, admission en Ésat, hébergement...) et renouvellement",
+        "Ce service en ligne permet de faire une demande ou renouvellement de prestations Handicap auprès de la MDPH .",
+        "Vous pouvez aussi faire votre demande par courrier par le biais d'un formulaire :",
+        "Demande ou renouvellement de prestations Handicap (AEEH, AAH, PCH, CMI, hébergement, Ésat...)",
+        "Certificat médical à joindre à une demande à la maison départementale des personnes handicapées (MDPH)",
+        "À joindre à toute demande. Il doit dater d'au maximum 1 an.",
+        "Guide d'utilisation du certificat médical destiné à la MDPH",
+        "Compte rendu type pour un bilan auditif à joindre au certificat médical (volet1)",
+        "Compte rendu type pour un bilan ophtalmologique à joindre au certificat médical (volet 2)",
+        "Vous devez joindre les documents justificatifs mentionnés à l'occasion de votre demande en ligne ou sur le formulaire.",
+        "Les documents doivent être envoyés (ou scannés si vous faites votre demande en ligne) à la MDPH de votre lieu de résidence.",
+        "Maison départementale des personnes handicapées (MDPH)",
+        "La CDAPH se réunit ensuite pour étudier votre demande d'accompagnement en ESPO. C'est elle qui décide de vous orienter ou non vers un ESPO.",
+        "Sa réponse intervient généralement dans un délai de 4 mois à partir de la date de dépôt de votre demande.",
+        "En l'absence de réponse au-delà de 4 mois, votre demande est considérée comme rejetée.",
+        "L'orientation de la CDAPH n'est pas toujours obligatoire. Vous pouvez être orienté directement vers un ESPO par votre employeur si vous êtes en activité ou par votre conseiller Cap emploi, France Travail (anciennement Pôle emploi) ou la mission locale si vous êtes demandeur d'emploi. C'est notamment le cas si vous êtes dans l'une des situations suivantes :",
+        "• Vous avez besoin d'un accompagnement de courte durée",
+        "• Vous êtes déjà admis en établissement et service médico-social (Établissement et service d'accompagnement par le travail - Ésat, Institut médico-éducatif - IME, Institut médico-professionnel - IMP)",
+        "• Vous êtes en contrat de formation en alternance."
+      ]
+    },
+    {
+      "titre": "Où se déroulent les mesures proposées par l'établissement et service de pré-orientation (ESPO) ?",
+      "contenu": [
+        "L'ESPO peut être autonome ou rattaché à un établissement ou service de santé ou à un établissement de réadaptation professionnelle.",
+        "L'accompagnement peut se faire dans les locaux de l'ESPO ou sur votre lieu de formation ou emploi ou tout autre lieu utile."
+      ]
+    },
+    {
+      "titre": "Combien de temps dure l'accompagnement proposé par l'établissement et service de pré-orientation (ESPO) ?",
+      "contenu": [
+        "La mise en œuvre des mesures assurées par l'ESPO est adaptée à vos besoins, dans la limite d'une durée totale maximale de 14 semaines sur une période de 24 mois.",
+        "Des dérogations à cette limite peuvent être accordées par décision de la CDAPH. C'est le cas si votre handicap, état de santé ou situation sociale nécessitent un aménagement du bénéfice des mesures d'accompagnement ou sa mise en pause temporaire."
+      ]
+    },
+    {
+      "titre": "De quels droits bénéficie-t-on en intégrant un établissement et service de pré-orientation (ESPO) ?",
+      "contenu": [
+        "Le coût de l'ensemble des mesures d'accompagnement (formations, transport, hébergement en cas de stage...) est pris en charge par l'Assurance maladie.",
+        "Par ailleurs, vous avez le statut de stagiaire de la formation professionnelle. Par conséquent, vous pouvez bénéficier d'une rémunération de stage comprise entre 685 € et 1 932,52 € net par mois. Ce montant est défini par une convention signée entre le directeur général de l'agence régional de santé (ARS) et le président du conseil régional.",
+        "Vous avez également droit à une protection sociale vous protégeant contre les risques sociaux, tels que la maladie, la vieillesse, le chômage ou les accidents du travail."
+      ]
+    },
+    {
+      "titre": "Que se passe-t-il à la fin de l'accompagnement en établissement et service de pré-orientation (ESPO) ?",
+      "contenu": [
+        "À la fin de votre accompagnement, l'ESPO adresse un rapport à la CDAPH.",
+        "Ce rapport détaille votre projet professionnel et vos capacités à l'exercice ou à l'apprentissage d'un métier. Le rapport fait également des préconisations nécessaires à la mise en œuvre de votre parcours.",
+        "Selon les résultats de ce rapport, la CDAPH décide de vous orienter vers un emploi dans une entreprise ordinaire ou dans un Ésat ou dans une entreprise adaptée ou vers une formation complémentaire."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'action sociale et des familles : articles D312-161-25 à D312-161-40",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074069/LEGISCTA000042394260/#LEGISCTA000042394260"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Maison départementale des personnes handicapées (MDPH)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Être accompagné vers l'emploi avec les ESPO ou ESRP",
+      "url": "https://travail-emploi.gouv.fr/etre-accompagne-dans-lemploi-avec-les-etablissements-et-services-de-preorientation-ou-de-readaptation-professionnelle-espo-ou-esrp"
+    },
+    {
+      "titre": "Les ESPO et les ESRP",
+      "url": "https://www.monparcourshandicap.gouv.fr/aides/des-etablissements-et-services-medico-sociaux-pour-maider-morienter-me-former-et-maccompagner"
+    }
+  ],
+  "slug": "handicap-etablissement-et-service-de-pre-orientation-espo",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "formation-des-personnes-handicapees",
+      "titre": "Formation des personnes handicapées"
+    }
+  ]
+}

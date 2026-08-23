@@ -1,0 +1,44 @@
+{
+  "id": "F14872",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Avec quels documents un Français peut-il se rendre en Algérie ?",
+  "theme": "Étranger - Europe",
+  "description": "Un Français doit posséder un document d'identité en cours de validité pour se rendre en Algérie.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2024-10-11",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F14872",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Voyager à l'étranger",
+    "Avec quels documents un Français peut-il se rendre en Algérie ?"
+  ],
+  "introduction": "Les conditions d'entrée en Algérie sont différentes si vous êtes Français ou si vous avez la double nationalité franco-algérienne. Si vous voyagez avec votre enfant ou s'il voyage seul, des documents supplémentaires vous seront demandés. Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [
+    "Ambassade ou consulat d'Algérie en France"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Conditions d'entrée et de séjour en Algérie",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/algerie/dernieres-minutes-et-alertes"
+    },
+    {
+      "titre": "Formalités du visa pour l'Algérie",
+      "url": "https://amb-algerie.fr/formalites-visa/"
+    }
+  ],
+  "slug": "avec-quels-documents-un-francais-peut-il-se-rendre-en-algerie",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "voyager-a-l-etranger",
+      "titre": "Voyager à l'étranger"
+    }
+  ]
+}

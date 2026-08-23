@@ -1,0 +1,96 @@
+{
+  "id": "F38331",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Comment fixer à l'amiable la garde et la pension alimentaire d’un enfant ?",
+  "theme": "Famille - Scolarité",
+  "description": "La convention parentale permet aux parents de fixer amiablement l'exercice de l'autorité parentale, la garde et la pension alimentaire pour l'enfant.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-11-26",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F38331",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Séparation des parents",
+    "Comment fixer à l'amiable la garde et la pension alimentaire d’un enfant ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Si vous vous séparez ou vous êtes déjà séparé de l’autre parent et êtes d’accord sur l’organisation de la vie de votre enfant, vous pouvez officialiser votre accord en rédigeant une convention parentale.",
+        "Dans ce document, vous fixez amiablement les mesures concernant l’enfant commun.",
+        "La convention parentale peut être utilisée que vous soyez concubins, partenaires de Pacs ou même mariés. Cependant, si vous êtes mariés et en cours de séparation, la signature d'une convention parentale ne vous dispense pas d'une procédure de divorce. Dans le cadre du divorce, les règles concernant votre enfant devront à nouveau être définies (même en cas de divorce par consentement mutuel).",
+        "La convention vous permet notamment de fixer par écrit votre accord sur les points suivants :",
+        "• Exercice de l'autorité parentale",
+        "• Résidence de l'enfant (chez un parent ou alternée)",
+        "• Droits de visite et d'hébergement du parent qui n'a pas la garde",
+        "• Pension alimentaire.",
+        "[À noter] Pour vous aider à trouver une solution à l’amiable, vous pouvez recourir à la médiation familiale.",
+        "Lorsque vous décidez d’établir une résidence alternée, vous pouvez utiliser le formulaire suivant :",
+        "Modèle de convention parentale - Résidence alternée",
+        "Lorsque vous convenez d’établir la résidence de l’enfant chez l’un des parents, vous utilisez un autre formulaire :",
+        "Modèle de convention parentale - Résidence et droit de visite et d'hébergement",
+        "Ces 2 modèles reprennent les mesures sur l’autorité parentale, la résidence et la pension alimentaire.",
+        "Une fois que la convention parentale est complétée et signée par chaque parent, vous pouvez la soumettre au juge aux affaires familiales pour homologation.",
+        "L'homologation est conseillée pour donner force exécutoire à votre convention parentale.",
+        "Vous pouvez utiliser le formulaire suivant pour demander l’homologation :",
+        "Requête conjointe aux fins d'homologation d'une convention parentale",
+        "Le formulaire et les documents à joindre doivent être déposés ou envoyés au tribunal judiciaire de la résidence de l'un ou l'autre parent.",
+        "Tribunal judiciaire ou tribunal de proximité",
+        "L'avocat n'est pas obligatoire pour rédiger et demander l'homologation d'une convention parentale. Cependant, vous pouvez vous faire assister d'un avocat afin d'obtenir des conseils pour rédiger la convention parentale.",
+        "[À savoir] Les modèles de convention parentale constituent une aide à la rédaction. Vous conservez la possibilité de rédiger votre convention sur papier libre.",
+        "La procédure d'homologation se déroule sans audience, sauf si le Jaf estime nécessaire d'entendre les parents.",
+        "Le Jaf peut homologuer ou refuser d'homologuer la convention qui lui est soumise. En revanche, il ne peut rien modifier à la convention.",
+        "La démarche est gratuite sauf si vous prenez un avocat.",
+        "[À savoir] Les mesures concernant l’enfant ne sont pas définitives, car votre situation ou celle de l’enfant peut évoluer (par exemple en cas de déménagement d'un parent). Vous pouvez décider de modifier les mesures dans une nouvelle convention ou en saisissant le Jaf."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil: article 373-2-7",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006426763"
+    },
+    {
+      "titre": "Code de procédure civile : article 1070",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039644533"
+    },
+    {
+      "titre": "Code de procédure civile : article 1143",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033740281"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Modèle de convention parentale - Résidence et droit de visite et d'hébergement",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/getAnnexe.do?cerfaAnnexe=1&cerfaFormulaire=16139*01",
+      "type": "formulaireNG"
+    },
+    {
+      "titre": "Modèle de convention parentale - Résidence alternée",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/getAnnexe.do?cerfaAnnexe=2&cerfaFormulaire=16139*01",
+      "type": "formulaireNG"
+    },
+    {
+      "titre": "Requête conjointe aux fins d'homologation d'une convention parentale",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_16139.do",
+      "type": "formulaireNG"
+    }
+  ],
+  "contacts": [
+    "Médiateur familial"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "comment-fixer-a-l-amiable-la-garde-et-la-pension-alimentaire-d-un-enfant",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "separation-des-parents",
+      "titre": "Séparation des parents"
+    }
+  ]
+}

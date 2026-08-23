@@ -1,0 +1,91 @@
+{
+  "id": "F11301",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Comment faire constater l'abandon du domicile conjugal ?",
+  "theme": "Famille - Scolarité",
+  "description": "Les époux s'obligent mutuellement à une communauté de vie. L'abandon du domicile conjugal est une violation du devoir de communauté de vie.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-04-09",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F11301",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Divorce, séparation de corps",
+    "Comment faire constater l'abandon du domicile conjugal ?"
+  ],
+  "introduction": "Vous êtes marié(e) et votre époux ou votre épouse a quitté le domicile conjugal ? Il s'agit d'une violation du devoir de communauté de vie découlant du mariage. Vous pouvez le faire constater ? Nous vous expliquons comment faire pour que l'abandon du domicile conjugal soit constaté.",
+  "chapitres": [
+    {
+      "titre": "Produire des déclarations de tiers",
+      "contenu": [
+        "Toute personne (proche, ami, voisin...) ayant une connaissance personnelle du départ de votre époux peut établir une attestation de témoin.",
+        "Dans cette attestation, la personne doit préciser ce qu'elle sait du départ de votre époux/épouse.",
+        "Elle indique notamment les informations suivantes :",
+        "• Jour, heure, circonstances du départ de l'époux",
+        "• Ses déclarations éventuelles lors du départ",
+        "• Faits matériels (par exemple, l'époux a emporté ses affaires personnelles avec lui, il n'a plus reparu au domicile).",
+        "Cette attestation doit être écrite, datée et signée de la main de son auteur. Elle doit être accompagnée de la copie d'un justificatif d'identité (carte d'identité, passeport, permis de conduire ...).",
+        "Un modèle d'attestation de témoin est disponible :",
+        "Modèle d'attestation de témoin"
+      ]
+    },
+    {
+      "titre": "Faire établir un constat par un commissaire de justice",
+      "contenu": [
+        "Vous devez contacter un commissaire de justice.",
+        "Commissaire de justice (anciennement huissier de justice et commissaire-priseur judiciaire)",
+        "Le commissaire de justice se déplace à votre domicile pour établir un procès verbal constatant le départ de votre époux (absence du domicile, absence de ses effets personnels...).",
+        "Il s'agit d'un acte authentique. C'est une preuve qui établit une situation précise à une date certaine.",
+        "Le commissaire de justice réalise ce constat sans autorisation judiciaire.",
+        "L'établissement du constat du commissaire de justice est payant. Les frais sont fixés librement par chaque commissaire de justice. Seul le commissaire de justice peut vous communiquer ses tarifs."
+      ]
+    },
+    {
+      "titre": "Déposer une main courante",
+      "contenu": [
+        "Vous pouvez déposer une main courante auprès d'un commissariat ou d'une gendarmerie pour signaler que votre époux/épouse a quitté le domicile conjugal ou que vous quittez le domicile conjugal.",
+        "La main courante peut constituer un élément de preuve.",
+        "Commissariat",
+        "[Attention] En cas de violences conjugales, si vous quittez le domicile conjugal, il est recommandé de déposer plainte."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : articles 212 à 226",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136137/#LEGISCTA000006136137"
+    },
+    {
+      "titre": "Code civil : articles 254 à 256",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165746/"
+    },
+    {
+      "titre": "Code de procédure civile : articles 200 à 203",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070716/LEGISCTA000006165187/#LEGISCTA000006165187"
+    },
+    {
+      "titre": "Code de commerce : articles A444-10 à A444-52",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000005634379/LEGISCTA000032127742/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Modèle d'attestation de témoin",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_11527.do",
+      "type": "formulaireNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "comment-faire-constater-l-abandon-du-domicile-conjugal",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "divorce-separation-de-corps",
+      "titre": "Divorce, séparation de corps"
+    }
+  ]
+}

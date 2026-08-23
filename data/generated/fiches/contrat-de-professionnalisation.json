@@ -1,0 +1,171 @@
+{
+  "id": "F15478",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Contrat de professionnalisation",
+  "theme": "Travail - Formation, Ressources humaines",
+  "description": "Le contrat de professionnalisation est un contrat de travail conclu entre un employeur et un salarié lui permettant de suivre une formation en alternance.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-07-22",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F15478",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Alternance",
+    "Contrat de professionnalisation"
+  ],
+  "introduction": "Le contrat de professionnalisation est un contrat de travail qui associe, par alternance, des périodes de formation pratique en entreprise et d’enseignement théorique dans des organismes publics ou privés de formation. Il permet d'acquérir une qualification et de favoriser l'insertion ou la réinsertion professionnelle. Comment se déroule ce contrat ? Nous vous présentons les informations à retenir.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les règles du contrat de professionnalisation diffèrent selon l'âge du salarié : moins de 21 ans, entre 21 et 25 ans ou à partir de 26 ans."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code du travail : article L3164-9",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006189657/"
+    },
+    {
+      "titre": "Code du travail : articles L6325-1 à L6325-4-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000006189895/"
+    },
+    {
+      "titre": "Code du travail : articles L6325-5 à L6325-7",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000006189896/"
+    },
+    {
+      "titre": "Code du travail : articles L6325-8 à L6325-10",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000006189897/"
+    },
+    {
+      "titre": "Code du travail : articles L6325-11 à L6325-15",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000006189898/"
+    },
+    {
+      "titre": "Code du travail : articles L6325-23 à L6325-24",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006189900/"
+    },
+    {
+      "titre": "Code du travail : article L6325-25 à L6325-25-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000037373890/#LEGISCTA000037373895"
+    },
+    {
+      "titre": "Code du travail : articles D6325-1 à D6325-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000018498306/"
+    },
+    {
+      "titre": "Code du travail : article D6325-14 à D6325-18",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000018498338"
+    },
+    {
+      "titre": "Code du travail : articles D6325-6 à D6325-10",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000018498318/"
+    },
+    {
+      "titre": "Code du travail : article D6325-11",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018523007/"
+    },
+    {
+      "titre": "Code du travail : article D6325-29",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000025049837/"
+    },
+    {
+      "titre": "Code du travail : articles D6325-30 à D6325-32",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000031971797"
+    },
+    {
+      "titre": "Code du travail : article D6332-87",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038033304"
+    },
+    {
+      "titre": "Code du travail : article R5221-1 à R5221-7",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000018495562/"
+    },
+    {
+      "titre": "Code du travail : articles R6325-33 à R6325-35",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000039283404"
+    },
+    {
+      "titre": "Circulaire DGEFP n°2012-15 du 19 juillet 2012 relative à la mise en œuvre du contrat de professionnalisation",
+      "url": "http://travail-emploi.gouv.fr/publications/picts/bo/30082012/TRE_20120008_0110_0005.pdf"
+    },
+    {
+      "titre": "Décret n°2018-1263 du 26 décembre 2018 relatif à l'expérimentation étendant le contrat de professionnalisation à l'acquisition de compétences définies par l'employeur et l'opérateur de compétences",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000037865257/"
+    },
+    {
+      "titre": "Arrêté du 26 décembre 2018 relatif au cahier des charges de l'évaluation de l'expérimentation du contrat de professionnalisation",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000037865275/"
+    },
+    {
+      "titre": "Arrêté du 22 janvier 2020 relatif au modèle de convention de mise en œuvre d'une mobilité n'excédant pas 4 semaines",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000041505640"
+    },
+    {
+      "titre": "Arrêté du 22 janvier 2020 relatif au modèle de convention de mise en œuvre d'une mobilité",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000041505665"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Contrat de professionnalisation",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_12434.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Trouver une entreprise qui recrute en alternance",
+      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/",
+      "type": "outilRechercheNG"
+    },
+    {
+      "titre": "Simulateur du coût d'embauche d'un salarié en contrat d'apprentissage ou de professionnalisation",
+      "url": "https://mon-entreprise.urssaf.fr/simulateurs/salaire-brut-net",
+      "type": "Simulateur"
+    },
+    {
+      "titre": "Modèle de convention de mise en œuvre d'une mobilité",
+      "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000041505676",
+      "type": "Modèle de document"
+    },
+    {
+      "titre": "Modèle de convention de mise en œuvre d'une mobilité de 4 semaines ou moins",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000041505640",
+      "type": "Modèle de document"
+    }
+  ],
+  "contacts": [
+    "Mission locale",
+    "France Travail"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Le contrat de professionnalisation",
+      "url": "https://travail-emploi.gouv.fr/le-contrat-de-professionnalisation"
+    },
+    {
+      "titre": "Liste des opérateurs de compétences (OPCO)",
+      "url": "https://travail-emploi.gouv.fr/les-operateurs-de-competences-opco"
+    },
+    {
+      "titre": "Rechercher une formation en alternance",
+      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/recherche"
+    },
+    {
+      "titre": "Carte d'étudiant des métiers",
+      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/guide-cfa/la-carte-etudiant-des-metiers"
+    }
+  ],
+  "slug": "contrat-de-professionnalisation",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "alternance",
+      "titre": "Alternance"
+    }
+  ]
+}

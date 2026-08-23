@@ -1,0 +1,59 @@
+{
+  "id": "F2443",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Doit-on recevoir les eaux qui s'écoulent du terrain de son voisin ?",
+  "theme": "Logement",
+  "description": "Oui, le propriétaire d'un terrain situé en contrebas est obligé de recevoir les eaux qui s'écoulent naturellement du terrain de son voisin.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-05-29",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2443",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Vie pratique en logement individuel (maison)",
+    "Doit-on recevoir les eaux qui s'écoulent du terrain de son voisin ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Oui, si votre terrain est situé en contrebas, vous êtes obligé de recevoir les eaux qui s'écoulent du terrain situé au-dessus du vôtre. On parle de servitude naturelle d’écoulement des eaux. L’obligation s’applique uniquement lorsque l’écoulement est naturel, c’est-à-dire sans intervention humaine. Vous ne pouvez donc pas installer un ouvrage empêchant l'écoulement naturel des eaux.",
+        "Toutefois, cette obligation disparaît si votre voisin aggrave cet écoulement, par exemple, en installant un drainage orientant les eaux vers votre terrain.",
+        "[Attention] L'obligation de recevoir les eaux qui s'écoulent sur votre terrain s'applique uniquement aux eaux de type eaux de pluie, eaux de source et eaux provenant de la fonte des neiges. Elle ne concerne pas les eaux usées.",
+        "Si votre voisin déverse ses eaux usées sur votre terrain, il est recommandé de lui signaler la situation.",
+        "Si votre voisin n'agit pas, vous devez lui envoyer un courrier simple lui rappelant la gêne occasionnée. Il est recommandé de réunir un maximum de preuves à l'appui de votre courrier (par exemple, photo, témoignage).",
+        "En cas d'inaction de votre voisin à la suite de l’envoi du courrier simple, vous devez lui envoyer un courrier recommandé avec accusé de réception demandant de faire cesser le trouble.",
+        "Si le trouble persiste malgré vos démarches, vous pouvez recourir à un conciliateur de justice (démarche gratuite) ou à un médiateur (démarche payante) ou à une procédure participative (démarche payante avec recours à un avocat) pour tenter de trouver une solution amiable avec votre voisin.",
+        "Si la solution amiable n’aboutit pas, vous pouvez faire un recours auprès du tribunal judiciaire du lieu de situation de votre terrain.",
+        "Devant le tribunal, vous pouvez demander",
+        "• La cessation du trouble",
+        "• La remise en état du terrain",
+        "• Et le versement de dommages et intérêts pour réparer votre préjudice."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : articles 640 à 648",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006136252"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)",
+    "Maison de justice et du droit"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "doit-on-recevoir-les-eaux-qui-s-ecoulent-du-terrain-de-son-voisin",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "vie-pratique-en-logement-individuel-maison",
+      "titre": "Vie pratique en logement individuel (maison)"
+    }
+  ]
+}

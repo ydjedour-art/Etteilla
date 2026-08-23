@@ -1,0 +1,33 @@
+{
+  "id": "F36522",
+  "type_publication": "Recherche guidée",
+  "titre": "[RG - Retrait de l'autorité parentale]",
+  "theme": "Famille - Scolarité",
+  "description": "[RG - Retrait de l'autorité parentale]",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2022-07-15",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F36522",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Autorité parentale",
+    "[RG - Retrait de l'autorité parentale]"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "rg-retrait-de-l-autorite-parentale",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "autorite-parentale",
+      "titre": "Autorité parentale"
+    }
+  ]
+}

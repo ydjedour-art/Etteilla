@@ -1,0 +1,121 @@
+{
+  "id": "F19950",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Détecteur de fumée : sécurité incendie dans le logement",
+  "theme": "Logement",
+  "description": "L'installation d'un détecteur de fumée est obligatoire dans un logement (appartement ou maison).",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-05-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F19950",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Risques sanitaires et sécurité du logement",
+    "Détecteur de fumée : sécurité incendie dans le logement"
+  ],
+  "introduction": "Vous souhaitez connaître les règles d’installation, d’entretien et de remplacement du détecteur de fumée, aussi appelé détecteur avertisseur autonome de fumée (Daaf) ? Nous vous indiquons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "À quoi sert le détecteur de fumée ?",
+      "contenu": [
+        "Le détecteur de fumée est un appareil qui détecte les fumées dès le début d'un incendie et émet immédiatement un signal sonore suffisamment fort pour réveiller une personne endormie.",
+        "[À noter] Il existe des détecteurs de fumée spécialement adaptés aux personnes sourdes ou malentendantes fonctionnant grâce à un signal lumineux ou vibrant."
+      ]
+    },
+    {
+      "titre": "Quelles caractéristiques doit respecter le détecteur de fumée ?",
+      "contenu": [
+        "Le détecteur de fumée doit impérativement comporter le marquage CE accompagné de la référence à la norme NF EN 14604.",
+        "Le détecteur de fumée est alimenté par piles ou fonctionne à partir de l'alimentation électrique du logement, à la condition dans ce cas qu'il soit équipé d'une alimentation de secours pouvant prendre le relais en cas de dysfonctionnement électrique.",
+        "Le détecteur de fumée peut être acheté dans un magasin de bricolage.",
+        "[Attention] Les détecteurs de fumée utilisant l'ionisation sont interdits, car ils sont radioactifs."
+      ]
+    },
+    {
+      "titre": "Dans quel logement faut-il installer un détecteur de fumée ?",
+      "contenu": [
+        "Chaque logement (appartement, maison) doit être équipé d'au moins un détecteur de fumée."
+      ]
+    },
+    {
+      "titre": "Qui est responsable de l’installation, de l’entretien et du remplacement du détecteur de fumée ?",
+      "contenu": [
+        "Le propriétaire doit installer le détecteur de fumée, tandis que l’occupant s’occupe de son entretien, et, si besoin, de son remplacement.",
+        "Lorsque le logement est loué, le propriétaire doit également vérifier le bon fonctionnement du détecteur de fumée lors de l’état des lieux.",
+        "Toutefois, cette répartition des responsabilités change selon le type de logement.",
+        "En effet, dans certains cas, le propriétaire assume l’ensemble des obligations : installation, entretien, renouvellement.",
+        "Cela concerne :",
+        "• Les locations meublées",
+        "• Les logements saisonniers",
+        "• Les logements-foyers lorsqu’ils sont gérés par le propriétaire ou par un organisme qui n’exerce pas des activités d’intermédiation locative et de gestion locative",
+        "• Les résidences hôtelières à vocation sociale",
+        "• Les logements attribués ou loués en fonction d’un emploi ou d’une fonction.",
+        "Lorsque les logements-foyers sont gérés par des organismes agréés exerçant des activités d’intermédiation locative et de gestion locative, ce sont ces organismes qui assument l’installation, l’entretien et le renouvellement du détecteur.",
+        "Enfin, pour les locaux destinés à l’habitat inclusif, la responsabilité revient également au propriétaire. Celui-ci peut toutefois déléguer ces obligations, par convention :",
+        "• Soit aux organismes agréés exerçant des activités d’intermédiation locative et de gestion locative",
+        "• Soit à la personne morale chargée du projet de vie sociale et partagée."
+      ]
+    },
+    {
+      "titre": "Où doit être installé le détecteur de fumée ?",
+      "contenu": [
+        "Le détecteur de fumée doit être installé de préférence dans la circulation ou dégagement (palier, couloir) desservant les chambres.",
+        "Lorsque le logement ne comporte pas de circulation ou dégagement (cas d'un studio), le détecteur de fumée doit être installé le plus loin possible de la cuisine et de la salle de bain.",
+        "Le détecteur de fumée doit être fixé solidement au plafond.",
+        "Dans les logements comportant plusieurs étages, il est recommandé d'installer 1 détecteur de fumée par étage.",
+        "Dans les logements de grande surface, il est également recommandé d'installer plusieurs détecteurs de fumée.",
+        "[Attention] Il est interdit d'installer un détecteur de fumée dans les parties communes d'un immeuble."
+      ]
+    },
+    {
+      "titre": "Faut-il déclarer l'installation du détecteur de fumée à son assureur ?",
+      "contenu": [
+        "Oui, l’occupant doit prévenir son assureur avec lequel il a souscrit son assurance habitation pour lui indiquer que le logement est équipé d'un ou plusieurs détecteur(s) de fumée.",
+        "Cette information se fait en remettant une attestation accompagnée d’une preuve d’achat ou d’installation (facture, photo, certificat de conformité,...).",
+        "Toutefois, dans 2 situations, ce n’est pas l’occupant qui remet cette attestation à l’assureur, mais :",
+        "• L’organisme exerçant les activités d’intermédiation locative et de gestion locative sociale pour les logements-foyers gérés par eux",
+        "• Le propriétaire des locaux destinés à l’habitat inclusif.",
+        "Il est possible de se servir d’un modèle de lettre pour rédiger le courrier :",
+        "Modèle de déclaration à adresser à son assureur pour attester de l’installation d’un détecteur de fumée",
+        "[Attention] Même en l’absence de détecteur de fumée, l’assureur ne peut pas refuser d’indemniser en cas de sinistre incendie. Toutefois, s’il prouve que cette absence a aggravé les conséquences du sinistre, une réduction d’indemnisation peut être envisagée."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la construction et de l'habitation : articles L142-1 à L142-4",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000006159008/#LEGISCTA000041588242"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : articles R142-1 à R142-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000043818923/#LEGISCTA000043818923"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Modèle de déclaration à adresser à son assureur pour attester de l’installation d’un détecteur de fumée",
+      "url": "",
+      "type": "lettreTypeNG"
+    }
+  ],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Marquage \"CE\"",
+      "url": "https://www.economie.gouv.fr/dgccrf/Publications/Vie-pratique/Fiches-pratiques/Le-marquage-CE"
+    }
+  ],
+  "slug": "detecteur-de-fumee-securite-incendie-dans-le-logement",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "risques-sanitaires-et-securite-du-logement",
+      "titre": "Risques sanitaires et sécurité du logement"
+    }
+  ]
+}

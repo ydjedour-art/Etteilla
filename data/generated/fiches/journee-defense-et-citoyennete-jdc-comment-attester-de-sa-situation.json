@@ -1,0 +1,64 @@
+{
+  "id": "F1290",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Journée défense et citoyenneté (JDC) : comment attester de sa situation ?",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Pour s'inscrire à certains examens ou concours avant 25 ans, il faut fournir le certificat de JDC.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-06-19",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1290",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Recensement citoyen, JDC et Service national",
+    "Journée défense et citoyenneté (JDC) : comment attester de sa situation ?"
+  ],
+  "introduction": "À partir de 16 ans, vous devez faire votre recensement citoyen, puis participer à la JDC. Jusqu'à votre 25e anniversaire, vous devez attester de votre situation au regard de cette obligation, lorsque vous voulez vous inscrire à certains examens (BEP, baccalauréat, permis de conduire...) ou concours administratif français. Selon votre situation, le justificatif à fournir varie. Nous vous expliquons.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les règles sont différentes selon que vous avez fait la JDC en France ou depuis l'étranger :"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code du service national : articles R*112-1 à R*112-11",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071335/LEGISCTA000006151704/"
+    },
+    {
+      "titre": "Instruction du 15 septembre 2017 relative à l'exemption médicale de participation à la JDC",
+      "url": "http://circulaires.legifrance.gouv.fr/pdf/2018/02/cir_42967.pdf"
+    },
+    {
+      "titre": "Arrêté du 11 janvier 2016 sur le recensement et la participation à la JDC hors du territoire national",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000031873061/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Ma JDC",
+      "url": "https://presaje.sga.defense.gouv.fr/",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Depuis l'étranger : pour contacter le CSNJ Perpignan",
+      "url": "https://www.defense.gouv.fr/sga/au-service-nation-du-public/jeunesse/devenir-citoyen/journee-defense-citoyennete-jdc#title-11425"
+    }
+  ],
+  "slug": "journee-defense-et-citoyennete-jdc-comment-attester-de-sa-situation",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "recensement-citoyen-jdc-et-service-national",
+      "titre": "Recensement citoyen, JDC et Service national"
+    }
+  ]
+}

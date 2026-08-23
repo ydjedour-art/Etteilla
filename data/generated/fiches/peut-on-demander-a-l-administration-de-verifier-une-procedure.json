@@ -1,0 +1,62 @@
+{
+  "id": "F34678",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Peut-on demander à l'administration de vérifier une procédure ?",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Le droit au contrôle permet de demander à une administration d'être contrôlé et de lui opposer par la suite les conclusions de ce contrôle.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2021-06-22",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34678",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Obligations de l'administration vis-à-vis des usagers",
+    "Peut-on demander à l'administration de vérifier une procédure ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Oui, un particulier ou une entreprise peuvent demander à l'administration de vérifier une procédure sans attendre le contrôle prévu par la réglementation.",
+        "Cela permet de faire valider ou de corriger cette procédure.",
+        "[Exemple] Un agent immobilier peut demander à la DGCCRF de contrôler ses pratiques commerciales.",
+        "Toutes les administrations sont concernées : service de l’État, collectivité territoriale, organisme chargé d'un mission de service public administratif.",
+        "Votre demande doit préciser les points à contrôler.",
+        "L'administration doit faire le contrôle dans un délai raisonnable, variable notamment selon la complexité des textes à vérifier.",
+        "Toutefois, certaines demandes ne sont pas acceptées.",
+        "Par exemple, si votre demande est de toute évidence injustifiée ou si elle compromet le bon fonctionnement d'un service de l'administration.",
+        "Une fois le contrôle fait, vous pouvez utiliser les conclusions de ce contrôle si l'administration change de position par la suite.",
+        "C'est ce qu'on appelle le droit à l'opposabilité du contrôle.",
+        "[Exemple] Un organisme de formation professionnelle qui a obtenu une conclusion favorable pourra l'opposer à l'administration si elle change de position par la suite.",
+        "Le droit à l'opposabilité du contrôle s'applique aux contrôles commencés depuis le 11 août 2018.",
+        "Il peut être utilisé à condition de respecter les droits des autres personnes.",
+        "[À noter] si l'administration constate une erreur lors du contrôle, vous pouvez régulariser votre situation sans être sanctionné. C'est ce qu'on appelle le droit à l'erreur."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Loi n°2018-727 du 10 août 2018 pour un État au service d'une société de confiance",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000037307624/"
+    },
+    {
+      "titre": "Code des relations entre le public et l'administration : articles L124-1 à L124-2",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000037309236/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "peut-on-demander-a-l-administration-de-verifier-une-procedure",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "obligations-de-l-administration-vis-a-vis-des-usagers",
+      "titre": "Obligations de l'administration vis-à-vis des usagers"
+    }
+  ]
+}

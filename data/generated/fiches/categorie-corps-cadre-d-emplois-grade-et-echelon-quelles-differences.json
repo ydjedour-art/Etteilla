@@ -1,0 +1,63 @@
+{
+  "id": "F12344",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Catégorie, corps, cadre d'emplois, grade et échelon : quelles différences ?",
+  "theme": "Travail - Formation",
+  "description": "Les fonctionnaires appartiennent à des corps ou à des cadres d'emplois composés de plusieurs grades et échelons.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-10-20",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F12344",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Carrière dans la fonction publique",
+    "Catégorie, corps, cadre d'emplois, grade et échelon : quelles différences ?"
+  ],
+  "introduction": "Les fonctionnaires appartiennent à des corps dans les fonctions publiques d'État (FPE) et hospitalière (FPH) ou à des cadres d'emplois dans la fonction publique territoriale (FPT). Ils sont classés en catégorie A, B ou C. Ces corps ou cadres d'emplois comportent généralement plusieurs grades et chaque grade comporte plusieurs échelons. Voici les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "L'emploi dans la fonction publique, comment ça marche ?",
+        "Service Public (DILA)",
+        "L'emploi dans la fonction publique",
+        "Comment ça marche ?",
+        "Vous allez travailler dans la fonction publique ? Catégories, cadres d'emplois, corps, grades, échelons... Si cela ne vous évoque rien pour l'instant, pas de panique, on vous explique.",
+        "D'abord, sachez qu'il existe 3 fonctions publiques.",
+        "La fonction publique d'Etat, la fonction publique territoriale et la fonction publique hospitalière. Les catégories, qu'est-ce que c'est ?",
+        "Dans chaque fonction publique, les emplois sont classés en 3 catégories : A, B ou C. Elles fixent le niveau de diplôme ou de formation exigé à l'entrée.",
+        "Ainsi, pour la catégorie A, il faut au moins un bac + 2. Pour la B, le baccalauréat suffit. La catégorie C est accessible sans diplôme ou avec un diplôme de niveau V ou V bis (CAP, BEP, brevet des collèges).",
+        "Et pour les corps et cadres d'emplois, de quoi parle-t-on ?",
+        "Dans chaque catégorie A, B et C, les fonctionnaires sont regroupés en corps (pour les fonctions publiques d'Etat et hospitalière) ou en cadres d'emplois (pour la fonction publique territoriale). Dans un même corps ou cadre d'emplois, ils exercent les mêmes fonctions.",
+        "Quelle est la différence avec les grades ?",
+        "Chaque corps ou cadre d'emplois comprend un ou plusieurs grades.",
+        "En début de carrière, vous démarrez en général sur le 1er grade. Vous pouvez ensuite accéder - sous conditions - aux grades supérieurs appelés grades d'avancement.",
+        "Et les échelons dans tout cela ?",
+        "Chaque grade comporte plusieurs échelons. L'échelon sert à calculer la rémunération.",
+        "Là aussi, vous débutez en général votre carrière sur le 1er échelon de votre grade. Avec l'ancienneté, vous passez de façon automatique aux échelons supérieurs.",
+        "On récapitule avec un schéma ?",
+        "Chaque fonction publique est organisée en catégories A, B et C. Ces catégories sont composées de corps ou cadres d'emplois, qui comportent un ou plusieurs grades, eux-mêmes composés de plusieurs échelons."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général de la fonction publique : articles L411-1 à L411-9",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044422136/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "categorie-corps-cadre-d-emplois-grade-et-echelon-quelles-differences",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "carriere-dans-la-fonction-publique",
+      "titre": "Carrière dans la fonction publique"
+    }
+  ]
+}

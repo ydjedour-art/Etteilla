@@ -1,0 +1,256 @@
+{
+  "id": "F1404",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Faire une donation",
+  "theme": "Famille - Scolarité",
+  "description": "La donation est un acte réalisé devant notaire par lequel une personne transmet de son vivant et sans contrepartie la propriété d'un bien à une autre personne.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2024-12-17",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1404",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Préparer sa succession : donation",
+    "Faire une donation"
+  ],
+  "introduction": "Vous voulez transmettre sans contrepartie la propriété d'un de vos biens à une autre personne avant votre décès ? Pour cela, vous pouvez faire une donation. Vous devez respecter certaines règles pour qu'une donation soit valable. La donation doit notamment être faite par acte notarié. Voici les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Qu'est-ce qu'une donation ?",
+      "contenu": [
+        "Une donation est un acte par lequel vous, le donateur, transférez de votre vivant et sans contrepartie la propriété d'un bien à un donataire.",
+        "Le donataire doit accepter expressément la donation pour qu'elle se réalise.",
+        "[Attention] La donation est différente du don manuel et du présent d'usage."
+      ]
+    },
+    {
+      "titre": "Qui peut faire une donation ?",
+      "contenu": [
+        "Pour faire une donation, vous devez remplir les 3 conditions suivantes :",
+        "• Être sain d'esprit, c'est-à-dire posséder des capacités mentales permettant un discernement et une volonté suffisamment éclairée",
+        "• Être majeur ou mineur émancipé",
+        "• Posséder la capacité juridique de gérer vos biens.",
+        "La personne en tutelle peut, avec l'autorisation du juge ou du conseil de famille s'il a été constitué, être assistée ou au besoin représentée par le tuteur pour faire des donations.",
+        "La personne en curatelle peut faire une donation avec l'assistance du curateur."
+      ]
+    },
+    {
+      "titre": "À qui peut-on faire une donation ?",
+      "contenu": [
+        "Vous pouvez faire une donation à la personne de votre choix :",
+        "• Vos enfants ou petits-enfants",
+        "• Personne avec qui vous vivez en couple",
+        "• Autre membre de votre famille",
+        "• Personne étrangère à votre famille.",
+        "Vous pouvez aussi faire une donation à certaines associations.",
+        "Si vous êtes marié, vous pouvez faire une donation à votre époux ou épouse. Il s'agit d'une donation au dernier vivant.",
+        "La donation doit être acceptée par le donataire. Il peut aussi la refuser.",
+        "Un mineur peut recevoir une donation. Dans ce cas, la donation doit être acceptée par ses représentants légaux.",
+        "Si le donataire est sourd-muet et qu'il sait écrire, il peut accepter lui même la donation ou passer par un fondé de pouvoir. S'il ne sait pas écrire, la donation doit être acceptée par un curateur nommé pour cela."
+      ]
+    },
+    {
+      "titre": "Quels types de biens peut-on donner ?",
+      "contenu": [
+        "Les biens doivent vous appartenir personnellement au moment de la donation. Il est impossible de donner un bien futur sauf dans une donation au dernier vivant.",
+        "[Exemple] Vous ne pouvez pas donner un bien dont vous hériterez au décès de vos parents.",
+        "Vous pouvez donner des biens immobiliers ou mobiliers."
+      ]
+    },
+    {
+      "titre": "Quelle part de son patrimoine peut-on donner ?",
+      "contenu": [
+        "Vous devez respecter les règles de transmission imposées par la loi.",
+        "Les héritiers réservataires ne peuvent pas être exclus de votre succession. Ils reçoivent obligatoirement une part d'héritage minimale. Vous pouvez donc donner librement la part qui dépasse la réserve héréditaire. On appelle cette part la quotité disponible.",
+        "Si vous ne respectez cette règle, vos héritiers réservataires peuvent remettre en cause vos donations au moment du règlement de votre succession. Pour cela, ils doivent faire une action en réduction.",
+        "[À savoir] l'héritier réservataire peut renoncer par avance à contester une donation qui lui priverait de sa part d'héritage. Il doit exprimer cette volonté dans un pacte successoral.",
+        "Par contre, si vous n'avez pas d'héritiers réservataires, vous pouvez donner l'ensemble de vos biens.",
+        "Présence d'enfant",
+        "Quotité disponible en présence d'enfants",
+        "Nombre d'enfants",
+        "Quotité disponible",
+        "1",
+        "1/2",
+        "2",
+        "1/3",
+        "3 ou plus",
+        "1/4",
+        "[Exemple] Vous avez un patrimoine de 200 000 € et 3 enfants. Au moment de votre succession, vos enfants se partageront les 3/4 de ce patrimoine soit 150 000 € à parts égales. Chaque enfant recevra donc 50 000 €. Vous pouvez donc donner le 1/4 restant soit 50 000 € aux personnes de votre choix (héritiers ou tiers).",
+        "si vous avez fait une donation à votre enfant et qu'il meurt sans descendance, vous pouvez récupérer les biens donnés. C'est ce qu'on appelle le droit de retour légal. Vous pouvez aussi prévoir une clause de retour dans l'acte donation : vous récupérez les biens donnés si le donataire meurt avant vous, avec ou sans descendance.",
+        "Absence d'enfant",
+        "Quotité disponible en l'absence d'enfant",
+        "Situation maritale",
+        "Quotité disponible",
+        "Marié",
+        "3/4",
+        "Non marié",
+        "Tout",
+        "[Exemple] Vous avez un patrimoine de 200 000 €. Au moment de votre succession, votre époux recevra 50 000 €. Vous pouvez donner les 150 000 € restant aux personnes de votre choix (héritiers ou tiers).",
+        "Quelle part de patrimoine peut-on donner ?",
+        "Service Public (DILA)",
+        "Donation",
+        "Quelle part de patrimoine peut-on donner ?",
+        "Vous pouvez faire une donation de vos biens (biens mobiliers ou immobiliers, somme d'argent...) à la personne de votre choix.",
+        "Une condition : ne pas puiser dans la part du patrimoine réservée à vos héritiers légaux (en l'absence de conjoint survivant, les enfants et leurs descendants, les ascendants puis les collatéraux.",
+        "La part que vous pouvez donner s'appelle \"quotité disponible\".",
+        "Votre patrimoine - Part réservée à vos héritiers légaux = Part qui peut être donnée (quotité disponible)",
+        "Vous avez des enfants",
+        "Nombre d'enfants",
+        "Quotité disponible",
+        "1",
+        "1/2",
+        "2",
+        "1/3",
+        "3 ou plus",
+        "1/4",
+        "Vous n'avez pas d'enfant",
+        "Situation maritale",
+        "Quotité disponible",
+        "Marié",
+        "3/4",
+        "Non marié",
+        "Tout"
+      ]
+    },
+    {
+      "titre": "Comment faire une donation ?",
+      "contenu": [
+        "La donation se fait par acte notarié.",
+        "Notaire"
+      ]
+    },
+    {
+      "titre": "Quel est le coût d'une donation ?",
+      "contenu": [
+        "Fiscalité",
+        "Vous devez payer des droits de donation. Toutefois, vous pouvez dans certains cas bénéficier d'une exonération.",
+        "Si votre donation comporte un bien immobilier, vous devez aussi payer des frais de publicité foncière.",
+        "Frais de notaire",
+        "En cas de donation par acte notarié, vous devrez payer des frais de notaire.",
+        "Le montant des émoluments que vous devez payer au notaire sont proportionnels à la valeur en pleine propriété des biens donnés.",
+        "Émoluments pour une donation",
+        "Type de donation",
+        "Valeur du bien",
+        "Tranches d'assiette",
+        "Coût",
+        "Donation de biens immatériels, sommes d'argent",
+        "De 0 € à 6 500 €",
+        "2,322 % HT, soit 2,786 % TTC de la valeur du bien",
+        "De 6 500 € à 17 000 €",
+        "0,958 % HT, soit 1,149 % TTC de la valeur du bien",
+        "De 17 000 € à 60 000 €",
+        "0,639 % HT, soit 0,767 % TTC de la valeur du bien",
+        "Plus de 60 000 €",
+        "0,479 % HT, soit 0,575 % TTC de la valeur du bien",
+        "Autres donations",
+        "De 0 € à 6 500 €",
+        "4,837 % HT, soit 5,804 % TTC de la valeur du bien",
+        "De 6 500 € à 17 000 €",
+        "1,995 % HT, soit 2,394 % TTC de la valeur du bien",
+        "De 17 000 € à 60 000 €",
+        "1,330 % HT, soit 1,596 % TTC de la valeur du bien",
+        "Plus de 60 000 €",
+        "0,998 % HT, soit 1,1976 % TTC de la valeur du bien"
+      ]
+    },
+    {
+      "titre": "Quels sont les effets d'une donation ?",
+      "contenu": [
+        "La donation a pour effet de transférer immédiatement la propriété des biens donnés au donataire.",
+        "La donation est opposable aux tiers."
+      ]
+    },
+    {
+      "titre": "Peut-on annuler une donation ?",
+      "contenu": [
+        "En principe, une donation ne peut pas être révoquée, c'est-à-dire annulée. Toutefois, il existe des exceptions.",
+        "Vice de forme",
+        "Si la donation n'a pas été expressément acceptée ou si elle n'a pas été faite devant un notaire, elle peut être annulée.",
+        "L'annulation peut être demandée par toute personne intéressée par la donation : le donateur, le donataire, un héritier ou un créancier.",
+        "Vous pouvez demander l'annulation en justice dans un délai de 5 ans à partir du jour où la donation a été faite.",
+        "Tribunal judiciaire ou tribunal de proximité",
+        "Après le déroulement d'un fait",
+        "Vous pouvez demander l'annulation de votre donation dans 3 cas.",
+        "Inexécution des obligations prévues dans la donation",
+        "Une donation peut obliger le donataire à accomplir certaines charges.",
+        "[Exemple] le donataire peut être obligé de loger, nourrir, donner des soins au donateur.",
+        "Si le donataire n'exécute pas ses obligations, vous pourrez demander l'annulation de votre donation par assignation en justice.",
+        "Tribunal judiciaire ou tribunal de proximité",
+        "Vous devez demander l'annulation dans un délai de 5 ans à partir du jour où le donataire a arrêté d'accomplir ses charges.",
+        "Les juges déterminent si les faits reprochés sont suffisamment graves pour autoriser l'annulation de la donation.",
+        "Ingratitude",
+        "Vous pouvez demander l'annulation pour ingratitude si le donataire est dans l'un des cas suivants :",
+        "• Il a tenté de vous tuer",
+        "• Il a commis des délits, injures ou sévices graves à votre encontre",
+        "• Il a refusé de vous fournir un secours alimentaire, c'est-à-dire une aide financière ou en nature pour vous permettre de survivre.",
+        "Les faits doivent avoir été commis après la donation.",
+        "Vous devez demander l'annulation par assignation en justice.",
+        "Tribunal judiciaire ou tribunal de proximité",
+        "Vous devez demander l'annulation dans un délai d'1 an à partir du jour où vous avez connaissance des faits.",
+        "Les juges déterminent si les faits reprochés sont suffisamment graves pour autoriser l'annulation de la donation.",
+        "Naissance ou adoption plénière d'un enfant",
+        "Sauf dans le cas d'une donation entre époux, vous pouvez demander l'annulation d'une donation faite au moment où vous n'aviez pas d'enfant. Pour cela, vous devez l'avoir prévu dans l'acte de donation.",
+        "Vous devez demander l'annulation par assignation en justice dans un délai de 5 ans à partir de la naissance ou de l'adoption plénière.",
+        "Tribunal judiciaire ou tribunal de proximité",
+        "Donation au dernier vivant",
+        "Vous pouvez annuler à tout moment une donation au dernier vivant, sauf si elle a été faite par contrat de mariage.",
+        "L'annulation peut être réalisée devant le notaire ou par testament.",
+        "La donation au dernier vivant est automatiquement annulée en cas de divorce, y compris lorsqu'elle a été faite par contrat de mariage.",
+        "[À savoir] vous pouvez annuler une donation au dernier vivant sans que votre époux en soit informé."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : articles 893 à 900-8",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006136539"
+    },
+    {
+      "titre": "Code civil : articles 901 à 911",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006136540/"
+    },
+    {
+      "titre": "Code civil : articles 931 à 952",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006433777"
+    },
+    {
+      "titre": "Code civil : articles 953 à 966",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006150546"
+    },
+    {
+      "titre": "Bofip-impôts n°BOI-ENR-DMTG-20-10-20-10 relatif aux droits de donation en cas de donation non réalisée par acte (don manuel, présent d'usage)",
+      "url": "http://bofip.impots.gouv.fr/bofip/2694-PGP.html"
+    },
+    {
+      "titre": "Code de commerce : articles A444-59 à A444-69-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032132076"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Service en charge des impôts (trésorerie, service des impôts...)",
+    "Notaire",
+    "Chambre départementale des notaires"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Portail des services en ligne des notaires de France",
+      "url": "https://notaires.fr/"
+    },
+    {
+      "titre": "Donation par acte notarié",
+      "url": "https://www.impots.gouv.fr/particulier/donations-par-acte-notarie"
+    }
+  ],
+  "slug": "faire-une-donation",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "preparer-sa-succession-donation",
+      "titre": "Préparer sa succession : donation"
+    }
+  ]
+}

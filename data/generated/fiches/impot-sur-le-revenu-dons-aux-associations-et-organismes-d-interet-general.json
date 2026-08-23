@@ -1,0 +1,117 @@
+{
+  "id": "F426",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Impôt sur le revenu - Dons aux associations et organismes d'intérêt général",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Vous bénéficiez d'une réduction d'impôt sur le revenu en faisant un don ou en versant une cotisation aux associations ou organismes d'intérêt général.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-15",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F426",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Impôt sur le revenu : déductions, réductions et crédits d'impôt",
+    "Impôt sur le revenu - Dons aux associations et organismes d'intérêt général"
+  ],
+  "introduction": "Vous avez fait un don à une association ou un organisme d'intérêt général ? Dans ce cas, vous bénéficiez d'une réduction d'impôt. Elle dépend de la somme versée et de l'association gratifiée. Nous vous indiquons les informations à connaître pour les dons effectués en 2025 et en 2026.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code général des impôts : article 200",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000006191957"
+    },
+    {
+      "titre": "Code du travail : article L3142-131",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049420721"
+    },
+    {
+      "titre": "Code du travail : article D3142-82",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000051224938/"
+    },
+    {
+      "titre": "Loi n° 2025-127 du 14 février 2025 de finances pour 2025",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000051168007/"
+    },
+    {
+      "titre": "Loi n° 2025-176 du 24 février 2025 d'urgence pour Mayotte",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051244562"
+    },
+    {
+      "titre": "Loi n° 2026-103 du 19 février 2026 de finances pour 2026",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053508155"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-IR-RICI-250 relatif aux réductions et crédits d'impôt accordés au titre des dons faits par les particuliers",
+      "url": "https://bofip.impots.gouv.fr/bofip/5823-PGP.html"
+    },
+    {
+      "titre": "Bofip - Impôts n° BOI-IR-RICI-250-20 relatif aux dons faits aux associations et aux frais engagés par les bénévoles ouvrant droit à réduction d'impôts",
+      "url": "http://bofip.impots.gouv.fr/bofip/5868-PGP.html"
+    },
+    {
+      "titre": "Bofip-Impôts n°BOI-IR-RICI-250-30 relatif aux modalités d’application de la réduction d’impôt accordé au titre des dons faits par les particuliers",
+      "url": "https://bofip.impots.gouv.fr/bofip/5873-PGP.html"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Reçu des dons et versements effectués par un particulier à un organisme d'intérêt général",
+      "url": "https://www.impots.gouv.fr/formulaire/2041-rd/recu-des-dons-et-versements-effectues-par-les-particuliers-au-titre-des-articles",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Déclaration 2026 des revenus 2025 (papier)",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/2042/declaration-des-revenus",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Déclaration 2026 des revenus 2025 - Réductions d'impôt et crédits d'impôt",
+      "url": "https://www.impots.gouv.fr/portail/formulaire/2042/declaration-des-revenus",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Déclarer vos revenus en ligne",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Impôts : accéder à votre espace Finances publiques",
+      "url": "https://cfspart.impots.gouv.fr/LoginMDP",
+      "type": "selNG"
+    },
+    {
+      "titre": "Estimer le montant de son impôt sur les revenus de 2025 (déclaration de 2026)",
+      "url": "https://simulateur-ir-ifi.impots.gouv.fr/calcul_impot/2026/",
+      "type": "simulateurNG"
+    }
+  ],
+  "contacts": [
+    "Service d'information des impôts",
+    "Service en charge des impôts (trésorerie, service des impôts...)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "J'ai fait des dons à une association. Que puis-je déduire ?",
+      "url": "https://www.impots.gouv.fr/portail/particulier/questions/jai-fait-des-dons-une-association-que-puis-je-deduire"
+    },
+    {
+      "titre": "J'ai déclaré des réductions et crédits d'impôt, suis-je concerné par le versement de l'avance de 60 % en janvier ?",
+      "url": "https://www.impots.gouv.fr/particulier/questions/jai-declare-des-reductions-et-credits-dimpot-suis-je-concerne-par-le"
+    },
+    {
+      "titre": "Brochure pratique 2026 - Déclaration des revenus de 2025",
+      "url": "https://www.impots.gouv.fr/www2/fichiers/documentation/brochure/ir_2026/accueil.htm"
+    }
+  ],
+  "slug": "impot-sur-le-revenu-dons-aux-associations-et-organismes-d-interet-general",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "impot-sur-le-revenu-deductions-reductions-et-credits-d-impot",
+      "titre": "Impôt sur le revenu : déductions, réductions et crédits d'impôt"
+    }
+  ]
+}

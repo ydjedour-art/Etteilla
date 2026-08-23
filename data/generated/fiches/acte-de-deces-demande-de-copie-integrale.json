@@ -1,0 +1,73 @@
+{
+  "id": "F1444",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Acte de décès : demande de copie intégrale",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "La demande d'un acte de décès est gratuite et peut se faire sur internet, que vous résidiez en France ou à l'étranger.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-08-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1444",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Actes d'état civil",
+    "Acte de décès : demande de copie intégrale"
+  ],
+  "introduction": "Vous souhaitez demander un acte de décès et vous voulez savoir comment faire ? Les démarches pour l'obtenir dépendent du lieu du décès : en France ou à l'étranger. Dans tous les cas, la demande est gratuite. Nous vous présentons la démarche.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code civil : article 79",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024025785/"
+    },
+    {
+      "titre": "Ordonnance n°2019-724 du 10 juillet 2019 relative à l'expérimentation de la dématérialisation des actes de l'état civil établis par le ministère des affaires étrangères",
+      "url": "https://www.legifrance.gouv.fr/dossierlegislatif/JORFDOLE000038748352/"
+    },
+    {
+      "titre": "Décret n°2017-890 du 6 mai 2017 relatif à l'état civil",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000034708016/"
+    },
+    {
+      "titre": "Décret n°2019-993 du 26 septembre 2019 relatif à l'expérimentation de la dématérialisation des actes de l'état civil établis par le ministère des affaires étrangères",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000039145874"
+    },
+    {
+      "titre": "Circulaire du 23 juillet 2014 relative à l'état civil",
+      "url": "https://www.legifrance.gouv.fr/circulaire/id/38565"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demande d'acte de décès (survenu en France) - Service gratuit",
+      "url": "https://demarches.service-public.gouv.fr/mademarche/EtatCivil/demarche?action=DECES",
+      "type": "selNG"
+    },
+    {
+      "titre": "Demande d'acte de décès (survenu à l’étranger) - Service gratuit",
+      "url": "https://demarches.service-public.gouv.fr/mademarche/delivrance_demat/demarche?action=DECES",
+      "type": "selNG"
+    },
+    {
+      "titre": "Demande de rectification d'une erreur ou d'une omission matérielle contenue dans un acte de l'état civil",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/11531",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Mairie",
+    "Service central d'état civil (Scec)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "acte-de-deces-demande-de-copie-integrale",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "actes-d-etat-civil",
+      "titre": "Actes d'état civil"
+    }
+  ]
+}

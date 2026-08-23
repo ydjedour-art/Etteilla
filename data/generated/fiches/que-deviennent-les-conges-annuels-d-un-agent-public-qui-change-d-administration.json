@@ -1,0 +1,46 @@
+{
+  "id": "F31433",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Que deviennent les congés annuels d'un agent public qui change d'administration ?",
+  "theme": "Travail - Formation",
+  "description": "Si vous changez d’administration employeur, les conditions dans lesquelles vous pouvez bénéficier de vos congés annuels varient selon votre statut.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-10-24",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31433",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Congés dans la fonction publique",
+    "Que deviennent les congés annuels d'un agent public qui change d'administration ?"
+  ],
+  "introduction": "Si vous êtes fonctionnaire ou contractuel en CDI et vous changez d’administration employeur, les conditions dans lesquelles vous pouvez bénéficier de vos congés annuels varient selon votre statut.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Décret n°84-972 du 26 octobre 1984 relatif aux congés annuels dans la FPE",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006064656/"
+    },
+    {
+      "titre": "Décret n°85-1250 du 26 novembre 1985 relatif aux congés annuels dans la FPT",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006064760/"
+    },
+    {
+      "titre": "Décret n°2002-8 du 4 janvier 2002 relatif aux congés annuels dans la FPH",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000398297/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "que-deviennent-les-conges-annuels-d-un-agent-public-qui-change-d-administration",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "conges-dans-la-fonction-publique",
+      "titre": "Congés dans la fonction publique"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "F16542",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Qu'est-ce que le certificat provisoire d'immatriculation (CPI) ?",
+  "theme": "Transports - Mobilité",
+  "description": "Un certificat provisoire d’immatriculation (CPI) peut être délivré dans l’attente de recevoir le certificat d'immatriculation (ex-carte grise) définitif.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-01-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F16542",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Carte grise (certificat d'immatriculation)",
+    "Qu'est-ce que le certificat provisoire d'immatriculation (CPI) ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Le certificat provisoire d'immatriculation (CPI) est un document provisoire délivré par l'ANTS permettant de circuler en France en attendant de recevoir le certificat d'immatriculation définitif (auparavant appelé carte grise).",
+        "Un CPI WW peut vous être délivré si votre véhicule était précédemment immatriculé à l'étranger ou s'il est destiné à l'exportation.",
+        "CPI",
+        "Si vous effectuez sur internet votre demande d'immatriculation, le téléservice de l'ANTS met à votre disposition un certificat provisoire d'immatriculation (CPI). Vous devez le télécharger et l'imprimer.",
+        "Si vous faites appel à un professionnel habilité, il vous remet le CPI en version papier immédiatement.",
+        "Le numéro d'immatriculation du véhicule indiqué sur le CPI est le numéro définitif du véhicule. Il autorise la pose immédiate des plaques d'immatriculation.",
+        "Le CPI vous permet de circuler en France uniquement pendant 1 mois en attendant de recevoir le certificat d'immatriculation définitif (anciennement appelé carte grise).",
+        "Il est possible de vendre ou de donner son véhicule avec le CPI. Le vendeur doit alors remettre à l'acheteur, en plus du certificat de cession, le CPI sur lequel il indique la mention Vendu le (jour/mois/année) ou Cédé le (jour/mois/année), accompagné de sa signature.",
+        "Mais attention, l'acheteur ne pourra circuler avec le CPI qu'à titre provisoire pendant une durée d'1 mois à compter de la date de la cession du véhicule. L'acheteur ne pourra pas immatriculer à nouveau ce véhicule avec le CPI : il devra obligatoirement attendre le certificat d'immatriculation définitif remis par le vendeur pour demander une nouvelle immatriculation.",
+        "[À savoir] Pour un véhicule de location courte durée, la durée du CPI est portée à 8 mois. Pour une immatriculation diplomatique, sa durée est de 3 mois.",
+        "CPI WW",
+        "Un CPI WW est délivré pour permettre la circulation de certains véhicules en France et à l'étranger. Toutefois, la validité d'un CPI WW français reste soumise à l'accord de l'État dans lequel vous allez circuler.",
+        "Il est notamment délivré dans les cas suivants :",
+        "• Véhicules achetés neufs ou d'occasion à l'étranger dont le dossier est en cours d'examen ou dont les documents à joindre ne sont pas encore disponibles :Justificatif de conformitéJustificatif de visite ou contrôle techniqueJustificatif fiscal",
+        "• Véhicules neufs ou d'occasion destinés à l'exportation",
+        "• Véhicules neufs vendus complétés ou incomplets aux fins de carrossage.",
+        "Un CPI WW standard a une durée de validité de 4 mois.",
+        "Un CPI WW d'un véhicule neuf vendu incomplet aux fins de carrossage ou d'une machine agricole automotrice a une durée de validité de 6 mois.",
+        "[À noter] Le numéro d’immatriculation est reproduit sur chaque plaque d’immatriculation en caractères noirs sur fond rose. Pour les immatriculations en WW, la plaque comporte la date de fin de validité du certificat provisoire d’immatriculation WW"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la route : articles R322-1 à R322-14",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074228/LEGISCTA000006177098"
+    },
+    {
+      "titre": "Arrêté du 9 février 2009 relatif aux démarches d'immatriculation des véhicules",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000020237165"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Suivre la demande de certificat d’immatriculation",
+      "url": "https://moncompte.ants.gouv.fr/connexion",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "34 00 - Informations sur le certificat d’immatriculation ou le permis de conduire"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Le certificat provisoire d'immatriculation",
+      "url": "https://ants.gouv.fr/nos-missions/les-titres-produits-par-l-ants/le-certificat-d-immatriculation"
+    },
+    {
+      "titre": "Circulation à l'étranger des véhicules en immatriculation provisoire WW",
+      "url": "https://immatriculation.ants.gouv.fr/tout-savoir/numero-logo-et-plaque"
+    }
+  ],
+  "slug": "qu-est-ce-que-le-certificat-provisoire-d-immatriculation-cpi",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "carte-grise-certificat-d-immatriculation",
+      "titre": "Carte grise (certificat d'immatriculation)"
+    }
+  ]
+}

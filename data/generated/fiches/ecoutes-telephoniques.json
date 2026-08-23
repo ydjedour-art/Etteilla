@@ -1,0 +1,84 @@
+{
+  "id": "F2515",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Écoutes téléphoniques",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Les écoutes téléphoniques sont des techniques permettant de capter et d’enregistrer des échanges à distance",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-03-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2515",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Mesures contraignantes de l'administration",
+    "Écoutes téléphoniques"
+  ],
+  "introduction": "Dans quelles situations des conversations téléphoniques peuvent être écoutées ? Les écoutes téléphoniques sont souvent mises en place dans le cadre d’une procédure judiciaire, mais elles peuvent aussi être décidées par l’administration. Ces écoutes permettent de capter et d’enregistrer des échanges à distance. Si elles sont décidées de manière illégale, la personne écoutée peut faire un recours. Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de procédure pénale : articles 79 à 84-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000006167421"
+    },
+    {
+      "titre": "Code de procédure pénale : article 74-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047052850"
+    },
+    {
+      "titre": "Code de procédure pénale : articles 100 à 100-8",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032655289"
+    },
+    {
+      "titre": "Code de procédure pénale : articles 706-95 à 706-95-3",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000038311673"
+    },
+    {
+      "titre": "Code de procédure pénale : articles 706-73 à 706-74",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000006138138/#LEGISCTA000038311675"
+    },
+    {
+      "titre": "Code de la sécurité intérieure : articles L811-1 à L811-4",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000030935034"
+    },
+    {
+      "titre": "Code de la sécurité intérieure : articles L821-1 à L822-8",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000025503132/LEGISCTA000030935046"
+    },
+    {
+      "titre": "Code de la sécurité intérieure : articles L822-1 à L822-4",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000030935064"
+    },
+    {
+      "titre": "Code de la sécurité intérieure : articles L831-1 à L831-2",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000025503132/LEGISCTA000030935076"
+    },
+    {
+      "titre": "Code de la sécurité intérieure : articles L833-1 à L833-11",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000030935094"
+    },
+    {
+      "titre": "Code de la sécurité intérieure : articles L852-1 à L852-2",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000025503132/LEGISCTA000030935846"
+    },
+    {
+      "titre": "Code de justice administrative : articles L773-1 à L773-8",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000030939577"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Maison de justice et du droit"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "ecoutes-telephoniques",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "mesures-contraignantes-de-l-administration",
+      "titre": "Mesures contraignantes de l'administration"
+    }
+  ]
+}

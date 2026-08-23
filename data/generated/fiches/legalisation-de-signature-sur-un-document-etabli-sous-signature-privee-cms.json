@@ -1,0 +1,87 @@
+{
+  "id": "F1411",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Légalisation de signature sur un document établi sous signature privée (CMS)",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "La légalisation de signature, ou certification matérielle de signature, atteste la véracité de la signature sur un acte sous signature privée.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-10-28",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1411",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Certificat, copie, légalisation et conservation de documents",
+    "Légalisation de signature sur un document établi sous signature privée (CMS)"
+  ],
+  "introduction": "Vous devez faire légaliser votre signature et vous vous demandez à qui vous devez vous adresser ? Nous vous indiquons les informations à connaître sur la légalisation de signature, dite aussi certification matérielle de signature (CMS).",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les démarches à faire varient selon que vous vivez en France ou à l'étranger."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général des collectivités territoriales : articles L2122-27 à L2122-34-2",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070633/LEGISCTA000006192257"
+    },
+    {
+      "titre": "Code général des collectivités territoriales : articles R2122-7 à R2122-9",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070633/LEGISCTA000006192648"
+    },
+    {
+      "titre": "Code des relations entre le public et l'administration : articles R113-5 à R113-9",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000031366350/LEGISCTA000031370017/"
+    },
+    {
+      "titre": "Décret n° 2020-1368 du 10 novembre 2020 relatif aux attributions des ambassadeurs et des chefs de poste consulaire en matière de certification matérielle de signature sur les actes sous seing privé",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000042515582"
+    },
+    {
+      "titre": "Décret n°81-778 du 13 août 1981 fixant le tarif des droits à percevoir dans les chancelleries diplomatiques et consulaires et, en France, par le ministère des relations extérieures",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000335104/"
+    },
+    {
+      "titre": "Code du commerce : annexe 4-7",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047630535"
+    },
+    {
+      "titre": "Arrêt du Conseil d'Etat du 3 mai 2002, n°230777, inédit au recueil Lebon",
+      "url": "https://www.legifrance.gouv.fr/ceta/id/CETATEXT000008098924"
+    },
+    {
+      "titre": "Arrêté du 27 novembre 2020 relatif à la certification matérielle de signature sur les actes sous seing privé par les ambassadeurs et des chefs de poste consulaire",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000042687973"
+    },
+    {
+      "titre": "Réponse ministérielle du 23 septembre 2014 relative à la procédure de la légalisation de signature",
+      "url": "http://questions.assemblee-nationale.fr/q14/14-56876QE.htm"
+    },
+    {
+      "titre": "Réponse ministérielle du 5 juin 2014 relative aux conditions d'obtention d'une légalisation de signature",
+      "url": "https://www.senat.fr/questions/base/2014/qSEQ140310985.html"
+    },
+    {
+      "titre": "Réponse ministérielle du 6 octobre 2020 relative à la légalisation par le maire de la signature d'une personne ne résidant pas dans sa commune",
+      "url": "http://questions.assemblee-nationale.fr/q15/15-30486QE.htm"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Maison de justice et du droit"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "legalisation-de-signature-sur-un-document-etabli-sous-signature-privee-cms",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "certificat-copie-legalisation-et-conservation-de-documents",
+      "titre": "Certificat, copie, légalisation et conservation de documents"
+    }
+  ]
+}

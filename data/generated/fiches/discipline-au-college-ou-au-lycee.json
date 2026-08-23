@@ -1,0 +1,77 @@
+{
+  "id": "F1396",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Discipline au collège ou au lycée",
+  "theme": "Famille - Scolarité",
+  "description": "Le chef d'établissement ou le conseil de discipline prononce une sanction disciplinaire à l'encontre d'un élève qui a commis un acte grave.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-10-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1396",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Collège et lycée",
+    "Discipline au collège ou au lycée"
+  ],
+  "introduction": "Votre enfant est victime ou auteur de violences ou d'un acte grave dans son collège ou lycée ? Le chef d'établissement engage alors une procédure disciplinaire et peut décider lui-même de sanctionner l'élève. Dans certains cas, il doit saisir obligatoirement le conseil de discipline de l'établissement. En cas d'atteinte grave aux personnes ou aux biens, aux valeurs de la République et notamment au principe de laïcité, il peut saisir le conseil de discipline départemental. Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de l'éducation : articles R511-20 à R511-24",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000020743408"
+    },
+    {
+      "titre": "Code de l'éducation : articles D511-25 à R511-29",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000020743396"
+    },
+    {
+      "titre": "Code de l'éducation : articles D511-30 à D511-43",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000025164936/2012-02-01/"
+    },
+    {
+      "titre": "Code de l'éducation : articles D511-44 à D511-46",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071191/LEGISCTA000020663138/"
+    },
+    {
+      "titre": "Code de l'éducation : articles R511-49 à D511-58",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000020743339/2009-05-21"
+    },
+    {
+      "titre": "Circulaire n°2014-059 du 27 mai 2014 relative à l'application de la règle, mesures de prévention et sanctions dans les établissements scolaires",
+      "url": "https://www.education.gouv.fr/bo/14/Hebdo22/MENE1406107C.htm"
+    },
+    {
+      "titre": "Circulaire n°2011-112 du 1er août 2011 relative au règlement intérieur des établissements d'enseignement",
+      "url": "http://www.education.gouv.fr/pid25535/bulletin_officiel.html?cid_bo=57068"
+    },
+    {
+      "titre": "Arrêté du 30 novembre 2011 fixant les clauses types de la convention prévue à l'article R. 511-13 du code de l'éducation",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000024937545/"
+    },
+    {
+      "titre": "Circulaire n°2018-098 du 20 août 2018 relative à la composition et au fonctionnement des instances de la vie lycéenne",
+      "url": "http://www.education.gouv.fr/pid285/bulletin_officiel.html?cid_bo=133102"
+    },
+    {
+      "titre": "Arrêté du 10 août 2026 fixant les clauses types de la convention conclue dans le cadre de la mise en œuvre d'une mesure de responsabilisation",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054673197"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Direction des services départementaux de l'Éducation nationale",
+    "Établissement scolaire"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "discipline-au-college-ou-au-lycee",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "college-et-lycee",
+      "titre": "Collège et lycée"
+    }
+  ]
+}

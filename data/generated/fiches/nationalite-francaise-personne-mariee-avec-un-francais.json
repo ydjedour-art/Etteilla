@@ -1,0 +1,33 @@
+{
+  "id": "F35500",
+  "type_publication": "Recherche guidée",
+  "titre": "Nationalité Française personne mariée avec un Français",
+  "theme": "Étranger - Europe",
+  "description": "Nationalité Française personne mariée avec un Français",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2020-11-20",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35500",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Nationalité française",
+    "Nationalité Française personne mariée avec un Français"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "nationalite-francaise-personne-mariee-avec-un-francais",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "nationalite-francaise",
+      "titre": "Nationalité française"
+    }
+  ]
+}

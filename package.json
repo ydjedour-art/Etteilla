@@ -1,8 +1,8 @@
 {
-  "name": "serenio",
+  "name": "izy-d",
   "version": "0.1.0",
   "private": true,
-  "description": "Sérénio — l'assistant administratif qui prend en charge ou pilote vos démarches avec l'administration française. Prototype UX (données simulées).",
+  "description": "IZY/D — l'assistant administratif qui prend en charge ou pilote vos démarches avec l'administration française. Prototype UX (données simulées).",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -11,9 +11,11 @@
     "kb:extract": "tsx knowledge-base/pipeline/extract.ts",
     "kb:validate": "tsx knowledge-base/pipeline/validate.ts",
     "kb:refresh-check": "tsx knowledge-base/pipeline/refresh-check.ts",
-    "kb:build-embeddings": "tsx knowledge-base/pipeline/build-embeddings.ts"
+    "kb:build-embeddings": "tsx knowledge-base/pipeline/build-embeddings.ts",
+    "build:arbo": "tsx scripts/build-arborescence.ts"
   },
   "dependencies": {
+    "canvas-confetti": "^1.9.4",
     "cheerio": "^1.2.0",
     "next": "^14.2.5",
     "react": "^18.3.1",
@@ -21,6 +23,7 @@
     "zod": "^4.4.3"
   },
   "devDependencies": {
+    "@types/canvas-confetti": "^1.9.0",
     "@types/node": "^20.14.10",
     "@types/react": "^18.3.3",
     "@types/react-dom": "^18.3.0",

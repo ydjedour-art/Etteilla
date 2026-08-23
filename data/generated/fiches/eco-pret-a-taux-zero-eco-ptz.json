@@ -1,0 +1,189 @@
+{
+  "id": "F19905",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Éco-prêt à taux zéro (éco-PTZ)",
+  "theme": "Logement",
+  "description": "L'éco-PTZ est un prêt sans intérêt qui permet de réaliser des travaux de rénovation énergétique dans son logement.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-05-29",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F19905",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Aides et prêts pour l'amélioration et la rénovation énergétique de l'habitat",
+    "Éco-prêt à taux zéro (éco-PTZ)"
+  ],
+  "introduction": "Vous souhaitez faire des travaux de rénovation énergétique dans votre logement ? Vous pouvez obtenir un prêt sans intérêts appelé éco-PTZ. Nous vous indiquons les conditions et la démarche à suivre pour pouvoir en bénéficier.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Il existe 3 grandes catégories de travaux concernées par l'éco-PTZ :",
+        "• Les travaux de rénovation ponctuelle permettant à votre logement d'améliorer sa performance énergétique (par exemple, isolation de votre toiture, changement de fenêtres et/ou de chauffage)",
+        "• Les travaux de rénovation globale permettant à votre logement d'atteindre une performance énergétique minimale",
+        "• Les travaux de réhabilitation de votre installation d'assainissement non collectif par un dispositif ne consommant pas d'énergie.",
+        "[À noter] Il est possible de cumuler l'éco-PTZ et MaPrimeRénov' pour financer le reste à charge de vos travaux ayant ouvert droit à MaPrimeRénov'. Par ailleurs, il existe également un éco-PTZ Copropriété pour financer les travaux de rénovation énergétique portant sur les parties et équipements communs ou sur les parties privatives en cas de travaux d'intérêt collectif.",
+        "Pour définir les travaux les plus utiles et les plus rentables, il est recommandé de faire appel à un conseiller spécialisé en rénovation de l'habitat :",
+        "Conseillers spécialisés en travaux de rénovation de l'habitat (France Rénov')",
+        "Permet de se faire accompagner gratuitement dans ses travaux de rénovation par des conseillers de France Rénov'.",
+        "Par téléphone",
+        "0 808 800 700",
+        "Ouvert du lundi au vendredi de 9h à 18h. Vous devez avoir votre dernier avis d'imposition.",
+        "Service gratuit + coût d'un appel",
+        "Ce service est gratuit."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la construction et de l'habitation : articles D319-1 à D319-58",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000020460912/#LEGISCTA000020463634"
+    },
+    {
+      "titre": "Code général des impôts : article 244 quater U",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051202287/"
+    },
+    {
+      "titre": "Arrêté du 29 juin 2020 relatif aux modalités d'allongement du délai de réalisation des travaux dans le cadre d'un prêt réglementé",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGIARTI000050745443"
+    },
+    {
+      "titre": "Arrêté du 30 mars 2009 relatif aux avances remboursables sans intérêt destinées au financement de travaux de rénovation",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000020459597/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Estimer ses droits aux aides à la rénovation énergétique",
+      "url": "https://mesaides.france-renov.gouv.fr/",
+      "type": "simulateurNG"
+    },
+    {
+      "titre": "Calculette Ma plus-value Réno",
+      "url": "https://mesaidesreno.beta.gouv.fr/module/plus-value",
+      "type": "Simulateur"
+    },
+    {
+      "titre": "Éco-PTZ individuel : formulaire papier Emprunteur tous travaux éligibles",
+      "url": "https://www.ecologie.gouv.fr/sites/default/files/documents/Annexe%201.1%20métropole%20DOM_Emprunteur%20individuel_2025_papier.pdf",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Éco-PTZ individuel : formulaire remplissable en ligne Emprunteur tous travaux éligibles",
+      "url": "https://www.ecologie.gouv.fr/sites/default/files/documents/Annexe%201.1%20métropole%20DOM_Emprunteur%20individuel_2025_dynamique.pdf",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Éco-PTZ individuel et copropriété : formulaire papier Entreprise réalisation d'une ou plusieurs actions de rénovation énergétique (métropole)",
+      "url": "https://www.ecologie.gouv.fr/sites/default/files/documents/Annexe%202.1%20métropole_Entreprises%20action%20individuel%20et%20copro.pdf",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Éco-PTZ individuel et copropriété : formulaire remplissable en ligne Entreprise réalisation d'une ou plusieurs actions de rénovation énergétique (métropole)",
+      "url": "https://www.ecologie.gouv.fr/sites/default/files/documents/Annexe%202.1%20métropole_Entreprises%20action%20individuel%20et%20copro_dynamique.pdf",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Éco-PTZ individuel et copropriété : formulaire papier Entreprise réalisation d'une ou plusieurs actions de rénovation énergétique (Dom)",
+      "url": "https://www.ecologie.gouv.fr/sites/default/files/documents/Annexe%202.2%20DOM_Entreprises%20action%20individuel%20et%20copro_2025_papier.pdf",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Éco-PTZ individuel et copropriété : formulaire remplissable en ligne Entreprise réalisation d'une ou plusieurs actions de rénovation énergétique (Dom)",
+      "url": "https://www.ecologie.gouv.fr/sites/default/files/documents/Annexe%202.2%20DOM_Entreprises%20action%20individuel%20et%20copro_2025_dynamique.pdf",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Éco-PTZ individuel et copropriété : formulaire papier Entreprise Performance globale (métropole)",
+      "url": "https://www.ecologie.gouv.fr/sites/default/files/documents/Annexe%203.1_Entreprises%20PEG%20individuel%20et%20copro_papier.pdf",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Éco-PTZ individuel et copropriété : formulaire remplissable en ligne Entreprise Performance globale (métropole)",
+      "url": "https://www.ecologie.gouv.fr/sites/default/files/documents/Annexe%203.1_Entreprises%20PEG%20individuel%20et%20copro_dynamique_0.pdf",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Éco-PTZ individuel et copropriété : formulaire papier Entreprise Performance globale (Dom)",
+      "url": "https://www.ecologie.gouv.fr/sites/default/files/documents/Annexe%203.2%20DOM_Entreprises%20PEG%20individuel%20et%20copro_papier.pdf",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Éco-PTZ individuel et copropriété : formulaire remplissable en ligne Entreprise Performance globale (Dom)",
+      "url": "https://www.ecologie.gouv.fr/sites/default/files/documents/Annexe%203.2%20DOM_Entreprises%20PEG%20individuel%20et%20copro_dynamique_0.pdf",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Éco-PTZ individuel et copropriété : formulaire papier Entreprise Assainissement",
+      "url": "https://www.ecologie.gouv.fr/sites/default/files/documents/Annexe%204%20métro-DOM_Entreprises%20assainissement%20individuel%20et%20copro_papier.pdf",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Éco-PTZ individuel et copropriété : formulaire remplissable en ligne Entreprise Assainissement",
+      "url": "https://www.ecologie.gouv.fr/sites/default/files/documents/Annexe%204%20métro-DOM_Entreprises%20assainissement%20individuel%20et%20copro_dynamique.pdf",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Modèle d’attestation version papier pour le couplage accession à la propriété/éco-PTZ",
+      "url": "https://www.ecologie.gouv.fr/sites/default/files/documents/Annexe%205_Attestation%20%C3%A9co-PTZ%20accession_papier.pdf",
+      "type": "Modèle de document"
+    },
+    {
+      "titre": "Modèle d’attestation version remplissable en ligne pour le couplage accession à la propriété/éco-PTZ",
+      "url": "https://www.ecologie.gouv.fr/sites/default/files/documents/Annexe%205_Attestation%20%C3%A9co-PTZ%20accession_dynamique.pdf",
+      "type": "Modèle de document"
+    }
+  ],
+  "contacts": [
+    "Conseillers spécialisés en travaux de rénovation de l'habitat (France Rénov')"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "France Rénov' : le service public vous guide dans vos travaux de rénovation énergétique",
+      "url": "https://france-renov.gouv.fr/"
+    },
+    {
+      "titre": "Dossier éco-prêt à taux zéro",
+      "url": "https://www.ecologie.gouv.fr/eco-pret-taux-zero-eco-ptz"
+    },
+    {
+      "titre": "Qualifications requises pour les auditeurs d'études énergétiques",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000036964133/"
+    },
+    {
+      "titre": "Liste des établissements de crédit affiliés",
+      "url": "https://www.fgas.fr/web/site-public/etablissements-affilies"
+    },
+    {
+      "titre": "Caractéristiques techniques des travaux de rénovation énergétique (Isolation...)",
+      "url": "https://www.ecologie.gouv.fr/sites/default/files/Cat%C3%A9gorie%20de%20travaux%20%C3%A9ligibles%20Eco-PTZ%20DOM%20-%202.pdf"
+    },
+    {
+      "titre": "Caractéristiques techniques des travaux performance globale",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043047658/"
+    },
+    {
+      "titre": "Prescriptions techniques applicables à certaines installations d'assainissement non collectif",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000021125886/"
+    },
+    {
+      "titre": "Allongement du délai pour réaliser les travaux",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGIARTI000050745443"
+    },
+    {
+      "titre": "Eco-prêt à taux zéro Copropriété",
+      "url": "https://www.anil.org/aj-eco-ptz-copropriete-renovation-energetique/"
+    }
+  ],
+  "slug": "eco-pret-a-taux-zero-eco-ptz",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "aides-et-prets-pour-l-amelioration-et-la-renovation-energetique-de-l-habitat",
+      "titre": "Aides et prêts pour l'amélioration et la rénovation énergétique de l'habitat"
+    }
+  ]
+}

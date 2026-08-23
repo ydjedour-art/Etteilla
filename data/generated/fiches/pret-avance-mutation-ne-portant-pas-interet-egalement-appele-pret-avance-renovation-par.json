@@ -1,0 +1,112 @@
+{
+  "id": "F38425",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Prêt avance mutation ne portant pas intérêt (également appelé Prêt avance rénovation - PAR +)",
+  "theme": "Logement",
+  "description": "Le prêt avance mutation ne portant pas intérêt (Prêt avance rénovation PAR +) est un prêt à taux zéro pour réaliser des travaux de rénovation énergétique",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-01-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F38425",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Aides et prêts pour l'amélioration et la rénovation énergétique de l'habitat",
+    "Prêt avance mutation ne portant pas intérêt (également appelé Prêt avance rénovation - PAR +)"
+  ],
+  "introduction": "Vous souhaitez faire des travaux de rénovation énergétique dans votre résidence principale construite depuis plus de 2 ans ? Vous pouvez bénéficier d’un prêt avance mutation à taux zéro (également appelé Prêt avance rénovation PAR +) . Il s’agit d’un prêt hypothécaire accordé par un établissement de crédit, une société de financement ou une société de tiers‑financement ayant signé une convention avec l’État. Ce prêt est garanti par une hypothèque sur la valeur de votre logement et son remboursement est exigible uniquement au moment de la vente du logement ou lors du règlement de votre succession. Pendant les 10 premières années du prêt, l’État prend en charge l'intégralité des intérêts. Au-delà de cette période, des intérêts au taux fixé librement par l'établissement prêteur lors de la signature du contrat s’appliquent. Nous vous indiquons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Trois grandes catégories de travaux peuvent être financées concernées par ce prêt :",
+        "• Les travaux de rénovation ponctuelle permettant à améliorer la performance énergétique du logement (par exemple : isolation de la toiture, remplacement des fenêtres ou du système de chauffage)",
+        "• Les travaux de rénovation globale permettant au logement d'atteindre une performance énergétique minimale",
+        "• Les travaux de réhabilitation d’une installation d'assainissement non collectif par un dispositif ne consommant pas d'énergie."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la consommation : article L315-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048841356"
+    },
+    {
+      "titre": "Code de la construction et de l'habitation : articles D319-1 à D319-58",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000020460912/#LEGISCTA000020463634"
+    },
+    {
+      "titre": "Code général des impôts : article 244 quater T",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049641580"
+    },
+    {
+      "titre": "Arrêté du 29 juin 2020 relatif aux modalités d'allongement du délai de réalisation des travaux dans le cadre d'un prêt réglementé",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGIARTI000050745443"
+    },
+    {
+      "titre": "Décret n°2024-887 du 3 septembre 2024 relatif au prêt avance mutation ne portant pas intérêt destiné au financement de travaux permettant d'améliorer la performance énergétique des logements anciens",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000050174666"
+    },
+    {
+      "titre": "Arrêté du 3 septembre 2024 relatif aux conditions de distribution du prêt avance mutation ne portant pas intérêt destiné au financement de travaux permettant d'améliorer la performance énergétique des logements anciens",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000050174795/"
+    },
+    {
+      "titre": "Arrêté du 30 mars 2009 relatif aux avances remboursables sans intérêt destinées au financement de travaux de rénovation",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000020459597/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Estimer ses droits aux aides à la rénovation énergétique",
+      "url": "https://mesaides.france-renov.gouv.fr/",
+      "type": "simulateurNG"
+    },
+    {
+      "titre": "Pour tous types de rénovation",
+      "url": "https://www.legifrance.gouv.fr/download/pdf?id=4C6syfMtokfa8miexe3UOoAoRRi6pAbnz2YUTOzzZrk=",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Uniquement pour les travaux de rénovation globale",
+      "url": "https://www.legifrance.gouv.fr/download/pdf?id=4C6syfMtokfa8miexe3UOoAoRRi6pAbnz2YUTOzzZrk=",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Pour tous travaux sauf rénovation globale",
+      "url": "https://www.legifrance.gouv.fr/download/pdf?id=4C6syfMtokfa8miexe3UOoAoRRi6pAbnz2YUTOzzZrk=",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Conseillers spécialisés en travaux de rénovation de l'habitat (France Rénov')"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "France Rénov' : le service public vous guide dans vos travaux de rénovation énergétique",
+      "url": "https://france-renov.gouv.fr/"
+    },
+    {
+      "titre": "Caractéristiques techniques des travaux performance globale",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043047658/"
+    },
+    {
+      "titre": "Prescriptions techniques applicables à certaines installations d'assainissement non collectif",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000021125886/"
+    },
+    {
+      "titre": "Allongement du délai pour réaliser les travaux",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGIARTI000050745443"
+    }
+  ],
+  "slug": "pret-avance-mutation-ne-portant-pas-interet-egalement-appele-pret-avance-renovation-par",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "aides-et-prets-pour-l-amelioration-et-la-renovation-energetique-de-l-habitat",
+      "titre": "Aides et prêts pour l'amélioration et la rénovation énergétique de l'habitat"
+    }
+  ]
+}

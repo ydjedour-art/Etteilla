@@ -1,0 +1,65 @@
+{
+  "id": "F17701",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Frais de notaire : de quoi s'agit-il ?",
+  "theme": "Famille - Scolarité",
+  "description": "Les frais de notaire correspondent à l'ensemble des sommes demandées par le notaire en contrepartie d'une prestation qu'il réalise.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-08-05",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F17701",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Testament",
+    "Frais de notaire : de quoi s'agit-il ?"
+  ],
+  "introduction": "Si vous faites appel à un notaire, par exemple pour la vente de votre logement ou le règlement d'une succession, vous devrez le payer pour la prestation réalisée : ce sont les frais de notaire. Voici les informations à connaître sur le sujet. Elles varient selon que vous êtes en métropole ou dans un département ou région d’outre-mer (Drom).",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code du commerce : articles R444-2 à R444-3",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032122792"
+    },
+    {
+      "titre": "Code de commerce : articles L444-1 à L444-7",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000030985092"
+    },
+    {
+      "titre": "Code du commerce : articles R444-59 à R444-70",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032130804"
+    },
+    {
+      "titre": "Code de commerce : articles A444-53 à A444-58",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032132058"
+    },
+    {
+      "titre": "Décret n°2016-230 du 26 février 2016 relatif aux tarifs de certains professionnels du droit",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000032115195/"
+    },
+    {
+      "titre": "Décret n°2020-179 du 28 février 2020 relatif aux tarifs réglementés applicables à certains professionnels du droit",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000041661517/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Notaire"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Le tarif du notaire : émoluments et honoraires",
+      "url": "https://www.notaires.fr/fr/profession-notaire/le-tarif-du-notaire-emoluments-et-honoraires"
+    }
+  ],
+  "slug": "frais-de-notaire-de-quoi-s-agit-il",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "testament",
+      "titre": "Testament"
+    }
+  ]
+}

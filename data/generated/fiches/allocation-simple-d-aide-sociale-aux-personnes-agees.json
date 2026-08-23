@@ -1,0 +1,53 @@
+{
+  "id": "F2572",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Allocation simple d'aide sociale aux personnes âgées",
+  "theme": "Social - Santé",
+  "description": "Si vous ne percevez pas de pension de retraite, ni l'allocation de solidarité aux personnes âgées (Aspa), vous pouvez demander l'allocation simple.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-01-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2572",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Allocations et aides aux personnes âgées",
+    "Allocation simple d'aide sociale aux personnes âgées"
+  ],
+  "introduction": "Vous ne recevez pas de pension de retraite et votre demande d'Aspa a été rejetée ? Vous pouvez demander à bénéficier de l'allocation simple d'aide à domicile aux personnes âgées. Cette aide est versée par l'État sous certaines conditions. Les règles sont différentes selon que vous vivez en couple ou que vous vivez seul. Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de l'action sociale et des familles : article L113-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031727295/"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : articles L111-1 à L111-5",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006157551/"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : articles L231-1 à L231-6",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074069/LEGISCTA000006157594"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : articles R231-1 à R231-6",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006160890/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Paris - Centre d'action sociale de la ville de Paris (CASVP)",
+    "Mairie"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "allocation-simple-d-aide-sociale-aux-personnes-agees",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "allocations-et-aides-aux-personnes-agees",
+      "titre": "Allocations et aides aux personnes âgées"
+    }
+  ]
+}

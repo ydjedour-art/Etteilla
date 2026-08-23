@@ -1,0 +1,87 @@
+{
+  "id": "F1563",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Un étudiant peut-il bénéficier d'une aide au logement (APL, ALS, ALF) pour payer son loyer ?",
+  "theme": "Logement",
+  "description": "Oui, un étudiant peut bénéficier (sous conditions) d'une aide au logement (APL ou ALF ou ALS) pour l'aider à payer son loyer.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-07-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1563",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Aides personnelles au logement",
+    "Un étudiant peut-il bénéficier d'une aide au logement (APL, ALS, ALF) pour payer son loyer ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Oui, un étudiant peut bénéficier sous conditions d'une aide au logement pour l'aider à payer son loyer.",
+        "Il existe 3 types d'aides au logement :",
+        "• Aide personnalisée au logement (APL)",
+        "• Allocation de logement familiale (ALF)",
+        "• Allocation de logement sociale (ALS).",
+        "Vous pouvez bénéficier de l'une de ces 3 aides si vous respectez les 4 conditions suivantes :",
+        "• Vous êtes français, ou étranger avec un titre de séjour en cours de validité",
+        "• Vous louez un logement décent",
+        "• Vous n'avez pas de lien de parenté avec le propriétaire du logement",
+        "• Vous avez de faibles ressources.",
+        "Depuis le 1er juillet 2026, si vous êtes étudiant ressortissant d'un pays hors Union européenne (UE), Espace économique européen (EEE) ou Suisse et possédez un titre de séjour délivré pour les études, vous pouvez bénéficier d’une aide au logement uniquement dans l'un des 3 cas suivants :",
+        "• Vous percevez une bourse sur critères sociaux (du centre régional des œuvres universitaires et scolaires - Crous, ou une bourse régionale sanitaire et sociale alignée sur les critères sociaux)",
+        "• Vous exercez une activité professionnelle",
+        "• Vous êtes engagé dans un contrat d’apprentissage ou de professionnalisation.",
+        "Vous pouvez utiliser un simulateur pour avoir une estimation du montant de l'aide au logement auquel vous pouvez prétendre :",
+        "Calculer son droit à une aide personnelle au logement (APL, ALF, ALS) - Caf",
+        "[Attention] Si vos parents perçoivent des allocations familiales et que vous demandez une aide au logement, vous n'êtes plus considéré à la charge de vos parents au sens des prestations familiales. Leurs allocations peuvent diminuer, voire être supprimées. Vous devez donc choisir entre bénéficier d'une aide au logement ou rester à la charge de vos parents.",
+        "Votre demande d'aide au logement doit être faite en ligne :",
+        "Aide au logement étudiant : demande en ligne",
+        "Il est recommandé de faire votre demande d'aide au logement dès l'installation dans votre logement.",
+        "En cas de colocation, chaque colocataire peut bénéficier d'une aide au logement. Il faut alors que chacun fasse sa propre demande à son nom. Le calcul de l'aide au logement prend en compte la part de loyer versée par chacun.",
+        "[À savoir] Pour plus d'informations, vous pouvez appeler le numéro dédié aux aides au logement étudiant. Aide au logement étudiant (APL, ALF, ALS) Permet aux étudiants d'obtenir des informations sur les aides au logement (APL, ALS, ALF). Par téléphone 09 69 32 52 52 Ouvert du lundi au vendredi de 9h à 16h30. Prix d'un appel local depuis un téléphone fixe. Surcoût éventuel depuis un mobile selon les opérateurs.",
+        "Le 1er paiement de l'aide au logement est généralement effectué 2 mois après la demande.",
+        "[Exemple] Si la demande est faite en février, votre droit est ouvert en mars et le 1er paiement s'effectue début avril.",
+        "[À noter] La garantie Visale, l'avance Loca-Pass (aides pour accéder à un logement) et l'aide Mobili-Jeune (aide pour payer son loyer) sont cumulables avec l'APL, l'ALF ou l'ALS, à condition de respecter les critères d'attribution de chaque dispositif."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la construction et de l'habitation : articles R831-1 à R831-3",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074096/LEGISCTA000038850380/#LEGISCTA000038878778"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Aide au logement étudiant : demande en ligne",
+      "url": "https://connect.caf.fr/connexionappli/dist/?forceReload=20211220&contexteAppel=caffr&urlredirect=%2Fwps%2Fmyportal%2Fcaffr#/login",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Calculer son droit à une aide personnelle au logement (APL, ALF, ALS) - Caf",
+      "url": "https://wwwd.caf.fr/wps/portal/caffr/aidesetdemarches/mesdemarches/faireunesimulation/lelogement#/preparation",
+      "type": "simulateurNG"
+    }
+  ],
+  "contacts": [
+    "Aide au logement étudiant (APL, ALF, ALS)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Aide au logement étudiant",
+      "url": "https://www.caf.fr/allocataires/actualites/2021/votre-aide-au-logement-etudiant-2021"
+    }
+  ],
+  "slug": "un-etudiant-peut-il-beneficier-d-une-aide-au-logement-apl-als-alf-pour-payer-son-loyer",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "aides-personnelles-au-logement",
+      "titre": "Aides personnelles au logement"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "F922",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quelles saisies peut faire un huissier de justice (à présent appelé commissaire de justice) ?",
+  "theme": "Justice",
+  "description": "Il existe plusieurs types de saisie réalisables par le commissaire de justice, selon que le débiteur est contraint par une obligation de payer ou de faire.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2024-05-10",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F922",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Saisies et recouvrements",
+    "Quelles saisies peut faire un huissier de justice (à présent appelé commissaire de justice) ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Le commissaire de justice peut faire 2 types de saisies :",
+        "• Une saisie liée à l'obligation de payer, qui a pour but l'exécution d'une obligation de payer une somme due.",
+        "• Une saisie liée à l'obligation de faire, qui a pour but l'exécution d'une obligation de livrer ou de restituer un bien.",
+        "Nous vous présentons les saisies liées à ces différentes obligations :",
+        "Obligation de payer",
+        "Le commissaire de justice peut faire les saisies suivantes :",
+        "• Saisie-attribution. Elle consiste à saisir auprès d'une autre personne les sommes appartenant au débiteur (par exemple, saisie sur compte bancaire)",
+        "• Saisie d'un véhicule. Elle consiste à immobiliser un véhicule (voiture, moto) là où il se trouve",
+        "• Saisie-vente. Elle entraîne la vente des meubles du débiteur, mêmes s'ils sont détenus par une autre personne",
+        "• Saisie immobilière. Elle entraîne la vente d'un bien immobilier (maison, terrain), en cas de créance importante",
+        "• Saisie conservatoire. Elle empêche temporairement le débiteur de vendre ou de déplacer les biens saisis",
+        "• Saisie des droits incorporels autres que des sommes d'argent, comme par exemple les valeurs mobilières ou les licences d'exploitation (taxis)",
+        "• Saisie des récoltes sur pieds",
+        "• Saisie des biens placés dans un coffre-fort",
+        "Obligation de faire",
+        "Le commissaire de justice peut faire les saisies suivantes :",
+        "• Saisie-appréhension des meubles, qu'ils soient détenus par le débiteur ou une autre personne, ou déposés dans un coffre-fort",
+        "• Saisie-revendication, qui rend indisponible tout bien meuble corporel (mobilier, livres, voiture...) dans l'attente qu'il soit remis au créancier, si cette remise est justifiée."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Ordonnance n° 2016-728 du 2 juin 2016 relative au statut de commissaire de justice",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000032623732/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Maison de justice et du droit"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Bofip n°BOI-REC-FORCE-20-30-20 : saisie des biens placés dans un coffre-fort",
+      "url": "https://bofip.impots.gouv.fr/bofip/2392-PGP.html/identifiant%3DBOI-REC-FORCE-20-30-20-20200819#IV._Saisie_des_biens_places__18"
+    },
+    {
+      "titre": "Bofip n°BOI-REC-EVTS-20-20 : saisie-revendication",
+      "url": "https://bofip.impots.gouv.fr/bofip/1370-PGP.html/identifiant%3DBOI-REC-EVTS-20-20-20191127"
+    },
+    {
+      "titre": "Bofip n°BOI-REC-FORCE-20-30-20 : saisie des récoltes sur pieds",
+      "url": "https://bofip.impots.gouv.fr/bofip/2392-PGP.html/identifiant%3DBOI-REC-FORCE-20-30-20-20200819#III._Saisie_des_recoltes_sur_17"
+    },
+    {
+      "titre": "Saisie des droits incorporels : articles L231-1 à L233-1 du code des procédures civiles d'exécution",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000025024948/LEGISCTA000025025890/#LEGISCTA000025026571"
+    }
+  ],
+  "slug": "quelles-saisies-peut-faire-un-huissier-de-justice-a-present-appele-commissaire-de-justice",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "saisies-et-recouvrements",
+      "titre": "Saisies et recouvrements"
+    }
+  ]
+}

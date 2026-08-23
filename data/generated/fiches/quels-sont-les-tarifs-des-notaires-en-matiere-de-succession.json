@@ -1,0 +1,84 @@
+{
+  "id": "F795",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quels sont les tarifs des notaires en matière de succession ?",
+  "theme": "Famille - Scolarité",
+  "description": "Les frais de notaire correspondent à l'ensemble des sommes demandées par le notaire en contrepartie d'une prestation qu'il réalise.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-09-25",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F795",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Testament",
+    "Quels sont les tarifs des notaires en matière de succession ?"
+  ],
+  "introduction": "Si vous faites appel à un notaire pour régler une succession, vous devrez le payer pour la prestation réalisée. Voici les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "La situation diffère selon que vous êtes en métropole ou dans un département ou région d’outre-mer (Drom)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de commerce : articles L444-1 à L444-7",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000030985092"
+    },
+    {
+      "titre": "Code du commerce : articles R444-2 à R444-3",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032122792"
+    },
+    {
+      "titre": "Code du commerce : articles R444-59 à R444-70",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032130804"
+    },
+    {
+      "titre": "Code de commerce : articles A444-53 à A444-58",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032132058"
+    },
+    {
+      "titre": "Code de commerce : articles A444-59 à A444-69-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032132076"
+    },
+    {
+      "titre": "Décret n°2020-179 du 28 février 2020 relatif aux tarifs réglementés applicables à certains professionnels du droit",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000041661517/"
+    },
+    {
+      "titre": "Décret n°2016-230 du 26 février 2016 relatif aux tarifs de certains professionnels du droit",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000032115195/"
+    },
+    {
+      "titre": "Décret n°78-262 du mars 1978 portant fixation du tarif des notaires",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000702306/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Notaire"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Droits d'enregistrement",
+      "url": "https://www.impots.gouv.fr/portail/droits-denregistrement"
+    },
+    {
+      "titre": "Le tarif du notaire : émoluments et honoraires",
+      "url": "https://www.notaires.fr/fr/profession-notaire/le-tarif-du-notaire-emoluments-et-honoraires"
+    }
+  ],
+  "slug": "quels-sont-les-tarifs-des-notaires-en-matiere-de-succession",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "testament",
+      "titre": "Testament"
+    }
+  ]
+}

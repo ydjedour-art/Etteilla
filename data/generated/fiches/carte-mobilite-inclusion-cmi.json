@@ -1,0 +1,146 @@
+{
+  "id": "F34049",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Carte mobilité inclusion (CMI)",
+  "theme": "Transports - Mobilité",
+  "description": "La CMI permet de faciliter les déplacements des personnes en perte d’autonomie en leur donnant des droits (ex : accès prioritaire, facilités de stationnement)",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-28",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34049",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Cartes de transport",
+    "Carte mobilité inclusion (CMI)"
+  ],
+  "introduction": "Vous êtes en perte d'autonomie et souhaitez savoir si vous pouvez obtenir une carte mobilité inclusion (CMI) pour faciliter vos déplacements ? Nous faisons le point sur la réglementation.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "La CMI peut comporter les mentions suivantes :",
+        "• Mention Stationnement qui permet de se garer gratuitement",
+        "• Mention Priorité qui permet d'éviter les files d'attente ou d'avoir une place assise",
+        "• Mention Invalidité qui s’adresse aux personnes en perte d'autonomie importante. Elle propose les mêmes avantages que la CMI Priorité avec en plus des réductions dans les transports et des avantages fiscaux notamment.",
+        "Vous pouvez obtenir une CMI comportant plusieurs mentions.",
+        "Vidéo : qu'est-ce que la CMI ?",
+        "Cartes mobilité inclusion (CMI)",
+        "https://www.monparcourshandicap.gouv.fr",
+        "Gratuite, la carte mobilité inclusion dite CMI facilite vos déplacements si vous êtes en perte d’autonomie.",
+        "Il existe 3 types de carte :",
+        "• la CMI « Stationnement » ;",
+        "• la CMI « Priorité » ;",
+        "• la CMI « Invalidité ».",
+        "En quoi consiste la carte mobilité inclusion « Stationnement » ?",
+        "C’est une carte qui vous donne le droit :",
+        "• de vous garer sur les places de parking réservées aux personnes handicapées ;",
+        "• et la gratuité des places en accès libre.",
+        "Pouvez-vous en en bénéficier ?",
+        "Oui, si votre capacité à vous déplacer à pied est très limitée du fait de votre handicap ou si vous avez besoin d’être accompagné dans vos déplacements et ce, quel que soit votre taux d’incapacité.",
+        "La CMI « Stationnement » est accordée à une personne et non à un véhicule.",
+        "Vous pouvez ainsi l’utiliser dans n’importe quel véhicule, que vous en soyez propriétaire ou non, conducteur ou passager.",
+        "Parlons maintenant de la carte mobilité inclusion « Priorité ».",
+        "Elle vous donne :",
+        "• la priorité aux places assises dans tous les lieux accueillant du public, dont les transports en commun ;",
+        "• la priorité dans les files d’attente ;",
+        "• et un accès aux caisses prioritaires.",
+        "Pouvez-vous en en bénéficier ?",
+        "Oui, si votre taux d’incapacité est inférieur à 80 % et votre handicap rend la station debout difficile.",
+        "Enfin, il existe la carte mobilité inclusion « Invalidité ».",
+        "Elle vous donne :",
+        "• les mêmes avantages que la carte « Priorité » ;",
+        "• et en plus des réductions spécifiques, par exemple sur vos titres de transport ou les billets dans les lieux culturels.",
+        "Pouvez-vous en bénéficier ?",
+        "Oui, si votre un taux d’incapacité est supérieur à 80 %",
+        "Bon à savoir !",
+        "Si vous avez une aide de la maison départementale des personnes handicapées (MDPH) ou que vous percevez un financement lié aux pensions d’invalidité pour employer une aide humaine, la carte « Invalidité » aura la mention « besoin d’accompagnement ».",
+        "Cette mention vous permet d’avoir des réductions ou la gratuité pour la personne qui vous accompagne, notamment dans le train.",
+        "Selon votre situation, vous pouvez cumuler :",
+        "• la CMI « Priorité » avec la CMI « Stationnement » ;",
+        "• ou la CMI « Invalidité » avec la CMI « Stationnement ».",
+        "Alors comment effectuer votre demande de CMI ?",
+        "Si vous remplissez les conditions nécessaires, vous devez remplir le formulaire Cerfa numéro 15692*01 de demande à la MDPH :",
+        "• joindre les pièces justificatives demandées ;",
+        "• et déposer en ligne ou par courrier le dossier auprès de la MDPH de votre lieu de résidence.",
+        "Ces 3 cartes sont délivrées au minimum 1 an ou toute la vie en fonction de l’évolution de votre handicap.",
+        "Pour en savoir plus, rendez-vous sur notre site internet : www.monparcourshandicap.gouv.fr",
+        "Mon Parcours Handicap vous accompagne au quotidien pour connaître vos droits, effectuer vos démarches ou identifier vos interlocuteurs et plus encore."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'action sociale et des familles : articles L241-1 à L241-4",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006157597"
+    },
+    {
+      "titre": "Code de l'action sociale et des familles : articles R241-12 à R241-17-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033697032"
+    },
+    {
+      "titre": "Arrêté du 3 janvier 2017 relatif aux modalités d'appréciation d'une mobilité pédestre réduite et de la perte d'autonomie dans le déplacement individuel",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000033793799/"
+    },
+    {
+      "titre": "Arrêté du 28 décembre 2016 fixant le modèle de la carte mobilité inclusion (CMI)",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000033735874/"
+    },
+    {
+      "titre": "Réponse ministérielle du 22 octobre 2019 relative à la carte mobilité inclusion (CMI)",
+      "url": "http://questions.assemblee-nationale.fr/q15/15-23289QE.htm"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demande ou renouvellement de prestations Handicap (AEEH, AAH, PCH, CMI, hébergement, Ésat...)",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_15692.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Demande ou renouvellement de prestations Handicap (AAH, PCH, CMI, hébergement ...)",
+      "url": "https://mdphenligne.cnsa.fr/",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "Services du département",
+    "Maison départementale des personnes handicapées (MDPH)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "CMI Stationnement - Version \"facile à lire et à comprendre\" (Falc)",
+      "url": "https://www.cnsa.fr/sites/default/files/2024-03/FALC_cnsa_18-01_fiches-facilealire_cmi_stationnement.pdf"
+    },
+    {
+      "titre": "CMI Priorité - Version \"facile à lire et à comprendre\" (Falc)",
+      "url": "https://www.cnsa.fr/sites/default/files/2024-03/FALC_06_cmi_priorite_071022.pdf"
+    },
+    {
+      "titre": "CMI Invalidité - Version \"facile à lire et à comprendre\" (Falc)",
+      "url": "https://www.cnsa.fr/sites/default/files/2024-03/FALC_cnsa_18-01_fiches-facilealire_cmi_invalidite.pdf"
+    },
+    {
+      "titre": "Accessibilité du stationnement et carte mobilité inclusion (CMI)",
+      "url": "https://www.ecologie.gouv.fr/politiques-publiques/laccessibilite-du-stationnement"
+    },
+    {
+      "titre": "Portail dédié aux bénéficiaires de la carte mobilité inclusion (CMI)",
+      "url": "https://www.carte-mobilite-inclusion.fr/authentification"
+    },
+    {
+      "titre": "Réductions dans les transports",
+      "url": "https://www.sncf-voyageurs.com/fr/voyagez-avec-nous/preparez-votre-voyage/accessibilite/priorites-et-reductions/"
+    }
+  ],
+  "slug": "carte-mobilite-inclusion-cmi",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "cartes-de-transport",
+      "titre": "Cartes de transport"
+    }
+  ]
+}

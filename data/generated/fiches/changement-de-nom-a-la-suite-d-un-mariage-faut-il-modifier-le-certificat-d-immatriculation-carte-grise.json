@@ -1,0 +1,91 @@
+{
+  "id": "F34747",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Changement de nom à la suite d'un mariage : faut-il modifier le certificat d'immatriculation (carte grise) ?",
+  "theme": "Transports - Mobilité",
+  "description": "Si vous souhaitez utiliser le nom de votre époux(se) (dit « nom d'usage ») sur votre carte grise, vous pouvez demander la modification de ce titre.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2024-12-18",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34747",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Carte grise (certificat d'immatriculation)",
+    "Changement de nom à la suite d'un mariage : faut-il modifier le certificat d'immatriculation (carte grise) ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Non, la démarche n'est pas obligatoire.",
+        "Mais vous pouvez décider par choix personnel d'utiliser le nom d'usage de votre époux ou épouse.",
+        "Que vous soyez un homme ou une femme, vous pouvez utiliser comme nom d'usage le nom de famille de la personne avec qui vous êtes marié(e).",
+        "Vous pouvez utiliser comme nom d'usage :",
+        "• Soit le nom de la personne avec qui vous êtes marié(e),",
+        "• Soit le double nom composé de votre nom et du nom de la personne avec qui vous êtes marié(e).",
+        "Il est préférable de le faire enregistrer sur le certificat d'immatriculation. Cette démarche a pour effet de faire figurer le même nom sur l'ensemble des papiers officiels.",
+        "[À noter] Le nom du concubin ou du partenaire de Pacs ne peut pas être utilisé comme nom d'usage.",
+        "Vous pouvez effectuer la démarche sur internet ou auprès d'un professionnel de l'automobile habilité.",
+        "Il n'est plus possible de faire la démarche à la préfecture ou sous-préfecture."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code des impositions sur les biens et services : articles L421-30 (taxes pour immatriculation)",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048844492"
+    },
+    {
+      "titre": "Code des impositions sur les biens et services : articles L421-37 à L421-40 (taxe fixe)",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044595989/LEGISCTA000044598993/"
+    },
+    {
+      "titre": "Code des impositions sur les biens et services : articles L421-41 à L421-54",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044595989/LEGISCTA000044599003/"
+    },
+    {
+      "titre": "Arrêté du 9 février 2009 relatif aux démarches d'immatriculation des véhicules",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000020237165"
+    },
+    {
+      "titre": "Arrêté du 21 septembre 2015 portant fixation du tarif de la redevance d'acheminement des certificats d'immatriculation des véhicules",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000031194838/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Calculer le coût du certificat d'immatriculation",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/cout-certificat-immatriculation",
+      "type": "Simulateur"
+    },
+    {
+      "titre": "Demande de certificat d'immatriculation d'un véhicule",
+      "url": "https://www.service-public.gouv.fr/simulateur/calcul/13750",
+      "type": "formulaireNG"
+    },
+    {
+      "titre": "Suivre la demande de certificat d’immatriculation",
+      "url": "https://moncompte.ants.gouv.fr/connexion",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Points numériques",
+      "url": "https://immatriculation.ants.gouv.fr/services-et-formulaires/carte-des-points-numeriques"
+    }
+  ],
+  "slug": "changement-de-nom-a-la-suite-d-un-mariage-faut-il-modifier-le-certificat-d-immatriculation-carte-grise",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "carte-grise-certificat-d-immatriculation",
+      "titre": "Carte grise (certificat d'immatriculation)"
+    }
+  ]
+}

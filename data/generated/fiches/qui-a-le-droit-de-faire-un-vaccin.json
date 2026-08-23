@@ -1,0 +1,193 @@
+{
+  "id": "F33924",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Qui a le droit de faire un vaccin ?",
+  "theme": "Social - Santé",
+  "description": "En dehors des médecins, sages-femmes et infirmiers ou infirmières, les pharmaciens et certains centres médicaux peuvent également vacciner.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-06-29",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33924",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Prévention - Vaccinations",
+    "Qui a le droit de faire un vaccin ?"
+  ],
+  "introduction": "Les médecins, les sages-femmes, les infirmiers, infirmières et certaines structures de prévention notamment peuvent effectuer des vaccinations, dans le respect du calendrier des vaccinations et dans le cadre de l'exercice de leurs compétences. Il en est de même pour les pharmaciens. Nous vous présentons la réglementation.",
+  "chapitres": [
+    {
+      "titre": "Médecins",
+      "contenu": [
+        "Les médecins sont habilités à pratiquer tous les actes de diagnostic, de prévention et de traitement, dont les vaccinations.",
+        "Médecin",
+        "[Complement] Un médecin, même retraité, peut prescrire et administrer le vaccin contre la variole du singe."
+      ]
+    },
+    {
+      "titre": "Sages-femmes",
+      "contenu": [
+        "Les sages-femmes peuvent prescrire les vaccins mentionnés au calendrier des vaccinations à toutes les personnes pour lesquelles ces vaccinations sont recommandées. Cependant, elles ne peuvent pas prescrire certains vaccins (vaccins vivants atténués) chez les personnes immunodéprimées.",
+        "Les sages-femmes peuvent administrer l'ensemble des vaccins mentionnés dans le calendrier des vaccinations à toutes les personnes pour lesquelles ces vaccinations sont recommandées.",
+        "Elles peuvent prescrire et administrer le vaccin contre la grippe saisonnière et la Covid à toutes les personnes ciblées ou non ciblées par les recommandations vaccinales."
+      ]
+    },
+    {
+      "titre": "Infirmiers / infirmières",
+      "contenu": [
+        "Les infirmiers, y compris lorsqu'ils exercent dans un laboratoire de biologie médicale ou dans une pharmacie à usage intérieur d'un établissement, peuvent prescrire et administrer l'ensemble des vaccins mentionnés dans le calendrier des vaccinations selon les recommandations de ce calendrier aux personnes de 11 ans et plus.",
+        "Cependant, ils ne peuvent pas prescrire ou administrer les vaccins vivants atténués chez les personnes immunodéprimées.",
+        "Ils peuvent prescrire et administrer le vaccin contre :",
+        "• La grippe saisonnière à toutes les personnes de 11 ans et plus ciblées ou non ciblées par les recommandations vaccinales",
+        "• La Covid aux personnes âgées de 5 ans et plus.",
+        "Toute prescription fait l’objet d’une inscription par l’infirmier au dossier du patient ou au dossier médical partagé.",
+        "[Complement] Les infirmiers ou infirmières peuvent administrer le vaccin contre la variole du singe. Il en est de même pour les infirmiers ou infirmières retraités. Les infirmiers ou infirmières retraités peuvent aussi le prescrire s'ils avaient été formés pour cela en activité."
+      ]
+    },
+    {
+      "titre": "Pharmaciens",
+      "contenu": [
+        "Les pharmaciens d'officine, ainsi que les pharmaciens exerçant dans un laboratoire de biologie médicale ou dans une pharmacie à usage intérieur d'un établissement, peuvent prescrire l'ensemble des vaccins mentionnés dans le calendrier des vaccinations selon les recommandations de ce calendrier aux personnes de 11 ans et plus. Cependant, ils ne peuvent pas prescrire les vaccins vivants atténués chez les personnes immunodéprimées.",
+        "Ils peuvent administrer l'ensemble des vaccins mentionnés dans le calendrier des vaccinations aux personnes âgées de 11 ans et plus.",
+        "Ils peuvent prescrire et administrer :",
+        "• Le vaccin contre la grippe saisonnière à toutes les personnes de 11 ans et plus",
+        "• Le vaccin contre la Covid aux personnes âgées de 5 ans et plus.",
+        "[Complement] Les pharmaciens des pharmacies d'officine désignées par l'ARS peuvent prescrire et administrer le vaccin contre la variole du singe. Les préparateurs en pharmacie, s'ils ont eu une formation à l'administration du vaccin et sous la supervision d'un pharmacien, dans les pharmacies d'officine désignées par l'ARS peuvent l'administrer."
+      ]
+    },
+    {
+      "titre": "Préparateurs en pharmacie",
+      "contenu": [
+        "Les préparateurs en pharmacie peuvent, sous la supervision d'un pharmacien formé à l'administration ou à la prescription de vaccins ou ayant suivi une formation spécifique à la vaccination contre la Covid, administrer :",
+        "• Les vaccins mentionnés dans le calendrier des vaccinations aux personnes âgées de 11 ans et plus",
+        "• Le vaccin contre la grippe aux personnes âgées de 11 ans et plus",
+        "• Le vaccin contre la Covid aux personnes âgées de 5 ans et plus.",
+        "[Rappel] Les préparateurs en pharmacie, s'ils ont eu une formation à l'administration du vaccin et sous la supervision d'un pharmacien, dans les pharmacies d'officine désignées par l'ARS peuvent administrer le vaccin contre la variole du singe."
+      ]
+    },
+    {
+      "titre": "Étudiants",
+      "contenu": [
+        "Étudiants en 2e cycle des études de médecine",
+        "Les étudiants en 2e cycle des études de médecine, dans le cadre de la campagne nationale de vaccination contre les infections à papillomavirus humains (IPH), ont l'autorisation d'administrer le vaccin contre les IPH. Pour cela, ils doivent remplir les 2 conditions suivantes :",
+        "• Avoir suivi les enseignements théoriques et pratiques concernant la vaccination",
+        "• Être placés sous la supervision d'un infirmier diplômé d'État.",
+        "[Complement] Les étudiants de 2e cycle des études de médecine peuvent administrer le vaccin contre la variole du singe en présence d'un médecin ou d'un infirmier. Pour cela, ils doivent avoir bénéficié : • Soit des enseignements théoriques et pratiques liés à la vaccination dans le cadre de leur cursus • Soit d'une formation spécifique à la vaccination contre la variole du singe.",
+        "Étudiants en 3e cycle des études de médecine",
+        "Ces étudiants peuvent administrer sous la supervision d'un maître de stage :",
+        "• L'ensemble des vaccins mentionnés dans le calendrier des vaccinations, à toutes les personnes pour lesquelles ces vaccinations sont recommandées",
+        "• Le vaccin contre la grippe saisonnière et contre la Covid.",
+        "[Complement] Ces étudiants en médecine peuvent administrer le vaccin contre la variole du singe en présence d'un médecin ou d'un infirmier. Pour cela, ils doivent avoir bénéficié : • Soit des enseignements théoriques et pratiques liés à la vaccination dans le cadre de leur cursus • Soit d'une formation spécifique à la vaccination contre la variole du singe.",
+        "Étudiants en 3e cycle des études pharmaceutiques",
+        "Certains étudiants en 3e cycle des études pharmaceutiques peuvent administrer sous la supervision d'un maître de stage :",
+        "• L'ensemble des vaccins mentionnés dans le calendrier des vaccinations aux personnes âgées de 11 ans et plus",
+        "• Le vaccin contre la grippe saisonnière à toutes les personnes de 11 ans et plus",
+        "• Le vaccin contre le Covid aux personnes âgées de 5 ans et plus."
+      ]
+    },
+    {
+      "titre": "Centres de protection maternelle et infantile (PMI)",
+      "contenu": [
+        "Les centres de PMI assurent le suivi en santé des femmes enceintes et des enfants jusqu'à leurs 6 ans.",
+        "Les vaccinations réalisées pour ces personnes par les professionnels habilités à vacciner présents dans ces centres (médecins, sages-femmes et infirmiers ou infirmières) sont gratuites.",
+        "Centre de protection maternelle et infantile (PMI)"
+      ]
+    },
+    {
+      "titre": "Centres de vaccination antiamarile (fièvre jaune)",
+      "contenu": [
+        "La vaccination contre la fièvre jaune ne peut être effectuée que dans un centre de vaccination anti-amarile agréé par les autorités sanitaires. Ainsi, par exemple, les sages-femmes, pharmaciens et infirmiers au sein de ces centres peuvent administrer ce vaccin.",
+        "[À savoir] Les vaccins remboursables du calendrier des vaccinations administrés dans les centres de vaccination antiamarile (fièvre jaune), lors de la vaccination du voyageur par les professionnels de santé de ces centres, peuvent être pris en charge par l’Assurance maladie, pour la part obligatoire."
+      ]
+    },
+    {
+      "titre": "Services de santé au travail",
+      "contenu": [
+        "Certaines vaccinations (grippe, tétanos et d'autres vaccins suivant les risques biologiques encourus) peuvent être réalisées par le médecin du travail (ou l'infirmière sur prescription médicale) dans le cadre de la prévention et de la préservation de la santé au travail."
+      ]
+    },
+    {
+      "titre": "Laboratoires de biologie médicale",
+      "contenu": [
+        "Les professionnels exerçant au sein d’un laboratoire de biologie médicale (exemples : biologistes médicaux, médecins et pharmaciens autorisés à exercer les fonctions de biologiste médical) peuvent :",
+        "• Prescrire l'ensemble des vaccins mentionnés dans le calendrier des vaccinations selon les recommandations de ce calendrier aux personnes de 11 ans et plus. Cependant, ils ne peuvent pas prescrire les vaccins vivants atténués chez les personnes immunodéprimées.",
+        "• Administrer l'ensemble des vaccins mentionnés dans le calendrier des vaccinations aux personnes âgées de 11 ans et plus",
+        "• Prescrire et administrer le vaccin contre la grippe saisonnière à toutes les personnes de 11 ans et plus",
+        "• Prescrire et administrer le vaccin contre la Covid aux personnes âgées de 5 ans et plus.",
+        "[À savoir] La participation de l'assuré pour les frais de vaccination en laboratoire de biologie médicale est fixée à 40 %."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code la santé publique : article R4151-25",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000032633357/"
+    },
+    {
+      "titre": "Code de la santé publique : article R4311-5-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037435114/"
+    },
+    {
+      "titre": "Code de la santé publique : article R4311-7",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045649268/"
+    },
+    {
+      "titre": "Arrêté du 8 août 2023 fixant la liste des vaccins que certains professionnels de santé et étudiants sont autorisés à prescrire ou administrer et la liste des personnes pouvant en bénéficier",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000047949119/"
+    },
+    {
+      "titre": "Code de la santé publique : article L5125-1-1 A",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038886688"
+    },
+    {
+      "titre": "Code de la santé publique : articles R5125-33-5 à R5125-33-12",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000023824207"
+    },
+    {
+      "titre": "Code de la Santé publique : articles R5126-8 à R5126-11",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000006196947/"
+    },
+    {
+      "titre": "Code de la Santé publique : article R6153-91-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047950147/"
+    },
+    {
+      "titre": "Arrêté du 26 juin 2026 fixant la liste des actes et soins pouvant être réalisés par les infirmiers diplômés d'Etat",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054321952"
+    },
+    {
+      "titre": "Arrêté du 26 juin 2026 fixant la liste des produits de santé et examens complémentaires que les infirmiers diplômés d'Etat sont autorisés à prescrire ou à renouveler",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054321926"
+    },
+    {
+      "titre": "Arrêté du 23 octobre 2024 relatif à la vaccination contre le virus du Monkeypox",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000050397413"
+    },
+    {
+      "titre": "Arrêté du 3 février 2022 relatif aux vacations des étudiants en santé pour la réalisation des activités d'aide-soignant et d'auxiliaire de puériculture ou des actes et activités d'infirmier",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000045159671/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Annuaire santé - Site Ameli",
+      "url": "https://annuairesante.ameli.fr/"
+    },
+    {
+      "titre": "Vaccination info service",
+      "url": "https://vaccination-info-service.fr/"
+    }
+  ],
+  "slug": "qui-a-le-droit-de-faire-un-vaccin",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "prevention-vaccinations",
+      "titre": "Prévention - Vaccinations"
+    }
+  ]
+}

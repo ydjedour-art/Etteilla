@@ -1,0 +1,90 @@
+{
+  "id": "F870",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Recensement citoyen",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Un Français doit faire son recensement citoyen (parfois appelé par erreur recensement militaire) à l'âge de 16 ans, qu'il vive en France ou à l'étranger.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-10",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F870",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Recensement citoyen, JDC et Service national",
+    "Recensement citoyen"
+  ],
+  "introduction": "Chaque jeune Français (fille ou garçon) doit faire son recensement citoyen (parfois appelé par erreur recensement militaire) à partir de l’âge de 16 ans. Faire son recensement citoyen est obligatoire, que le jeune vive en France ou à l'étranger. Nous vous présentons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code du service national : articles L113-1 à L113-8",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071335/LEGISCTA000006151645/"
+    },
+    {
+      "titre": "Code du service national : articles R*111-1 à R*111-17-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071335/LEGISCTA000006137906/"
+    },
+    {
+      "titre": "Code du service national : articles R*112-1 à R*112-11",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071335/LEGISCTA000006151704/"
+    },
+    {
+      "titre": "Code des relations entre le public et l'administration : articles R113-5 à R113-9",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000031366350/LEGISCTA000031370017/"
+    },
+    {
+      "titre": "Instruction du 5 janvier 2004 sur les opérations de recensement pour l'exécution du service national",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000249499"
+    },
+    {
+      "titre": "Arrêté du 11 janvier 2016 sur le recensement et la participation à la JDC hors du territoire national",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000031873061/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demande de recensement citoyen obligatoire",
+      "url": "https://demarches.service-public.gouv.fr/mademarche/recensementCitoyen/demarche",
+      "type": "selNG"
+    },
+    {
+      "titre": "Ma JDC",
+      "url": "https://presaje.sga.defense.gouv.fr/",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Recensement citoyen/JDC : déclaration de changement de domicile ou de résidence, de situation familiale, de situation professionnelle",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_11718.do",
+      "type": "formulaireNG"
+    }
+  ],
+  "contacts": [
+    "Mairie",
+    "Ambassade ou consulat français à l'étranger"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Instruction relative à l'exemption médicale de participation à la JDC",
+      "url": "https://www.legifrance.gouv.fr/download/pdf/circ?id=42967"
+    },
+    {
+      "titre": "Depuis l'étranger : recensement citoyen et JDC",
+      "url": "https://www.diplomatie.gouv.fr/fr/services-aux-francais/documents-officiels-a-l-etranger/article/attestation-de-recensement-et-de-la-participation-aux-journees-defense-et"
+    },
+    {
+      "titre": "Depuis l'étranger : pour contacter le CSNJ Perpignan",
+      "url": "https://www.defense.gouv.fr/sga/au-service-nation-du-public/jeunesse/devenir-citoyen/journee-defense-citoyennete-jdc#title-11425"
+    }
+  ],
+  "slug": "recensement-citoyen",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "recensement-citoyen-jdc-et-service-national",
+      "titre": "Recensement citoyen, JDC et Service national"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "id": "F213",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Remboursement des soins à l'étranger (vacances ou court séjour)",
+  "theme": "Social - Santé",
+  "description": "Les règles liées au remboursement des soins à l'étranger varient selon que le séjour se déroule dans ou hors Espaces économique européen.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-08-07",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F213",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Assurance maladie et santé d'un Français à l'étranger",
+    "Remboursement des soins à l'étranger (vacances ou court séjour)"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Avant de partir en vacances à l’étranger, vous souhaitez connaître les règles liées au remboursement des soins reçus en dehors de France ? Ces règles varient selon que le séjour se déroule dans un pays de l’Espace économique européen (EEE), en Suisse, au Royaume-Uni ou dans un autre pays. Nous vous exposons les règles à connaître."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la sécurité sociale : articles R160-1 à R160-4",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000031795457"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demander une carte européenne d'assurance maladie (Ceam)",
+      "url": "https://assure.ameli.fr/PortailAS/appmanager/PortailAS/assure?_nfpb=true&_pageLabel=as_carte_euro_assu_maladie_page",
+      "type": "selNG"
+    },
+    {
+      "titre": "Soins reçus à l'étranger - Déclaration à compléter par l'assuré",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_12267.do",
+      "type": "formulaireNG"
+    },
+    {
+      "titre": "Ameli en ligne",
+      "url": "https://assure.ameli.fr/PortailAS/appmanager/PortailAS/assure?_somtc=true&_pageID=P1_NAISSANCE_ENFANT&utm_source=ameli.fr&utm_medium=lien_redirection&utm_campaign=NAISSANCE_ENFANT#idPopupWARecueilConsentement",
+      "type": "selNG"
+    },
+    {
+      "titre": "MSA - Espace particuliers",
+      "url": "https://monespaceprive.msa.fr/lfp/web/msa/espace-prive",
+      "type": "selNG"
+    },
+    {
+      "titre": "Se faire rembourser des soins effectués à l'étranger depuis le compte Ameli",
+      "url": "https://assure.ameli.fr/PortailAS/appmanager/PortailAS/assure?_somtc=true&_pageID=P1_SOINS_ETRANGER&utm_source=ameli.fr&utm_medium=lien_redirection&utm_campaign=SOINS_ETRANGER",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "Centre des liaisons européennes et internationales de sécurité sociale (Cleiss)",
+    "Renseignements sur les soins à l'étranger et la C2S"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Carte européenne d'assurance maladie",
+      "url": "https://www.cleiss.fr/particuliers/ceam.html#:~:text=La%20Carte%20europ%C3%A9enne%20d%27assurance%20maladie%20vous%20permet%20de%20b%C3%A9n%C3%A9ficier,Suisse%20et%20au%20Royaume%2DUni."
+    },
+    {
+      "titre": "Comment utiliser la CEAM ?",
+      "url": "https://employment-social-affairs.ec.europa.eu/policies-and-activities/moving-working-europe/eu-social-security-coordination/european-health-insurance-card/how-use-card_en?prefLang=fr&etrans=fr"
+    },
+    {
+      "titre": "Vacances à l’étranger : votre prise en charge",
+      "url": "https://www.ameli.fr/assure/droits-demarches/europe-international/protection-sociale-etranger/vacances-etranger"
+    },
+    {
+      "titre": "Votre couverture maladie lorsque vous partez en vacances à l'étranger",
+      "url": "http://www.cleiss.fr/particuliers/je_pars_en_vacances.html"
+    },
+    {
+      "titre": "Aller chez le médecin/à l'hôpital à l'étranger",
+      "url": "https://europa.eu/youreurope/citizens/health/unplanned-healthcare/going-to-doctor-hospital-abroad/index_fr.htm"
+    },
+    {
+      "titre": "Votre couverture maladie pour des vacances en Andorre",
+      "url": "https://www.cleiss.fr/particuliers/partir/vacances/andorre.html"
+    },
+    {
+      "titre": "Votre couverture maladie pour des vacances au Gabon",
+      "url": "https://www.cleiss.fr/particuliers/partir/vacances/gabon.html"
+    },
+    {
+      "titre": "Conseils aux voyageurs",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs"
+    },
+    {
+      "titre": "Vaccination par pays",
+      "url": "https://www.pasteur.fr/fr/centre-medical/preparer-son-voyage"
+    },
+    {
+      "titre": "Se faire rembourser des soins effectués à l'étranger depuis le compte Ameli",
+      "url": "https://www.ameli.fr/assure/actualites/comment-se-faire-rembourser-des-soins-effectues-l-etranger-depuis-son-compte-ameli"
+    }
+  ],
+  "slug": "remboursement-des-soins-a-l-etranger-vacances-ou-court-sejour",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "assurance-maladie-et-sante-d-un-francais-a-l-etranger",
+      "titre": "Assurance maladie et santé d'un Français à l'étranger"
+    }
+  ]
+}

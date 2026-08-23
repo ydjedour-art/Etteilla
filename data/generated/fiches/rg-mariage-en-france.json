@@ -1,0 +1,33 @@
+{
+  "id": "F36504",
+  "type_publication": "Recherche guidée",
+  "titre": "[RG - Mariage en France]",
+  "theme": "Famille - Scolarité",
+  "description": "[RG - Mariage en France]",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2026-08-17",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F36504",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Mariage",
+    "[RG - Mariage en France]"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "rg-mariage-en-france",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "mariage",
+      "titre": "Mariage"
+    }
+  ]
+}

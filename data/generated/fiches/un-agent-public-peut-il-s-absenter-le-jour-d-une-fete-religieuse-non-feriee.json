@@ -1,0 +1,68 @@
+{
+  "id": "F34534",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Un agent public peut-il s'absenter le jour d'une fête religieuse non fériée ?",
+  "theme": "Travail - Formation",
+  "description": "Les agents publics peuvent bénéficier, sous conditions, d'autorisations d'absence pour participer à des fêtes religieuses autres que les fêtes légales.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-01-23",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34534",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Congés dans la fonction publique",
+    "Un agent public peut-il s'absenter le jour d'une fête religieuse non fériée ?"
+  ],
+  "introduction": "Si les nécessités du fonctionnement normal du service public le permettent, les agents publics peuvent bénéficier d'autorisations d'absence pour participer à des fêtes religieuses, correspondant à leur confession, autres que les fêtes religieuses légales.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les administrations peuvent accorder des autorisations d’absence aux agents publics pour participer à des fêtes religieuses autres que les fêtes religieuses légales.",
+        "Ces autorisations d'absence peuvent être accordées si les nécessités du fonctionnement normal du service public le permettent.",
+        "Pour les agents de confessions arménienne, bouddhiste, juive, musulmane ou orthodoxe, des autorisations d'absence peuvent notamment être accordées à l'occasion des fêtes religieuses suivantes :",
+        "Fêtes arméniennes",
+        "• Fête de la Nativité",
+        "• Fête des Saints Vartanants",
+        "• Commémoration du 24 avril",
+        "Fête bouddhiste",
+        "Fête du Vesak (Jour du Bouddha).",
+        "La date de cette fête étant fixée à un jour près, les autorisations d’absence peuvent être accordées avec un décalage en plus ou en moins.",
+        "Fêtes juives",
+        "• Chavouot (Pentecôte)",
+        "• Roch Hachana (Jour de l'an : 2 jours)",
+        "• Yom Kippour (Grand pardon).",
+        "Les fêtes commencent la veille au soir.",
+        "Fêtes musulmanes",
+        "• Aïd El Adha",
+        "• Al Mawlid Ennabi",
+        "• Aïd El Fitr.",
+        "Les dates de ces fêtes étant fixées à un jour près, les autorisations d’absence peuvent être accordées avec un décalage d'un jour en plus ou en moins. Ces fêtes commencent la veille au soir.",
+        "Fêtes orthodoxes",
+        "• Théophanie selon le calendrier grégorien ou selon le calendrier julien",
+        "• Grand Vendredi Saint",
+        "• Ascension"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Circulaire du 10 février 2012 relative aux autorisations d'absence pouvant être accordées à l'occasion des principales fêtes religieuses des différentes confessions",
+      "url": "https://www.fonction-publique.gouv.fr/files/files/textes_de_reference/2012/C_20120210_0002.pdf"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "un-agent-public-peut-il-s-absenter-le-jour-d-une-fete-religieuse-non-feriee",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "conges-dans-la-fonction-publique",
+      "titre": "Congés dans la fonction publique"
+    }
+  ]
+}

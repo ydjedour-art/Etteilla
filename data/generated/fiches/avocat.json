@@ -1,0 +1,174 @@
+{
+  "id": "F2153",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Avocat",
+  "theme": "Justice",
+  "description": "L’avocat est un professionnel du droit indépendant dont la mission de conseil, de représentation et d’assistance en justice est encadrée par la déontologie.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-07-30",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2153",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Acteurs du monde judiciaire",
+    "Avocat"
+  ],
+  "introduction": "Vous avez un litige avec une personne ou avec une entreprise ? Vous devez faire face à une procédure judiciaire ? Vous pouvez consulter un avocat pour vous conseiller ou pour vous défendre. L'avocat est un professionnel du droit dont l'action est encadrée par la loi. La profession d'avocat s'exerce de manière libérale et indépendante, dans le respect des règles déontologiques. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "Quel est le rôle de l'avocat ?",
+      "contenu": [
+        "Rôle de conseil",
+        "L'avocat a un rôle de conseil juridique.",
+        "Il fournit à ses clients toute prestation de conseil et d’assistance ayant pour objet la mise en œuvre des principes ou règles juridiques, la rédaction d’actes, la négociation et le suivi des relations contractuelles.",
+        "Cette prestation peut prendre plusieurs formes allant du simple renseignement oral à la consultation écrite.",
+        "Ce rôle implique de vous :",
+        "• Informer, alerter et de vous mettre en garde sur les règles de droit applicables, les risques encourus et les conséquences des choix juridiques envisagés",
+        "• Déconseiller une action manifestement vouée à l’échec",
+        "• Avertir de la possibilité de recourir aux modes amiables de règlement des différends, que ce soit avant toute action en justice, en cours de procédure, ou par l’insertion d’une clause appropriée dans un acte.",
+        "L’avocat doit apprécier la situation de fait (ce qui s’est passé, les circonstances de votre dossier) et de droit (règles applicables à la situation) et proposer des solutions adaptées. Il doit également vous orienter vers un confrère spécialisé si la question excède ses compétences.",
+        "[À savoir] L’avocat doit vous conseiller dans les limites du mandat que vous lui confiez. Il ne garantit pas un résultat, mais un accompagnement éclairé et loyal.",
+        "Rôle de représentation et d’assistance",
+        "L'avocat peut vous représenter ou vous assister en justice devant les différentes juridictions (tribunaux).",
+        "Il a ainsi 2 rôles différents :",
+        "• L'assistance en justice, qui consiste à aider le justiciable dans la défense de ses intérêts, en présentant pour lui des explications orales ou écrites en son nom. Elle inclut notamment la plaidoirie, c’est-à-dire l’exposé oral des prétentions de la parties assistée et la discussion des arguments soulevés par l’adversaire.",
+        "• La représentation en justice, qui donne à l’avocat le pouvoir d’accomplir au nom et pour votre compte l’ensemble des actes de procédure nécessaires au déroulement de l’instance, dans les limites de ce mandat. Cette représentation implique que l’avocat agit à la place de son client : il en son nom, plaide, conclut et engage juridiquement la partie (personne) qu’il représente.L’avocat peut seul représenter les parties devant le tribunal judiciaire.",
+        "[À noter] Vous pouvez vous défendre vous-même en justice sauf si la loi vous impose d'avoir recours à un avocat. C’est le cas, par exemple, des affaires suivantes : • Affaires jugées par le tribunal judiciaire lorsque la valeur du litige dépasse 10 000 € • Affaires en référé • Affaires jugées par le tribunal pour enfants (avocat obligatoire uniquement pour l'enfant mineur) • Affaires jugées par la cour d'appel en matière civile (sauf en matière de protection judiciaire des majeurs, de baux ruraux et en matière sociale) • Affaires jugées par la cour d'assises (avocat obligatoire pour l'accusé).",
+        "Rôle de rédacteur d’acte",
+        "L’avocat peut se voir confier la rédaction d’actes de toute nature (statuts de société, contrats, conventions, protocoles, etc), auxquels il confère une sécurité juridique renforcée, notamment lorsqu’il y appose sa contresignature. Celle-ci atteste qu’il a pleinement informé les parties des conséquences juridiques de leurs engagements.",
+        "L’avocat rédacteur veille ainsi à :",
+        "• L’équilibre des intérêts entre les parties, en les conseillant activement, quel que soit leur niveau d’expertise ou leur position contractuelle",
+        "• La licéité des objectifs poursuivis, de la capacité juridique des signataires.",
+        "Il doit également refuser toute participation à la rédaction d’un acte manifestement illicite ou frauduleux.",
+        "Rôle de séquestre",
+        "L’avocat peut accepter une mission de séquestre, qu’elle soit conventionnelle (résulte d’un accord entre les parties) ou judiciaire (ordonné par le tribunal).",
+        "Dans le cadre d’un séquestre conventionnel, cette mission doit impérativement être formalisée par un écrit précisant l’objet, les conditions de conservation, la durée et les modalités de restitution. L’avocat séquestre est tenu à une parfaite neutralité et doit veiller au respect des engagements convenus entre les parties. Il lui est interdit de recevoir à ce titre un acte manifestement illicite ou frauduleux.",
+        "Lorsque le séquestre porte sur des fonds, effets ou valeurs, ceux-ci doivent être déposés sans délai à la caisse des règlements pécuniaires des avocats (CARPA). Ce mécanisme garantit la sécurité financière des opérations et la traçabilité des fonds.",
+        "Rôle de mandataire d’artistes et d’auteurs",
+        "L’avocat peut exercer, à titre accessoire, une activité de mandataire d’artistes et d’auteurs.",
+        "Cette mission, qui consiste à négocier, conclure et suivre des contrats pour le compte d’artistes, auteurs ou créateurs, doit obligatoirement être encadrée par un contrat écrit précisant l’objet, la durée et les conditions de la mission.",
+        "Rôle d'intermédiaire en opérations immobilières",
+        "L'avocat peut aussi servir d'intermédiaire pour des opérations immobilières : saisie immobilière, partage, licitation (vente aux enchères d'un bien en indivision) et sûreté judiciaire."
+      ]
+    },
+    {
+      "titre": "Quelles sont les règles professionnelles du métier d’avocat ?",
+      "contenu": [
+        "La profession d’avocat est indépendante et libérale. L’exercice de la profession d’avocat est néanmoins guidé par des principes essentiels inscrits dans son serment : indépendance, loyauté, dignité, conscience, humanité, probité, désintéressement, confraternité, délicatesse, modération et courtoisie. Ces principes s’appliquent dans toutes les relations de l’avocat, qu’elles soient avec ses clients, ses confrères ou la partie adverse.",
+        "Devoirs envers son client",
+        "Les principales règles professionnelles de l’avocat envers son client sont les suivantes :",
+        "• Devoir de compétence : l’avocat met à votre disposition les compétences nécessaires pour défendre vos intérêts. Il doit donc, en principe, n’accepter une mission que s’il possède les connaissances et l’expérience requises. La prudence impose à l’avocat de ne pas se charger d’une cause s’il n’est pas en mesure de la défendre correctement.",
+        "• Devoir de diligence : l’avocat traite les affaires avec célérité, ce qui signifie qu’il doit effectuer toutes les actions nécessaire et utiles au succès du dossier. Il doit ainsi assurer un suivi rigoureux et personnel de l’affaire, sans négligence ni retard. L’avocat doit, par exemple, étudier le dossier, effectuer les actes dans les délais requis par la loi, suivre les audiences et s’assurer du bon déroulement de la procédure. Il doit également anticiper les conséquences juridiques de ses actes et s’assurer de leur validité et efficacité.",
+        "• Devoir d’information et de conseil : l’avocat doit vous informer régulièrement de l’évolution de votre affaire et vous éclairer sur les risques et issues possibles. L'information doit être claire, loyale et complète.",
+        "• Respect de la loi : l'avocat doit refuser de participer à la rédaction d'un acte ou d'une convention manifestement illicite ou frauduleux. Il doit ainsi s'assurer au préalable de la licéité (légalité) de l'opération pour laquelle il lui est donné mandat.",
+        "• Respect du secret professionnel : l’avocat est le confident du client. Il ne peut pas divulguer les informations confidentielles que vous lui avez confié. Le secret professionnel est général, absolu et illimité dans le temps. Toutefois, le secret peut être levé lorsqu'il s'agit pour l'avocat d'assurer sa propre défense, lorsque la loi le permet ou l'impose ou dans le cadre du dispositif TRACFIN.",
+        "• Respect du secret de l'enquête et de l'instruction en matière pénale : l'avocat ne doit pas divulguer les éléments du dossier d'enquête. Il y a une seule exception : dans le cadre de son travail de défense.",
+        "• Obligation de loyauté : l'avocat ne peut ni conseiller, ni représenter plusieurs parties à une même affaire si un conflit d'intérêt existe entre elles. Sauf accord écrit des parties, il ne peut pas accepter une nouvelle affaire si le secret des informations données par un ancien client risque d'être violé, ou si les informations dont il a connaissance par un ancien client favoriseraient le nouveau client.",
+        "• Respecter les termes de son mandat : l’avocat doit agir dans les limites des missions que vous lui avez confiées. Cette obligation inclut la nécessité de demander votre accord pour transiger ou de vous engager irrévocablement par une proposition ou une offre de contracter.",
+        "• Obligation de fixation et transparence des honoraires : l’avocat doit fixer ses honoraires via une convention écrite appelée convention d’honoraires. Ce document vous informe du mode de calcul des honoraires, de leur montant et des autres frais qui pourraient s'y ajouter. Lors de la clôture de votre dossier, l’avocat doit également vous remettre un compte détaillé qui présente distinctement les sommes correspondant à sa rémunération et les sommes correspondant aux frais payés pour votre compte.",
+        "• Obligation de mener l'affaire jusqu'à son terme sauf si vous l’en déchargez ou s’il décide de ne pas poursuivre sa mission. Dans ce dernier cas, il doit vous en informer rapidement pour vous permettre de changer d’avocat.",
+        "• Obligation de vous restituer les pièces du dossier dès que la procédure est terminée.",
+        "Devoirs envers la partie adverse et ses confrères",
+        "L’avocat doit également respect plusieurs règles à l’égard de la partie adverse et de ses confrères :",
+        "• Respect de la courtoisie et de la confraternité : l’avocat doit entretenir des relations respectueuses, courtoises et loyales avec ses confrères. Il s’abstient de toute attaque personnelle ou comportement déloyal.",
+        "• Interdiction de tout contact direct avec la partie adverse représentée : l’avocat ne peut pas entrer en relation directe avec la partie adverse sans passer par son avocat. Il y a une exception en cas d'accord exprès ou de circonstances prévues par la loi.",
+        "• Loyauté dans la communication des pièces et respect du contradictoire : l’avocat doit respecter les droits de la défense. Il doit également communiquer à la partie adverse les moyens de fait et de droit ainsi que les éléments de preuve de manière spontanée, en temps utile et par les moyens prévus par les règles de procédure.",
+        "• Interdiction de détourner ou d’exploiter les correspondances privées entre avocats : les correspondances entre avocats sont en principe confidentielles. Leur diffusion ou usage en justice est strictement encadré.",
+        "• Devoir de non-dénigrement et d’honneur de la profession : l’avocat s’interdit tout comportement qui jette le discrédit sur la profession ou sur un confrère, y compris dans les propos tenus devant le client ou le tribunal ou par le biais d’une publicité dénigrante ou comparative."
+      ]
+    },
+    {
+      "titre": "Comment choisir un avocat ?",
+      "contenu": [
+        "Choix de l'avocat",
+        "Vous êtes libre de choisir votre avocat au début et en cours de procédure, et ce même si vous bénéficiez de l'aide juridictionnelle.",
+        "Si vous ne connaissez pas d'avocat, vous pouvez consulter la liste des avocats proches de votre domicile grâce à l’annuaire des avocats :",
+        "Annuaire des barreaux français",
+        "Mais il y a quelques situations dans lesquelles votre liberté de choisir l'avocat est restreinte.",
+        "Limite territoriale de l'intervention de l'avocat",
+        "Le choix de l’avocat qui plaide pour vous est entièrement libre, sans aucune limitation territoriale : un avocat inscrit à n’importe quel barreau de France peut plaider devant toutes les juridictions de l’ordre judiciaire.",
+        "En revanche, le choix de l’avocat qui vous représente dans une procédure, c’est-à-dire celui qui accomplit pour vous les actes de procédure (remise des pièces, réception des actes, communication avec le greffe), est soumis à une limite géographique : un avocat ne peut vous représenter que devant les juridictions situées dans le ressort de la cour d’appel dont dépend son barreau.",
+        "Si votre avocat n’est pas inscrit auprès d’une juridiction compétente territorialement pour représenter, il pourra plaider l’affaire, mais devra mandater un correspondant (avocat postulant) inscrit dans le ressort concerné pour déposer les actes et assurer la représentation procédurale.",
+        "[Attention] Dans certaines procédures particulières, l'avocat ne peut pas vous représenter devant tous les tribunaux du ressort de la cour d'appel, mais uniquement devant un seul tribunal auprès duquel il est inscrit. Il s'agit des procédures suivantes : • Procédures de saisie immobilière • Procédures de partage et de licitation (vente aux enchères d'un bien en indivision) • Procédure avec aide juridictionnelle.",
+        "Risque de conflit d'intérêts",
+        "Un avocat ne peut pas accepter de vous défendre si vous êtes en conflit avec une partie dont il défendait déjà les intérêts. Il doit vous informer du risque de conflit d'intérêts et refuser la mission.",
+        "Incompatibilité",
+        "L'avocat n'a pas le droit d'exercer une autre activité professionnelle. Il y a une exception s'il s'agit d'une activité autorisée par la loi. Ce principe vise à garantir l’indépendance, la loyauté et la disponibilité de l’avocat dans l’exercice de ses missions.",
+        "Lorsqu’une seconde activité est autorisée, elle peut toutefois entraîner des restrictions dans l’exercice de la profession d’avocat : celui-ci peut être empêché d’accepter certains dossiers en lien avec l’autre activité, afin d’éviter tout conflit d’intérêts ou toute atteinte à la déontologie.",
+        "Certaines activités sont compatibles sous conditions, notamment les suivantes :",
+        "• Activité dans le secteur privé telle que membre du conseil de surveillance ou administrateur de société, sous réserve de respecter les règles d’indépendance et de prévention des conflits d’intérêts",
+        "• Activité politique au niveau national (député, député européen, sénateur, ministre) ou locale (maire, conseiller municipal, régional ou départemental) à condition de se conformer aux obligations de transparence et de ne pas utiliser la qualité d’avocat à des fins d’influence ou de promotion personnelle",
+        "• Ancienne activité de fonctionnaire dans la fonction publique territoriale ou dans la fonction publique d'État.",
+        "Avocat commis d'office",
+        "Lorsque vous devez faire face à une procédure pour laquelle l’assistance ou la représentation par avocat est obligatoire, et que vous n’avez pas d’avocat, un avocat commis d'office peut être désigné pour vous défendre.",
+        "Dans ce cas, vous ne choisissez pas librement votre avocat : sa désignation est effectuée soit par le bâtonnier de l’ordre des avocats, soit par le juge, à votre demande ou à son initiative.",
+        "C'est le cas lorsque vous êtes seul devant le tribunal pour une procédure dans laquelle la représentation par avocat est obligatoire.",
+        "L’avocat commis d’office exerce les mêmes missions et obligations professionnelles que tout autre avocat et peut, si vous le souhaitez, poursuivre sa mission au-delà de la procédure initiale.",
+        "Avocats aux conseils",
+        "Le recours à un avocat est obligatoire devant le Conseil d’État et la Cour de cassation, sauf dans quelques cas particuliers.",
+        "Vous devez choisir un avocat membre de l'ordre des avocats au Conseil d’État et à la Cour de cassation pour vous représenter auprès de l'une de ces 2 juridictions.",
+        "Vous pouvez trouver la liste des avocats au Conseil d’État et à la Cour de cassation sur le site de l’Ordre.",
+        "Avocat au Conseil d'État ou à la Cour de cassation",
+        "Succession d'avocat",
+        "Si vous souhaitez faire une action contre votre avocat, le nouvel avocat que vous sollicitez doit demander l'autorisation du bâtonnier avant d'accepter de vous défendre contre son confrère."
+      ]
+    },
+    {
+      "titre": "Comment la rémunération de l'avocat est-elle fixée ?",
+      "contenu": [
+        "La rémunération de l’avocat repose sur 3 éléments que sont les honoraires, les émoluments et les débours."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Réglement intérieur national de la profession d'avocat (RIN)",
+      "url": "https://encyclopedie.avocat.fr/Record.htm?idlist=1&record=19128073124919462559"
+    },
+    {
+      "titre": "Décret n°2023-552 du 30 juin 2023 portant code de déontologie des avocats",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047774060"
+    },
+    {
+      "titre": "Loi n°71-1130 du 31 décembre 1971 portant réforme de certaines professions judiciaires et juridiques",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006068396"
+    },
+    {
+      "titre": "Décret n°91-1197 du 27 novembre 1991 organisant la profession d'avocat",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000356568/"
+    },
+    {
+      "titre": "Décret n°2005-790 du 12 juillet 2005 relatif aux règles de déontologie de la profession d'avocat",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000633327/"
+    },
+    {
+      "titre": "Code de commerce : articles L444-1 à L444-7",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000030985092"
+    },
+    {
+      "titre": "Code civil : article 1374",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042421"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Barreau des avocats"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Règlement intérieur national de la profession d'avocat",
+      "url": "https://www.cnb.avocat.fr/fr/reglement-interieur-national-de-la-profession-davocat-rin"
+    }
+  ],
+  "slug": "avocat",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "acteurs-du-monde-judiciaire",
+      "titre": "Acteurs du monde judiciaire"
+    }
+  ]
+}

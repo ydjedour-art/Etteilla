@@ -1,0 +1,76 @@
+{
+  "id": "F34959",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "À quoi sert le pass Culture et comment en bénéficier ?",
+  "theme": "Famille - Scolarité",
+  "description": "Pour bénéficier du pass Culture, les personnes de 18 ans ou moins doivent télécharger sur smartphone ou ordinateur l'application dédiée et s'y inscrire.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-12-18",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34959",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Collège et lycée",
+    "À quoi sert le pass Culture et comment en bénéficier ?"
+  ],
+  "introduction": "Si vous avez 18 ans ou moins, le pass Culture permet de faciliter votre accès à la culture. Pour bénéficier du pass Culture, vous devez résider en France métropolitaine ou en outre-mer (Guadeloupe, Guyane, Martinique, La Réunion, Mayotte, Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon, Wallis et Futuna). Si vous n'avez pas la nationalité française, vous avez droit au pass Culture si vous vivez en France depuis 1 an. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les règles diffèrent selon la date de votre inscription au dispositif."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Décret n°2021-628 du 20 mai 2021 relatif au pass Culture",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000043518870"
+    },
+    {
+      "titre": "Arrêté du 20 mai 2021 relatif au pass Culture",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000043518889"
+    },
+    {
+      "titre": "Décret n°2021-1453 du 6 novembre 2021 relatif à l'extension du pass Culture aux jeunes en âge d'être scolarisés au collège et au lycée",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000044294126"
+    },
+    {
+      "titre": "Arrêté du 6 novembre 2021 portant application du décret n°2021-1453 du 6 novembre 2021 relatif à l'extension du pass Culture aux jeunes en âge d'être scolarisés au collège et au lycée",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000044294159/2024-01-03/"
+    },
+    {
+      "titre": "Décret n°2025-195 du 27 février 2025 relatif au « pass Culture »",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051261329"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Contact support pass Culture (pour toute question sur le pass Culture)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Site du pass Culture",
+      "url": "https://pass.culture.fr/"
+    },
+    {
+      "titre": "Part collective du pass Culture : activités concernées",
+      "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000044294198"
+    },
+    {
+      "titre": "Comment télécharger et installer l'application Pass Culture ?",
+      "url": "https://aide.passculture.app/hc/fr/articles/4412007175313--Jeune-de-18-ans-Comment-t%C3%A9l%C3%A9charger-et-installer-l-application-pass-Culture"
+    }
+  ],
+  "slug": "a-quoi-sert-le-pass-culture-et-comment-en-beneficier",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "college-et-lycee",
+      "titre": "Collège et lycée"
+    }
+  ]
+}

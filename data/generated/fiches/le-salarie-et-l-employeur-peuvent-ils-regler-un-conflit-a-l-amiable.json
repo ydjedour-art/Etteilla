@@ -1,0 +1,46 @@
+{
+  "id": "F33833",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Le salarié et l'employeur peuvent-ils régler un conflit à l'amiable ?",
+  "theme": "Travail - Formation",
+  "description": "En cas de conflit, le salarié et l'employeur peuvent opter pour 3 solutions : la médiation conventionnelle, la procédure participative ou la transaction.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2024-12-12",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33833",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Conflits du travail dans le secteur privé",
+    "Le salarié et l'employeur peuvent-ils régler un conflit à l'amiable ?"
+  ],
+  "introduction": "En cas de conflit entre un employeur et un salarié, le conseil de prud'hommes (CPH) peut être saisi pour régler le litige. Afin d'éviter de recourir au CPH, les parties peuvent décider de résoudre le litige à l'amiable. Elles peuvent choisir la médiation conventionnelle, la procédure participative ou une transaction. Les procédures diffèrent selon le choix des parties. Nous faisons un point sur la réglementation.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code du travail : article R1471-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034742183"
+    },
+    {
+      "titre": "Code civil : articles 1101 à 1111-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032040792"
+    },
+    {
+      "titre": "Code civil : articles 2044 à 2052",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006118164"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "le-salarie-et-l-employeur-peuvent-ils-regler-un-conflit-a-l-amiable",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "conflits-du-travail-dans-le-secteur-prive",
+      "titre": "Conflits du travail dans le secteur privé"
+    }
+  ]
+}

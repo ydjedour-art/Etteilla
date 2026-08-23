@@ -1,0 +1,212 @@
+{
+  "id": "F34010",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Piratage d'un compte d'utilisateur (boîte mail, compte de réseau social, etc.)",
+  "theme": "Justice",
+  "description": "Le piratage d'une messagerie électronique ou d'un compte de réseau social constitue une infraction qui peut être dénoncée et sanctionnée.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2024-08-07",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34010",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Arnaques sur internet (THESEE, Pharos ...)",
+    "Piratage d'un compte d'utilisateur (boîte mail, compte de réseau social, etc.)"
+  ],
+  "introduction": "Une personne a pris le contrôle de votre profil sur un réseau social ou de votre messagerie électronique (boîte mail) ? Il s'agit d'un piratage de compte d'utilisateur. Vous pouvez entamer des démarches pour remédier à cette situation. Vous avez également la possibilité de dénoncer ces agissements et d'obtenir réparation de votre préjudice. Nous vous présentons les étapes à suivre.",
+  "chapitres": [
+    {
+      "titre": "Reconnaître le piratage d'un compte d'utilisateur",
+      "contenu": [
+        "Pirater un compte d'utilisateur consiste, pour un individu malveillant, à prendre le contrôle de votre compte (messagerie électronique, profil sur un réseau social ou sur un site de vente en ligne, etc.) dans le but de vous dérober des informations personnelles et/ou bancaires ou pour en faire un usage frauduleux (escroquerie, usurpation d'identité, extorsion, hameçonnage, etc.).",
+        "On parle alors de cyberattaque.",
+        "[Exemple] Un individu pirate votre compte de messagerie électronique. Il utilise votre adresse mail pour demander à vos contacts de lui verser une somme d'argent. Il se rend coupable d'usurpation d'identité et d'escroquerie. D'autre part, une personne pirate votre profil sur un réseau social. Puis, il vous demande une rançon pour pouvoir reprendre le contrôle de votre compte. Il peut être poursuivi pour extorsion.",
+        "Plusieurs éléments permettent de suspecter que vous êtes victime d'un piratage de compte. C'est notamment le cas lorsque :",
+        "• Vous n’arrivez plus à vous connecter à votre compte avec vos identifiants",
+        "• Vous trouvez dans vos messages envoyés des mails dont vous n’êtes pas l’auteur",
+        "• Vos contacts affirment avoir reçu des mails de votre part alors que vous ne les avez pas envoyés",
+        "• Vous constatez que des contacts ont été ajoutés ou supprimés de votre compte à votre insu",
+        "• Vous recevez une notification qui vous indique une tentative de connexion à votre compte à partir d’un nouvel appareil",
+        "• Vous constatez la présence d’un appareil que vous ne connaissez pas dans votre historique de connexions",
+        "• Des informations personnelles (nom, prénom, date de naissance, numéro de téléphone, etc.) ou des paramètres de votre compte ont été modifiés et vous n'êtes pas à l'origine de ces modifications."
+      ]
+    },
+    {
+      "titre": "Reprendre le contrôle du compte piraté",
+      "contenu": [
+        "Changer le mot de passe du compte piraté",
+        "En cas de piratage de votre compte d'utilisateur, vous devez modifier votre mot de passe sur la plateforme concernée et sur tous les autres comptes pour lesquels vous auriez utilisé le même mot de passe.",
+        "Si vous n'y parvenez pas, vous pouvez signaler ce piratage aux responsables de la plateforme sur laquelle se trouve votre messagerie.",
+        "Certains plateformes en ligne détiennent des liens de signalement qui leur sont propres, notamment :",
+        "• Facebook",
+        "• Instagram",
+        "• X (anciennement Twitter)",
+        "• Snapchat",
+        "• LinkedIn",
+        "• Orange",
+        "• Laposte.net",
+        "L'assistance du service concerné vous aide à accéder au compte d'utilisateur piraté et à modifier votre mot de passe.",
+        "[À noter] À la suite du changement de mot de passe, vous pouvez mettre en place un dispositif de double authentification si le service de communication en ligne concerné le permet. Dès lors, à chaque nouvelle connexion sur votre compte d'utilisateur, vous recevrez un code confidentiel supplémentaire par SMS ou par courriel.",
+        "Prévenir toute nouvelle cyberattaque",
+        "Si vous pouvez vous connecter à votre compte d'utilisateur, vous devez vérifier que toutes les informations que vous avez renseignées lors de votre inscription (nom, prénom, adresse mail, numéro de téléphone, etc.) sont exactes.",
+        "En effet, il est possible que l'auteur du piratage ait modifié vos renseignements personnels dans le but de garder le contrôle sur votre compte et/ou sur vos communications.",
+        "Dans ce cas, vous devez d'abord collecter un maximum de preuves (par exemple, en faisant des captures d'écran) puis supprimer toutes les informations enregistrées frauduleusement par l'auteur du piratage.",
+        "[Attention] Vous devez également prévenir vos contacts que vous avez été piraté pour éviter qu'ils soient, eux aussi, victimes d'une cyberattaque. Si l'un d'entre eux vous informe qu'il a reçu un mail frauduleux de votre part et qu'une demande d'argent lui a été faite, il peut faire un signalement et/ou déposer plainte sur THESEE."
+      ]
+    },
+    {
+      "titre": "Prévenir votre banque en cas de piratage d'un compte d'utilisateur",
+      "contenu": [
+        "Si vos coordonnées de carte bancaire sont accessibles depuis le compte d'utilisateur piraté, vous devez prévenir votre banque au plus vite et, si nécessaire, faire opposition sur votre carte bancaire.",
+        "Si l'auteur du piratage peut accéder à votre RIB et procéder à un virement bancaire, vous pouvez également contester ce virement auprès de votre banque.",
+        "Dans le cas où l'auteur du piratage se serait servi de vos coordonnées bancaires pour effectuer des opérations (exemple : achats sur internet), vous pouvez solliciter un remboursement.",
+        "[Exemple] Lors de votre inscription sur un site de vente en ligne, vous avez consenti à ce que vos coordonnées de carte bancaire soient enregistrées sur ce site. Votre compte est piraté de sorte que l'auteur du piratage a accès à vos informations personnelles et bancaires. Dans ce cas, vous pouvez faire opposition sur votre carte bancaire et, éventuellement, demander un remboursement."
+      ]
+    },
+    {
+      "titre": "Signaler le piratage d'un compte d'utilisateur",
+      "contenu": [
+        "Il est possible de faire un signalement depuis la plateforme THESEE dès lors que votre messagerie électronique ou votre compte de réseau social a été piraté dans le but :",
+        "• De se faire passer pour vous et d'inviter vos contacts à vous remettre de l'argent",
+        "• De vous contraindre à verser une rançon pour vous permettre de retrouver le contrôle de votre boîte mail ou de votre profil",
+        "Signaler le piratage d'une messagerie électronique ou d'un compte de réseau social (THESEE)",
+        "Le signalement par le biais de ce téléservice peut être utilisé par tout particulier (majeur ou mineur), quelle que soit sa nationalité.",
+        "Vous n'êtes pas obligé de donner votre identité. Vous devez uniquement indiquer une adresse mail.",
+        "[Attention] Un signalement est possible uniquement en cas de piratage d'un messagerie électronique ou d'un compte de réseau social. Si un autre compte en ligne (exemple : compte sur un site commercial, compte Ameli) a été piraté, vous ne pouvez pas faire de signalement. Cependant, vous pouvez déposer plainte.",
+        "Pour que votre signalement soit recevable, il est indispensable qu'une demande d'argent ait été faite depuis votre compte (exemple : l'auteur du piratage a demandé une somme d'argent à vos contacts depuis votre boîte mail).",
+        "Toutefois, il n'est pas nécessaire qu'un versement et/ou qu'un encaissement ait eu lieu.",
+        "Lorsque vous faites votre signalement sur la plateforme THESEE, certaines informations vous sont demandées, notamment :",
+        "• Certaines de vos informations personnelles (nom, prénom, adresse, etc.)",
+        "• L'adresse du profil ou de la messagerie électronique piraté",
+        "• Description détaillée de la situation (exemple : date à laquelle a eu lieu le piratage, destinataire de messages envoyés depuis votre adresse mail)",
+        "• Informations sur l'auteur du piratage",
+        "• Somme demandée par l'auteur du piratage à vos contacts",
+        "• Captures d'écran.",
+        "[À savoir] Certains renseignements (exemple : l'adresse du compte piraté) doivent obligatoirement être renseignés.",
+        "Le signalement n'est pas une plainte. Il consiste uniquement à informer les services d'enquête de l'infraction commise et à leur apporter des éléments pour qu'ils identifient l'auteur des faits.",
+        "Si vous signalez le piratage de votre compte utilisateur, vous ne serez pas tenu informé des suites données à votre signalement.",
+        "Info Escroqueries",
+        "Par téléphone",
+        "0 805 805 817",
+        "Du lundi au vendredi de 9h à 18h30.",
+        "Numéro vert (appel gratuit depuis la France)."
+      ]
+    },
+    {
+      "titre": "Déposer plainte contre l'auteur du piratage",
+      "contenu": [
+        "Dans la mesure où vous êtes victime d'une infraction, vous pouvez déposer plainte contre l'auteur du piratage.",
+        "Il est possible de déposer plainte en ligne (par THESEE) dès lors que votre messagerie électronique ou votre compte de réseau social a été piraté dans le but :",
+        "• De se faire passer pour vous et d'inviter vos contacts à vous remettre de l'argent",
+        "• De vous contraindre à verser une rançon pour vous permettre de retrouver le contrôle de votre boîte mail ou de votre profil",
+        "Dans les autres cas, vous avez la possibilité de porter plainte en vous déplaçant au commissariat de police ou à la brigade de gendarmerie de votre choix ou en écrivant au procureur de la République.",
+        "Le délai pour déposer plainte est de 6 ans à compter de la commission des faits.",
+        "[À noter] Si vous ne connaissez pas l'identité de l'auteur du piratage, vous pouvez porter plainte contre X.",
+        "En ligne",
+        "Vous pouvez déposer plainte en ligne depuis la plateforme THESEE.",
+        "Porter plainte pour piratage d'une boîte mail ou d'un compte de réseau social (THESEE)",
+        "Dès que votre plainte est validée par les professionnels de ce téléservice, vous recevez une notice d'information dans votre espace personnel « Service-Public.fr ».",
+        "Cette notice vous permet d'obtenir des renseignements sur les suites données à votre plainte, les aides dont vous pouvez bénéficier (exemple : assistance d'un avocat) et les moyens d'obtenir une indemnisation.",
+        "Vous êtes également informé en cas d'identification et d'interpellation de l'auteur des faits.",
+        "[À savoir] Si vous êtes mineur, vous ne pouvez pas déposer plainte sur THESEE.",
+        "Sur place",
+        "Pour déposer plainte, vous devez vous rendre dans un commissariat de police ou à la gendarmerie de votre choix.",
+        "Commissariat",
+        "Brigade de gendarmerie",
+        "Les services de police ou de gendarmerie sont obligés d'enregistrer votre plainte si vous êtes victime d'une infraction.",
+        "Lors du dépôt de plainte, vous êtes reçu et entendu par la police ou la gendarmerie. À la fin de cet entretien, vous recevez un récépissé et une copie de votre plainte si vous la demandez.",
+        "[À noter] Si vous êtes mineur, vous pouvez signaler les faits au commissariat de police ou à la brigade de gendarmerie de votre choix. Si vous souhaitez obtenir une indemnisation, vous devez obligatoirement être accompagné par vos représentants légaux (exemple : vos parents) qui se constitueront partie civile à votre place.",
+        "Par courrier postal",
+        "Vous pouvez porter plainte auprès du procureur de la République.",
+        "Pour cela, vous devez envoyer un courrier au tribunal judiciaire du lieu de l'infraction ou du domicile de l'auteur de l'infraction.",
+        "Tribunal judiciaire ou tribunal de proximité",
+        "Votre courrier doit préciser les éléments suivants :",
+        "• Informations d'état civil (vos noms, prénoms, etc.) et vos coordonnées complètes (adresse et numéro de téléphone)",
+        "• Récit détaillé des faits, date et lieu de l'infraction",
+        "• Nom de l'auteur supposé si vous le connaissez (sinon, la plainte sera déposée contre X)",
+        "• Nom et adresse des éventuels témoins de l'infraction",
+        "• Description et estimation provisoire ou définitive du préjudice",
+        "• Documents de preuve (exemple : captures d'écran)",
+        "• Éventuelle volonté de vous constituer partie civile.",
+        "Vous pouvez utiliser le modèle de courrier suivant :",
+        "Porter plainte auprès du procureur de la République",
+        "Vous pouvez envoyer votre plainte par lettre recommandée avec accusé de réception, par lettre simple ou par lettre suivie.",
+        "Un récépissé vous est remis dès que les services du procureur de la République ont enregistré votre plainte.",
+        "[À noter] Si vous êtes mineur, vous pouvez signaler les faits, par écrit, au procureur de la République. Si vous souhaitez obtenir une indemnisation, vos représentants légaux (exemple : vos parents) doivent se constituer partie civile.",
+        "À la suite de votre plainte, l'auteur du piratage peut être poursuivi, puis condamné à des sanctions pénales par le tribunal correctionnel."
+      ]
+    },
+    {
+      "titre": "Obtenir la condamnation de l'auteur du piratage",
+      "contenu": [
+        "L'enquête de police peut aboutir à un jugement de condamnation de l'auteur du piratage. Cette décision est rendue par le tribunal correctionnel.",
+        "Les peines encourues par l'auteur du piratage dépendent de l'intention qu'il avait lorsqu'il a piraté votre compte et donc de la nature de l'infraction qu'il a commise.",
+        "Il peut notamment être condamné pour :",
+        "• Usurpation d'identité s'il a utilisé vos informations personnelles (exemple : votre adresse mail) dans un but malveillant",
+        "• Escroquerie s'il a trompé vos contacts en se faisant passer pour vous dans le but d'obtenir un bien ou une somme d'argent",
+        "• Extorsion s'il vous a demandé une rançon pour retrouver l'usage de votre compte",
+        "• Collecte de données à caractère personnel par un moyen frauduleux, déloyal ou illicite s'il vous a dérobé des données personnelles et/ou bancaires",
+        "Si vous vous constituez partie civile, vous pouvez également obtenir des dommages et intérêts.",
+        "[À savoir] Depuis le 21 mai 2024, une personne condamnée pour usurpation d'identité sur internet peut être bannie de la plateforme en ligne (exemple : un réseau social) à partir de laquelle elle a commis cette infraction. Dès qu'ils sont informés de cette condamnation, les fournisseurs d'accès au service en ligne concerné (SFR, Orange, Bouygues Télécom, etc.) doivent bloquer les comptes de l'auteur de l'usurpation d'identité et faire en sorte qu'il ne puisse pas en créer de nouveaux. Ce bannissement est valable pour une durée maximale de 6 mois. Cette période peut être portée à un an en cas de récidive."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code pénal : article 226-4-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042193593"
+    },
+    {
+      "titre": "Code pénal : articles 313-1 à 313-3",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006165331/"
+    },
+    {
+      "titre": "Code pénal : article 226-18",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417968/2024-07-24/"
+    },
+    {
+      "titre": "Code pénal : article 323-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030939443/"
+    },
+    {
+      "titre": "Loi n°2024-449 du 21 mai 2024 : article 16",
+      "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000049563402"
+    },
+    {
+      "titre": "Arrêté du 26 juin 2020 sur la création du traitement harmonisé des enquêtes et des signalements pour les e-escroqueries (THESEE)",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000042056637/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Assistance pour les victimes de cybermalveillance - 17Cyber",
+      "url": "https://17cyber.gouv.fr/",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Signaler la réception d'un message frauduleux (piratage de la messagerie d'un contact) - THESEE",
+      "url": "https://demarches.service-public.gouv.fr/mademarche/arnaqueInternet/demarche?action=SIGNALEMENT&type=PMEC",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Porter plainte pour réception d'un message frauduleux (piratage de la messagerie d'un contact) - THESEE",
+      "url": "https://demarches.service-public.gouv.fr/mademarche/arnaqueInternet/demarche?action=PLAINTE&type=PMEC",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "Info Escroqueries"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "piratage-d-un-compte-d-utilisateur-boite-mail-compte-de-reseau-social-etc",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "arnaques-sur-internet-thesee-pharos",
+      "titre": "Arnaques sur internet (THESEE, Pharos ...)"
+    }
+  ]
+}

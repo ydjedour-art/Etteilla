@@ -1,0 +1,78 @@
+{
+  "id": "F18291",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Un étudiant peut-il cumuler la bourse sur critères sociaux avec un emploi ou une autre aide ?",
+  "theme": "Famille - Scolarité",
+  "description": "Si vous êtes étudiant, vous pouvez cumuler la bourse d'enseignement supérieur sur critères sociaux avec certaines aides financières et certains emplois.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-05-22",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F18291",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Bourses et aides pour étudiant",
+    "Un étudiant peut-il cumuler la bourse sur critères sociaux avec un emploi ou une autre aide ?"
+  ],
+  "introduction": "Si vous êtes étudiant, vous pouvez cumuler la bourse d'enseignement supérieur sur critères sociaux avec certaines aides financières et certains emplois. Voici les possibilités.",
+  "chapitres": [
+    {
+      "titre": "Avec quelles aides financières peut-on cumuler la bourse sur critères sociaux ?",
+      "contenu": [
+        "Vous pouvez cumuler la bourse sur critères sociaux avec les aides suivantes :",
+        "• Bourses Talents (ex-allocation pour la diversité dans la fonction publique)",
+        "• Bourse Erasmus",
+        "• Aide au mérite",
+        "• Aide à la mobilité pour l'étudiant en Master",
+        "• Bourse accordée par une collectivité territoriale",
+        "• Prime d'activité.",
+        "Par contre, la bourse sur critères sociaux n'est pas cumulable avec les aides suivantes :",
+        "• Aide d'urgence annuelle",
+        "• Bourse d'un autre ministère que celui de l'enseignement supérieur",
+        "• Aide de formation permanente ou d'insertion professionnelle",
+        "• Bourse d'un gouvernement étranger."
+      ]
+    },
+    {
+      "titre": "Avec quel emploi peut-on cumuler la bourse sur critères sociaux ?",
+      "contenu": [
+        "En principe, vous pouvez cumuler votre bourse sur critères sociaux avec une activité professionnelle. Pour cela, vous devez respecter l'obligation d'assiduité aux cours et aux examens.",
+        "Toutefois, ce cumul est impossible si vous êtes dans l'une des situations suivantes :",
+        "• Vous êtes fonctionnaire",
+        "• Vous avez réussi un concours de l'internat (en médecine par exemple)",
+        "• Vous êtes inscrit à France Travail (anciennement Pôle emploi)",
+        "• Vous êtes en contrat d'apprentissage, de professionnalisation ou en congé individuel de formation.",
+        "[À savoir] Vous pouvez cumuler la bourse sur critère sociaux avec un contrat de service civique."
+      ]
+    },
+    {
+      "titre": "Peut-on cumuler la bourse sur critères sociaux avec un stage rémunéré ?",
+      "contenu": [
+        "Oui, vous pouvez cumuler la bourse sur critères sociaux avec un stage obligatoire, rémunéré et intégré dans votre cursus de formation.",
+        "Le cumul est possible même si ce stage est à temps complet."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Circulaire du 13 février 2026 relative aux bourses d'enseignement supérieur sur critères sociaux, des aides au mérite et des aides à la mobilité internationale pour 2026-2027",
+      "url": "https://www.education.gouv.fr/sites/default/files/document/Bulletin%20officiel%20n°%209%20du%2026%20février%202026-480515.pdf"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Rectorat",
+    "Centre régional des œuvres universitaires et scolaires (Crous)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "un-etudiant-peut-il-cumuler-la-bourse-sur-criteres-sociaux-avec-un-emploi-ou-une-autre-aide",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "bourses-et-aides-pour-etudiant",
+      "titre": "Bourses et aides pour étudiant"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "F38492",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Vous déménagez : aides financières",
+  "theme": "Social - Santé",
+  "description": "Si vous déménagez, vous pouvez obtenir des aides financières de la part de plusieurs organismes.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-30",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F38492",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Aides financières",
+    "Vous déménagez : aides financières"
+  ],
+  "introduction": "Vous allez bientôt déménager ? Nous vous présentons les aides financières qu'il est possible d'obtenir à cette occasion. Le droit à chaque aide est soumis à des conditions qui varient. La liste des aides est différente selon que vous serez locataire, colocataire ou propriétaire de votre futur logement.",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "vous-demenagez-aides-financieres",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "aides-financieres",
+      "titre": "Aides financières"
+    }
+  ]
+}

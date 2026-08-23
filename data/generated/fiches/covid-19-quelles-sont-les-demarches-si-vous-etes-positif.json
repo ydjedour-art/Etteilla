@@ -1,0 +1,83 @@
+{
+  "id": "F36403",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Covid-19 : quelles sont les démarches si vous êtes positif ?",
+  "theme": "Social - Santé",
+  "description": "Vous avez été testé positif à la Covid-19 ? Nous vous exposons les recommandations à suivre.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2023-02-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F36403",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Covid-19",
+    "Covid-19 : quelles sont les démarches si vous êtes positif ?"
+  ],
+  "introduction": "Vous avez été testé positif à la Covid-19 ? Nous vous exposons les recommandations à suivre.",
+  "chapitres": [
+    {
+      "titre": "Doit-on s'isoler ?",
+      "contenu": [
+        "Depuis le 1er février 2023, l'isolement systématique de 7 jours n'est plus obligatoire si vous avez été testé positif.",
+        "Il est toutefois recommandé de vous isoler."
+      ]
+    },
+    {
+      "titre": "Peut-on avoir un arrêt de travail ?",
+      "contenu": [
+        "Si vous décidez de vous isoler et que vous êtes dans l'impossibilité de travailler, y compris à distance, vous devez obtenir de votre médecin traitant un arrêt maladie.",
+        "Que vous soyez salarié, agent public ou travailleur indépendant, vous devez déclarer à l'Assurance maladie votre arrêt de travail.",
+        "[Attention] Depuis le 1er février 2023, le dispositif dérogatoire qui permettait de bénéficier d'un arrêt de travail sans délai de carence a été supprimé.",
+        "Si besoin, votre médecin traitant pourra vous prescrire une prolongation de votre arrêt de travail."
+      ]
+    },
+    {
+      "titre": "Comment prévenir son entourage ?",
+      "contenu": [
+        "Dès que vous avez connaissance que vous êtes positif à la Covid-19, vous devez informer les personnes avec qui vous avez été récemment en contact pour qu'elles puissent procéder, si besoin, à un test.",
+        "[À noter] Depuis le 1er février 2023, le service géré par l'Assurance maladie, qui permettait de prévenir les personnes avec lesquelles vous aviez été en contact, n'est plus actif."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Loi n°2022-1089 du 30 juillet 2022 mettant fin aux régimes d'exception créés pour lutter contre l'épidémie liée à la covid-19",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000046114630"
+    },
+    {
+      "titre": "Décret n°2022-1097 du 30 juillet 2022 relatif aux mesures de veille et de sécurité sanitaire maintenues en matière de lutte contre la covid-19",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000046115124"
+    },
+    {
+      "titre": "Arrêté du 1er juin 2021 prescrivant les mesures générales nécessaires à la gestion de la sortie de crise sanitaire",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000043575801"
+    },
+    {
+      "titre": "LOI n° 2022-1616 du 23 décembre 2022 de financement de la sécurité sociale pour 2023",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000046791754"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Informations Covid-19",
+      "url": "https://www.gouvernement.fr/info-coronavirus"
+    },
+    {
+      "titre": "Covid-19 : Règles d'isolement - FAQ",
+      "url": "https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/"
+    }
+  ],
+  "slug": "covid-19-quelles-sont-les-demarches-si-vous-etes-positif",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "covid-19",
+      "titre": "Covid-19"
+    }
+  ]
+}

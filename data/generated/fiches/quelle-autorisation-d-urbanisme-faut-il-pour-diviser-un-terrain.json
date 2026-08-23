@@ -1,0 +1,87 @@
+{
+  "id": "F37932",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quelle autorisation d'urbanisme faut-il pour diviser un terrain ?",
+  "theme": "Logement",
+  "description": "Une DP ou un PA est nécessaire pour diviser ou découper un terrain ou une parcelle en plusieurs lots selon sa situation ou la réalisation d’aménagements.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-07-21",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F37932",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Autorisations d'urbanisme",
+    "Quelle autorisation d'urbanisme faut-il pour diviser un terrain ?"
+  ],
+  "introduction": "Vous souhaitez réaliser une division de votre terrain en plusieurs parcelles. Une déclaration préalable (DP) peut être nécessaire, y compris en zone de protection particulière. Cependant, un permis d'aménager (PA) est nécessaire en site patrimonial remarquable, aux abords d’un monument historique ou en site classé ou en instance de classement, ou si vous réalisez un lotissement. Nous vous présentons la réglementation.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Dans tous les cas, vous devez consulter le PLU de votre commune qui peut prévoir des règles particulières (constructibilité, nombre de lots réalisable, surface minimum, distances des constructions par rapport aux limites de propriété...). Vous pouvez obtenir ces informations auprès du service de l’urbanisme de votre mairie :",
+        "Mairie",
+        "Avant de demander votre autorisation d’urbanisme, vous devez faire appel à un géomètre-expert qui réalise le bornage des parcelles et établit un document modificatif du parcellaire cadastral (DMPC) pour la mise à jour du cadastre.",
+        "Si vous vendez une ou plusieurs parcelles, le notaire assure la publication de la division au service de publicité foncière. Cette démarche n’est pas obligatoire si vous conservez les parcelles issues de la division.",
+        "[Attention] Une autorisation de construire (déclaration préalable ou permis de construire) ne vaut pas autorisation de diviser votre terrain. Votre division doit faire l’objet d’une demande d’autorisation d’urbanisme dédiée.",
+        "L’autorisation d’urbanisme est parfois différente si vous divisez votre terrain en vue de construire ou sans projet de construction."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'urbanisme : article L115-3",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031210395"
+    },
+    {
+      "titre": "Code de l’urbanisme : article R*421-19",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034355339"
+    },
+    {
+      "titre": "Code de l’urbanisme : article R*421-23",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031764703"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Assistance pour votre demande d'autorisation d'urbanisme",
+      "url": "https://demarches.service-public.gouv.fr/mademarche/DAUA/demarche",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Bureau accueil et service à l'usager (Basu) de Paris : guichet électronique unique",
+      "url": "https://teleservices.paris.fr/demarchesurbanisme/jsp/site/Portal.jsp?page=accueil",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Déclaration préalable Installations et aménagements non soumis à permis d’aménager",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_16703.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Demande de permis d'aménager",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_16297.do",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [
+    "Mairie",
+    "Paris : Bureau accueil et service à l'usager (Basu)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Propriétaire : réussir sa division de terrain",
+      "url": "https://www.youtube.com/watch?v=a1Jo39XYD4M"
+    }
+  ],
+  "slug": "quelle-autorisation-d-urbanisme-faut-il-pour-diviser-un-terrain",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "autorisations-d-urbanisme",
+      "titre": "Autorisations d'urbanisme"
+    }
+  ]
+}

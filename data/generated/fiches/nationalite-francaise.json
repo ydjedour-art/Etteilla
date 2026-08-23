@@ -1,0 +1,33 @@
+{
+  "id": "F34708",
+  "type_publication": "Recherche guidée",
+  "titre": "Nationalité Française",
+  "theme": "Étranger - Europe",
+  "description": "Nationalité Française",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2019-07-23",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34708",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Nationalité française",
+    "Nationalité Française"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "nationalite-francaise",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "nationalite-francaise",
+      "titre": "Nationalité française"
+    }
+  ]
+}

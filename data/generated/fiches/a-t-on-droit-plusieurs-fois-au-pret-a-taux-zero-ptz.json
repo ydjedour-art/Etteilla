@@ -1,0 +1,68 @@
+{
+  "id": "F113",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "A-t-on droit plusieurs fois au prêt à taux zéro (PTZ) ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Oui, à la condition de ne pas avoir été propriétaire de sa résidence principale au cours des 2 années précédant l'obtention du PTZ, sauf exceptions.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-03-06",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F113",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Crédit immobilier",
+    "A-t-on droit plusieurs fois au prêt à taux zéro (PTZ) ?"
+  ],
+  "introduction": "Oui, à la condition de ne pas avoir été propriétaire de votre résidence principale au cours des 2 années précédant l'obtention du PTZ. Mais cette condition n'est pas exigée dans certaines situations : handicap, invalidité, victime de catastrophe naturelle ou technologique, nu-propriétaire ou usufruitier.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Cas général",
+        "Pour financer une nouvelle opération immobilière, vous pouvez prétendre au PTZ à la condition de ne pas avoir été propriétaire de votre résidence principale pendant les 2 années précédant l'offre de prêt.",
+        "Pour obtenir le PTZ, vous devez respecter les autres critères d'attribution du PTZ. Il faut, notamment, que vos ressources ne dépassent pas un montant maximum.",
+        "Pour savoir si vos revenus ne dépassent pas ce montant maximum, vous pouvez utiliser ce simulateur :",
+        "Calculer le montant du prêt à taux zéro (PTZ)",
+        "[À savoir] Vous pouvez demander le transfert de votre PTZ lorsque vous vendez votre résidence principale achetée à l'aide d'un PTZ, pour en acheter un autre.",
+        "Handicap ou invalidité",
+        "Pour financer une nouvelle opération immobilière, vous pouvez prétendre au PTZ, même si vous avez été propriétaire de votre résidence principale au cours des 2 années précédant l'offre de prêt, à la condition de vous trouver dans l'une des situations suivantes :",
+        "• Vous-même ou un autre futur occupant du logement a une carte mobilité inclusion comportant la mention invalidité",
+        "• Vous-même ou un autre futur occupant du logement a une carte d'invalidité de 2e ou 3e catégorie (incapacité absolue de travailler)",
+        "• Vous-même ou ou un autre futur occupant du logement perçoit l'AAH",
+        "• Vous-même ou ou un autre futur occupant du logement perçoit l'AEEH.",
+        "Pour obtenir le PTZ, vous devez respecter les autres critères d'attribution du PTZ. Il faut notamment que vos ressources ne dépassent pas un montant maximum.",
+        "Pour savoir si vos revenus ne dépassent pas ce montant maximum, vous pouvez utiliser ce simulateur :",
+        "Calculer le montant du prêt à taux zéro (PTZ)",
+        "Catastrophe naturelle ou technologique",
+        "Pour financer une nouvelle opération immobilière, vous pouvez prétendre au PTZ, même si vous avez été propriétaire de votre résidence principale au cours des 2 années précédant l'offre de prêt, soit lorsqu'une catastrophe (naturelle ou technologique) a rendu votre résidence principale définitivement inhabitable.",
+        "Pour cela, vous devez respecter les conditions suivantes :",
+        "• Faire la demande de PTZ dans les 2 ans qui suivent la publication au Journal officiel de l'arrêté constatant le sinistre",
+        "• Fournir un justificatif prouvant la nécessité de construire ou d'acheter un nouveau logement",
+        "• Remplir les autres critères d'attribution du PTZ. Il faut, notamment, que vos ressources ne dépassent pas un montant maximum.",
+        "Pour savoir si vos revenus ne dépassent pas ce montant maximum, vous pouvez utiliser, à titre indicatif, ce simulateur :",
+        "Calculer le montant du prêt à taux zéro (PTZ)",
+        "Nu-propriétaire ou usufruitier",
+        "Pour financer une nouvelle opération immobilière, vous pouvez prétendre au PTZ, même si vous avez été usufruitier ou nu-propriétaire de votre résidence principale, au cours des 2 années précédant l'offre de prêt.",
+        "Pour obtenir le PTZ, vous devez respecter les autres critères d'attribution du PTZ. Il faut, notamment, que vos ressources ne dépassent pas un montant maximum.",
+        "Pour savoir si vos revenus ne dépassent pas ce montant maximum, vous pouvez utiliser ce simulateur :",
+        "Calculer le montant du prêt à taux zéro (PTZ)",
+        "[À savoir] Vous pouvez obtenir qu'un seul PTZ pour une même opération immobilière."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "a-t-on-droit-plusieurs-fois-au-pret-a-taux-zero-ptz",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "credit-immobilier",
+      "titre": "Crédit immobilier"
+    }
+  ]
+}

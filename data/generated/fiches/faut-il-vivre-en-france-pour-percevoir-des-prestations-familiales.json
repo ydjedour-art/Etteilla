@@ -1,0 +1,52 @@
+{
+  "id": "F33644",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Faut-il vivre en France pour percevoir des prestations familiales ?",
+  "theme": "Famille - Scolarité",
+  "description": "Pour avoir droit aux prestations familiales, il faut habiter en France (métropole ou outre-mer) plus de 6 mois par an.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-01-01",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33644",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Allocations destinées aux familles",
+    "Faut-il vivre en France pour percevoir des prestations familiales ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les règles varient selon votre lieu de résidence :"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la sécurité sociale : article L511-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006156408/"
+    },
+    {
+      "titre": "Code de la sécurité sociale : articles R111-1 à R111-4",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006156792/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Caisse d'allocations familiales (Caf)",
+    "Mutualité sociale agricole (MSA)"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "faut-il-vivre-en-france-pour-percevoir-des-prestations-familiales",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "allocations-destinees-aux-familles",
+      "titre": "Allocations destinées aux familles"
+    }
+  ]
+}

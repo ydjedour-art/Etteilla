@@ -1,0 +1,122 @@
+{
+  "id": "F32388",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Règle du silence vaut accord (SVA) : quelles sont les demandes concernées ?",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Si vous n'avez pas de réponse de l'administration au bout de 2 mois, cela signifie que votre demande est acceptée. C'est la règle du silence vaut accord (SVA).",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-06-05",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F32388",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Obligations de l'administration vis-à-vis des usagers",
+    "Règle du silence vaut accord (SVA) : quelles sont les demandes concernées ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "En principe, si vous ne recevez pas de réponse de l'administration au bout de 2 mois, cela signifie que votre demande est acceptée. C'est ce qu'on appelle la règle du silence vaut acceptation (SVA).",
+        "Un téléservice permet de vérifier si la règle du SVA s'applique à votre demande :",
+        "Consulter les démarches pour lesquelles le silence vaut accord",
+        "Le délai de 2 mois court à partir de la date de réception de la demande par l'administration compétente.",
+        "[Exemple] Si l'administration compétente reçoit une demande complète le 1er juin 2026, la décision implicite d'acceptation intervient le 1er août 2026.",
+        "Quelles sont les exceptions ?",
+        "Le silence gardé par l'administration pendant 2 mois vaut refus (décision de rejet) dans les cas suivants :",
+        "• La demande n'a pas pour objet l'adoption d'une décision individuelle",
+        "• La demande ne s'inscrit pas dans une procédure prévue par un texte législatif ou réglementaire",
+        "• La demande présente le caractère d'une réclamation ou d'un recours administratif",
+        "• La demande présente un caractère financier (par exemple, une demande d'indemnisation), à l’exception des cas de sécurité sociale prévus par décret",
+        "• La demande concerne les relations entre l'administration et ses agents",
+        "• La demande est écartée de la règle \"silence vaut accord\" par décret en Conseil d'État et en Conseil des ministres",
+        "• Une acceptation implicite ne serait pas compatible avec le respect des engagements internationaux et européens de la France, la protection de la sécurité nationale, la protection des libertés et des principes à valeur constitutionnelle et la sauvegarde de l'ordre public.",
+        "Le délai de 2 mois court à partir de la date de réception de la demande par l'administration initialement saisie.",
+        "[Exemple] Si l'administration saisie reçoit un dossier de demande complet le 1er juin 2026, la décision implicite de rejet intervient le 1er août 2026.",
+        "[À savoir] La décision implicite d'acceptation ou de rejet peut intervenir dans un délai différent du délai de 2 mois en cas d'urgence ou de procédure complexe.",
+        "Une décision implicite d'acceptation peut-elle être annulée ?",
+        "La situation varie selon qu’il s’agit de votre demande ou de celle de l’administration :",
+        "À votre demande en tant que bénéficiaire de la décision",
+        "La situation varie selon que la décision est légale ou non :",
+        "La décision est légale",
+        "L'administration peut abroger ou retirer une décision légale, sans condition de délai, si les 2 conditions suivantes sont remplies :",
+        "• Le retrait ou l'abrogation de la décision respecte les droits des autres personnes",
+        "• La décision retirée ou abrogée est remplacée par une décision qui vous est plus favorable.",
+        "La décision est illégale",
+        "L'administration doit abroger ou retirer une décision illégale d'acceptation dans les 4 mois suivant la publication de la décision.",
+        "Si vous faites un recours contentieux après un recours administratif obligatoire (Rapo), le délai est prolongé jusqu'à la fin du délai accordé à l'administration pour se prononcer sur le Rapo.",
+        "Toutefois, l'administration n'a pas de délai à respecter si les 2 conditions suivantes sont remplies :",
+        "• Le retrait ou l'abrogation de la décision respecte les droits des autres personnes",
+        "• La décision retirée ou abrogée est remplacée par une décision plus favorable au bénéficiaire.",
+        "À l'initiative de l'administration ou à la demande d'une autre personne",
+        "L'administration peut abroger ou retirer une décision d'acceptation si les 2 conditions suivantes sont remplies :",
+        "• La décision est illégale",
+        "• Le retrait ou l'abrogation intervient dans les 4 mois suivant la prise de cette décision.",
+        "Toutefois, la condition de délai n'est pas exigée dans les cas suivants :",
+        "• La décision dépend d'une condition qui n'est plus remplie (par exemple, une condition d'âge du demandeur)",
+        "• La décision attribuant une subvention ne respecte pas les conditions prévues pour son attribution."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code des relations entre le public et l'administration : articles L231-1 à D231-3",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000031366350/LEGISCTA000031367609"
+    },
+    {
+      "titre": "Code des relations entre le public et l'administration : articles L231-4 à L231-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000031366350/LEGISCTA000031367617"
+    },
+    {
+      "titre": "Code des relations entre le public et l'administration : article L231-6",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000031367623"
+    },
+    {
+      "titre": "Code des relations entre le public et l'administration : articles L232-1 à L232-3",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000031367629/"
+    },
+    {
+      "titre": "Code des relations entre le public et l'administration : articles L242-1 à L242-2",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000031367655"
+    },
+    {
+      "titre": "Code des relations entre le public et l'administration : article R*311-12",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031370407"
+    },
+    {
+      "titre": "Décret n°2014-1292 du 23 octobre 2014 relatif aux exceptions au principe \"silence vaut acceptation\" et aux exceptions au délai de 2 mois de naissance des décisions implicites (intérieur)",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000029676117/"
+    },
+    {
+      "titre": "Arrêt de la Cour de cassation - chambre commerciale financière et économique - n°22-19.952 du 15 novembre 2023",
+      "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000048430208"
+    },
+    {
+      "titre": "Réponse ministérielle du 13 février 2020 relative à l'application du principe \"silence vaut accord\"",
+      "url": "http://www.senat.fr/basile/visio.do?id=qSEQ200214397"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Consulter les démarches pour lesquelles le silence vaut accord",
+      "url": "https://www.service-public.gouv.fr/demarches-silence-vaut-accord",
+      "type": "outilRechercheNG"
+    }
+  ],
+  "contacts": [
+    "Maison de justice et du droit"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "regle-du-silence-vaut-accord-sva-quelles-sont-les-demandes-concernees",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "obligations-de-l-administration-vis-a-vis-des-usagers",
+      "titre": "Obligations de l'administration vis-à-vis des usagers"
+    }
+  ]
+}

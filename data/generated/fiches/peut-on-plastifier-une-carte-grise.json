@@ -1,0 +1,51 @@
+{
+  "id": "F15390",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Peut-on plastifier une carte grise ?",
+  "theme": "Transports - Mobilité",
+  "description": "Non. Si vous plastifiez votre carte grise, elle perd sa validité, car on ne peut plus rajouter de mentions. Il faudra alors demander un duplicata.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2024-05-31",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F15390",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Carte grise (certificat d'immatriculation)",
+    "Peut-on plastifier une carte grise ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Non. Vous ne pouvez pas plastifier votre carte grise (aussi appelée certificat d'immatriculation).",
+        "La carte grise est un document qui peut être complété par les éléments suivants :",
+        "• Pastilles (contrôle technique)",
+        "• Vignettes (changement d'adresse)",
+        "• Mentions manuscrites (en cas de cession de véhicule)",
+        "Si vous la plastifiez, il n'est plus possible de rajouter de mentions. La carte grise perd donc sa validité. Il faudra dans ce cas demander un duplicata."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [
+    {
+      "titre": "Refaire son certificat d’immatriculation (auparavant appelé carte grise) en cas de perte, vol ou détérioration",
+      "url": "https://immatriculation.ants.gouv.fr/demarches-en-ligne/refaire-votre-certificat-dimmatriculation",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "peut-on-plastifier-une-carte-grise",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "carte-grise-certificat-d-immatriculation",
+      "titre": "Carte grise (certificat d'immatriculation)"
+    }
+  ]
+}

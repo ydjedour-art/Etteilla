@@ -1,0 +1,84 @@
+{
+  "id": "F18217",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Un ancien fonctionnaire qui devient invalide a-t-il droit à une retraite pour invalidité ?",
+  "theme": "Travail - Formation",
+  "description": "Le fonctionnaire qui devient invalide après avoir quitté la fonction publique peut bénéficier, sous certaines conditions, d’une retraite pour invalidité.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-01-23",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F18217",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Retraite d'un agent public",
+    "Un ancien fonctionnaire qui devient invalide a-t-il droit à une retraite pour invalidité ?"
+  ],
+  "introduction": "Oui, si vous avez quitté temporairement ou définitivement la fonction publique et devenez invalide, vous pouvez bénéficier, sous certaines conditions, d’une retraite pour invalidité de la part du SRE si vous étiez fonctionnaire d’État ou de la part de la CNRACL si vous étiez fonctionnaire territorial ou hospitalier.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Vous devez remplir les 2 conditions suivantes :",
+        "• Avoir accompli au moins 15 ans de services",
+        "• Être atteint d'une infirmité ou d'une maladie incurable rendant toute profession impossible.",
+        "Cette infirmité ou maladie doit survenir alors que vous n'exercez plus de fonction dans la fonction publique donnant lieu à cotisations au SRE ou à la CNRACL. Cela peut se produire pendant une disponibilité, après une démission, une radiation des cadres, etc.",
+        "Il n'y a pas de condition d'âge à remplir pour bénéficier de cette retraite pour invalidité.",
+        "Vous pouvez également être admis en retraite anticipée pour invalidité si votre époux, qu’il soit fonctionnaire ou non, est atteint d'une infirmité ou d'une maladie incurable rendant toute profession impossible. Dans ce cas, vous devez aussi avoir accompli au moins 15 ans de services.",
+        "[À noter] Un agent contractuel ne peut pas bénéficier de ce dispositif.",
+        "La procédure de demande de retraite pour infirmité ou maladie incurable varie selon votre fonction publique de rattachement (État - FPE, territoriale - FPT, hospitalière - FPH) :",
+        "FPE",
+        "Vous devez remplir un formulaire de demande de retraite pour invalidité.",
+        "Demande de retraite d’un fonctionnaire de l’État, d’un magistrat ou d’un militaire, au titre de l’invalidité",
+        "Vous devez adresser ce formulaire et les justificatifs demandés (dont la liste est précisée dans le formulaire) par voie hiérarchique à votre administration gestionnaire.",
+        "Votre demande est d'abord examinée par votre administration gestionnaire.",
+        "Pour juger de votre incapacité définitive ou de celle de votre époux, vous-même ou votre époux êtes expertisé par un ou plusieurs médecins agréés par l'administration.",
+        "Le conseil médical examine ensuite votre demande. Si vous remplissez les conditions, votre administration gestionnaire transmet votre demande au SRE pour décision.",
+        "Ce service vous transmet sa décision de mise à la retraite anticipée pour invalidité.",
+        "Vous recevez enfin votre titre de pension. Vous devez en accuser réception sur un imprimé spécifique. Vous devez le transmettre au SRE. Cela déclenche le paiement de votre pension de retraite.",
+        "[À noter] N’hésitez pas à vous rapprocher de votre service de ressources humaines pour remplir ce formulaire.",
+        "FPT ou FPH",
+        "Adressez-vous à votre collectivité employeur qui se chargera d'adresser votre demande de retraite pour invalidité à la CNRACL.",
+        "L'impossibilité d'exercer toute profession est étudiée par le conseil médical.",
+        "[Rappel] Si vous devenez invalide alors que vous êtes en activité dans la fonction publique, vous pouvez être admis à la retraite anticipée pour invalidité sans condition de durée de service."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code des pensions civiles et militaires de retraite : article L24",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028498845/"
+    },
+    {
+      "titre": "Code des pensions civiles et militaires de retraite : article L31",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006362753/"
+    },
+    {
+      "titre": "Décret n°2003-1306 du 26 décembre 2003 relatif au régime de retraite des fonctionnaires affiliés à la CNRACL : article 25",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000030059003/"
+    },
+    {
+      "titre": "Décret n°2003-1306 du 26 décembre 2003 relatif au régime de retraite des fonctionnaires affiliés à la CNRACL : article 31",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000045350829"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demande de retraite d’un fonctionnaire de l’État, d’un magistrat ou d’un militaire, au titre de l’invalidité",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_15684.do",
+      "type": "formulaireNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "un-ancien-fonctionnaire-qui-devient-invalide-a-t-il-droit-a-une-retraite-pour-invalidite",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "retraite-d-un-agent-public",
+      "titre": "Retraite d'un agent public"
+    }
+  ]
+}

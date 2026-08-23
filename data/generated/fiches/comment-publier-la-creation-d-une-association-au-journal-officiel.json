@@ -1,0 +1,70 @@
+{
+  "id": "F34721",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Comment publier la création d'une association au Journal officiel ?",
+  "theme": "Associations, fondations et fonds de dotation",
+  "description": "La demande de publication au Journal officiel est incluse dans le formulaire de déclaration (en ligne et cerfa).",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-10-07",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34721",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Associations, fondations et fonds de dotation",
+    "Création d'une association",
+    "Comment publier la création d'une association au Journal officiel ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Pour qu'une association obtienne la personnalité morale et la capacité juridique, sa création doit faire l'objet d'une publication au JOAFE.",
+        "En pratique, la demande de publication au JOAFE est incluse dans le formulaire de déclaration (en ligne ou à l'aide du cerfa).",
+        "Le greffe des associations transmet la demande de publication à la Direction de l'information légale et administrative (Dila).",
+        "La Dila publie ensuite un extrait de la déclaration. Cet extrait comporte les informations suivantes :",
+        "• Date de la déclaration en préfecture",
+        "• Titre de l'association",
+        "• Objet",
+        "• Adresse du siège de l'association.",
+        "Pour pouvoir justifier de l'existence et de la capacité juridique de l'association, les dirigeants peuvent télécharger une copie de l'annonce publiée au JOAFE (ou justificatif de publication).",
+        "Ce document est à conserver durant toute la vie de l'association.",
+        "La publication au JOAFE est gratuite.",
+        "Le délai de transmission de la déclaration à la Dila, par les greffes des associations, dépend des préfectures et des périodes de l'année.",
+        "À réception de la demande de publication par la Dila, l'annonce est diffusée sous 10 jours.",
+        "La publication a lieu tous les mardis.",
+        "[Attention] Ces informations ne concernent pas les associations situées en Alsace-Moselle."
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [
+    {
+      "titre": "Création d'une association (e-création)",
+      "url": "https://demarches.service-public.gouv.fr/asso_mademarche/CR/demarche",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Création d'une association",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_13973.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Consulter les annonces des associations et fondations",
+      "url": "https://www.journal-officiel.gouv.fr/pages/associations/",
+      "type": "Outil de recherche"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "comment-publier-la-creation-d-une-association-au-journal-officiel",
+  "path": [
+    {
+      "slug": "associations-fondations-et-fonds-de-dotation",
+      "titre": "Associations, fondations et fonds de dotation"
+    },
+    {
+      "slug": "creation-d-une-association",
+      "titre": "Création d'une association"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "F32920",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Qui paie les charges de copropriété l'année de la vente du logement ?",
+  "theme": "Logement",
+  "description": "Tout dépend si les charges proviennent du budget prévisionnel ou non.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-02-13",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F32920",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Budget et charges de copropriété",
+    "Qui paie les charges de copropriété l'année de la vente du logement ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Lors de la vente d'un logement, l'acquéreur et le vendeur se répartissent le paiement des charges communes de copropriété et des travaux. Ces informations sont mentionnées dans l’état daté.",
+        "Charges courantes de copropriété",
+        "Le paiement de la provision exigible du budget prévisionnel est à la charge du copropriétaire vendeur. Cette somme est exigible le 1er jour de chaque trimestre ou le 1er jour de la période fixée par l’assemblée générale.",
+        "Par contre, le paiement des provisions de dépenses non comprises dans le budget prévisionnel est à la charge de celui qui est copropriétaire - vendeur ou acquéreur - au moment où le paiement est exigé.",
+        "[À noter] Un accord entre le copropriétaire vendeur et l'acquéreur peut toutefois prévoir une répartition des charges différente. Cet accord n'a néanmoins d'effet qu'entre le copropriétaire et l'acquéreur. Il n'est pas possible de s'en prévaloir auprès de tiers, notamment auprès du syndic de copropriété.",
+        "Régularisation des charges",
+        "La régularisation des charges est l'ajustement annuel du montant des provisions versées par les copropriétaires en fonction des dépenses réelles du syndicat des copropriétaires. Ce montant est fixé lors de l'approbation des comptes en assemblée générale des copropriétaires.",
+        "Le trop ou le moins perçu est crédité ou débité sur le compte de celui qui est copropriétaire à la date de l'approbation des comptes.",
+        "[Rappel] Les parties peuvent convenir d’une répartition différente dans l’acte de vente.",
+        "Charges liées aux travaux",
+        "En cas de travaux votés en assemblée générale avant la vente du logement :",
+        "• Le vendeur paye les appels de fonds établis avant la vente, conformément au calendrier voté en assemblée générale",
+        "• L'acquéreur paye les appels de fonds émis après la vente.",
+        "Ainsi, c'est la personne qui est propriétaire à la date où le paiement est exigé qui devra régler l'appel de fonds pour travaux, même si les travaux n'ont pas commencé.",
+        "[À savoir] Les sommes versées obligatoirement par chacun des copropriétaires au titre du fonds travaux n'ont pas à être remboursées au vendeur."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Décret n°67-223 du 17 mars 1967 : article 6-2",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006488321"
+    },
+    {
+      "titre": "Décret n°67-223 du 17 mars 1967 : article 6-3",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006488324"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "qui-paie-les-charges-de-copropriete-l-annee-de-la-vente-du-logement",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "budget-et-charges-de-copropriete",
+      "titre": "Budget et charges de copropriété"
+    }
+  ]
+}

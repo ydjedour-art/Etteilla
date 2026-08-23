@@ -1,0 +1,33 @@
+{
+  "id": "F37293",
+  "type_publication": "Recherche guidée",
+  "titre": "Arme trouvée ou héritée",
+  "theme": "Loisirs - Sports - Culture",
+  "description": "Arme trouvée ou héritée",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2024-04-03",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F37293",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Loisirs - Sports - Culture",
+    "Armes",
+    "Arme trouvée ou héritée"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "arme-trouvee-ou-heritee",
+  "path": [
+    {
+      "slug": "loisirs-sports-culture",
+      "titre": "Loisirs - Sports - Culture"
+    },
+    {
+      "slug": "armes",
+      "titre": "Armes"
+    }
+  ]
+}

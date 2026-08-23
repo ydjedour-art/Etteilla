@@ -1,0 +1,65 @@
+{
+  "id": "F10492",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Comment obtenir la copie d'un diplôme ?",
+  "theme": "Famille - Scolarité",
+  "description": "En cas de perte ou de vol d'un diplôme, vous pourrez obtenir un duplicata ou une attestation de réussite.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-09-15",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F10492",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Famille - Scolarité",
+    "Diplômes",
+    "Comment obtenir la copie d'un diplôme ?"
+  ],
+  "introduction": "En cas de perte ou de vol d'un diplôme de l'enseignement secondaire (par exemple : brevet, bac), vous pouvez obtenir une attestation de réussite numérique ou papier. S'il s'agit d'un diplôme d’enseignement supérieur (par exemple : licence, master), vous pouvez obtenir une attestation numérique ou un duplicata papier. Si vous avez changé d'état civil, vous pouvez demander la réédition de votre diplôme avec la prise en compte de ce changement.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Circulaire du 7 mai 2023 relative aux modalités d'élaboration et de délivrance des diplômes nationaux et de certains diplômes d'État par les établissements d'enseignement supérieur",
+      "url": "https://www.enseignementsup-recherche.gouv.fr/fr/bo/2023/Hebdo22/ESRS2312764C"
+    },
+    {
+      "titre": "Arrêté du 23 mai 2018 autorisant la mise en œuvre d'un traitement automatisé de données à caractère personnel dénommé « Service d'attestation numérique des diplômes »",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000036936955/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demande d'attestation de réussite en cas de perte d'un diplôme délivré en Île-de-France",
+      "url": "https://siec.education.fr/candidats/demarches/nouveau/attestation-reussite",
+      "type": "selNG"
+    },
+    {
+      "titre": "Obtenir une attestation numérique de ses diplômes",
+      "url": "https://candidat.examens-concours.gouv.fr/cyccandidat/portal/login",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "Rectorat",
+    "Établissement d'enseignement supérieur"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Attestation numérique : diplômes disponibles par académie et par session",
+      "url": "https://diplome.gouv.fr/sanddiplome/perimeter"
+    },
+    {
+      "titre": "Obtenir une copie de diplôme",
+      "url": "https://www.education.gouv.fr/obtenir-une-copie-de-diplome-11798"
+    }
+  ],
+  "slug": "comment-obtenir-la-copie-d-un-diplome",
+  "path": [
+    {
+      "slug": "famille-scolarite",
+      "titre": "Famille - Scolarité"
+    },
+    {
+      "slug": "diplomes",
+      "titre": "Diplômes"
+    }
+  ]
+}

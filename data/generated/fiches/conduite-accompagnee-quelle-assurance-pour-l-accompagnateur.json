@@ -1,0 +1,65 @@
+{
+  "id": "F2662",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Conduite accompagnée : quelle assurance pour l'accompagnateur ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Les différentes formes de conduite accompagnée nécessitent souvent une clause d'extension de garantie dans le contrat d'assurance.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-03-03",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2662",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Assurance automobile (véhicule)",
+    "Conduite accompagnée : quelle assurance pour l'accompagnateur ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Si vous souhaitez aider votre enfant à préparer le permis via une des formes de conduite accompagnée, vous devez vérifier si votre contrat d'assurance le permet.",
+        "Si tel n'est pas le cas, vous devez demander à votre assureur de vous accorder une extension de garantie.",
+        "Vous pouvez faire la demande à votre assureur dès l'inscription de votre enfant à l'auto-école, sans attendre le démarrage de la phase de conduite accompagnée.",
+        "Cette extension de garantie n'entraîne pas de surcoût.",
+        "En cas d'acceptation de ce nouveau risque, l'assureur modifiera votre contrat en rédigeant un avenant. Le nom du conducteur accompagné sera ainsi mentionné dans votre contrat d'assurance auto. Et il pourra bénéficier des mêmes garanties que vous.",
+        "En revanche, le niveau de franchise sera réévalué au niveau de franchise « conducteur novice » qui figure habituellement dans les contrats d’assurance. L’assuré accompagnateur prendra à sa charge une partie des dommages en cas d’accident.",
+        "[À savoir] Si le jeune conducteur est supervisé par plusieurs accompagnateurs, chaque personne doit demander une extension de garantie."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la route : articles R211-3 à R211-7",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074228/LEGISCTA000006177075"
+    },
+    {
+      "titre": "Code des assurances : articles L211-1 à L211-2",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006174242"
+    },
+    {
+      "titre": "Code des assurances : articles R211-10 à R211-13",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006175427"
+    },
+    {
+      "titre": "Arrêté du 22 décembre 2009 relatif à l'apprentissage de la conduite des véhicules à moteur de la catégorie B dans un établissement d'enseignement agrée",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000021560658/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Info Banque - Assurance"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "conduite-accompagnee-quelle-assurance-pour-l-accompagnateur",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "assurance-automobile-vehicule",
+      "titre": "Assurance automobile (véhicule)"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "F21103",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Que faire lorsqu’on n’arrive pas à faire soi-même une demande de carte grise ?",
+  "theme": "Transports - Mobilité",
+  "description": "Les démarches d'immatriculation se font dorénavant en ligne sur le site de l’ANTS. Des solutions existent si vous n’arrivez pas à les faire vous-même.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-09-15",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F21103",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Carte grise (certificat d'immatriculation)",
+    "Que faire lorsqu’on n’arrive pas à faire soi-même une demande de carte grise ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les démarches d'immatriculation se font sur internet sur le site de l'Agence nationale des titres sécurisés (ANTS).",
+        "Si vous rencontrez des difficultés avec l'utilisation d'internet, vous pouvez ;",
+        "• Soit demander à un tiers (parent, ami, agent dans un point numérique ou une maison France services) de vous aider",
+        "• Soit faire réaliser la démarche par un professionnel de l'automobile habilité par le ministère de l'intérieur.",
+        "Vous sollicitez un tiers",
+        "• Vous pouvez demander à un parent ou un ami d'effectuer la démarche en ligne en votre nom. Le parent ou ami devra utiliser son propre compte ANTS et déclarer faire la démarche en votre nom. Il n'y a pas à établir une procuration.",
+        "• Vous pouvez vous rendre dans un point numérique (avec ordinateurs, imprimantes et scanners), mis à disposition dans chaque préfecture et dans la plupart des sous-préfectures. Des médiateurs, placés sur ces points numériques, pourront vous guider dans la réalisation de vos démarches.",
+        "• Vous pouvez également vous rendre dans une maison France Services.",
+        "Point d'accueil numérique",
+        "France Services / Maison de services au public",
+        "Vous faites réaliser la démarche par un professionnel de l'automobile habilité",
+        "Vous pouvez demander à un professionnel de l'automobile habilité par le ministère de l'intérieur d'effectuer pour vous certaines démarches, notamment :",
+        "• Immatriculation d'un véhicule neuf (y compris cyclomoteur)",
+        "• Immatriculation d'un véhicule d'occasion ayant des plaques françaises (y compris cyclomoteur)",
+        "• Changement de locataire (pour les loueurs)",
+        "• Changement d’adresse (celui du locataire ne peut être fait que par les loueurs)",
+        "• Changement de titulaire d’un véhicule d’occasion (seuls les loueurs peuvent effectuer celui d’un véhicule de location)",
+        "• Déclaration d'achat ou de cession d'un véhicule",
+        "• Duplicata du certificat d’immatriculation",
+        "• Demande de fin d’usage de démonstration",
+        "• Demande d'un certificat de situation administrative (certificat de non gage)",
+        "• Réédition du certificat provisoire d’immatriculation (CPI)",
+        "• Déclaration d'achat ou de cession pour destruction",
+        "• Déclaration de destruction d'un véhicule.",
+        "[À savoir] Des frais de service vous seront demandés.",
+        "Professionnel habilité pour l'immatriculation des véhicules"
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Immatriculation (site ANTS)",
+      "url": "https://immatriculation.ants.gouv.fr/"
+    },
+    {
+      "titre": "Points numériques",
+      "url": "https://immatriculation.ants.gouv.fr/services-et-formulaires/carte-des-points-numeriques"
+    }
+  ],
+  "slug": "que-faire-lorsqu-on-n-arrive-pas-a-faire-soi-meme-une-demande-de-carte-grise",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "carte-grise-certificat-d-immatriculation",
+      "titre": "Carte grise (certificat d'immatriculation)"
+    }
+  ]
+}

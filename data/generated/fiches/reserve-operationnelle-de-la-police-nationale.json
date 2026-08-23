@@ -1,0 +1,117 @@
+{
+  "id": "F34110",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Réserve opérationnelle de la police nationale",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Citoyens volontaires, anciens adjoints de sécurité et policiers retraités peuvent candidater à la réserve opérationnelle de la police sous certaines conditions.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-08-18",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34110",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Volontariats",
+    "Réserve opérationnelle de la police nationale"
+  ],
+  "introduction": "Vous souhaitez intégrer la réserve opérationnelle de la police nationale ? Vous pouvez postuler pour être citoyen volontaire, ancien adjoint de sécurité ou policier retraité. Vous devez remplir plusieurs conditions pour pouvoir déposer un dossier. Si votre candidature est retenue, vous aurez à passer un entretien et une visite médicale, avant de signer votre contrat d'engagement. Vos missions seront indemnisées. Nous vous indiquons les informations à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de la sécurité intérieure : articles L411-7 à L411-17",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000025503132/LEGISCTA000025505879/"
+    },
+    {
+      "titre": "Code de la sécurité intérieure : articles R411-13 à D411-21",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000028286986/"
+    },
+    {
+      "titre": "Code de la sécurité intérieure : articles R411-22 à D411-25",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000028286974/"
+    },
+    {
+      "titre": "Code de la sécurité intérieure : articles R411-26 à R411-30-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000028286974/"
+    },
+    {
+      "titre": "Code de la sécurité intérieure : articles R411-32 à D411-35",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033097249/"
+    },
+    {
+      "titre": "Loi n° 2026-791 du 16 août 2026 actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054694832"
+    },
+    {
+      "titre": "Décret n°2017-328 du 14 mars 2017 portant création d'une prime de fidélité et d'autres mesures d'encouragement au profit des réservistes de la garde nationale",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000034187583/"
+    },
+    {
+      "titre": "Décret n° 2022-1112 du 3 août 2022 relatif à la réserve opérationnelle de la police nationale",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000046138438/"
+    },
+    {
+      "titre": "Décret n° 2022-1113 du 3 août 2022 relatif à la qualité d'officier et d'agent de police judiciaire des fonctionnaires de la police nationale et militaires de la gendarmerie retraités",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000046138486/"
+    },
+    {
+      "titre": "Arrêté du 31 août 2022 relatif aux grades, aux conditions de nomination et aux modalités des avancements des réservistes opérationnels de la police nationale",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000046253607/"
+    },
+    {
+      "titre": "Arrêté du 31 août 2022 portant organisation de la formation et de l'évaluation des réservistes opérationnels de la police nationale",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000046269741/"
+    },
+    {
+      "titre": "Arrêté du 22 septembre 2022 fixant les taux d'indemnisation des périodes d'emploi et de formation continue dans la réserve opérationnelle de la police nationale",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000046325637"
+    },
+    {
+      "titre": "Arrêté du 7 novembre 2023 portant modification de l'arrêté du 25 novembre 2022 relatif aux conditions de santé particulières applicables aux réservistes opérationnels de la police nationale",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000048401104/"
+    },
+    {
+      "titre": "Arrêté du 20 décembre 2023 portant dispositions relatives à la procédure disciplinaire concernant les policiers réservistes",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000048735060"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Postuler à la réserve opérationnelle de la police nationale (citoyen volontaire)",
+      "url": "https://api.api-engagement.beta.gouv.fr/r/campaign/67a344a6a04a314a4d4d4f4b",
+      "type": "selNG"
+    },
+    {
+      "titre": "Postuler à la réserve opérationnelle de la police nationale (ancien policier adjoint)",
+      "url": "https://api.api-engagement.beta.gouv.fr/r/campaign/67a3453ea04a314a4d4d5f21",
+      "type": "selNG"
+    },
+    {
+      "titre": "Postuler à la réserve opérationnelle de la police nationale (policier retraité)",
+      "url": "https://api.api-engagement.beta.gouv.fr/r/campaign/67a3453ea04a314a4d4d5f21",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "Police nationale - Recrutement"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Réserve opérationnelle de la police",
+      "url": "https://www.police-nationale.interieur.gouv.fr/nous-rejoindre/nos-voies-dacces/devenir-reserviste/reserviste-operationnel"
+    },
+    {
+      "titre": "Code de déontologie de la police nationale et de la gendarmerie nationale",
+      "url": "http://www.interieur.gouv.fr/Le-ministere/Deontologie"
+    }
+  ],
+  "slug": "reserve-operationnelle-de-la-police-nationale",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "volontariats",
+      "titre": "Volontariats"
+    }
+  ]
+}

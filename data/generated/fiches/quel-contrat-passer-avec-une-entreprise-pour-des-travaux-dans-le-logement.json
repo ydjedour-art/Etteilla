@@ -1,0 +1,124 @@
+{
+  "id": "F2533",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quel contrat passer avec une entreprise pour des travaux dans le logement ?",
+  "theme": "Logement",
+  "description": "Vous devez réaliser des travaux dans votre logement (rénovation, dépannage, entretien, réparation...) ? Un devis ou un contrat d'entreprise est nécessaire.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2024-03-28",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2533",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Travaux",
+    "Quel contrat passer avec une entreprise pour des travaux dans le logement ?"
+  ],
+  "introduction": "Si vous faites appel à un entrepreneur pour réaliser des travaux dans votre logement (rénovation, dépannage, entretien, réparation...), il pourra vous proposer d’établir un devis ou un contrat. Nous faisons le point sur la réglementation.",
+  "chapitres": [
+    {
+      "titre": "Doit-on signer un contrat avant de faire réaliser des travaux par une entreprise dans un logement ?",
+      "contenu": [
+        "Un contrat écrit n'est pas obligatoire. Mais il est fortement conseillé, car il peut servir de preuve en cas de litige."
+      ]
+    },
+    {
+      "titre": "Un devis est-il obligatoire avant de faire réaliser des travaux par une entreprise dans un logement ?",
+      "contenu": [
+        "Non, un devis n'est pas obligatoire avant de faire réaliser des travaux dans votre logement.",
+        "Un devis peut précéder un contrat. Si vous l'acceptez, il peut servir de contrat vous engageant avec un entrepreneur.",
+        "[Attention] Selon la nature des réparations ou des travaux, un devis peut être obligatoire."
+      ]
+    },
+    {
+      "titre": "Quelles informations doivent figurer dans le contrat passé avec une entreprise pour faire des travaux dans son logement ?",
+      "contenu": [
+        "Les contractants sont libres de déterminer le contenu, la forme du contrat et de préciser le cahier des charges.",
+        "Il est toutefois recommandé d'y faire figurer les informations suivantes :",
+        "• Plans et devis descriptifs des travaux",
+        "• Matériaux",
+        "• Coût du travail et de la main d’œuvre",
+        "• Location d'engins",
+        "• Mode de paiement, de révision du prix et prix global et définitif",
+        "• Date de commencement et de fin des travaux",
+        "• Pénalités éventuelles",
+        "• Pour des travaux portant sur le gros œuvre, référence à l'assurance de responsabilité décennale de l'entrepreneur et celle de votre assurance dommage-ouvrage",
+        "Chaque signataire du contrat doit en recevoir un original.",
+        "Le contrat peut également être rédigé sous forme électronique si leur destinataire a accepté l'usage de ce moyen. Dans ce cas, il est conclu quand le client a eu la possibilité de vérifier le détail de sa commande et son prix total. Il peut aussi corriger d'éventuelles erreurs avant de confirmer sa commande."
+      ]
+    },
+    {
+      "titre": "Que faire en cas de litige avec l'entreprise qui a fait les travaux ?",
+      "contenu": [
+        "En cas de litige, vous avez la possibilité de saisir un conciliateur de justice.",
+        "Conciliateur de justice",
+        "Vous pouvez aussi contacter la direction générale de la concurrence, de la consommation et de la répression des fraudes.",
+        "0809 540 550 DGCCRF - RéponseConso",
+        "Vous rencontrez une difficulté suite à un achat ? Vous avez une interrogation sur un point de droit avant d'acheter ou commander ?",
+        "Vous pouvez obtenir une réponse par un agent de la DGCCRF en appelant le 0809 540 550.",
+        "Horaires d'ouverture du service :",
+        "• Lundi et mardi : de 8h30 à 12h30 et de 13h15 à 17h15",
+        "• Mercredi : de 13h15 à 17h15",
+        "• Jeudi : de 8h30 à 12h30",
+        "• Vendredi : de 8h30 à 16h",
+        "Numéro non surtaxé"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : articles 1101 à 1111-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032040792"
+    },
+    {
+      "titre": "Code civil : article 1375",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042416/"
+    },
+    {
+      "titre": "Code civil : articles 1125 à 1127-4",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032007249/"
+    },
+    {
+      "titre": "Code civil : article 1102",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032040782"
+    },
+    {
+      "titre": "Code civil : article 1779",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020616204/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Signal Conso : signaler un problème avec un professionnel",
+      "url": "https://signal.conso.gouv.fr/",
+      "type": "Téléservice"
+    }
+  ],
+  "contacts": [
+    "Agence départementale pour l'information sur le logement (Adil)"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Travaux : quelques conseils pour choisir un professionnel",
+      "url": "https://www.inc-conso.fr/content/travaux-quelques-conseils-pour-choisir-un-professionnel"
+    },
+    {
+      "titre": "Changer ses fenêtres",
+      "url": "https://www.inc-conso.fr/sites/default/files/pdf/Guide-AQC-Changer-Vos-Fenetres-Conseils.pdf"
+    },
+    {
+      "titre": "Devis",
+      "url": "https://www.economie.gouv.fr/dgccrf/Publications/Vie-pratique/Fiches-pratiques/Devis"
+    }
+  ],
+  "slug": "quel-contrat-passer-avec-une-entreprise-pour-des-travaux-dans-le-logement",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "travaux",
+      "titre": "Travaux"
+    }
+  ]
+}

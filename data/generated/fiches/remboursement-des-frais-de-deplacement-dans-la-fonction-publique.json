@@ -1,0 +1,91 @@
+{
+  "id": "F527",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Remboursement des frais de déplacement dans la fonction publique",
+  "theme": "Travail - Formation",
+  "description": "Un fonctionnaire ou un agent contractuel peut bénéficier de la prise en charge par l'administration de certains frais de déplacement.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-03-28",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F527",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Rémunération dans la fonction publique",
+    "Remboursement des frais de déplacement dans la fonction publique"
+  ],
+  "introduction": "Vous pouvez bénéficier, sous certaines conditions, de la prise en charge partielle ou totale, par votre administration employeur, des frais de transport, de repas et d’hébergement liés à vos déplacements professionnels occasionnels. Nous vous présentons les informations à connaître selon votre fonction publique d'appartenance (État - FPE, territoriale - FPT, hospitalière - FPH).",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Vos frais de déplacement professionnel peuvent être partiellement ou totalement pris en charge lorsque vous vous déplacez hors de votre résidence administrative et hors de votre résidence familiale notamment pour l'un des motifs suivants :",
+        "• Suivre une formation",
+        "• Vous présenter aux épreuves d'un concours ou d'un examen professionnel",
+        "• Effectuer un déplacement pour les besoins du service, muni d'un ordre de mission",
+        "• Assurer un intérim, c'est-à-dire effectuer un déplacement pour occuper un poste temporairement vacant",
+        "• Participer à un organisme consultatif.",
+        "Vos frais de déplacement professionnel peuvent aussi être partiellement ou totalement pris en charge lorsque vous vous déplacez à l'intérieur de votre résidence administrative, de votre résidence familiale ou à l'intérieur de la commune où vous effectuez un déplacement temporaire.",
+        "Dans ce cas, la prise en charge est possible si la commune dispose de transports en commun.",
+        "La prise en charge est effectuée dans la limite du tarif, ou si vous vous déplacez fréquemment, de l'abonnement, le moins cher du transport en commun le mieux adapté au déplacement.",
+        "[À noter] Toute commune et les communes limitrophes, desservies par des transports en commun constituent une seule et même commune."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code général de la fonction publique : article L723-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044416551/LEGISCTA000044423871/"
+    },
+    {
+      "titre": "Décret n°92-566 du 25 juin 1992 relatif au frais de déplacement des fonctionnaires et agents hospitaliers sur le territoire métropolitain",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000541093/"
+    },
+    {
+      "titre": "Décret n°2001-654 du 19 juillet 2001 fixant les conditions et les modalités de règlements des frais occasionnés par les déplacements des personnels territoriaux",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000223576/"
+    },
+    {
+      "titre": "Décret n°2006-781 du 3 juillet 2006 fixant les conditions et modalités de règlement des frais de déplacements temporaires des personnels civils de l'État",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000242359/"
+    },
+    {
+      "titre": "Arrêté du 3 juillet 2006 fixant les taux des indemnités de mission dans la FPE",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000242360"
+    },
+    {
+      "titre": "Arrêté du 3 juillet 2006 fixant les taux des indemnités de stage",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000607821/"
+    },
+    {
+      "titre": "Arrêté du 3 juillet 2006 fixant les taux des indemnités kilométriques",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000792695/"
+    },
+    {
+      "titre": "Arrêté du 28 décembre 2020 fixant le montant maximum de l'indemnité forfaitaire prévue à l'article 14 du décret n°2001-654",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042840611"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Communes de la métropole du Grand Paris",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000031256987"
+    },
+    {
+      "titre": "Indemnités journalières de mission temporaire à l'étranger",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042212803"
+    }
+  ],
+  "slug": "remboursement-des-frais-de-deplacement-dans-la-fonction-publique",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "remuneration-dans-la-fonction-publique",
+      "titre": "Rémunération dans la fonction publique"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "F2497",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Comment faire appliquer une décision du juge administratif ?",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "En cas d'inexécution de la décision, vous pouvez demander le paiement après un délai de 2 mois ou saisir ou le juge administratif.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-06-23",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2497",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Agir en justice contre l'administration",
+    "Comment faire appliquer une décision du juge administratif ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Si la partie condamnée refuse d'exécuter la décision du juge administratif, vous pouvez faire des démarches pour obtenir l’exécution de la décision. La procédure à suivre varie selon que la décision à exécuter concerne ou non le versement d'une somme d'argent."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de justice administrative : articles L911-1 à L911-10",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070933/LEGISCTA000006136466/#LEGISCTA000006136466"
+    },
+    {
+      "titre": "Code de justice administrative : articles R921-1 à R921-8",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006136504"
+    },
+    {
+      "titre": "Code de justice administrative : articles R931-1 à R931-9",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006136505"
+    },
+    {
+      "titre": "Décret n° 2008-479 du 20 mai 2008 relatif à l'exécution des condamnations pécuniaires prononcées à l'encontre des collectivités publiques",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000018829109"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Maison de justice et du droit"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "L'exécution des décisions du juge administratif",
+      "url": "https://www.conseil-etat.fr/vos-demarches/je-suis-un-particulier/faire-executer-une-decision-de-justice#anchor1"
+    }
+  ],
+  "slug": "comment-faire-appliquer-une-decision-du-juge-administratif",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "agir-en-justice-contre-l-administration",
+      "titre": "Agir en justice contre l'administration"
+    }
+  ]
+}

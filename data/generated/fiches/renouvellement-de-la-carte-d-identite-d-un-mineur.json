@@ -1,0 +1,69 @@
+{
+  "id": "F21090",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Renouvellement de la carte d'identité d'un mineur",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "La demande de renouvellement de la carte d'identité d’un mineur est gratuite, à condition de pouvoir présenter l'ancienne carte.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-06-19",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F21090",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Carte d'identité",
+    "Renouvellement de la carte d'identité d'un mineur"
+  ],
+  "introduction": "La carte d'identité de votre enfant mineur est périmée ou le devient bientôt ? La demande de renouvellement de la carte d’identité est gratuite, à condition de pouvoir présenter l’ancienne carte. Nous vous présentons les étapes de la démarche. Elles varient selon que vous vivez en France ou à l’étranger.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Décret n°55-1397 du 22 octobre 1955 relatif à la carte d'identité : article 4-1 - Pièces à fournir pour un renouvellement",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000033333776"
+    },
+    {
+      "titre": "Décret n°55-1397 du 22 octobre 1955 relatif à la carte nationale d'identité : article 4-4 - Représentant légal",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000033333782"
+    },
+    {
+      "titre": "Décret n°55-1397 du 22 octobre 1955 relatif à la carte d'identité : article 5 - Retrait de la carte",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000033333772"
+    },
+    {
+      "titre": "Réponse ministérielle du 28 novembre 2019 relative au format de la carte d'identité",
+      "url": "http://www.senat.fr/questions/base/2018/qSEQ180706028.html"
+    },
+    {
+      "titre": "Arrêté du 11 mai 2021 portant application du décret n°2021-279 portant diverses dispositions relatives à la carte nationale d'identité et au traitement de données à caractère personnel (TES)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043496313"
+    },
+    {
+      "titre": "Arrêté du 20 avril 2016 autorisant la création d'un système de téléservices destinés à la prédemande et à la demande de titres officiels",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000032445878/"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Pré-demande pour un renouvellement de carte d'identité",
+      "url": "https://passeport.ants.gouv.fr/demarches-en-ligne/effectuer-le-renouvellement-de-votre-carte-didentite",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Consuls honoraires habilités à remettre les cartes d'identité et les passeports",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052295016"
+    }
+  ],
+  "slug": "renouvellement-de-la-carte-d-identite-d-un-mineur",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "carte-d-identite",
+      "titre": "Carte d'identité"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "F35675",
+  "type_publication": "Recherche guidée",
+  "titre": "Drone : règles de pilotage à respecter",
+  "theme": "Loisirs - Sports - Culture",
+  "description": "Drone : règles de pilotage à respecter",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2025-07-02",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35675",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Loisirs - Sports - Culture",
+    "Sport",
+    "Drone : règles de pilotage à respecter"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "drone-regles-de-pilotage-a-respecter-f35675",
+  "path": [
+    {
+      "slug": "loisirs-sports-culture",
+      "titre": "Loisirs - Sports - Culture"
+    },
+    {
+      "slug": "sport",
+      "titre": "Sport"
+    }
+  ]
+}

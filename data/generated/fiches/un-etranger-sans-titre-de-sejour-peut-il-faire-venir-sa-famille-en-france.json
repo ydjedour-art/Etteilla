@@ -1,0 +1,82 @@
+{
+  "id": "F35156",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Un étranger sans titre de séjour peut-il faire venir sa famille en France ?",
+  "theme": "Étranger - Europe",
+  "description": "Un étranger non-européen doit détenir un titre de séjour français et réunir certaines conditions pour faire venir sa famille en France.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-06-26",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35156",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Étranger - Europe",
+    "Installation en France d'une famille étrangère",
+    "Un étranger sans titre de séjour peut-il faire venir sa famille en France ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "La règlementation est différente selon que vous êtes étranger non européen ou citoyen d’un État de l'Union européenne, de l'Espace économique européen (EEE) ou Suisse :",
+        "Vous êtes étranger non européen",
+        "Non. Vous ne pouvez pas faire venir votre famille si vous n’avez pas un titre de séjour qui vous permet de résider de façon régulière en France.",
+        "Vous êtes citoyen de l'UE, l'EEE ou Suisse",
+        "Vous devez avoir un droit au séjour en France en tant que travailleur, inactif ou étudiant pour faire venir votre famille en France.",
+        "Vous pouvez être rejoint notamment par les personnes suivantes :",
+        "• Votre époux ou épouse",
+        "• Vos enfants de moins de 21 ans ou à charge",
+        "• Enfants de moins de 21 ans ou à charge de votre époux ou épouse",
+        "• Vos ascendants ou ceux de votre époux ou épouse, à charge.",
+        "[Attention] Si vous êtes étudiant, vous ne pouvez pas faire venir vos ascendants en France.",
+        "Votre famille doit entrer sur le territoire de manière régulière, avec ou sans visa.",
+        "Vous pouvez vérifier si votre famille a besoin d’un visa en utilisant le service en ligne suivant :",
+        "Vérifier si vous avez besoin d'un visa - Assistant Visa",
+        "Dans les 3 mois de leur entrée en France, les membres de votre famille qui vous ont rejoint :",
+        "• Peuvent demander la carte de séjour Membre de la famille d'un citoyen de l'Union/EEE/Suisse - Toutes activités professionelles, s’ils sont citoyens européens",
+        "• Doivent demander, la carte de séjour Membre de la famille d’un européen, s’ils sont non-européens."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : article L233-1 à L233-6",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042770980/"
+    },
+    {
+      "titre": "Code de l'entrée et du séjour des étrangers et du droit d'asile : articles L234-1 à L234-3",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042770994/"
+    },
+    {
+      "titre": "Circulaire du 10 septembre 2010 sur le droit de séjour des citoyens européens et suisses et les membres de leur famille",
+      "url": "https://www.legifrance.gouv.fr/download/pdf/circ?id=32884"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "France-Visas",
+      "url": "https://france-visas.gouv.fr/web/france-visas"
+    },
+    {
+      "titre": "Les étapes de la demande de visa",
+      "url": "https://france-visas.gouv.fr/demande-de-visa"
+    },
+    {
+      "titre": "Réunification familiale d'un réfugié",
+      "url": "https://www.ofpra.gouv.fr/reunification-familiale"
+    }
+  ],
+  "slug": "un-etranger-sans-titre-de-sejour-peut-il-faire-venir-sa-famille-en-france",
+  "path": [
+    {
+      "slug": "etranger-europe",
+      "titre": "Étranger - Europe"
+    },
+    {
+      "slug": "installation-en-france-d-une-famille-etrangere",
+      "titre": "Installation en France d'une famille étrangère"
+    }
+  ]
+}

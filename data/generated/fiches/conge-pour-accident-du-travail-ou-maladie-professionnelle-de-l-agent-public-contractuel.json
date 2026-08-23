@@ -1,0 +1,78 @@
+{
+  "id": "F37556",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Congé pour accident du travail ou maladie professionnelle de l'agent public contractuel",
+  "theme": "Travail - Formation",
+  "description": "En tant que contractuel, vous pouvez être placé en congé, en cas d'accident du travail ou maladie professionnelle, pendant la période d'incapacité de travail.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-04-08",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F37556",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Maladie ou accident du travail dans la fonction publique",
+    "Congé pour accident du travail ou maladie professionnelle de l'agent public contractuel"
+  ],
+  "introduction": "En tant que contractuel dans la fonction publique, vous pouvez être placé en congé, en cas d'accident du travail ou de maladie professionnelle, pendant la période d'incapacité de travail. Nous vous présentons les règles applicables à ce congé selon votre fonction publique d'appartenance (État - FPE, territoriale - FPT, hospitalière - FPH).",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Décret n°85-1148 du 24 octobre 1985 relatif à la rémunération des personnels des 3 fonctions publiques",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006064738/"
+    },
+    {
+      "titre": "Décret n°86-83 du 17 janvier 1986 relatif aux agents contractuels de la FPE",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000699956/"
+    },
+    {
+      "titre": "Décret n°88-145 du 15 février 1988 relatif aux agents non titulaires de la FPT",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000871608"
+    },
+    {
+      "titre": "Décret n°91-155 du 6 février 1991 relatif aux agents contractuels de la FPH",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000343794"
+    },
+    {
+      "titre": "Décret n°2004-777 relatif à la mise en œuvre du temps partiel dans la FPT",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000005817645/"
+    },
+    {
+      "titre": "Décret n°2010-997 du 26 août 2010 relatif au régime de maintien des primes et indemnités des agents publics de l'État dans certaines situations de congés",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000022748868/"
+    },
+    {
+      "titre": "Circulaire du 22 mars 2011 relative au régime de maintien des primes et indemnités des agents publics de l'État dans certaines situations de congés",
+      "url": "https://www.legifrance.gouv.fr/circulaire/id/32767"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Feuille d'accident du travail ou de maladie professionnelle (spécimen)",
+      "url": "https://www.ameli.fr/sites/default/files/formualires/190/s6201.pdf",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Certificat médical accident du travail - maladie professionnelle (spécimen)",
+      "url": "https://www.ameli.fr/sites/default/files/formulaires/118/s6909.cnam_homol_avril_2018_spec_non_remp_sec.pdf",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Déclaration de maladie professionnelle ou demande de reconnaissance de maladie professionnelle",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_16130.do",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "conge-pour-accident-du-travail-ou-maladie-professionnelle-de-l-agent-public-contractuel",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "maladie-ou-accident-du-travail-dans-la-fonction-publique",
+      "titre": "Maladie ou accident du travail dans la fonction publique"
+    }
+  ]
+}

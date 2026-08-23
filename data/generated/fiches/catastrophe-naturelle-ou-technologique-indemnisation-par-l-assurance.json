@@ -1,0 +1,72 @@
+{
+  "id": "F3076",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Catastrophe naturelle ou technologique : indemnisation par l’assurance",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "L'assureur ne prendra en charge ce sinistre que si vous avez souscrit cette garantie et qu'un arrêté ministériel de catastrophe naturelle a été publié.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-10",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F3076",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Assurance habitation",
+    "Catastrophe naturelle ou technologique : indemnisation par l’assurance"
+  ],
+  "introduction": "Certains événements exceptionnels, comme une inondation ou un accident industriel majeur, peuvent provoquer des dégâts importants dans les habitations et les biens. Dans ces situations, votre assurance peut vous indemniser sous certaines conditions. Comment fonctionne cette indemnisation et dans quels cas s’applique-t-elle ? Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les règles diffèrent selon qu’il s’agit d’une catastrophe naturelle ou d’une catastrophe technologique. Dans les 2 cas, l’indemnisation dépend notamment de la reconnaissance officielle de l’événement par les autorités."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code des assurances : articles L125-1 à L125-6",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006157250"
+    },
+    {
+      "titre": "Code des assurances : articles A125-2 à A125-6-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073984/LEGISCTA000006156960"
+    },
+    {
+      "titre": "Code des assurances : article D125-4",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046891261"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Info Banque - Assurance"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Guide de remise en état des bâtiments en cas d'inondation",
+      "url": "https://www.ecologie.gouv.fr/sites/default/files/documents/dgaln_inondations_guide_remise_en_etat110310.pdf"
+    },
+    {
+      "titre": "L'assurance des tempêtes et des catastrophes naturelles",
+      "url": "https://www.inc-conso.fr/content/lassurance-des-tempetes-et-des-catastrophes-naturelles"
+    },
+    {
+      "titre": "L'assurance multirisques habitation",
+      "url": "https://www.inc-conso.fr/content/lassurance-multirisques-habitation"
+    },
+    {
+      "titre": "L'assurance dégât des eaux",
+      "url": "https://www.inc-conso.fr/content/lassurance-degats-des-eaux"
+    }
+  ],
+  "slug": "catastrophe-naturelle-ou-technologique-indemnisation-par-l-assurance",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "assurance-habitation",
+      "titre": "Assurance habitation"
+    }
+  ]
+}

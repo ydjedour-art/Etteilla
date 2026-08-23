@@ -1,0 +1,193 @@
+{
+  "id": "F134",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Déposer un dossier de surendettement devant la commission de surendettement",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "Si vous ne parvenez plus à rembourser vos dettes ou si vous savez que vous ne pourrez plus le faire, vous pouvez déposer un dossier de surendettement.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2025-01-07",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F134",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Surendettement",
+    "Déposer un dossier de surendettement devant la commission de surendettement"
+  ],
+  "introduction": "Vous ne pouvez plus rembourser vos dettes, ou vous savez que vous ne pourrez plus le faire ? Sous certaines conditions, vous pouvez déposer un dossier de surendettement directement devant la commission de surendettement des particuliers. Cette commission essaiera de trouver avec vous une solution à votre situation. Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Les règles à respecter dépendent de votre lieu d'habitation :"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de la consommation : articles L711-1 à L711-2",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069565/LEGISCTA000032223541/"
+    },
+    {
+      "titre": "Code de la consommation : articles L711-3 à L711-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069565/LEGISCTA000032223547/"
+    },
+    {
+      "titre": "Code de la consommation : articles L712-1 à L712-9",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069565/LEGISCTA000032223565"
+    },
+    {
+      "titre": "Code de la consommation : articles R712-13 à R712-20",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032808558"
+    },
+    {
+      "titre": "Code de la consommation : articles L721-1 à L721-7",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069565/LEGISCTA000032223591"
+    },
+    {
+      "titre": "Code de la consommation : articles R721-1 à R724-8",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069565/LEGISCTA000032808600/#LEGISCTA000032808600"
+    },
+    {
+      "titre": "Code monétaire et financier : article L142-10",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019306207/"
+    },
+    {
+      "titre": "Code de la consommation : articles L751-1 à L751-6",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032224308/"
+    },
+    {
+      "titre": "Code de la consommation : articles L761-1 à L761-2",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032224284/"
+    },
+    {
+      "titre": "Code de la consommation : articles L771-1 à L771-12",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069565/LEGISCTA000032223873/#LEGISCTA000034131359"
+    },
+    {
+      "titre": "Circulaire du 17 janvier 2023 sur la procédure de traitement des situations de surendettement des particuliers",
+      "url": "https://www.legifrance.gouv.fr/download/pdf/circ?id=45400"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Déclaration en ligne de surendettement",
+      "url": "https://accueil.banque-france.fr/index.html#/accueil",
+      "type": "Téléservice"
+    },
+    {
+      "titre": "Déclaration de surendettement",
+      "url": "https://www.banque-france.fr/system/files/2023-09/Banque-de-France-Particuliers-declaration-suredenttement.pdf",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Lettre à joindre au dossier de surendettement",
+      "url": "https://www.inc-conso.fr/content/suite-de-difficultes-financieres-vous-deposez-un-dossier-aupres-de-la-commission-de",
+      "type": "Modèle de document"
+    },
+    {
+      "titre": "Guichet des formalités des entreprises",
+      "url": "https://procedures.inpi.fr/?/",
+      "type": "selNG"
+    }
+  ],
+  "contacts": [
+    "Point conseil budget (PCB)",
+    "Fédération Française des chambres régionales du surendettement social",
+    "34 14 : contacter par téléphone un agent de la Banque de France au sujet du surendettement",
+    "Surendettement : adresse et horaires des guichets de la Banque de France",
+    "Demande d'information ou d'un rendez-vous à la Banque de France"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Déposer un dossier de surendettement",
+      "url": "https://www.banque-france.fr/fr/a-votre-service/particuliers/dossier-surendettement"
+    },
+    {
+      "titre": "Guide du surendettement",
+      "url": "https://www.banque-france.fr/fr/system/files/2023-09/Banque%20de%20France%20-%20guide_surendettement.pdf"
+    },
+    {
+      "titre": "Questions-réponses sur le surendettement",
+      "url": "https://www.banque-france.fr/fr/aide-faq/Surendettement"
+    },
+    {
+      "titre": "Dossier de surendettement : justificatifs à fournir",
+      "url": "https://www.banque-france.fr/system/files/2024-07/Banque%20de%20France%20%E2%80%93%20Intervenants_sociaux%20-justificatifs_a_joindre_au_dossier_de_surendettement_1.pdf"
+    },
+    {
+      "titre": "Dossier de surendettement : guide à l'usage du travailleur social (assistante sociale)",
+      "url": "https://www.banque-france.fr/fr/a-votre-service/intervenants-sociaux/procedure-dossier-surendettement"
+    },
+    {
+      "titre": "Questions-réponses sur la faillite civile en Alsace-Moselle",
+      "url": "http://www.cresusalsace.org/besoin-daide/4-la-faillite-civile"
+    },
+    {
+      "titre": "Être en situation de surendettement",
+      "url": "https://www.mesquestionsdargent.fr/faire-face-aux-difficultes/surendettement"
+    },
+    {
+      "titre": "Comment réagir en cas de surendettement ?",
+      "url": "https://www.inc-conso.fr/content/banque/comment-reagir-en-cas-de-surendettement"
+    },
+    {
+      "titre": "Point conseil budget (PCB)",
+      "url": "https://solidarites.gouv.fr/point-conseil-budget-pcb"
+    },
+    {
+      "titre": "IEDOM de Guadeloupe : déposer un dossier de surendettement",
+      "url": "https://www.iedom.fr/guadeloupe/espace-particuliers/surendettement/article/informations-pratiques"
+    },
+    {
+      "titre": "IEDOM de Guadeloupe : se renseigner sur la procédure de surendettement",
+      "url": "https://www.iedom.fr/guadeloupe/espace-particuliers/surendettement/article/service-particuliers"
+    },
+    {
+      "titre": "IEDOM de Guyane : déposer un dossier de surendettement",
+      "url": "https://www.iedom.fr/guyane/espace-particuliers/surendettement/article/informations-pratiques"
+    },
+    {
+      "titre": "IEDOM de Guyane : se renseigner sur la procédure de surendettement",
+      "url": "https://www.iedom.fr/guyane/espace-particuliers/surendettement/article/service-particuliers"
+    },
+    {
+      "titre": "IEDOM de La Réunion : déposer un dossier de surendettement",
+      "url": "https://www.iedom.fr/la-reunion/espace-particuliers/surendettement/article/informations-pratiques"
+    },
+    {
+      "titre": "IEDOM de La Réunion : se renseigner sur la procédure de surendettement",
+      "url": "https://www.iedom.fr/martinique/espace-particuliers/surendettement/article/service-particuliers"
+    },
+    {
+      "titre": "IEDOM de la Martinique : déposer un dossier de surendettement",
+      "url": "https://www.iedom.fr/martinique/espace-particuliers/surendettement/article/informations-pratiques"
+    },
+    {
+      "titre": "IEDOM de la Martinique : se renseigner sur la procédure de surendettement",
+      "url": "https://www.iedom.fr/martinique/espace-particuliers/surendettement/article/service-particuliers"
+    },
+    {
+      "titre": "IEDOM de Mayotte : déposer un dossier de surendettement",
+      "url": "https://www.iedom.fr/mayotte/espace-particuliers/surendettement/article/informations-pratiques"
+    },
+    {
+      "titre": "IEDOM de Mayotte : se renseigner sur la procédure de surendettement",
+      "url": "https://www.iedom.fr/mayotte/espace-particuliers/surendettement/article/service-particuliers"
+    },
+    {
+      "titre": "Faire face à des difficultés financières ou à des dettes",
+      "url": "https://www.banque-france.fr/fr/a-votre-service/particuliers/faire-face-difficultes-financieres-ou-dettes"
+    }
+  ],
+  "slug": "deposer-un-dossier-de-surendettement-devant-la-commission-de-surendettement",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "surendettement",
+      "titre": "Surendettement"
+    }
+  ]
+}

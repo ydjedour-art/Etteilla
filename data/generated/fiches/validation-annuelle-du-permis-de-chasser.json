@@ -1,0 +1,124 @@
+{
+  "id": "F2091",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Validation annuelle du permis de chasser",
+  "theme": "Loisirs - Sports - Culture",
+  "description": "Chaque année, il faut faire valider le permis de chasser en fonction de la durée et de la zone géographique souhaitées, et payer une redevance cynégétique.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-04-08",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2091",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Loisirs - Sports - Culture",
+    "Chasse",
+    "Validation annuelle du permis de chasser"
+  ],
+  "introduction": "Vous avez reçu votre permis de chasser et vous vous demandez comment le faire valider et quel est le prix ? Nous vous indiquons les étapes à suivre pour faire la démarche.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "La validation du permis de chasse est une démarche obligatoire pour pouvoir chasser. Une fois votre permis obtenu, vous devez le faire valider chaque année."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code de l'environnement : articles L 423-1 à L423-27",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074220/LEGISCTA000006159257"
+    },
+    {
+      "titre": "Code de l'environnement : articles L423-12 à L423-18",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074220/LEGISCTA000006188409"
+    },
+    {
+      "titre": "Code de l'environnement : articles L423-19 à L423-21-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074220/LEGISCTA000006188410/#LEGISCTA000006188410"
+    },
+    {
+      "titre": "Code de l'environnement : articles R423-12 à R423-18",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074220/LEGISCTA000006188843"
+    },
+    {
+      "titre": "Code de l'environnement : articles R423-19 à R423-21-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074220/LEGISCTA000006188844"
+    },
+    {
+      "titre": "Code général des impôts : article 1635 bis N",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041823043"
+    },
+    {
+      "titre": "Arrêté du 26 juin 1987 fixant la liste des espèces de gibier dont la chasse est autorisée",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000296288"
+    },
+    {
+      "titre": "Arrêté du 5 octobre 2020 relatif à la sécurité en matière d'activité cynégétique",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000042423887"
+    },
+    {
+      "titre": "Arrêté du 14 mai 2020 relatif au montant des redevances cynégétiques",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000041893859"
+    },
+    {
+      "titre": "Réponse ministérielle du 18 février 2020 relative au certificat médical d'aptitude à la pratique de la chasse",
+      "url": "http://questions.assemblee-nationale.fr/q15/15-19880QE.htm"
+    },
+    {
+      "titre": "Réponse ministérielle du 25 février 2020 relative à la chasse le dimanche",
+      "url": "http://questions.assemblee-nationale.fr/q15/15-21961QE.htm"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demander la validation du permis de chasse pour l'année en cours",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_12660.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Demande de duplicata d'un permis de chasser suite à un changement d'état civil (hors nom d'usage)",
+      "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_16863.do",
+      "type": "Formulaire"
+    },
+    {
+      "titre": "Consulter les dates de chasse par département",
+      "url": "https://www.chasseurdefrance.com/pratiquer/dates-de-chasse/",
+      "type": "outilRechercheNG"
+    }
+  ],
+  "contacts": [
+    "Fédération départementale des chasseurs"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Le permis de chasser",
+      "url": "https://ofb.gouv.fr/le-permis-de-chasser"
+    },
+    {
+      "titre": "La sécurité à la chasse",
+      "url": "https://ofb.gouv.fr/la-securite-la-chasse"
+    },
+    {
+      "titre": "Les 91 espèces chassables",
+      "url": "https://www.chasseurdefrance.com/decouvrir/les-especes-chassables/"
+    },
+    {
+      "titre": "Procédés de chasse interdits",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000862758/"
+    },
+    {
+      "titre": "Découvrir les réserves naturelles",
+      "url": "https://reserves-naturelles.org/reserves-naturelles/"
+    }
+  ],
+  "slug": "validation-annuelle-du-permis-de-chasser",
+  "path": [
+    {
+      "slug": "loisirs-sports-culture",
+      "titre": "Loisirs - Sports - Culture"
+    },
+    {
+      "slug": "chasse",
+      "titre": "Chasse"
+    }
+  ]
+}

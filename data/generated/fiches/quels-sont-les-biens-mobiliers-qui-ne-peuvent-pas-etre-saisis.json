@@ -1,0 +1,70 @@
+{
+  "id": "F2163",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Quels sont les biens mobiliers qui ne peuvent pas être saisis ?",
+  "theme": "Justice",
+  "description": "Certains biens nécessaires à la vie courante et au travail sont insaisissables : meubles, vêtements, produits alimentaires ....",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-01-06",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2163",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Justice",
+    "Saisies et recouvrements",
+    "Quels sont les biens mobiliers qui ne peuvent pas être saisis ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Certains biens mobiliers sont insaisissables, c'est-à-dire qu'ils ne peuvent pas être confisqués temporairement ou définitivement, parce qu'ils sont nécessaires à la vie courante et au travail de la personne saisie et de sa famille. Il s’agit des biens mobiliers (ou biens meubles corporels) suivants :",
+        "• Vêtements",
+        "• Literie",
+        "• Linge de maison",
+        "• Objets et produits nécessaires aux soins corporels et à l'entretien de la maison",
+        "• Denrées alimentaires",
+        "• Objets de ménage nécessaires à la conservation, à la préparation et à la consommation des aliments",
+        "• Appareils de chauffage",
+        "• Table et chaises pour prendre les repas en commun",
+        "• Meuble pour ranger les vêtements et le linge",
+        "• Meuble pour ranger les objets ménagers",
+        "• Machine à laver le linge",
+        "• Livres et objets nécessaires à la poursuite des études ou de la formation professionnelle",
+        "• Objets d'enfants",
+        "• Souvenirs à caractère personnel ou familial",
+        "• Animaux d'appartement ou de garde",
+        "• Animaux d'élevage (et les denrées nécessaires à leur élevage)",
+        "• Instruments de travail nécessaires à l'exercice personnel de l'activité professionnelle",
+        "• Téléphone fixe ou mobile",
+        "• Objets indispensables à une personne handicapée",
+        "• Objets destinés aux soins d'une personne malade.",
+        "[À savoir] Cependant, ces biens peuvent être saisissables dans certains cas, notamment lorsqu’ils se trouvent dans un lieu différent de celui où vit ou travaille habituellement la personne qui est saisie."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code des procédures civiles d'exécution : articles L112-1 à L112-4",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000025024948/LEGISCTA000025025665/#LEGISCTA000025026737"
+    },
+    {
+      "titre": "Code des procédures civiles d'exécution : article R112-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025938278/"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "quels-sont-les-biens-mobiliers-qui-ne-peuvent-pas-etre-saisis",
+  "path": [
+    {
+      "slug": "justice",
+      "titre": "Justice"
+    },
+    {
+      "slug": "saisies-et-recouvrements",
+      "titre": "Saisies et recouvrements"
+    }
+  ]
+}

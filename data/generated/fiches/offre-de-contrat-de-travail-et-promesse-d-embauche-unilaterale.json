@@ -1,0 +1,51 @@
+{
+  "id": "F10403",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Offre de contrat de travail et promesse d'embauche unilatérale",
+  "theme": "Travail - Formation",
+  "description": "La proposition d'embauche faite par un employeur est soit une offre de contrat de travail soit une promesse unilatérale de contrat de travail.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2023-08-11",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F10403",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Travail - Formation",
+    "Recrutement dans le secteur privé",
+    "Offre de contrat de travail et promesse d'embauche unilatérale"
+  ],
+  "introduction": "Quelle est la distinction entre une offre de contrat de travail faite par un employeur et une promesse d'embauche unilatérale ? L'offre de contrat de travail et la promesse d'embauche unilatérale ont-elles la même valeur ? Nous vous présentons les informations à connaître.",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "L'offre de contrat de travail et la promesse d'embauche unilatérale ne sont pas définies par la loi, mais elle sont encadrées par des décisions de justice, c'est-à-dire par la jurisprudence.",
+        "L'offre de contrat de travail est une simple proposition d'embauche qui émane de l'employeur. En tant que candidat, vous pouvez librement la refuser, tout comme l'employeur peut la retirer.",
+        "La promesse d'embauche unilatérale est également une simple proposition d'embauche. Toutefois, le non-respect d'une promesse unilatérale de contrat par l'employeur peut être assimilé à un licenciement injustifié."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code civil : articles 1101 à 1111-1",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032040792"
+    },
+    {
+      "titre": "Code civil : article 1193",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041314"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "offre-de-contrat-de-travail-et-promesse-d-embauche-unilaterale",
+  "path": [
+    {
+      "slug": "travail-formation",
+      "titre": "Travail - Formation"
+    },
+    {
+      "slug": "recrutement-dans-le-secteur-prive",
+      "titre": "Recrutement dans le secteur privé"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "F2513",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Comment consulter les décisions de sa mairie, son département ou sa région ?",
+  "theme": "Papiers - Citoyenneté - Élections",
+  "description": "Les actes d'une collectivité territoriale sont disponibles sur leur site internet. Dans une petite commune, ils peuvent être publiés sur papier ou affichés.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-08-05",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2513",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Papiers - Citoyenneté - Élections",
+    "Obligations de l'administration vis-à-vis des usagers",
+    "Comment consulter les décisions de sa mairie, son département ou sa région ?"
+  ],
+  "introduction": "Il est possible de consulter les décisions de sa mairie, son département ou sa région de plusieurs façons. Nous vous les présentons.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code général des collectivités territoriales : articles L2131-1 à L2131-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070633/LEGISCTA000044184820"
+    },
+    {
+      "titre": "Code général des collectivités territoriales : article R2131-1",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070633/LEGISCTA000032038986"
+    },
+    {
+      "titre": "Code général des collectivités territoriales : articles L3131-1 à L3131-6",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070633/LEGISCTA000006164619"
+    },
+    {
+      "titre": "Code général des collectivités territoriales : articles R3131-1 à R3131-2",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070633/LEGISCTA000006165027"
+    },
+    {
+      "titre": "Code général des collectivités territoriales : articles L4141-1 à L4141-6",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070633/LEGISCTA000006164687"
+    },
+    {
+      "titre": "Code général des collectivités territoriales : article R4141-2",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006165077"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Maison de justice et du droit"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Collectivités territoriales",
+      "url": "https://www.vie-publique.fr/fiches/collectivites-territoriales"
+    },
+    {
+      "titre": "La coopération intercommunale et les EPCI",
+      "url": "https://www.vie-publique.fr/fiches/20118-la-cooperation-intercommunale-et-les-epci"
+    },
+    {
+      "titre": "Coopération locale : qu'est-ce qu'un syndicat mixte ?",
+      "url": "https://www.vie-publique.fr/fiches/20121-cooperation-locale-quest-ce-quun-syndicat-mixte"
+    },
+    {
+      "titre": "Coopération locale : qu'est-ce qu'un syndicat de communes ?",
+      "url": "https://www.vie-publique.fr/fiches/20123-quest-ce-quun-syndicat-de-communes"
+    }
+  ],
+  "slug": "comment-consulter-les-decisions-de-sa-mairie-son-departement-ou-sa-region",
+  "path": [
+    {
+      "slug": "papiers-citoyennete-elections",
+      "titre": "Papiers - Citoyenneté - Élections"
+    },
+    {
+      "slug": "obligations-de-l-administration-vis-a-vis-des-usagers",
+      "titre": "Obligations de l'administration vis-à-vis des usagers"
+    }
+  ]
+}

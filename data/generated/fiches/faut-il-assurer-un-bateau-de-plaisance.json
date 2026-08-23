@@ -1,0 +1,61 @@
+{
+  "id": "F2725",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Faut-il assurer un bateau de plaisance ?",
+  "theme": "Argent - Impôts - Consommation",
+  "description": "L'assurance d'un bateau de plaisance est facultative, mais elle peut être nécessaire pour pouvoir obtenir une place d'amarrage dans certains ports ou marinas.",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2025-02-06",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2725",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Argent - Impôts - Consommation",
+    "Assurance habitation",
+    "Faut-il assurer un bateau de plaisance ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "L'assurance d'un bateau de plaisance est facultative.",
+        "Toutefois, certains ports ou marinas peuvent exiger une attestation d'assurance pour que vous puissiez obtenir une place d'amarrage.",
+        "[À noter] L'assurance est obligatoire pour les navires de plaisance ayant une jauge brute égale ou supérieure à 300. Cela concerne principalement les grands yachts et navires de plaisance à usage professionnel.",
+        "Bien que cette assurance ne soit pas imposée en dehors de ces cas spécifiques, il est fortement conseillé de souscrire au moins une assurance responsabilité civile. Cette garantie vous protège financièrement en cas de dommages causés à des tiers, qu’il s’agisse de blessures ou de dégâts matériels.",
+        "En l’absence d’assurance, vous devrez indemniser personnellement les victimes, ce qui peut avoir de lourdes conséquences financières en cas d’accident.",
+        "Pour une protection plus complète, vous pouvez opter pour un contrat d’assurance multirisques plaisance. Ce type de contrat propose des garanties supplémentaires telles que :",
+        "• Dommages au bateau (incendie, tempête, naufrage, collision)",
+        "• Vol",
+        "• Frais de retirement d’épave et de remorquage.",
+        "Enfin, la souscription à une assurance peut se faire auprès de n’importe quelle compagnie proposant des contrats adaptés à la navigation de plaisance. Pour ce faire, vous devrez présenter les documents du bateau (titre de propriété, certificat d’immatriculation) et le permis de navigation du conducteur pour constituer votre dossier."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "titre": "Code des transports : article L5123-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044874656"
+    }
+  ],
+  "services_en_ligne": [],
+  "contacts": [
+    "Info Banque - Assurance"
+  ],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Assurance de la navigation de plaisance : quelles sont les garanties ?",
+      "url": "https://www.economie.gouv.fr/dgccrf/Publications/Vie-pratique/Fiches-pratiques/Assurance-de-la-navigation-de-plaisance"
+    }
+  ],
+  "slug": "faut-il-assurer-un-bateau-de-plaisance",
+  "path": [
+    {
+      "slug": "argent-impots-consommation",
+      "titre": "Argent - Impôts - Consommation"
+    },
+    {
+      "slug": "assurance-habitation",
+      "titre": "Assurance habitation"
+    }
+  ]
+}

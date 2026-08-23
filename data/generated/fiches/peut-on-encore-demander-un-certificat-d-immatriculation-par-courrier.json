@@ -1,0 +1,65 @@
+{
+  "id": "F21031",
+  "type_publication": "Fiche Question-réponse conditionnée",
+  "titre": "Peut-on encore demander un certificat d’immatriculation par courrier ?",
+  "theme": "Transports - Mobilité",
+  "description": "Les démarches d'immatriculation se font dorénavant sur internet sur le site de l'Agence nationale des titres sécurisés (ANTS).",
+  "type_fiche": "Question-réponse",
+  "date_modif": "2026-02-25",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F21031",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Transports - Mobilité",
+    "Carte grise (certificat d'immatriculation)",
+    "Peut-on encore demander un certificat d’immatriculation par courrier ?"
+  ],
+  "introduction": "",
+  "chapitres": [
+    {
+      "titre": "",
+      "contenu": [
+        "Non, vous ne pouvez plus demander un certificat d’immatriculation (appelé auparavant carte grise) par courrier. Vous ne pouvez plus vous rendre en préfecture ou sous-préfecture, ni y envoyer votre dossier.",
+        "Les démarches se font sur internet.",
+        "Vous pouvez réaliser vous-même ces démarches sur internet sur le site de l'Agence nationale des titres sécurisés (ANTS).",
+        "Immatriculation (site ANTS)",
+        "Des points numériques (avec ordinateurs, imprimantes et scanners) sont mis à votre disposition dans chaque préfecture et dans la plupart des sous-préfectures. Vous pouvez y accomplir la démarche. Vous pouvez être aidé par des médiateurs numériques si vous rencontrez des difficultés avec l'utilisation d'internet.",
+        "Vous pouvez aussi être accompagné dans votre démarche par une maison France Services.",
+        "Point d'accueil numérique",
+        "France Services / Maison de services au public",
+        "Vous pouvez demander à un professionnel de l'automobile habilité par le ministère de l'intérieur d'effectuer pour vous certaines démarches, notamment :",
+        "• Immatriculation d'un véhicule neuf (y compris cyclomoteur)",
+        "• Immatriculation d'un véhicule d'occasion ayant des plaques françaises (y compris cyclomoteur)",
+        "• Changement de locataire (pour les loueurs)",
+        "• Changement d’adresse (celui du locataire ne peut être fait que par les loueurs)",
+        "• Changement de titulaire d’un véhicule d’occasion (seuls les loueurs peuvent effectuer celui d’un véhicule de location)",
+        "• Déclaration d'achat ou de cession d'un véhicule",
+        "• Duplicata du certificat d’immatriculation",
+        "• Demande de fin d’usage de démonstration",
+        "• Demande d'un certificat de situation administrative (certificat de non gage)",
+        "• Réédition du certificat provisoire d’immatriculation (CPI)",
+        "• Déclaration d'achat ou de cession pour destruction",
+        "• Déclaration de destruction d'un véhicule.",
+        "Professionnel habilité pour l'immatriculation des véhicules"
+      ]
+    }
+  ],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [
+    "France Services / Maison de services au public",
+    "Point d'accueil numérique",
+    "34 00 - Informations sur le certificat d’immatriculation ou le permis de conduire"
+  ],
+  "pour_en_savoir_plus": [],
+  "slug": "peut-on-encore-demander-un-certificat-d-immatriculation-par-courrier",
+  "path": [
+    {
+      "slug": "transports-mobilite",
+      "titre": "Transports - Mobilité"
+    },
+    {
+      "slug": "carte-grise-certificat-d-immatriculation",
+      "titre": "Carte grise (certificat d'immatriculation)"
+    }
+  ]
+}

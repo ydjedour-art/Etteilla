@@ -1,0 +1,77 @@
+{
+  "id": "F23671",
+  "type_publication": "Fiche d'information conditionnée",
+  "titre": "Sécurité sociale : affiliation d'un agent public auprès de l'assurance maladie",
+  "theme": "Social - Santé",
+  "description": "L’affiliation en matière d'assurance maladie est différente selon que vous êtes fonctionnaire (d'État, territorial ou hospitalier) ou contractuel.",
+  "type_fiche": "Fiche pratique",
+  "date_modif": "2026-08-07",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F23671",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Social - Santé",
+    "Affiliation à la sécurité sociale (assurance maladie)",
+    "Sécurité sociale : affiliation d'un agent public auprès de l'assurance maladie"
+  ],
+  "introduction": "L’affiliation en matière d'assurance maladie est différente selon que vous êtes fonctionnaire (d'État, territorial ou hospitalier) ou contractuel. Nous vous exposons les règles à connaître.",
+  "chapitres": [],
+  "references": [
+    {
+      "titre": "Code de la sécurité sociale : articles L712-3 à L712-5",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000006172761"
+    },
+    {
+      "titre": "Loi n°47-649 du 9 avril 1947 relative à l'institution d'un régime de sécurité sociale pour les fonctionnaires",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000865022"
+    },
+    {
+      "titre": "Code général de la fonction publique : article L131-4",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044427690/"
+    },
+    {
+      "titre": "Code général de la fonction publique : article L332-3",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044426714/"
+    },
+    {
+      "titre": "Décret n°2011-1474 du 8 novembre 2011 relatif à la protection sociale complémentaire des agents de la fonction publique territoriale (FPT)",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000024772150"
+    },
+    {
+      "titre": "Décret n°2007-1373 du 19 septembre 2007 relatif à la protection complémentaire des agents de la fonction publique de l'État (FPE)",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000652964"
+    },
+    {
+      "titre": "Circulaire du 25 mai 2012 relative à la protection sociale complémentaire dans la fonction publique territoriale (FPT)",
+      "url": "https://www.legifrance.gouv.fr/download/pdf/circ?id=35387"
+    }
+  ],
+  "services_en_ligne": [
+    {
+      "titre": "Demande de mutation (évolution de la situation professionnelle entraînant un changement de régime de Sécurité sociale)",
+      "url": "https://www.ameli.fr/sites/default/files/formulaires/172/750.cnam_mut_puma_2018_v5_remp.pdf",
+      "type": "Formulaire"
+    }
+  ],
+  "contacts": [],
+  "pour_en_savoir_plus": [
+    {
+      "titre": "Déclarer son changement d'adresse postale",
+      "url": "https://www.ameli.fr/assure/adresses-et-contacts/un-changement-de-situation/declarer-un-changement-de-coordonnees/declarer-une-nouvelle-adresse-postale"
+    },
+    {
+      "titre": "Déclarer une naissance",
+      "url": "https://www.ameli.fr/assure/adresses-et-contacts/un-changement-de-situation/maternite-et-paternite/declarer-une-naissance"
+    }
+  ],
+  "slug": "securite-sociale-affiliation-d-un-agent-public-aupres-de-l-assurance-maladie",
+  "path": [
+    {
+      "slug": "social-sante",
+      "titre": "Social - Santé"
+    },
+    {
+      "slug": "affiliation-a-la-securite-sociale-assurance-maladie",
+      "titre": "Affiliation à la sécurité sociale (assurance maladie)"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "F39713",
+  "type_publication": "Recherche guidée",
+  "titre": "Dépôt de garantie",
+  "theme": "Logement",
+  "description": "Dépôt de garantie",
+  "type_fiche": "Recherche guidée",
+  "date_modif": "2026-06-09",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F39713",
+  "fil_ariane": [
+    "Accueil particuliers",
+    "Logement",
+    "Location immobilière : bail d’habitation (contrat de location)",
+    "Dépôt de garantie"
+  ],
+  "introduction": "",
+  "chapitres": [],
+  "references": [],
+  "services_en_ligne": [],
+  "contacts": [],
+  "pour_en_savoir_plus": [],
+  "slug": "depot-de-garantie",
+  "path": [
+    {
+      "slug": "logement",
+      "titre": "Logement"
+    },
+    {
+      "slug": "location-immobiliere-bail-d-habitation-contrat-de-location",
+      "titre": "Location immobilière : bail d’habitation (contrat de location)"
+    }
+  ]
+}
