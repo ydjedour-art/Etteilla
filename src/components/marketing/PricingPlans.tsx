@@ -20,7 +20,7 @@ export function PricingPlans({ compact = false }: { compact?: boolean }) {
   return (
     <div>
       {/* Bascule mensuel / annuel */}
-      <div className="mx-auto flex w-fit items-center gap-1 rounded-full border border-ink/10 bg-card p-1 text-sm font-bold">
+      <div className="mx-auto flex w-fit items-center gap-1 border border-ink/10 bg-card p-1 text-sm font-bold">
         {(
           [
             { key: "mensuel" as const, label: "Mensuel" },
@@ -31,7 +31,7 @@ export function PricingPlans({ compact = false }: { compact?: boolean }) {
             key={option.key}
             type="button"
             onClick={() => setBilling(option.key)}
-            className={`rounded-full px-4 py-2 transition-colors ${
+            className={`px-4 py-2 transition-colors ${
               billing === option.key
                 ? "bg-primary text-accent-foreground"
                 : "text-ink-soft hover:text-ink"
@@ -55,7 +55,7 @@ export function PricingPlans({ compact = false }: { compact?: boolean }) {
             >
               {plan.badge && (
                 <span
-                  className={`absolute -top-3 left-6 rounded-full px-3 py-1 text-xs font-semibold ${
+                  className={`absolute -top-3 left-6 px-3 py-1 text-xs font-semibold ${
                     plan.highlighted ? "bg-primary text-accent-foreground" : "bg-flash/10 text-flash"
                   }`}
                 >

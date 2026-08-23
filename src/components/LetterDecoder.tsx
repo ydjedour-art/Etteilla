@@ -102,7 +102,7 @@ export function LetterDecoder() {
               key={example}
               type="button"
               onClick={() => setText(example)}
-              className="rounded-full border border-ink/10 px-3 py-1.5 text-xs text-ink-soft hover:border-primary/40 hover:text-primary"
+              className="border border-ink/10 px-3 py-1.5 text-xs text-ink-soft hover:border-primary/40 hover:text-primary"
             >
               {example}
             </button>
@@ -132,7 +132,7 @@ export function LetterDecoder() {
           <div className="flex flex-wrap items-start justify-between gap-3">
             <p className="font-display text-lg font-semibold text-ink">{result.type}</p>
             <span
-              className={`whitespace-nowrap rounded-full px-3 py-1 text-xs font-bold ${URGENCE_STYLE[result.urgence]}`}
+              className={`whitespace-nowrap px-3 py-1 text-xs font-bold ${URGENCE_STYLE[result.urgence]}`}
             >
               Urgence {result.urgence}
             </span>

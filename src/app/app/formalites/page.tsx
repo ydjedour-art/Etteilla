@@ -41,7 +41,7 @@ export default async function FormalitesPage() {
                         {template.name}
                       </h3>
                     </div>
-                    <span className="whitespace-nowrap rounded-full bg-primary/10 px-3 py-1 text-xs font-medium text-primary">
+                    <span className="whitespace-nowrap bg-primary/10 px-3 py-1 text-xs font-medium text-primary">
                       {AUTOMATION_LABELS[template.automationLevel]}
                     </span>
                   </div>

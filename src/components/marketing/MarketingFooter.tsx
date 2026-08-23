@@ -4,13 +4,15 @@ import { LockIcon, MapPinIcon, ShieldIcon } from "@/components/icons";
 /** Pied de page commun aux pages du portail visiteur. */
 export function MarketingFooter() {
   return (
-    <footer className="border-t border-ink/10 bg-bg">
+    <footer className="border-t border-ink/10 bg-bg pb-28">
       <div className="mx-auto max-w-marketing px-6 py-12">
         <div className="grid gap-10 sm:grid-cols-4">
           <div>
             <div className="flex items-center gap-2">
               <BrandMark className="h-7 w-7 shrink-0" />
-              <span className="font-display text-lg font-semibold text-ink">IZY/D</span>
+              <span className="font-display text-lg font-black uppercase tracking-tight text-ink">
+                IZY<span className="text-primary">/</span>D
+              </span>
             </div>
             <p className="mt-3 text-sm text-ink-soft">
               On s&apos;occupe de ton administratif. Toi, tu vis.

@@ -48,7 +48,7 @@ export default function ProfilPage() {
                 <div className="flex items-start justify-between gap-2">
                   <p className="font-semibold text-ink">{plan.name}</p>
                   {active && (
-                    <span className="inline-flex items-center gap-1 rounded-full bg-primary px-2.5 py-1 text-xs font-medium text-accent-foreground">
+                    <span className="inline-flex items-center gap-1 bg-primary px-2.5 py-1 text-xs font-medium text-accent-foreground">
                       <CheckIcon className="h-3 w-3" /> Actif
                     </span>
                   )}

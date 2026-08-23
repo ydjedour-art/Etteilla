@@ -16,9 +16,9 @@ const STATUS_LABEL: Record<Status, string> = {
 };
 
 const STATUS_STYLE: Record<Status, string> = {
-  todo: "bg-attention/10 text-attention",
-  done: "bg-success/10 text-success",
-  wait: "bg-ink/5 text-ink-soft",
+  todo: "border-attention/30 text-attention",
+  done: "border-success/30 text-success",
+  wait: "border-ink/15 text-ink-soft",
 };
 
 const ROWS: { icon: string; title: string; subtitle: string; status: Status; animated?: boolean }[] = [
@@ -61,50 +61,55 @@ export function EspaceCard() {
 
   return (
     <div className="relative mx-auto w-full max-w-sm">
-      <div
-        aria-hidden="true"
-        className="absolute -inset-6 -z-10 rounded-[2.5rem] bg-gradient-to-br from-primary to-flash opacity-25 blur-3xl"
-      />
-      <div className="card-surface animate-card-float relative p-6">
-        <div className="flex items-start justify-between gap-3">
-          <div>
-            <p className="font-display text-lg font-semibold text-ink">Ton espace</p>
-            <p className="mt-0.5 text-sm text-ink-soft">3 démarches suivies · 0 en retard</p>
+      <div className="card-surface animate-card-float relative shadow-2xl shadow-black/20">
+        {/* Barre de titre façon terminal — trois points, label, badge LIVE. */}
+        <div className="flex items-center justify-between border-b border-ink/10 px-4 py-3">
+          <div className="flex items-center gap-2">
+            <span className="h-2 w-2 rounded-full bg-primary" />
+            <span className="h-2 w-2 rounded-full bg-yellow" />
+            <span className="h-2 w-2 rounded-full bg-cyan" />
           </div>
-          <span className="whitespace-nowrap rounded-full bg-primary px-3 py-1.5 text-xs font-bold text-accent-foreground">
-            Tout est sous contrôle
-          </span>
+          <span className="font-mono text-[10px] uppercase tracking-widest text-ink-soft">IZY/D · Ton espace</span>
+          <span className="border border-cyan/30 px-2 py-0.5 font-mono text-[9px] text-cyan">LIVE</span>
         </div>
 
-        <div className="mt-5 space-y-2.5">
-          {ROWS.map((row) => {
-            const status: Status = row.animated && sent ? "done" : row.status;
-            const label = row.animated && sent ? "Envoyé ✓" : STATUS_LABEL[row.status];
-            return (
-              <div
-                key={row.title}
-                className="flex items-center gap-3 rounded-2xl border border-ink/10 bg-surface p-3.5"
-              >
-                <span className="flex h-9 w-9 shrink-0 items-center justify-center rounded-xl border border-ink/10 bg-card text-lg">
-                  {row.icon}
-                </span>
-                <span className="min-w-0 flex-1">
-                  <span className="block truncate text-sm font-bold text-ink">{row.title}</span>
-                  <span className="block truncate text-xs text-ink-soft">{row.subtitle}</span>
-                </span>
-                <span
-                  className={`whitespace-nowrap rounded-full px-2.5 py-1 text-[11px] font-bold transition-colors ${STATUS_STYLE[status]}`}
+        <div className="p-5">
+          <div className="flex items-start justify-between gap-3">
+            <p className="text-sm font-semibold text-ink">3 démarches suivies · 0 en retard</p>
+          </div>
+
+          <div className="mt-3 flex items-center gap-2 border border-yellow/20 bg-yellow/5 px-3 py-2">
+            <span className="text-yellow">✓</span>
+            <span className="font-mono text-xs text-yellow/90">Tout est sous contrôle</span>
+          </div>
+
+          <div className="mt-4 space-y-0">
+            {ROWS.map((row) => {
+              const status: Status = row.animated && sent ? "done" : row.status;
+              const label = row.animated && sent ? "Envoyé ✓" : STATUS_LABEL[row.status];
+              return (
+                <div
+                  key={row.title}
+                  className="flex items-center gap-3 border-b border-ink/05 py-2.5"
                 >
-                  {label}
-                </span>
-              </div>
-            );
-          })}
-        </div>
+                  <span className="text-base">{row.icon}</span>
+                  <span className="min-w-0 flex-1">
+                    <span className="block truncate text-xs text-ink/80">{row.title}</span>
+                  </span>
+                  <span
+                    className={`whitespace-nowrap border px-2 py-0.5 font-mono text-[9px] transition-colors ${STATUS_STYLE[status]}`}
+                  >
+                    {label}
+                  </span>
+                </div>
+              );
+            })}
+          </div>
 
-        <div className="mt-5 flex items-center gap-2 border-t border-ink/10 pt-4 text-sm text-ink-soft">
-          <span aria-hidden="true" className="text-base">🕊️</span>
-          Une démarche de moins à porter. On te tient au courant.
+          <div className="mt-3 flex items-center gap-1.5 text-[10px] text-ink-soft">
+            <span aria-hidden="true">🕊</span>
+            On surveille tout pour toi
+          </div>
         </div>
       </div>
     </div>

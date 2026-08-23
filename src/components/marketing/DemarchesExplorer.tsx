@@ -57,7 +57,7 @@ export function DemarchesExplorer({ templates }: { templates: FormalityTemplate[
           <button
             type="button"
             onClick={() => setCategory(null)}
-            className={`rounded-full px-3.5 py-1.5 text-xs font-bold transition-colors ${
+            className={`px-3.5 py-1.5 text-xs font-bold transition-colors ${
               category === null
                 ? "bg-primary text-accent-foreground"
                 : "bg-card text-ink-soft ring-1 ring-inset ring-ink/10 hover:text-ink"
@@ -70,7 +70,7 @@ export function DemarchesExplorer({ templates }: { templates: FormalityTemplate[
               key={cat}
               type="button"
               onClick={() => setCategory(cat === category ? null : cat)}
-              className={`rounded-full px-3.5 py-1.5 text-xs font-bold transition-colors ${
+              className={`px-3.5 py-1.5 text-xs font-bold transition-colors ${
                 category === cat
                   ? "bg-primary text-accent-foreground"
                   : "bg-card text-ink-soft ring-1 ring-inset ring-ink/10 hover:text-ink"
@@ -101,7 +101,7 @@ export function DemarchesExplorer({ templates }: { templates: FormalityTemplate[
                   <span aria-hidden="true" className="text-2xl">
                     {categoryEmoji(template.category)}
                   </span>
-                  <span className="whitespace-nowrap rounded-full bg-primary/10 px-2.5 py-1 text-[11px] font-bold text-primary">
+                  <span className="whitespace-nowrap bg-primary/10 px-2.5 py-1 text-[11px] font-bold text-primary">
                     {AUTOMATION_LABELS[template.automationLevel]}
                   </span>
                 </div>

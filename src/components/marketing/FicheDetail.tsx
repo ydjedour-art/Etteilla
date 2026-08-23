@@ -104,7 +104,7 @@ export function FicheDetail({
 
         <Link
           href="/onboarding"
-          className="mt-6 inline-flex items-center gap-1.5 rounded-full bg-primary px-4 py-2 text-sm font-bold text-accent-foreground hover:bg-primary-hover"
+          className="mt-6 inline-flex items-center gap-1.5 bg-primary px-4 py-2 text-sm font-bold text-accent-foreground hover:bg-primary-hover"
         >
           😌 On s&apos;en occupe pour toi <ArrowRightIcon className="h-4 w-4" />
         </Link>

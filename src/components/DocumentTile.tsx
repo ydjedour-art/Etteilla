@@ -24,7 +24,7 @@ export function DocumentTile({ document }: { document: VaultDocument }) {
           <p className="font-medium text-ink">{document.label}</p>
         </div>
         <span
-          className={`whitespace-nowrap rounded-full px-2.5 py-1 text-xs font-medium ${
+          className={`whitespace-nowrap px-2.5 py-1 text-xs font-medium ${
             VALIDITY_STYLES[document.validityStatus]
           }`}
         >

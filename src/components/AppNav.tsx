@@ -69,7 +69,9 @@ export function AppNav() {
       <div className="hidden items-center justify-between gap-2.5 px-6 py-6 sm:flex">
         <div className="flex items-center gap-2.5">
           <BrandMark className="h-8 w-8 shrink-0" />
-          <span className="font-display text-base font-semibold text-ink">IZY/D</span>
+          <span className="font-display text-base font-black uppercase tracking-tight text-ink">
+            IZY<span className="text-primary">/</span>D
+          </span>
         </div>
         <ThemeToggle />
       </div>

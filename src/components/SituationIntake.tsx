@@ -79,7 +79,7 @@ export function SituationIntake() {
                 setQuery(example);
                 setSubmittedQuery(example);
               }}
-              className="rounded-full border border-ink/10 px-3 py-1.5 text-xs text-ink-soft hover:border-primary/40 hover:text-primary"
+              className="border border-ink/10 px-3 py-1.5 text-xs text-ink-soft hover:border-primary/40 hover:text-primary"
             >
               {example}
             </button>

@@ -72,10 +72,10 @@ export default function FormaliteDetailPage({
       </div>
 
       <div className="flex flex-wrap gap-3 text-sm">
-        <span className="inline-flex items-center gap-1.5 rounded-full bg-primary/10 px-3 py-1.5 font-medium text-primary">
+        <span className="inline-flex items-center gap-1.5 bg-primary/10 px-3 py-1.5 font-medium text-primary">
           <ClockIcon /> {template.estimatedDurationMinutes} min de votre temps
         </span>
-        <span className="inline-flex items-center gap-1.5 rounded-full bg-primary/10 px-3 py-1.5 font-medium text-primary">
+        <span className="inline-flex items-center gap-1.5 bg-primary/10 px-3 py-1.5 font-medium text-primary">
           <RepeatIcon /> {RECURRENCE_LABELS[template.recurrence]}
         </span>
       </div>
@@ -102,7 +102,7 @@ export default function FormaliteDetailPage({
         <ol className="mt-3 space-y-3">
           {template.steps.map((step, index) => (
             <li key={step.title} className="flex gap-4 rounded-xl bg-card p-4 border border-ink/10">
-              <span className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full bg-primary/10 text-sm font-semibold text-primary">
+              <span className="flex h-7 w-7 shrink-0 items-center justify-center bg-primary/10 text-sm font-semibold text-primary">
                 {index + 1}
               </span>
               <div>

@@ -5,7 +5,7 @@ import { STATUS_LABELS, STATUS_STYLES, type DossierStatus } from "@/lib/types";
 export function StatusPill({ status }: { status: DossierStatus }) {
   return (
     <span
-      className={`inline-flex items-center rounded-full px-3 py-1 text-sm font-medium ${STATUS_STYLES[status]}`}
+      className={`inline-flex items-center px-3 py-1 text-sm font-medium ${STATUS_STYLES[status]}`}
     >
       {STATUS_LABELS[status]}
     </span>

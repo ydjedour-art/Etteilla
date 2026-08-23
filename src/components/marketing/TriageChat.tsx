@@ -185,7 +185,7 @@ export function TriageChat() {
                 key={example}
                 type="button"
                 onClick={() => start(example)}
-                className="rounded-full border border-ink/10 px-3 py-1.5 text-xs text-ink-soft hover:border-primary/40 hover:text-primary"
+                className="border border-ink/10 px-3 py-1.5 text-xs text-ink-soft hover:border-primary/40 hover:text-primary"
               >
                 {example}
               </button>
@@ -244,7 +244,7 @@ export function TriageChat() {
                   {state.data.recap.documents.map((doc) => (
                     <li
                       key={doc}
-                      className="rounded-full border border-ink/10 bg-card px-3 py-1 text-xs font-medium text-ink"
+                      className="border border-ink/10 bg-card px-3 py-1 text-xs font-medium text-ink"
                     >
                       {doc}
                     </li>
