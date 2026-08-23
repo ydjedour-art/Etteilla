@@ -1,28 +1,13 @@
 import { CtaBanner } from "@/components/marketing/CtaBanner";
 import { DemarchesExplorer } from "@/components/marketing/DemarchesExplorer";
-import { FicheSearch, type SearchableFiche } from "@/components/marketing/FicheSearch";
 import { MarketingFooter } from "@/components/marketing/MarketingFooter";
 import { MarketingHeader } from "@/components/marketing/MarketingHeader";
 import { Reveal } from "@/components/ScrollReveal";
-import { ThemeGrid } from "@/components/marketing/ThemeGrid";
 import { TriageChat } from "@/components/marketing/TriageChat";
 import { getFormalityTemplates } from "@/lib/data";
-import { getArborescence, getFicheIndex } from "@/lib/generated-data";
 
 export default async function DemarchesPage() {
-  const [templates, arborescence, index] = await Promise.all([
-    getFormalityTemplates(),
-    getArborescence(),
-    getFicheIndex(),
-  ]);
-
-  const searchIndex: SearchableFiche[] = index.map((entry) => ({
-    slug: entry.slug,
-    titre: entry.titre,
-    theme: entry.theme,
-    themeSlug: entry.themeSlug,
-    dossierSlug: entry.dossierSlug,
-  }));
+  const templates = await getFormalityTemplates();
 
   return (
     <main>
@@ -50,30 +35,6 @@ export default async function DemarchesPage() {
             </summary>
             <div className="mt-8 text-left">
               <DemarchesExplorer templates={templates} />
-            </div>
-          </details>
-        </Reveal>
-      </section>
-
-      <section className="border-t border-ink/10 bg-surface py-16 sm:py-20">
-        <Reveal className="mx-auto max-w-lg px-6 text-center">
-          <h2 className="font-display text-xl font-semibold text-ink">
-            Pas dans la liste ? 🔍
-          </h2>
-          <p className="mt-2 text-sm text-ink-soft">
-            On garde aussi {index.length} fiches officielles en réserve, au cas où.
-          </p>
-          <div className="mt-6 text-left">
-            <FicheSearch index={searchIndex} />
-          </div>
-
-          <details className="group mt-6">
-            <summary className="inline-flex cursor-pointer list-none items-center gap-1.5 text-sm font-bold text-primary">
-              Ou parcourir par thème
-              <span aria-hidden="true" className="transition-transform group-open:rotate-90">→</span>
-            </summary>
-            <div className="mt-6 text-left">
-              <ThemeGrid arborescence={arborescence} />
             </div>
           </details>
         </Reveal>
