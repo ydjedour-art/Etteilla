@@ -29,7 +29,7 @@ export default async function ThemePage({ params }: { params: { theme: string } 
       <section className="border-b border-ink/10 bg-surface">
         <div className="mx-auto max-w-marketing px-6 py-10 sm:py-14">
           <Breadcrumb items={[{ label: "Démarches", href: "/demarches" }, { label: theme.titre }]} />
-          <h1 className="mt-4 flex items-center gap-3 font-display text-3xl font-extrabold leading-[1.1] text-ink sm:text-4xl">
+          <h1 className="mt-4 flex items-center gap-3 font-display text-3xl font-semibold leading-[1.1] text-ink sm:text-4xl">
             <span aria-hidden="true">{themeEmoji(theme.slug)}</span>
             {theme.titre}
           </h1>
@@ -52,7 +52,7 @@ export default async function ThemePage({ params }: { params: { theme: string } 
               <span aria-hidden="true" className="text-xl">
                 {themeEmoji(theme.slug)}
               </span>
-              <h2 className="mt-2 font-display text-lg font-extrabold text-ink">{dossier.titre}</h2>
+              <h2 className="mt-2 font-display text-lg font-semibold text-ink">{dossier.titre}</h2>
               <p className="mt-2 text-sm text-ink-soft">
                 {dossier.type === "dossier" ? dossier.enfants.length : 0} fiche
                 {(dossier.type === "dossier" ? dossier.enfants.length : 0) > 1 ? "s" : ""}
@@ -69,7 +69,7 @@ export default async function ThemePage({ params }: { params: { theme: string } 
                 <span aria-hidden="true" className="text-xl">
                   {themeEmoji(theme.slug)}
                 </span>
-                <h2 className="mt-2 font-display text-lg font-extrabold text-ink">{fiche.titre}</h2>
+                <h2 className="mt-2 font-display text-lg font-semibold text-ink">{fiche.titre}</h2>
                 {fiche.description && (
                   <p className="mt-2 line-clamp-3 text-sm text-ink-soft">{fiche.description}</p>
                 )}

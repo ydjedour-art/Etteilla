@@ -7,7 +7,7 @@ export function AssistantBubble({ message }: { message: AssistantMessage }) {
       <div
         className={`max-w-[85%] rounded-2xl px-4 py-3 text-[15px] leading-relaxed ${
           isUser
-            ? "bg-primary text-white"
+            ? "bg-primary text-accent-foreground"
             : "bg-primary/10 text-ink"
         }`}
       >

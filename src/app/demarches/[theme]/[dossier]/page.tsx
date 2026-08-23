@@ -61,7 +61,7 @@ export default async function DossierOrFichePage({
               { label: dossier.titre },
             ]}
           />
-          <h1 className="mt-4 flex items-center gap-3 font-display text-3xl font-extrabold leading-[1.1] text-ink sm:text-4xl">
+          <h1 className="mt-4 flex items-center gap-3 font-display text-3xl font-semibold leading-[1.1] text-ink sm:text-4xl">
             <span aria-hidden="true">{themeEmoji(theme.slug)}</span>
             {dossier.titre}
           </h1>
@@ -83,7 +83,7 @@ export default async function DossierOrFichePage({
                 <span aria-hidden="true" className="text-xl">
                   {themeEmoji(theme.slug)}
                 </span>
-                <h2 className="mt-2 font-display text-base font-extrabold text-ink">{fiche.titre}</h2>
+                <h2 className="mt-2 font-display text-base font-semibold text-ink">{fiche.titre}</h2>
                 {fiche.description && (
                   <p className="mt-2 line-clamp-3 text-sm text-ink-soft">{fiche.description}</p>
                 )}

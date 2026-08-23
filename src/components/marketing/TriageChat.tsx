@@ -97,7 +97,7 @@ export function TriageChat() {
         <span aria-hidden="true" className="text-xl">
           🧭
         </span>
-        <p className="font-display text-lg font-extrabold text-ink">Triage IZY/D</p>
+        <p className="font-display text-lg font-semibold text-ink">Triage IZY/D</p>
       </div>
       <p className="mt-1 text-sm text-ink-soft">
         Décris ta situation, 3-4 questions max, on te sort la bonne démarche.
@@ -110,7 +110,7 @@ export function TriageChat() {
             if (m.role === "user") {
               return (
                 <div key={i} className="flex justify-end">
-                  <div className="max-w-[85%] rounded-2xl bg-primary px-4 py-2.5 text-sm text-white">
+                  <div className="max-w-[85%] rounded-2xl bg-primary px-4 py-2.5 text-sm text-accent-foreground">
                     {m.content}
                   </div>
                 </div>
@@ -203,7 +203,7 @@ export function TriageChat() {
             </span>
             <div>
               <p className="text-xs font-bold text-ink-soft">{state.data.theme}</p>
-              <p className="font-display text-lg font-extrabold text-ink">{state.data.titre}</p>
+              <p className="font-display text-lg font-semibold text-ink">{state.data.titre}</p>
             </div>
           </div>
           <p className="mt-3 text-sm text-ink-soft">{state.data.resume}</p>

@@ -79,7 +79,7 @@ export function LetterDecoder() {
     <div>
       <div className="rounded-2xl border border-ink/10 bg-card p-6">
         <p className="eyebrow">Décrypteur IA</p>
-        <h2 className="mt-2 font-display text-xl font-extrabold text-ink">
+        <h2 className="mt-2 font-display text-xl font-semibold text-ink">
           Décrypte ta lettre
         </h2>
         <p className="mt-1 text-sm text-ink-soft">
@@ -114,7 +114,7 @@ export function LetterDecoder() {
             type="button"
             onClick={decode}
             disabled={!text.trim() || loading}
-            className="inline-flex min-h-[44px] items-center justify-center gap-2 rounded-xl bg-primary px-5 py-3 text-base font-bold text-white transition-colors hover:bg-primary-hover disabled:opacity-50 disabled:pointer-events-none"
+            className="inline-flex min-h-[44px] items-center justify-center gap-2 rounded-xl bg-primary px-5 py-3 text-base font-bold text-accent-foreground transition-colors hover:bg-primary-hover disabled:opacity-50 disabled:pointer-events-none"
           >
             {loading && <span className="spinner" aria-hidden="true" />}
             {loading ? "Décryptage…" : "Décrypter"}
@@ -130,7 +130,7 @@ export function LetterDecoder() {
       {result && (
         <div className="mt-6 rounded-2xl border border-ink/10 bg-card p-6">
           <div className="flex flex-wrap items-start justify-between gap-3">
-            <p className="font-display text-lg font-extrabold text-ink">{result.type}</p>
+            <p className="font-display text-lg font-semibold text-ink">{result.type}</p>
             <span
               className={`whitespace-nowrap rounded-full px-3 py-1 text-xs font-bold ${URGENCE_STYLE[result.urgence]}`}
             >
@@ -172,21 +172,21 @@ export function LetterDecoder() {
           <div className="mt-6 rounded-xl border border-ink/10 bg-surface p-4">
             {result.izyd.prise_en_charge ? (
               <>
-                <p className="font-display font-extrabold text-ink">
+                <p className="font-display font-semibold text-ink">
                   On peut s&apos;en occuper — {result.izyd.demarche}
                 </p>
                 <p className="mt-1 text-sm text-ink-soft">{result.izyd.raison}</p>
                 <button
                   type="button"
                   onClick={() => router.push("/onboarding")}
-                  className="mt-3 inline-flex min-h-[44px] items-center gap-1.5 rounded-xl bg-primary px-4 py-2.5 text-sm font-bold text-white hover:bg-primary-hover"
+                  className="mt-3 inline-flex min-h-[44px] items-center gap-1.5 rounded-xl bg-primary px-4 py-2.5 text-sm font-bold text-accent-foreground hover:bg-primary-hover"
                 >
                   On s&apos;en occupe <ArrowRightIcon className="h-4 w-4" />
                 </button>
               </>
             ) : (
               <>
-                <p className="font-display font-extrabold text-ink">Rien à déléguer ici</p>
+                <p className="font-display font-semibold text-ink">Rien à déléguer ici</p>
                 <p className="mt-1 text-sm text-ink-soft">{result.izyd.raison}</p>
               </>
             )}

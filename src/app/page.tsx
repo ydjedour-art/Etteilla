@@ -79,7 +79,7 @@ export default async function LandingPage() {
               <span aria-hidden="true" className="h-2 w-2 rounded-full bg-accent" />
               Conciergerie administrative · 100 % en ligne
             </span>
-            <h1 className="mt-6 font-display text-4xl font-extrabold leading-[1.05] text-ink sm:text-6xl">
+            <h1 className="mt-6 font-display text-4xl font-semibold leading-[1.05] text-ink sm:text-6xl">
               On s&apos;occupe de <span className="underline-accent">tes démarches</span>.
               <br />
               Toi, tu vis.
@@ -114,14 +114,14 @@ export default async function LandingPage() {
 
       {/* Le poids qu'on enlève */}
       <section className="mx-auto max-w-marketing px-6 py-16 sm:py-20">
-        <h2 className="max-w-xl font-display text-2xl font-extrabold text-ink sm:text-3xl">
+        <h2 className="max-w-xl font-display text-2xl font-semibold text-ink sm:text-3xl">
           Une enveloppe qu&apos;on n&apos;ose pas ouvrir.
         </h2>
         <p className="mt-4 max-w-xl text-lg text-ink-soft">
           Une date limite oubliée. Un jargon qui décourage. Ce n&apos;est pas de la
           flemme — c&apos;est lourd à porter seul·e.
         </p>
-        <p className="mt-4 max-w-xl font-display text-xl font-extrabold text-primary">
+        <p className="mt-4 max-w-xl font-display text-xl font-semibold text-primary">
           On s&apos;en occupe. Une démarche de moins à porter.
         </p>
       </section>
@@ -129,7 +129,7 @@ export default async function LandingPage() {
       {/* Triage IA */}
       <section className="border-y border-ink/10 bg-surface py-16 sm:py-20">
         <div className="mx-auto max-w-marketing px-6">
-          <h2 className="text-center font-display text-2xl font-extrabold text-ink sm:text-3xl">
+          <h2 className="text-center font-display text-2xl font-semibold text-ink sm:text-3xl">
             On te dit tout de suite si c&apos;est pour nous
           </h2>
           <p className="mx-auto mt-3 max-w-xl text-center text-ink-soft">
@@ -143,19 +143,19 @@ export default async function LandingPage() {
       </section>
 
       {/* Stats */}
-      <section className="bg-primary py-14 text-white">
+      <section className="bg-primary py-14 text-accent-foreground">
         <div className="mx-auto grid max-w-marketing gap-8 px-6 sm:grid-cols-3">
           <div className="text-center">
-            <p className="font-display text-4xl font-extrabold">{templates.length}</p>
-            <p className="mt-2 text-sm text-white/75">démarches couvertes au lancement</p>
+            <p className="font-display text-4xl font-semibold">{templates.length}</p>
+            <p className="mt-2 text-sm text-accent-foreground/75">démarches couvertes au lancement</p>
           </div>
           <div className="text-center">
-            <p className="font-display text-4xl font-extrabold">&lt; 5 min</p>
-            <p className="mt-2 text-sm text-white/75">de ton temps, en moyenne, par démarche</p>
+            <p className="font-display text-4xl font-semibold">&lt; 5 min</p>
+            <p className="mt-2 text-sm text-accent-foreground/75">de ton temps, en moyenne, par démarche</p>
           </div>
           <div className="text-center">
-            <p className="font-display text-4xl font-extrabold">100%</p>
-            <p className="mt-2 text-sm text-white/75">de tes documents hébergés en France</p>
+            <p className="font-display text-4xl font-semibold">100%</p>
+            <p className="mt-2 text-sm text-accent-foreground/75">de tes documents hébergés en France</p>
           </div>
         </div>
       </section>
@@ -164,7 +164,7 @@ export default async function LandingPage() {
       <section id="demarches" className="border-b border-ink/10 py-16 sm:py-20">
         <div className="mx-auto max-w-marketing px-6">
           <div className="flex flex-col items-start justify-between gap-4 sm:flex-row sm:items-end">
-            <h2 className="font-display text-2xl font-extrabold text-ink sm:text-3xl">
+            <h2 className="font-display text-2xl font-semibold text-ink sm:text-3xl">
               Ce qu&apos;on prend en charge
             </h2>
             <Link
@@ -198,7 +198,7 @@ export default async function LandingPage() {
       {/* Comment ça marche */}
       <section id="comment-ca-marche" className="py-16 sm:py-20">
         <div className="mx-auto max-w-marketing px-6">
-          <h2 className="font-display text-2xl font-extrabold text-ink sm:text-3xl">
+          <h2 className="font-display text-2xl font-semibold text-ink sm:text-3xl">
             Comment ça se passe
           </h2>
           <div className="mt-8 grid gap-6 sm:grid-cols-3">
@@ -210,7 +210,7 @@ export default async function LandingPage() {
                 >
                   {step.emoji}
                 </span>
-                <h3 className="mt-4 font-display text-lg font-extrabold text-ink">{step.title}</h3>
+                <h3 className="mt-4 font-display text-lg font-semibold text-ink">{step.title}</h3>
                 <p className="mt-2 text-ink-soft">{step.text}</p>
               </div>
             ))}
@@ -221,7 +221,7 @@ export default async function LandingPage() {
       {/* Scénarios (personas) */}
       <section className="border-y border-ink/10 bg-surface py-16 sm:py-20">
         <div className="mx-auto max-w-marketing px-6">
-          <h2 className="font-display text-2xl font-extrabold text-ink sm:text-3xl">
+          <h2 className="font-display text-2xl font-semibold text-ink sm:text-3xl">
             Des situations comme celle-ci
           </h2>
           <div className="mt-8 grid gap-6 sm:grid-cols-3">
@@ -229,7 +229,7 @@ export default async function LandingPage() {
               <figure key={scenario.name} className="card-surface flex h-full flex-col p-6">
                 <blockquote className="flex-1 text-ink">&laquo; {scenario.quote} &raquo;</blockquote>
                 <figcaption className="mt-5 flex items-center gap-3">
-                  <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-primary/10 font-display text-sm font-extrabold text-primary">
+                  <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-primary/10 font-display text-sm font-semibold text-primary">
                     {scenario.initials}
                   </span>
                   <span>
@@ -249,7 +249,7 @@ export default async function LandingPage() {
       {/* Tarifs */}
       <section id="tarifs" className="py-16 sm:py-20">
         <div className="mx-auto max-w-marketing px-6">
-          <h2 className="text-center font-display text-2xl font-extrabold text-ink sm:text-3xl">
+          <h2 className="text-center font-display text-2xl font-semibold text-ink sm:text-3xl">
             Trois formules. Zéro friction.
           </h2>
           <p className="mx-auto mt-3 max-w-xl text-center text-ink-soft">

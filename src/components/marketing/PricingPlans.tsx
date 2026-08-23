@@ -33,7 +33,7 @@ export function PricingPlans({ compact = false }: { compact?: boolean }) {
             onClick={() => setBilling(option.key)}
             className={`rounded-full px-4 py-2 transition-colors ${
               billing === option.key
-                ? "bg-primary text-white"
+                ? "bg-primary text-accent-foreground"
                 : "text-ink-soft hover:text-ink"
             }`}
           >
@@ -55,18 +55,18 @@ export function PricingPlans({ compact = false }: { compact?: boolean }) {
             >
               {plan.badge && (
                 <span
-                  className={`absolute -top-3 left-6 rounded-full px-3 py-1 text-xs font-extrabold ${
-                    plan.highlighted ? "bg-primary text-white" : "bg-flash/10 text-flash"
+                  className={`absolute -top-3 left-6 rounded-full px-3 py-1 text-xs font-semibold ${
+                    plan.highlighted ? "bg-primary text-accent-foreground" : "bg-flash/10 text-flash"
                   }`}
                 >
                   {plan.badge}
                 </span>
               )}
-              <p className="mt-2 font-display text-xl font-extrabold text-ink">{plan.name}</p>
+              <p className="mt-2 font-display text-xl font-semibold text-ink">{plan.name}</p>
               <p className="mt-1 text-sm text-ink-soft">{plan.tagline}</p>
 
               <p className="mt-5 flex items-baseline gap-1">
-                <span className="font-display text-3xl font-extrabold text-ink">
+                <span className="font-display text-3xl font-semibold text-ink">
                   {formatPrice(price)} €
                 </span>
                 <span className="text-sm text-ink-soft">/mois</span>
@@ -122,7 +122,7 @@ export function PricingPlans({ compact = false }: { compact?: boolean }) {
         <div className="card-surface mt-8 p-6 sm:p-8">
           <div className="flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
             <div>
-              <p className="font-display text-lg font-extrabold text-ink">
+              <p className="font-display text-lg font-semibold text-ink">
                 Pas envie de t&apos;abonner ? Paie à la carte.
               </p>
               <p className="mt-1 max-w-xl text-sm text-ink-soft">
@@ -137,7 +137,7 @@ export function PricingPlans({ compact = false }: { compact?: boolean }) {
           <div className="mt-5 grid gap-3 sm:grid-cols-4">
             {ACTE_TIERS.map((tier) => (
               <div key={tier.name} className="rounded-xl border border-ink/10 bg-surface p-4">
-                <p className="font-display text-lg font-extrabold text-primary">{tier.price}</p>
+                <p className="font-display text-lg font-semibold text-primary">{tier.price}</p>
                 <p className="mt-1 text-sm font-semibold text-ink">{tier.name}</p>
                 <p className="mt-1 text-xs text-ink-soft">{tier.description}</p>
               </div>

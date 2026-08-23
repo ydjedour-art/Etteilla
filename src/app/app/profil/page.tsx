@@ -48,7 +48,7 @@ export default function ProfilPage() {
                 <div className="flex items-start justify-between gap-2">
                   <p className="font-semibold text-ink">{plan.name}</p>
                   {active && (
-                    <span className="inline-flex items-center gap-1 rounded-full bg-primary px-2.5 py-1 text-xs font-medium text-white">
+                    <span className="inline-flex items-center gap-1 rounded-full bg-primary px-2.5 py-1 text-xs font-medium text-accent-foreground">
                       <CheckIcon className="h-3 w-3" /> Actif
                     </span>
                   )}
@@ -70,7 +70,7 @@ export default function ProfilPage() {
                   className={`mt-4 inline-flex items-center justify-center gap-2 rounded-xl px-4 py-2.5 text-sm font-bold transition-colors min-h-[44px] ${
                     active
                       ? "bg-transparent text-critical hover:bg-critical/10"
-                      : "bg-primary text-white hover:bg-primary-hover"
+                      : "bg-primary text-accent-foreground hover:bg-primary-hover"
                   }`}
                 >
                   {active ? "Résilier" : `Choisir ${plan.name}`}

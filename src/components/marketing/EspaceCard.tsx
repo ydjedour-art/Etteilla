@@ -68,10 +68,10 @@ export function EspaceCard() {
       <div className="card-surface animate-card-float relative p-6">
         <div className="flex items-start justify-between gap-3">
           <div>
-            <p className="font-display text-lg font-extrabold text-ink">Ton espace</p>
+            <p className="font-display text-lg font-semibold text-ink">Ton espace</p>
             <p className="mt-0.5 text-sm text-ink-soft">3 démarches suivies · 0 en retard</p>
           </div>
-          <span className="whitespace-nowrap rounded-full bg-primary px-3 py-1.5 text-xs font-bold text-white">
+          <span className="whitespace-nowrap rounded-full bg-primary px-3 py-1.5 text-xs font-bold text-accent-foreground">
             Tout est sous contrôle
           </span>
         </div>

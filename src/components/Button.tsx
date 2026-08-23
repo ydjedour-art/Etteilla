@@ -3,7 +3,7 @@ import type { ReactNode } from "react";
 
 type CommonProps = {
   children: ReactNode;
-  variant?: "primary" | "secondary" | "ghost";
+  variant?: "primary" | "secondary" | "ghost" | "inverted";
   className?: string;
 };
 
@@ -28,6 +28,9 @@ const VARIANT_STYLES: Record<NonNullable<CommonProps["variant"]>, string> = {
   primary: "bg-primary text-accent-foreground hover:bg-primary-hover",
   secondary: "bg-primary/10 text-primary hover:bg-primary/15",
   ghost: "bg-transparent text-ink hover:bg-ink/5",
+  // Réservé aux panneaux déjà teintés en --primary (CtaBanner…) : un bouton
+  // "primary" s'y fondrait dans le fond. Inverse la paire de couleurs.
+  inverted: "bg-accent-foreground text-primary hover:opacity-90",
 };
 
 const BASE =

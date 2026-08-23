@@ -10,7 +10,7 @@ export function MarketingFooter() {
           <div>
             <div className="flex items-center gap-2">
               <BrandMark className="h-7 w-7 shrink-0" />
-              <span className="font-display text-lg font-extrabold text-ink">IZY/D</span>
+              <span className="font-display text-lg font-semibold text-ink">IZY/D</span>
             </div>
             <p className="mt-3 text-sm text-ink-soft">
               On s&apos;occupe de ton administratif. Toi, tu vis.

@@ -59,7 +59,7 @@ function ChapterAccordion({ titre, contenu }: { titre: string; contenu: string[]
   }
   return (
     <details className="card-surface group p-5 open:pb-6">
-      <summary className="flex cursor-pointer list-none items-start justify-between gap-4 font-display text-base font-extrabold text-ink">
+      <summary className="flex cursor-pointer list-none items-start justify-between gap-4 font-display text-base font-semibold text-ink">
         {titre}
         <span aria-hidden="true" className="mt-0.5 shrink-0 text-ink-soft transition-transform group-open:rotate-45">
           +
@@ -93,7 +93,7 @@ export function FicheDetail({
       <div className="mx-auto max-w-content px-6 py-10 sm:py-14">
         <Breadcrumb items={breadcrumb} />
 
-        <h1 className="mt-4 flex items-start gap-3 font-display text-3xl font-extrabold leading-[1.1] text-ink sm:text-4xl">
+        <h1 className="mt-4 flex items-start gap-3 font-display text-3xl font-semibold leading-[1.1] text-ink sm:text-4xl">
           <span aria-hidden="true">{themeEmoji(themeSlug)}</span>
           {fiche.titre}
         </h1>
@@ -104,7 +104,7 @@ export function FicheDetail({
 
         <Link
           href="/onboarding"
-          className="mt-6 inline-flex items-center gap-1.5 rounded-full bg-primary px-4 py-2 text-sm font-bold text-white hover:bg-primary-hover"
+          className="mt-6 inline-flex items-center gap-1.5 rounded-full bg-primary px-4 py-2 text-sm font-bold text-accent-foreground hover:bg-primary-hover"
         >
           😌 On s&apos;en occupe pour toi <ArrowRightIcon className="h-4 w-4" />
         </Link>
@@ -119,7 +119,7 @@ export function FicheDetail({
 
         {hasHelp && (
           <section className="card-surface mt-8 p-6">
-            <h2 className="font-display text-lg font-extrabold text-ink">🤝 Qui peut t&apos;aider</h2>
+            <h2 className="font-display text-lg font-semibold text-ink">🤝 Qui peut t&apos;aider</h2>
 
             {fiche.services_en_ligne.length > 0 && (
               <ul className="mt-3 space-y-2 text-sm">

@@ -32,7 +32,7 @@ export default function TarifsPage() {
       {/* Hero */}
       <section className="hero-glow border-b border-ink/10">
         <div className="mx-auto max-w-marketing px-6 py-16 text-center sm:py-20">
-          <h1 className="font-display text-4xl font-extrabold leading-[1.05] text-ink sm:text-6xl">
+          <h1 className="font-display text-4xl font-semibold leading-[1.05] text-ink sm:text-6xl">
             Un tarif qui s&apos;adapte à ta vie,{" "}
             <span className="underline-accent">pas l&apos;inverse.</span>
           </h1>
@@ -51,7 +51,7 @@ export default function TarifsPage() {
       {/* Comparatif complet */}
       <section className="border-y border-ink/10 bg-surface py-16 sm:py-20">
         <div className="mx-auto max-w-marketing px-6">
-          <h2 className="text-center font-display text-2xl font-extrabold text-ink sm:text-3xl">
+          <h2 className="text-center font-display text-2xl font-semibold text-ink sm:text-3xl">
             Le détail, sans zone d&apos;ombre
           </h2>
 
@@ -63,7 +63,7 @@ export default function TarifsPage() {
                   {COMPARISON_COLUMNS.map((col, i) => (
                     <th
                       key={col}
-                      className={`px-5 py-4 text-center font-display text-base font-extrabold ${
+                      className={`px-5 py-4 text-center font-display text-base font-semibold ${
                         i === 2 ? "text-primary" : "text-ink"
                       }`}
                     >
@@ -100,7 +100,7 @@ export default function TarifsPage() {
 
       {/* FAQ facturation */}
       <section id="faq" className="mx-auto max-w-content px-6 py-16 sm:py-20">
-        <h2 className="text-center font-display text-2xl font-extrabold text-ink sm:text-3xl">
+        <h2 className="text-center font-display text-2xl font-semibold text-ink sm:text-3xl">
           Questions sur la facturation
         </h2>
         <div className="mt-10 divide-y divide-ink/10 rounded-2xl border border-ink/10 bg-card">

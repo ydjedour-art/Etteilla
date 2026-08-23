@@ -59,7 +59,7 @@ export function DemarchesExplorer({ templates }: { templates: FormalityTemplate[
             onClick={() => setCategory(null)}
             className={`rounded-full px-3.5 py-1.5 text-xs font-bold transition-colors ${
               category === null
-                ? "bg-primary text-white"
+                ? "bg-primary text-accent-foreground"
                 : "bg-card text-ink-soft ring-1 ring-inset ring-ink/10 hover:text-ink"
             }`}
           >
@@ -72,7 +72,7 @@ export function DemarchesExplorer({ templates }: { templates: FormalityTemplate[
               onClick={() => setCategory(cat === category ? null : cat)}
               className={`rounded-full px-3.5 py-1.5 text-xs font-bold transition-colors ${
                 category === cat
-                  ? "bg-primary text-white"
+                  ? "bg-primary text-accent-foreground"
                   : "bg-card text-ink-soft ring-1 ring-inset ring-ink/10 hover:text-ink"
               }`}
             >
@@ -105,7 +105,7 @@ export function DemarchesExplorer({ templates }: { templates: FormalityTemplate[
                     {AUTOMATION_LABELS[template.automationLevel]}
                   </span>
                 </div>
-                <h3 className="mt-3 font-display text-lg font-extrabold text-ink">{template.name}</h3>
+                <h3 className="mt-3 font-display text-lg font-semibold text-ink">{template.name}</h3>
                 <p className="text-xs text-ink-soft">{template.organisme}</p>
                 <p className="mt-3 text-xs font-semibold text-ink-soft">
                   ~{template.estimatedDurationMinutes} min de ton temps
